@@ -328,11 +328,11 @@
 	.extern FUN_overlay_d_93__021c88a4
 	.extern FUN_overlay_d_93__021c88b4
 	.extern FUN_overlay_d_93__021c88c8
-	.extern FUN_overlay_d_93__021d5440
-	.extern FUN_overlay_d_93__021d5444
-	.extern FUN_overlay_d_93__021d5448
-	.extern FUN_overlay_d_93__021d54c0
-	.extern FUN_overlay_d_93__021d554c
+	.extern BattleMon_GetBattleSlot
+	.extern BattleMon_GetSpecies
+	.extern BattleMon_GetMoveCount
+	.extern BattleMon_GetMove
+	.extern BattleMon_GetCurrentMoveMissingPP
 	.extern FUN_overlay_d_93__021d5584
 	.extern FUN_overlay_d_93__021d5778
 	.extern FUN_overlay_d_93__021d57fc
@@ -1478,7 +1478,7 @@ _021D7C90: ; jump table
 	.hword 0x005A ; case 4
 _021D7C9A:
 	add r0, r1, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	bl FUN_overlay_d_93__021e899c
 	str r0, [r4]
 	add sp, #0x10
@@ -1517,7 +1517,7 @@ _021D7CD0:
 	bx r3
 _021D7CEC:
 	add r0, r1, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	ldrh r1, [r6]
 	add r5, r0, #0
 	lsl r0, r1, #0x16
@@ -1625,7 +1625,7 @@ _021D7DD4:
 	cmp r0, #7
 	bne _021D7E06
 	add r0, r1, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	bl FUN_overlay_d_93__021e899c
 	add sp, #0x10
 	str r0, [r4]
@@ -1695,7 +1695,7 @@ _021D7E44:
 FUN_overlay_d_93__021d7eb4: ; 0x021D7EB4
 	push {r4, r5, r6, lr}
 	add r5, r0, #0
-	bl FUN_overlay_d_93__021d5444
+	bl BattleMon_GetSpecies
 	add r6, r0, #0
 	add r0, r5, #0
 	mov r1, #0x13
@@ -2025,7 +2025,7 @@ FUN_overlay_d_93__021d80bc: ; 0x021D80BC
 	bl FUN_overlay_d_93__021b8588
 	str r0, [sp, #8]
 	ldr r0, [sp, #4]
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	add r2, r0, #0
 	ldr r1, [sp]
 	add r0, r6, #0
@@ -2610,7 +2610,7 @@ _021D8498:
 	bl FUN_overlay_d_93__021d85b0
 	add r7, r0, #0
 	add r0, r6, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	ldr r1, _021D84EC ; =_021F0E78
 	add r6, r0, #0
 	ldr r1, [r1, r5]
@@ -2671,7 +2671,7 @@ _021D8504:
 	thumb_func_start FUN_overlay_d_93__021d8510
 FUN_overlay_d_93__021d8510: ; 0x021D8510
 	push {r3, r4, r5, lr}
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	add r5, r0, #0
 	mov r0, #4
 	add r1, r5, #0
@@ -2693,7 +2693,7 @@ _021D8536:
 	thumb_func_start FUN_overlay_d_93__021d8538
 FUN_overlay_d_93__021d8538: ; 0x021D8538
 	push {r3, lr}
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	mov r1, #4
 	bl FUN_overlay_d_93__021d7404
 	pop {r3, pc}
@@ -2704,7 +2704,7 @@ FUN_overlay_d_93__021d8538: ; 0x021D8538
 FUN_overlay_d_93__021d8548: ; 0x021D8548
 	push {r4, lr}
 	add r4, r0, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	mov r1, #4
 	bl FUN_overlay_d_93__021d7438
 	cmp r0, #0
@@ -2721,10 +2721,10 @@ FUN_overlay_d_93__021d8564: ; 0x021D8564
 	push {r3, r4, r5, r6, r7, lr}
 	add r6, r1, #0
 	add r7, r0, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	add r4, r0, #0
 	add r0, r6, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	add r5, r0, #0
 	mov r0, #4
 	add r1, r4, #0
@@ -3017,7 +3017,7 @@ _021D8A30:
 FUN_overlay_d_93__021d8e00: ; 0x021D8E00
 	push {r3, lr}
 	bl FUN_overlay_d_93__021c7cf4
-	bl FUN_overlay_d_93__021d5444
+	bl BattleMon_GetSpecies
 	ldr r1, _021D8E18 ; =0x000001A5
 	cmp r0, r1
 	bne _021D8E14
@@ -3668,7 +3668,7 @@ FUN_overlay_d_93__021da5bc: ; 0x021DA5BC
 	bl FUN_overlay_d_93__021d57fc
 	str r0, [sp]
 	add r0, r6, #0
-	bl FUN_overlay_d_93__021d5448
+	bl BattleMon_GetMoveCount
 	add r7, r0, #0
 	ldr r5, _021DA614 ; =0x00000000
 	beq _021DA610
@@ -3676,7 +3676,7 @@ FUN_overlay_d_93__021da5bc: ; 0x021DA5BC
 _021DA5D2:
 	add r0, r6, #0
 	add r1, r5, #0
-	bl FUN_overlay_d_93__021d54c0
+	bl BattleMon_GetMove
 	add r4, r0, #0
 	bl FUN_0201C1BC
 	cmp r0, #9
@@ -4088,7 +4088,7 @@ FUN_overlay_d_93__021db318: ; 0x021DB318
 	add r1, r4, #0
 	bl FUN_overlay_d_93__021c7cf4
 	add r6, r0, #0
-	bl FUN_overlay_d_93__021d5444
+	bl BattleMon_GetSpecies
 	ldr r1, _021DB370 ; =0x0000015F
 	cmp r0, r1
 	bne _021DB36E
@@ -4131,7 +4131,7 @@ FUN_overlay_d_93__021db374: ; 0x021DB374
 	add r4, r2, #0
 	bl FUN_overlay_d_93__021c7cf4
 	add r5, r0, #0
-	bl FUN_overlay_d_93__021d5444
+	bl BattleMon_GetSpecies
 	ldr r1, _021DB400 ; =0x0000015F
 	cmp r0, r1
 	bne _021DB3FC
@@ -4955,7 +4955,7 @@ _021DCED0:
 	lsl r0, r0, #0x10
 	lsr r7, r0, #0x10
 	add r0, r6, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	ldr r1, _021DCF20 ; =_021F1EA8
 	add r6, r0, #0
 	ldr r1, [r1, r4]
@@ -4988,7 +4988,7 @@ _021DCF20: .word 0x021F1EA8
 	thumb_func_start FUN_overlay_d_93__021dcf24
 FUN_overlay_d_93__021dcf24: ; 0x021DCF24
 	push {r4, r5, r6, lr}
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	add r1, r0, #0
 	mov r0, #5
 	bl FUN_overlay_d_93__021d732c
@@ -5063,7 +5063,7 @@ _021DCFA0: .word 0x021D7041
 	thumb_func_start FUN_overlay_d_93__021dcfa4
 FUN_overlay_d_93__021dcfa4: ; 0x021DCFA4
 	push {r3, lr}
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	mov r1, #5
 	bl FUN_overlay_d_93__021d7404
 	pop {r3, pc}
@@ -5074,7 +5074,7 @@ FUN_overlay_d_93__021dcfa4: ; 0x021DCFA4
 FUN_overlay_d_93__021dcfb4: ; 0x021DCFB4
 	push {r4, lr}
 	add r4, r0, #0
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	mov r1, #5
 	bl FUN_overlay_d_93__021d7438
 	cmp r0, #0
@@ -5327,7 +5327,7 @@ FUN_overlay_d_93__021dd368: ; 0x021DD368
 	push {r4, r5, r6, lr}
 	bl FUN_overlay_d_93__021c7cf4
 	add r6, r0, #0
-	bl FUN_overlay_d_93__021d5448
+	bl BattleMon_GetMoveCount
 	add r4, r0, #0
 	ldr r5, _021DD398 ; =0x00000000
 	beq _021DD394
@@ -5379,7 +5379,7 @@ FUN_overlay_d_93__021dd39c: ; 0x021DD39C
 	cmp r0, #0
 	beq _021DD3F8
 	add r0, r4, #0
-	bl FUN_overlay_d_93__021d5448
+	bl BattleMon_GetMoveCount
 	add r6, r0, #0
 	ldr r5, _021DD46C ; =0x00000000
 	beq _021DD3F8
@@ -5388,7 +5388,7 @@ _021DD3DE:
 	lsl r1, r5, #0x18
 	add r0, r4, #0
 	lsr r1, r1, #0x18
-	bl FUN_overlay_d_93__021d554c
+	bl BattleMon_GetCurrentMoveMissingPP
 	cmp r0, #0
 	beq _021DD3F2
 	lsl r0, r5, #0x18
@@ -5434,7 +5434,7 @@ _021DD3F8:
 	bl FUN_overlay_d_93__021c8860
 	add r0, r4, #0
 	add r1, r7, #0
-	bl FUN_overlay_d_93__021d54c0
+	bl BattleMon_GetMove
 	add r1, r0, #0
 	add r0, r5, #0
 	add r0, #8

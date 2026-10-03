@@ -307,7 +307,7 @@
 	.extern FUN_0220F3E8
 	.extern FUN_overlay_d_93__021b9940
 	.extern FUN_overlay_d_93__021b9a24
-	.extern FUN_overlay_d_93__021d5440
+	.extern BattleMon_GetBattleSlot
 	.extern FUN_overlay_d_93__021d5750
 	.extern FUN_overlay_d_93__021e8918
 	.extern FUN_overlay_d_93__021e8a98
@@ -1045,7 +1045,7 @@ FUN_overlay_d_93__021efc1c: ; 0x021EFC1C
 	str r3, [sp, #4]
 	add r0, r2, #0
 	str r1, [sp]
-	bl FUN_overlay_d_93__021d5440
+	bl BattleMon_GetBattleSlot
 	str r0, [sp, #8]
 	mov r0, #0x4d
 	lsl r0, r0, #2
