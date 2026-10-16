@@ -1,0 +1,105 @@
+{
+    "base_stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 50,
+        "speed": 30,
+        "special_attack": 70,
+        "special_defense": 50
+    },
+    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_ONLY",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_GRASS", "EGG_GROUP_GRASS" ],
+    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_OWN_TEMPO" ],
+    "unk_1A": 102,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_GREEN",
+    "flip_sprite": false,
+    "unk_22": 56,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_ABSORB" ],
+            [ 4, "MOVE_GROWTH" ],
+            [ 8, "MOVE_LEECH_SEED" ],
+            [ 10, "MOVE_SLEEP_POWDER" ],
+            [ 13, "MOVE_MEGA_DRAIN" ],
+            [ 17, "MOVE_SYNTHESIS" ],
+            [ 19, "MOVE_MAGICAL_LEAF" ],
+            [ 22, "MOVE_STUN_SPORE" ],
+            [ 26, "MOVE_GIGA_DRAIN" ],
+            [ 28, "MOVE_AROMATHERAPY" ],
+            [ 31, "MOVE_HELPING_HAND" ],
+            [ 35, "MOVE_ENERGY_BALL" ],
+            [ 37, "MOVE_ENTRAINMENT" ],
+            [ 40, "MOVE_SUNNY_DAY" ],
+            [ 44, "MOVE_AFTER_YOU" ],
+            [ 46, "MOVE_LEAF_STORM" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM20",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM32",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM53",
+            "TM70",
+            "TM85",
+            "TM86",
+            "TM87",
+            "TM90",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_NATURAL_GIFT",
+            "MOVE_CHARM",
+            "MOVE_ENDURE",
+            "MOVE_INGRAIN",
+            "MOVE_WORRY_SEED",
+            "MOVE_GRASS_WHISTLE",
+            "MOVE_SWEET_SCENT",
+            "MOVE_BIDE",
+            "MOVE_HEALING_WISH"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_USE_ITEM",
+            "ITEM_SUN_STONE",
+            "SPECIES_LILLIGANT"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 5,
+        "weight": 66
+    },
+    "offspring": "SPECIES_PETILIL"
+}

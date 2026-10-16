@@ -1,0 +1,111 @@
+{
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "speed": 55,
+        "special_attack": 85,
+        "special_defense": 60
+    },
+    "types": [ "TYPE_FIRE", "TYPE_FIGHTING" ],
+    "catch_rate": 45,
+    "unk_09": 2,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_BLAZE", "ABILITY_NONE" ],
+    "unk_1A": 3,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_RED",
+    "flip_sprite": false,
+    "unk_22": 142,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SCRATCH" ],
+            [ 1, "MOVE_GROWL" ],
+            [ 1, "MOVE_FOCUS_ENERGY" ],
+            [ 1, "MOVE_EMBER" ],
+            [ 7, "MOVE_FOCUS_ENERGY" ],
+            [ 13, "MOVE_EMBER" ],
+            [ 16, "MOVE_DOUBLE_KICK" ],
+            [ 17, "MOVE_PECK" ],
+            [ 21, "MOVE_SAND_ATTACK" ],
+            [ 28, "MOVE_BULK_UP" ],
+            [ 32, "MOVE_QUICK_ATTACK" ],
+            [ 39, "MOVE_SLASH" ],
+            [ 43, "MOVE_MIRROR_MOVE" ],
+            [ 50, "MOVE_SKY_UPPERCUT" ],
+            [ 54, "MOVE_FLARE_BLITZ" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM06",
+            "TM08",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM35",
+            "TM38",
+            "TM39",
+            "TM40",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM47",
+            "TM48",
+            "TM49",
+            "TM50",
+            "TM52",
+            "TM56",
+            "TM59",
+            "TM61",
+            "TM65",
+            "TM75",
+            "TM80",
+            "TM83",
+            "TM84",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01",
+            "HM04"
+        ],
+        "egg_moves": []
+    },
+    "unk_38": 2,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            36,
+            "SPECIES_BLAZIKEN"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 9,
+        "weight": 195
+    },
+    "offspring": "SPECIES_TORCHIC"
+}

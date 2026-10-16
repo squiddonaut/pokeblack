@@ -1,0 +1,115 @@
+{
+    "base_stats": {
+        "hp": 65,
+        "attack": 55,
+        "defense": 115,
+        "speed": 60,
+        "special_attack": 100,
+        "special_defense": 40
+    },
+    "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
+    "catch_rate": 45,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_GRASS", "EGG_GROUP_GRASS" ],
+    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_LEAF_GUARD" ],
+    "unk_1A": 144,
+    "unk_1B": 90,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BLUE",
+    "flip_sprite": false,
+    "unk_22": 87,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_INGRAIN" ],
+            [ 1, "MOVE_CONSTRICT" ],
+            [ 5, "MOVE_SLEEP_POWDER" ],
+            [ 8, "MOVE_ABSORB" ],
+            [ 12, "MOVE_GROWTH" ],
+            [ 15, "MOVE_POISON_POWDER" ],
+            [ 19, "MOVE_VINE_WHIP" ],
+            [ 22, "MOVE_BIND" ],
+            [ 26, "MOVE_MEGA_DRAIN" ],
+            [ 29, "MOVE_STUN_SPORE" ],
+            [ 33, "MOVE_KNOCK_OFF" ],
+            [ 36, "MOVE_ANCIENT_POWER" ],
+            [ 40, "MOVE_NATURAL_GIFT" ],
+            [ 43, "MOVE_SLAM" ],
+            [ 47, "MOVE_TICKLE" ],
+            [ 50, "MOVE_WRING_OUT" ],
+            [ 54, "MOVE_POWER_WHIP" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM15",
+            "TM17",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM32",
+            "TM33",
+            "TM36",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM53",
+            "TM68",
+            "TM70",
+            "TM75",
+            "TM77",
+            "TM86",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_FLAIL",
+            "MOVE_CONFUSION",
+            "MOVE_MEGA_DRAIN",
+            "MOVE_AMNESIA",
+            "MOVE_LEECH_SEED",
+            "MOVE_NATURE_POWER",
+            "MOVE_ENDEAVOR",
+            "MOVE_LEAF_STORM",
+            "MOVE_POWER_SWAP",
+            "MOVE_GIGA_DRAIN",
+            "MOVE_RAGE_POWDER",
+            "MOVE_NATURAL_GIFT"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL_KNOW_MOVE",
+            "MOVE_ANCIENT_POWER",
+            "SPECIES_TANGROWTH"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 10,
+        "weight": 350
+    },
+    "offspring": "SPECIES_TANGELA"
+}

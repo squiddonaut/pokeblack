@@ -1,0 +1,103 @@
+{
+    "base_stats": {
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "speed": 32,
+        "special_attack": 38,
+        "special_defense": 42
+    },
+    "types": [ "TYPE_GROUND", "TYPE_GROUND" ],
+    "catch_rate": 140,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 30,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_SLOW",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_SAND_STREAM", "ABILITY_NONE" ],
+    "unk_1A": 159,
+    "unk_1B": 60,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BROWN",
+    "flip_sprite": false,
+    "unk_22": 66,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 1, "MOVE_SAND_ATTACK" ],
+            [ 7, "MOVE_BITE" ],
+            [ 13, "MOVE_YAWN" ],
+            [ 19, "MOVE_TAKE_DOWN" ],
+            [ 19, "MOVE_DIG" ],
+            [ 25, "MOVE_SAND_TOMB" ],
+            [ 31, "MOVE_CRUNCH" ],
+            [ 37, "MOVE_EARTHQUAKE" ],
+            [ 44, "MOVE_DOUBLE_EDGE" ],
+            [ 50, "MOVE_FISSURE" ]
+        ],
+        "by_tm": [
+            "TM05",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM37",
+            "TM39",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM78",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_STOCKPILE",
+            "MOVE_SWALLOW",
+            "MOVE_SPIT_UP",
+            "MOVE_CURSE",
+            "MOVE_SLACK_OFF",
+            "MOVE_BODY_SLAM",
+            "MOVE_SAND_TOMB",
+            "MOVE_REVENGE",
+            "MOVE_SLEEP_TALK",
+            "MOVE_WHIRLWIND"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            34,
+            "SPECIES_HIPPOWDON"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 8,
+        "weight": 495
+    },
+    "offspring": "SPECIES_HIPPOPOTAS"
+}

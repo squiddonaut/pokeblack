@@ -1,0 +1,117 @@
+{
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "speed": 40,
+        "special_attack": 60,
+        "special_defense": 45
+    },
+    "types": [ "TYPE_GRASS", "TYPE_PSYCHIC" ],
+    "catch_rate": 90,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_SLOW",
+    "egg_groups": [ "EGG_GROUP_GRASS", "EGG_GROUP_GRASS" ],
+    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_NONE" ],
+    "unk_1A": 139,
+    "unk_1B": 120,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_PINK",
+    "flip_sprite": false,
+    "unk_22": 65,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_BARRAGE" ],
+            [ 1, "MOVE_UPROAR" ],
+            [ 1, "MOVE_HYPNOSIS" ],
+            [ 7, "MOVE_REFLECT" ],
+            [ 11, "MOVE_LEECH_SEED" ],
+            [ 17, "MOVE_BULLET_SEED" ],
+            [ 19, "MOVE_STUN_SPORE" ],
+            [ 21, "MOVE_POISON_POWDER" ],
+            [ 23, "MOVE_SLEEP_POWDER" ],
+            [ 27, "MOVE_CONFUSION" ],
+            [ 33, "MOVE_WORRY_SEED" ],
+            [ 37, "MOVE_NATURAL_GIFT" ],
+            [ 43, "MOVE_SOLAR_BEAM" ],
+            [ 47, "MOVE_PSYCHIC" ],
+            [ 53, "MOVE_BESTOW" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM16",
+            "TM17",
+            "TM19",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM29",
+            "TM32",
+            "TM33",
+            "TM36",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM53",
+            "TM64",
+            "TM70",
+            "TM75",
+            "TM77",
+            "TM85",
+            "TM86",
+            "TM87",
+            "TM90",
+            "TM92",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_SYNTHESIS",
+            "MOVE_MOONLIGHT",
+            "MOVE_ANCIENT_POWER",
+            "MOVE_INGRAIN",
+            "MOVE_CURSE",
+            "MOVE_NATURE_POWER",
+            "MOVE_LUCKY_CHANT",
+            "MOVE_LEAF_STORM",
+            "MOVE_POWER_SWAP",
+            "MOVE_GIGA_DRAIN",
+            "MOVE_SKILL_SWAP",
+            "MOVE_NATURAL_GIFT",
+            "MOVE_BLOCK"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_USE_ITEM",
+            "ITEM_LEAF_STONE",
+            "SPECIES_EXEGGUTOR"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 4,
+        "weight": 25
+    },
+    "offspring": "SPECIES_EXEGGCUTE"
+}

@@ -1,0 +1,110 @@
+{
+    "base_stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 85,
+        "speed": 30,
+        "special_attack": 55,
+        "special_defense": 65
+    },
+    "types": [ "TYPE_GHOST", "TYPE_GHOST" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_SPELL_TAG"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 25,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_AMORPHOUS" ],
+    "abilities": [ "ABILITY_MUMMY", "ABILITY_NONE" ],
+    "unk_1A": 0,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BLACK",
+    "flip_sprite": false,
+    "unk_22": 61,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_ASTONISH" ],
+            [ 1, "MOVE_PROTECT" ],
+            [ 5, "MOVE_DISABLE" ],
+            [ 9, "MOVE_HAZE" ],
+            [ 13, "MOVE_NIGHT_SHADE" ],
+            [ 17, "MOVE_HEX" ],
+            [ 21, "MOVE_WILL_O_WISP" ],
+            [ 25, "MOVE_OMINOUS_WIND" ],
+            [ 29, "MOVE_CURSE" ],
+            [ 33, "MOVE_POWER_SPLIT" ],
+            [ 33, "MOVE_GUARD_SPLIT" ],
+            [ 37, "MOVE_SHADOW_BALL" ],
+            [ 41, "MOVE_GRUDGE" ],
+            [ 45, "MOVE_MEAN_LOOK" ],
+            [ 49, "MOVE_DESTINY_BOND" ]
+        ],
+        "by_tm": [
+            "TM04",
+            "TM06",
+            "TM10",
+            "TM17",
+            "TM18",
+            "TM19",
+            "TM20",
+            "TM21",
+            "TM27",
+            "TM29",
+            "TM30",
+            "TM32",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM53",
+            "TM61",
+            "TM63",
+            "TM66",
+            "TM70",
+            "TM77",
+            "TM85",
+            "TM87",
+            "TM90",
+            "TM92"
+        ],
+        "egg_moves": [
+            "MOVE_MEMENTO",
+            "MOVE_FAKE_TEARS",
+            "MOVE_NASTY_PLOT",
+            "MOVE_ENDURE",
+            "MOVE_HEAL_BLOCK",
+            "MOVE_IMPRISON",
+            "MOVE_NIGHTMARE",
+            "MOVE_DISABLE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            34,
+            "SPECIES_COFAGRIGUS"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 5,
+        "weight": 15
+    },
+    "offspring": "SPECIES_YAMASK"
+}

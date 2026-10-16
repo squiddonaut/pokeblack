@@ -1,0 +1,101 @@
+{
+    "base_stats": {
+        "hp": 61,
+        "attack": 72,
+        "defense": 57,
+        "speed": 65,
+        "special_attack": 55,
+        "special_defense": 55
+    },
+    "types": [ "TYPE_POISON", "TYPE_POISON" ],
+    "catch_rate": 120,
+    "unk_09": 2,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_MALE_ONLY",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_POISON_POINT", "ABILITY_RIVALRY" ],
+    "unk_1A": 55,
+    "unk_1B": 60,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_PURPLE",
+    "flip_sprite": false,
+    "unk_22": 128,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_LEER" ],
+            [ 1, "MOVE_PECK" ],
+            [ 7, "MOVE_FOCUS_ENERGY" ],
+            [ 9, "MOVE_DOUBLE_KICK" ],
+            [ 13, "MOVE_POISON_STING" ],
+            [ 20, "MOVE_FURY_ATTACK" ],
+            [ 23, "MOVE_HORN_ATTACK" ],
+            [ 28, "MOVE_HELPING_HAND" ],
+            [ 35, "MOVE_TOXIC_SPIKES" ],
+            [ 38, "MOVE_FLATTER" ],
+            [ 43, "MOVE_POISON_JAB" ],
+            [ 50, "MOVE_CAPTIVATE" ],
+            [ 58, "MOVE_HORN_DRILL" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM06",
+            "TM09",
+            "TM10",
+            "TM11",
+            "TM13",
+            "TM14",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM24",
+            "TM25",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM36",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM49",
+            "TM65",
+            "TM84",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01",
+            "HM04"
+        ],
+        "egg_moves": []
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_USE_ITEM",
+            "ITEM_MOON_STONE",
+            "SPECIES_NIDOKING"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 9,
+        "weight": 195
+    },
+    "offspring": "SPECIES_NIDORAN_M"
+}

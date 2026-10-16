@@ -1,0 +1,118 @@
+{
+    "base_stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "speed": 65,
+        "special_attack": 60,
+        "special_defense": 50
+    },
+    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "catch_rate": 45,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_DRAGON" ],
+    "abilities": [ "ABILITY_BLAZE", "ABILITY_NONE" ],
+    "unk_1A": 94,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_RED",
+    "flip_sprite": false,
+    "unk_22": 62,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SCRATCH" ],
+            [ 1, "MOVE_GROWL" ],
+            [ 7, "MOVE_EMBER" ],
+            [ 10, "MOVE_SMOKE_SCREEN" ],
+            [ 16, "MOVE_DRAGON_RAGE" ],
+            [ 19, "MOVE_SCARY_FACE" ],
+            [ 25, "MOVE_FIRE_FANG" ],
+            [ 28, "MOVE_FLAME_BURST" ],
+            [ 34, "MOVE_SLASH" ],
+            [ 37, "MOVE_FLAMETHROWER" ],
+            [ 43, "MOVE_FIRE_SPIN" ],
+            [ 46, "MOVE_INFERNO" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM02",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM35",
+            "TM38",
+            "TM39",
+            "TM40",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM49",
+            "TM50",
+            "TM56",
+            "TM59",
+            "TM61",
+            "TM65",
+            "TM75",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_BELLY_DRUM",
+            "MOVE_ANCIENT_POWER",
+            "MOVE_BITE",
+            "MOVE_OUTRAGE",
+            "MOVE_BEAT_UP",
+            "MOVE_DRAGON_DANCE",
+            "MOVE_CRUNCH",
+            "MOVE_DRAGON_RUSH",
+            "MOVE_METAL_CLAW",
+            "MOVE_FLARE_BLITZ",
+            "MOVE_COUNTER",
+            "MOVE_DRAGON_PULSE",
+            "MOVE_FOCUS_PUNCH"
+        ]
+    },
+    "unk_38": 2,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            16,
+            "SPECIES_CHARMELEON"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 6,
+        "weight": 85
+    },
+    "offspring": "SPECIES_CHARMANDER"
+}

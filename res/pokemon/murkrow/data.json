@@ -1,0 +1,120 @@
+{
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 42,
+        "speed": 91,
+        "special_attack": 85,
+        "special_defense": 42
+    },
+    "types": [ "TYPE_DARK", "TYPE_FLYING" ],
+    "catch_rate": 30,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 35,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
+    "abilities": [ "ABILITY_INSOMNIA", "ABILITY_SUPER_LUCK" ],
+    "unk_1A": 158,
+    "unk_1B": 120,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BLACK",
+    "flip_sprite": false,
+    "unk_22": 81,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_PECK" ],
+            [ 1, "MOVE_ASTONISH" ],
+            [ 5, "MOVE_PURSUIT" ],
+            [ 11, "MOVE_HAZE" ],
+            [ 15, "MOVE_WING_ATTACK" ],
+            [ 21, "MOVE_NIGHT_SHADE" ],
+            [ 25, "MOVE_ASSURANCE" ],
+            [ 31, "MOVE_TAUNT" ],
+            [ 35, "MOVE_FAINT_ATTACK" ],
+            [ 41, "MOVE_MEAN_LOOK" ],
+            [ 45, "MOVE_FOUL_PLAY" ],
+            [ 51, "MOVE_TAILWIND" ],
+            [ 55, "MOVE_SUCKER_PUNCH" ],
+            [ 61, "MOVE_TORMENT" ],
+            [ 65, "MOVE_QUASH" ]
+        ],
+        "by_tm": [
+            "TM04",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM12",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM27",
+            "TM29",
+            "TM30",
+            "TM32",
+            "TM40",
+            "TM41",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM60",
+            "TM63",
+            "TM66",
+            "TM67",
+            "TM73",
+            "TM77",
+            "TM85",
+            "TM87",
+            "TM88",
+            "TM90",
+            "TM95",
+            "HM02"
+        ],
+        "egg_moves": [
+            "MOVE_WHIRLWIND",
+            "MOVE_DRILL_PECK",
+            "MOVE_MIRROR_MOVE",
+            "MOVE_WING_ATTACK",
+            "MOVE_SKY_ATTACK",
+            "MOVE_CONFUSE_RAY",
+            "MOVE_FEATHER_DANCE",
+            "MOVE_PERISH_SONG",
+            "MOVE_PSYCHO_SHIFT",
+            "MOVE_SCREECH",
+            "MOVE_FAINT_ATTACK",
+            "MOVE_BRAVE_BIRD",
+            "MOVE_ROOST",
+            "MOVE_ASSURANCE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_USE_ITEM",
+            "ITEM_DUSK_STONE",
+            "SPECIES_HONCHKROW"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 5,
+        "weight": 21
+    },
+    "offspring": "SPECIES_MURKROW"
+}

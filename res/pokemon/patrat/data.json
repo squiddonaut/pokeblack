@@ -1,0 +1,105 @@
+{
+    "base_stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 39,
+        "speed": 42,
+        "special_attack": 35,
+        "special_defense": 39
+    },
+    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 15,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_KEEN_EYE" ],
+    "unk_1A": 148,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BROWN",
+    "flip_sprite": false,
+    "unk_22": 51,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 3, "MOVE_LEER" ],
+            [ 6, "MOVE_BITE" ],
+            [ 8, "MOVE_BIDE" ],
+            [ 11, "MOVE_DETECT" ],
+            [ 13, "MOVE_SAND_ATTACK" ],
+            [ 16, "MOVE_CRUNCH" ],
+            [ 18, "MOVE_HYPNOSIS" ],
+            [ 21, "MOVE_SUPER_FANG" ],
+            [ 23, "MOVE_AFTER_YOU" ],
+            [ 26, "MOVE_WORK_UP" ],
+            [ 28, "MOVE_HYPER_FANG" ],
+            [ 31, "MOVE_MEAN_LOOK" ],
+            [ 33, "MOVE_BATON_PASS" ],
+            [ 36, "MOVE_SLAM" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM24",
+            "TM27",
+            "TM28",
+            "TM30",
+            "TM32",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM56",
+            "TM67",
+            "TM75",
+            "TM83",
+            "TM86",
+            "TM87",
+            "TM90",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_FORESIGHT",
+            "MOVE_IRON_TAIL",
+            "MOVE_SCREECH",
+            "MOVE_ASSURANCE",
+            "MOVE_PURSUIT",
+            "MOVE_REVENGE",
+            "MOVE_FLAIL"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            20,
+            "SPECIES_WATCHOG"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 5,
+        "weight": 116
+    },
+    "offspring": "SPECIES_PATRAT"
+}

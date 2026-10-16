@@ -1,0 +1,115 @@
+{
+    "base_stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "speed": 65,
+        "special_attack": 50,
+        "special_defense": 65
+    },
+    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_RAWST_BERRY"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_75",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_FLASH_FIRE", "ABILITY_NONE" ],
+    "unk_1A": 70,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BROWN",
+    "flip_sprite": false,
+    "unk_22": 60,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_EMBER" ],
+            [ 4, "MOVE_TAIL_WHIP" ],
+            [ 7, "MOVE_ROAR" ],
+            [ 11, "MOVE_QUICK_ATTACK" ],
+            [ 14, "MOVE_FIRE_SPIN" ],
+            [ 17, "MOVE_CONFUSE_RAY" ],
+            [ 21, "MOVE_IMPRISON" ],
+            [ 24, "MOVE_FLAME_BURST" ],
+            [ 27, "MOVE_SAFEGUARD" ],
+            [ 31, "MOVE_WILL_O_WISP" ],
+            [ 34, "MOVE_PAYBACK" ],
+            [ 37, "MOVE_FLAMETHROWER" ],
+            [ 41, "MOVE_CAPTIVATE" ],
+            [ 44, "MOVE_INFERNO" ],
+            [ 47, "MOVE_GRUDGE" ],
+            [ 51, "MOVE_EXTRASENSORY" ],
+            [ 54, "MOVE_FIRE_BLAST" ]
+        ],
+        "by_tm": [
+            "TM05",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM20",
+            "TM21",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM35",
+            "TM38",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM50",
+            "TM53",
+            "TM59",
+            "TM61",
+            "TM66",
+            "TM77",
+            "TM87",
+            "TM90"
+        ],
+        "egg_moves": [
+            "MOVE_FAINT_ATTACK",
+            "MOVE_HYPNOSIS",
+            "MOVE_FLAIL",
+            "MOVE_SPITE",
+            "MOVE_DISABLE",
+            "MOVE_HOWL",
+            "MOVE_HEAT_WAVE",
+            "MOVE_FLARE_BLITZ",
+            "MOVE_EXTRASENSORY",
+            "MOVE_POWER_SWAP",
+            "MOVE_SECRET_POWER",
+            "MOVE_HEX",
+            "MOVE_TAIL_SLAP"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_USE_ITEM",
+            "ITEM_FIRE_STONE",
+            "SPECIES_NINETALES"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 6,
+        "weight": 99
+    },
+    "offspring": "SPECIES_VULPIX"
+}

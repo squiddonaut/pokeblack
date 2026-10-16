@@ -1,0 +1,117 @@
+{
+    "base_stats": {
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "speed": 22,
+        "special_attack": 53,
+        "special_defense": 45
+    },
+    "types": [ "TYPE_WATER", "TYPE_ROCK" ],
+    "catch_rate": 45,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
+    "hatch_cycles": 30,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_WATER_3" ],
+    "abilities": [ "ABILITY_SOLID_ROCK", "ABILITY_STURDY" ],
+    "unk_1A": 33,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BLUE",
+    "flip_sprite": false,
+    "unk_22": 71,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_BIDE" ],
+            [ 1, "MOVE_WITHDRAW" ],
+            [ 1, "MOVE_WATER_GUN" ],
+            [ 5, "MOVE_ROLLOUT" ],
+            [ 8, "MOVE_BITE" ],
+            [ 11, "MOVE_PROTECT" ],
+            [ 15, "MOVE_AQUA_JET" ],
+            [ 18, "MOVE_ANCIENT_POWER" ],
+            [ 21, "MOVE_CRUNCH" ],
+            [ 25, "MOVE_WIDE_GUARD" ],
+            [ 28, "MOVE_BRINE" ],
+            [ 31, "MOVE_SMACK_DOWN" ],
+            [ 35, "MOVE_CURSE" ],
+            [ 38, "MOVE_SHELL_SMASH" ],
+            [ 41, "MOVE_AQUA_TAIL" ],
+            [ 45, "MOVE_ROCK_SLIDE" ],
+            [ 48, "MOVE_RAIN_DANCE" ],
+            [ 51, "MOVE_HYDRO_PUMP" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM13",
+            "TM14",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM23",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM37",
+            "TM39",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM55",
+            "TM69",
+            "TM71",
+            "TM78",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM03",
+            "HM04",
+            "HM05",
+            "HM06"
+        ],
+        "egg_moves": [
+            "MOVE_WATER_PULSE",
+            "MOVE_KNOCK_OFF",
+            "MOVE_ROCK_THROW",
+            "MOVE_SLAM",
+            "MOVE_IRON_DEFENSE",
+            "MOVE_FLAIL",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODY_SLAM",
+            "MOVE_BIDE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            37,
+            "SPECIES_CARRACOSTA"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 7,
+        "weight": 165
+    },
+    "offspring": "SPECIES_TIRTOUGA"
+}

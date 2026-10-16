@@ -1,0 +1,111 @@
+{
+    "base_stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "speed": 50,
+        "special_attack": 35,
+        "special_defense": 55
+    },
+    "types": [ "TYPE_GRASS", "TYPE_FLYING" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_GRASS" ],
+    "abilities": [ "ABILITY_CHLOROPHYLL", "ABILITY_LEAF_GUARD" ],
+    "unk_1A": 151,
+    "unk_1B": 90,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_PINK",
+    "flip_sprite": false,
+    "unk_22": 50,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SPLASH" ],
+            [ 4, "MOVE_SYNTHESIS" ],
+            [ 7, "MOVE_TAIL_WHIP" ],
+            [ 10, "MOVE_TACKLE" ],
+            [ 12, "MOVE_POISON_POWDER" ],
+            [ 14, "MOVE_STUN_SPORE" ],
+            [ 16, "MOVE_SLEEP_POWDER" ],
+            [ 19, "MOVE_BULLET_SEED" ],
+            [ 22, "MOVE_LEECH_SEED" ],
+            [ 25, "MOVE_MEGA_DRAIN" ],
+            [ 28, "MOVE_ACROBATICS" ],
+            [ 31, "MOVE_RAGE_POWDER" ],
+            [ 34, "MOVE_COTTON_SPORE" ],
+            [ 37, "MOVE_U_TURN" ],
+            [ 40, "MOVE_WORRY_SEED" ],
+            [ 43, "MOVE_GIGA_DRAIN" ],
+            [ 46, "MOVE_BOUNCE" ],
+            [ 49, "MOVE_MEMENTO" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM32",
+            "TM33",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM53",
+            "TM62",
+            "TM70",
+            "TM75",
+            "TM77",
+            "TM86",
+            "TM87",
+            "TM89",
+            "TM90"
+        ],
+        "egg_moves": [
+            "MOVE_CONFUSION",
+            "MOVE_ENCORE",
+            "MOVE_DOUBLE_EDGE",
+            "MOVE_AMNESIA",
+            "MOVE_HELPING_HAND",
+            "MOVE_AROMATHERAPY",
+            "MOVE_WORRY_SEED",
+            "MOVE_COTTON_GUARD",
+            "MOVE_SEED_BOMB",
+            "MOVE_ENDURE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            18,
+            "SPECIES_SKIPLOOM"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 4,
+        "weight": 5
+    },
+    "offspring": "SPECIES_HOPPIP"
+}

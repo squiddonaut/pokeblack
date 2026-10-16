@@ -1,4 +1,4 @@
-# ARM9 build for Pokémon Black, based on pret/pokeheartgold
+# ARM9 build 
 
 MWCCVER        := dsi/1.1
 PROC           := arm946e
@@ -50,8 +50,7 @@ ORIG_HEADER    := $(EXTRACT_DIR)/header.bin
 ORIG_BANNER    := $(EXTRACT_DIR)/banner.bin
 ORIG_OVERLAYS  := $(EXTRACT_DIR)/overlay
 
-# the stored ARM9 is BLZ-compressed and every address in the disassembly refers to the
-# decompressed layout, so that is what the build is compared against
+# the stored ARM9 is BLZ-compressed and every address in the disassembly refers to the decompressed layout, so that is what the build is compared against
 ORIG_ARM9_RAW  := $(EXTRACT_DIR)/arm9_decompressed.bin
 
 SUB_DIR        := sub
@@ -70,9 +69,14 @@ PACKED_ARM9    := $(PACKED_DIR)/arm9.bin
 BANNER_DIR     := $(buildname)/banner
 BANNER         := $(BUILD_DIR)/banner.bin
 
+# data files generated from source
+DATA_DIR       := $(BUILD_DIR)/files
+SPECIES_STAMP  := $(DATA_DIR)/.species
+SPECIES_SRCS   := $(shell find res/pokemon -name '*.json' 2>/dev/null) $(wildcard generated/*.txt)
+
 MAKEFLAGS += --no-print-directory
 
-.PHONY: sub info check-toolchain extract check-baserom compare \
+.PHONY: sub info check-toolchain extract check-baserom compare check-data \
         compare-overlays compare-table compare-arm7 compare-rom compare-all report
 
 all:
@@ -141,12 +145,22 @@ $(PACKED_ARM9): $(SBIN) $(OVL_POLICY)
 $(BANNER): $(BANNER_DIR)/banner.meta $(wildcard $(BANNER_DIR)/*.png)
 	@$(PYTHON) $(SCRIPTS)/banner.py build --dir $(BANNER_DIR) -o $@
 
-$(ROM): $(PACKED_ARM9) sub $(BANNER)
+$(SPECIES_STAMP): $(SPECIES_SRCS) $(SCRIPTS)/speciesproc.py $(SCRIPTS)/narc.py
+	@$(PYTHON) $(SCRIPTS)/speciesproc.py -o $(DATA_DIR)
+	@touch $@
+
+check-data: $(SPECIES_STAMP)
+	@$(PYTHON) $(SCRIPTS)/narc.py verify
+	@$(PYTHON) $(SCRIPTS)/gen5text.py verify
+	@$(PYTHON) $(SCRIPTS)/speciesproc.py -o $(DATA_DIR) --compare files
+
+$(ROM): $(PACKED_ARM9) sub $(BANNER) $(SPECIES_STAMP)
 	@$(PYTHON) $(SCRIPTS)/make_rom.py --build $(BUILD_DIR) \
 		--header $(HEADER_TEMPLATE) --fnt $(FNT) --twl-tail $(TWL_TAIL) \
 		--overlays $(PACKED_DIR) --arm9 $(PACKED_ARM9) --arm7 $(SUB_SBIN) \
 		--banner $(BANNER) --table $(PACKED_DIR)/main_table.sbin \
-		--files $(FILE_ORDER) --data-dir $(buildname)/files --data-dir files -o $@
+		--files $(FILE_ORDER) --data-dir $(DATA_DIR) --data-dir $(buildname)/files \
+		--data-dir files -o $@
 ifeq ($(COMPARE),1)
 	@$(SHA1SUM) --quiet -c $(ROM_SHA1) && echo "ROM matches $(ROM_SHA1)"
 endif
@@ -194,8 +208,7 @@ CANARY_OBJ  := $(BUILD_DIR)/toolchain_canary.o
 CANARY_TEXT := $(BUILD_DIR)/toolchain_canary.text
 CANARY_SHA  := test/toolchain_canary.sha1
 
-# frozen source, so this stays valid however much of the game gets decompiled;
-# it predates the project warning policy and codegen does not depend on it
+# frozen source, so this stays valid however much of the game gets decompiled
 check-toolchain: MWCFLAGS += -W off
 check-toolchain:
 	@$(MW_COMPILE) -c -o $(CANARY_OBJ) $(CANARY_SRC)

@@ -1,0 +1,116 @@
+{
+    "base_stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "speed": 72,
+        "special_attack": 25,
+        "special_defense": 35
+    },
+    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_CHILAN_BERRY"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 15,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_GUTS" ],
+    "unk_1A": 55,
+    "unk_1B": 120,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_PURPLE",
+    "flip_sprite": false,
+    "unk_22": 51,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 1, "MOVE_TAIL_WHIP" ],
+            [ 4, "MOVE_QUICK_ATTACK" ],
+            [ 7, "MOVE_FOCUS_ENERGY" ],
+            [ 10, "MOVE_BITE" ],
+            [ 13, "MOVE_PURSUIT" ],
+            [ 16, "MOVE_HYPER_FANG" ],
+            [ 19, "MOVE_SUCKER_PUNCH" ],
+            [ 22, "MOVE_CRUNCH" ],
+            [ 25, "MOVE_ASSURANCE" ],
+            [ 28, "MOVE_SUPER_FANG" ],
+            [ 31, "MOVE_DOUBLE_EDGE" ],
+            [ 34, "MOVE_ENDEAVOR" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM12",
+            "TM13",
+            "TM14",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM24",
+            "TM25",
+            "TM27",
+            "TM28",
+            "TM30",
+            "TM32",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM57",
+            "TM67",
+            "TM73",
+            "TM83",
+            "TM86",
+            "TM87",
+            "TM88",
+            "TM89",
+            "TM90",
+            "TM93",
+            "TM94",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_SCREECH",
+            "MOVE_FLAME_WHEEL",
+            "MOVE_FURY_SWIPES",
+            "MOVE_BITE",
+            "MOVE_COUNTER",
+            "MOVE_REVERSAL",
+            "MOVE_UPROAR",
+            "MOVE_LAST_RESORT",
+            "MOVE_ME_FIRST",
+            "MOVE_REVENGE",
+            "MOVE_FINAL_GAMBIT"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            20,
+            "SPECIES_RATICATE"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 3,
+        "weight": 35
+    },
+    "offspring": "SPECIES_RATTATA"
+}

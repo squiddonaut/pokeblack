@@ -1,0 +1,99 @@
+{
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "speed": 55,
+        "special_attack": 50,
+        "special_defense": 70
+    },
+    "types": [ "TYPE_GRASS", "TYPE_POISON" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
+    "abilities": [ "ABILITY_NATURAL_CURE", "ABILITY_POISON_POINT" ],
+    "unk_1A": 102,
+    "unk_1B": 120,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_GREEN",
+    "flip_sprite": true,
+    "unk_22": 56,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_ABSORB" ],
+            [ 4, "MOVE_GROWTH" ],
+            [ 7, "MOVE_WATER_SPORT" ],
+            [ 10, "MOVE_STUN_SPORE" ],
+            [ 13, "MOVE_MEGA_DRAIN" ],
+            [ 16, "MOVE_WORRY_SEED" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM09",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM30",
+            "TM32",
+            "TM36",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM53",
+            "TM70",
+            "TM75",
+            "TM77",
+            "TM86",
+            "TM87",
+            "TM90",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_SPIKES",
+            "MOVE_SYNTHESIS",
+            "MOVE_PIN_MISSILE",
+            "MOVE_COTTON_SPORE",
+            "MOVE_SLEEP_POWDER",
+            "MOVE_RAZOR_LEAF",
+            "MOVE_MIND_READER",
+            "MOVE_LEAF_STORM",
+            "MOVE_EXTRASENSORY",
+            "MOVE_SEED_BOMB",
+            "MOVE_GIGA_DRAIN",
+            "MOVE_NATURAL_GIFT",
+            "MOVE_GRASS_WHISTLE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [ "EVO_LEVEL_HAPPINESS_DAY", "SPECIES_ROSELIA" ]
+    ],
+    "pokedex_data": {
+        "height": 2,
+        "weight": 12
+    },
+    "offspring": "SPECIES_BUDEW"
+}

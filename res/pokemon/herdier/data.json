@@ -1,0 +1,104 @@
+{
+    "base_stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 65,
+        "speed": 60,
+        "special_attack": 35,
+        "special_defense": 65
+    },
+    "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
+    "catch_rate": 120,
+    "unk_09": 2,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 15,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_INTIMIDATE", "ABILITY_SAND_RUSH" ],
+    "unk_1A": 113,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_GRAY",
+    "flip_sprite": false,
+    "unk_22": 130,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_LEER" ],
+            [ 1, "MOVE_TACKLE" ],
+            [ 1, "MOVE_ODOR_SLEUTH" ],
+            [ 1, "MOVE_BITE" ],
+            [ 5, "MOVE_ODOR_SLEUTH" ],
+            [ 8, "MOVE_BITE" ],
+            [ 12, "MOVE_HELPING_HAND" ],
+            [ 15, "MOVE_TAKE_DOWN" ],
+            [ 20, "MOVE_WORK_UP" ],
+            [ 24, "MOVE_CRUNCH" ],
+            [ 29, "MOVE_ROAR" ],
+            [ 33, "MOVE_RETALIATE" ],
+            [ 38, "MOVE_REVERSAL" ],
+            [ 42, "MOVE_LAST_RESORT" ],
+            [ 47, "MOVE_GIGA_IMPACT" ]
+        ],
+        "by_tm": [
+            "TM05",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM18",
+            "TM21",
+            "TM24",
+            "TM27",
+            "TM28",
+            "TM30",
+            "TM32",
+            "TM39",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM66",
+            "TM67",
+            "TM68",
+            "TM73",
+            "TM83",
+            "TM87",
+            "TM90",
+            "TM93",
+            "TM94",
+            "TM95",
+            "HM03",
+            "HM04"
+        ],
+        "egg_moves": []
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            32,
+            "SPECIES_STOUTLAND"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 9,
+        "weight": 147
+    },
+    "offspring": "SPECIES_LILLIPUP"
+}

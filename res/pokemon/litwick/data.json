@@ -1,0 +1,118 @@
+{
+    "base_stats": {
+        "hp": 50,
+        "attack": 30,
+        "defense": 55,
+        "speed": 20,
+        "special_attack": 65,
+        "special_defense": 55
+    },
+    "types": [ "TYPE_GHOST", "TYPE_FIRE" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
+    "abilities": [ "ABILITY_FLASH_FIRE", "ABILITY_FLAME_BODY" ],
+    "unk_1A": 23,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_WHITE",
+    "flip_sprite": true,
+    "unk_22": 55,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_EMBER" ],
+            [ 1, "MOVE_ASTONISH" ],
+            [ 3, "MOVE_MINIMIZE" ],
+            [ 5, "MOVE_SMOG" ],
+            [ 7, "MOVE_FIRE_SPIN" ],
+            [ 10, "MOVE_CONFUSE_RAY" ],
+            [ 13, "MOVE_NIGHT_SHADE" ],
+            [ 16, "MOVE_WILL_O_WISP" ],
+            [ 20, "MOVE_FLAME_BURST" ],
+            [ 24, "MOVE_IMPRISON" ],
+            [ 28, "MOVE_HEX" ],
+            [ 33, "MOVE_MEMENTO" ],
+            [ 38, "MOVE_INFERNO" ],
+            [ 43, "MOVE_CURSE" ],
+            [ 49, "MOVE_SHADOW_BALL" ],
+            [ 55, "MOVE_PAIN_SPLIT" ],
+            [ 61, "MOVE_OVERHEAT" ]
+        ],
+        "by_tm": [
+            "TM04",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM12",
+            "TM17",
+            "TM19",
+            "TM20",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM29",
+            "TM30",
+            "TM32",
+            "TM35",
+            "TM38",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM50",
+            "TM53",
+            "TM59",
+            "TM61",
+            "TM63",
+            "TM66",
+            "TM70",
+            "TM77",
+            "TM85",
+            "TM87",
+            "TM90",
+            "TM92"
+        ],
+        "egg_moves": [
+            "MOVE_ACID_ARMOR",
+            "MOVE_HEAT_WAVE",
+            "MOVE_HAZE",
+            "MOVE_ENDURE",
+            "MOVE_CAPTIVATE",
+            "MOVE_ACID",
+            "MOVE_CLEAR_SMOG"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            41,
+            "SPECIES_LAMPENT"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 3,
+        "weight": 31
+    },
+    "offspring": "SPECIES_LITWICK"
+}

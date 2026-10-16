@@ -1,0 +1,114 @@
+{
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 90,
+        "speed": 15,
+        "special_attack": 35,
+        "special_defense": 35
+    },
+    "types": [ "TYPE_BUG", "TYPE_BUG" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
+    "abilities": [ "ABILITY_STURDY", "ABILITY_NONE" ],
+    "unk_1A": 142,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_GRAY",
+    "flip_sprite": false,
+    "unk_22": 58,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 1, "MOVE_PROTECT" ],
+            [ 6, "MOVE_SELFDESTRUCT" ],
+            [ 9, "MOVE_BUG_BITE" ],
+            [ 12, "MOVE_TAKE_DOWN" ],
+            [ 17, "MOVE_RAPID_SPIN" ],
+            [ 20, "MOVE_BIDE" ],
+            [ 23, "MOVE_NATURAL_GIFT" ],
+            [ 28, "MOVE_SPIKES" ],
+            [ 31, "MOVE_PAYBACK" ],
+            [ 34, "MOVE_EXPLOSION" ],
+            [ 39, "MOVE_IRON_DEFENSE" ],
+            [ 42, "MOVE_GYRO_BALL" ],
+            [ 45, "MOVE_DOUBLE_EDGE" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM09",
+            "TM10",
+            "TM11",
+            "TM16",
+            "TM17",
+            "TM21",
+            "TM22",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM33",
+            "TM37",
+            "TM39",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM64",
+            "TM66",
+            "TM74",
+            "TM76",
+            "TM78",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_PIN_MISSILE",
+            "MOVE_FLAIL",
+            "MOVE_SWIFT",
+            "MOVE_COUNTER",
+            "MOVE_SAND_TOMB",
+            "MOVE_REVENGE",
+            "MOVE_DOUBLE_EDGE",
+            "MOVE_TOXIC_SPIKES",
+            "MOVE_POWER_TRICK",
+            "MOVE_ENDURE",
+            "MOVE_STEALTH_ROCK"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            31,
+            "SPECIES_FORRETRESS"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 6,
+        "weight": 72
+    },
+    "offspring": "SPECIES_PINECO"
+}

@@ -1,0 +1,116 @@
+{
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "speed": 40,
+        "special_attack": 20,
+        "special_defense": 30
+    },
+    "types": [ "TYPE_GROUND", "TYPE_GROUND" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_SAND_VEIL", "ABILITY_NONE" ],
+    "unk_1A": 146,
+    "unk_1B": 90,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_YELLOW",
+    "flip_sprite": false,
+    "unk_22": 60,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SCRATCH" ],
+            [ 3, "MOVE_DEFENSE_CURL" ],
+            [ 7, "MOVE_SAND_ATTACK" ],
+            [ 9, "MOVE_POISON_STING" ],
+            [ 13, "MOVE_RAPID_SPIN" ],
+            [ 15, "MOVE_SWIFT" ],
+            [ 19, "MOVE_FURY_SWIPES" ],
+            [ 21, "MOVE_ROLLOUT" ],
+            [ 25, "MOVE_FURY_CUTTER" ],
+            [ 27, "MOVE_SAND_TOMB" ],
+            [ 31, "MOVE_SLASH" ],
+            [ 33, "MOVE_GYRO_BALL" ],
+            [ 37, "MOVE_SANDSTORM" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM20",
+            "TM21",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM37",
+            "TM39",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM56",
+            "TM65",
+            "TM74",
+            "TM75",
+            "TM78",
+            "TM80",
+            "TM81",
+            "TM84",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_FLAIL",
+            "MOVE_COUNTER",
+            "MOVE_RAPID_SPIN",
+            "MOVE_METAL_CLAW",
+            "MOVE_CRUSH_CLAW",
+            "MOVE_NIGHT_SLASH",
+            "MOVE_MUD_SHOT",
+            "MOVE_ENDURE",
+            "MOVE_CHIP_AWAY",
+            "MOVE_ROCK_CLIMB"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            22,
+            "SPECIES_SANDSLASH"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 6,
+        "weight": 120
+    },
+    "offspring": "SPECIES_SANDSHREW"
+}

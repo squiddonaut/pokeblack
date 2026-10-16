@@ -1,0 +1,116 @@
+{
+    "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "speed": 20,
+        "special_attack": 30,
+        "special_defense": 30
+    },
+    "types": [ "TYPE_ROCK", "TYPE_GROUND" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_EVERSTONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 15,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
+    "abilities": [ "ABILITY_ROCK_HEAD", "ABILITY_STURDY" ],
+    "unk_1A": 8,
+    "unk_1B": 90,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BROWN",
+    "flip_sprite": false,
+    "unk_22": 60,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 1, "MOVE_DEFENSE_CURL" ],
+            [ 4, "MOVE_MUD_SPORT" ],
+            [ 8, "MOVE_ROCK_POLISH" ],
+            [ 11, "MOVE_ROCK_THROW" ],
+            [ 15, "MOVE_MAGNITUDE" ],
+            [ 18, "MOVE_ROLLOUT" ],
+            [ 22, "MOVE_ROCK_BLAST" ],
+            [ 25, "MOVE_SMACK_DOWN" ],
+            [ 29, "MOVE_SELFDESTRUCT" ],
+            [ 32, "MOVE_BULLDOZE" ],
+            [ 36, "MOVE_STEALTH_ROCK" ],
+            [ 39, "MOVE_EARTHQUAKE" ],
+            [ 43, "MOVE_EXPLOSION" ],
+            [ 46, "MOVE_DOUBLE_EDGE" ],
+            [ 50, "MOVE_STONE_EDGE" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM23",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM35",
+            "TM37",
+            "TM38",
+            "TM39",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM56",
+            "TM59",
+            "TM64",
+            "TM69",
+            "TM71",
+            "TM74",
+            "TM78",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM04"
+        ],
+        "egg_moves": [
+            "MOVE_MEGA_PUNCH",
+            "MOVE_BLOCK",
+            "MOVE_HAMMER_ARM",
+            "MOVE_FLAIL",
+            "MOVE_CURSE",
+            "MOVE_FOCUS_PUNCH",
+            "MOVE_ROCK_CLIMB",
+            "MOVE_ENDURE",
+            "MOVE_AUTOTOMIZE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            25,
+            "SPECIES_GRAVELER"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 4,
+        "weight": 200
+    },
+    "offspring": "SPECIES_GEODUDE"
+}

@@ -1,0 +1,109 @@
+{
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 40,
+        "speed": 20,
+        "special_attack": 70,
+        "special_defense": 40
+    },
+    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
+    "abilities": [ "ABILITY_MAGMA_ARMOR", "ABILITY_FLAME_BODY" ],
+    "unk_1A": 133,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_RED",
+    "flip_sprite": false,
+    "unk_22": 50,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_YAWN" ],
+            [ 1, "MOVE_SMOG" ],
+            [ 5, "MOVE_EMBER" ],
+            [ 10, "MOVE_ROCK_THROW" ],
+            [ 14, "MOVE_HARDEN" ],
+            [ 19, "MOVE_RECOVER" ],
+            [ 23, "MOVE_FLAME_BURST" ],
+            [ 28, "MOVE_ANCIENT_POWER" ],
+            [ 32, "MOVE_AMNESIA" ],
+            [ 37, "MOVE_LAVA_PLUME" ],
+            [ 41, "MOVE_ROCK_SLIDE" ],
+            [ 46, "MOVE_BODY_SLAM" ],
+            [ 50, "MOVE_FLAMETHROWER" ],
+            [ 55, "MOVE_EARTH_POWER" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM16",
+            "TM17",
+            "TM21",
+            "TM27",
+            "TM32",
+            "TM33",
+            "TM35",
+            "TM38",
+            "TM39",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM50",
+            "TM59",
+            "TM61",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM94"
+        ],
+        "egg_moves": [
+            "MOVE_ACID_ARMOR",
+            "MOVE_HEAT_WAVE",
+            "MOVE_CURSE",
+            "MOVE_SMOKE_SCREEN",
+            "MOVE_MEMENTO",
+            "MOVE_STOCKPILE",
+            "MOVE_SPIT_UP",
+            "MOVE_SWALLOW",
+            "MOVE_ROLLOUT",
+            "MOVE_INFERNO",
+            "MOVE_EARTH_POWER"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            38,
+            "SPECIES_MAGCARGO"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 7,
+        "weight": 350
+    },
+    "offspring": "SPECIES_SLUGMA"
+}

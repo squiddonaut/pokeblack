@@ -1,0 +1,118 @@
+{
+    "base_stats": {
+        "hp": 50,
+        "attack": 72,
+        "defense": 35,
+        "speed": 65,
+        "special_attack": 35,
+        "special_defense": 35
+    },
+    "types": [ "TYPE_GROUND", "TYPE_DARK" ],
+    "catch_rate": 180,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_SLOW",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_INTIMIDATE", "ABILITY_MOXIE" ],
+    "unk_1A": 83,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_BROWN",
+    "flip_sprite": false,
+    "unk_22": 58,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_LEER" ],
+            [ 1, "MOVE_RAGE" ],
+            [ 4, "MOVE_BITE" ],
+            [ 7, "MOVE_SAND_ATTACK" ],
+            [ 10, "MOVE_TORMENT" ],
+            [ 13, "MOVE_SAND_TOMB" ],
+            [ 16, "MOVE_ASSURANCE" ],
+            [ 19, "MOVE_MUD_SLAP" ],
+            [ 22, "MOVE_EMBARGO" ],
+            [ 25, "MOVE_SWAGGER" ],
+            [ 28, "MOVE_CRUNCH" ],
+            [ 31, "MOVE_DIG" ],
+            [ 34, "MOVE_SCARY_FACE" ],
+            [ 37, "MOVE_FOUL_PLAY" ],
+            [ 40, "MOVE_SANDSTORM" ],
+            [ 43, "MOVE_EARTHQUAKE" ],
+            [ 46, "MOVE_THRASH" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM05",
+            "TM06",
+            "TM10",
+            "TM12",
+            "TM17",
+            "TM21",
+            "TM26",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM36",
+            "TM37",
+            "TM39",
+            "TM41",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM59",
+            "TM63",
+            "TM66",
+            "TM67",
+            "TM71",
+            "TM78",
+            "TM80",
+            "TM87",
+            "TM90",
+            "TM95",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_DOUBLE_EDGE",
+            "MOVE_ROCK_CLIMB",
+            "MOVE_PURSUIT",
+            "MOVE_UPROAR",
+            "MOVE_FIRE_FANG",
+            "MOVE_THUNDER_FANG",
+            "MOVE_BEAT_UP",
+            "MOVE_FOCUS_ENERGY",
+            "MOVE_COUNTER",
+            "MOVE_MEAN_LOOK"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            29,
+            "SPECIES_KROKOROK"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 7,
+        "weight": 152
+    },
+    "offspring": "SPECIES_SANDILE"
+}

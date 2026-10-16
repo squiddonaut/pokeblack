@@ -1,0 +1,108 @@
+{
+    "base_stats": {
+        "hp": 45,
+        "attack": 95,
+        "defense": 50,
+        "speed": 75,
+        "special_attack": 40,
+        "special_defense": 50
+    },
+    "types": [ "TYPE_ROCK", "TYPE_BUG" ],
+    "catch_rate": 45,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
+    "hatch_cycles": 30,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_ERRATIC",
+    "egg_groups": [ "EGG_GROUP_WATER_3", "EGG_GROUP_WATER_3" ],
+    "abilities": [ "ABILITY_BATTLE_ARMOR", "ABILITY_NONE" ],
+    "unk_1A": 33,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_GRAY",
+    "flip_sprite": false,
+    "unk_22": 71,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SCRATCH" ],
+            [ 1, "MOVE_HARDEN" ],
+            [ 7, "MOVE_MUD_SPORT" ],
+            [ 13, "MOVE_WATER_GUN" ],
+            [ 19, "MOVE_METAL_CLAW" ],
+            [ 25, "MOVE_PROTECT" ],
+            [ 31, "MOVE_ANCIENT_POWER" ],
+            [ 37, "MOVE_FURY_CUTTER" ],
+            [ 43, "MOVE_SLASH" ],
+            [ 49, "MOVE_ROCK_BLAST" ],
+            [ 55, "MOVE_CRUSH_CLAW" ],
+            [ 61, "MOVE_X_SCISSOR" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM17",
+            "TM21",
+            "TM23",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM37",
+            "TM39",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM54",
+            "TM69",
+            "TM75",
+            "TM76",
+            "TM80",
+            "TM81",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_RAPID_SPIN",
+            "MOVE_KNOCK_OFF",
+            "MOVE_SCREECH",
+            "MOVE_SAND_ATTACK",
+            "MOVE_CROSS_POISON",
+            "MOVE_CURSE",
+            "MOVE_IRON_DEFENSE",
+            "MOVE_WATER_PULSE"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            40,
+            "SPECIES_ARMALDO"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 7,
+        "weight": 125
+    },
+    "offspring": "SPECIES_ANORITH"
+}

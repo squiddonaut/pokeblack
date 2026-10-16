@@ -1,0 +1,111 @@
+{
+    "base_stats": {
+        "hp": 40,
+        "attack": 20,
+        "defense": 30,
+        "speed": 55,
+        "special_attack": 40,
+        "special_defense": 80
+    },
+    "types": [ "TYPE_BUG", "TYPE_FLYING" ],
+    "catch_rate": 255,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+    },
+    "held_items": {
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NONE"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 15,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_FAST",
+    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
+    "abilities": [ "ABILITY_SWARM", "ABILITY_EARLY_BIRD" ],
+    "unk_1A": 155,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_RED",
+    "flip_sprite": false,
+    "unk_22": 53,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_TACKLE" ],
+            [ 6, "MOVE_SUPERSONIC" ],
+            [ 9, "MOVE_COMET_PUNCH" ],
+            [ 14, "MOVE_LIGHT_SCREEN" ],
+            [ 14, "MOVE_REFLECT" ],
+            [ 14, "MOVE_SAFEGUARD" ],
+            [ 17, "MOVE_MACH_PUNCH" ],
+            [ 22, "MOVE_BATON_PASS" ],
+            [ 25, "MOVE_SILVER_WIND" ],
+            [ 30, "MOVE_AGILITY" ],
+            [ 33, "MOVE_SWIFT" ],
+            [ 38, "MOVE_DOUBLE_EDGE" ],
+            [ 41, "MOVE_BUG_BUZZ" ]
+        ],
+        "by_tm": [
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM16",
+            "TM17",
+            "TM20",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM33",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM56",
+            "TM62",
+            "TM70",
+            "TM75",
+            "TM76",
+            "TM87",
+            "TM89",
+            "TM90"
+        ],
+        "egg_moves": [
+            "MOVE_PSYBEAM",
+            "MOVE_BIDE",
+            "MOVE_SILVER_WIND",
+            "MOVE_BUG_BUZZ",
+            "MOVE_SCREECH",
+            "MOVE_ENCORE",
+            "MOVE_KNOCK_OFF",
+            "MOVE_BUG_BITE",
+            "MOVE_FOCUS_PUNCH",
+            "MOVE_DRAIN_PUNCH",
+            "MOVE_DIZZY_PUNCH"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            18,
+            "SPECIES_LEDIAN"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 10,
+        "weight": 108
+    },
+    "offspring": "SPECIES_LEDYBA"
+}

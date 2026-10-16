@@ -1,0 +1,89 @@
+{
+    "base_stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "speed": 100,
+        "special_attack": 81,
+        "special_defense": 100
+    },
+    "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
+    "catch_rate": 75,
+    "unk_09": 2,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 1
+    },
+    "held_items": {
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_RAWST_BERRY"
+    },
+    "unk_10": 0,
+    "gender_ratio": "GENDER_RATIO_FEMALE_75",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
+    "abilities": [ "ABILITY_FLASH_FIRE", "ABILITY_NONE" ],
+    "unk_1A": 70,
+    "unk_1B": 0,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_YELLOW",
+    "flip_sprite": false,
+    "unk_22": 177,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_NASTY_PLOT" ],
+            [ 1, "MOVE_EMBER" ],
+            [ 1, "MOVE_QUICK_ATTACK" ],
+            [ 1, "MOVE_CONFUSE_RAY" ],
+            [ 1, "MOVE_SAFEGUARD" ]
+        ],
+        "by_tm": [
+            "TM03",
+            "TM04",
+            "TM05",
+            "TM06",
+            "TM10",
+            "TM11",
+            "TM15",
+            "TM17",
+            "TM20",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM28",
+            "TM32",
+            "TM35",
+            "TM38",
+            "TM42",
+            "TM43",
+            "TM44",
+            "TM45",
+            "TM48",
+            "TM50",
+            "TM53",
+            "TM59",
+            "TM61",
+            "TM66",
+            "TM68",
+            "TM77",
+            "TM85",
+            "TM87",
+            "TM90"
+        ],
+        "egg_moves": []
+    },
+    "unk_38": 0,
+    "evolutions": [],
+    "pokedex_data": {
+        "height": 11,
+        "weight": 199
+    },
+    "offspring": "SPECIES_VULPIX"
+}

@@ -1,0 +1,116 @@
+{
+    "base_stats": {
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "speed": 25,
+        "special_attack": 45,
+        "special_defense": 55
+    },
+    "types": [ "TYPE_BUG", "TYPE_GRASS" ],
+    "catch_rate": 190,
+    "unk_09": 1,
+    "ev_yields": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+    },
+    "held_items": {
+        "common": "ITEM_TINYMUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "unk_10": 580,
+    "gender_ratio": "GENDER_RATIO_FEMALE_50",
+    "hatch_cycles": 20,
+    "base_friendship": 70,
+    "exp_rate": "EXP_RATE_MEDIUM_FAST",
+    "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_GRASS" ],
+    "abilities": [ "ABILITY_EFFECT_SPORE", "ABILITY_DRY_SKIN" ],
+    "unk_1A": 6,
+    "unk_1B": 120,
+    "unk_1E": 0,
+    "form_count": 1,
+    "body_color": "MON_COLOR_RED",
+    "flip_sprite": false,
+    "unk_22": 57,
+    "learnset": {
+        "by_level": [
+            [ 1, "MOVE_SCRATCH" ],
+            [ 6, "MOVE_STUN_SPORE" ],
+            [ 6, "MOVE_POISON_POWDER" ],
+            [ 11, "MOVE_LEECH_LIFE" ],
+            [ 17, "MOVE_FURY_CUTTER" ],
+            [ 22, "MOVE_SPORE" ],
+            [ 27, "MOVE_SLASH" ],
+            [ 33, "MOVE_GROWTH" ],
+            [ 38, "MOVE_GIGA_DRAIN" ],
+            [ 43, "MOVE_AROMATHERAPY" ],
+            [ 49, "MOVE_RAGE_POWDER" ],
+            [ 54, "MOVE_X_SCISSOR" ]
+        ],
+        "by_tm": [
+            "TM01",
+            "TM06",
+            "TM09",
+            "TM10",
+            "TM11",
+            "TM16",
+            "TM17",
+            "TM21",
+            "TM22",
+            "TM27",
+            "TM28",
+            "TM31",
+            "TM32",
+            "TM36",
+            "TM40",
+            "TM42",
+            "TM44",
+            "TM45",
+            "TM46",
+            "TM48",
+            "TM53",
+            "TM54",
+            "TM70",
+            "TM75",
+            "TM76",
+            "TM81",
+            "TM86",
+            "TM87",
+            "TM90",
+            "TM94",
+            "HM01"
+        ],
+        "egg_moves": [
+            "MOVE_SCREECH",
+            "MOVE_COUNTER",
+            "MOVE_PSYBEAM",
+            "MOVE_FLAIL",
+            "MOVE_SWEET_SCENT",
+            "MOVE_PURSUIT",
+            "MOVE_METAL_CLAW",
+            "MOVE_BUG_BITE",
+            "MOVE_CROSS_POISON",
+            "MOVE_AGILITY",
+            "MOVE_ENDURE",
+            "MOVE_NATURAL_GIFT",
+            "MOVE_LEECH_SEED"
+        ]
+    },
+    "unk_38": 0,
+    "evolutions": [
+        [
+            "EVO_LEVEL",
+            24,
+            "SPECIES_PARASECT"
+        ]
+    ],
+    "pokedex_data": {
+        "height": 3,
+        "weight": 54
+    },
+    "offspring": "SPECIES_PARAS"
+}
