@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR 0101 0000} is\nmoving around energetically!",
+        "{VAR 0101 0000} looks happy\nto meet {VAR 0100 0001}!{VAR BE01}",
+        "{VAR 0101 0000} seems to want\nto join {VAR 0100 0001}'s party...{VAR BE01}",
+        "Would you like to add\nthe Pokémon to your party?",
+        "Would you like {VAR 0101 0000}\nto move to the Deepest Clearing?",
+        "There's no more room in the Deepest\nClearing, so {VAR 0101 0000} could not move!",
+        "Would you like {VAR 0101 0000}\nto move to the Forest Clearing?",
+        "There's no more room in the Forest\nClearing, so {VAR 0101 0000} could not move!",
+        "{VAR 0101 0000} moved to\nthe Deepest Clearing!{VAR BE01}",
+        "{VAR 0101 0000} moved to\nthe Forest Clearing!{VAR BE01}"
+    ],
+    "pad": "d6d6"
+}

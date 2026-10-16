@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_DRAGON", "TYPE_DRAGON" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 40,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_MOLD_BREAKER" ],
-    "unk_1A": 127,
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_MOLD_BREAKER",
+        "ABILITY_UNNERVE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 144,
+    "base_exp_reward": 144,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
@@ -96,7 +99,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 64,
+    "tutor_flags": 64,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -108,5 +111,16 @@
         "height": 10,
         "weight": 360
     },
-    "offspring": "SPECIES_AXEW"
+    "offspring": "SPECIES_AXEW",
+    "text": {
+        "70": "Fraxure",
+        "235": "Their tusks can shatter rocks.\nTerritory battles between Fraxure\ncan be intensely violent.",
+        "236": "Since a broken tusk will not grow back,\nthey diligently sharpen their tusks on\nriver rocks after they've been fighting.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Axe Jaw Pokémon",
+        "268": "79.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Fraxure",
+        "284": "FRAXURE"
+    }
 }

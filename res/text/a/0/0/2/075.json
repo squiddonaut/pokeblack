@@ -1,0 +1,72 @@
+{
+    "flags": 60,
+    "entries": [
+        "men",
+        "girls",
+        "women",
+        "boys",
+        "cool",
+        "cute",
+        "elegant",
+        "unique",
+        "quirky",
+        "balanced",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "ear",
+            "flags": 63
+        },
+        {
+            "text": "head",
+            "flags": 63
+        },
+        {
+            "text": "face",
+            "flags": 63
+        },
+        {
+            "text": "face",
+            "flags": 63
+        },
+        {
+            "text": "body",
+            "flags": 63
+        },
+        {
+            "text": "waist",
+            "flags": 63
+        },
+        {
+            "text": "arm",
+            "flags": 63
+        },
+        {
+            "text": "face",
+            "flags": 63
+        }
+    ],
+    "pad": "9090"
+}

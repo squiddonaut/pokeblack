@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "entries": [
+        "Pokémon Trades help you connect with\nthe world!{VAR BE00}\nThe world will be bigger!{VAR BE01}\nIf you trade Pokémon with many people,\nyou will be happy!{VAR BE01}\nBecause I will give you something good!{VAR BE01}\nSo, Trainer, have you traded Pokémon\nwith many people?",
+        "Hello, Trainer!{VAR BE01}\nHave you traded Pokémon with\nmany people?",
+        "Oh, wonderful.{VAR BE01}\nThen, let me check how many people you\nhave traded Pokémon with.{VAR BE01}",
+        "...{VAR BE01}",
+        "Please trade Pokémon with many people!{VAR BE01}\nI will give you a present if you do.\nBesides, it's fun!",
+        "You've traded Pokémon with {VAR 0200 0000}?\nThe world is bigger than that!{VAR BE01}\nPlease trade with your friends or use\nthe Global Trade Station!",
+        "Zero? You haven't traded with anybody?!\nBut the world is so big!{VAR BE01}\nPlease trade with your friends or use\nthe Global Trade Station!",
+        "Wow!\nYou have traded with {VAR 0200 0000} people!{VAR BE01}",
+        "Wow! Great!\nYou have traded with {VAR 0201 0000} people!{VAR BE01}",
+        "Wow! Impressive!\nYou have traded with {VAR 0201 0000} people!{VAR BE01}",
+        "Wow! Ecstatic!\nYou have traded with {VAR 0201 0000} people!{VAR BE01}",
+        "Wow! Surprising!\nYou have traded with {VAR 0201 0000} people!{VAR BE01}",
+        "Wow! Wonderful!\nYou have traded with at least {VAR 0201 0000} people!{VAR BE01}",
+        "Great!\nI will give this to you!{VAR BE01}",
+        "You are really great!\nI'm happy, so I will give this to you, too!{VAR BE01}",
+        "What are the Pokémon that I traded\ndoing now?{VAR BE01}\nWhat are the people who traded with me\nthinking about now?{VAR BE01}\nThinking about those things\nmakes me happy!"
+    ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_ORAN_BERRY",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_STATIC", "ABILITY_NONE" ],
-    "unk_1A": 31,
+    "abilities": [
+        "ABILITY_STATIC",
+        "ABILITY_NONE",
+        "ABILITY_LIGHTNING_ROD"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 41,
+    "base_exp_reward": 41,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_THUNDER_SHOCK" ],
@@ -88,7 +91,7 @@
             "MOVE_BESTOW"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_HAPPINESS", "SPECIES_PIKACHU" ]
     ],
@@ -96,5 +99,16 @@
         "height": 3,
         "weight": 20
     },
-    "offspring": "SPECIES_PICHU"
+    "offspring": "SPECIES_PICHU",
+    "text": {
+        "70": "Pichu",
+        "235": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "236": "The electric sacs in its cheeks are\nsmall. If even a little electricity\nleaks, it becomes shocked.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Tiny Mouse Pokémon",
+        "268": "4.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Pichu",
+        "284": "PICHU"
+    }
 }

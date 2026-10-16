@@ -1,0 +1,426 @@
+{
+    "flags": 175,
+    "entries": [
+        "Champion Ribbon",
+        "Sinnoh Champ Ribbon",
+        "Cool Ribbon",
+        "Cool Ribbon Super",
+        "Cool Ribbon Hyper",
+        "Cool Ribbon Master",
+        "Beauty Ribbon",
+        "Beauty Ribbon Super",
+        "Beauty Ribbon Hyper",
+        "Beauty Ribbon Master",
+        "Cute Ribbon",
+        "Cute Ribbon Super",
+        "Cute Ribbon Hyper",
+        "Cute Ribbon Master",
+        "Smart Ribbon",
+        "Smart Ribbon Super",
+        "Smart Ribbon Hyper",
+        "Smart Ribbon Master",
+        "Tough Ribbon",
+        "Tough Ribbon Super",
+        "Tough Ribbon Hyper",
+        "Tough Ribbon Master",
+        "Cool Ribbon",
+        "Cool Ribbon Great",
+        "Cool Ribbon Ultra",
+        "Cool Ribbon Master",
+        "Beauty Ribbon",
+        "Beauty Ribbon Great",
+        "Beauty Ribbon Ultra",
+        "Beauty Ribbon Master",
+        "Cute Ribbon",
+        "Cute Ribbon Great",
+        "Cute Ribbon Ultra",
+        "Cute Ribbon Master",
+        "Smart Ribbon",
+        "Smart Ribbon Great",
+        "Smart Ribbon Ultra",
+        "Smart Ribbon Master",
+        "Tough Ribbon",
+        "Tough Ribbon Great",
+        "Tough Ribbon Ultra",
+        "Tough Ribbon Master",
+        "Winning Ribbon",
+        "Victory Ribbon",
+        "Ability Ribbon",
+        "Great Ability Ribbon",
+        "Double Ability Ribbon",
+        "Multi Ability Ribbon",
+        "Pair Ability Ribbon",
+        "World Ability Ribbon",
+        "Artist Ribbon",
+        "Effort Ribbon",
+        "Alert Ribbon",
+        "Shock Ribbon",
+        "Downcast Ribbon",
+        "Careless Ribbon",
+        "Relax Ribbon",
+        "Snooze Ribbon",
+        "Smile Ribbon",
+        "Gorgeous Ribbon",
+        "Royal Ribbon",
+        "Gorgeous Royal Ribbon",
+        "Footprint Ribbon",
+        "Record Ribbon",
+        "Legend Ribbon",
+        "Country Ribbon",
+        "National Ribbon",
+        "Earth Ribbon",
+        "World Ribbon",
+        "Classic Ribbon",
+        "Premier Ribbon",
+        "Event Ribbon",
+        "Birthday Ribbon",
+        "Special Ribbon",
+        "Souvenir Ribbon",
+        "Wishing Ribbon",
+        "Battle Champion Ribbon",
+        "Regional Champion Ribbon",
+        "National Champion Ribbon",
+        "World Champion Ribbon",
+        {
+            "text": "Ribbon for clearing the Pokémon League and\nentering the Hall of Fame in another region.",
+            "flags": 239
+        },
+        {
+            "text": "Ribbon awarded for beating the Sinnoh\nChampion and entering the Hall of Fame.",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cool Contest\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cool Contest\nSuper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cool Contest\nHyper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cool Contest\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Beauty Contest\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Beauty Contest\nSuper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Beauty Contest\nHyper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Beauty Contest\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cute Contest\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cute Contest\nSuper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cute Contest\nHyper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Cute Contest\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Smart Contest\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Smart Contest\nSuper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Smart Contest\nHyper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Smart Contest\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Tough Contest\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Tough Contest\nSuper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Tough Contest\nHyper Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Hoenn Tough Contest\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cool Category\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cool Category\nGreat Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cool Category\nUltra Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cool Category\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Beauty Category\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Beauty Category\nGreat Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Beauty Category\nUltra Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Beauty Category\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cute Category\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cute Category\nGreat Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cute Category\nUltra Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Cute Category\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Smart Category\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Smart Category\nGreat Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Smart Category\nUltra Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Smart Category\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Tough Category\nNormal Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Tough Category\nGreat Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Tough Category\nUltra Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Super Contest Tough Category\nMaster Rank winner!",
+            "flags": 239
+        },
+        {
+            "text": "Ribbon awarded for clearing Hoenn's\nBattle Tower's Lv. 50 challenge.",
+            "flags": 239
+        },
+        {
+            "text": "Ribbon awarded for clearing Hoenn's\nBattle Tower's Lv. 100 challenge.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for defeating the\nTower Tycoon at the Battle Tower.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for defeating the\nTower Tycoon at the Battle Tower.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for completing the\nBattle Tower Double challenge.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for completing the\nBattle Tower Multi challenge.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for completing the\nBattle Tower Link Multi challenge.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for completing the\nWi-Fi Battle Tower challenge.",
+            "flags": 239
+        },
+        {
+            "text": "Ribbon awarded for being chosen as\na super sketch model in Hoenn.",
+            "flags": 239
+        },
+        {
+            "text": "Ribbon awarded for being an\nexceptionally hard worker.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling an invigorating\nevent that created life energy.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling a thrilling\nevent that made life more exciting.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling feelings of\nsadness that added spice to life.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling a careless error\nthat helped steer life decisions.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling a refreshing\nevent that added sparkle to life.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling a deep\nslumber that made life soothing.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon for recalling that smiles\nenrich the quality of life.",
+            "flags": 239
+        },
+        {
+            "text": "An extraordinarily gorgeous and\nextravagant Ribbon.",
+            "flags": 239
+        },
+        {
+            "text": "An incredibly regal Ribbon with an\nair of nobility.",
+            "flags": 239
+        },
+        {
+            "text": "A gorgeous and regal Ribbon that\nis the peak of fabulous.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded to a Pokémon deemed\nto have a top-quality footprint.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for setting an\nincredible record.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for setting a\nlegendary record.",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon League\nChampion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for overcoming all\ndifficult challenges.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon awarded for winning 100\nmatches in a row.",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon League\nChampion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon that proclaims love for\nPokémon.",
+            "flags": 239
+        },
+        {
+            "text": "Special Holiday Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon Event\nParticipation Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon to celebrate a birthday.",
+            "flags": 239
+        },
+        {
+            "text": "A special Ribbon for a special day.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon to cherish a special memory.",
+            "flags": 239
+        },
+        {
+            "text": "A Ribbon said to make your wish come true.",
+            "flags": 239
+        },
+        {
+            "text": "Battle Competition\nChampion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon World Championships\nRegional Champion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon World Championships\nNational Champion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "Pokémon World Championships\nWorld Champion Ribbon",
+            "flags": 239
+        },
+        {
+            "text": "League Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "text": "Contest Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "text": "Tower Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "text": "Memorial Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "text": "Gift Ribbon{VAR 0201 0000}",
+            "flags": 116
+        }
+    ],
+    "pad": "c6c6"
+}

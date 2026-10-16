@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_FIGHTING" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SWARM", "ABILITY_GUTS" ],
-    "unk_1A": 153,
+    "abilities": [
+        "ABILITY_SWARM",
+        "ABILITY_GUTS",
+        "ABILITY_MOXIE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 175,
+    "base_exp_reward": 175,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_NIGHT_SLASH" ],
@@ -105,11 +108,22 @@
             "MOVE_MEGAHORN"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 15,
         "weight": 540
     },
-    "offspring": "SPECIES_HERACROSS"
+    "offspring": "SPECIES_HERACROSS",
+    "text": {
+        "70": "Heracross",
+        "235": "It loves sweet honey. To keep all\nthe honey to itself, it hurls rivals\naway with its prized horn.",
+        "236": "It loves sweet honey. To keep all\nthe honey to itself, it hurls rivals\naway with its prized horn.",
+        "244": "",
+        "245": "4'11\"",
+        "260": "Single Horn Pokémon",
+        "268": "119.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Heracross",
+        "284": "HERACROSS"
+    }
 }

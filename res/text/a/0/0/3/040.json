@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "entries": [
+        "Where did I put those sunglasses?{VAR BE01}",
+        "Ah, I found them.{VAR BE01}\nAnd you’ve really got to have more\nlight to see your way by. {VAR BE01}\nTake this--it’ll help you see in\ndark places.{VAR BE01}",
+        "Meow!\nHow did you find me?!{VAR BE01}\nYou are something else!\nSo, I'm going to give you something. This!{VAR BE01}",
+        "If you use the move Flash, the accuracy\nof the opponent's moves goes down.{VAR BE01}\nWhen you use it twice, the rate to get\nhit by a move will be about half.{VAR BE01}\n'Cause it means more light!{VAR BE01}",
+        "If you use the move Flash, the accuracy\nof the opponent's moves goes down.{VAR BE01}\nWhen you use it twice, the rate to get\nhit by a move will be about half.{VAR BE01}\n'Cause it means more light!",
+        "Smirk!",
+        "Ehehehe...",
+        "There's not a lot you can do alone.\nThere are more things two people can do.{VAR BE01}\nThere are even more things three people\ncan do!{VAR BE01}\nThat's right... I think what's missing\nfrom my dance is company.",
+        "Do you need something?{VAR BE01}\nWhat...?\nYou're looking for Dancers for a team?{VAR BE01}\nIt sounds very interesting, but I don't\nwant to do a favor for someone who isn't{VAR BE00}\nstronger than me.{VAR BE01}\nHey!\nLet's have a battle!",
+        "OK!\nLet's begin!{VAR BE01}",
+        "Hmmmm...",
+        "You're going to create a dance team,\naren't you?{VAR BE01}\nIt sounds very interesting.\nI'd like to join up!{VAR BE01}",
+        {
+            "text": "Café Sonata",
+            "flags": 207
+        }
+    ],
+    "pad": "c2c2"
+}

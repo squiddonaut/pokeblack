@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hello, and welcome to\nthe Pokémon Center.{VAR BE01}\nWe restore your tired Pokémon\nto full health.{VAR BE01}\nWould you like to rest your Pokémon?",
+        "Good morning! Welcome to\nthe Pokémon Center.{VAR BE01}\nWe restore your tired Pokémon\nto full health.{VAR BE01}\nWould you like to rest your Pokémon?",
+        "Hello, and welcome to\nthe Pokémon Center.{VAR BE01}\nWe restore your tired Pokémon\nto full health.{VAR BE01}\nWould you like to rest your Pokémon?",
+        "Welcome to the Pokémon Center.{VAR BE01}\nHey! Is today your birthday?",
+        "Happy birthday!{VAR BE01}\nPlease keep visiting the Pokémon Center\nfor many years to come.{VAR BE01}\nNow, would you like to rest\nyour Pokémon?",
+        "It isn't? Oh, I must have been confused.{VAR BE01}\nWould you like to rest your Pokémon?",
+        "OK, I'll take your Pokémon for\na few seconds.",
+        "Thank you for waiting.{VAR BE01}\nWe've restored your Pokémon\nto full health.{VAR BE01}",
+        "We hope to see you again!",
+        "Hello, and welcome to\nthe Pokémon Center.{VAR BE01}\nWe restore your tired Pokémon\nto full health.{VAR BE01}\nWould you like to...{VAR BE01}",
+        "Th-that Trainer Card!\nThat wonderful shade! That sparkle!{VAR BE01}\nI've seen several Trainers with\nSilver Trainer Cards already...{VAR BE01}\nBut you're the first to top them all with\nthat impressive Trainer Card.{VAR BE01}\nOh, {VAR 0100 0000}, may I please heal\nyour Pokémon?",
+        "Great to see you, {VAR 0100 0000}!\nYou want the usual, right?",
+        "Oh... It looks like your Pokémon may be\ninfected with the Pokérus.{VAR BE01}\nLittle is known about the Pokérus,\nexcept that it is a microscopic life-form{VAR BE00}\nthat attaches to Pokémon.{VAR BE01}\nWhile infected, Pokémon are said to\ngrow exceptionally well.",
+        "Welcome to the Pokémon Wireless\nClub Union Room.{VAR BE01}\nYou may interact directly with\nmany Trainers here.{VAR BE01}\nWould you like to enter the room?",
+        "The Trainers in the Union Room\nwill be those players around you{VAR BE00}\nwho have also entered the room.{VAR BE01}\nYou may trade your Pokémon here\nor have battles for two or four.{VAR BE01}\nAlso, you may exchange Eggs\nor draw pictures with other players.{VAR BE01}\nYou may also chat with other\nplayers in the room.{VAR BE01}\nOr you may find friends by touching\nthe spoken words.{VAR BE01}\nWould you like to enter the room?",
+        "DS Wireless Communications\nwill be launched.",
+        "I hope you enjoy your time in\nthe Union Room.{VAR BE01}",
+        "Please do visit again.",
+        {
+            "text": "Enter the Union Room",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        "I am sorry...\nYou can't enter the Union Room yet.{VAR BE01}",
+        "You have at least one Pokémon\nthat can't be taken in.{VAR BE01}",
+        "Wait, Trainer!{VAR BE01}\nYour title on your Trainer Card\nis still just “Pokémon Trainer,\" isn't it?{VAR BE01}\nIf you change your title, you can easily\nproject your image to others when you{VAR BE00}\ngreet them in the Union Room.{VAR BE01}\nLet's see...\nHow about {VAR 010E 0000}?{VAR BE00}\nWhat do you think?{VAR BE01}\nThat is the impression I got from you.\nFirst, let's change your title.{VAR BE01}\nIf you don't like the new one, you can\nchange it by selecting your Trainer Card.{VAR BE01}",
+        "It seems you can't use it yet."
+    ],
+    "pad": "acac"
+}

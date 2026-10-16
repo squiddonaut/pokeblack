@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_GHOST" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 2,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_NO_GENDER",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_ERRATIC",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_WONDER_GUARD", "ABILITY_NONE" ],
-    "unk_1A": 25,
+    "abilities": [
+        "ABILITY_WONDER_GUARD",
+        "ABILITY_NONE",
+        "ABILITY_WONDER_GUARD"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 83,
+    "base_exp_reward": 83,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
@@ -85,11 +88,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 8,
         "weight": 12
     },
-    "offspring": "SPECIES_NINCADA"
+    "offspring": "SPECIES_NINCADA",
+    "text": {
+        "70": "Shedinja",
+        "235": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one's spirit.",
+        "236": "A discarded bug shell that came to\nlife. Peering into the crack on its\nback is said to steal one's spirit.",
+        "244": "",
+        "245": "2'07\"",
+        "260": "Shed Pokémon",
+        "268": "2.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Shedinja",
+        "284": "SHEDINJA"
+    }
 }

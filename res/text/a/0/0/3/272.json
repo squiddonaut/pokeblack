@@ -1,0 +1,8 @@
+{
+    "flags": 224,
+    "entries": [
+        "Wahaha. Isn't this a beautiful bridge?{VAR BE01}\nThis old bridge was built when my\ngreat-great-great-grandfather{VAR BE00}\nwas around.",
+        "My grandpa is a stonecutter for\nVillage Bridge!",
+        "Isn't this a unique sort of bridge?{VAR BE01}\nA long time ago, the river overflowed,\nand all the houses were washed away.{VAR BE01}\nSo people built new houses on top of the\nbridge to keep them safe from flooding!{VAR BE00}\nIt's a simple solution, but it's genius!"
+    ]
+}

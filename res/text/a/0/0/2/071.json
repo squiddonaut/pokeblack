@@ -1,0 +1,96 @@
+{
+    "flags": 195,
+    "entries": [
+        {
+            "text": "Loading...\nPlease wait a moment.",
+            "flags": 192
+        },
+        "No compatible Game Card is inserted.\nPlease turn off the power and\ninsert a compatible Game Card\nbefore you retry Poké Transfer.{VAR BE01}",
+        {
+            "text": "Activating Poké Transfer...\nPlease stand by.",
+            "flags": 192
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 192
+        },
+        "The game has been saved.{VAR BE02 003C}",
+        {
+            "text": "Would you like to use\nPoké Transfer again?",
+            "flags": 240
+        },
+        "Poké Transfer will close.\nPlease turn off the power.",
+        "There is not enough room\nleft in the PC in the other\nDS system.{VAR BE01}",
+        "There aren't six Pokémon in the PC\nBoxes for Poké Transfer to catch.{VAR BE01}",
+        "The saved data\ncould not be accessed.{VAR BE01}",
+        "Unable to connect\nto the other DS system.{VAR BE01}",
+        "Save failed...{VAR BE01}",
+        {
+            "text": "Pokémon CANNOT be returned\nonce they transfer.{VAR BE00}\nTransfer these Pokémon?",
+            "flags": 229
+        },
+        {
+            "text": "Pokémon were sent back\nwhere they came from.{VAR BE01}",
+            "flags": 229
+        },
+        "Error reading the save file.\nThere may not be a save file,\nor the save file may be corrupted.{VAR BE01}",
+        "No compatible Game Card is inserted.\nPlease turn off the power and\ninsert a compatible Game Card\nbefore you retry Poké Transfer.{VAR BE01}",
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        {
+            "text": "Lv. {VAR 0202 0000}",
+            "flags": 72
+        },
+        {
+            "text": "An Egg cannot be caught\nwith Poké Transfer!",
+            "flags": 240
+        },
+        {
+            "text": "This Pokémon knows a hidden move.\nIt cannot be caught with Poké Transfer.",
+            "flags": 240
+        },
+        {
+            "text": "This Pokémon cannot be\ncaught with Poké Transfer.",
+            "flags": 240
+        },
+        {
+            "text": "The six chosen Pokémon will be transferred.",
+            "flags": 240
+        },
+        {
+            "text": "Oh! This Pichu needs to stay where it is.{VAR BE01}\nIt appears to have traveled\nthrough time.{VAR BE01}\nIt has been affected by traveling\nso far through time with Celebi.{VAR BE01}\nIt'll be very risky to transfer it,\nso it's best for Pichu to stay where it is.",
+            "flags": 229
+        },
+        {
+            "text": "Held items will be put\nin the Bag. Is that OK?",
+            "flags": 240
+        },
+        {
+            "text": "When the Bag is full of a certain item, you'll\nlose held items of that kind. Is that OK?",
+            "flags": 240
+        },
+        {
+            "text": "Would you like to end Poké Transfer?",
+            "flags": 240
+        },
+        {
+            "text": "Please choose the six Pokémon\nto transfer and slide them\nto the frame to the right.",
+            "flags": 240
+        },
+        {
+            "text": "Catch all the Pokémon\nbefore time runs out!",
+            "flags": 192
+        },
+        {
+            "text": "デバッグROM\nDP　Y\nPT　X\nGS　A",
+            "flags": 0
+        }
+    ],
+    "pad": "8080"
+}

@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Pokémon will be strong if you train them,\neven if they're weak now.{VAR BE01}\nLove is what's important!",
+        "If you get strong, you can move forward.\nIf you move forward, you'll be stronger.{VAR BE01}\nThat's the cool thing about journeys!",
+        "When a hero leads the world, a Pokémon\nis going to come and help the hero...{VAR BE01}\nEverybody in the Unova region\nknows that legend!"
+    ],
+    "pad": "d4d4"
+}

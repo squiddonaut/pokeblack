@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Bolt Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Bolt Badge!\nUnfurl a shocking battle!",
+        "First, obtain the Bolt Badge\nfrom the Nimbasa Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "8080"
+}

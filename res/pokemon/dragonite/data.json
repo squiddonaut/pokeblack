@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_DRAGON", "TYPE_FLYING" ],
     "catch_rate": 45,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 3,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_DRAGON_SCALE"
+        "rare": "ITEM_DRAGON_SCALE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 40,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_INNER_FOCUS", "ABILITY_NONE" ],
-    "unk_1A": 136,
+    "abilities": [
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_NONE",
+        "ABILITY_MULTISCALE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 270,
+    "base_exp_reward": 270,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_FIRE_PUNCH" ],
@@ -113,11 +116,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 64,
+    "tutor_flags": 64,
     "evolutions": [],
     "pokedex_data": {
         "height": 22,
         "weight": 2100
     },
-    "offspring": "SPECIES_DRATINI"
+    "offspring": "SPECIES_DRATINI",
+    "text": {
+        "70": "Dragonite",
+        "235": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore.",
+        "236": "It is said to make its home\nsomewhere in the sea. It guides\ncrews of shipwrecks to shore.",
+        "244": "",
+        "245": "7'03\"",
+        "260": "Dragon Pokémon",
+        "268": "463.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Dragonite",
+        "284": "DRAGONITE"
+    }
 }

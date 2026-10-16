@@ -1,0 +1,76 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}, stop!{VAR BE01}\nYou've got a Bolt Badge...\nI've got a Bolt Badge...{VAR BE01}\nLet's test who's stronger--you or me!\nThis time, I'm going to win!{VAR BE01}",
+        "Cheren: Why?\nWhy can't I beat you?{VAR BE01}",
+        "Elesa: Oh, you two are friends...{VAR BE01}\nThat's nice, how you're helping each\nother get better by competing.{VAR BE01}",
+        "OK, let's go.{VAR BE01}",
+        "???: Oh!\nWhy, if it isn't Elesa!{VAR BE01}",
+        "???: Aren't festivals grand?\nLife should be enjoyed!{VAR BE01}",
+        "Cheren: Who is this man?{VAR BE01}",
+        "Elesa: This is Alder,\nthe Unova region's Champion.{VAR BE01}",
+        "Cheren: Champion?!{VAR BE01}\nWhy would the Champion be\ngoofing off in a place like this?{VAR BE01}",
+        "Alder: I heard that remark.\nYou're quite a judgmental young person,{VAR BE00}\nare you not?{VAR BE01}\nMy name is Alder. I'm the Unova\nPokémon League's Champion.{VAR BE01}\nPleased to make your acquaintance.{VAR BE01}\nFor your information, I'm not\ngoofing off. I'm on a voyage.{VAR BE00}\nI know every corner of Unova.{VAR BE01}",
+        "Cheren: Um. I'm Cheren, from\nNuvema Town.{VAR BE01}\nMy goal as a Trainer is to\nbecome the Champion.{VAR BE01}",
+        "Alder: Hm. Traveling with a goal in mind\nis a commendable thing.{VAR BE01}\nAnd what do you plan to do\nafter becoming the Champion?{VAR BE01}",
+        "Cheren: What else is there other than\nstriving to become stronger?{VAR BE01}\nThe strongest Trainer--\nthat's the Champion.{VAR BE01}",
+        "Alder: Hmm. Becoming stronger...\nBecoming stronger, you say...{VAR BE00}\nIs that alone enough of a goal? Hmmm.{VAR BE01}\nIt's not that I'm trying to say your way\nof thinking is wrong...{VAR BE01}",
+        "In my travels, I've helped many people\nlearn to love Pokémon. I think that's{VAR BE00}\nimportant, too.{VAR BE01}\nIf you play with those children,\nyou might gain more of an understanding.{VAR BE01}\nWill you two have a Pokémon battle\nwith those two?{VAR BE01}",
+        "Hey, you two. Come\nhere for a moment.{VAR BE01}",
+        "Cheren: ...Understood.{VAR BE01}\nBut, before that...{VAR BE01}",
+        "Cheren fully healed \n{VAR 0100 0000}'s Pokémon!",
+        "Cheren: OK, let's battle.{VAR BE01}",
+        "Alder: Nicely done! You didn't win, but\nthat was a good battle. Your Pokémon{VAR BE00}\nlooked like they were having fun.{VAR BE01}",
+        "Young man, if there are people\nlike you who pursue strength,{VAR BE00}\nthere are also people who are{VAR BE00}\nhappy just being with Pokémon.{VAR BE01}\nThere are many different people\nand many different answers.{VAR BE01}\nWhen it comes to what a Champion\nshould be, you and I may hold differing{VAR BE00}\nviews, but so be it! Give it some thought.{VAR BE01}",
+        "Alder: It's tremendous that people and\nPokémon, each so different, can{VAR BE00}\nacknowledge each other and be together!",
+        "Alder is so strong!\nAnd he's nice to Pokémon!",
+        "I was scared of Pokémon, but Alder\ntaught me that they're nice and friendly.",
+        "Elesa: Let's roll.\nThe Driftveil Drawbridge is just ahead.{VAR BE01}",
+        "Cheren: The Champion is the strongest\nof the strong! That's all there is to it.{VAR BE01}",
+        "Cheren: This way.{VAR BE01}",
+        "Elesa: Now to contact him...{VAR BE01}",
+        "It's me, Elesa.\nPlease lower the drawbridge.{VAR BE01}\nI have a couple of Trainers here\nwho want to challenge you.{VAR BE01}\nOK...\nThanks.{VAR BE01}",
+        "Now, watch this!{VAR BE01}",
+        "Elesa: I have a TV gig, so I've got to go.{VAR BE01}\nThe Gym Leader of the next town\nmay take some getting used to...{VAR BE00}\nDo your best, both of you.{VAR BE01}",
+        "Cheren: What I am is a Trainer.{VAR BE01}\nI prove I'm right by getting stronger\nand winning in battle--{VAR BE00}\neven against the Champion.{VAR BE01}",
+        "Excuse me!\nPlease stop right there!{VAR BE01}",
+        "The drawbridge is raised right now\nso ships can pass. You can't cross.{VAR BE01}\nIf you make a request to Driftveil's Gym\nLeader, Clay, he could... Well, I'm not{VAR BE00}\nsure how you'd reach him over there...{VAR BE01}\nIf you talk to Nimbasa City's Gym Leader,\nElesa, she might be able to do something.",
+        "The drawbridge is raised right now\nso ships can pass. You can't cross.{VAR BE01}\nIf you make a request to Driftveil's Gym\nLeader, Clay, he could... Well, I'm not{VAR BE00}\nsure how you'd reach him over there...{VAR BE01}\nIf you talk to Nimbasa City's Gym Leader,\nElesa, she might be able to do something.{VAR BE01}",
+        "A bridge would be meaningless\nif no one ever crossed it.{VAR BE01}\nBridges connect the world...\nThat's as solid as a symbol can get.",
+        "Hum fiercely! My battle song!\nBattle fiercely! My Pokémon!{VAR BE01}",
+        "In battling you, I came to understand...{VAR BE01}\nYou're the best!\nHere! This is for you!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "If you want your Pokémon to\nhold this Electric Guitar,{VAR BE00}\ngo to the Musical Theater!{VAR BE00}\nCooler than cool!",
+        "Cheren: Strength and strength alone\nis what matters in this world.{VAR BE01}\nSo I believed, until I met Alder here.{VAR BE01}",
+        "But, winning in Pokémon battles\nisn't all there is to life.{VAR BE01}\nOnce I learned that lesson, my eyes\nwere opened to many different things.{VAR BE01}",
+        "We all have our own brand of strength,\npeople and Pokémon both.{VAR BE01}\nThe strength to make our dreams\na reality, the strength to protect{VAR BE00}\nwhat we hold most dear...{VAR BE01}",
+        "Why do I think this way now?\nIt's thanks to you, {VAR 0100 0000}...{VAR BE01}\nAnd Bianca...\nAnd Alder...{VAR BE01}\nIf only N could see this, too, someday.{VAR BE01}",
+        "I'm going to take a long, hard look\nat myself on Victory Road.{VAR BE01}\nI'm going to think about what I can do\nand who I can become...{VAR BE01}\nVisit me sometime, if you want.\nWe'll have a battle like old times.{VAR BE01}",
+        "The Pokémon and the performers\nall have amazing moves!",
+        "I think being able to make people\nsmile is a super-awesome talent!{VAR BE01}\nThat's why Pokémon are so awesome!\nBecause they can make you smile!",
+        "The street performers are my favorites.\nThey're so charming!",
+        {
+            "text": "Route 5\nPerformer Street",
+            "flags": 207
+        },
+        {
+            "text": "Driftveil Drawbridge",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nThere are different Cases\nfor each type of item.{VAR BE01}\nItems are placed automatically in\nthe correct Case by their type.{VAR BE01}\nThe name of the Case tells you\nwhat type of items will be kept there.",
+            "flags": 207
+        }
+    ]
+}

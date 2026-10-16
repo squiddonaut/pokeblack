@@ -1,0 +1,5 @@
+{
+    "flags": 229,
+    "entries": [ "{VAR 0100 0000}!{VAR BE01}\n{VAR 0100 0000}!!{VAR BE01}\nHello?\n{VAR 0100 0000}!!{VAR BE01}\nOh! You picked up!\nHey, {VAR 0100 0000}.{VAR BE01}\nCome to the museum in Nacrene City\nimmediately! Right away, got it?{VAR BE01}\nI mean right now!{VAR BE01}" ],
+    "pad": "0c0c"
+}

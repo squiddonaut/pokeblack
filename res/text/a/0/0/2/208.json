@@ -1,0 +1,849 @@
+{
+    "flags": 18,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0102 0000} was not traded.{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0102 0000} appears to have\nfled...{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Are you seeking or offering a Pokémon?",
+            "flags": 216
+        },
+        {
+            "text": "Do what with this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "text": "Will you take this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "text": "Is it OK to disconnect from\nNintendo Wi-Fi Connection?",
+            "flags": 216
+        },
+        {
+            "text": "What kind of Pokémon are you seeking?",
+            "flags": 216
+        },
+        {
+            "text": "Please choose the Pokémon you want.",
+            "flags": 216
+        },
+        {
+            "text": "Please choose its gender.",
+            "flags": 216
+        },
+        {
+            "text": "Please choose the level.",
+            "flags": 216
+        },
+        {
+            "text": "Please choose the Pokémon you want!",
+            "flags": 216
+        },
+        {
+            "text": "Searching for the Pokémon you want...",
+            "flags": 216
+        },
+        {
+            "text": "None were found!",
+            "flags": 216
+        },
+        {
+            "text": "Stop searching?",
+            "flags": 216
+        },
+        {
+            "text": "Trade Pokémon with this Trainer?",
+            "flags": 216
+        },
+        {
+            "text": "Choose the Pokémon you are trading.",
+            "flags": 216
+        },
+        {
+            "text": "Do what with this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Choose the Pokémon you want to offer.",
+            "flags": 216
+        },
+        {
+            "text": "Offer {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "text": "Are these conditions OK?",
+            "flags": 216
+        },
+        {
+            "text": "Checking GTS's status...",
+            "flags": 201
+        },
+        {
+            "text": "The Ball Capsule will be detached.\nIs that OK?",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13266)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13267)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13268)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13269)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13270)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "That Pokémon may not be offered\nfor trade (13271)!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "An Egg may not be offered\nfor trade!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Your Storage Boxes are full.\nYou can't receive a Pokémon!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "A trade partner has been found!",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Touch “SELECT\" to set trade partner.",
+            "flags": 216
+        },
+        {
+            "text": "Please change your conditions.",
+            "flags": 216
+        },
+        {
+            "text": "Please wait a while.",
+            "flags": 216
+        },
+        {
+            "text": "Your party is full. You can't receive\na Pokémon that is holding Mail.{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "There is no room in your party.",
+            "flags": 216
+        },
+        {
+            "text": "It has a special Ribbon.\nIt can't be offered for a trade.{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "GTS check failed.",
+            "flags": 216
+        },
+        {
+            "text": "{VAR BD02}GLOBAL TRADE SYSTEM",
+            "flags": 224
+        },
+        {
+            "text": "{VAR BD02}SUMMARY",
+            "flags": 120
+        },
+        {
+            "text": "{VAR BD02}DEPOSIT POKÉMON",
+            "flags": 120
+        },
+        {
+            "text": "{VAR BD02}SEEK POKÉMON",
+            "flags": 120
+        },
+        {
+            "text": "{VAR BD02}QUIT",
+            "flags": 120
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "OFFERER",
+            "flags": 76
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "TAKE BACK",
+            "flags": 86
+        },
+        {
+            "text": "LEAVE AS IS",
+            "flags": 86
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        {
+            "text": "NAME",
+            "flags": 48
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "POKÉMON",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "GENDER",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "LEVEL",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "SEARCH",
+            "flags": 80
+        },
+        {
+            "text": "{VAR BD02}BACK",
+            "flags": 48
+        },
+        {
+            "text": "SELECT",
+            "flags": 80
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "ITEM",
+            "flags": 48
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "WANTED",
+            "flags": 93
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "OT'S LOCATION",
+            "flags": 93
+        },
+        {
+            "text": "{VAR 0124 0008}",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0125 0009}",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "text": "TRADE",
+            "flags": 86
+        },
+        {
+            "text": "CANCEL",
+            "flags": 86
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "IN PARTY",
+            "flags": 104
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "text": "DEPOSIT",
+            "flags": 86
+        },
+        {
+            "text": "CANCEL",
+            "flags": 86
+        },
+        {
+            "text": "WANTED",
+            "flags": 93
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "OFFER POKÉMON",
+            "flags": 96
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Lv.",
+            "flags": 21
+        },
+        {
+            "text": "{VAR 0202 0003}",
+            "flags": 32
+        },
+        {
+            "text": "Lv. {VAR 0202 0003}",
+            "flags": 96
+        },
+        {
+            "text": "CANCEL",
+            "flags": 48
+        },
+        "ABC",
+        "DEF",
+        "GHI",
+        "JKL",
+        "MNO",
+        "PQR",
+        "STU",
+        "VWX",
+        "YZ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "EITHER",
+            "flags": 70
+        },
+        {
+            "text": "⑭",
+            "flags": 9
+        },
+        {
+            "text": "⑮",
+            "flags": 9
+        },
+        {
+            "text": "{VAR BD02}Back",
+            "flags": 48
+        },
+        {
+            "text": "ANY",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 9 and under",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 10 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 20 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 30 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 40 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 50 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 60 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 70 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 80 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 90 and up",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 100",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Unfortunately, it was traded to\nanother Trainer.{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 201
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "The GTS is currently\nundergoing maintenance.{VAR BE01}\nPlease try again later.{VAR BE01}",
+            "flags": 225
+        },
+        {
+            "text": "The GTS is very crowded now.\nPlease try again later (13261).{VAR BE01}",
+            "flags": 225
+        },
+        {
+            "text": "The search failed...",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13272{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13275{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13263{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13265{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13264{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13273{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13281{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "Communication error.\nFor help, visit support.nintendo.com.{VAR BE00}\nError code: 13282{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "Unable to connect to the GTS.{VAR BE01}",
+            "flags": 225
+        },
+        {
+            "text": "You were disconnected from the GTS.\nError code: 13262{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "You were disconnected from the GTS.\nError code: 13274{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "The connection has been lost.",
+            "flags": 216
+        },
+        {
+            "text": "Returning to the reception counter.",
+            "flags": 216
+        },
+        {
+            "text": "ANY",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 1 to 10",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 11 to 20",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 21 to 30",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 31 to 40",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 41 to 50",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 51 to 60",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 61 to 70",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 71 to 80",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 81 to 90",
+            "flags": 88
+        },
+        {
+            "text": "Lv. 91 to 100",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "LOCATION",
+            "flags": 100
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "ANY",
+            "flags": 215
+        },
+        {
+            "text": " ANY",
+            "flags": 72
+        },
+        {
+            "text": "{VAR BD02}Back",
+            "flags": 48
+        },
+        {
+            "text": "Please choose a Pokémon location.",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 216
+        },
+        {
+            "text": "This Pokémon cannot be traded while\nholding that item!{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "text": "O.T.",
+            "flags": 32
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "GTS",
+            "flags": 144
+        },
+        {
+            "text": "GTS\nTRADE POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "GTS\nSUMMARY",
+            "flags": 144
+        },
+        {
+            "text": "GTS\nDEPOSIT POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "GTS\nSEEK POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "CANCEL",
+            "flags": 80
+        },
+        {
+            "text": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "text": "/",
+            "flags": 16
+        }
+    ],
+    "pad": "3636"
+}

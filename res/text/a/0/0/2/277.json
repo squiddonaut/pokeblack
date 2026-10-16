@@ -1,0 +1,298 @@
+{
+    "flags": 16,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Please enter the search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Please enter the order.",
+            "flags": 240
+        },
+        {
+            "text": "Please enter the first letter in the name.",
+            "flags": 240
+        },
+        {
+            "text": "Please enter the type.",
+            "flags": 240
+        },
+        {
+            "text": "Please enter the form.",
+            "flags": 240
+        },
+        {
+            "text": "Please enter the color.",
+            "flags": 240
+        },
+        {
+            "text": "Pokémon found!",
+            "flags": 240
+        },
+        {
+            "text": "No Pokémon found...",
+            "flags": 240
+        },
+        {
+            "text": "Searching...",
+            "flags": 240
+        },
+        {
+            "text": "ORDER",
+            "flags": 80
+        },
+        {
+            "text": "NAME",
+            "flags": 80
+        },
+        {
+            "text": "TYPE",
+            "flags": 80
+        },
+        {
+            "text": "COLOR",
+            "flags": 80
+        },
+        {
+            "text": "FORM",
+            "flags": 80
+        },
+        {
+            "text": "Unova Pokédex: Search Mode",
+            "flags": 185
+        },
+        {
+            "text": "National Pokédex: Search Mode",
+            "flags": 185
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "START",
+            "flags": 80
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Number",
+            "flags": 80
+        },
+        {
+            "text": "A to Z",
+            "flags": 80
+        },
+        {
+            "text": "Heavy to Light",
+            "flags": 80
+        },
+        {
+            "text": "Light to Heavy",
+            "flags": 80
+        },
+        {
+            "text": "Tall to Short",
+            "flags": 80
+        },
+        {
+            "text": "Short to Tall",
+            "flags": 80
+        },
+        {
+            "text": "Dark",
+            "flags": 54
+        },
+        {
+            "text": "Rock",
+            "flags": 54
+        },
+        {
+            "text": "Psychic",
+            "flags": 54
+        },
+        {
+            "text": "Fighting",
+            "flags": 54
+        },
+        {
+            "text": "Grass",
+            "flags": 54
+        },
+        {
+            "text": "Ice",
+            "flags": 54
+        },
+        {
+            "text": "Ghost",
+            "flags": 54
+        },
+        {
+            "text": "Ground",
+            "flags": 54
+        },
+        {
+            "text": "Electric",
+            "flags": 54
+        },
+        {
+            "text": "Poison",
+            "flags": 54
+        },
+        {
+            "text": "Dragon",
+            "flags": 54
+        },
+        {
+            "text": "Normal",
+            "flags": 54
+        },
+        {
+            "text": "Steel",
+            "flags": 54
+        },
+        {
+            "text": "Flying",
+            "flags": 54
+        },
+        {
+            "text": "Fire",
+            "flags": 54
+        },
+        {
+            "text": "Water",
+            "flags": 54
+        },
+        {
+            "text": "Bug",
+            "flags": 54
+        },
+        {
+            "text": "-",
+            "flags": 54
+        },
+        {
+            "text": "/",
+            "flags": 7
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "--",
+        {
+            "text": "Red",
+            "flags": 80
+        },
+        {
+            "text": "Blue",
+            "flags": 80
+        },
+        {
+            "text": "Yellow",
+            "flags": 80
+        },
+        {
+            "text": "Green",
+            "flags": 80
+        },
+        {
+            "text": "Black",
+            "flags": 80
+        },
+        {
+            "text": "Brown",
+            "flags": 80
+        },
+        {
+            "text": "Purple",
+            "flags": 80
+        },
+        {
+            "text": "Gray",
+            "flags": 80
+        },
+        {
+            "text": "White",
+            "flags": 80
+        },
+        {
+            "text": "Pink",
+            "flags": 80
+        },
+        {
+            "text": "-",
+            "flags": 80
+        }
+    ]
+}

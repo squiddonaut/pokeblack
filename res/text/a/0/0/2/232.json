@@ -1,0 +1,116 @@
+{
+    "flags": 240,
+    "entries": [
+        "Unable to connect to Nintendo\nWi-Fi Connection.\n\nFor help, check the software\nInstruction Booklet or visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Either Nintendo Wi-Fi Connection\nis experiencing high traffic\nvolumes or the service is down.\nPlease try again later. \n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "This Nintendo Wi-Fi Connection ID\nwas removed because it was\ninactive for a long time. \n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Nintendo Wi-Fi Connection service\nfor this software has been discontinued.\n\nVisit support.nintendo.com for a list \nof current Nintendo Wi-Fi \nConnection-compatible software. \nError code: {VAR 0204 0000}",
+        "The access point is busy.\nUnable to connect.\nPlease try again later.\n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "No access point in range.\nPlease try again when closer to\nan access point.\n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "No compatible access point in\nrange. Check your connection \nsettings and try again. \n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Unable to connect to the Nintendo\nWi-Fi USB Connector. Check your\nconnection settings in the\nNintendo Wi-Fi Connection setup.\n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Unable to connect to Nintendo \nWi-Fi Connection. Check \nyour connection settings and \ntry again.\n\nFor help, visit\nsupport.nintendo.com.\nError code: {VAR 0204 0000}",
+        "There is no response.\n\nEither the player has been\ndisconnected or you have\nbeen removed from the\nplayer's Pal Pad.\n\nError code: {VAR 0204 0000}",
+        "Communication error.\nYou have been disconnected from\nNintendo Wi-Fi Connection.\n\nFor help, visit\nsupport.nintendo.com.\n\nError code: {VAR 0204 0000}",
+        "Communication error.\n\nFor help, visit\nsupport.nintendo.com.\n\nError code: {VAR 0204 0000}",
+        "Download failed.\n\nFor help, visit\nsupport.nintendo.com.\n\nError code: {VAR 0204 0000}",
+        "Communication error.\nYou have been disconnected from\nNintendo Wi-Fi Connection.",
+        "Communication error...",
+        "Nintendo Wi-Fi Connection cannot be\nused because an error has occurred.\nTurn off the power and try again.\nError code: {VAR 0204 0000}",
+        "Your Wi-Fi User Information may have been\nerased.\n\nCheck your connection settings with the\nNintendo Wi-Fi Connection setup.\n\nFor help, visit support.nintendo.com.",
+        "Connect to Nintendo Wi-Fi Connection?",
+        "Nintendo Wi-Fi Connection treats your\nNintendo DS Game Card and the system\nas a set.\n\nSave this system's Wi-Fi User Information\nto this Game Card and connect\nto Nintendo Wi-Fi Connection?",
+        "Wi-Fi User Information for this\nsystem has been saved to the Game Card.\n\nFrom now on, please use this system\nto connect to Nintendo Wi-Fi Connection.",
+        "Unable to connect to\nNintendo Wi-Fi Connection\nbecause the Wi-Fi User\nInformation from the system \nand the Game Card do not match.",
+        "Update Wi-Fi User Information\nsaved in the save data?\nWhen you update your\nWi-Fi User Information, you will\nlose all data that was used to\nconnect to Nintendo Wi-Fi Connection.",
+        "Connect to Nintendo Wi-Fi Connection\nto update Wi-Fi User Information?\n\nWarning:\nAll of the friends registered in your\nPal Pad and the Rating Mode results\nfor Random Matchup will be deleted.",
+        {
+            "text": "Connecting to Nintendo Wi-Fi\nConnection... Please wait a moment...",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "OK to disconnect from\nNintendo Wi-Fi Connection?",
+            "flags": 216
+        },
+        {
+            "text": "Disconnecting from\nNintendo Wi-Fi Connection.",
+            "flags": 201
+        },
+        {
+            "text": "You have been disconnected\nfrom Nintendo Wi-Fi Connection.{VAR BE02 0064}",
+            "flags": 216
+        },
+        {
+            "text": "Yes",
+            "flags": 86
+        },
+        {
+            "text": "No",
+            "flags": 86
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Please configure your connection settings\nunder the Internet option\nin the System Settings.\n\nFor help, visit support.nintendo.com.",
+            "flags": 232
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "To use this feature, you must accept\nthe terms of the Nintendo DSi\nNetwork Services Agreement\nin the System Settings.\n\nError code: 50599",
+        {
+            "text": "{VAR BD02}Connect to Nintendo WFC",
+            "flags": 192
+        },
+        {
+            "text": "{VAR BD02}Disconnect from Nintendo WFC",
+            "flags": 192
+        },
+        "Disconnected from Nintendo Wi-Fi Connection\ndue to communication error.\n\nWould you like to reconnect to\nNintendo Wi-Fi Connection?",
+        "Are you sure you want to update\nWi-Fi User Information?\n\nWarning:\nYou will be unregistered from the\nWi-Fi Competition you've registered.",
+        "Wireless communications\nare turned OFF. Turn \nwireless communications\nON in the System Settings.\n\nError code: 50699",
+        "The connection with the other person\nhas been lost.",
+        "Communication error.\nPlease turn off the power.",
+        "Your Wi-Fi User Information\nmay have been erased.\nCheck your connection settings\nunder the Internet option in the\nSystem Settings.\n\nFor help, visit\nsupport.nintendo.com.",
+        "Nintendo Wi-Fi Connection treats your\nsave data and Nintendo DSi system\nas a set.\nSave this Nintendo DSi system's\nWi-Fi User Information to this save data\nand connect to Nintendo Wi-Fi Connection?",
+        "Wi-Fi User Information for this\nNintendo DSi system has been\nsaved to the save data.\nFrom now on, please use this\nNintendo DSi system to connect to\nNintendo Wi-Fi Connection.",
+        "Unable to connect to\nNintendo Wi-Fi Connection\nbecause the Wi-Fi User Information\nfrom the Nintendo DSi system and\nthe save data do not match. ",
+        "Update Wi-Fi User Information\nsaved in the save data?\nWhen you update your\nWi-Fi User Information, you will\nlose all data that was used to\nconnect to Nintendo Wi-Fi Connection.",
+        "Unable to connect to\nNintendo Wi-Fi Connection.\n\nFor details, check the\nNintendo DSi Operations Manual\nor visit support.nintendo.com.\n\nError code: {VAR 0204 0000}",
+        "This Nintendo Wi-Fi Connection ID \nwas removed because it was\ninactive for a long time.\n\nFor help, check the Nintendo DSi \nOperations Manual or \nvisit support.nintendo.com.\nError code: {VAR 0204 0000}",
+        "No compatible access point in range. \n\nCheck your connection settings \nunder the Internet option \nin the System Settings and try again.\n\nFor help, visit support.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Unable to connect \nto Nintendo Wi-Fi Connection.\n\nCheck your settings under the Internet \noption in the System Settings and try again.\n\nFor help, visit support.nintendo.com.\nError code: {VAR 0204 0000}",
+        "Nintendo Wi-Fi Connection cannot be used\nbecause an error has occurred.\nReset the system and try again.\nError code: {VAR 0204 0000}",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13201",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13202",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13203",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13204",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13205",
+        "This service has been discontinued.\n\nError Code: 13206",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13207",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13208",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13209",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The server is experiencing high\ntraffic volumes.\nUnable to connect.\nPlease wait a little while and try again.\n\nError Code: 13211",
+        "The server is undergoing maintenance.\nYou can review the details at the\nPokémon Global Link website.\nhttp://www.pokemon-gl.com\n\nError Code: 13212",
+        "Communication error.\n\nDisconnecting from \nNintendo Wi-Fi Connection.",
+        "Communication error.\nFor help, visit support.nintendo.com.\nError code: 13280",
+        "Communication error.\nFor help, visit support.nintendo.com.\nError code: 13281",
+        "Communication error.\nFor help, visit support.nintendo.com.\nError code: 13282",
+        "Communication error.\nFor help, visit support.nintendo.com.\nError code: 13283"
+    ]
+}

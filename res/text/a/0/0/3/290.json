@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am Anthea...{VAR BE01}\nTrainer. Before you go to confront my\nlord N, please take a moment to rest...{VAR BE01}",
+        "Ah, good. Both you and your Pokémon\nregained energy...{VAR BE01}\nTrainers battle to practice their skills\nand to grow in experience, but never{VAR BE00}\nto hurt their Pokémon.{VAR BE01}\nMy lord N has realized this, deep down in\nhis heart...but he has spent too much{VAR BE00}\npainful time here in this castle to{VAR BE00}\nadmit it...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "I am Concordia.\nI give peace and comfort to N.{VAR BE01}\nN has been separated from people\nsince he was young. He was brought up{VAR BE00}\nwith Pokémon...{VAR BE01}\nPokémon that were betrayed, mistreated\nand hurt by bad people...{VAR BE01}\nGhetsis deliberately brought only those\npoor Pokémon closer to N.{VAR BE01}\nN was touched by their plight, and\nstarted pursuing the truth,{VAR BE00}\nthinking only of Pokémon.{VAR BE01}\nN's heart is pure and innocent.{VAR BE01}\nBut there is nothing more beautiful\nand terrifying than innocence.",
+        "I am Concordia.\nI give peace and comfort to N.{VAR BE01}\nN has been separated from people\nsince he was young. He was brought up{VAR BE00}\nwith Pokémon...{VAR BE01}\nPokémon that were betrayed, mistreated\nand hurt by bad people...{VAR BE01}\nGhetsis deliberately brought only those\npoor Pokémon closer to N.{VAR BE01}\nN was touched by their plight, and\nstarted pursuing his ideals,{VAR BE00}\nthinking only of Pokémon.{VAR BE01}\nN's heart is pure and innocent.{VAR BE01}\nBut there is nothing more beautiful\nand terrifying than innocence."
+    ]
+}

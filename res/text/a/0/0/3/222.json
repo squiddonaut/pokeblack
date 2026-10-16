@@ -1,0 +1,12 @@
+{
+    "flags": 224,
+    "entries": [
+        "Listen. You can slide down the cliffs\nhere! Watch me!{VAR BE01}",
+        "Now, you try it!{VAR BE01}",
+        "You can slide down the cliffs here at\nVictory Road!{VAR BE01}\nIt takes some nerve the first time, but\nit's fun!",
+        "Aiiieee! That's a long way down!\nI can't do it!{VAR BE01}",
+        "Aiiieee! That's a long way down!\nI can't do it!",
+        "It looks like there's an item\ndown there...{VAR BE01}\nBut it's such a long way!\nDo you have the courage?"
+    ],
+    "pad": "6666"
+}

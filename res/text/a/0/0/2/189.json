@@ -1,0 +1,4051 @@
+{
+    "flags": 224,
+    "entries": [
+        "A Trainer catches another Trainer's eye.\nThat is the start of a Pokémon battle!{VAR BE01}",
+        {
+            "text": "What?!\nYou are too strong!",
+            "flags": 240
+        },
+        "I'll go into the tall grass and\nhave battles with wild Pokémon!{VAR BE01}\nBut, before that, I have to visit\nthe Pokémon Center to heal up my team.",
+        "I really love Pokémon battles!{VAR BE01}\n'Cause my cute Pokémon will do its best\nin a really cute way!{VAR BE01}",
+        {
+            "text": "Even though it lost,\nmy Pokémon is still cute!",
+            "flags": 240
+        },
+        "I'll make my cute Pokémon even stronger\nby having battles with lots of Trainers!",
+        "Lillipup, Lillipup!\nMy Lillipup! Go!{VAR BE01}",
+        {
+            "text": "Your Pokémon uses those kinds of moves?!",
+            "flags": 240
+        },
+        "Different Trainers use\ndifferent kinds of Pokémon!{VAR BE00}\nThat's fun to see, isn't it?",
+        "Check out how much my Pokémon\nhave grown up!{VAR BE01}",
+        {
+            "text": "Oh. I guess they're still pretty green.",
+            "flags": 240
+        },
+        "You are great!\nThis is a present for you.{VAR BE01}",
+        "Thank you very much.{VAR BE01}\nI learned a lot about how I should\ntrain my Pokémon from battling you.",
+        "Your Pokémon look quite good!{VAR BE01}\nWould you show me how\nyou've been training them?{VAR BE01}",
+        {
+            "text": "Oh, I see!\nYou've trained them by traveling together!",
+            "flags": 240
+        },
+        "Please, let your precious Pokémon\nhave this.{VAR BE01}",
+        "I guess when Pokémon and Trainers\nspend that much time together,{VAR BE00}\nthey naturally understand each other!",
+        "I feel invincible because I am surrounded\nby the smiles of children and Pokémon!{VAR BE01}",
+        {
+            "text": "Wow! Great, great!\nYou are very strong!",
+            "flags": 240
+        },
+        "Speak while making eye contact, and\nexpress your feelings to each other...{VAR BE00}\nIt's the same for people and Pokémon.",
+        "",
+        {
+            "text": "Kumi: Come on, Pokémon! Get up! Go!\nAmy: Oh, no! Our Pokémon burned out...",
+            "flags": 240
+        },
+        "",
+        "Eh? Only one Pokémon?\nAre you really a Trainer?",
+        "",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "",
+        "You have only one Pokémon?\nAre you really a Trainer?",
+        "Hey! Trainer!\nHave a battle with me!{VAR BE01}",
+        {
+            "text": "Oops. I have no healthy Pokémon\nleft to fight...",
+            "flags": 240
+        },
+        "Argh! You went all out against a kid!\n...Actually, that's a good thing. Thanks!",
+        "Take this!\nHyper Beam!{VAR BE01}",
+        {
+            "text": "Whoops...",
+            "flags": 240
+        },
+        "Hyper Beam?\nOh, my Pokémon can't really use it yet.{VAR BE01}\nI don't know very much about Pokémon,\nso I just want to use really cool moves.",
+        "Trainer! \nI wanna play with you.{VAR BE01}",
+        {
+            "text": "Trainer!\nYou too strong!",
+            "flags": 240
+        },
+        "When I get big, I wanna be\na strong, cool Trainer, too!",
+        "Now I get to show off everything\nI learned in the Trainers' School!{VAR BE01}",
+        {
+            "text": "Argh...",
+            "flags": 240
+        },
+        "I was so overwhelmed by your greatness\nthat I forgot everything I learned!{VAR BE00}\nI need to keep my wits during a battle.",
+        "I was just thinking\nabout a new battle strategy!{VAR BE01}",
+        {
+            "text": "A new battle strategy only works\nif you stick with it...",
+            "flags": 240
+        },
+        "I know all kinds of things! Like if you\nwalk through the swaying tall grass,{VAR BE00}\nyou might find a cool Pokémon!",
+        "Even if Pokémon have not been fully\ntrained, they can show their potential{VAR BE00}\ndepending on their Trainer's style.{VAR BE01}",
+        {
+            "text": "Oh, that's really frustrating!",
+            "flags": 240
+        },
+        "I feel sorry for Pokémon when they lose\nbecause their Trainer lacks skill...{VAR BE00}\nA Trainer has a huge responsibility.",
+        "The fun of traveling around the world\nis having serious battles{VAR BE00}\nwith a lot of Pokémon I meet!{VAR BE01}",
+        {
+            "text": "Wooo! You're a top-class Trainer,\nthe best in the world!{VAR BE00}\n...But what do I know?",
+            "flags": 240
+        },
+        "As long as my Pokémon are with me,\nI can battle Trainers all over the world!{VAR BE01}\nThe world is so big! Woooooo!\nThat's really exciting!",
+        "Where did you come from?\nMe? Well, if you can win, I'll tell you!{VAR BE01}",
+        {
+            "text": "My first battle...\nAnd I lost...",
+            "flags": 240
+        },
+        "To tell you the truth,\nI just left Castelia City yesterday.{VAR BE00}\nI've just started Pokémon battling, too.",
+        "I'm still a rookie, but someday\nI will be a great player!{VAR BE01}\nI'll improve by having a lot\nof Pokémon battles!{VAR BE01}",
+        {
+            "text": "Ugh!\nI missed the rebound!",
+            "flags": 240
+        },
+        "I won't make excuses for losing!{VAR BE01}\nWhy waste time dreaming up excuses?\nI'll spend that time getting stronger!",
+        "A young Trainer! It's important for the\nyoung to get lots of exercise, isn't it?{VAR BE01}",
+        {
+            "text": "A good sweat...\nBoy, I am glad that I am an athlete!",
+            "flags": 240
+        },
+        "I want a Poké Ball that's\nas big as a basketball!{VAR BE01}\nI think it would be more comfortable\nfor the Pokémon inside it.",
+        "You've been caught by a powerful hook,\nwhich is me!{VAR BE01}\nI'll have a battle with you using\nmy freshly caught Pokémon!{VAR BE01}",
+        {
+            "text": "Oh, no! The one who was caught...\nwas me!",
+            "flags": 240
+        },
+        "I usually release the Pokémon I catch.\nThat's called catch and release!{VAR BE00}\nWhen I release them, I say these words:{VAR BE01}\nFarewell, Pokémon.\nIt was a nice fight.{VAR BE01}\nI'll say these words to you, too.\nIt was a nice fight!",
+        "OK! Good catch! Good catch!\nMy next catch will be called victory!{VAR BE01}",
+        {
+            "text": "The victory that got away\nwas thiiiiiiiiiis big!",
+            "flags": 240
+        },
+        "Catch, caught, and catch again...\nLife is fishing!",
+        "Ho there! Even in the middle of\nconstruction, a Trainer will battle.{VAR BE01}",
+        {
+            "text": "Gah! I'm digging myself into a big hole!",
+            "flags": 240
+        },
+        "If you use a Pokémon move called Dig,\nyou can get out of a cave instantly!",
+        "I'm a mucho macho Worker!\nI'll bring you down with my muscles!{VAR BE01}",
+        {
+            "text": "Argh!\nThe impudence!",
+            "flags": 240
+        },
+        "I dismissed you as just a kid...\nNot at all... You're quite a Trainer!",
+        "A battle is like a construction project.\nThey're both a piece of cake for me!{VAR BE01}",
+        {
+            "text": "Ooh... That piece of cake was\nhard to swallow!",
+            "flags": 240
+        },
+        "I may have lost in the battle, but I bow\nto nobody when it comes to construction!{VAR BE01}\nYou must have something like that, right?\nSomething you do better than anybody?",
+        "We've trained by doing physical work!\nOur attacks are super powerful!{VAR BE01}",
+        {
+            "text": "We've trained by doing physical work.\nSo even when we lose, we're powerful!",
+            "flags": 240
+        },
+        "This Worker is happy to have a job that\nlets him be with his favorite Pokémon!",
+        "Hi, Trainer!\nLet me turn you into a work of art!{VAR BE01}",
+        {
+            "text": "Oh, I just got whitewashed!",
+            "flags": 240
+        },
+        "The reason why there are so many colors\nin this world...white, black, red, green,{VAR BE00}\nblue, yellow...is that they can be mixed{VAR BE00}\nto create an explosion of new color!{VAR BE01}\nBoom!",
+        "As my mind roams, as the wind blows,\ndestiny has brought us to this battle.{VAR BE01}",
+        {
+            "text": "Urgh... I didn't know\nI was flying against the wind...",
+            "flags": 240
+        },
+        "I want to fly around the Unova region,\nblown by the wind!",
+        "This big bag...\nWhat do you think is inside?{VAR BE01}",
+        {
+            "text": "I lost, but now I have more things\nto add to my bag.",
+            "flags": 240
+        },
+        "I'll tell you a secret. The things I put\nin the bag are memories of my journey!{VAR BE01}\nThe things you can't see are very heavy!",
+        "These Pokémon usually help me bake.\nToday, they'll help me battle you!{VAR BE01}",
+        {
+            "text": "Oh, my...\nIt was a tasty battle.",
+            "flags": 240
+        },
+        "I get on well with my Pokémon, and we\nbake bread together. It's so much fun!{VAR BE00}\nI don't mind getting up early every day.",
+        "Turn around, and it's my turn. ♪\nTurn around, and it's your turn.{VAR BE01}",
+        {
+            "text": "Turn around, turn around, turn around...",
+            "flags": 240
+        },
+        "It's difficult to have a battle while\ntapping my toes.{VAR BE01}\nBut I am a Dancer!\nIt is natural to dance!",
+        "I will show you all the moves\nthat my Pokémon have mastered!{VAR BE01}",
+        {
+            "text": "I am sorry that I underestimated\nyou and your Pokémon's moves!",
+            "flags": 240
+        },
+        "Sometimes a battle is so beautiful\nthat it takes your breath away.{VAR BE01}\nOurs was such a battle!",
+        "It is best to try anything!\nYou think so, too, don't you?{VAR BE01}",
+        {
+            "text": "There's a rhythm to attacking\nand defending...{VAR BE00}\nI think ours got thrown off.",
+            "flags": 240
+        },
+        "The guitar is expression itself.{VAR BE01}\nLet's enjoy playing the guitar,\nrather than just talking about it!{VAR BE01}\nA Pokémon is also expression itself.\nLet's enjoy battling!",
+        {
+            "text": "I cannot see the future yet...\nThe world is still to be determined...",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa!\n...What? Did we lose?",
+            "flags": 240
+        },
+        {
+            "text": "I cannot believe that Team Plasma\nlost to such kids!",
+            "flags": 240
+        },
+        {
+            "text": "I've finally become a Trainer...\nEverything starts from here!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet! I've been studying\nPokémon to prepare for this moment!",
+            "flags": 240
+        },
+        {
+            "text": "Ah! So that's a Pokémon battle!",
+            "flags": 240
+        },
+        {
+            "text": "I've finally become a Trainer...\nEverything starts from here!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet! I've been studying\nPokémon to prepare for this moment!",
+            "flags": 240
+        },
+        {
+            "text": "Ah! So that's a Pokémon battle!",
+            "flags": 240
+        },
+        {
+            "text": "I've finally become a Trainer...\nEverything starts from here!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet! I've been studying\nPokémon to prepare for this moment!",
+            "flags": 240
+        },
+        {
+            "text": "Ah! So that's a Pokémon battle!",
+            "flags": 240
+        },
+        {
+            "text": "Eek! Ouch!\nI won't let you get away with that!",
+            "flags": 240
+        },
+        {
+            "text": "I'm kinda nervous, and\nthis isn't going well at all!",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides did their best!",
+            "flags": 240
+        },
+        {
+            "text": "Eek! Ouch!\nI won't let you get away with that!",
+            "flags": 240
+        },
+        {
+            "text": "I'm kinda nervous, and\nthis isn't going well at all!",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides did their best!",
+            "flags": 240
+        },
+        {
+            "text": "Eek! Ouch!\nI won't let you get away with that!",
+            "flags": 240
+        },
+        {
+            "text": "I'm kinda nervous, and\nthis isn't going well at all!",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides did their best!",
+            "flags": 240
+        },
+        {
+            "text": "More!\nLet me hear the voice of your Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "I never expected to hear\nPokémon say such things...",
+            "flags": 240
+        },
+        "My Psychic-type Pokémon\njust started making noises.{VAR BE01}\nIs that because we're in the ruins...\nor is it because of you?{VAR BE01}",
+        {
+            "text": "So...strong!\nWho are you?!",
+            "flags": 240
+        },
+        "It is said that long ago, these ruins\nwere the heart of civilization for people{VAR BE00}\nand Pokémon in the Unova region.",
+        "Just being here fills me\nwith magical power...{VAR BE01}",
+        {
+            "text": "You seem to be\nfull of magical power, too...",
+            "flags": 240
+        },
+        "In ancient places,\nmagical energy remains...{VAR BE01}\nI can understand it.\nSo much sorrow and joy...",
+        {
+            "text": "As if that would work on my Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet! One more left!\nThis is where I give it my all!",
+            "flags": 240
+        },
+        {
+            "text": "You got me.{VAR BE01}\nI am...burned...out...",
+            "flags": 240
+        },
+        {
+            "text": "I see...\nThat might be a good attack.",
+            "flags": 240
+        },
+        {
+            "text": "I'll put all of my hopes\non my last Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "Lose? Me?\nI don't believe this.",
+            "flags": 240
+        },
+        {
+            "text": "Ah!\nMy Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "Huh? Could it be?\nCould I have only one Pokémon left?",
+            "flags": 240
+        },
+        {
+            "text": "Er...\nIs it over now?",
+            "flags": 240
+        },
+        "Welcome to Striaton Gym!{VAR BE01}\nCare for a taste of battle?\nI'll serve up the first course!{VAR BE01}",
+        {
+            "text": "Yow!\nYou're a Trainer with a lot of pepper!",
+            "flags": 240
+        },
+        "I think it is all right to move ahead\nwith Pokémon you've trained well, even{VAR BE00}\nwithout thinking about type matchups.",
+        "The specialty of Striaton Gym--\nthe full-course “Trainer de luxe!\"{VAR BE00}\nI'm your second course.{VAR BE01}",
+        {
+            "text": "That was one of our most popular dishes.\nDid you enjoy the battle?",
+            "flags": 240
+        },
+        "The specialty of Striaton Gym--\nthe full-course “Trainer de luxe!\"{VAR BE00}\nTo complete your repast--a Gym Leader.",
+        {
+            "text": "Now, with that move, I'm starting to see\nwhat kind of Trainer you are!",
+            "flags": 240
+        },
+        {
+            "text": "No matter how grim the situation, I'll use my\nresearch skills to find a winning strategy!",
+            "flags": 240
+        },
+        {
+            "text": "My theory about you was correct.{VAR BE01}\nYou're more than just talented...\nYou're motivated! I salute you!",
+            "flags": 240
+        },
+        "I hang around Nacrene Gym all the time.\nPeople call me a bookworm.{VAR BE01}\nI'll warn you now... I am strong because\nI spend the entire day either{VAR BE00}\nreading books or training Pokémon.{VAR BE01}",
+        {
+            "text": "I may be a bookworm,\nbut I am not a bug Pokémon.",
+            "flags": 240
+        },
+        "My first recommendation is a book called\n“Nice to Meet You, Pokémon.\"{VAR BE01}\nThe bookshelves for children's books\nare close to the entrance.",
+        {
+            "text": "Oh, wow!\nI lost, but thanks for a great battle!",
+            "flags": 240
+        },
+        {
+            "text": "I've never known anyone so powerful.\nMy head is empty compared to yours!",
+            "flags": 240
+        },
+        {
+            "text": "Snick!\nMy switch was turned on!",
+            "flags": 240
+        },
+        {
+            "text": "Could it be time to bug out of here?\nNo, no. I refuse to be squashed!",
+            "flags": 240
+        },
+        {
+            "text": "Is it over?\nHas my muse abandoned me?",
+            "flags": 240
+        },
+        {
+            "text": "You and your Pokémon...\nare shining brilliantly!",
+            "flags": 240
+        },
+        {
+            "text": "A properly dramatic victory requires\na dash of danger and a pinch of peril.",
+            "flags": 240
+        },
+        {
+            "text": "I meant to make your head spin,\nbut you shocked me instead.",
+            "flags": 240
+        },
+        {
+            "text": "Even though I lost,\nI'm an ocean of calm...",
+            "flags": 240
+        },
+        "Welcome, challenger!{VAR BE01}\nI will do you the greatest of honors\nand accept your challenge!{VAR BE01}",
+        {
+            "text": "Roll, roll, roll, roll, roll, roll, roll on!\nRoller coaster!",
+            "flags": 240
+        },
+        "I was aiming for a fighting style\nthat overwhelms you with speed...{VAR BE01}\nIf I can move faster than my opponents,\nI will get the upper hand.",
+        {
+            "text": "I lost, but I will think a lot harder,\nand that will make me a lot stronger!",
+            "flags": 240
+        },
+        "Your fashion sense...\nIt's kind of Nuvema Town-ish.{VAR BE01}",
+        {
+            "text": "Oh, no!\nI thought I'd be the fashionista!",
+            "flags": 240
+        },
+        "Elesa controls an elegant Gym\nin elegant Nimbasa City.{VAR BE00}\nShe has an essential elegance.{VAR BE00}\nYou should be her fan, too!",
+        {
+            "text": "I'll be!\nSure didn't see that coming.",
+            "flags": 240
+        },
+        {
+            "text": "Givin' up's the easy way out! If I wanted,\nI could have given up any old time!",
+            "flags": 240
+        },
+        {
+            "text": "Well, I've had enough... And just so you\nknow, I didn't go easy on you.",
+            "flags": 240
+        },
+        {
+            "text": "When I think about a match\nwith a fabulous Trainer like you,{VAR BE00}\nit's like I'm walking on air!",
+            "flags": 240
+        },
+        {
+            "text": "This is my last Pokémon...\nBut I'll never give up hope!",
+            "flags": 240
+        },
+        {
+            "text": "Being your opponent in battle is a new\nsource of strength to me. Thank you!",
+            "flags": 240
+        },
+        "I became a Pilot, which has been\nmy dream since I was a child.{VAR BE00}\nI am extremely strong! Bring it on!{VAR BE01}",
+        {
+            "text": "Altitude is dropping slowly...\nI will prepare for landing.",
+            "flags": 240
+        },
+        "I became a Pilot, making the dream\nof my younger days a reality...{VAR BE00}\nThe weight is quite comfortable.",
+        "Target lock acquired!{VAR BE01}\nI will shoot you down\nwith my flight technique!{VAR BE01}",
+        {
+            "text": "What?!\nI missed the target.",
+            "flags": 240
+        },
+        "We can depend on a move that\nhits without fail when it counts.{VAR BE01}\nFor example, Aerial Ace and Swift\nare both surefire moves!",
+        "The best Trainer of Ice-type Pokémon\nin the Cold Storage...{VAR BE00}\nThat's me!{VAR BE01}",
+        {
+            "text": "Oh, no... I will train even harder\nat the Icirrus Gym.",
+            "flags": 240
+        },
+        "The Gym Leader in Icirrus City\nuses Ice-type Pokémon!{VAR BE01}\nIf you train your body and mind there,\nyou'll be fine with cold!",
+        "The pure chill of the Cold Storage!\nTaste how cold it is!{VAR BE01}",
+        {
+            "text": "Chilly?\nI feel the shiver pass along my spine.",
+            "flags": 240
+        },
+        "There are a lot of Trainers,\neven in the Cold Storage.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "We!\nWe are training here!{VAR BE01}\nNow let's train\nPokémon together!{VAR BE01}",
+        {
+            "text": "Great!\nYou have a talent as a Trainer!",
+            "flags": 240
+        },
+        "I want to win against Gym Leaders,\nbut I want to win against you, too!",
+        "My goal is to outperform Gym Leaders!\nCan you win against me?!{VAR BE01}",
+        {
+            "text": "My Pokémon fought well, didn't they?",
+            "flags": 240
+        },
+        "I have my goal!\nMy Pokémon are there for me!{VAR BE00}\nThat's why I can keep trying!",
+        "POWER!{VAR BE01}\nPower is essential for both\nPokémon and football!{VAR BE01}",
+        {
+            "text": "Didn't I have enough power...?",
+            "flags": 240
+        },
+        "I am training to be the very best\nwith my Pokémon!",
+        "An elegant Smasher\nhas an elegant battle!{VAR BE01}",
+        {
+            "text": "E-e-even though I lost,\nI won't panic.",
+            "flags": 240
+        },
+        "Because I am a lady, I won't\nbe chagrined at losing the battle!",
+        "The qualifying round is coming soon.{VAR BE01}\nI will practice smashes\nby using you as a wall!{VAR BE01}",
+        {
+            "text": "Oh, whew! Must...catch...my breath.\nThat was some good training...",
+            "flags": 240
+        },
+        "You and I have just met!\nLet's start this game from the beginning.",
+        "One-two, one-two! Keep time with\neach other, and one-two punch!{VAR BE01}",
+        {
+            "text": "Mayo: Two of us keeping time together...\nAhhhhhhhhhhhhhhhhh!!{VAR BE01}\nMay: Two of us keeping time together...\nAhhhhhhhhhhhhhhhhh!!",
+            "flags": 240
+        },
+        "It would be even greater if we knew\nwhat two Pokémon will do.",
+        "You've got only one Pokémon,\nso we cannot fight.",
+        "We discuss what to do\nbefore a battle.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "What I've heard is it's good to use\nEarthquake when your ally is floating!",
+        "If you want to have a battle with us, \nyou need two Pokémon.",
+        {
+            "text": "...Interrupting us!\nWhat a horrible Trainer!",
+            "flags": 240
+        },
+        {
+            "text": "If you take something away,\nI will take it back... Remember that!",
+            "flags": 240
+        },
+        "Look, look! This is a Gym Badge\nfrom Striaton City!{VAR BE01}\nOh, you have it, too!\nThen let's have a Pokémon battle{VAR BE00}\nto see who is stronger!{VAR BE01}",
+        {
+            "text": "Impressive! A battle with a\nGym Badge holder is different!",
+            "flags": 240
+        },
+        "You know, there's a pedestal at the\nentrance of each Pokémon Gym.{VAR BE01}\nIf you get that Gym's Badge,\nyour name will be carved there.",
+        "I patrol Pinwheel Forest every day!\nA battle here is a piece of cake!{VAR BE01}",
+        {
+            "text": "What a huge mistake to lose\na battle in Pinwheel Forest!",
+            "flags": 240
+        },
+        "A Ranger always has one of these.\nI'll give it to you!{VAR BE01}",
+        "The forest is alive...{VAR BE01}\nSomething changes every day,\nso it's fun to patrol!",
+        "Blend into the wilderness\nand talk to Pokémon with your heart.{VAR BE00}\nThat is a Ranger!{VAR BE01}",
+        {
+            "text": "Did you feel my wildness?",
+            "flags": 240
+        },
+        "I'm sure you can fully\nutilize this.{VAR BE01}",
+        "If you blend into the wilderness too well,\nyou won't be noticed by Pokémon,{VAR BE00}\nlet alone by people.{VAR BE00}\nThat is a problem...",
+        "Come on! Let's take\na deep breath.{VAR BE01}\nInhale, exhale.\nInhale, exhale.{VAR BE01}\nAll right! Next,\nlet our Pokémon fight!{VAR BE01}",
+        {
+            "text": "In this situation...\nAll that comes out is a sigh...",
+            "flags": 240
+        },
+        "Well, a sigh and this lovely gift for you!{VAR BE01}",
+        "Different Pokémon can be found\nin different places.{VAR BE01}\nDoes that mean there is\na perfect place for everyone?",
+        "Get great powers drawn from nature\nwithout opposing it.{VAR BE00}\nThat is the strength of Rangers!{VAR BE01}",
+        {
+            "text": "You and your Pokémon make a great team!",
+            "flags": 240
+        },
+        "This is one of the powers\nI got from nature.{VAR BE01}",
+        "Even the things you can't do alone,\nif you're with someone else...{VAR BE01}\nThat's right. We always\nhave Pokémon around us.{VAR BE00}\nIsn't that great?",
+        "Why do Pokémon and people\nstay together...?{VAR BE00}\nThat's the theme of my research.{VAR BE01}",
+        {
+            "text": "A ray of light shone in...\nI feel a little like that.",
+            "flags": 240
+        },
+        "Why do Pokémon and people\nstay together...?{VAR BE01}\nI think we stick together\nbecause we are different.",
+        "If I apply what I just learned\nto the battle, I think I can win!{VAR BE01}",
+        {
+            "text": "I've even won against my teacher, though...",
+            "flags": 240
+        },
+        "Knowing something and being\nable to do it seem pretty similar,{VAR BE00}\nbut they can be very different.",
+        "My Pokémon's strong points!\nYou'll see them if you fight!{VAR BE01}",
+        {
+            "text": "Hey! Did you see\nmy Pokémon's strong points?!",
+            "flags": 240
+        },
+        "My Pokémon's strong points?{VAR BE01}\nHmmm...{VAR BE01}\nI don't know 'cause there are too many!",
+        "When it's cold, wear a lot of clothes!{VAR BE01}\nOnly humans could come up\nwith something so clever!{VAR BE01}",
+        {
+            "text": "How we struggle in vain at the end\nalso shows how clever humans are!",
+            "flags": 240
+        },
+        "I'll tell you something clever.{VAR BE01}\nIf you use a Fire-type move on a Pokémon\nthat is frozen solid, the ice will melt!",
+        "Although I am in the Cold Storage,\nmy heart is burning!{VAR BE01}",
+        {
+            "text": "Oh, no!",
+            "flags": 240
+        },
+        "Some Pokémon grow stronger\nwhen they get colder,{VAR BE00}\nwhile some Pokémon love hot places.{VAR BE01}\nThat's right! Everyone is different!\nEvery Pokémon is different!",
+        "You're pretty energetic,\nconsidering the cold place we're in!{VAR BE01}\nLet's warm up with a Pokémon battle!{VAR BE01}",
+        {
+            "text": "I warmed up, but I lost the battle,\nand my heart is freezing...",
+            "flags": 240
+        },
+        "I am storing thick fat\nto resist the cold.{VAR BE01}\n...I didn't just get fat.\nPlease don't get me wrong.",
+        "...{VAR BE01}\n...R-ready to b-battle?{VAR BE01}",
+        {
+            "text": "...{VAR BE01}\n...I'm sh-shivering!",
+            "flags": 240
+        },
+        "...{VAR BE01}\n...Kn-know what?\n...Th-this place is cold.",
+        "A traveling Backpacker\nmeets a traveling Trainer.{VAR BE01}",
+        {
+            "text": "I may have been traveling\nto meet you... Just kidding!",
+            "flags": 240
+        },
+        "My journey taught me that a journey\nis not just going somewhere.{VAR BE01}\nMeeting people and learning from them\nare both part of my journey.",
+        "I wanted to go to the Celestial Tower...\nbut I got lost and stranded.{VAR BE01}",
+        {
+            "text": "Ah! I cannot go anywhere\nif I am stopping!",
+            "flags": 240
+        },
+        "To go to the Celestial Tower...{VAR BE01}\nWalk along the road! That's right!{VAR BE01}\nIf you keep walking, someday\nyou'll arrive at your destination.",
+        "Oh! A Pokédex!{VAR BE01}\nI see. That is the reason\nfor your journey!{VAR BE01}",
+        {
+            "text": "Impressive! That's what you'd expect\nfrom the owner of a Pokédex!",
+            "flags": 240
+        },
+        "I've heard that both Professor Junipers\nwere Backpackers when they were young.",
+        "My travel partner is a Pokémon\nthat a popular guidebook recommended!{VAR BE01}",
+        {
+            "text": "The guidebook does not tell me\nhow to win.",
+            "flags": 240
+        },
+        "According to the popular guidebook,\nNimbasa City is an entertainment city.{VAR BE00}\nIt must be full of fun!",
+        "Do you want to pass through here?{VAR BE01}\nThen, you must greet me!{VAR BE01}",
+        {
+            "text": "You!!\nWhat great strength you have!",
+            "flags": 240
+        },
+        "For a child like you, \na Bicycle is just right!{VAR BE00}\nIt is healthier, isn't it?",
+        "Heheh!\nNobody can beat my speed and fury!{VAR BE01}",
+        {
+            "text": "I have lost!\nI am such a loser!",
+            "flags": 240
+        },
+        "Ah! I wish I could fly down\na much, much bigger road.{VAR BE00}\nThe Pokémon would be happy, too!",
+        "Hey, hey, what have we here, boys?{VAR BE01}\nYou have good Pokémon.\nLet me see!{VAR BE01}",
+        {
+            "text": "Jim: G-good Pokémon.\nTo be honest, they are dazzling!{VAR BE01}\nCas: WHAT?\nHow could bad men like us lose...?",
+            "flags": 240
+        },
+        "There are good Pokémon,\nbut there are no bad Pokémon.{VAR BE01}\nEverything is up to the Trainer.\nThat's what I think!",
+        "You've got only one Pokémon?\nA single battle is so boring!",
+        "Hey, hey! A bad one teamed up\nwith another bad one!{VAR BE01}\nDo you know what it means?{VAR BE01}\nThat means we are very bad!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Even bad men like us\ncan be friends!{VAR BE01}\nWhat a great thing!\nFriendship between men{VAR BE00}\nand friendship with Pokémon...",
+        "What? You've only got one\nPokémon that can fight?{VAR BE01}\nI cannot take a cheap shot,\nfighting two against one!",
+        "I'm a little bit strong.\nI will work out!{VAR BE01}",
+        {
+            "text": "I got worked over...",
+            "flags": 240
+        },
+        "You're quite strong.\nYou have left the Little League!",
+        "Hey!\nHey, let's practice together!{VAR BE01}\nI have to warn you--I will go all out\neven if we are just practicing!{VAR BE01}",
+        {
+            "text": "I was no match for you...\nThere is always someone better.",
+            "flags": 240
+        },
+        "I promise you!{VAR BE01}\nI will learn from this experience\nand become an even better player!",
+        "There is no end\nto mastering Pokémon battles!{VAR BE01}",
+        {
+            "text": "There is an end\nfor this battle!",
+            "flags": 240
+        },
+        "It's hard to have no end,\nbut if you change your perspective,{VAR BE00}\nyou'll see we can enjoy them forever!",
+        "I want to know how\nthe fighting Pokémon feel.{VAR BE01}\nThat's why I fight, too.\nThat's me, a Battle Girl!{VAR BE01}",
+        {
+            "text": "When I lose, I cry with my Pokémon!\nThat's me, a Battle Girl!",
+            "flags": 240
+        },
+        "When you train every day,\nyour body moves as you like.{VAR BE00}\nIt feels really good!",
+        "I test the challenge rock\nwith my fist every day!{VAR BE01}\nIt is important to make steady progress,\nlittle by little.{VAR BE01}",
+        {
+            "text": "I still have not\ntried hard enough!",
+            "flags": 240
+        },
+        "I test the challenge rock every day\nwith my Pokémon!{VAR BE01}\nWhy don't you check out\nthe challenge rock{VAR BE00}\nwith a Fighting-type Pokémon?",
+        "I am pleased to meet you.{VAR BE01}\nPlease allow me to introduce you\nto my Pokémon.{VAR BE01}",
+        {
+            "text": "I had the honor of meeting\nyour Pokémon!",
+            "flags": 240
+        },
+        "Well, well, you are strong!\nI admire you.{VAR BE00}\nI would like to learn by watching you!",
+        "Clerks exchange business cards.{VAR BE01}\nTrainers, of course, greet each other\nwith a Pokémon battle!{VAR BE01}",
+        {
+            "text": "What an impressive greeting!\nThat was a great Pokémon battle!",
+            "flags": 240
+        },
+        "When I was a child,\nI traveled with Pokémon...{VAR BE01}\nOf course, I am still raising Pokémon!\n'Cause Pokémon are my friends for life!",
+        "My work is a Pokémon battle!{VAR BE01}",
+        {
+            "text": "Today's work\ndidn't go well...",
+            "flags": 240
+        },
+        "Our company develops goods\nfor Pokémon and Trainers.{VAR BE01}\nSo, Pokémon battles are also\nan important part of my work!",
+        "I received intense training from Clay.{VAR BE01}\nNo Trainer around here\nis out of my league.{VAR BE01}",
+        {
+            "text": "Oh, no...\nI've found someone who's out of my league!",
+            "flags": 240
+        },
+        "Clay is a Gym Leader and\na company president.{VAR BE00}\nAnd he scolds me all the time.",
+        "I was about to take a break,\nthen I met you!{VAR BE01}",
+        {
+            "text": "This encounter was a good one...\nfor you!",
+            "flags": 240
+        },
+        "I met my Pokémon\nmore than ten years ago.{VAR BE00}\nI trust them.",
+        {
+            "text": "Even the battle I lost\nwill be a bittersweet memory...",
+            "flags": 240
+        },
+        {
+            "text": "Wow, you really cleaned up!",
+            "flags": 240
+        },
+        "When Pokémon Trainers meet,\nwhat we do is, of course,{VAR BE00}\nengage in a Pokémon battle, don't we?{VAR BE01}",
+        {
+            "text": "Oh no...\nI'm pathetic...",
+            "flags": 240
+        },
+        "Perhaps I meet people here because of\nguidance from my Pokémon.",
+        "Oh?\nYou want to have a battle with me?{VAR BE01}\nAll right!\nI have a strong Pokémon.{VAR BE01}",
+        {
+            "text": "That's right.\nThe Pokémon is no longer with me.",
+            "flags": 240
+        },
+        "...The Pokémon is no longer with me.{VAR BE01}\n...That's not true.\nAs long as I remember,{VAR BE00}\nit will be with me forever.",
+        "If you like, I will make\nyour Pokémon healthy!{VAR BE01}\nHowever! Let me challenge you\nto a battle first!{VAR BE01}",
+        {
+            "text": "What? \nDid MY Pokémon lose energy?",
+            "flags": 240
+        },
+        "Now, as I promised,\nI will make your Pokémon healthy.{VAR BE01}",
+        "To make people healthy,\nDoctors go where they are needed.",
+        "During a long journey,\nyou'll be happy if you meet a Doctor.{VAR BE01}\nIf you can win against me,\nI'll make your Pokémon healthy!{VAR BE01}",
+        {
+            "text": "Your team is very healthy. Let me\njust fix your team up a little bit...",
+            "flags": 240
+        },
+        "After a Pokémon battle,\nlet them recover slowly.{VAR BE01}",
+        "Health is always crucial!\nIt really is.",
+        "I've survived a lot of fierce battles\nwith my Pokémon!{VAR BE01}\nI don't think I will lose!{VAR BE01}",
+        {
+            "text": "The one who survived\nfierce battles was you?!",
+            "flags": 240
+        },
+        "My heart is not broken.{VAR BE01}\nI will survive further fierce battles\nwith my Pokémon,{VAR BE00}\nand I will become much stronger.",
+        "Take this!\nThe winning strategy I've developed!{VAR BE01}",
+        {
+            "text": "Sigh...\nI feel down.",
+            "flags": 240
+        },
+        "I feel down only briefly!{VAR BE01}\nI am a Trainer. If I give up,\nmy Pokémon cannot do anything! Right?",
+        "I will test you to see whether\nyou have what it takes...{VAR BE01}\nto aim for the Pokémon League!{VAR BE01}",
+        {
+            "text": "I see! I see, I see!\nI see, I see, I see, I see!",
+            "flags": 240
+        },
+        "They say that there is a strong Champion\nin the Pokémon League.{VAR BE01}\nSomeday, I will be able to challenge\nthe Pokémon League!",
+        "I am an Ace Trainer!\nBasically, I am very strong.{VAR BE01}\nThe Unova region will be shaken\nif I lose.{VAR BE01}",
+        {
+            "text": "...The meaning of my existence\nis being threatened right now!",
+            "flags": 240
+        },
+        "Someday, your existence will shake\nthis Unova region!{VAR BE01}\nMy loss looks more impressive\nif I praise you as a hotshot.",
+        "Hey! My Pokémon are great.\nLook, look!{VAR BE01}",
+        {
+            "text": "Argh!",
+            "flags": 240
+        },
+        "I am called an Ace Trainer, but\nthat doesn't sit well with me.{VAR BE01}\n'Cause I just love Pokémon,\nand I just want to be strong!",
+        "Even at an electrified place like this,\nif somebody challenges me,{VAR BE00}\nI will take that challenge.{VAR BE00}\nThat is an Ace Trainer!{VAR BE01}",
+        {
+            "text": "Hmmm...\nI am electrified!",
+            "flags": 240
+        },
+        "Bits of knowledge about electricity!{VAR BE01}\nAn electric current runs from plus\nto minus, and an electron runs{VAR BE00}\nfrom minus to plus.",
+        "I'm really serious about training.{VAR BE01}\nI even visit this electrified cave\nto train myself and my Pokémon!{VAR BE01}",
+        {
+            "text": "The electric shock racing...\nMe falling down...",
+            "flags": 240
+        },
+        "Some Pokémon like to live\nin this electrified cave...{VAR BE01}\nDon't you think that people\nshould stay out?",
+        "I've improved my ability\nby fighting strong opponents,{VAR BE00}\ncatching them, and overtaking them!{VAR BE01}\nYou're strong!\nI'll overtake you at all costs!{VAR BE01}",
+        {
+            "text": "I was far from catching up with you...\nYou are no ordinary person!!",
+            "flags": 240
+        },
+        "No time to feel down after a defeat!{VAR BE01}\nIf moaning over a loss made me strong,\nI would bemoan a loss forever, though.",
+        "What pleases sleeping spirits\nis a hot Pokémon battle!{VAR BE01}",
+        {
+            "text": "It's a spark of your flaming spirit!",
+            "flags": 240
+        },
+        "When I come here... At Celestial Tower,\nstrangely, I feel the urge to fight.{VAR BE01}\nDoes that prove I am alive?",
+        "I'm here to understand the end\nof the world, but I don't quite get it.{VAR BE01}\nIf I have a battle,\nwill I be enlightened...?{VAR BE01}",
+        {
+            "text": "The end...\nIs that it?",
+            "flags": 240
+        },
+        "People, Pokémon...\nEven if the world is gone,{VAR BE00}\nthat is not the end.{VAR BE00}\nI feel sure of it.",
+        "Indescribable energy\nis flowing to me!{VAR BE01}",
+        {
+            "text": "The energy is escaping...\nAww...",
+            "flags": 240
+        },
+        "A lot of energies are swirling\naround in the world,{VAR BE00}\nincluding hopes and dreams.",
+        "...I still want to fight!\nWandering spirits command me!{VAR BE01}",
+        {
+            "text": "Lemme breathe a sec...\nThe spirits have calmed down a bit.",
+            "flags": 240
+        },
+        "In a way...the Celestial Tower\nis a space full of desires to live.",
+        "Watching a practice makes you feel\nthat you are stronger, too,{VAR BE00}\ndoesn't it?{VAR BE00}\nSo let's have a battle!{VAR BE01}",
+        {
+            "text": "Hawk: ...I could not\ndo it well at all.{VAR BE01}\nDar: ...I could not\ndo it right at all.",
+            "flags": 240
+        },
+        "They can do even the hardest things\nas if they were so simple...{VAR BE01}\nThat's the great thing\nabout professionals.",
+        "We cannot have\na one-on-two battle.",
+        "We were watching various team sports,\nand we wanted to fight as a duo, too!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Playing as a team is difficult.{VAR BE01}\nWe could do more great things\nif we could understand what{VAR BE00}\nother people were thinking!",
+        "We would like to have\na Pokémon battle as a duo.",
+        "I get excited just by\ncoming to this stadium!!{VAR BE01}",
+        {
+            "text": "Joe: I got super excited!{VAR BE01}\nRoss: What a thrill!\nIt's taking my breath away!",
+            "flags": 240
+        },
+        "Just by being here! Just by watching it!\nI get really excited!{VAR BE01}\nIf I played a game here,\nI would be extremely excited!",
+        "We don't want to have\na one-on-two battle.",
+        "If we fight in this stadium,\ndon't you think we will understand{VAR BE00}\nhow our star players feel?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "We had a battle with Pokémon\nin the stadium...{VAR BE01}\nI am happy 'cause I experienced\nwhat star players feel!",
+        "One-on-two? \nWe cannot fight like that.",
+        "Watching people practicing\nmakes me want to get moving, too!{VAR BE01}\nSoooooo, let's practice\nPokémon battles.{VAR BE01}",
+        {
+            "text": "Masa: I laugh even though\nwe lost because it was fun!{VAR BE01}\nYas: Ah! I didn't cheer enough\nfor our Pokémon.",
+            "flags": 240
+        },
+        "It's way more fun to have a battle\nourselves than watching{VAR BE00}\nother people practicing!",
+        "We cannot have\na one-on-two battle.",
+        "We usually cheer for other people,\nbut today we would like{VAR BE00}\nto gather our courage{VAR BE00}\nand have our own Pokémon battle.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I am not good at sports,\nbut I enjoy sports in my own way--{VAR BE00}\nby cheering my heart out for people!",
+        "You have only one Pokémon\nthat can fight. It's out of the question.",
+        "Watching athletes practice with Pokémon\nmade me want to have a Pokémon battle.{VAR BE01}",
+        {
+            "text": "Kay: Great!\nYou are like a professional!{VAR BE01}\nAli: How did you know?",
+            "flags": 240
+        },
+        "Ohhh... I knew it was difficult\nto fight with Pokémon as well as{VAR BE00}\nthe professionals do.",
+        "We are two!\nWe use two Pokémon, too!",
+        "Pokémon do\nwhat I cannot do.{VAR BE01}\nYou know how wonderful this is,\ndon't you?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Even existing sports shine\nwith new appeal{VAR BE00}\nwhen they team up with Pokémon!",
+        "Aren't you in trouble if you don't have\nmore Pokémon that can fight?",
+        "Which do you like better,\ntennis or basketball?{VAR BE01}",
+        {
+            "text": "Ami: The game ended\nbefore I knew what was going on.{VAR BE01}\nEira: The combination of you\nand your Pokémon is great!",
+            "flags": 240
+        },
+        "I love both tennis and basketball!{VAR BE01}\nI can't choose just one of them, just\nlike I can't choose my favorite Pokémon.",
+        "What? You have only one\nPokémon that can fight?",
+        "We are always together!\nOur combination play must be great!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Be in sync with your partner,\nand with your Pokémon, too.{VAR BE00}\nTag Battles are tough!{VAR BE01}\nBut if you are in sync,\nit will be very exciting!",
+        "You have only one\nhealthy Pokémon...?",
+        "Real Fishermen are impatient!\nSo we must battle immediately!{VAR BE01}",
+        {
+            "text": "I lost!\nIt's the end!!",
+            "flags": 240
+        },
+        "How do I know that real Fishermen\nare so impatient?{VAR BE01}\nBecause we change places frantically\nif we cannot catch Pokémon!",
+        "Kids! Please cooperate with the\nphysical therapy for me and my Pokémon!{VAR BE01}",
+        {
+            "text": "My tackle was supposed to crush\neven Rock-type Pokémon...",
+            "flags": 240
+        },
+        "I was injured in a rough game, so\nI am undergoing some physical therapy.",
+        "Join our team!{VAR BE01}\nActually, I will force you\nto join our team!{VAR BE01}",
+        {
+            "text": "Our team doesn't need a Trainer\nwho is quite that strong!",
+            "flags": 240
+        },
+        "We are cooooool!\nWe hang out here every day!",
+        "If I win, give me your Pokémon!{VAR BE01}",
+        {
+            "text": "That was just a joke.\nYou didn't have to take it so seriously!",
+            "flags": 240
+        },
+        "Bah! I haven't fallen so low\nthat I would steal somebody's Pokémon{VAR BE00}\nlike Team Plasma!",
+        "Mua-ha-ha! I will leave here\nfor Victory Road.{VAR BE00}\nIt's my hobby to win against Trainers!{VAR BE01}",
+        {
+            "text": "I can't believe this!",
+            "flags": 240
+        },
+        "Rather than enjoying defeating someone,\nshould I aim higher...?{VAR BE01}\nI guess the Pokémon League is the place\nto find a better class of challengers.",
+        "Words are unnecessary!\nI can understand everything if we battle.{VAR BE01}",
+        {
+            "text": "...",
+            "flags": 240
+        },
+        "Though people and Pokémon\ncannot communicate with words,{VAR BE00}\nwe can communicate with our hearts!",
+        "I trained and trained like a madman,\nand my Pokémon trained even more!{VAR BE01}",
+        {
+            "text": "Yeah! Yeah!\nEven though I lost, I'm energetic!",
+            "flags": 240
+        },
+        "My Fighting-type Pokémon!\nI train it to smash the challenge rock!",
+        {
+            "text": "You are strong!\nNo, both you and your Pokémon are strong!",
+            "flags": 240
+        },
+        {
+            "text": "Extreme conditions\nreally test you and train you!",
+            "flags": 240
+        },
+        {
+            "text": "The wonderful combination\nof you and your Pokémon!{VAR BE00}\nWhat a beautiful friendship!",
+            "flags": 240
+        },
+        {
+            "text": "The pain of my Pokémon...\nI feel it, too!",
+            "flags": 240
+        },
+        {
+            "text": "No! Not yet!\nNo! We can fight on!!",
+            "flags": 240
+        },
+        {
+            "text": "Aghhhh...\nI did my best, but we lost...",
+            "flags": 240
+        },
+        {
+            "text": "I didn't see that coming.\nYou are a very difficult opponent.",
+            "flags": 240
+        },
+        {
+            "text": "Now is the moment of truth!\nThis really gets my blood pumping!",
+            "flags": 240
+        },
+        {
+            "text": "This intense feeling that floods\nme after a defeat...{VAR BE00}\nI don't know how to describe it.",
+            "flags": 240
+        },
+        "Meow, meow, meow!{VAR BE01}\nThis sign means\nhave a battle with me!{VAR BE01}",
+        {
+            "text": "Thank you for having a battle\nwith me!",
+            "flags": 240
+        },
+        "Meow, meow, meow!{VAR BE01}\nI am copying the Pokémon\nI used to live with.",
+        "Victory Road!{VAR BE01}\nI'll test myself by fighting against you\nto see if I am ready to climb it!{VAR BE01}",
+        {
+            "text": "Agh...\nWas it too early for me?!",
+            "flags": 240
+        },
+        "Victory Road!\nIt is really amazing!{VAR BE01}\nThat's the road to\nthe Pokémon League!",
+        "I'm a Hiker exploring caves.\nI will teach you the harshness of life{VAR BE00}\nand the difficulty of Pokémon battles.{VAR BE01}",
+        {
+            "text": "Well...\nGuess I'll take a hike.",
+            "flags": 240
+        },
+        "In the caves...\nPokémon lurk in the piles of dirt!",
+        "Conquering a mountain means\nconquering your fears!{VAR BE01}\nCan you win against Pokémon\nthat have conquered many mountains?{VAR BE01}",
+        {
+            "text": "You conquered a B-list mountain.\nThat B-lister is me!",
+            "flags": 240
+        },
+        "Hikers aim at summits.{VAR BE01}\nPokémon Trainers aim\nfor the Pokémon League!",
+        "You need a Nurse's help?{VAR BE01}\nSure, if you can win against me,\nI'll make your Pokémon healthy!{VAR BE01}",
+        {
+            "text": "Come on!\nYour team is really healthy!",
+            "flags": 240
+        },
+        "OK! Then...\nTime to give your Pokémon some energy!{VAR BE01}",
+        "It's wonderful that each Pokémon and\neach person can do something special!{VAR BE01}\nMe, I know how to make Pokémon healthy!",
+        "Welcome to the Battle Company!\nSince you are here, battle with me.{VAR BE00}\nI won't take no for an answer!{VAR BE01}",
+        {
+            "text": "Oh, dear. Aren't you being\ntoo hard on me?",
+            "flags": 240
+        },
+        "In the Battle Company, the stronger you\nare, the higher the floor you work on.",
+        "Hee hee! I am better at Pokémon battles\nthan I am at work!{VAR BE01}",
+        {
+            "text": "I'm good at Pokémon, but I still lost!",
+            "flags": 240
+        },
+        "A competent woman is\nas good at Pokémon battles{VAR BE00}\nas she is at her work!",
+        "Clay is at the bottom of the Gym,\nbut I will test you to see{VAR BE00}\nwhether you are skilled enough{VAR BE00}\nto face the Gym Leader.{VAR BE01}",
+        {
+            "text": "Agh, so frustrating!\nMaybe I'm not skilled enough...",
+            "flags": 240
+        },
+        "I started Pokémon battles\nafter I grew up,{VAR BE00}\nbut I got so into it!",
+        "Pouring rain... ♪\nFighting Pokémon... ♪{VAR BE01}",
+        {
+            "text": "Ah, hear the sad melody\nof a total defeat...",
+            "flags": 240
+        },
+        "Rain is a wonderful melody\nthat nature plays! ♪",
+        "Water fun with Pokémon!\nDo you want to play with us?{VAR BE01}",
+        {
+            "text": "Uh-oh... I lost.\nBut it was fun, so I'm satisfied.",
+            "flags": 240
+        },
+        "Aquatic sports with Pokémon!\nNothing is more fun than that!{VAR BE01}\nIt's 100% impossible to live\nwithout Pokémon.",
+        "The splish-splosh sounds! Those were\nyour footsteps, weren't they?{VAR BE00}\nSo cute!{VAR BE01}",
+        {
+            "text": "You are so strong--too strong to be cute!",
+            "flags": 240
+        },
+        "According to footstep fortune-telling...{VAR BE01}\nThose whose footsteps make a splish and\na splosh are Trainers that Pokémon like.",
+        "If you turn a parasol around,\nit's like a flower blossoming in the rain!{VAR BE01}",
+        {
+            "text": "Ack...\nCome on!",
+            "flags": 240
+        },
+        "On rainy days, use a parasol,\nwear a coat, or get wet.{VAR BE00}\nDo as you like!",
+        "I am a Rich Boy,\nso I have a great Pokémon!{VAR BE01}",
+        {
+            "text": "I am a Rich Boy. Even though I lost,\nI'm not frustrated! Bah!",
+            "flags": 240
+        },
+        "I am a Rich Boy. I will go on a shopping\nspree to make myself feel better!",
+        "Even when I am resting from\ntoo much shopping, I'm willing to battle!{VAR BE01}",
+        {
+            "text": "Oh, no! I'm still the one to beat\nin shopping competitions, though!",
+            "flags": 240
+        },
+        "I'm very rich, but even I am\npleased with the selection{VAR BE00}\nat this shopping mall. I want to buy more!",
+        "I will show you how energetic\nI've become just by being here!{VAR BE01}",
+        {
+            "text": "Naaatuuure!",
+            "flags": 240
+        },
+        "If I use this, will my Pokémon\nalso become energetic?{VAR BE01}",
+        "When we are surrounded by green,\nwe feel more energetic. Don't you think?{VAR BE00}\nThank you, Mother Nature!",
+        "We are totally in sync!{VAR BE01}\nUsing our amazing connection,\nI will teach you all about Rangers!{VAR BE01}",
+        {
+            "text": "In fact, we learned\nall about you!",
+            "flags": 240
+        },
+        "Do you know much\nabout this Berry?{VAR BE01}",
+        "Listen carefully...{VAR BE01}\nYou may hear the sound\nof breathing Pokémon and plants.",
+        "Mother Nature changes her look\naccording to the seasons...{VAR BE00}\nThat's something I cherish!{VAR BE01}",
+        {
+            "text": "OK!\nYou seem to cherish nature!",
+            "flags": 240
+        },
+        "When seasons change,\nMother Nature gives us this.{VAR BE01}",
+        "Nature changes,\nand Pokémon evolve...{VAR BE01}\nHow can people change?",
+        "It takes 20 or even 30 years\nfor a tree to be fully grown!{VAR BE01}\nWill you have a Pokémon battle\nthat pleases the trees?{VAR BE01}",
+        {
+            "text": "I did my best...\nI am satisfied!",
+            "flags": 240
+        },
+        "This is what a tree gave me!{VAR BE01}",
+        "It's a slow business,\ngrowing a tree.{VAR BE01}\nNo need to rush.\nRaise strong Pokémon slowly.",
+        "I'll show you our style.\nMy Pokémon and nature are in harmony.{VAR BE01}",
+        {
+            "text": "Wasn't our style worthy?",
+            "flags": 240
+        },
+        "What do you let your Pokémon have?\nWhat is their style?{VAR BE01}",
+        "First, we'll create our own style!{VAR BE01}\nBecause I am hopeless\nat social niceties and fashions!",
+        "It blends in among the trees and grass,\nand it shows its strength.{VAR BE00}\nSee the strength of my Pokémon!{VAR BE01}",
+        {
+            "text": "What I wanted to see\nwas not YOUR strength...",
+            "flags": 240
+        },
+        "This is what Pokémon love.\nHere, take some!{VAR BE01}",
+        "There is nature and there are cities,\nand it's lovely to have the choice.{VAR BE01}\nBoth people and Pokémon\ncan choose their favorite places!",
+        "Hm! You are an interesting case!\nPlease help me with my experiment!{VAR BE01}",
+        {
+            "text": "Hm-hum! It's difficult to get a result\nwith this method.",
+            "flags": 240
+        },
+        "When the wind blows, seeds fly.{VAR BE01}\nWhen seeds fly, flowers bloom.{VAR BE01}\nWhen the flowers bloom, we'll get seeds.{VAR BE01}\nEverything is connected!",
+        "Just because I am a Scientist,\npeople think I am so serious!{VAR BE01}",
+        {
+            "text": "Shocking! Nooooo waaaay!\nI loooooost!",
+            "flags": 240
+        },
+        "To turn a ridiculous idea\ninto a reality...{VAR BE01}\nScience can make much more happen\nthan everyone thinks!",
+        "Oh! An unfamiliar face!{VAR BE01}\nTo help scientific progress,\nplease lend me a hand!{VAR BE01}",
+        {
+            "text": "Instead of lending a hand,\nyou gave me a workout!",
+            "flags": 240
+        },
+        "I don't know if science will make everyone\nhappy, but if I believe it will, that{VAR BE00}\nhelps me do my best. That's a fact.",
+        "I want to solve!{VAR BE01}\nAll the mysteries!{VAR BE01}\nIn the world!{VAR BE01}\nFor that purpose! I will keep fighting!{VAR BE01}",
+        {
+            "text": "Whether I win or lose!\nMysteries only deepen!",
+            "flags": 240
+        },
+        "I don't think I can solve\nall mysteries by myself!{VAR BE01}\nHowever! If I can discover something new\nand help someone, I will be satisfied!",
+        "I've found a wonderful Trainer!\nI will research you immediately!{VAR BE01}",
+        {
+            "text": "The results of my research have revealed\nthat you are the best!",
+            "flags": 240
+        },
+        "It is very exciting\nto unlock the secrets{VAR BE00}\nof Pokémon and their Trainers.",
+        "I love this place! The electricity\ncharges up my inspiration!{VAR BE01}",
+        {
+            "text": "Aha!  \nThat made a light bulb go on in my head!",
+            "flags": 240
+        },
+        "When a person moves,\nelectric signals travel in the body!{VAR BE01}\nAlso, when a person has an inspiration,\nelectric signals travel to the brain!",
+        "Pokémon and Poké Balls\nare my real friends!{VAR BE01}\nJoin the training of\nour Pokémon Eleven!{VAR BE01}",
+        {
+            "text": "Aghhhhh! I must still be green!\nI have plenty of guts, though!",
+            "flags": 240
+        },
+        "Both my Pokémon and I\nstill haven't gotten enough practice...{VAR BE00}\nIn terms of levels, that would be five...",
+        "I am about to give a lecture\non the strength created by gathering{VAR BE00}\na proper balance of different Pokémon!{VAR BE01}",
+        {
+            "text": "Bam! You lectured me!\nWhat a great Trainer!",
+            "flags": 240
+        },
+        "Team play with Pokémon\nbrought new fun to our sport.",
+        "My dad is working in a Gym!\nI am receiving special training there!{VAR BE01}",
+        {
+            "text": "...Dad.\n...I couldn't win.",
+            "flags": 240
+        },
+        "I have Pokémon battles with my dad, too.\nMy dad and I are quite evenly matched!",
+        "Workers carry Pokémon and loads.\nI am a Youngster.{VAR BE01}\nI am close to my Pokémon,\nand we all cooperate happily!{VAR BE01}",
+        {
+            "text": "Ummmm! You're closer\nto your Pokémon than I am!",
+            "flags": 240
+        },
+        "It never occurred to you that\nthe Pokémon you find around containers{VAR BE00}\ncame here from another place?",
+        "Sometimes you find more than just strong\nPokémon in the tall grass!{VAR BE01}",
+        {
+            "text": "Strooooong!\nWhat a Trainer!!",
+            "flags": 240
+        },
+        "I will grow better and better\nby fighting Pokémon in the tall grass!",
+        "Oh!{VAR BE01}\nOhhh?{VAR BE01}\nWhat?! That's not a Pokémon,\njust an ordinary Trainer!{VAR BE01}",
+        {
+            "text": "You are not an ordinary Trainer.\nYou are a strong Trainer!!",
+            "flags": 240
+        },
+        "Have you heard that when tall grass\nwaves in the breeze,{VAR BE00}\na rare Pokémon jumps out?",
+        "These are special Pokémon\nI just caught!{VAR BE01}",
+        {
+            "text": "I just caught them\nand have not raised them yet!",
+            "flags": 240
+        },
+        "OK! I will catch some different Pokémon\nin Pinwheel Forest and have more friends!",
+        "OK! I'm brave and I'm bold!\nLet's get right to the battle!{VAR BE01}",
+        {
+            "text": "Pfft...\nMy bold bravery is vanishing into the air...",
+            "flags": 240
+        },
+        "I will tell you 'cause you're strong!{VAR BE01}\nOnly one piece of the challenge rock\nwill be chipped off each day!",
+        {
+            "text": "I wanted to captivate you,\nbut I feel like I slipped and fell!",
+            "flags": 240
+        },
+        "I've seen a lot of Trainers!{VAR BE01}\nYou seem to have the same aura\nthat I felt from strong Trainers.{VAR BE01}",
+        {
+            "text": "Exactly!\nYour aura is exactly what I felt!",
+            "flags": 240
+        },
+        "You have abundant kindness\nas well as strength.",
+        "I'm the best around here.\nCan you possibly be a match for me?{VAR BE01}",
+        {
+            "text": "Your talent and sense...\nBoth are dazzling.",
+            "flags": 240
+        },
+        "Perhaps the secret of your strength\nis your commitment.",
+        "I am a Waiter who is good\nat Pokémon battles.{VAR BE01}",
+        {
+            "text": "Wonderful battle! A learning experience.\n...Thanks for the tip!",
+            "flags": 240
+        },
+        "Our specialty is the best\nPokémon battles.",
+        "Welcome!{VAR BE01}\nWould you like a cold drink\nwith your Pokémon battle?{VAR BE01}",
+        {
+            "text": "That was a wonderful battle.\nBravo!",
+            "flags": 240
+        },
+        "Invigorating Soda Pop for exhausted\nPokémon after a battle!{VAR BE00}\nAvailable in any vending machine!",
+        "Twist Mountain changes in every season,\nand this old man changes in every battle!{VAR BE01}",
+        {
+            "text": "Go easy on...\na grown-up?!",
+            "flags": 240
+        },
+        "This old man likes winter.{VAR BE01}\nSnow on Twist Mountain...\nhas an indescribable beauty.",
+        "My Pokémon love the ore mined here,\nand they love fiery Pokémon battles!{VAR BE01}",
+        {
+            "text": "You got me!\nMy Pokémon thinks so, too!",
+            "flags": 240
+        },
+        "If Pokémon eat the ore inside a mountain,\na hole grows, and our work speeds up!{VAR BE01}\nPeople and Pokémon\nwork great together!",
+        "The number two Trainer\non Twist Mountain is me!{VAR BE01}",
+        {
+            "text": "From now on, you are the number two Trainer\non Twist Mountain.",
+            "flags": 240
+        },
+        "From now on, I will be the\nnumber three Trainer on Twist Mountain.{VAR BE01}\nFor your information,\nthe number one is Clay!",
+        "What do you think about the cannons?{VAR BE01}\nIsn't it great that you can\nexperience how flying Pokémon feel?{VAR BE01}\nNext, experience the feeling\nof losing a Pokémon battle!{VAR BE01}",
+        {
+            "text": "I was blown away!!",
+            "flags": 240
+        },
+        "I'll be stronger if I fight\nwhile thinking about Pokémon!{VAR BE00}\nVictory will come my way!",
+        "Trainer! I bet you're\ntoo blown away to fight!{VAR BE01}",
+        {
+            "text": "What a calm person you are!\nYou're amazing!",
+            "flags": 240
+        },
+        "Cannons used once may be used again.\nIt's recycling! Precisely!",
+        "In order to jump higher,\nI am practicing really hard!{VAR BE01}",
+        {
+            "text": "No problem! Even though I lost,\nI will just prepare and jump again!",
+            "flags": 240
+        },
+        "Trainer! Do you remember\nwhat you were told at the beginning?{VAR BE01}\n“The cannons go up, down,\nleft, and right.{VAR BE00}\nYou can enter them from anywhere!\"{VAR BE01}\nHow about that?\nI am good at imitating him, aren't I?",
+        "My plans are perfectly honed!\nI cannot lose!{VAR BE01}",
+        {
+            "text": "No way! What part of my fighting style\ndid I forget to double-check?",
+            "flags": 240
+        },
+        "Check after check after check!\nComplacency leads to accidents!",
+        "Battles in the Castelia Gym are\nbeautiful! They are pure art!!{VAR BE01}",
+        {
+            "text": "Falling beautifully...\nThis is also an art...",
+            "flags": 240
+        },
+        "If you step on two switches, two lamps\nwill light up and a gate will open!{VAR BE00}\nThis is also an art!",
+        "I like the feeling of walking\nthrough the honey walls...{VAR BE00}\nI've walked through them many times.{VAR BE01}",
+        {
+            "text": "How is this possible?\nI will walk through the honey walls again.",
+            "flags": 240
+        },
+        "The honey walls...\nWhat do you think they are made of?{VAR BE01}\nDon't you think it is odd\nthat Burgh never tells us?",
+        "What do you think? This Pokémon Gym...\nHow should I say? Isn't it full of...{VAR BE00}\noutrageous and mysterious charms?{VAR BE01}",
+        {
+            "text": "As a Trainer,\nyou are full of charm!",
+            "flags": 240
+        },
+        "I absolutely love this Gym where\nBurgh's vision became reality!",
+        {
+            "text": "I wasn't hiding under the floor\njust to lose!",
+            "flags": 240
+        },
+        {
+            "text": "I was defeated by your strong spirit.\nYou seem unfazed by anything!",
+            "flags": 240
+        },
+        "OK, challenger!\nBring it on!{VAR BE01}",
+        {
+            "text": "But then, but...\nI lost?!",
+            "flags": 240
+        },
+        "Get on the elevators,\nand go down and down!{VAR BE01}\nA Trainer's spirit means\ntake it as far as you can!",
+        "When the elevator goes up,\nmy spirits rise!{VAR BE01}\nWhen the elevator goes down,\nmy spirits fall...{VAR BE01}\nIf you want to know why Clay\nis at the bottom, defeat me!{VAR BE01}",
+        {
+            "text": "I lost. There go my spirits...\naaaaaall the way down!",
+            "flags": 240
+        },
+        "Clay is waiting\nat the very bottom because...{VAR BE01}\nhe wants to remember\nthat he was at the bottom in the past.",
+        "I face my Pokémon,\nand we share our real feelings.{VAR BE01}\nSometimes that's what I do\nin this Pokémon Gym.{VAR BE01}",
+        {
+            "text": "Right now, my Pokémon and I\nboth feel the sting of defeat!",
+            "flags": 240
+        },
+        "When we lose,\nI apologize to my Pokémon...{VAR BE01}\nIt is important for our future,\nand it helps me grow strong!",
+        {
+            "text": "Wow! You are so strong!\nCongratulations!",
+            "flags": 240
+        },
+        {
+            "text": "Here's my lame excuse:\nI lost because the ship was swaying!",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "I thought I could take it easy against you,\nbut got burned bad!",
+            "flags": 240
+        },
+        {
+            "text": "While I was staring at your pretty face,\nthe Pokémon battle was over.",
+            "flags": 240
+        },
+        {
+            "text": "You know so many rare Pokémon!\nOr at least, your Pokémon are new to me.",
+            "flags": 240
+        },
+        {
+            "text": "I... I am not disappointed.\nBecause I am elegant!",
+            "flags": 240
+        },
+        {
+            "text": "Dizzy...\nSo very dizzzzzy...",
+            "flags": 240
+        },
+        "Having traveled the world, I realized\nwe can communicate through our Pokémon.{VAR BE01}",
+        {
+            "text": "That message came through loud and clear!",
+            "flags": 240
+        },
+        "Having traveled around the world,\nI learned that travel brings change!{VAR BE01}\nWe should not be afraid of change.",
+        "Countless feelings infuse these ruins!{VAR BE01}\nIt's fun to imagine them!\nAnd how are you feeling?{VAR BE01}",
+        {
+            "text": "I am feeling...\nvery upset because I could not win!",
+            "flags": 240
+        },
+        "People and Pokémon\neach have different feelings.{VAR BE01}\nAnd probably both are correct.",
+        "Being with my Pokémon makes me happy\neven when we’re in a bad situation!{VAR BE01}",
+        {
+            "text": "Yes! It was fun that your and my Pokémon\nwere both so energetic!",
+            "flags": 240
+        },
+        "When I feel lonely at night,\nI curl up with my Pokémon{VAR BE00}\nand watch the twinkling stars.{VAR BE01}\nI track the shooting stars\nand slow down the rhythm of my life.",
+        "Whether I travel or not,\nI want to make a great discovery.{VAR BE01}",
+        {
+            "text": "Oh! I may have discovered\nsomething good about you!",
+            "flags": 240
+        },
+        "The world is full of mysteries!{VAR BE01}\nThat's why I look closely.\nThat's why I listen carefully.{VAR BE01}\nI think, I reflect, and\nI discover something new.",
+        "The Abilities of my Pokémon!\nI will show them to you.{VAR BE01}",
+        {
+            "text": "I could not make really good use\nof the Ability Mummy...",
+            "flags": 240
+        },
+        "If an Ability is changed to Mummy,\nthe Pokémon cannot use its original{VAR BE00}\nAbility. It's subtly devious, isn't it?",
+        "Oh! That moment!{VAR BE01}\nThat's when we use Pokémon.{VAR BE01}",
+        {
+            "text": "Oh! Is it over already?",
+            "flags": 240
+        },
+        "Oh! That moment.{VAR BE01}\nThat's when you notice\nhow great Pokémon are!",
+        "I am a Psychic, so just one look at you\ntells me that you are a Trainer!{VAR BE01}",
+        {
+            "text": "I am a Psychic,\nso I can tell the battle is over.",
+            "flags": 240
+        },
+        "Sifting the ever-changing sands...\nSifting my ever-changing feelings...{VAR BE01}\nTelepathy means others will be aware of\nmy feelings. That could be a good thing.{VAR BE01}\nWait! It means others will be aware when\nI have awkward or painful feelings, too!",
+        "Let me battle with you!{VAR BE01}",
+        {
+            "text": "Wow...\nYou are my strongest challenger so far.",
+            "flags": 240
+        },
+        "Engage the switches and\nstart from the defined position.{VAR BE01}\nIf you try all the combinations,\nsomeday you'll find the right one!",
+        "The problem is never\nwhether you can battle or not.{VAR BE00}\nIt's whether you will battle or not.{VAR BE01}",
+        {
+            "text": "If you don't fight, you won't lose,\nbut you won't grow stronger, either.",
+            "flags": 240
+        },
+        "When you're not sure if you'll succeed,\nbuild momentum and take a leap!{VAR BE01}\nIt's fine! Because your Pokémon\nare always with you!",
+        "The slippery frozen floor is perfect\nfor improving your sense of balance!{VAR BE01}",
+        {
+            "text": "I slipped and lost!",
+            "flags": 240
+        },
+        "Brycen slides on the frozen floor\nall the time, so it's worn down, and{VAR BE00}\nit looks like you can see the path...{VAR BE00}\nbut maybe I'm imagining it.",
+        "Well, well, if you are feeling dizzy\nbecause of the Gym machines,{VAR BE00}\nI will stand in your path!{VAR BE01}",
+        {
+            "text": "Oh, dear me!",
+            "flags": 240
+        },
+        "Being fired into the air by cannons\nand spinning on the ice many times...{VAR BE00}\nIt's difficult to get Badges.",
+        "I always calm myself and choose\nthe critical moment in a battle.{VAR BE01}",
+        {
+            "text": "Mmmm?! What?!\nNo way? Really?!",
+            "flags": 240
+        },
+        "Being calm and having no emotion\nare different.{VAR BE01}\nBrycen rejoices quietly,\nand he grows quietly in rage...",
+        "I am the King of Karate!!{VAR BE01}\nI've taught my Pokémon moves\nthat they'll use in battle with you!{VAR BE01}",
+        {
+            "text": "I am the King of Karate!!\nI am skillful, but I lose quite often...",
+            "flags": 240
+        },
+        "I am from a fighting dojo in Kanto!!\nThis is my global debut, so to speak!",
+        "Oh! Trainer!\nDo you want to learn a bitter lesson?{VAR BE01}",
+        {
+            "text": "The training is over!",
+            "flags": 240
+        },
+        "Going slowly is fine.{VAR BE01}\nIf I train every single day,\nI will be strong someday!",
+        "Are you looking for a Pokémon here,\nor are you just taking a walk?{VAR BE00}\nEither way, have a battle with me!{VAR BE01}",
+        {
+            "text": "What is it?\nI can't explain it, but you are great!",
+            "flags": 240
+        },
+        "Even if you forget about this battle,\nI will never forget this!",
+        "Competitive eating\nis one thing I'm good at!{VAR BE01}",
+        {
+            "text": "What I am bad at\nis Pokémon battles...",
+            "flags": 240
+        },
+        "I am training here to improve my\nweak points.",
+        {
+            "text": "Beginnings are important, whether\nin a good novel or a good battle!",
+            "flags": 240
+        },
+        {
+            "text": "It seems this is the beginning\nof my final chapter.",
+            "flags": 240
+        },
+        {
+            "text": "I feel we're about to turn the page\nto the epilogue of this story.",
+            "flags": 240
+        },
+        {
+            "text": "Wow. I'm dumbstruck!{VAR BE01}\nI know a lot of words, but right now I can't\nfigure out how to say this.{VAR BE01}\nPerhaps, if the feeling I'm having now\nis put into words, it will be trapped there.{VAR BE01}\nSo let me say this...\nMy feeling is you're a great Trainer!",
+            "flags": 240
+        },
+        {
+            "text": "I never thought you would use that move...\nNot a bad choice at all.",
+            "flags": 240
+        },
+        {
+            "text": "Good, good...\nBut I will never retreat from any battle.",
+            "flags": 240
+        },
+        {
+            "text": "Even in this situation,\nthere must be a way to triumph!",
+            "flags": 240
+        },
+        {
+            "text": "If somebody wins a battle, then, without\ndoubt, someone else has lost the battle.{VAR BE01}\nThat's the way of battle.{VAR BE01}\nA real warrior doesn't dash off in pursuit\nof the next victory, nor throw a fit{VAR BE00}\nwhen experiencing a loss.{VAR BE01}\nA real warrior ponders the next battle.",
+            "flags": 240
+        },
+        {
+            "text": "Oh, so strong.\nThat makes my heart dance!",
+            "flags": 240
+        },
+        {
+            "text": "That's my final Pokémon!\nSo we'll use our last bit of strength!",
+            "flags": 240
+        },
+        {
+            "text": "Well, this may be the last.\nI will put everything into my next move!",
+            "flags": 240
+        },
+        {
+            "text": "There is no single strongest Pokémon\nor sole best combination...{VAR BE01}\nThat's why it is difficult\nto keep winning.{VAR BE01}\nHowever, I think a heart that desires\nstrength and strives to grow{VAR BE00}\nstronger is a precious ideal.{VAR BE01}\nThat is why I respect you--\nbecause you have these things.",
+            "flags": 240
+        },
+        {
+            "text": "I get the feeling a wonderful time\nis about to start. I'm excited!",
+            "flags": 240
+        },
+        {
+            "text": "Even at a time like this,\nI should stay cool and collected...",
+            "flags": 240
+        },
+        {
+            "text": "For the sake of the Pokémon\nthat believe in me, I will never give up.",
+            "flags": 240
+        },
+        {
+            "text": "As a Trainer, you are both excellent\nand elegant. Your Pokémon have class.{VAR BE01}\nI am very pleased to have battled you.",
+            "flags": 240
+        },
+        {
+            "text": "Do you believe that Pokémon battles\nhelp us understand one another?",
+            "flags": 240
+        },
+        {
+            "text": "I will show you that my love for my friends\npermeates every cell of my body. Behold!",
+            "flags": 240
+        },
+        {
+            "text": "My friends getting hurt...\nThat's what a Pokémon battle is.",
+            "flags": 240
+        },
+        {
+            "text": "Agggghh.\nEvery single time...",
+            "flags": 240
+        },
+        {
+            "text": "It's not fun to see\nmy friends in trouble.",
+            "flags": 240
+        },
+        {
+            "text": "Well, that's OK.\nI was expecting this defeat.",
+            "flags": 240
+        },
+        {
+            "text": "Do you really think you can stop us\nwith that?",
+            "flags": 240
+        },
+        {
+            "text": "My last friend...\nPlease share your courage with me!",
+            "flags": 240
+        },
+        {
+            "text": "Is the world going to choose you--\nand not me?!",
+            "flags": 240
+        },
+        {
+            "text": "Everything’s ruined. The truth I held...\nThe dreams Pokémon shared...",
+            "flags": 240
+        },
+        {
+            "text": "I was expecting exactly that kind of move!",
+            "flags": 240
+        },
+        {
+            "text": "What is going on here?",
+            "flags": 240
+        },
+        {
+            "text": "My calculations... No! My careful schemes!\nThe world should be mine!",
+            "flags": 240
+        },
+        "I am a Doctor!{VAR BE01}\nIf you have Pokémon in bad shape...\nLet me see your Pokémon in battle!{VAR BE01}",
+        {
+            "text": "Your strength is fathomless!\nI am deeply impressed.",
+            "flags": 240
+        },
+        "Whether your Pokémon are healthy\nor not, I'll restore them to full health!{VAR BE01}",
+        "I aim to be the best Doctor in the world!{VAR BE01}\nBut first, I intend to become\nthe best Trainer in the world!",
+        "An Ace Trainer like me has pride,\nso I won't lose!{VAR BE01}",
+        {
+            "text": "I could not protect my pride.\nI'm mortified!",
+            "flags": 240
+        },
+        "Pride does not mean acting arrogantly!{VAR BE01}\nI'm really proud of what\nI have achieved in my life!",
+        "I've thought about what I can do\nto help my Pokémon win, and{VAR BE00}\nfinally I figured out the answer!{VAR BE01}",
+        {
+            "text": "I'm afraid I could not read\nwhat you wanted to do...",
+            "flags": 240
+        },
+        "Read what your opponent wants to do.{VAR BE01}\nYour opponent is human and may change\nplans from moment to moment. Be careful!",
+        "Before going to the Pokémon League,\nlet me test my skills!{VAR BE01}",
+        {
+            "text": "It's obvious, but there is always\nsomeone better...",
+            "flags": 240
+        },
+        "The Elite Four are said to be\nwaiting at the Pokémon League.{VAR BE00}\nI wonder what kind of people they are.",
+        "Oh, boy...\nMy Pokémon want to brag about me.{VAR BE01}\nSo, let's start!{VAR BE01}",
+        {
+            "text": "Ouch!\nThey can't brag about me.",
+            "flags": 240
+        },
+        "Because I respect my opponents,\nI want to win against them!{VAR BE01}\nThat's why I want other people to think\nthey want to win against me!",
+        "Whenever I am lost, I meet a Trainer!\nOf course, we're gonna fight!{VAR BE01}",
+        {
+            "text": "Mmmmm... It's not good\nto fight when I am lost.",
+            "flags": 240
+        },
+        "When people move ahead,\nthey get lost, or they stop...{VAR BE01}\nAt those moments, Pokémon give you\ncourage to keep moving forward!",
+        "The people who pass by here\nhave such different moods!{VAR BE01}\nIt's fun to watch, and even more fun\nto fight against them!{VAR BE01}",
+        {
+            "text": "Mwa haha!\nIt's fun!",
+            "flags": 240
+        },
+        "Winning is good,\nbut winning is not everything...{VAR BE00}\nDon't lose sight of what's important!",
+        "Wait! \nYou, young Trainer over there!{VAR BE01}\nLook at my Pokémon.{VAR BE01}",
+        {
+            "text": "Not bad!\nI like your strength.",
+            "flags": 240
+        },
+        "As a Pokémon grows, its connection\nto its Trainer will improve,{VAR BE00}\nand their bond becomes stronger!",
+        "If there is a steep cave in the east,\nI go there and train my Pokémon, and{VAR BE00}\nif there is a strong Trainer in the west,{VAR BE00}\nI go there and challenge that Trainer!{VAR BE01}",
+        {
+            "text": "My Pokémon clearly lack\nproper training!!",
+            "flags": 240
+        },
+        "Pokémon training Pokémon...{VAR BE01}\nIf they live in rugged wilderness,\nthat can happen naturally.",
+        "Oh, are you the legendary Pokémon\nthat is said to live here?{VAR BE01}",
+        {
+            "text": "You startled me.\nYou are a person!",
+            "flags": 240
+        },
+        "In the story I know,\nthe legendary Pokémon{VAR BE00}\nwas training its student Pokémon.",
+        "These Pokémon were born\non the same day and raised together!{VAR BE01}",
+        {
+            "text": "Oh!\nYou're pretty good!",
+            "flags": 240
+        },
+        "Our days with Pokémon\nare full of happiness, and{VAR BE00}\nour joys will grow as we live together!",
+        "Please tell me what kinds of Pokémon are\nby your side and share your happiness{VAR BE00}\nwhen you are happy!{VAR BE01}",
+        {
+            "text": "Wow!\nWonderful!",
+            "flags": 240
+        },
+        "When I've been happy or sad,\nthe Pokémon have always been with me.{VAR BE01}\nI hope I can stay with them\nas long as possible.",
+        "Celestial Tower means a perfect tower!{VAR BE01}\nOh, never mind.\nLet's have a Pokémon battle.{VAR BE01}",
+        {
+            "text": "You're really perfect!",
+            "flags": 240
+        },
+        "I am far from perfect...",
+        "Pokémon that grew up in Unova and\nPokémon that grew up elsewhere--{VAR BE00}\nboth rest here quietly.{VAR BE01}",
+        {
+            "text": "Your Pokémon are full of life!",
+            "flags": 240
+        },
+        "Pokémon that grew up in Unova and\nPokémon that grew up elsewhere--{VAR BE00}\nall are precious Pokémon...",
+        "I will guess what you are...{VAR BE01}\nYou are...\na Pokémon Trainer!{VAR BE01}",
+        {
+            "text": "What was that?\nI guessed what you were, though.",
+            "flags": 240
+        },
+        "Everyone can make the effort\nto understand their opponent.",
+        "The Dragon Gym in Opelucid City\nis where tough Trainers show{VAR BE00}\nthey can carve out their own path!{VAR BE01}",
+        {
+            "text": "I'm sure you can carve out\nyour own path!",
+            "flags": 240
+        },
+        "As the name suggests,\na Gym Leader is the top of a Gym!{VAR BE01}\nThe Leader is top of the heap\nat this Opelucid Gym!{VAR BE01}\nIf you want to meet the Leader,\nclimb up on the dragons' backs{VAR BE00}\nand aim for the top floor!",
+        "Do you understand\nhow the dragons' heads move?{VAR BE01}",
+        {
+            "text": "You're strong! I guess you want to know\nabout the dragons' heads pretty badly.",
+            "flags": 240
+        },
+        "The dragons' arms go up and down...{VAR BE01}\nAnd depending on the arms,\nthe dragons' heads turn right and left{VAR BE00}\nand move up and down, too.{VAR BE01}\nListen! Here is a hint!{VAR BE01}\nIf both arms point down,\nthe dragon's head sinks down, too.",
+        "I will test you to see how well\nyou really know Pokémon!{VAR BE01}",
+        {
+            "text": "You are bringing out your Pokémon's\nfull potential!",
+            "flags": 240
+        },
+        "I am a Trainer. \nI don't have to get strong myself.{VAR BE01}\nAll I have to do is to support Pokémon\nso that they can fight at their best.",
+        "By any chance,\nare you unsure of what to do?{VAR BE01}",
+        {
+            "text": "What is this?\nI felt your confidence.",
+            "flags": 240
+        },
+        "The dragons in this Gym\ncan be elevators, too!",
+        "I will tell a Trainer who beats me\nhow to move forward in this Gym!{VAR BE01}",
+        {
+            "text": "Wow! \nYou beat me!",
+            "flags": 240
+        },
+        "Jump from a triangle mark!{VAR BE01}\nWhen you land on a switch on an arm,\nthe dragon's head will move,{VAR BE00}\nand you can move ahead!",
+        "Are you happy just hanging out\nwith Pokémon?{VAR BE00}\nOr do they have to be strong?{VAR BE00}\nWe'll see which type you are!{VAR BE01}",
+        {
+            "text": "Your Pokémon seem to be happy\njust hanging around with you!",
+            "flags": 240
+        },
+        "Every person loves Pokémon\nin a different way.{VAR BE01}\nGetting strong with my Pokémon...\nThat's the way I chose.",
+        "I wonder what you will do\nas a Trainer?!{VAR BE01}",
+        {
+            "text": "Oh, you fight very well.\nYou are great!",
+            "flags": 240
+        },
+        "I love Pokémon battles!{VAR BE01}\nI never know what my opponent will do.\nIt gives me chills!{VAR BE01}\nWin or lose, it's the excitement\nof the fight that counts!",
+        "My favorite word is “challenge\"!\nDo you like challenges?{VAR BE01}",
+        {
+            "text": "You seem to like challenges!",
+            "flags": 240
+        },
+        "Do you like challenges...?{VAR BE01}\nIf you take a challenge,\nyou can find something good.{VAR BE01}\nIf you don't try anything, you just\nmake excuses.",
+        {
+            "text": "Argh...\nMy heart aches!",
+            "flags": 240
+        },
+        "We have ten years' experience battling!\nI give you a taste of a Veteran's skill!{VAR BE01}",
+        {
+            "text": "I guess the time spent\nis not everything!",
+            "flags": 240
+        },
+        "Getting stronger...{VAR BE01}\nis like walking down a road\nthat never ends,{VAR BE00}\nno matter how much you fight...{VAR BE01}\nIt's what this Dragon Gym is about.\nIt's the secret of the dragons' backs...",
+        "I've heard about you.\nI heard you work Pokémon hard!{VAR BE01}",
+        {
+            "text": "Yes, I heard you are strong.\nYou match what I heard exactly.",
+            "flags": 240
+        },
+        "To get to a lower level, stand still\nin the midst of quicksand.{VAR BE01}\nI'm not being kind...\nMy companions will defeat you.",
+        "You!\nTo please my Pokémon, lose!{VAR BE01}",
+        {
+            "text": "What a Trainer!",
+            "flags": 240
+        },
+        "Because of you,\nmy Pokémon lost!{VAR BE00}\nDon't you feel sorry for them?{VAR BE01}\nBesides, you are just depending\non your Pokémon for strength.",
+        "If everyone frees their Pokémon,\nthere is no winning or losing!{VAR BE01}",
+        {
+            "text": "If I don't have Pokémon,\nI won't lose like this!",
+            "flags": 240
+        },
+        "How dare you interrupt us\nwithout understanding us?",
+        "We fight for the young king...\nThat's it!{VAR BE01}",
+        {
+            "text": "My king...\nI am so sorry.",
+            "flags": 240
+        },
+        "Everything changes.\nUnova will also be born again.{VAR BE00}\nWhy don't you admit that?",
+        "You can't change the world\nwithout a little pain!{VAR BE01}",
+        {
+            "text": "Ouch...\nI don't like pain.",
+            "flags": 240
+        },
+        "We're trying so hard to change the world\nbecause nobody else is trying. Yet...{VAR BE01}\nThat's right! You! Can you understand\nour lord N's feelings?",
+        "Pokémon are too good for the likes of\nyou! They are amazing, but putting them{VAR BE00}\nin the hands of foolish Trainers can bring{VAR BE00}\nnothing good!{VAR BE01}",
+        {
+            "text": "Argh!\nAnnoying!",
+            "flags": 240
+        },
+        "Me, lose? Here I am, covered in sand,\nthrowing everything I have into it,{VAR BE00}\nand I lose? Am I that much of a loser?{VAR BE01}\nIt should be your loss.\nAnd that's an order!",
+        "I won't tolerate people\nwho have different ideas!{VAR BE01}",
+        {
+            "text": "Argh...\nI won't forgive you!",
+            "flags": 240
+        },
+        "I repeat! We won't tolerate people\nwho have different ideas!{VAR BE01}\nYour friends are waiting below--\nnow get out!",
+        "When I am surrounded by rocks,\nmy spirit goes up!!{VAR BE01}",
+        {
+            "text": "When I lose,\nmy spirits sink...",
+            "flags": 240
+        },
+        "My spirits rise and fall.\nI'm just charmingly unpredictable!",
+        "Why do I dig?\nWhy do you fight?{VAR BE00}\nLet's find out.{VAR BE01}",
+        {
+            "text": "Your past experience...\nIs that the source of your strength?",
+            "flags": 240
+        },
+        "The more you fight,  \nthe stronger you'll be.{VAR BE01}\nThe more you dig, \nthe bigger the hole will be...{VAR BE01}\nIf you have a purpose, \nthere's no wasted effort!",
+        "At work, we do our best.\nThat is my, and my Pokémon's, way of life!{VAR BE01}",
+        {
+            "text": "We did our best,\nand this is the result?!",
+            "flags": 240
+        },
+        "Well, well, I guess I'll go back to work.{VAR BE01}\n'Cause my precious Pokémon\nare better at work.",
+        "My favorite things are:\nMountains! Meals! Pokémon!{VAR BE00}\nAnd fun battles!!{VAR BE01}",
+        {
+            "text": "Oh, ho ho!\nYou got me!",
+            "flags": 240
+        },
+        "Your team is so strong!{VAR BE01}\nBut my Pokémon were also\nquite good, weren't they?",
+        "I'm chasing my dream,\nand I'm fighting for a victory!{VAR BE01}",
+        {
+            "text": "I can't catch that dream!",
+            "flags": 240
+        },
+        "I am looking for a legendary Pokémon\nsaid to be hiding in this cave.{VAR BE01}\nYes, it's true. Men are suckers for\nadventure, no matter how old we get!",
+        "This cave is full of rocks\ngenerating electricity!{VAR BE00}\nThe electricity is charging me up!{VAR BE01}",
+        {
+            "text": "Yowch, a lightning spark!",
+            "flags": 240
+        },
+        "The sources of my energy are\nmy precious Pokémon!{VAR BE00}\nThis has been scientifically proven!!",
+        "I will research and investigate\nyour Pokémon!{VAR BE01}",
+        {
+            "text": "I must analyze my defeat...",
+            "flags": 240
+        },
+        "Why don't you go discover\nsomething else?",
+        "I will unlock the mechanism\nand find the secret of your power!{VAR BE01}",
+        {
+            "text": "I was so preoccupied with the mechanism,\nI forgot to concentrate on the battle!",
+            "flags": 240
+        },
+        "The mechanism of rain, and\nthe science of changing seasons...{VAR BE00}\nNature is full of wonders.",
+        {
+            "text": "I see.\nI'm surprised you chose that move.",
+            "flags": 240
+        },
+        {
+            "text": "Mind you...\nIt's not over yet!",
+            "flags": 240
+        },
+        {
+            "text": "Well! You are strong, as usual!",
+            "flags": 240
+        },
+        {
+            "text": "I see.\nI'm surprised you chose that move.",
+            "flags": 240
+        },
+        {
+            "text": "Mind you...\nIt's not over yet!",
+            "flags": 240
+        },
+        {
+            "text": "Well! You are strong, as usual!",
+            "flags": 240
+        },
+        {
+            "text": "I see.\nI'm surprised you chose that move.",
+            "flags": 240
+        },
+        {
+            "text": "Mind you...\nIt's not over yet!",
+            "flags": 240
+        },
+        {
+            "text": "Well! You are strong, as usual!",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa!\nWahhhhh!",
+            "flags": 240
+        },
+        {
+            "text": "Long live Team Plasma!",
+            "flags": 240
+        },
+        {
+            "text": "For every great plan, there\nis someone to get in the way.",
+            "flags": 240
+        },
+        {
+            "text": "Have you learned your lesson now?\n...I'm such a sore loser.",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa!\nAhh, our beautiful dream...",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa!\nThis is a nightmare!",
+            "flags": 240
+        },
+        {
+            "text": "Whoa, whoa, come on now!\nI'm shocked to lose against a little kid!",
+            "flags": 240
+        },
+        "It's best to use what you have learned\nin order to master it!{VAR BE01}",
+        {
+            "text": "What can you learn by losing?\nI feel like there's a “Eureka!\" here for me.",
+            "flags": 240
+        },
+        "I'm mastering the lesson in three\ndimensions by experiencing it like this!",
+        {
+            "text": "Come on! \nYou're just a kid--a kid on an ego trip!",
+            "flags": 240
+        },
+        {
+            "text": "Our rules and your rules\nare different!",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa! If this keeps up,\nwe won't save the Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "My hunch is you're sabotaging us because\nyou're flat-out jealous of our cool outfits.",
+            "flags": 240
+        },
+        {
+            "text": "You seem to understand the importance\nof the first attack very well.",
+            "flags": 240
+        },
+        {
+            "text": "If I can bring out the power of my Pokémon,\nI can still pull this off and win.",
+            "flags": 240
+        },
+        {
+            "text": "Impressive.\nBut why can't I win?!",
+            "flags": 240
+        },
+        {
+            "text": "You seem to understand the importance\nof the first attack very well.",
+            "flags": 240
+        },
+        {
+            "text": "If I can bring out the power of my Pokémon,\nI can still pull this off and win.",
+            "flags": 240
+        },
+        {
+            "text": "Impressive.\nBut why can't I win?!",
+            "flags": 240
+        },
+        {
+            "text": "You seem to understand the importance\nof the first attack very well.",
+            "flags": 240
+        },
+        {
+            "text": "If I can bring out the power of my Pokémon,\nI can still pull this off and win.",
+            "flags": 240
+        },
+        {
+            "text": "Impressive.\nBut why can't I win?!",
+            "flags": 240
+        },
+        "Well, at a time like this,\nlet's have a Pokémon battle!{VAR BE01}",
+        {
+            "text": "I see. \nWas that your favorite Pokémon?",
+            "flags": 240
+        },
+        "Wherever I go in the world,\nI have Pokémon battles!{VAR BE01}\nOnce I ask about someone's favorite\nPokémon, we soon become friends!",
+        "My way of life is dynamic!{VAR BE01}",
+        {
+            "text": "My way of losing is\nalso dynamic!",
+            "flags": 240
+        },
+        "My Pokémon are always with me!\nThat's why I can be dynamic!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "...What?",
+            "flags": 240
+        },
+        {
+            "text": "Pah, is that it?\nI lost before I knew it...",
+            "flags": 240
+        },
+        {
+            "text": "Oh, hee hee hee...\nYou're so strong.",
+            "flags": 240
+        },
+        {
+            "text": "Pant, pant, pant, pant...",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The ideal movement of living things,\nsuch pure beauty!{VAR BE01}\nAh, let me behold them!{VAR BE01}",
+        {
+            "text": "I saw their beauty up close!",
+            "flags": 240
+        },
+        "You know, creatures that exert \nall their strength are always beautiful.",
+        "If you win against me,\nI will give you something good{VAR BE00}\nfrom this backpack!{VAR BE01}",
+        {
+            "text": "You are great!\nAnd strong!",
+            "flags": 240
+        },
+        "Here you are.\nI will give you this as I promised!{VAR BE01}",
+        "It feels great to run as fast as you can\nover mountains and through forests.{VAR BE00}\nRight?",
+        "I came here on my journey,\nbut it's kind of lively here, isn't it?{VAR BE01}",
+        {
+            "text": "Is there a festival or something \ngoing on here?",
+            "flags": 240
+        },
+        "This is what I found during my trip.\nI don't need it, so I will give it to you.{VAR BE01}",
+        "Everybody is dressed the same way.\nIs this some kind of ceremony?",
+        "I bet athletes are not satisfied\nwith their games.{VAR BE01}\nThat's how I feel\nwhen I watch them.{VAR BE01}\nThe reason? If you win against me,\nI will tell you why!{VAR BE01}",
+        {
+            "text": "Are you pleased with your victory?\nOr are you unsatisfied?",
+            "flags": 240
+        },
+        "This Moomoo Milk is tasty\nand so very satisfying!{VAR BE01}",
+        "No matter how great their play is,\nthere is always a greater play.{VAR BE01}\nI am never satisfied with my bread,\neven though I bake it very well.{VAR BE01}\nI always want to make the next\nloaf even more delicious!",
+        "A place where you can warm up!\nThat's what I heard and why I came here!{VAR BE00}\nLet's turn up the heat on this thing!{VAR BE01}",
+        {
+            "text": "The heat here is too much.\nI'm just burning up!",
+            "flags": 240
+        },
+        "My warrior's heart is burning!\nThank you for the hot battle!{VAR BE01}\nNext, I will stay on this hot streak\nand watch the game!",
+        "To raise healthy Pokémon, you need\nto keep their minds and bodies active,{VAR BE00}\nwatching games and having battles!{VAR BE01}",
+        {
+            "text": "It's so frustrating to lose!\nBut it's also important to learn from it.",
+            "flags": 240
+        },
+        "You learn more when you lose\nthan when you win!{VAR BE00}\nI think it's the same for sports, too.",
+        "The Pokémon I raised are\nas good as professionals!{VAR BE01}",
+        {
+            "text": "The Pokémon you raised\nare great, too!",
+            "flags": 240
+        },
+        "There are so many ways\nto raise Pokémon.",
+        "I am not skipping work!{VAR BE01}",
+        {
+            "text": "If I had known this would happen,\nI would have worked diligently.",
+            "flags": 240
+        },
+        "Taking a productive break\nis also part of any job!",
+        "Someone sent me a ticket, so I came.\nBut there's no game going on!{VAR BE01}",
+        {
+            "text": "I have a lot of work to do.\nWhat am I doing here?",
+            "flags": 240
+        },
+        "Athletes on off days are no better\nthan guys on days off.",
+        "I wonder if there are great children\nwho will become stars someday{VAR BE00}\nwho are now just kids at my preschool.{VAR BE01}",
+        {
+            "text": "You are also quite brilliant, but\nreal stars are cool.",
+            "flags": 240
+        },
+        "You seem to have potential as a star.\nSo, will you please be my friend?{VAR BE01}",
+        "Should I get autographs now\nfrom children who are likely to be stars?",
+        "I love sports and Pokémon most of all.{VAR BE01}\nHow about a battle?\nThey used to call me the Cleaner!{VAR BE01}",
+        {
+            "text": "I could not stop all\nof your Pokémon's attacks...",
+            "flags": 240
+        },
+        "I used to be a Striker.\nI was responsible for scoring goals.{VAR BE01}\nNow I am a sweeper.\nI am responsible for sweeping floors.",
+        "The athletes' Pokémon are great!{VAR BE01}\nBut my Pokémon are also great!{VAR BE01}",
+        {
+            "text": "Your Pokémon are also great!",
+            "flags": 240
+        },
+        "I will strive to raise my Pokémon\nto that level!",
+        "Did you see today's game?!{VAR BE01}\nThere was some great ball handling\nby players and Pokémon!{VAR BE01}\nThe excitement is pumping me up\nfor a battle!{VAR BE01}",
+        {
+            "text": "I lost, but I am still excited!",
+            "flags": 240
+        },
+        "The only place you can watch Pokémon\nenjoying sports is Nimbasa City!",
+        "When I come here, I get hyper!\nSo, let's have a battle right away!{VAR BE01}",
+        {
+            "text": "I lost against you too quickly!",
+            "flags": 240
+        },
+        "When I am watching a game, I get hyper!\nI just can't sit still!",
+        "Doctor! Is there a Doctor\nin the audience?{VAR BE01}\nYes, I am a Doctor.\nLet's get into a battle.{VAR BE01}",
+        {
+            "text": "Oh! My Pokémon is all worn out!",
+            "flags": 240
+        },
+        "When Pokémon lose energy, Max Revive!\nYou should also take one with you.{VAR BE01}",
+        "When I am watching a game,\nI just keep worrying about{VAR BE00}\nwhether an athlete will be injured.",
+        "You chose to speak to me from\namong so many people!{VAR BE00}\nYou have a good eye!{VAR BE01}",
+        {
+            "text": "You are a worthy opponent!",
+            "flags": 240
+        },
+        "The way you use moves...\nQuite honestly, I like it!{VAR BE01}\nHere, this is for you!{VAR BE01}",
+        "Heehee.{VAR BE01}\nEven when I am in the crowd,\npeople can tell I am strong.",
+        "I usually act like an Ace Trainer,\nbut I want to be an ordinary girl,{VAR BE00}\nat least when I am here.{VAR BE01}",
+        {
+            "text": "I don't want to think about Pokémon\nvery much right now!",
+            "flags": 240
+        },
+        "If I give you this,\nwill you leave me alone?{VAR BE01}",
+        "Even as an Ace Trainer, sometimes\nI just want to be an ordinary girl!{VAR BE01}\nI want to scream for the cool athletes,\nand enjoy my time.",
+        "Which team will score next?!\nIf you can win, I will tell you!{VAR BE01}",
+        {
+            "text": "Aha!\nThat team will score next!",
+            "flags": 240
+        },
+        "My psychic power only works\nright before a player scores a point.",
+        "Heheh...{VAR BE01}\nThe team I want to win\nalways wins!{VAR BE01}",
+        {
+            "text": "What...? Was everything up till now\njust a coincidence...?",
+            "flags": 240
+        },
+        "Feelings matter when you cheer!\nIf I believe, I feel my team will win!",
+        "Fishing is a perfectly respectable sport!\nWhy isn't there a fishing stadium?!{VAR BE01}",
+        {
+            "text": "...Of course, fishing is fun\nwhen you enjoy it in nature.{VAR BE01}",
+            "flags": 240
+        },
+        "I like quiet nature,\nbut I like lively places like this, too.",
+        "A lot of sports started\nas Gentlemen's games!{VAR BE01}",
+        {
+            "text": "Ladies and Gentlemen!\nThe game is over!",
+            "flags": 240
+        },
+        "Because I am a Gentleman,\nI will present you with this gift.{VAR BE01}",
+        "Pokémon battles were born spontaneously\nwhen people and Pokémon{VAR BE00}\nfirst became friendly.",
+        "Hey, hey, did you see that? Awesome!\nA lot of famous people from TV are here!{VAR BE01}",
+        {
+            "text": "Athletes are all coooool.\nI want to be like them.",
+            "flags": 240
+        },
+        "Aghhhhh. Why didn't I bring a camera,\nor a notebook for an autograph?",
+        "Sports and juggling are the same.\nYou must entertain the audience!{VAR BE00}\nI will show you the fruits of my practice.{VAR BE01}",
+        {
+            "text": "While I am having a Pokémon battle,\nI catch ten balls!",
+            "flags": 240
+        },
+        "I have mastered the technique,\nbut I cannot use it!{VAR BE00}\nI just have to have real battles!",
+        "That incredibly flashy dorm,\nand squealing cheerleaders all around...{VAR BE01}\nGrrr...\nI am envious!{VAR BE01}",
+        {
+            "text": "What is so great about popular athletes?\nWhat is bad about martial artists?",
+            "flags": 240
+        },
+        "A run-down dojo, and a lot of shouts like\nhai-ya and kee-up...{VAR BE01}\nIf I had known this before, I would have\nbeen a different kind of athlete.",
+        "When I grow up,\nI will be a pro athlete!{VAR BE01}",
+        {
+            "text": "Waaaaah!\nI will never give you my autograph!",
+            "flags": 240
+        },
+        "I will practice my autograph\nfor when I go pro!",
+        "My daddy is\nan athlete here!{VAR BE01}",
+        {
+            "text": "Waaaaaah. Dadddddddy.",
+            "flags": 240
+        },
+        "...I won't cry.\n'Cause I promised my daddy.",
+        "Even Socialites enjoy sports,\nin a very elegant way!{VAR BE01}\nA Pokémon battle is\na sport in a way!{VAR BE00}\nLet's fight elegantly!{VAR BE01}",
+        {
+            "text": "O-ho-ho!\nI lost so elegantly.",
+            "flags": 240
+        },
+        "Oh dear, I mistook this for a ball\nand ordered it. Now it's yours.{VAR BE01}",
+        "First of all, we should enjoy\nsports and Pokémon battles!{VAR BE01}\nIf you get hung up on winning and losing,\nyou lose sight of what is most valuable.",
+        "I will be strong in Pokémon battles,\nand I will marry a professional athlete!{VAR BE01}",
+        {
+            "text": "Ah.\nI still have a long way to go!",
+            "flags": 240
+        },
+        "Your Pokémon are strong. I will give\nsomething good to a strong person!{VAR BE01}",
+        "Strong people are always totally\nattractive. Don't you think?",
+        "A Hiker, an athlete,\nand a Pokémon Trainer.{VAR BE00}\nDo you know what is important?{VAR BE01}",
+        {
+            "text": "Grrrrrrr!\nClearly you know it!",
+            "flags": 240
+        },
+        "Prepare thoroughly. \nIf you don't, you can't do anything!",
+        "I can't believe nobody has noticed me...\nI am a star!{VAR BE01}",
+        {
+            "text": "Don't look at me. I lost!",
+            "flags": 240
+        },
+        "Whose autograph do you want?\nDon't you want one of mine?",
+        "You are energetic!\nI will punish lazy children!{VAR BE01}",
+        {
+            "text": "You just don't quit!\nYou are so energetic!",
+            "flags": 240
+        },
+        "OK! An energetic Trainer!\nTake this!{VAR BE01}",
+        "Nurses need plenty of stamina,\nboth day and night!",
+        "My darling is working here.\nHow about that? Are you envious?{VAR BE01}",
+        {
+            "text": "My darling is seriously the best.\nHe puts athletes to shame.",
+            "flags": 240
+        },
+        "My darling is a Janitor!\nHe cleans this entire big place{VAR BE00}\nby himself every day. Cool, huh?{VAR BE00}\nNobody else can do what he does.",
+        "Games in the rain look extra tough,\ndon't they?{VAR BE01}\nI wonder what Pokémon battles\nin rain are like.{VAR BE01}",
+        {
+            "text": "Well, this place is indoors,\nso they don't get rained out.",
+            "flags": 240
+        },
+        "If a stadium has a roof, \nthey can play a game anytime!",
+        "Hey! It's me! It's me!\nI am the best Pilot in Unova!{VAR BE01}",
+        {
+            "text": "You! You are daring!\nBe my apprentice!",
+            "flags": 240
+        },
+        "A once-in-a-lifetime flight!\nFly, fly, and fly away!",
+        "Do you want to know\nhow the VIP seats are?{VAR BE01}\nI will tell you\nif you win against me!{VAR BE01}",
+        {
+            "text": "VIP seats are very far away\nfrom the athletes!",
+            "flags": 240
+        },
+        "I could see the game fine, but\nthe athletes looked like grains of rice.",
+        "You!\nYou are a fan of that person.{VAR BE01}\nI can tell!\nBut that person is mine!{VAR BE01}",
+        {
+            "text": "Oh no, oh why?\nI am sorry...",
+            "flags": 240
+        },
+        "Come to think of it,\nthe more supporters there are,{VAR BE00}\nthe better.{VAR BE01}\nYou! Cheer until you lose your voice,\nand clap until your hands fall off!",
+        "When I am watching a game,\nI feel like I should be moving, too!{VAR BE01}",
+        {
+            "text": "That was a good workout!",
+            "flags": 240
+        },
+        "The dorm is fine, but I want to play\nsports outdoors.",
+        "I want to drag people here\nand have them enlist as Pokémon Rangers.{VAR BE01}",
+        {
+            "text": "Wow! Electrifying!\nYou are so goooood!",
+            "flags": 240
+        },
+        "You! Be a Pokémon Ranger!\nI will give you a good workout!",
+        "Watch a game during a study break!\nHave a battle during a game break!{VAR BE01}",
+        {
+            "text": "Gah!\nThis is so not relaxing!",
+            "flags": 240
+        },
+        "When I come here for fun,\nI can study more efficiently!",
+        "OK, I decided!\nIf I win against you,{VAR BE00}\nI will be a Gym Leader!{VAR BE01}",
+        {
+            "text": "Ummmm...\nMaybe I'm not ready to be a Gym Leader?",
+            "flags": 240
+        },
+        "I have to consider what I will be\nby trying a lot of things!",
+        "I wonder if being good at sports\nand being good at battles are related?{VAR BE01}",
+        {
+            "text": "It was very helpful...",
+            "flags": 240
+        },
+        "Ummmm. You are\nquite interesting.{VAR BE01}\nPlease have this!{VAR BE01}",
+        "Both sports and Pokémon are\nlike a science for me!",
+        "I am stuck inside the lab,\nwith a medicinal smell every day,{VAR BE00}\nand then I get stressed out.{VAR BE01}",
+        {
+            "text": "Waaaaaahhh! Frustrating!",
+            "flags": 240
+        },
+        "Breaking out made me feel better!\nHere's a token of my appreciation.{VAR BE01}",
+        "Let's have another Pokémon battle\nsometime, so we won't be stressed out!",
+        "These are not shorts!\nThese are half pants!{VAR BE01}",
+        {
+            "text": "You were so strong that\nmy half pants almost fell down!",
+            "flags": 240
+        },
+        "You are awesome!\nHere's an awesome gift for you!{VAR BE01}",
+        "I envy basketball players.\n'Cause they wear shorts, not half pants.{VAR BE01}\nBut baseball and football\nuniforms are also cool!",
+        "Mmm!\nYou smell like an athlete!{VAR BE01}",
+        {
+            "text": "I see. That is the smell\nthat strong people give off...",
+            "flags": 240
+        },
+        "You seem to be getting even stronger...\nOK. Please take this.{VAR BE01}",
+        "I hope you will get even stronger\nby using it.",
+        "Wow, you have a lot of Badges.\nLet me see your skills!{VAR BE01}",
+        {
+            "text": "That fighting style reminds me\nof the old days!",
+            "flags": 240
+        },
+        "A person like you should use\ntop-shelf items--like this!{VAR BE01}",
+        "No matter how old we get,\nlet's stay Trainers!",
+        "Cheering makes us\nthirsty. Right?{VAR BE01}\nIf you can win against me,\nI'll give you a drink!{VAR BE01}",
+        {
+            "text": "The battle made me\neven thirstier!",
+            "flags": 240
+        },
+        "Here you are.\nI will give you something good!{VAR BE01}",
+        "At a place like this,\nit's good to drink a lot of water!",
+        "Cheering makes us\nthirsty. Right?{VAR BE01}\nIf you can win against me,\nI'll give you a drink!{VAR BE01}",
+        {
+            "text": "The battle made me\neven thirstier!",
+            "flags": 240
+        },
+        "Here you are.\nI will give you something good!{VAR BE01}",
+        "At a place like this,\nit's good to drink a lot of water!",
+        "Let's have a battle on these grounds,\nwhich I keep looking sharp!{VAR BE01}",
+        {
+            "text": "The best battle\non the best ground!",
+            "flags": 240
+        },
+        "OK! I will keep the grounds\nlooking perfect!",
+        "This air of excitement brings back\nmemories. In those days, I was also...{VAR BE01}",
+        {
+            "text": "It makes my old wound ache...",
+            "flags": 240
+        },
+        "I may not look like it,\nbut I used to be quite an athlete.",
+        "Are you a criminal?!{VAR BE01}",
+        {
+            "text": "Oh, you are not a criminal...\nSorry! Lo siento!",
+            "flags": 240
+        },
+        "I'm here because I heard someone\naround here was faking points.",
+        "What? A battle at a place like this?\nWait! Everybody is watching us!{VAR BE01}",
+        {
+            "text": "Well, thanks to you, \nI overcame my stage fright.",
+            "flags": 240
+        },
+        "What? Nobody is watching me?\nNooooo. Look at me, please!",
+        "I want you to tell me something!{VAR BE01}",
+        {
+            "text": "You showed me your full strength!",
+            "flags": 240
+        },
+        "I will work at the Battle Subway\nfrom now on, but...{VAR BE00}\nwhere is it?",
+        "I want to play tennis\nlike a strong athlete!{VAR BE01}",
+        {
+            "text": "Joe: A no-point game\nagainst you 'cause you're strong...{VAR BE01}\nRoss: A no-point game\n'cause we could not win at all!",
+            "flags": 240
+        },
+        "I want to be as good a Cyclist\nas a strong person like you...",
+        "Only one Pokémon?\nThen, we cannot have a battle.",
+        "I want to play ball\nlike a strong athlete!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I want to learn more from\na strong person like you...",
+        "Only one Pokémon?\nI prefer a doubles match.",
+        "Whoosh! Whoosh!\nI can fight like that!{VAR BE01}",
+        {
+            "text": "Joe: Fffffft...\nFffffft, fffffft... The ball needs air.{VAR BE01}\nRoss: Faaaault!\nI missed a serve!",
+            "flags": 240
+        },
+        "They can keep moving\nfor such a long time.{VAR BE01}\nSmashers are really great!",
+        "Whoosh! Whoosh!",
+        "Hah!{VAR BE01}\nDid you see my power serve?{VAR BE01}\nAnd my Pokémon is\neven stronger!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "The person who controls his serves\ncontrols the game.{VAR BE00}\nI will practice my serves a bit more.",
+        "Hah!",
+        "I love to watch professionals play!\nYaaaay! I won't lose, either!{VAR BE01}",
+        {
+            "text": "Ai: What?\nDid we lose...?{VAR BE01}\nCiel: Ouch... I knew watching a game and\nplaying it are different!",
+            "flags": 240
+        },
+        "Watching a professional game\nmakes me strangely confident!",
+        "Exciting!",
+        "I want to move elegantly, too!\nHey! Have a battle with me!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "When professionals are playing,\nit looks so easy...",
+        "Thrilling!",
+        "Oh!{VAR BE01}\nAthletes are looking over this way!\nLet's have a battle to impress them.{VAR BE01}",
+        {
+            "text": "Masa: Agghhh!\nWe showed them an embarrassing scene.{VAR BE01}\nYas: Hurrah! Hurrah!\nMy Pokémon! What...?",
+            "flags": 240
+        },
+        "I thought they were looking at us, but\nthey were looking at their opponents...",
+        "Is that athlete looking at me?\nNo, he's not.",
+        "If I win in a Pokémon battle,\ncheer for this team.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I lost, so I will cheer for you!{VAR BE01}\nHurray! Hurray! Go you go!\nHustle! Hustle! Go you go!",
+        "Ummmm. The cheering for this team\nis not nearly loud enough...",
+        "Look at this buff body!\nAnd the Pokémon that support it!{VAR BE01}\nLet's have a Pokémon battle\nto show off my greatness!{VAR BE01}",
+        {
+            "text": "Masa: The greatness of basketball...\nI think you got it.{VAR BE01}\nYas: Shall we curl up \nlike balls?",
+            "flags": 240
+        },
+        "The important thing in basketball\nis outstanding teamwork!",
+        "Hmph! Hmph!{VAR BE01}\nFirst-class athletes \nspeak with their backs.",
+        "The way the athletes scramble\nfor that ball...{VAR BE01}\nI wish they'd fight over me that way!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "From the ball's point of view,\nit's like, please don't fight over me!",
+        "The way the athletes scramble\nfor that ball...{VAR BE01}\nI wish they'd fight over me that way!",
+        "If you win, I will tell you\nwhy I like basketball!{VAR BE01}",
+        {
+            "text": "Kat: Come on!{VAR BE01}\nPhae: Look! Even though we lost, \nthe ball is still spinning!",
+            "flags": 240
+        },
+        "When you are watching basketball,\nit reminds you of fruit in a basket,{VAR BE00}\nand it looks delicious. Right?",
+        "Basketball... No, no. For a battle, \nyou need to have two Pokémon.",
+        "My special skill is that I can\nspin a ball on my finger.{VAR BE00}\nI can spin it forever!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I want to have Poké Balls\nwith the same designs as{VAR BE00}\nthe balls used in sports!",
+        "Basketball... No, no. For a battle,\nyou need to have two Pokémon.",
+        "Look!\nMy defense is magnificent!{VAR BE01}",
+        {
+            "text": "Hawk: It's strange. When professionals\nare playing, it looks so easy...{VAR BE01}\nDar: I guess we cannot play\nquite as well as the professionals...",
+            "flags": 240
+        },
+        "Rock-solid defense!\nThat's a real thrill in football!",
+        "DE-fense! DE-fense!",
+        "Look!\nMy magnificent offense!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Offense that smashes in every direction!\nThat's a real thrill in football!",
+        "Offffffense!",
+        "The bond of football fans\nis stronger than any tackle!{VAR BE01}",
+        {
+            "text": "Hawk: The bond between you and\nyour Pokémon is strong, too!{VAR BE01}\nDar: This feeling will go well past\nthe goal line...",
+            "flags": 240
+        },
+        "Football is knockdown amazing,\nbecause you can feel the excitement,{VAR BE00}\nthe bond between players and the crowd!",
+        "Our bond as fans\nis way stronger than this!",
+        "My cheer will go over the goal line\nand will be heard for a million miles!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "When I cheer for my team\nuntil I get thirsty,{VAR BE00}\nFresh Water tastes even better!",
+        "Come on! Cheer louder!\nYell! Yell!",
+        "I mainly play on offense.\nMy friend is mainly defense.{VAR BE01}\nI will show you the teamwork\nof football fans!{VAR BE01}",
+        {
+            "text": "Cam: The teamwork of your Pokémon\nis outstanding!{VAR BE01}\nAbby: I'm super impressed!",
+            "flags": 240
+        },
+        "If what you want to do is different\nfrom what your partner wants to do,{VAR BE00}\nit's hard to win a Double Battle!",
+        "You know, football is a team sport!\nPlease prepare at least two Pokémon!",
+        "Double Battles!{VAR BE01}\nThis is the best way to feel\nthe heat of the game of football!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "The right play can turn a game around...\nPokémon battles are the same, too!",
+        "Double Battles!{VAR BE01}\nYou need at least two Pokémon\nto feel the heat of the game of football!",
+        "Boom-boom-badum! Ha! Boom-boom-badum!\nListen to the fans' drumbeat!{VAR BE01}",
+        {
+            "text": "Les: Thank you for listening to the beat\nof our spirit!{VAR BE01}\nWeb: Thank you for listening to the yell\nof our spirit!",
+            "flags": 240
+        },
+        "Ha, pan-pan-papan, hey-hoo!!\nNext, we will use this rhythm!",
+        "Bam-bam-bam! Ha! Bam-bam-bam!\nI see the end coming?",
+        "Beep-beep-beep! Ha! Ta-roo Ta-raaa!\nListen to the fans shout!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Pan, pan-papan, hey-oo!! Right?\nOh, the rhythm is wonderful!",
+        "Beep-beep-beep! Ha! Ta-roo ta-raaa!\nListen to the fans shout!",
+        "Olé, olé, oléeee!\nThis is the fan song I wrote!{VAR BE01}\nThe Pokémon listening to this song\ntry harder than usual!{VAR BE01}",
+        {
+            "text": "Kay: Olé, olé...\nHuh? It's over.{VAR BE01}\nAli: You are very strong!",
+            "flags": 240
+        },
+        "“Olé!\" means\n“Go!\" or “Move forward!\"",
+        "Olé, olé, oléeee!\nI am cheering now!{VAR BE01}\nIf you have two Pokémon,\nI don't mind battling with you!",
+        "My friend came here with me...\nShe comes 'cause she wants to sing{VAR BE00}\nmore than cheering for the team.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I am a fan of all the players\nwho are doing their best!{VAR BE00}\nSo, I want both teams to win!",
+        "With only one Pokémon,\nit's a bit hard to battle.",
+        "Hey, you!\nDo you know what offside means?{VAR BE01}",
+        {
+            "text": "Kay: What we just saw is offside!\nI bet it's offside!{VAR BE01}\nAli: B... Baaaaah!\nI won't tell you anymore!",
+            "flags": 240
+        },
+        "What? What is offside?\nEr... The girl next to me knows!",
+        "Off!",
+        "Hey, shall I tell you\nabout the offside penalty?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Offside is when...\nEr... The girl next to me will explain!",
+        "Side!",
+        "The bases loaded with two outs\nin the bottom of the ninth inning...{VAR BE00}\nAfter that... Isn't that obvious?{VAR BE01}",
+        {
+            "text": "Alf: Strike!\nGame over! Yes, the end!{VAR BE01}\nFred: Ah, my Poké Ball!",
+            "flags": 240
+        },
+        "A game-winning homer...\nWe always hope for that clutch play!",
+        "Striiiiike!!",
+        "I don't have a home-run ball,\nbut I do have a Poké Ball!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "I wish I could catch a home-run ball\njust once!",
+        "Ball!",
+        "Hit a home run!{VAR BE01}",
+        {
+            "text": "Ami: We're slammed.{VAR BE01}\nEira: I'm going home.",
+            "flags": 240
+        },
+        "Elesa's fashion sense\nis funky, too.",
+        "A one-on-two battle is\ntoo funky!",
+        "Hey, what does “long ball\" mean?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "What I heard is\nit means a home run.{VAR BE01}\n“Homer\" also\nmeans a home run!",
+        "We two battle together, so\nyou need two Pokémon!",
+        "Hey, you!{VAR BE01}\nDon't smile at my favorite player.{VAR BE01}",
+        {
+            "text": "Ami: Argh! We lost,\nand it's your fault.{VAR BE01}\nEira: You should try harder.\nDon't drag me down.",
+            "flags": 240
+        },
+        "The only thing we have in common\nis that we like the same team.{VAR BE01}\nBut really, isn't that the most\nimportant thing for a fan?",
+        "Argh, because of you, \nwe're in a big pinch.",
+        "Argh, annoying!{VAR BE01}\nIt's none of your business\nwho I cheer for.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "Our teamwork is sooooo bad,\nexcept when we cheer during games.{VAR BE01}\nBut we really don't care\nabout any time but game time.",
+        "No way! Argh, we are losing\nbecause you are not really trying!",
+        "I am quite strong.\nI will work out today, too!{VAR BE01}",
+        {
+            "text": "I... I got worked over.",
+            "flags": 240
+        },
+        "Your strength!\nYou pack quite a punch!",
+        "POWER!!{VAR BE01}\nIf you have power that nobody can beat,\nyou can win both Pokémon battles{VAR BE00}\nand football games!{VAR BE01}",
+        {
+            "text": "I...still don't have enough power?",
+            "flags": 240
+        },
+        "Mmmm... Maybe I should\ntrain more...",
+        "Pokémon and Poké Balls\nare my real friends!{VAR BE01}\nJoin the training of\nour Pokémon Eleven!{VAR BE01}",
+        {
+            "text": "Aghhhhh! I am still such a rookie!\nBut I have more guts than anybody else!",
+            "flags": 240
+        },
+        "My Pokémon and I still haven't\npracticed enough...{VAR BE01}\nTo put it in levels, we're maybe a ten...",
+        "I am stronger than ever.\nI will work out today, too!!{VAR BE01}",
+        {
+            "text": "I got worked over.",
+            "flags": 240
+        },
+        "A swing and a miss...\nI can't keep up with your strength!",
+        "POWER!!!{VAR BE01}\nWith my ripped muscles,\nI will overcome everything!{VAR BE01}",
+        {
+            "text": "I still don't have\nenough muscles...?!",
+            "flags": 240
+        },
+        "Maybe I should change\nmy training regimen...",
+        "Pokémon and Poké Balls\nare my real friends!{VAR BE01}\nPlease join the training of\nour Pokémon Eleven!{VAR BE01}",
+        {
+            "text": "Aghhhhh! I'm still such a rookie!\nI have more than enough guts, though!",
+            "flags": 240
+        },
+        "My Pokémon and I\nstill haven't practiced enough...{VAR BE00}\nTo put it in levels, we're about a 20...",
+        "I am the strongest.\nI will work out today, too!!{VAR BE01}",
+        {
+            "text": "I...got worked over!",
+            "flags": 240
+        },
+        "Your strength is\nhome-run class!",
+        "POWER!!!!{VAR BE01}\nI will win! My superior power\ncan blaze any trail!{VAR BE01}",
+        {
+            "text": "Is it possible that just having power\nis not enough...?",
+            "flags": 240
+        },
+        "Football games and Pokémon battles\nboth require power and technique.",
+        "Pokémon and Poké Balls\nare my real friends!{VAR BE01}\nPlease join the training of\nour Pokémon Eleven!{VAR BE01}",
+        {
+            "text": "Aghhhhh! I am such a rookie!\nI've got more guts, though!",
+            "flags": 240
+        },
+        "My Pokémon and I still\nhaven't practiced enough...{VAR BE00}\nTo put it in levels, we're maybe a 50...",
+        "I've practiced and practiced\nand become a great player!{VAR BE00}\nNow, let's play ball!{VAR BE01}",
+        {
+            "text": "Game over!",
+            "flags": 240
+        },
+        "Now, practice, practice, practice!{VAR BE01}\nPracticing over and over is the best way\nto be good at anything!{VAR BE01}\nMy hard work will make me a great player!",
+        "Kids! Please cooperate with the\nspecial training for my Pokémon!{VAR BE01}",
+        {
+            "text": "My block was supposed to guard\nagainst even Steel-type Pokémon...",
+            "flags": 240
+        },
+        "Physical therapy is over,\nso we're doing some special training.",
+        "Let me tell you about the strength\nof the team you create when{VAR BE00}\nyou put a strong Pokémon at the core.{VAR BE01}",
+        {
+            "text": "...You taught me!\nYou are great!",
+            "flags": 240
+        },
+        "It looks like a team built around\na strong Pokémon. That is, an ace{VAR BE00}\nhas advantages and disadvantages.",
+        "Together, my Pokémon and I\nare the world's strongest!!{VAR BE01}",
+        {
+            "text": "Wow! I didn't think anyone could\ncatch my blazing fastball!",
+            "flags": 240
+        },
+        "My fastballs are so fast,\nnobody can hit them.{VAR BE01}\nVery few can catch my fastballs\nexcept Pokémon.",
+        "I, I...\nI'm not fat, am I?{VAR BE01}",
+        {
+            "text": "Ripped!",
+            "flags": 240
+        },
+        "I am ripped!\nI am not fat.",
+        "I have great footwork with the ball.\nPoké Balls, too. See?{VAR BE01}",
+        {
+            "text": "After I let Pokémon out of\nPoké Balls... Well, I am still practicing...",
+            "flags": 240
+        },
+        "I should practice more\non Pokémon handling, too.",
+        "I play occasionally,\nbut I want to become a better player!{VAR BE01}\nSo I will fight\na lot of Pokémon battles, too!{VAR BE01}",
+        {
+            "text": "UGHH!\nI couldn't even pass the ball!",
+            "flags": 240
+        },
+        "I will do anything to play better!\nIt's over if you get complacent!",
+        "An elegant Smasher\nhas an elegant battle!{VAR BE01}",
+        {
+            "text": "E-e-e-even though I lost,\nI will not panic.",
+            "flags": 240
+        },
+        "Because I am a lady, I won't be,\nwell, you know,{VAR BE00}\nch-ch-chagrined at losing.{VAR BE00}\nWell, maybe a teensy little bit.",
+        "I am in the starting lineup now,\nbut I will be even better soon!{VAR BE01}\nI will practice with a lot\nof Pokémon battles!{VAR BE01}",
+        {
+            "text": "UGHH!\nMy field positioning was terrible!",
+            "flags": 240
+        },
+        "If I think about why I made a mistake\nand correct it, I'll make fewer mistakes.{VAR BE01}\nAnd if I work to improve my strength,\nI'll get even stronger!",
+        "As a proper lady, I am elegant\nall the way down to my toes!{VAR BE01}",
+        {
+            "text": "Wahhhhh! What is this??",
+            "flags": 240
+        },
+        "Oh! I am a lady,\nyet I have lost my nerve...",
+        "I've always played games,\nbut now I want to be the best player!{VAR BE01}\nI will practice with a lot of\nPokémon battles!{VAR BE01}",
+        {
+            "text": "UGHH! I missed the goal!\nI was blocked!!",
+            "flags": 240
+        },
+        "I won't give up games!\nI won't accept limits!{VAR BE01}\nNobody can stop me\nas long as I want to improve!",
+        "I am a lady. I will challenge others\nto battle elegantly!{VAR BE01}",
+        {
+            "text": "You should...\nGo easy on me!",
+            "flags": 240
+        },
+        "B-b-b-because I am a lady...\nwaaaah...{VAR BE00}\nI will admit my defeat gracefully...",
+        "No matter how much I sweat,\nI won't smell sweaty!{VAR BE01}",
+        {
+            "text": "A healthy sweat...\nBoy, I am glad that I am an athlete!",
+            "flags": 240
+        },
+        "After a battle, take a bath!\nAfter eating, brush your teeth!",
+        "The world championships are coming soon!\nI will practice volleys{VAR BE00}\nby using you as a wall!{VAR BE01}",
+        {
+            "text": "Whoa! Lemme...catch...my breath...\nThat was some good training...",
+            "flags": 240
+        },
+        "You and I have just met.\nLet's start the game from the beginning!",
+        "Hey! Trainer!{VAR BE01}\nI will strike you from above.\nMy attack has a height!{VAR BE01}",
+        {
+            "text": "That's right.\nThe Pokémon do the fighting, not me...",
+            "flags": 240
+        },
+        "We always play basketball\nwith Pokémon here!",
+        "I will show you a powerful serve!\nWatch this burn in at 120 miles per hour!{VAR BE01}",
+        {
+            "text": "Your attack just now...\nMore powerful!",
+            "flags": 240
+        },
+        "Pokémon are sending over\nsome powerful serves so I can practice.",
+        {
+            "text": "My Pokémon was so cute!",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon listened to what I said\nand fought for me!",
+            "flags": 240
+        },
+        "You... You came here because\nsomebody manipulated you.{VAR BE01}\nIf you can win against me,\nI will tell you the secret!{VAR BE01}",
+        {
+            "text": "Argh! I can't believe\nI lost...",
+            "flags": 240
+        },
+        "Ghetsis of the Seven Sages supports\nour king, and Ghetsis has{VAR BE00}\nthree subordinates...{VAR BE00}\nThey are the Shadow Triad!",
+        "If I win against you,\nrelease your Pokémon!{VAR BE01}",
+        {
+            "text": "Plasmaaaa!\nI'm mortified.",
+            "flags": 240
+        },
+        "I don't understand... Your Pokémon seem\nto be happy next to you.",
+        "Pokémon living in this Chargestone Cave\nare so beautiful.{VAR BE00}\nBecause they are free from people.{VAR BE01}",
+        {
+            "text": "Oh, my! No, no.\nPlasmaaaa!",
+            "flags": 240
+        },
+        "It's bad for ordinary Trainers like you\nto use Pokémon.{VAR BE01}\nIt's good for us members of Team Plasma\nto use Pokémon!",
+        "As a proud member of Team Plasma,\nI will gladly battle with you.{VAR BE01}",
+        {
+            "text": "As a proud member of...\nTeam Plasma...",
+            "flags": 240
+        },
+        "What do you fight for?\nNo, what do you live for?",
+        "OK, Trainer, you use Pokémon!\nShow me your strength!{VAR BE01}",
+        {
+            "text": "...I see.\nYou're very good at using Pokémon.",
+            "flags": 240
+        },
+        "Because they use Pokémon, people hold\ncompetitions to sort out the strong from{VAR BE00}\nthe weak...{VAR BE01}\nIs this fair? Is this right?\nAre Pokémon just the Trainers' tools?",
+        "The hope of Team Plasma!\nWell, it has nothing to do with you.{VAR BE01}",
+        {
+            "text": "Hey! What was that?\nYou're too strong! Ugh!",
+            "flags": 240
+        },
+        "The hope of Team Plasma!{VAR BE01}\nWe know our king will lead us.\nHe will free the Pokémon!{VAR BE01}\nYou! Release your Pokémon\nand stop being a Trainer!",
+        "Since coming to Dragonspiral Tower,\nmy stress level has maxed out! The more{VAR BE00}\nhyper I am, the faster you'll go down!{VAR BE01}",
+        {
+            "text": "Bahhh.\nI have lost my motivation.",
+            "flags": 240
+        },
+        "Still, this is a great tower.{VAR BE01}\nI feel not only its history\nbut also its awe-inspiring power.",
+        "Brycen, Cheren...\nThey are moving around being annoying.{VAR BE01}",
+        {
+            "text": "I don't understand...\nI don't understand you guys...",
+            "flags": 240
+        },
+        "Why are you and the Gym Leaders\nagainst us?{VAR BE00}\nI just can't understand it at all.",
+        "I'm sure you also thought\n“I am strong\" and “I can win\"{VAR BE00}\nand came here.{VAR BE01}",
+        {
+            "text": "Huh...\nYou thought right!",
+            "flags": 240
+        },
+        "If the king of Team Plasma rules the\nworld, Trainers will disappear, and{VAR BE00}\ndisputes will end!",
+        "We exist to serve our lord N!{VAR BE01}",
+        {
+            "text": "Ah!\nOur lord N!",
+            "flags": 240
+        },
+        "Because there are nights,\nthe sun is beautiful.{VAR BE01}\nBecause we exist,\nour king shines...",
+        {
+            "text": "The dawn of Unova\nhas faded in the distance...",
+            "flags": 240
+        },
+        {
+            "text": "Don't stop us!\nI told you that we wouldn't stop.",
+            "flags": 240
+        },
+        {
+            "text": "What? It looks like you can still fight!",
+            "flags": 240
+        },
+        {
+            "text": "Even though I lost, I will still say:\nPlasmaaaa, go Plasmaaaa!",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon can take that!\nI'm sure! Well, probably...",
+            "flags": 240
+        },
+        {
+            "text": "Ummm...\nThis is kinda bad, right?",
+            "flags": 240
+        },
+        {
+            "text": "Aww. I lost.",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon can take that!\nI'm sure! Well, probably...",
+            "flags": 240
+        },
+        {
+            "text": "Ummm...\nThis is kinda bad, right?",
+            "flags": 240
+        },
+        {
+            "text": "Aww. I lost.",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon can take that!\nI'm sure! Well, probably...",
+            "flags": 240
+        },
+        {
+            "text": "Ummm...\nThis is kinda bad, right?",
+            "flags": 240
+        },
+        {
+            "text": "Aww. I lost.",
+            "flags": 240
+        },
+        {
+            "text": "Oh!\nSo, you chose that move!",
+            "flags": 240
+        },
+        {
+            "text": "Every time I watch my Pokémon battle,\nit ends like this...",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides\ntried sooo hard, didn't they?",
+            "flags": 240
+        },
+        {
+            "text": "Oh!\nSo, you chose that move!",
+            "flags": 240
+        },
+        {
+            "text": "Every time I watch my Pokémon battle,\nit ends like this...",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides\ntried sooo hard, didn't they?",
+            "flags": 240
+        },
+        {
+            "text": "Oh!\nSo, you chose that move!",
+            "flags": 240
+        },
+        {
+            "text": "Every time I watch my Pokémon battle,\nit ends like this...",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon on both sides\ntried sooo hard, didn't they?",
+            "flags": 240
+        },
+        {
+            "text": "Moves that never miss\nand moves that can attack first...{VAR BE00}\nThere sure are a lot of different moves.{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "It's important to choose\nwhich item your Pokémon holds...",
+            "flags": 240
+        },
+        {
+            "text": "I see!{VAR BE01}\nLosing to you means\nthat I still have a lot to learn.",
+            "flags": 240
+        },
+        {
+            "text": "Moves that never miss\nand moves that can attack first...{VAR BE00}\nThere sure are a lot of different moves.{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "It's important to choose\nwhich item your Pokémon holds...",
+            "flags": 240
+        },
+        {
+            "text": "I see!{VAR BE01}\nLosing to you means\nthat I still have a lot to learn.",
+            "flags": 240
+        },
+        {
+            "text": "Moves that never miss\nand moves that can attack first...{VAR BE00}\nThere sure are a lot of different moves.{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "It's important to choose\nwhich item your Pokémon holds...",
+            "flags": 240
+        },
+        {
+            "text": "I see!{VAR BE01}\nLosing to you means\nthat I still have a lot to learn.",
+            "flags": 240
+        },
+        {
+            "text": "B-both my Pokémon and I are\ngoing to give it our all!",
+            "flags": 240
+        },
+        {
+            "text": "OK!\nThis little one is up next!",
+            "flags": 240
+        },
+        {
+            "text": "Uh-oh...\nAm I in trouble?!",
+            "flags": 240
+        },
+        {
+            "text": "Aww...\nI couldn't win...",
+            "flags": 240
+        },
+        {
+            "text": "B-both my Pokémon and I are\ngoing to give it our all!",
+            "flags": 240
+        },
+        {
+            "text": "OK!\nThis little one is up next!",
+            "flags": 240
+        },
+        {
+            "text": "Uh-oh...\nAm I in trouble?!",
+            "flags": 240
+        },
+        {
+            "text": "Aww...\nI couldn't win...",
+            "flags": 240
+        },
+        {
+            "text": "B-both my Pokémon and I are\ngoing to give it our all!",
+            "flags": 240
+        },
+        {
+            "text": "OK!\nThis little one is up next!",
+            "flags": 240
+        },
+        {
+            "text": "Uh-oh...\nAm I in trouble?!",
+            "flags": 240
+        },
+        {
+            "text": "Aww...\nI couldn't win...",
+            "flags": 240
+        },
+        "Hi, hi! Trainer!{VAR BE01}\nI will let you see\nwhat kind of Pokémon I have!{VAR BE01}",
+        {
+            "text": "Did you see my Pokémon?\nIt's sturdy and great, isn't it?",
+            "flags": 240
+        },
+        "Pokémon with the Sturdy Ability\ncannot be knocked out with one hit!",
+        "Hi, hi! Trainer!{VAR BE01}\nPlease show me what kinds of Pokémon\nyou are training!{VAR BE01}",
+        {
+            "text": "Great, great! I didn't know\nthat way to raise Pokémon!",
+            "flags": 240
+        },
+        "When you let a Pokémon evolve, it will be\nstronger, but if you don't let it evolve,{VAR BE00}\nit will learn moves quicker.",
+        "I can't see up ahead\nbecause of the sandstorm!{VAR BE01}\nBecause I can't see,\nI'll have a battle with you!{VAR BE01}",
+        {
+            "text": "S-a-n-d-s-t-o-r-m.",
+            "flags": 240
+        },
+        "This parasol keeps off the sun and rain,\nbut it can't stand up to sandstorms...{VAR BE01}\nAh! My tears are falling on Route 4...",
+        "A battle on a raised walkway!\nThat's kind of cool.{VAR BE01}",
+        {
+            "text": "Losing is uncool.\nNo, no, you are cool.",
+            "flags": 240
+        },
+        "It's good to sway wildly\non a raised walkway!",
+        "I love raised walkways!{VAR BE01}\nBalancing is fun,\nso I often come here to play.{VAR BE01}",
+        {
+            "text": "I lost, \nbut I won't stop!",
+            "flags": 240
+        },
+        "If you walk on a raised walkway, you can\nmove without encountering wild Pokémon.{VAR BE01}\nBut if you stop to rest for a while,\nyou'll fall!",
+        "Originally, Pokémon lived\nin the natural world!{VAR BE01}\nSo, it's good to train Pokémon\nin nature like this!{VAR BE01}",
+        {
+            "text": "I will start all over again.\nWe still have time.",
+            "flags": 240
+        },
+        "Twist Mountain looks complicated, but\nbasically, it's a single road.{VAR BE01}\nKeep cool and move forward!\nThat is the trick to reach the goal.",
+        "Being with Pokémon is natural.\nHaving a Pokémon battle is natural.{VAR BE00}\nWhy don't we test whether that is true?{VAR BE01}",
+        {
+            "text": "We are happy to be with our Pokémon.\nThat's why we have battles!",
+            "flags": 240
+        },
+        "If my Pokémon don't want to fight,\nI will quit being a Trainer.{VAR BE01}\nBecause there are a lot of other things\nI can do with my Pokémon.",
+        {
+            "text": "Oh! \nMy groundbreaking research...",
+            "flags": 240
+        },
+        "Prepare at least three Pokémon\nthat can fight!{VAR BE01}\nRotation Battles are new battles\nwith three Pokémon!",
+        "Way to go!",
+        {
+            "text": "They were rotating too much!",
+            "flags": 240
+        },
+        "Rotation Battles are shocking!!",
+        "Rotation Battles are Pokémon battles\nwith three Pokémon!{VAR BE00}\nSo prepare at least three Pokémon!",
+        "Today I am extremely lucky!",
+        {
+            "text": "I didn't expect them to turn that way.\nI am so unlucky!",
+            "flags": 240
+        },
+        "Huh! \nI was just unlucky today.",
+        "A Triple Battle is a new style of battle\nin which you use three Pokémon!{VAR BE01}\nPlease get three Pokémon together\nto use in battle!",
+        "OK! I will show you the results\nof my daily workouts!",
+        {
+            "text": "The result of my daily workout...\ndidn't really show up.",
+            "flags": 240
+        },
+        "I'll work even harder raising my Pokémon!",
+        "In order to have a Triple Battle,\nyou need to have at least three{VAR BE00}\nPokémon able to battle.",
+        "OK, everyone!\nLet's fight together!",
+        {
+            "text": "Your Pokémon fought\nharder than mine!",
+            "flags": 240
+        },
+        "There are so many things to consider,\nbut that is part of the fun of{VAR BE00}\nTriple Battles!",
+        "I choose a move, and\nmy Pokémon will do the move.{VAR BE01}\nIn a moment, that move will\nreach your Pokémon!{VAR BE01}",
+        {
+            "text": "I lost, but during the battle,\nwe were connected. Right?",
+            "flags": 240
+        },
+        "This Berry may connect\nyou and your Pokémon.{VAR BE01}",
+        "From today to tomorrow...\npeople, Pokémon, and the world...{VAR BE01}\nI love this connected feeling...",
+        "I am not running now,\nbut I usually barrel through{VAR BE00}\nas quickly as I can!{VAR BE01}",
+        {
+            "text": "I have not crossed\nthe finish line of victory!",
+            "flags": 240
+        },
+        "I'm going to use this little rest\nto give you this present!{VAR BE01}",
+        "Run and run in cities\nand on mountain paths!{VAR BE01}\nRun and feel the world around you\nwith your whole being!",
+        "I am just watching\nthe dangling tip of the fishhook.{VAR BE01}\nSince you and I have met, let's send\nour Pokémon out to meet in battle!{VAR BE01}",
+        {
+            "text": "Because I love fishing and Pokémon,\nI enjoy my life twice as much.",
+            "flags": 240
+        },
+        "The dangling tip of the fishhook.\nI am just watching it.{VAR BE01}\nYes, in life, even meaningless things\ncan have meaning.",
+        {
+            "text": "Ouch... Why are you\nso strong?",
+            "flags": 240
+        },
+        {
+            "text": "Wow! Wow! Great!\nYou are stroooong!!",
+            "flags": 240
+        },
+        {
+            "text": "Hey! \nYour team is strong!",
+            "flags": 240
+        },
+        {
+            "text": "Ouch... I'm so uncool...",
+            "flags": 240
+        },
+        {
+            "text": "After all, I am the strongest and greatest.\nJust kidding!",
+            "flags": 240
+        },
+        {
+            "text": "Your strength...\nAnd my strength... Right. Let's test them.",
+            "flags": 240
+        },
+        {
+            "text": "Can you be strong even if you lose?\nIs winning everything?",
+            "flags": 240
+        },
+        {
+            "text": "Pokémon battles are fun.\nBut what is it to be truly strong?",
+            "flags": 240
+        },
+        {
+            "text": "Your strength...\nAnd my strength... Right. Let's test them.",
+            "flags": 240
+        },
+        {
+            "text": "Can you be strong even if you lose?\nIs winning everything?",
+            "flags": 240
+        },
+        {
+            "text": "Pokémon battles are fun.\nBut what is it to be truly strong?",
+            "flags": 240
+        },
+        {
+            "text": "Your strength...\nAnd my strength... Right. Let's test them.",
+            "flags": 240
+        },
+        {
+            "text": "Can you be strong even if you lose?\nIs winning everything?",
+            "flags": 240
+        },
+        {
+            "text": "Pokémon battles are fun.\nBut what is it to be truly strong?",
+            "flags": 240
+        },
+        "A Rotation Battle is a new kind of battle\nthat uses three Pokémon.{VAR BE01}\nPlease prepare at least three Pokémon\nfor battle!",
+        "The flow of a game changes\nevery turn in a Rotation Battle!{VAR BE00}\nCan you master it?{VAR BE01}",
+        {
+            "text": "It made my head spin,\nand I feel dizzy...",
+            "flags": 240
+        },
+        "While a come-from-behind win is possible,\nif you are a strong Trainer,{VAR BE00}\nyou can handle the game well.{VAR BE00}\nThat is the thrill of Rotation Battles!",
+        "A Triple Battle is a new style of battle\nin which you use three Pokémon!{VAR BE01}\nPlease get three Pokémon together\nto use in battle!",
+        "I thought and thought\nand chose these three!{VAR BE00}\nTheir destructive force is overwhelming!{VAR BE01}",
+        {
+            "text": "Did I position them wrong?\nOr is there a more fundamental problem?",
+            "flags": 240
+        },
+        "Which Pokémon\nshould I put in the middle...?{VAR BE00}\nI'm still thinking about it.",
+        {
+            "text": "My!\nSpecial Emolga?!",
+            "flags": 240
+        },
+        "Fishermen read the flow of water\nor the flow of a battle!{VAR BE01}",
+        {
+            "text": "The flow of the battle...\nIt's too wild to follow!",
+            "flags": 240
+        },
+        "The flow of water here on Route 17\nis very wild.{VAR BE01}\nIf you don't tap into it well,\nyou cannot go where you want!",
+        "I am good at backstroke,\nfreestyle, butterfly...{VAR BE00}\nAnd, of course, Pokémon battles!{VAR BE01}",
+        {
+            "text": "Did I just lose a Pokémon battle,\neven though I'm so good at them??",
+            "flags": 240
+        },
+        "Shall I practice my swimming?\nOr shall I train my Pokémon?{VAR BE01}\nHmmmm, it's hard to decide,\nso I will swim with my Pokémon!",
+        "The Pokémon is riding the wave,\nand you are riding the Pokémon.{VAR BE00}\nAre you riding high?{VAR BE01}",
+        {
+            "text": "The big wave has come and gone...\nMy heart is calm...",
+            "flags": 240
+        },
+        "If you can surf calmly through the\nrough waters of your life,{VAR BE00}\nyou'll be riding high!",
+        "I learned all the good points of my\nAlomomola by swimming with Pokémon!{VAR BE00}\nI will show off its strength!{VAR BE01}",
+        {
+            "text": "What a fresh Trainer!\nReally fresh, fresh!",
+            "flags": 240
+        },
+        "I'm a girl with everything...{VAR BE01}\nWell, everything but a place to\nput my Poké Balls!",
+        "I was taking a little break, but hey,\nI always have time for Pokémon battles!{VAR BE00}\nLet's enjoy it as much as possible!{VAR BE01}",
+        {
+            "text": "Wooosh!\nSsshhhh!!",
+            "flags": 240
+        },
+        "I'll tell you why I was taking a break.{VAR BE01}\nI have trouble with my bikini.\nIt could be washed away...",
+        "Did you come here by looking\nat the Town Map, too?{VAR BE01}\nMaps are good.\nThey tell you a lot of things!{VAR BE01}",
+        {
+            "text": "I want something that's like a map but\ntells me how to fight instead of where to go.",
+            "flags": 240
+        },
+        "Where shall I go next...?\nI use the Town Map to decide!",
+        "I came all the way here\nlooking for various Pokémon.{VAR BE01}\nLet me see what kinds of Pokémon\nyou came here with!{VAR BE01}",
+        {
+            "text": "Your Pokémon is...\nVery cool!!",
+            "flags": 240
+        },
+        "There are Pokémon Trainers\nacross the water, too.{VAR BE01}\nI wonder what kinds\nof Pokémon and Trainers live there...",
+        "Fights have their own rhythms!{VAR BE01}\nI wonder whose Pokémon\ncan fight rhythmically.{VAR BE01}",
+        {
+            "text": "Your Pokémon!\nTheir movements are right on the beat!",
+            "flags": 240
+        },
+        "I am living with so many rhythms!{VAR BE01}\nMy rhythm, the Pokémon's rhythm,\nand nature's rhythm...",
+        "When I look down from a high place,\nI feel very good!{VAR BE01}\nPokémon battles are the same!\nI will fight looking down from the heights!{VAR BE01}",
+        {
+            "text": "You're great!\nI can't help but look up to you!",
+            "flags": 240
+        },
+        "We climb mountains because,\nno matter how hard it is,{VAR BE00}\nthe higher we climb,{VAR BE00}\nthe closer we get to the sky!",
+        "On a small rise of land...\nyou and I face each other...{VAR BE01}",
+        {
+            "text": "On a small rise of land,\nI lost and was left speechless...",
+            "flags": 240
+        },
+        "On a small rise of land...\nWhat am I seeing...?{VAR BE01}\nSo many Trainers I faced before...{VAR BE01}\nHow many more Trainers I can fight...\nI will cherish every battle.",
+        "Are you going deeper into Pinwheel\nForest? Or to the challenge rock?{VAR BE01}\nEither way, unless you are tough,\nyou'll be just rooted to the spot!{VAR BE01}",
+        {
+            "text": "Oh, my...\nYou are very tough!",
+            "flags": 240
+        },
+        "Tough Trainer!\nI will make your Pokémon healthy.{VAR BE01}",
+        "Around Pinwheel Forest, many Pokémon\nuse moves to inflict problems such as{VAR BE00}\npoison and paralysis.{VAR BE00}\nIf anything happens, let me know!",
+        {
+            "text": "Really bad!",
+            "flags": 240
+        },
+        {
+            "text": "Zowie-e-e-e!",
+            "flags": 240
+        },
+        "Mmmmm...?!\nThat's how you showed up?{VAR BE01}",
+        {
+            "text": "Your power exceeds my\npsychic power!",
+            "flags": 240
+        },
+        "People say the Musharna that show up\nhere every Friday are a bit different.",
+        "This is a power spot!\nIt awakens your dormant power!{VAR BE01}",
+        {
+            "text": "Did you spot my weakness?",
+            "flags": 240
+        },
+        "To tell you the truth,\neverybody has Dream Mist.{VAR BE01}\n'Cause if you can make a dream come true,\nit's the same as having Dream Mist.{VAR BE00}\nRight?",
+        "Eeek! Why? I foresaw your move,\nand I was running away from you.{VAR BE01}",
+        {
+            "text": "Eeek! I foresaw your thoughts,\nbut I lost!",
+            "flags": 240
+        },
+        "Dreams slip away when they almost\ncome true...{VAR BE01}\nIf you don't grab important things tight,\nyou will lose them.",
+        "To research strange Pokémon, having a\nbattle is a good approach.{VAR BE01}\nDon't you think?{VAR BE01}",
+        {
+            "text": "I cannot help but wonder...\nWhy did I lose?",
+            "flags": 240
+        },
+        "No matter how much you research,\nPokémon are full of new discoveries!",
+        "I've been researching\nwithout sleeping for days.{VAR BE00}\nI see you, but are you a dream?{VAR BE01}",
+        {
+            "text": "Theoretically, it's impossible!\nIs this a dream...?",
+            "flags": 240
+        },
+        "Talking about dreams, Fennel's\nPokémon DW!{VAR BE00}\nThat is some great research!{VAR BE00}\nAre you doing Game Sync, too?",
+        "For my research on dreams,\nI will research your dream!{VAR BE01}",
+        {
+            "text": "No! \nI may dream about this defeat later!",
+            "flags": 240
+        },
+        "The Dream Mist of the\nPokémon Musharna...{VAR BE01}\nThe secret has not been unlocked,\nbut it must be a great ability.",
+        "I want to figure out\nPsychics' strange powers!{VAR BE01}",
+        {
+            "text": "I decided to fight using pure logic,\nyet I lost!",
+            "flags": 240
+        },
+        "The things we can explain with logic\nare half of the world...{VAR BE01}\nThe rest, we explain with feeling!\nBecause the world is full of wonders.",
+        "Permets-moi de te provoquer en duel afin\nque je puisse graver notre rencontre{VAR BE00}\ndans ma mémoire.{VAR BE01}",
+        {
+            "text": "Notre combat est à jamais gravé\ndans ma mémoire!",
+            "flags": 240
+        },
+        "Les paysages que nous avons admirés...\nLes gens que nous avons rencontrés...{VAR BE01}\nLes Pokémon avec qui nous avons\ncroisé le fer...{VAR BE01}\nIls resteront à jamais gravés\ndans ma mémoire.",
+        "Tu n'imagineras jamais le nombre de\npays que j'ai visités, et le nombre{VAR BE00}\nde Dresseurs que j'ai combattus!{VAR BE01}",
+        {
+            "text": "Wah!\nEncore un formidable souvenir de voyage!",
+            "flags": 240
+        },
+        "Quand j'aurai beaucoup, beaucoup\nvoyagé, je rentrerai à la maison,{VAR BE00}\net je pourrai raconter tout{VAR BE00}\nplein de choses à ma famille!",
+        "The power of thundering waterfalls...{VAR BE01}\nExperience the great power\nof a battle with me!{VAR BE01}",
+        {
+            "text": "I cannot believe our attack\nhad no impact on you!!",
+            "flags": 240
+        },
+        "I admit your strength\nand give you this gift!{VAR BE01}",
+        "Maybe I should train my body and mind\nby standing under a waterfall!",
+        "My Pokémon and I spend so much time\ntogether, we don't need words{VAR BE00}\nto understand one another.{VAR BE01}\nDo you think you can win against us?{VAR BE01}",
+        {
+            "text": "You can understand each other\nvery well, too!",
+            "flags": 240
+        },
+        "When you see this Berry,\nplease remember us!{VAR BE01}",
+        "I enjoy working as a Ranger, but I love\nto spend my time with Pokémon!{VAR BE01}\nWhatever happens, I won't leave\nmy Pokémon!",
+        "Are you raising these Pokémon all alone?\nOr do you rely on Pokémon Day Care?{VAR BE01}",
+        {
+            "text": "I was only thinking about Eggs...",
+            "flags": 240
+        },
+        "Share this Berry with\nyour precious Pokémon!{VAR BE01}",
+        "The Pokémon Day Care on Route 3!{VAR BE01}\nIf you leave two Pokémon there,\nyou may find an Egg!",
+        "My Pokémon are running around\nin this beautiful grassland...{VAR BE00}\nPlease take a look!{VAR BE01}",
+        {
+            "text": "They were bouncing around\njust a few minutes ago!",
+            "flags": 240
+        },
+        "Share the Berry with your Pokémon, too!{VAR BE01}",
+        "They must have been tired\nbecause they were running around.{VAR BE00}\nAww! So cute!",
+        "It's OK to have a battle\nduring a picnic. Right?{VAR BE01}",
+        {
+            "text": "Fey: Your Pokémon are\ngreat friends, aren't they?{VAR BE01}\nSue: It was over while I was\nconsidering what my partner would do.",
+            "flags": 240
+        },
+        "I think the Pokémon in the Poké Balls\ntotally understand how you feel!",
+        "We two are having a picnic together!\nDon't you have two Pokémon?",
+        "We will rattle you and your Pokémon\nwith our perfect combination.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "To battle well in a Double Battle,\nwe have to know{VAR BE00}\nour partner's Pokémon moves.",
+        "We fight as a duo.\nSo you need at least two Pokémon.",
+        "I was checking for Pokémon\naround here just now,{VAR BE00}\nbut I am also interested in you.{VAR BE01}",
+        {
+            "text": "Oh! \nWhat interesting Pokémon!",
+            "flags": 240
+        },
+        "Even similar Pokémon will have\ndifferent behavior and appearances{VAR BE00}\nin Unova and other regions.",
+        "I was checking the landscape\naround here just now,{VAR BE00}\nbut I am also interested in you.{VAR BE01}",
+        {
+            "text": "Oh, my!\nWhat an interesting Trainer!",
+            "flags": 240
+        },
+        "The unevenness of this landscape...\nWe can tell that the flow of a river{VAR BE00}\ncreated the undulation.",
+        "From my point of view,\nart is feeling and logic!{VAR BE01}\nAnd a beautiful battle is also\nfeeling and logic!{VAR BE01}",
+        {
+            "text": "I could not see your strength?!",
+            "flags": 240
+        },
+        "Artists can be divided\ninto two types...{VAR BE01}\nSome draw what they see,\nand some draw what they can't see!",
+        "I am a wonderful Fisherman\nwho loves everything!{VAR BE01}\nThis Fisherman will fight\nwith wonderful Pokémon!!{VAR BE01}",
+        {
+            "text": "I lost!\nBut I still love everything!",
+            "flags": 240
+        },
+        "I want to go deep-sea fishing\nusing the Royal Unova{VAR BE00}\nthat leaves from Castelia City!",
+        "Don't be overwhelmed\nby my awesome Pokémon!{VAR BE01}",
+        {
+            "text": "I'm so overwhelmed that I cannot speak...",
+            "flags": 240
+        },
+        "Is my fishing rod bad?\nOr is it my fishing skill that's bad?{VAR BE00}\nI always catch the same Pokémon.",
+        "Hm! You look like a competent\nPokémon Trainer!{VAR BE01}\nIf I have a battle with you,\nI may learn some secrets!{VAR BE01}",
+        {
+            "text": "Yep! A strong person is strong.\nAnd a weak person is weak.",
+            "flags": 240
+        },
+        "The secret of fishing...\nIsn't it “hurry up slowly\"?",
+        "Hey! Please show me what kinds\nof great Pokémon you have caught!{VAR BE01}",
+        {
+            "text": "Ho ho!\nThese are some impressive Pokémon!",
+            "flags": 240
+        },
+        "Even if others catch great Pokémon,\nI won't get jealous.{VAR BE01}\nBecause my own Pokémon\nare the best ones for me!",
+        "Our Pokémon make a nice matchup!{VAR BE01}",
+        {
+            "text": "Emy: No, I can't believe it!\nHow come you're so strong?{VAR BE01}\nLin: Our team is the best in the whole world\never! How did you beat us?",
+            "flags": 240
+        },
+        "If Pokémon are good friends,\nthey will be filled with power!",
+        "What? Only one Pokémon?\nThen, we can't fight!",
+        "Our combination is the best!\nThere is no chance we will ever lose!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 240
+        },
+        "The Abilities called Plus and Minus\nare the best combination! Right?",
+        "What? Only one Pokémon?\nSorry, we won't battle with you!",
+        "While we watch the beautiful scenery,\nlet's have an exciting Pokémon battle!{VAR BE01}",
+        {
+            "text": "I was absorbed in our Pokémon battle.",
+            "flags": 240
+        },
+        "The quiet sound of a multitude of waves\nendlessly overlapping...{VAR BE01}\nIt's like a first-class orchestra...\nDoesn't it sound like that?",
+        "I will keep walking\non the sandy beach...{VAR BE01}\nHow about that?\nSounds pretty great, doesn't it?{VAR BE01}",
+        {
+            "text": "I'd have more fun\njust walking on the beach...",
+            "flags": 240
+        },
+        "I walk on the sandy beach...{VAR BE01}\nBecause I love footprints!",
+        "Oh?\nA lovely Trainer.{VAR BE01}\nWould you like to meet the Pokémon\nthat make me proud?{VAR BE01}",
+        {
+            "text": "Uh...\nShocking!!",
+            "flags": 240
+        },
+        "...Looking back, when I had\nups and downs, my Pokémon{VAR BE00}\nwere always there for me.",
+        "Oh, a traveling Trainer!\nLet's battle, just for fun!{VAR BE01}",
+        {
+            "text": "Huh? Is it already over? Noooo!\nI want to see more Pokémon!",
+            "flags": 240
+        },
+        "When Pokémon use moves, or when they\nsee you and catch your eye, your heart{VAR BE00}\nbeats a little faster, doesn't it?",
+        "A woman standing alone with a parasol\nin one hand at the beach...{VAR BE00}\nHi... Please have a battle with me.{VAR BE01}",
+        {
+            "text": "The parasol can block ultraviolet rays, \nbut it can't block moves...",
+            "flags": 240
+        },
+        "I heard a parasol is a must\non the beach...{VAR BE00}\nBut I'm the only one who has one?",
+        "What? Will you fight against me?\nIt's OK, but are you strong?{VAR BE01}",
+        {
+            "text": "Ugh...\nYour Pokémon are strong!",
+            "flags": 240
+        },
+        "I'm happy when I am with my Pokémon!{VAR BE01}\nThat means I will be happy for years\nto come! Because I'm always with them!",
+        "If I battle until I win, I will never\nultimately lose!{VAR BE01}",
+        {
+            "text": "Try seven times and fall eight times...\nNo!{VAR BE00}\nFall down seven times, stand up eight!",
+            "flags": 240
+        },
+        "The more I rise up,\nthe stronger my mind grows!{VAR BE01}\nThat's why I thank you for each round\nthat I lost!",
+        "Do you understand why Trainers\nand Pokémon are together?{VAR BE01}",
+        {
+            "text": "You and your Pokémon share\nthe sad feeling of losing half-and-half...",
+            "flags": 240
+        },
+        "With a friend, you laugh twice for happy\nthings, and you cry half for sad ones.{VAR BE00}\nThat is the joy of living with Pokémon.",
+        "An expert Fisherman can time many things\nperfectly and precisely!{VAR BE01}",
+        {
+            "text": "Hmmmm! A lot of my timing\ndidn't go well!",
+            "flags": 240
+        },
+        "You! It's impressive that\nyou have a Super Rod!{VAR BE01}\nOK! Probably you know, but\nI will tell you how to use it!{VAR BE01}\nFirst, you face any body of water,\nthen you cast with your Super Rod.{VAR BE01}\nNext you must focus!{VAR BE01}\nWhen a Pokémon bites,\n“!\" appears.{VAR BE00}\nThat's your cue to reel it in!",
+        "On a bridge!\nFighting Trainers!{VAR BE00}\nIt's a perfect picture!{VAR BE01}",
+        {
+            "text": "I am not weak, even though I lost.\nYou, who won, are just too strong!",
+            "flags": 240
+        },
+        "On a bridge!\nA sentimental Trainer after his defeat!{VAR BE00}\nThis is also a good, tragic picture!",
+        "My Pokémon climbed many mountains and\nbuilt up their physiques!{VAR BE01}",
+        {
+            "text": "My tears fell after the defeat.\nWatch them become an ocean!",
+            "flags": 240
+        },
+        "With the Pokémon move Waterfall,\na Pokémon can climb a waterfall!{VAR BE01}\n...There is no move called Mountainfall.",
+        "I will battle with you,\nbut you must relax your shoulders.{VAR BE01}\nBecause you need to relax\nto show your ability.{VAR BE01}",
+        {
+            "text": "Natural stance!\nYou are good!",
+            "flags": 240
+        },
+        "When people try to do what they can't,\nthey become clumsy.{VAR BE01}\nIf they do what they can do very well,\nthey can always be themselves!",
+        "I will unveil my Pokémon to you!\nThey are the best in the world!{VAR BE01}",
+        {
+            "text": "Your Pokémon are also cute,\nbut my Pokémon are charming!",
+            "flags": 240
+        },
+        "Listen. My love for my Pokémon\nis the best in the world.{VAR BE00}\nNobody can beat it.",
+        "Se ripenso a quante montagne\nho attraversato in lungo e in largo,{VAR BE00}\nmi viene tanta voglia di una lotta.{VAR BE01}",
+        {
+            "text": "Vengono in mente altre lotte in\ncui ho perso proprio come adesso!",
+            "flags": 240
+        },
+        "La strada percorsa non si cambia!{VAR BE01}\nMa su quella da percorrere\npuò accadere ancora di tutto!",
+        "What's wrong, Pokémon Trainer?{VAR BE01}\nAre you lost in your journey?\nNo... In your life? At times like that,{VAR BE00}\nif you fight, you'll know!{VAR BE01}",
+        {
+            "text": "You have no doubts\nabout your way of fighting!",
+            "flags": 240
+        },
+        "Such a strong Trainer!\nPlease accept this!{VAR BE01}",
+        "Life itself is a journey, and it's\nnatural to get lost sometimes!{VAR BE01}\nSome truths you can find\nonly when you get lost!",
+        "Yoo-hoo, Pokémon!\nYoo-hoo, Pokémonnnn!{VAR BE00}\nYoo-hoo, are you a Trainer?!{VAR BE01}",
+        {
+            "text": "A tough Trainer,\nand a tough Pokémon. I lost.",
+            "flags": 240
+        },
+        "I will give you this as a sign\nof my respect for your toughness!{VAR BE01}",
+        "I am checking to see whether Pokémon\nthat came from other regions{VAR BE00}\nby Poké Transfer have escaped.",
+        "I'm looking for a place...\nthat is not in any guidebook.{VAR BE01}",
+        {
+            "text": "Your strength!\nI want to put it in a guidebook!",
+            "flags": 240
+        },
+        "A journey to find something new!\nThat is my goal.{VAR BE01}\nFor example, that big rock!\nYou can push it with the move Strength!",
+        "Amazing, to find a quiet spot like this\nright next to the big city!{VAR BE01}\nWow! I got a little excited,\nso I want to have a battle!{VAR BE01}",
+        {
+            "text": "Well, I have calmed down.",
+            "flags": 240
+        },
+        "Do Pokémon also\nfeel calm in nature?{VAR BE01}\nOr do they also enjoy\nthe glitz of cities?",
+        "Because all roads are connected, I can\ngo anywhere and challenge anyone!{VAR BE01}",
+        {
+            "text": "I felt the bond between\nyou and your Pokémon!",
+            "flags": 240
+        },
+        "I keep traveling\nto forget my sadness...{VAR BE01}\nBut the sad memory returns\nevery time a season passes.",
+        "I ride a Bicycle,\nI feel fresh winds,{VAR BE00}\nand I win Pokémon battles!{VAR BE01}",
+        {
+            "text": "A pleasant wind is carrying a defeat.\n...Now, it is stopping here, though.",
+            "flags": 240
+        },
+        "Most people don't know this,\nbut coming to Nimbasa{VAR BE00}\nand riding a Bicycle is very popular.",
+        "Ting-a-ling-ling. ♪{VAR BE01}\nI will have a Pokémon battle\nat this speed!{VAR BE01}",
+        {
+            "text": "I'm upset because I lost,\nso I will ring the bell. Ting-a-ling. ♪",
+            "flags": 240
+        },
+        "If you ride a Bicycle,\nyou zip along!{VAR BE01}\nIf you are with Pokémon,\nyou can do many things.{VAR BE01}\nIt's fun to do things\nyou can't usually do!",
+        "I am patrolling.\nI will check your strength, too!{VAR BE01}",
+        {
+            "text": "You were so strong\nthat I couldn't help falling back!",
+            "flags": 240
+        },
+        "Nothing scares me\nwhen I patrol with my Pokémon!",
+        "I will show you the harshness\nof the desert through a battle!{VAR BE01}",
+        {
+            "text": "Desert...hot... Mouth...dry... Grfrrrfl...",
+            "flags": 240
+        },
+        "Be careful of burns!{VAR BE01}",
+        "If a Pokémon gets a burn, \nit also weakens physical attacks.{VAR BE00}\nThis works quite well!",
+        "Scorching desert!\nA passion for adventure!{VAR BE00}\nAnd a heated battle!{VAR BE01}",
+        {
+            "text": "Hot! Hot! Hot! Hot!!",
+            "flags": 240
+        },
+        "Speed is crucial\nto treat a burn!{VAR BE01}",
+        "Whether it is hot or cold,\nthere is no problem if you have passion!",
+        {
+            "text": "But you are just so relaxed! How could you\nwin against a busy person like me?",
+            "flags": 240
+        },
+        {
+            "text": "Oh, my! How strong you are!",
+            "flags": 240
+        },
+        {
+            "text": "Oh!\nImpressive strength!",
+            "flags": 240
+        },
+        {
+            "text": "Oh... I lost.\nYou're very strong!",
+            "flags": 240
+        },
+        {
+            "text": "What?\nHow could I lose?",
+            "flags": 240
+        },
+        {
+            "text": "This...\nThis is ridiculous!",
+            "flags": 240
+        },
+        {
+            "text": "Your strength was more than I imagined!\nI am pleased!",
+            "flags": 240
+        },
+        {
+            "text": "Come on! Seriously?! All I did was\ntake away people's Pokémon.",
+            "flags": 240
+        },
+        "We finally reached the secret sleeping in\nthe basement of the lighthouse.{VAR BE00}\nI won't let you interrupt us!{VAR BE01}",
+        {
+            "text": "I am bitterly disappointed...",
+            "flags": 240
+        },
+        "In the basement of the lighthouse\nbuilt over 200 years ago,{VAR BE00}\nthe mythical Pokémon{VAR BE00}\nVictini was sleeping!",
+        "I was ordered not to let anyone\napproach the Plasma Ship!{VAR BE01}",
+        {
+            "text": "I lost the battle though...",
+            "flags": 240
+        },
+        "Although I lost, I won't move!\nI will follow my orders!",
+        "We will release Victini\nfrom its confinement{VAR BE00}\nin a small basement on the island!{VAR BE01}",
+        {
+            "text": "You're sabotaging\nour noble cause!",
+            "flags": 240
+        },
+        "Selfish people are making\nVictini suffer...",
+        "The Victini on this island\ncreates limitless energy!{VAR BE01}",
+        {
+            "text": "You are just a kid!",
+            "flags": 240
+        },
+        "If you are exposed to Victini's energy,\nyou can win any kind of battle.",
+        {
+            "text": "I failed to seize the victory!",
+            "flags": 240
+        },
+        {
+            "text": "The beginning is always important\nfor both battles and novels.",
+            "flags": 240
+        },
+        {
+            "text": "Oh... I guess it's time to start\nmy last chapter.",
+            "flags": 240
+        },
+        {
+            "text": "The epilogue of this story\nis about to begin.",
+            "flags": 240
+        },
+        {
+            "text": "Wow. I'm stunned.{VAR BE01}\nFor all the words I know, I can't figure out\nhow to say this... Putting my feelings{VAR BE00}\ninto words would just be a trap.{VAR BE01}\nAll I will say is I feel you're even greater\nthan I thought!",
+            "flags": 240
+        },
+        {
+            "text": "You use the move here...\nIt's good. It's fascinating.",
+            "flags": 240
+        },
+        {
+            "text": "Well... I've never withdrawn\nfrom any battles.",
+            "flags": 240
+        },
+        {
+            "text": "Even in this situation,\nthere must be a way...to win.",
+            "flags": 240
+        },
+        {
+            "text": "If somebody wins, the person who fought\nagainst that person will lose.{VAR BE00}\nThat's battle.{VAR BE01}\nA good contender just seeks the next\nvictory without bragging after winning,{VAR BE00}\nand without getting upset after losing.",
+            "flags": 240
+        },
+        {
+            "text": "Oh! Strong as usual.\nThat makes my heart dance!",
+            "flags": 240
+        },
+        {
+            "text": "The last one!\nI'll use the last bit of strength!",
+            "flags": 240
+        },
+        {
+            "text": "Oh... This may be the last.\nI will put everything into the next move!",
+            "flags": 240
+        },
+        {
+            "text": "There is no strongest Pokémon or single\nbest combination...{VAR BE01}\nSo, there are no guarantees of winning.{VAR BE01}\nBut the determination to be strong and to\ncontinue to grow and improve is itself a{VAR BE00}\ngreat strength. It's the determination{VAR BE00}\nthat you show that makes me respect you.",
+            "flags": 240
+        },
+        {
+            "text": "A wonderful time is about to start.\nI like this moment...",
+            "flags": 240
+        },
+        {
+            "text": "I will stay cool and collected, even though\nthis isn't going well...",
+            "flags": 240
+        },
+        {
+            "text": "I will not give up...for the sake of my\nPokémon that believe in me.",
+            "flags": 240
+        },
+        {
+            "text": "As you have always been...or even more\nthan ever...{VAR BE00}\nyou are an elegant and excellent Trainer.{VAR BE01}\nYour Pokémon also have class.\nI am very pleased to have battled you.",
+            "flags": 240
+        },
+        {
+            "text": "Do you really think you can stop us\nwith that?",
+            "flags": 240
+        },
+        {
+            "text": "My last friend...\nPlease share your courage with me!",
+            "flags": 240
+        },
+        {
+            "text": "Is the world going to choose you,\nand not me?!",
+            "flags": 240
+        },
+        {
+            "text": "Everything’s ruined. The ideals I held...\nThe dreams Pokémon shared...",
+            "flags": 240
+        },
+        {
+            "text": "Your Pokémon look happy.",
+            "flags": 240
+        },
+        {
+            "text": "Even if I lose, is it different from the\nfuture I saw?",
+            "flags": 240
+        },
+        {
+            "text": "The result was the same...\nBut you... Who are you?",
+            "flags": 240
+        },
+        {
+            "text": "When was the last time\nI was driven into a corner like this?",
+            "flags": 240
+        },
+        {
+            "text": "You haven't won yet! I won't let\nsuch a fun battle end so easily!",
+            "flags": 240
+        },
+        {
+            "text": "My heart is pounding so hard because I had\nsuch a heated battle with you.{VAR BE01}\nYou are a really great Trainer!!",
+            "flags": 240
+        },
+        "I bought new boots,\nso I came all this way to get them dirty.{VAR BE01}\nYou're right! If I have a battle,\nthey may get even dirtier!{VAR BE01}",
+        {
+            "text": "Oh! My boots got completely soaked\nin the battle!",
+            "flags": 240
+        },
+        "I would feel sorry for boots\nif I cared about them getting dirty.{VAR BE01}\nPokémon are the same. Right?\nI feel sorry for them getting hurt,{VAR BE00}\nbut it makes them stronger.",
+        "If there are Trainers,\nI just have battles with them.{VAR BE01}\nBecause they may show me\nWater-type Pokémon{VAR BE00}\nI've never seen.{VAR BE01}",
+        {
+            "text": "I've never seen\nsuch a strong Trainer!",
+            "flags": 240
+        },
+        "If I find water, I drop in my fishing line.{VAR BE01}\nBecause even with a puddle,\nthere may be Pokémon{VAR BE00}\nthat I've never seen.",
+        "Knowing oneself, knowing the other,\nand knowing the surroundings...{VAR BE00}\nThat's a Ranger!{VAR BE01}",
+        {
+            "text": "I guess there's still\na lot I don't know!",
+            "flags": 240
+        },
+        "If you are prepared,\nyou don't have to worry!{VAR BE01}",
+        "I'm researching what kinds of\nPokémon live around here.{VAR BE01}\nThat way, I can plan which Pokémon\nI should take along.",
+        "Pokémon Trainers nurture friendship\nwith their battles!{VAR BE01}",
+        {
+            "text": "This feeling of defeat...\nis like a bottomless swamp...",
+            "flags": 240
+        },
+        "Please accept this Sitrus Berry\nas a token of our friendship!{VAR BE01}",
+        "Stay still and listen carefully!\nHear the sounds of nearby Pokémon...{VAR BE00}\nthe breath of trees and swamps.",
+        "I got tired of Pokémon battles\nwith the same people,{VAR BE00}\nso I want to have a battle with you!{VAR BE01}",
+        {
+            "text": "Wow! Surprising!\nThe move just now was great!",
+            "flags": 240
+        },
+        "The Pokémon called Burmy\ncan change their forms{VAR BE00}\ndepending on where they battle!{VAR BE00}\nIsn't that great??",
+        "Eeek!!{VAR BE01}\nHey! Don't sneak up\non me like that!{VAR BE01}",
+        {
+            "text": "Argh, I lost again...\nI'm a little bit sad.",
+            "flags": 240
+        },
+        "I was writing this and that on the wall.{VAR BE01}\nOh, I will never show it to you!\n...Because it's my secret!",
+        "Let's compare whose Pokémon\nare stronger!{VAR BE01}",
+        {
+            "text": "You won!\nYour Pokémon are awesome!",
+            "flags": 240
+        },
+        "I scrape my legs a lot\n'cause I'm wearing shorts.{VAR BE01}\nBut I'm fine!{VAR BE01}\nMy Pokémon lick the scraped parts!",
+        "This is our playground!{VAR BE01}\nGreat Landorus, watch out for us!{VAR BE01}",
+        {
+            "text": "Wahaha!\nYour Pokémon looks like it is having fun!",
+            "flags": 240
+        },
+        "Great Landorus...\nIs it a strong and kind Pokémon?",
+        "If you have the move Dive,\nyou can dive and sink!{VAR BE01}",
+        {
+            "text": "Blub, blub, blub...\n...I am sinking.",
+            "flags": 240
+        },
+        "Have your Pokémon\nlearned the move Dive?{VAR BE01}\nDive is good! Great!\n'Cause it's Dive!",
+        "I just love swimming, so I have only\nfought against wild Pokémon.{VAR BE01}",
+        {
+            "text": "I guess people get strong\nby visiting Gyms!",
+            "flags": 240
+        },
+        "OK! I will challenge Pokémon in Gyms\nall over the world!{VAR BE01}\nWhere do I find Water-type Gyms...\nKanto, Hoenn, and Sinnoh, right?",
+        "My Pokémon and I are always swimming.\nOf course, I can battle while swimming!{VAR BE01}",
+        {
+            "text": "I lost. But I'm still cool, because not many\npeople can say they battled while swimming!",
+            "flags": 240
+        },
+        "They say a temple sank\nto the ocean floor in Undella!",
+        "Seeing a Pokémon use its best moves\nagainst another Pokémon{VAR BE00}\nis really an adventure!{VAR BE01}",
+        {
+            "text": "The adventure is over already.",
+            "flags": 240
+        },
+        "I am on vacation\nall year round...",
+        "Oh? Did you come here to see\nCynthia in a bathing suit?{VAR BE01}",
+        {
+            "text": "You should put on a bathing suit and swim\ninstead of riding on a Pokémon!",
+            "flags": 240
+        },
+        "I heard that Cynthia swims secretly\nwhen nobody else is around.{VAR BE01}\nAnd I heard she is great!\nJust great!",
+        "The sea waves in Undella Town are\nnice and calm!{VAR BE01}",
+        {
+            "text": "Your battling style\nis very rough and ready!",
+            "flags": 240
+        },
+        "Floating in the sea, very nice!\nBeing with Pokémon, very nice!",
+        "What I learned after reading many books\nis that there are still a lot of mysteries{VAR BE00}\nin the world!{VAR BE01}",
+        {
+            "text": "How we can be friendlier with Pokémon\nis also a mystery.",
+            "flags": 240
+        },
+        "The book I am reading now was\nwritten by Professor Juniper.{VAR BE01}\nIt says the origin of Pokémon\nis still a mystery.",
+        "I've been researching the Village Bridge,\nbut taking a break is also important!{VAR BE01}",
+        {
+            "text": "You and your Pokémon!\nYou are supporting each other perfectly!",
+            "flags": 240
+        },
+        "In the Village Bridge,\na lot of bricks support each other{VAR BE00}\nand keep the bridge from collapsing.{VAR BE01}\nThat's how the bridge has kept its shape\nfor over 100 years.",
+        "My journey has taught me\nthat everybody loves Pokémon!{VAR BE00}\nI'm sure you love them, too.{VAR BE01}",
+        {
+            "text": "Although we lost,\nour journey will still continue!",
+            "flags": 240
+        },
+        "We will keep walking!\nAs long as the road goes on...{VAR BE00}\nAs long as I am with my Pokémon!",
+        "You are the 99th person\nthat I have greeted this way.{VAR BE01}\nLet's have a Pokémon battle!{VAR BE01}",
+        {
+            "text": "Thank you! Now you and I are friends.\nRight?",
+            "flags": 240
+        },
+        "If we could greet anyone in the world\nwith “Let's have a Pokémon battle!\"{VAR BE00}\nthat would be wonderful!",
+        {
+            "text": "My movements lack power!",
+            "flags": 240
+        },
+        {
+            "text": "I was off the beat!\nI have to start up my lessons again!",
+            "flags": 240
+        },
+        {
+            "text": "My footwork was not quite sharp.",
+            "flags": 240
+        },
+        {
+            "text": "Plasmaaaa!\nI have fallen in the Relic Castle...",
+            "flags": 240
+        },
+        {
+            "text": "The strength that beat my lord N.\nI see... It cut me to the bone.",
+            "flags": 240
+        },
+        {
+            "text": "That strength has protected\nthe world in which people and Pokémon{VAR BE00}\nlive together.",
+            "flags": 240
+        },
+        {
+            "text": "I will use everything that I've learned on\nthis journey!",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and I will\nput all our energy into this battle!",
+            "flags": 240
+        },
+        {
+            "text": "Thank you.\nYou are really great.",
+            "flags": 240
+        },
+        {
+            "text": "I will use everything that I've learned on\nthis journey!",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and I will\nput all our energy into this battle!",
+            "flags": 240
+        },
+        {
+            "text": "Thank you.\nYou are really great.",
+            "flags": 240
+        },
+        {
+            "text": "I will use everything that I've learned on\nthis journey!",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and I will\nput all our energy into this battle!",
+            "flags": 240
+        },
+        {
+            "text": "Thank you.\nYou are really great.",
+            "flags": 240
+        },
+        {
+            "text": "Did you see how I trained it?",
+            "flags": 240
+        },
+        {
+            "text": "Did you see how I trained it?",
+            "flags": 240
+        },
+        {
+            "text": "I trained the Pokémon you traded me\nvery well, right?",
+            "flags": 240
+        },
+        {
+            "text": "I'm a heartbreaker...\nMy name... Charles.",
+            "flags": 240
+        },
+        {
+            "text": "I'm a heartbreaker...\nMy name... Charles.",
+            "flags": 240
+        },
+        {
+            "text": "I know all my strengths and weaknesses now.\nSoon, I will also know yours!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet.\nMy Pokémon are with me!",
+            "flags": 240
+        },
+        {
+            "text": "I believe in my Pokémon's strength,\nso I don't lose my calm.",
+            "flags": 240
+        },
+        {
+            "text": "Thank you!\nI saw what was missing in me.",
+            "flags": 240
+        },
+        {
+            "text": "I know all my strengths and weaknesses now.\nSoon, I will also know yours!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet.\nMy Pokémon are with me!",
+            "flags": 240
+        },
+        {
+            "text": "I believe in my Pokémon's strength,\nso I don't lose my calm.",
+            "flags": 240
+        },
+        {
+            "text": "Thank you!\nI saw what was missing in me.",
+            "flags": 240
+        },
+        {
+            "text": "I know all my strengths and weaknesses now.\nSoon, I will know yours also!",
+            "flags": 240
+        },
+        {
+            "text": "It's not over yet.\nMy Pokémon are with me!",
+            "flags": 240
+        },
+        {
+            "text": "I believe in my Pokémon's strength,\nso I don't lose my calm.",
+            "flags": 240
+        },
+        {
+            "text": "Thank you!\nI saw what was missing in me.",
+            "flags": 240
+        },
+        {
+            "text": "I see...\nYou choose that move?!",
+            "flags": 240
+        },
+        {
+            "text": "S-s-still... That's fine.\nWe're just fine!",
+            "flags": 240
+        },
+        {
+            "text": "Uh...at a time like this,\nI am supposed to do...what?",
+            "flags": 240
+        },
+        {
+            "text": "Thank you for having a battle with me!\nI definitely learned something!",
+            "flags": 240
+        },
+        {
+            "text": "I see...\nYou choose that move?!",
+            "flags": 240
+        },
+        {
+            "text": "S-s-still... That's fine.\nWe're just fine!",
+            "flags": 240
+        },
+        {
+            "text": "Uh...at a time like this,\nI am supposed to do...what?",
+            "flags": 240
+        },
+        {
+            "text": "Thank you for having a battle with me!\nI definitely learned something!",
+            "flags": 240
+        },
+        {
+            "text": "I see...\nYou choose that move?!",
+            "flags": 240
+        },
+        {
+            "text": "S-s-still... That's fine.\nWe're just fine!",
+            "flags": 240
+        },
+        {
+            "text": "Uh...at a time like this,\nI am supposed to do...what?",
+            "flags": 240
+        },
+        {
+            "text": "Thank you for having a battle with me!\nI definitely learned something!",
+            "flags": 240
+        },
+        "Triple Battles are battles with\nthree Pokémon!{VAR BE01}\nPlease get three Pokémon ready\nfor battle!",
+        "Which Pokémon you use...{VAR BE01}\nYes! Preparation before a battle\nis very important for Triple Battles!{VAR BE00}\nNow, let's start!{VAR BE01}",
+        {
+            "text": "Be ready! Stay prepared so\nyou can battle anytime!",
+            "flags": 240
+        },
+        "They say chance favors\nthe prepared mind.",
+        "Rotation Battles are battles\nwith three Pokémon!{VAR BE01}\nI want you to prepare at least\nthree Pokémon for a fight!",
+        "Which Pokémon you use...{VAR BE01}\nYes! Preparation before a battle\nis very important for Rotation Battles!{VAR BE00}\nNow, let's start!{VAR BE01}",
+        {
+            "text": "Be ready! Stay prepared so\nyou can battle anytime!",
+            "flags": 240
+        },
+        "They say chance favors\nthe prepared mind.",
+        "Triple Battles are new battles\nwith three Pokémon!{VAR BE01}\nYou cannot fight if you don't have\nat least three Pokémon.",
+        "Triple Battles are three-on-three\nPokémon battles.{VAR BE01}\nI will overpower you with\nmy perfect combination{VAR BE00}\nand overwhelming attack power!{VAR BE01}",
+        {
+            "text": "Did I overthink it\nbecause of the unfamiliar rules?",
+            "flags": 240
+        },
+        "The balance of three Pokémon...\neach with its own role...{VAR BE00}\nI still have to do more research.",
+        "Rotation Battles are new battles\nwith three Pokémon!{VAR BE01}\nYou can't battle if you don't have\nat least three Pokémon.",
+        "Rotation Battles are\nnew Pokémon battles{VAR BE00}\nin which the positions always change.{VAR BE01}\nI will overpower you\nwhile you are confused!{VAR BE01}",
+        {
+            "text": "Did I overthink it\nbecause of the unfamiliar rules?",
+            "flags": 240
+        },
+        "The balance of three Pokémon...\neach with its own role...{VAR BE00}\nI still have to do more research.",
+        "A Triple Battle is a new style of battle\nin which you use three Pokémon!{VAR BE01}\nPlease get three Pokémon together\nto use in battle!",
+        "Let me test what fighting style\nis more effective!{VAR BE01}",
+        {
+            "text": "By any chance, are you a\nTriple Battle genius?!",
+            "flags": 240
+        },
+        "If you'd like, please have\nTriple Battles with your friends.",
+        "A Rotation Battle is a new kind of battle\nthat uses three Pokémon.{VAR BE01}\nPlease prepare at least three Pokémon\nfor battle!",
+        "Let me test what fighting style\nis more effective!{VAR BE01}",
+        {
+            "text": "By any chance, are you a\nRotation Battle genius?!",
+            "flags": 240
+        },
+        "Now you can have Rotation Battles with\nyour friends!",
+        {
+            "text": "Great plans are\nalways interrupted.",
+            "flags": 240
+        },
+        "You... You are the Trainer\nthat my lord N is worried about!{VAR BE01}",
+        {
+            "text": "You may have beaten me, but you're still no\nbetter than other Trainers around here.",
+            "flags": 240
+        },
+        "My lord N grew up with Pokémon...{VAR BE01}\nHe thinks about Pokémon more than\nanybody else!",
+        "I will hurt anyone\nwho disobeys Team Plasma!{VAR BE01}",
+        {
+            "text": "Ouch, ouuuuch!\nMy Pokémon got hurt!",
+            "flags": 240
+        },
+        "You, before you came here,\nhow many Pokémon did you hurt?",
+        "I am a Trainer first\nand a Doctor second!{VAR BE01}",
+        {
+            "text": "Whenever I meet a Trainer,\nI can't help having a battle...",
+            "flags": 240
+        },
+        "Now, I will make\nyour Pokémon healthy!{VAR BE01}",
+        "Desert Resort is a harsh place.\nDo you have medicines?",
+        "The more I fight along with my Pokémon,\nthe happier I will be!{VAR BE01}",
+        {
+            "text": "I lost, but I am happy!\nBecause I have learned a few things!",
+            "flags": 240
+        },
+        "Thinking about being happy\nand making happiness a reality...{VAR BE00}\nThis is also science.",
+        {
+            "text": "Ugh!\nYou choose a good move, as usual.",
+            "flags": 240
+        },
+        {
+            "text": "With my knowledge, I can bring out\nthe strength of my Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "Why do you keep beating me?{VAR BE01}\nWe have the same number of Gym Badges.\nWe should be equals in strength...",
+            "flags": 240
+        },
+        {
+            "text": "Ugh!\nYou choose a good move, as usual.",
+            "flags": 240
+        },
+        {
+            "text": "With my knowledge, I can bring out\nthe strength of my Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "Why do you keep beating me?{VAR BE01}\nWe have the same number of Gym Badges.\nWe should be equals in strength...",
+            "flags": 240
+        },
+        {
+            "text": "Ugh!\nYou choose a good move, as usual.",
+            "flags": 240
+        },
+        {
+            "text": "With my knowledge,\nI can bring out the strength of my Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "Why do you keep beating me?{VAR BE01}\nWe have the same number of Gym Badges.\nWe should be equals in strength...",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and me!\nWe trained and got tough!",
+            "flags": 240
+        },
+        {
+            "text": "Ooohhh...\nAm I in trouble?",
+            "flags": 240
+        },
+        {
+            "text": "I trained with Iris...\nBut I still couldn't win...",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and me!\nWe trained and got tough!",
+            "flags": 240
+        },
+        {
+            "text": "Ooohhh...\nAm I in trouble?",
+            "flags": 240
+        },
+        {
+            "text": "I trained with Iris...\nBut I still couldn't win...",
+            "flags": 240
+        },
+        {
+            "text": "My Pokémon and me!\nWe trained and got tough!",
+            "flags": 240
+        },
+        {
+            "text": "Ooohhh...\nAm I in trouble?",
+            "flags": 240
+        },
+        {
+            "text": "I trained with Iris...\nBut I still couldn't win...",
+            "flags": 240
+        },
+        "Way to go!",
+        {
+            "text": "They were rotating too much!",
+            "flags": 240
+        },
+        {
+            "text": "If that is the move you chose\nafter serious consideration, that's fine!",
+            "flags": 240
+        },
+        {
+            "text": "Woooo! Your inexhaustible fighting spirit!\nImpressive!",
+            "flags": 240
+        },
+        {
+            "text": "Am I being overpowered?!\nThis is nothing! I will overpower you!",
+            "flags": 240
+        },
+        {
+            "text": "After the battle, a fresh wind\nblew through my heart...{VAR BE01}\nUse the battle with me as a stepping stone\nand move forward!",
+            "flags": 240
+        }
+    ],
+    "pad": "baba"
+}

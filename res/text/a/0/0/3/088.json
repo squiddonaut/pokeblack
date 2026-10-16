@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Everybody makes mistakes.{VAR BE01}\nBut goalkeepers cannot afford a mistake,\nbecause they cannot score goals to make{VAR BE00}\nup for it.{VAR BE01}\nIf one Pokémon on a team makes a\nmistake, however, the other Pokémon{VAR BE00}\nand their Trainer can cover for it!",
+        "If a Striker catches a teammate's eye,\nthey understand each other.{VAR BE01}\nA Pokémon and its Trainer are the same.\nDon't you agree?",
+        "Really strong Trainers thoroughly do\nwhatever they can do!",
+        "Soccer is beautiful and fun!\nPokémon are also beautiful and fun!",
+        "Soccer with Pokémon is Pokémon soccer.\nThe abbreviation is...Poccer?",
+        "Throw a sound pass to a team member!{VAR BE01}\nAfter that, to receive a sound pass,\nyou'll need to move swiftly.",
+        "Run! Run!\nJust think about running!"
+    ],
+    "pad": "6666"
+}

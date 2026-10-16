@@ -1,0 +1,16 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        {
+            "text": "{VAR 0100 0001} scurried to\na Pokémon Center, protecting\nthe exhausted and fainted\nPokémon from further harm...",
+            "flags": 210
+        },
+        {
+            "text": "{VAR 0100 0001} scurried back\nhome, protecting the exhausted\nand fainted Pokémon \nfrom further harm...",
+            "flags": 210
+        }
+    ],
+    "pad": "f2f2"
+}

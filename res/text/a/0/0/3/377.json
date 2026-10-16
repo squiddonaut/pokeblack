@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "entries": [
+        "Bianca: {VAR 0100 0000}!{VAR BE01}",
+        "As I've been traveling lately,\nI've been thinking about things.{VAR BE01}\nThings like what I can do with my life,\nand what I want to do, but...{VAR BE01}\nI'm thinking how cool it would be\nto be a model like Elesa.{VAR BE01}\nAnd then, how cool it would be to do\nresearch on Pokémon like{VAR BE00}\nProfessor Juniper...{VAR BE01}\nIf that's what I want to do, I'm gonna\nhave to know a lot about Pokémon.{VAR BE00}\nSooooo...would you please battle me?{VAR BE01}",
+        "Bianca: Yep!\n{VAR 0100 0000}, you're amazing!{VAR BE01}\nI'm really, really, really impressed, and\nthat makes me want to give this to you!{VAR BE01}",
+        "Bianca: In Castelia City, my precious\nPokémon was stolen by Team Plasma.{VAR BE01}\nSo I really, really understand!{VAR BE01}\nIf Team Plasma forces everyone to\nliberate their Pokémon,{VAR BE00}\nthere will be nothing but sad people!{VAR BE01}\n{VAR 0100 0000}!\nStop Team Plasma!{VAR BE01}\nDon't allow Pokémon to be stolen\nfrom Trainers who love them!{VAR BE01}\nI think that's the truth--or ideal--that\nyou've been pursuing, {VAR 0100 0000}...{VAR BE01}",
+        "Bianca: Oh dear, here I've come all this\nway, and I'm afraid I'm bothering you{VAR BE00}\nwhen you're going through so much.{VAR BE01}\nAll I wanted was to help you relax,\n{VAR 0100 0000}.{VAR BE01}\nKnowing you, you'll be fine!\nDefinitely! You'll totally be fine!{VAR BE01}\nI guarantee it!{VAR BE01}\nAnyway, you know what I mean...\nYeah... So, bye-bye!{VAR BE01}",
+        "Team Plasma: Apparently, some of us\nare working in Dragonspiral Tower,{VAR BE00}\nwhich is close to Icirrus City.",
+        "Team Plasma: Apparently some of us\nare working in the Relic Castle{VAR BE00}\nin the Desert Resort.",
+        "Team Plasma: Apparently, some of us\nare working in Dragonspiral Tower,{VAR BE00}\nwhich is close to Icirrus City!",
+        "Team Plasma: Apparently some of us\nare working in the Relic Castle{VAR BE00}\nin the Desert Resort!",
+        "My parasol is full of TMs.\nWould you like one?{VAR BE01}",
+        "Facade! Facade!\nWhen the user's poisoned, paralyzed,{VAR BE00}\nor burned, its attack power doubles!",
+        "That's right.{VAR BE01}\nI find rocks, and then\nI give them to people...{VAR BE00}\nThat's my simple life.{VAR BE00}\nYou rock...{VAR BE01}",
+        "Here, I'll give you the Damp Rock\nI found this morning.{VAR BE01}",
+        "Here, I'll give you the Heat Rock\nI found this afternoon.{VAR BE01}",
+        "Here, I'll give you the Smooth Rock\nI found this evening.{VAR BE01}",
+        "Here, I'll give you the Icy Rock\nI found tonight.{VAR BE01}",
+        "Yeah, yeah...{VAR BE01}\nIf you like rocks, come back tomorrow...\nRoll in at a different time, if possible.{VAR BE00}\nI'll be here, I pumice.",
+        {
+            "text": "Route 8",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nPress SELECT to change the location\nof items in the Bag!{VAR BE01}\nPoink!",
+            "flags": 207
+        },
+        {
+            "text": "Tubeline Bridge\nUnova's famous railway bridge",
+            "flags": 207
+        }
+    ]
+}

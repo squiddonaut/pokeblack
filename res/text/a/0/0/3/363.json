@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "entries": [
+        "Here on Route 6, there's a place called\nMistralton Cave.{VAR BE01}\nSupposedly, deep in that cave you can\nfind an amazing Pokémon called Cobalion,{VAR BE00}\nwho was said to have protected Pokémon{VAR BE00}\nfrom a sea of fire in ancient Unova.{VAR BE01}\nIf you can use a move called Surf\nthat lets you move over the water's{VAR BE00}\nsurface, maybe you can see Cobalion.",
+        "I've heard that there are also Pokémon\nthat should be called Cobalion's allies.",
+        "Now what should I do?{VAR BE01}\nThe entrance to Chargestone Cave,\njust ahead, is blocked off.{VAR BE01}\nIt's because of a Pokémon called\nGalvantula, and if I don't ask Clay{VAR BE00}\nto do something, there's no way to pass.",
+        "Chargestone Cave seems like\na complicated maze, but actually{VAR BE00}\nit's a straight road.",
+        "Pokémon with Dry Skin love Water-type\nmoves and rainy weather. ♪{VAR BE01}\nI'm talking about the Ability\nof these Pokémon, of course.",
+        {
+            "text": "Route 6",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nYou can register certain items with\nthe Y Button to use them easily!{VAR BE01}\nLook for a square checkbox beside\nthe name of a Key Item.",
+            "flags": 207
+        },
+        {
+            "text": "Researching the Year's Seasons:\nThe Season Research Lab",
+            "flags": 207
+        }
+    ],
+    "pad": "0202"
+}

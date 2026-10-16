@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "The one who obtains this Pokémon is said\nto be victorious in any type{VAR BE00}\nof competition...{VAR BE01}\nWe can obtain a power that would make\nus invincible!{VAR BE01}\nThat is the value of this mythical\nPokémon, Victini!{VAR BE01}",
+        "This is a secret room meant\nto hide Victini!{VAR BE01}\nTwo hundred years ago, a certain rich\nperson bought this entire island and hid{VAR BE00}\nVictini in this underground room.{VAR BE01}\nAfter that, no one saw Victini, and it\nbecame a mythical Pokémon...{VAR BE01}",
+        "We, Team Plasma, will liberate Victini\nfrom this room and use its powers to make{VAR BE00}\nour goal a reality!{VAR BE01}\nWe won't let a brat like you get in\nour way!{VAR BE01}",
+        "It looks like I underestimated\nyour strength.{VAR BE01}\nBut Victini won't be so simple!\nLook!{VAR BE01}",
+        "Looks like it's waiting to test your\nstrength. You'd better get ready!",
+        "Living with Victini means accepting\nVictini's cruel destiny...{VAR BE01}\nSomeday we will test you to see if you are\ntruly ready for that.{VAR BE01}",
+        "Victini is still close by and watching\nyour movements...{VAR BE01}\nIf you exit this room and come back, it\nmight return...",
+        "Ta-ta-ta-tah!",
+        "Victini vanished from the\nunderground room...{VAR BE01}"
+    ],
+    "pad": "4c4c"
+}

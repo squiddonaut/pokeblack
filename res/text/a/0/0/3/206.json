@@ -1,0 +1,20 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}!{VAR BE01}\nSince we both hold the Jet Badge now,\nlet's see which of us is stronger!{VAR BE01}",
+        "Alder: That was a fine Pokémon battle!{VAR BE01}\nI'm happy to see you are both growing\nas Trainers!{VAR BE01}",
+        "Cheren: If it isn't the Champion, Alder.\nI'm weak, so I lost!{VAR BE01}\n...And, honestly, it bothers me when you\ncall it a fine battle despite that.{VAR BE01}",
+        "Alder: Oh, honestly, Cheren.{VAR BE01}\nJust accept the compliment without the\nstinging remark.{VAR BE01}\nI've asked you this before, but what do\nyou plan to do after becoming strong?{VAR BE01}",
+        "Cheren: If I get strong and become a\nChampion, that will be the reason for{VAR BE00}\nmy existence.{VAR BE00}\nI want to prove that I'm really living.{VAR BE01}",
+        "Alder: Hmmm...\nYou remind me of Marshal.{VAR BE01}\nOf course, having something you want\nto become is important.{VAR BE01}\nBut what is even more important is\nwhat you do with your newfound power.{VAR BE01}\nAnyway, take this!{VAR BE01}",
+        "Here--you, too.{VAR BE01}",
+        "Alder: If you use the move Surf, you can\ntravel over water.{VAR BE01}\nI shall see you again, young Trainers.{VAR BE01}\nDon't forget about the needs of the\nPokémon at your side!{VAR BE01}",
+        "Cheren: What I do with my power...{VAR BE01}\nI don't know that answer yet. First, I\nwant to become a strong Trainer so{VAR BE00}\neveryone will acknowledge that power!{VAR BE01}",
+        "{VAR 0100 0000}...\nNext time, I will win!{VAR BE01}",
+        "You are {VAR 0100 0000}, aren't you?{VAR BE01}\nAre you surprised that I know?\nClay told me.{VAR BE01}\nUh-oh! To go inside Twist Mountain,\nyou need to have a Gym Badge from the{VAR BE00}\nMistralton Gym!{VAR BE01}\nThe wild Pokémon here are tougher, and\nwe want to be sure you're ready!",
+        {
+            "text": "Twist Mountain ahead.\nWatch out for wild Pokémon.",
+            "flags": 207
+        }
+    ]
+}

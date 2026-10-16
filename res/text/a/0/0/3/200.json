@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: Well... Still.{VAR BE01}\nIs there anything more important\nthan strength for Trainers,{VAR BE00}\nlike the Champion said?{VAR BE01}",
+        "Oh, I'll never understand just by\nthinking about it.{VAR BE01}\nWhat a bother.\nLet's hurry up and check the inside.",
+        "Cheren: Oh... Is someone in there?",
+        "Shall we go, then?",
+        "But the only place in the Cold Storage\nwe haven't searched is here, right?",
+        "What's wrong?\nAren't you going to check the inside?",
+        "When you walk through the containers,\nsome places are frozen, so you go{VAR BE00}\nsliding around!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

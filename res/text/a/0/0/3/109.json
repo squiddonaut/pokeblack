@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Do you think all people in the world can\nunderstand one another?",
+        "I see. I think so, too!",
+        "Well...but you and your Pokémon\nunderstand each other.{VAR BE01}\nIsn't that right?",
+        "This happened to me once after\nI crossed a bridge.{VAR BE01}\nWhen I was at a loss, the person who\nhelped me was a total stranger...{VAR BE01}\nAfter all, helping each other is\nimportant in life.",
+        "What is a strong mind?\nWhat is kindness?{VAR BE01}\nAre there any Trainers and Pokémon\nwho possess those qualities?",
+        "When I go to the Entralink next time,\nI'd like to register a Pass Power and{VAR BE00}\nmake everyone smile!",
+        "{VAR BE09 0002}People who visited the Entralink\nhid items somewhere...{VAR BE00}\nThe Entralink is unique, isn't it?{VAR BE09 0000}",
+        "I want other people to like me...\nThere is a reward...{VAR BE01}\nIt's OK to help people with\nsuch motivations.{VAR BE00}\nBecause helping is itself a great thing!",
+        "Living is using time given to you.\nYou cannot recall lost time.{VAR BE01}\nDon't forget that...",
+        "Happiness is here today, gone tomorrow.{VAR BE01}\nThere is no everlasting happiness, so\ndon't be greedy."
+    ],
+    "pad": "4a4a"
+}

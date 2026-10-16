@@ -1,0 +1,32 @@
+{
+    "flags": 224,
+    "entries": [
+        "Pansage, Pansear, and Panpour are\nPokémon that evolve with special stones!{VAR BE01}\nWhich Pokémon do you want to evolve?",
+        "Pansage...\nThen, it's a Leaf Stone you need.{VAR BE01}",
+        "Pansear...\nThen, it's a Fire Stone you need.{VAR BE01}",
+        "Panpour...\nThen, it's a Water Stone you need.{VAR BE01}",
+        "You might already know this, but I will\ngive you some advice!{VAR BE01}\nWhen a Pokémon evolves, it will be more\npowerful, but it will be slower to learn{VAR BE00}\na new move.{VAR BE01}\nThis is especially true for Pokémon that\nevolve with stones.{VAR BE01}\nSo, it's up to you: you can have it learn\na good move and then evolve it with{VAR BE00}\na stone, or evolve it with a stone fast{VAR BE00}\nand then have it learn a move with a TM!",
+        {
+            "text": "Pansage",
+            "flags": 219
+        },
+        {
+            "text": "Pansear",
+            "flags": 219
+        },
+        {
+            "text": "Panpour",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "All right, so it's Pansage?",
+        "All right, so it's Pansear?",
+        "All right, so it's Panpour?",
+        "Then, which Pokémon do you want\nto evolve...{VAR BE01}\nPansage, Pansear, or Panpour?",
+        "Yes, that's true.{VAR BE01}\nIt's difficult to choose one.\nWhen you decide, let me know!",
+        "Stick up your thumbs, and curl in\nyour fingers.{VAR BE01}\nThis is a thumbs-up pose. That means OK!\nIn some places, it also means money!"
+    ]
+}

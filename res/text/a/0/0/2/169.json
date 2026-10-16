@@ -1,0 +1,80 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR BD02} - SURVEY RADAR -",
+        {
+            "text": "{VAR BD02}You can poll the opinions\n{VAR BD02}of people near you.",
+            "flags": 238
+        },
+        {
+            "text": "{VAR BD02}SELECT A SURVEY",
+            "flags": 148
+        },
+        {
+            "text": "{VAR BD02}CHECK SURVEY RESULTS",
+            "flags": 148
+        },
+        "{VAR BD02} - THINGS TO FIND OUT -",
+        {
+            "text": "{VAR BD02}Choose from the items below\n{VAR BD02}to start the survey.",
+            "flags": 238
+        },
+        {
+            "text": "Do you want to ask \npeople about this item?",
+            "flags": 137
+        },
+        {
+            "text": "CONFIRM",
+            "flags": 62
+        },
+        {
+            "text": "CANCEL",
+            "flags": 62
+        },
+        {
+            "text": "{VAR BD02}The survey is starting.",
+            "flags": 230
+        },
+        {
+            "text": "{VAR BD02}The survey is\n{VAR BD02}not done yet.",
+            "flags": 83
+        },
+        {
+            "text": "{VAR BD02}Analyzing the results...",
+            "flags": 230
+        },
+        "{VAR BD02}- SURVEY REPORT -",
+        {
+            "text": "{VAR BD03 000A}No. {VAR 0201 0000}: {VAR 0113 0001}\n{VAR BD03 000A}{VAR 0204 0002} Ppl.\n{VAR BD03 000A}{VAR 0204 0003}%",
+            "flags": 132
+        },
+        {
+            "text": "{VAR BD03 000A}My answer is\n{VAR BD03 000A}{VAR 0113 0000}",
+            "flags": 102
+        },
+        {
+            "text": "{VAR BD03 000A}Total met today\n{VAR BD03 000A}{VAR 0203 0000} Ppl.",
+            "flags": 103
+        },
+        {
+            "text": "{VAR BD03 0008}Display Mode:\n{VAR BD03 0008}People from today",
+            "flags": 106
+        },
+        {
+            "text": "{VAR BD03 000A}Total number\n{VAR BD03 000A}{VAR 0205 0000} Ppl.",
+            "flags": 103
+        },
+        {
+            "text": "{VAR BD03 0008}Display Mode:\n{VAR BD03 0008}Total No. of people",
+            "flags": 106
+        },
+        {
+            "text": "{VAR BD04 0000}Updating\n{VAR BD04 0000}data...",
+            "flags": 160
+        },
+        {
+            "text": "{VAR BD02}Check the survey results",
+            "flags": 144
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_FLYING" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_POISON_BARB"
+        "rare": "ITEM_POISON_BARB",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_ONLY",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_PRESSURE", "ABILITY_NONE" ],
-    "unk_1A": 127,
+    "abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_NONE",
+        "ABILITY_UNNERVE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 166,
+    "base_exp_reward": 166,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SWEET_SCENT" ],
@@ -88,11 +91,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 12,
         "weight": 385
     },
-    "offspring": "SPECIES_COMBEE"
+    "offspring": "SPECIES_COMBEE",
+    "text": {
+        "70": "Vespiquen",
+        "235": "It releases various pheromones\nto make the grubs in its body do\nits bidding while fighting foes.",
+        "236": "It releases various pheromones\nto make the grubs in its body do\nits bidding while fighting foes.",
+        "244": "",
+        "245": "3'11\"",
+        "260": "Beehive Pokémon",
+        "268": "84.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Vespiquen",
+        "284": "VESPIQUEN"
+    }
 }

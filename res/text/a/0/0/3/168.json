@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "entries": [
+        "I've been carrying two Pokémon Fossils,\nbut they're just so heavy...{VAR BE01}\nWould you take one of them off my hands?",
+        "Oh, you like the Cover Fossil?{VAR BE01}\nI heard it is the Fossil of a Pokémon\nthat used to swim in the ancient sea!{VAR BE01}",
+        "Oh, you like the Plume Fossil?{VAR BE01}\nIt is the Fossil of a bird Pokémon\nthat lived in an ancient forest.{VAR BE00}\n...But they say it couldn't fly.{VAR BE01}",
+        "Oh, won't you please take one?\nThey're really weighing me down.",
+        "Oh, did you change your mind? Great!\nYou can have your choice of Fossils!",
+        "The museum in Nacrene City...{VAR BE01}\nI hear Pokémon can be restored from\nFossils there.{VAR BE01}\n'Cause Lenora loves bones and Fossils!",
+        {
+            "text": "Cover Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Plume Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Trainer! You still can't move ahead\n'cause there is so much sand!{VAR BE01}\nI will do my best to remove the sand.\nGive me a second!",
+        "Trainer! You still can't move ahead\n'cause there is so much sand!{VAR BE01}\nI will do my best to remove the sand.\nGive me a second!{VAR BE01}",
+        "There! The sand is cleared away, so now\nyou can proceed.",
+        "There are two things I've learned\nabout quicksand!{VAR BE01}\nIf you try to walk through the middle,\nyou'll fall.{VAR BE01}\nAnd if you try to run through it,\nyou'll fall."
+    ]
+}

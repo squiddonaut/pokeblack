@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR 0102 0000} seems to want to get out of\nthe Poké Ball!{VAR BE01}\nWill you let it out?",
+        "The Poké Ball has stopped moving...",
+        "{VAR 0102 0000} came jumping out!{VAR BE01}",
+        "Ooh! That Pokémon! It couldn't be...{VAR BE01}\nA bright red mane...and a lush tail...and\na single, noble horn!{VAR BE01}\nIt's exactly like the old legend!{VAR BE01}",
+        "Long ago, when a war between people\nstarted an intense fire in this forest,{VAR BE00}\na single young Pokémon was separated{VAR BE00}\nfrom its parents.{VAR BE01}\nCobalion, Terrakion, and Virizion\nteamed up to take care of this Pokémon.{VAR BE01}",
+        "The three acted as its parents and\ntaught it the knowledge and the moves{VAR BE00}\nit needed to survive...{VAR BE01}",
+        "The young Pokémon grew rapidly, and\ndeveloped a power that surpassed its{VAR BE00}\nthree caretakers.{VAR BE01}\nHowever... One day, that Pokémon\ndisappeared from the forest.{VAR BE01}\nNo one knows why. But when I think about\nit... Young ones are always reckless and{VAR BE00}\ndrawn to adventure...{VAR BE01}",
+        "It looks like they are all happy to see\none another again!{VAR BE01}\nI wonder if those three are trying to\nteach Keldeo something?{VAR BE01}",
+        "Cobalion, Terrakion, and Virizion are\ntrying to teach {VAR 0102 0000} the new move{VAR BE00}\nSecret Sword!{VAR BE01}\nTeach Secret Sword to {VAR 0102 0000}?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "If it weren't for you, these Pokémon\nnever would have been able to meet again{VAR BE00}\nhere in this forest that holds so many{VAR BE00}\nmemories for them.{VAR BE01}\nI'm sure they are very happy that they\nwere able to meet a Trainer like you.{VAR BE01}",
+        "It seems like it's looking for the three\nlegendary Pokémon that raised it:{VAR BE00}\nCobalion, Terrakion, and Virizion.{VAR BE01}\nMaybe something will happen if you bring\nthem here, too...{VAR BE01}",
+        "How you raise Keldeo is up to you...{VAR BE01}\nSometimes it's necessary to think about\nthings carefully rather than acting on{VAR BE00}\nthe spur of the moment.{VAR BE01}",
+        "For Keldeo and the three legendary\nPokémon of the Unova region--Cobalion,{VAR BE00}\nTerrakion, and Virizion--this forest{VAR BE00}\nhas a special meaning.{VAR BE01}\nIt seems like it would be best if you knew\nthis story, as well.{VAR BE01}\nWould you mind listening to an old man's\nstory for a moment?{VAR BE01}",
+        "When you want to teach Keldeo this move,\nyou must bring Cobalion, Terrakion,{VAR BE00}\nand Virizion.{VAR BE01}",
+        "A verdant forest and clear water... For\nPokémon, this forest is like a paradise.{VAR BE01}\nIt's also very important for people,\nso I want to take good care of it!",
+        "Would you like to teach Keldeo this\nmove again?",
+        "If you don't get to do something you\nwanted to do, it sure stays with you.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Deoxys is reacting to the meteor...{VAR BE01}\nWould you like to bring the Deoxys\nin your party closer to the meteor?",
+        "Which Deoxys would you like to\nbring closer to the meteor?{VAR BE01}",
+        "The Pokémon is not reacting\nto the meteor.",
+        "The Egg is not reacting\nto the meteor.",
+        "{VAR 0102 0000} has changed to\nhave balanced stats!",
+        "{VAR 0102 0000} has changed to\nhave superior stats for attacking!",
+        "{VAR 0102 0000} has changed to\nhave superior stats when defending!",
+        "{VAR 0102 0000} has changed\nto have increased Speed!",
+        "There is a meteor that fell from space..."
+    ]
+}

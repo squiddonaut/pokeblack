@@ -1,0 +1,261 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to the Global Terminal!{VAR BE01}",
+        "Would you like to use\nNintendo Wi-Fi Connection?",
+        "Please do visit again.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Right this way, please.{VAR BE01}",
+        "In the Global Terminal, you can battle or\ntrade Pokémon with Pokémon fans from{VAR BE00}\naround the world by connecting to{VAR BE00}\nNintendo Wi-Fi Connection.{VAR BE01}\nFor details, please listen to the\nexplanation at each facility.{VAR BE01}",
+        "Sorry, we're getting things ready.\nPlease come back later.",
+        "You have at least one Pokémon\nthat can't be taken in.",
+        "Communication error.",
+        {
+            "text": "Random Matchup",
+            "flags": 219
+        },
+        {
+            "text": "Global Trade",
+            "flags": 219
+        },
+        {
+            "text": "Musical Photos",
+            "flags": 219
+        },
+        {
+            "text": "Battle Videos",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Would you like to make a Global Trade?",
+        "You may trade Pokémon with other\nPokémon fans from around the world with{VAR BE00}\nGlobal Trade.{VAR BE01}\nGlobal Trade has two forms: GTS and\nGTS Negotiations.{VAR BE01}\nPlease be careful, because each has a\ndifferent way of trading.{VAR BE01}",
+        {
+            "text": "GTS",
+            "flags": 219
+        },
+        {
+            "text": "GTS Negotiations",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "Would you like to make a GTS trade?",
+        {
+            "text": "Trade",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "You may trade Pokémon in two ways when\nusing GTS.{VAR BE01}\nYou may offer a Pokémon for trade\nor search among offered Pokémon.{VAR BE01}",
+        "Should I describe things in\ngreater detail?",
+        "You will be asked to put up the\nPokémon you are offering to trade.{VAR BE01}\nAt that time, you will be asked what\nPokémon you would like in return.{VAR BE01}\nIf another player offers your desired\nPokémon in return for your offered{VAR BE00}\nPokémon, the trade will go through.{VAR BE01}",
+        "You may search among the Pokémon\nthat are offered by other Trainers.{VAR BE01}\nThey will all identify what Pokémon\ntheir Trainers want back in return.{VAR BE01}\nIf you find one that you want, you\nmust provide us with the kind of{VAR BE00}\nPokémon wanted in return.{VAR BE01}",
+        {
+            "text": "Offer Pokémon?",
+            "flags": 219
+        },
+        {
+            "text": "Seek Pokémon?",
+            "flags": 219
+        },
+        {
+            "text": "Understood",
+            "flags": 219
+        },
+        "Would you like to start\nPokémon GTS Negotiations?",
+        {
+            "text": "Start Negotiations",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "In GTS Negotiations, you set the trading\nconditions based on what kinds of{VAR BE00}\nPokémon you'd like to trade.{VAR BE01}\nIf you find a person with matching\nconditions, you may proceed to a{VAR BE00}\nNegotiation Trade with that person.{VAR BE01}\nIn order to trade, you need to have two\nor more Pokémon in your party.{VAR BE01}",
+        "Should I describe things in\ngreater detail?",
+        "In a Negotiation Trade, each person\noffers three Pokémon to trade.{VAR BE01}\nThen, each person will choose one of the\nother person's three Pokémon.{VAR BE01}",
+        "You can set three conditions in a\nNegotiation Trade: the level of Pokémon{VAR BE00}\nto trade, the Pokémon you want to{VAR BE00}\nreceive, and the Pokémon up for offer.{VAR BE01}\nYou may trade with a person whose\nconditions match yours, or choose{VAR BE00}\nTrade Rendezvous to try another trade{VAR BE00}\nwith a previous trading partner.{VAR BE01}",
+        {
+            "text": "Negotiation Trade?",
+            "flags": 219
+        },
+        {
+            "text": "Trading Conditions?",
+            "flags": 219
+        },
+        {
+            "text": "Understood",
+            "flags": 219
+        },
+        "Would you like to view or upload\nBattle Videos?",
+        "With Battle Videos, you may post a\nBattle Video you took with your{VAR BE00}\nVs. Recorder or view Battle Videos from{VAR BE00}\nother Trainers.{VAR BE01}\nYou may search the Battle Videos by\nPokémon, battle facility, ranking, etc.{VAR BE01}\nThe Battle Video you post will be assigned\na 12-digit code.{VAR BE01}\nYour friends may view your Battle Video\nby entering this 12-digit code here.{VAR BE01}",
+        {
+            "text": "View or upload",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "Would you like to view or upload\nMusical Photos?",
+        "With Musical Photos, you may post a photo\nyou took at the Pokémon Musical in{VAR BE00}\nNimbasa City by using the Vs. Recorder.{VAR BE01}\nYou may also view photos taken by other\npeople, sorted by the Pokémon you like.{VAR BE01}",
+        {
+            "text": "View or upload",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "Would you like to take the\nRandom Matchup challenge?",
+        {
+            "text": "Challenge",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "A Random Matchup is a battle with other\nPokémon fans from around the world.{VAR BE01}\nThere are five kinds of Random Matchups:\nSingle, Double, Triple, Rotation,{VAR BE00}\nand Launcher.{VAR BE01}\nAlso, Random Matchups have two modes:\nFree mode and Rating mode.{VAR BE01}\nIn Free mode, everyone can participate\nin battles freely.{VAR BE01}\nIn Rating mode, you may participate in\nbattles after you set Game Sync, access{VAR BE00}\nthe Pokémon Global Link website with your{VAR BE00}\ncomputer, and register your{VAR BE00}\nGame Sync ID.{VAR BE01}\nhttp://www.pokemon-gl.com/\n(Pokémon Global Link){VAR BE01}",
+        "Would you like to know more details?",
+        {
+            "text": "Free Mode",
+            "flags": 219
+        },
+        {
+            "text": "Rating Mode",
+            "flags": 219
+        },
+        {
+            "text": "Special Rules",
+            "flags": 219
+        },
+        {
+            "text": "Understood",
+            "flags": 219
+        },
+        "Free mode is for casual battles against\nother Pokémon fans around the world.{VAR BE01}\nFeel free to challenge it!{VAR BE01}",
+        "Rating mode is recommended for those who\nwant to master battles.{VAR BE01}\nWhen communication is established, you\nare likely to battle against a person with{VAR BE00}\na similar Rating.{VAR BE01}\nYour Rating starts at 1500. When you win,\nit goes up. When you lose, it goes down.{VAR BE01}\nSo the higher your Rating is, the\nstronger you are as a Trainer!{VAR BE01}\nThere's one thing you should be careful\nabout in Rating mode.{VAR BE01}\nYour record and Rating will be erased if\nyou connect to Nintendo Wi-Fi Connection{VAR BE00}\nwith a different DS System.{VAR BE01}\nSo please be careful if you switch!{VAR BE01}",
+        "There are several special rules\nfor Random Matchups.{VAR BE01}\nAny Pokémon higher than Lv. 50 will be\nset to that level for the battle.{VAR BE01}\nPokémon nicknames won't be used.{VAR BE01}\nYou have a limited time to choose Pokémon\nfor a battle and to give orders to your{VAR BE00}\nPokémon during the battle.{VAR BE01}\nDon't exceed the time limit,\nor your Pokémon and its moves{VAR BE00}\nwill be chosen for you!{VAR BE01}\nThere's also a time limit on the battle.{VAR BE01}\nThe winner will be determined when time\nruns out, even if both sides still have{VAR BE00}\nPokémon standing.{VAR BE01}",
+        "Which Battle would you like\nto choose?",
+        {
+            "text": "Single Battle",
+            "flags": 219
+        },
+        {
+            "text": "Double Battle",
+            "flags": 219
+        },
+        {
+            "text": "Triple Battle",
+            "flags": 219
+        },
+        {
+            "text": "Rotation Battle",
+            "flags": 219
+        },
+        {
+            "text": "Launcher Battle",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "Would you like to take the\nSingle Battle challenge?",
+        "Would you like to take the \nDouble Battle Challenge?",
+        "Would you like to take the \nTriple Battle Challenge?",
+        "Would you like to take the \nRotation Battle Challenge?",
+        "Would you like to take the \nLauncher Battle Challenge?",
+        {
+            "text": "Confirm",
+            "flags": 219
+        },
+        {
+            "text": "Rules",
+            "flags": 219
+        },
+        {
+            "text": "Back",
+            "flags": 219
+        },
+        "For a Single Battle, you need to have\nthree to six Pokémon.{VAR BE01}\nBefore a battle, you and your opponent\nshow your Pokémon to each other,{VAR BE00}\nthen choose three Pokémon and battle.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAlso, you can't take special Pokémon\nor Eggs into battle.{VAR BE01}",
+        "For a Double Battle, you need to have\nfour to six Pokémon.{VAR BE01}\nBefore a battle, you and your opponent\nshow your Pokémon to each other,{VAR BE00}\nthen choose four Pokémon and battle.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAlso, you can't take special Pokémon\nor Eggs into battle.{VAR BE01}",
+        "For a Triple Battle, you need to have\nsix Pokémon.{VAR BE01}\nBefore a battle, you and your opponent\nshow your Pokémon to each other,{VAR BE00}\nthen decide their order and battle.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAlso, you can't take special Pokémon\nor Eggs into battle.{VAR BE01}",
+        "In a Rotation Battle, you need to have\nfour to six Pokémon.{VAR BE01}\nBefore a battle, you and your opponent\nshow your Pokémon to each other,{VAR BE00}\nthen choose four Pokémon and battle.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAlso, you can't take special Pokémon\nor Eggs into battle.{VAR BE01}",
+        "In a Launcher Battle, you have a\nTriple Battle with your Wonder Launcher.{VAR BE00}\nYou need to have six Pokémon.{VAR BE01}\nBefore a battle, you and your opponent\nshow your Pokémon to each other,{VAR BE00}\nthen decide their order and battle.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAlso, you can't take special Pokémon\nor Eggs into battle.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Uh-oh!{VAR BE01}\nI'm sorry, but your party and all your\nPC Boxes are full.{VAR BE01}\nTo use the GTS, you must have\nroom in your party or in a PC Box.{VAR BE01}",
+        "Uh-oh!{VAR BE01}\nYou need at least two Pokémon in your\nparty to use the GTS.{VAR BE01}",
+        "Uh-oh!{VAR BE01}\nYou need at least two Pokémon in your\nparty to use GTS Negotiations.{VAR BE01}"
+    ]
+}

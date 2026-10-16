@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_ELECTRIC" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_COMPOUND_EYES", "ABILITY_UNNERVE" ],
-    "unk_1A": 68,
+    "abilities": [
+        "ABILITY_COMPOUND_EYES",
+        "ABILITY_UNNERVE",
+        "ABILITY_SWARM"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 64,
+    "base_exp_reward": 64,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_STRING_SHOT" ],
@@ -93,7 +96,7 @@
             "MOVE_FAINT_ATTACK"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -105,5 +108,16 @@
         "height": 1,
         "weight": 6
     },
-    "offspring": "SPECIES_JOLTIK"
+    "offspring": "SPECIES_JOLTIK",
+    "text": {
+        "70": "Joltik",
+        "235": "They attach themselves to large-bodied\nPokémon and absorb static electricity,\nwhich they store in an electric pouch.",
+        "236": "Joltik that live in cities have learned\na technique for sucking electricity\nfrom the outlets in houses.",
+        "244": "",
+        "245": "0'04\"",
+        "260": "Attaching Pokémon",
+        "268": "1.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Joltik",
+        "284": "JOLTIK"
+    }
 }

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_DAMP", "ABILITY_CLOUD_NINE" ],
-    "unk_1A": 33,
+    "abilities": [
+        "ABILITY_DAMP",
+        "ABILITY_CLOUD_NINE",
+        "ABILITY_SWIFT_SWIM"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 64,
+    "base_exp_reward": 64,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_WATER_SPORT" ],
@@ -107,7 +110,7 @@
             "MOVE_SYNCHRONOISE"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -119,5 +122,16 @@
         "height": 8,
         "weight": 196
     },
-    "offspring": "SPECIES_PSYDUCK"
+    "offspring": "SPECIES_PSYDUCK",
+    "text": {
+        "70": "Psyduck",
+        "235": "Overwhelmed by enigmatic abilities,\nit suffers a constant headache. It\nsometimes uses mysterious powers.",
+        "236": "Overwhelmed by enigmatic abilities,\nit suffers a constant headache. It\nsometimes uses mysterious powers.",
+        "244": "",
+        "245": "2'07\"",
+        "260": "Duck Pokémon",
+        "268": "43.2 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Psyduck",
+        "284": "PSYDUCK"
+    }
 }

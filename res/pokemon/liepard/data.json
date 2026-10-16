@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_DARK", "TYPE_DARK" ],
     "catch_rate": 90,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_LIMBER", "ABILITY_UNBURDEN" ],
-    "unk_1A": 158,
+    "abilities": [
+        "ABILITY_LIMBER",
+        "ABILITY_UNBURDEN",
+        "ABILITY_PRANKSTER"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
-    "unk_22": 156,
+    "base_exp_reward": 156,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
@@ -95,11 +98,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 11,
         "weight": 375
     },
-    "offspring": "SPECIES_PURRLOIN"
+    "offspring": "SPECIES_PURRLOIN",
+    "text": {
+        "70": "Liepard",
+        "235": "Stealthily, it sneaks up on its target,\nstriking from behind before its victim\nhas a chance to react.",
+        "236": "These Pokémon vanish and appear\nunexpectedly. Many Trainers are drawn\nto their beautiful form and fur.",
+        "244": "",
+        "245": "3'07\"",
+        "260": "Cruel Pokémon",
+        "268": "82.7 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Liepard",
+        "284": "LIEPARD"
+    }
 }

@@ -1,0 +1,577 @@
+{
+    "flags": 128,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        {
+            "text": "American Samoa",
+            "flags": 200
+        },
+        {
+            "text": "Andorra",
+            "flags": 200
+        },
+        "Angola",
+        {
+            "text": "Anguilla",
+            "flags": 200
+        },
+        "Antigua and Barbuda",
+        "Argentina",
+        {
+            "text": "Armenia",
+            "flags": 200
+        },
+        {
+            "text": "Aruba",
+            "flags": 200
+        },
+        "Australia",
+        "Austria",
+        {
+            "text": "Azerbaijan",
+            "flags": 200
+        },
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        {
+            "text": "Belarus",
+            "flags": 200
+        },
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        {
+            "text": "Bhutan",
+            "flags": 200
+        },
+        "Bolivia",
+        {
+            "text": "Bosnia and Herzegovina",
+            "flags": 200
+        },
+        "Botswana",
+        "Brazil",
+        "British Virgin Islands",
+        {
+            "text": "Brunei Darussalam",
+            "flags": 200
+        },
+        "Bulgaria",
+        {
+            "text": "Burkina Faso",
+            "flags": 200
+        },
+        "Burundi",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        {
+            "text": "Cape Verde",
+            "flags": 200
+        },
+        {
+            "text": "Cayman Islands",
+            "flags": 200
+        },
+        {
+            "text": "Central African Republic",
+            "flags": 200
+        },
+        "Chad",
+        {
+            "text": "Channel Islands",
+            "flags": 200
+        },
+        "Chile",
+        "China",
+        {
+            "text": "Christmas Island",
+            "flags": 200
+        },
+        "Colombia",
+        {
+            "text": "Comoros",
+            "flags": 200
+        },
+        "Congo",
+        "Cook Islands",
+        "Costa Rica",
+        {
+            "text": "Côte d'Ivoire",
+            "flags": 200
+        },
+        "Croatia",
+        {
+            "text": "Cuba",
+            "flags": 200
+        },
+        "Cyprus",
+        "Czech Republic",
+        {
+            "text": "North Korea",
+            "flags": 200
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "flags": 200
+        },
+        {
+            "text": "Timor-Leste",
+            "flags": 200
+        },
+        "Denmark",
+        {
+            "text": "Djibouti",
+            "flags": 200
+        },
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt",
+        "El Salvador",
+        {
+            "text": "Equatorial Guinea",
+            "flags": 200
+        },
+        {
+            "text": "Eritrea",
+            "flags": 200
+        },
+        {
+            "text": "Estonia",
+            "flags": 200
+        },
+        {
+            "text": "Ethiopia",
+            "flags": 200
+        },
+        {
+            "text": "Falkland Islands",
+            "flags": 200
+        },
+        {
+            "text": "Faroe Islands",
+            "flags": 200
+        },
+        "Fiji",
+        "Finland",
+        "France",
+        "French Guiana",
+        {
+            "text": "French Polynesia",
+            "flags": 200
+        },
+        "Gabon",
+        {
+            "text": "Gambia",
+            "flags": 200
+        },
+        {
+            "text": "Georgia",
+            "flags": 200
+        },
+        "Germany",
+        "Ghana",
+        "Gibraltar",
+        "Greece",
+        "Greenland",
+        "Grenada",
+        "Guadeloupe",
+        {
+            "text": "Guam",
+            "flags": 200
+        },
+        "Guatemala",
+        "Guinea",
+        {
+            "text": "Guinea-Bissau",
+            "flags": 200
+        },
+        "Guyana",
+        "Haiti",
+        "Honduras",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        {
+            "text": "Iran",
+            "flags": 200
+        },
+        "Iraq",
+        "Ireland",
+        {
+            "text": "Isle of Man",
+            "flags": 200
+        },
+        "Israel",
+        "Italy",
+        "Jamaica",
+        {
+            "text": "Jan Mayen Island",
+            "flags": 200
+        },
+        "Japan",
+        "Jordan",
+        {
+            "text": "Kashmir",
+            "flags": 200
+        },
+        {
+            "text": "Kazakhstan",
+            "flags": 200
+        },
+        "Kenya",
+        {
+            "text": "Kiribati",
+            "flags": 200
+        },
+        "Kuwait",
+        {
+            "text": "Kyrgyzstan",
+            "flags": 200
+        },
+        {
+            "text": "Laos",
+            "flags": 200
+        },
+        {
+            "text": "Latvia",
+            "flags": 200
+        },
+        "Lebanon",
+        {
+            "text": "Lesotho",
+            "flags": 200
+        },
+        "Liberia",
+        "Libya",
+        {
+            "text": "Liechtenstein",
+            "flags": 200
+        },
+        {
+            "text": "Lithuania",
+            "flags": 200
+        },
+        "Luxembourg",
+        {
+            "text": "Macedonia (FYROM)",
+            "flags": 200
+        },
+        {
+            "text": "Madagascar",
+            "flags": 200
+        },
+        {
+            "text": "Malawi",
+            "flags": 200
+        },
+        "Malaysia",
+        {
+            "text": "Maldives",
+            "flags": 200
+        },
+        {
+            "text": "Mali",
+            "flags": 200
+        },
+        "Malta",
+        {
+            "text": "Marshall Islands",
+            "flags": 200
+        },
+        "Martinique",
+        {
+            "text": "Mauritania",
+            "flags": 200
+        },
+        "Mauritius",
+        {
+            "text": "Mayotte",
+            "flags": 200
+        },
+        "Mexico",
+        {
+            "text": "Micronesia",
+            "flags": 200
+        },
+        {
+            "text": "Monaco",
+            "flags": 200
+        },
+        {
+            "text": "Mongolia",
+            "flags": 200
+        },
+        "Montenegro",
+        "Morocco",
+        {
+            "text": "Mozambique",
+            "flags": 200
+        },
+        "Myanmar",
+        {
+            "text": "Namibia",
+            "flags": 200
+        },
+        {
+            "text": "Nauru",
+            "flags": 200
+        },
+        {
+            "text": "Nepal",
+            "flags": 200
+        },
+        "Netherlands",
+        {
+            "text": "Netherlands Antilles",
+            "flags": 200
+        },
+        "New Caledonia",
+        "New Zealand",
+        "Nicaragua",
+        "Niger",
+        "Nigeria",
+        {
+            "text": "Niue",
+            "flags": 200
+        },
+        {
+            "text": "Norfolk Island",
+            "flags": 200
+        },
+        {
+            "text": "Northern Mariana Islands",
+            "flags": 200
+        },
+        "Norway",
+        "Oman",
+        "Pakistan",
+        {
+            "text": "Palau",
+            "flags": 200
+        },
+        {
+            "text": "Palestine",
+            "flags": 200
+        },
+        "Panama",
+        "Papua New Guinea",
+        {
+            "text": "Paraguay",
+            "flags": 200
+        },
+        "Peru",
+        "Philippines",
+        {
+            "text": "Pitcairn Islands",
+            "flags": 200
+        },
+        "Poland",
+        "Portugal",
+        {
+            "text": "Puerto Rico",
+            "flags": 200
+        },
+        {
+            "text": "Qatar",
+            "flags": 200
+        },
+        "South Korea",
+        {
+            "text": "Moldova",
+            "flags": 200
+        },
+        {
+            "text": "Réunion",
+            "flags": 200
+        },
+        "Romania",
+        "Russian Federation",
+        {
+            "text": "Rwanda",
+            "flags": 200
+        },
+        {
+            "text": "Saint Helena",
+            "flags": 200
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "flags": 200
+        },
+        {
+            "text": "Saint Lucia",
+            "flags": 200
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "flags": 200
+        },
+        {
+            "text": "Saint Pierre and Miquelon",
+            "flags": 200
+        },
+        "Samoa",
+        {
+            "text": "San Marino",
+            "flags": 200
+        },
+        {
+            "text": "Sao Tome and Principe",
+            "flags": 200
+        },
+        {
+            "text": "Saudi Arabia",
+            "flags": 200
+        },
+        "Senegal",
+        "Serbia",
+        {
+            "text": "Seychelles",
+            "flags": 200
+        },
+        "Sierra Leone",
+        "Singapore",
+        "Slovakia",
+        "Slovenia",
+        {
+            "text": "Solomon Islands",
+            "flags": 200
+        },
+        {
+            "text": "Somalia",
+            "flags": 200
+        },
+        "South Africa",
+        "Spain",
+        "Sri Lanka",
+        {
+            "text": "Sudan",
+            "flags": 200
+        },
+        "Suriname",
+        "Swaziland",
+        "Sweden",
+        "Switzerland",
+        {
+            "text": "Syria",
+            "flags": 200
+        },
+        "Taiwan",
+        {
+            "text": "Tajikistan",
+            "flags": 200
+        },
+        "Thailand",
+        "Togo",
+        {
+            "text": "Tokelau",
+            "flags": 200
+        },
+        {
+            "text": "Tonga",
+            "flags": 200
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "flags": 200
+        },
+        "Tunisia",
+        "Turkey",
+        {
+            "text": "Turkmenistan",
+            "flags": 200
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "flags": 200
+        },
+        {
+            "text": "Tuvalu",
+            "flags": 200
+        },
+        "Uganda",
+        {
+            "text": "Ukraine",
+            "flags": 200
+        },
+        "United Arab Emirates",
+        "United Kingdom",
+        "Tanzania",
+        "United States\nof America",
+        "United States\nVirgin Islands",
+        "Uruguay",
+        {
+            "text": "Uzbekistan",
+            "flags": 200
+        },
+        "Vanuatu",
+        {
+            "text": "Holy See (Vatican City State)",
+            "flags": 200
+        },
+        "Venezuela",
+        "Vietnam",
+        {
+            "text": "Wallis and Futuna",
+            "flags": 200
+        },
+        {
+            "text": "Western Sahara",
+            "flags": 200
+        },
+        {
+            "text": "Yemen",
+            "flags": 200
+        },
+        {
+            "text": "Zambia",
+            "flags": 200
+        },
+        {
+            "text": "Zimbabwe",
+            "flags": 200
+        },
+        {
+            "text": "Please select a floor.",
+            "flags": 158
+        },
+        {
+            "text": "Will you go to the\n{VAR 0124 0000} floor?",
+            "flags": 236
+        },
+        {
+            "text": "YES",
+            "flags": 86
+        },
+        {
+            "text": "NO",
+            "flags": 86
+        },
+        {
+            "text": "{VAR 0202 0002}F",
+            "flags": 26
+        },
+        "?",
+        {
+            "text": "You selected the current floor.{VAR BE01}",
+            "flags": 236
+        },
+        {
+            "text": "{VAR 0202 0002}F",
+            "flags": 26
+        }
+    ],
+    "pad": "6262"
+}

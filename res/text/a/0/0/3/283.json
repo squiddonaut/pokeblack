@@ -1,0 +1,30 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR 0100 0000} obtained {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!",
+        "{VAR 0100 0000} obtained the {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} obtained\n{VAR 0109 0001} {VAR 0107 0002}!",
+        "{VAR 0100 0000} found {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!",
+        "{VAR 0100 0000} found {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!",
+        "{VAR 0100 0000} found\n{VAR 0109 0001} {VAR 0107 0002}!",
+        "Too bad! There is no more room for\n{VAR 0109 0000}!{VAR BE01}",
+        "Too bad! There is no more room for\n{VAR 0109 0000}!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} put the {VAR 0109 0001} in the\n{VAR FF00 0002}{VAR 0112 0002}{VAR FF00 0000} Case.{VAR BE01}",
+        "{VAR 0100 0000} put the {VAR 0109 0001} in the\n{VAR FF00 0002}{VAR 0112 0002}{VAR FF00 0000} Case.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You find a note on the item.{VAR BE01}\n“Please make good use of this item on\nyour adventure! Sincerely, {VAR 0100 0003}\"{VAR BE01}\nIt looks like {VAR 0100 0003} hid the item.",
+        "Too bad! The Bag is full!\n{VAR 0100 0000} gave up the hidden item."
+    ],
+    "pad": "3232"
+}

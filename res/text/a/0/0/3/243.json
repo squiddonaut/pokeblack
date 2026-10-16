@@ -1,0 +1,63 @@
+{
+    "flags": 224,
+    "entries": [
+        "Do you want to go back to Castelia City?",
+        "We are just about to leave, so please\nget on board and wait a moment.{VAR BE01}",
+        "Just come talk to me when you want\nto return to Castelia City!",
+        "That Team Plasma...{VAR BE01}\nThey sure do terrible things!",
+        "The smell of the ocean is so soothing!",
+        "Waaah! I'm scared!",
+        "You sure took care of\nthose bad guys, mister!",
+        "You sure took care of\nthose bad guys, miss!",
+        "Making my grandchild cry!{VAR BE01}\nIf they are underestimating me because\nI'm old... Grrr!",
+        "Thank you very much for\nsaving my grandchild.",
+        "Shut your trap!{VAR BE01}\nIf you stay here quietly,\nwe won't be rough.",
+        "What do they hope to accomplish\nby occupying the island?{VAR BE00}\nWhat a sketchy group!",
+        "If I had known this island's secret\nearlier, I would've...{VAR BE01}\nWhat? No! Nothing!\nJust talking to myself!",
+        "What are they doing in this little\nmemorial park? There's nothing here{VAR BE00}\nbut an old lighthouse...",
+        "Too many people use Pokémon\nfor bad deeds!",
+        "This officer's Pokémon couldn't stand up\nto them!{VAR BE00}\nThat blasted Team Plasma!",
+        "I'm really glad a strong Trainer\nlike you is around!",
+        "Recently, I've been bored because\nthe number of tourists has decreased.",
+        {
+            "text": "Two hundred years ago, an ultra-rich\nfamily bought this island and named it{VAR BE00}\nLiberty Garden.{VAR BE01}\nIt's a place where people and Pokémon\ncould live freely.",
+            "flags": 207
+        },
+        {
+            "text": "Dock 2\nTo board the tour boat, go to Dock 1.",
+            "flags": 207
+        },
+        {
+            "text": "This lighthouse shines with the light\nof freedom.{VAR BE01}\nOnly authorized personnel may enter.",
+            "flags": 207
+        },
+        "My fellow officers rushed here by\npolice boat!{VAR BE01}\nThanks to them, we rounded up\nthese baddies!",
+        "How's that Pokémon doing?{VAR BE01}\nThe island sure has been quiet since\nthat incident.",
+        {
+            "text": "Team Plasma forever!",
+            "flags": 126
+        },
+        {
+            "text": "We won't give up!",
+            "flags": 126
+        },
+        {
+            "text": "You're irredeemable!",
+            "flags": 126
+        },
+        {
+            "text": "Get moving!",
+            "flags": 126
+        },
+        "Professor Juniper: Thanks to you,\n{VAR 0100 0000}, this group that was{VAR BE00}\nup to no good has been captured!{VAR BE01}",
+        "Victini is a mythical Pokémon that is said\nto radiate energy from its body...{VAR BE01}\nWhen Pokémon or people come into contact\nwith that energy, it fills up their bodies,{VAR BE00}\nand they exhibit more power than usual.{VAR BE01}\nThat's why there was no end to the\npeople who wanted to use Victini for{VAR BE00}\ntheir own evil ends...{VAR BE01}\nI'm sure the rich person who built this\nunderground room for Victini was{VAR BE00}\nsincerely trying to help it.{VAR BE01}\nBut I think shutting the poor thing up in\nthis room was a mistake.{VAR BE01}\nThanks to you, Victini has a new destiny\nthat does not involve being used in{VAR BE00}\nTeam Plasma's schemes.{VAR BE01}\nMaking sure no one misuses Victini's\npowers is now your duty!{VAR BE01}",
+        "Also...{VAR BE01}\nIn the Unova Pokédex, Victini was\nassigned a special number: zero.{VAR BE01}\nI've heard the special number was\nassigned in the hope that Victini's power{VAR BE00}\nto bring victory would be shared with the{VAR BE00}\nTrainer who travels with this Pokédex...{VAR BE01}",
+        "Professor Juniper!{VAR BE01}\nWe cornered the crooks with our\nhigh-speed police boat!{VAR BE01}\nWe will return to Castelia City!\nPlease come on board, too!{VAR BE01}",
+        "Professor Juniper: Thank you!\nI'll be right there!{VAR BE01}",
+        "I can't believe it when people are led\nastray by Pokémon's astounding abilities{VAR BE00}\nand try to misuse them...{VAR BE01}\nBut it's only when we face Pokémon with a\ngood heart that we can make a{VAR BE00}\nbrighter future!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

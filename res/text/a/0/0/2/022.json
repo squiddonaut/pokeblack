@@ -1,0 +1,24 @@
+{
+    "flags": 232,
+    "entries": [
+        "Turn on the C-Gear and\nestablish communications?",
+        "When communications are on, closing the\nsystem will put it into Sleep Mode if the \nbattery is low. Please watch the battery.",
+        "Will you turn C-Gear off to stop\ncommunications?",
+        {
+            "text": "{VAR FF00 0001}Warning!{VAR FF00 0000}\nPlease turn C-Gear off\nin places--such as airplanes\nand hospitals--where wireless\ncommunications are prohibited.",
+            "flags": 240
+        },
+        {
+            "text": "C-Gear cannot be turned on.\nWireless communications are turned OFF.\nTurn wireless communications ON in the\nSystem Settings.\nError code: 50699",
+            "flags": 240
+        },
+        {
+            "text": "YES",
+            "flags": 77
+        },
+        {
+            "text": "NO",
+            "flags": 77
+        }
+    ]
+}

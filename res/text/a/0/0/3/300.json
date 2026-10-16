@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "Ghetsis: Welcome,\nholder of the Dark Stone.{VAR BE01}",
+        "Ghetsis: Welcome,\nholder of the Light Stone.{VAR BE01}",
+        "The castle that appeared as if it were\nenveloping the Pokémon League{VAR BE00}\nis a symbol.{VAR BE00}\nIt means Unova will change.{VAR BE01}",
+        "The king of this castle is the strongest\nTrainer in the world.{VAR BE01}\nHe is accompanied by the\nlegendary Pokémon.{VAR BE01}\nHe has defeated the Champion.{VAR BE01}\nAdded to all that, his heart burns\nwith the desire to improve the world.{VAR BE01}\nIf that's not what makes a hero,\nwhat more do you need?{VAR BE01}",
+        "Now that the stage is set, we can\nseize people's minds and hearts.{VAR BE01}\nWe can bring into being the world\nthat I--no, that Team Plasma--desires{VAR BE00}\nmore easily than you can imagine!{VAR BE01}\nWe and only we will use Pokémon, and\nwe shall rule the powerless populace!{VAR BE01}",
+        "I've been waiting so long for this!{VAR BE01}\nI've kept my silence so no one\ncould piece together what I planned.{VAR BE00}\nNow, those painful days are at an end!{VAR BE01}",
+        "Go! Onward!{VAR BE01}",
+        "Discover whether you have what\nit takes to be a hero!{VAR BE01}",
+        "Ghetsis: Go!\nHolder of the Dark Stone!{VAR BE01}\nIn this room, you can learn whether\nyou, too, can be a hero!",
+        "Ghetsis: Go!\nHolder of the Light Stone!{VAR BE01}\nIn this room, you can learn whether\nyou, too, can be a hero!"
+    ]
+}

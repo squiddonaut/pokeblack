@@ -1,0 +1,174 @@
+{
+    "flags": 224,
+    "entries": [
+        "Er...\nWho was I again?{VAR BE01}\n...\n...{VAR BE01}\n...Oh, that's right!\nI am the Move Deleter!{VAR BE01}",
+        "You've come to make me force your\nPokémon to forget some moves?",
+        "Which Pokémon should forget a move?{VAR BE01}",
+        "Remember me if there are moves that\nneed to be forgotten.",
+        "That Pokémon knows only one move,\nso it can't be forgotten...{VAR BE01}",
+        "What? That's an Egg.\nNo Egg should know any moves.{VAR BE01}",
+        "OK, then.\nWhich move should be forgotten?{VAR BE01}",
+        "Hm! The move {VAR 0107 0000}?\nShould that move be forgotten?",
+        "It worked perfectly!{VAR BE01}\nYour Pokémon has forgotten the move\n{VAR 0107 0000} completely.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Which move should\n{VAR 0102 0000} remember?{VAR BE01}",
+        {
+            "text": "Should the move {VAR 0107 0001}\nbe remembered?",
+            "flags": 205
+        },
+        {
+            "text": "Give up trying to make \n{VAR 0102 0000} remember a move?",
+            "flags": 205
+        },
+        {
+            "text": "{VAR 0102 0000} remembered the move\n{VAR 0107 0001} it had forgotten!{VAR BE01}",
+            "flags": 205
+        },
+        {
+            "text": "{VAR 0102 0000} wants to remember\nthe move {VAR 0107 0001}.{VAR BE01}\nBut {VAR 0102 0000} can't learn more\nthan four moves.{VAR BE01}\nDelete an existing move to make \nroom for {VAR 0107 0001}?",
+            "flags": 205
+        },
+        {
+            "text": "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0005}{VAR BE01}\n{VAR BE01}\n{VAR 0102 0000} forgot how to\nuse {VAR 0107 0001}.{VAR BE01}\nAnd...{VAR BE01}",
+            "flags": 205
+        },
+        {
+            "text": "{VAR 0102 0000} remembered the move\n{VAR 0107 0001} it had forgotten!{VAR BE01}",
+            "flags": 205
+        },
+        {
+            "text": "Give up on making the Pokémon\nremember {VAR 0107 0001}?",
+            "flags": 205
+        },
+        {
+            "text": "{VAR 0102 0000} did not remember the\nmove {VAR 0107 0001}.{VAR BE01}",
+            "flags": 205
+        },
+        "{VAR 0100 0000} handed over one\nHeart Scale in exchange.",
+        {
+            "text": "Is it OK to forget the\nmove {VAR 0107 0000}?",
+            "flags": 205
+        },
+        "Everybody calls me the reminder girl.{VAR BE01}\nI know every move that Pokémon learn\nwhile they're leveling up.{VAR BE01}\nAnd I can make Pokémon remember\nthose moves!{VAR BE01}\nIf you bring me a Heart Scale, I'll make\na Pokémon remember a move.{VAR BE01}",
+        "Should a move be remembered?",
+        "Which Pokémon should learn it?{VAR BE01}",
+        "If any of your Pokémon needs to\nremember a move, bring me a Heart Scale!",
+        "Eggs can't remember moves!",
+        "This Pokémon hasn't forgotten\nany moves.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "POWER",
+            "flags": 44
+        },
+        {
+            "text": "ACCURACY",
+            "flags": 60
+        },
+        {
+            "text": "PP",
+            "flags": 21
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "---",
+            "flags": 24
+        },
+        {
+            "text": "QUIT",
+            "flags": 41
+        },
+        {
+            "text": "TEACH",
+            "flags": 54
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 72
+        },
+        {
+            "text": "Lv. {VAR 0202 0000}",
+            "flags": 45
+        },
+        {
+            "text": "LEARNED MOVES",
+            "flags": 160
+        }
+    ]
+}

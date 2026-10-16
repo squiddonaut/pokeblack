@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Bianca: Heeey, {VAR 0100 0000}!{VAR BE01}\nYou remember the promise you\nmade on the Xtransceiver, right?{VAR BE01}\nSo, let's get right to our\nPokémon battle!{VAR BE01}",
+        "Bianca: Hello, {VAR 0100 0000}!{VAR BE01}\nYou remember the promise you\nmade on the Xtransceiver, right?{VAR BE01}\nSo, let's get right to our\nPokémon battle!{VAR BE01}",
+        "But, before that...{VAR BE01}",
+        "They said we can have a Pokémon battle\nin the gate as long as we're careful not{VAR BE00}\nto break the electric bulletin board.{VAR BE01}\nI'm the new-and-improved version of me!\nIt's gonna go great this time!{VAR BE01}\nLet's start up our Pokémon battle again!{VAR BE01}",
+        "Bianca: I'll never be a strong Trainer\nlike you or Cheren or Iris, but...{VAR BE01}\nYou know, since we left Nuvema Town,\nI've met a lot of people and I've been{VAR BE00}\nthinking about what I want to do in life!{VAR BE01}\nWhen you look at it that way, Pokémon\nhave given me a lot of new experiences.{VAR BE01}",
+        "Having my Pokémon stolen was just\nreally hard, and I felt really unsure...{VAR BE01}\nStill, I gotta say I'm really glad I went!{VAR BE01}\nI've learned so much on this journey.\nAnd I also learned that being with{VAR BE00}\nPokémon is really, really important!{VAR BE01}\nOK, well, I hope to see you again soon!\nBye-bye, {VAR 0100 0000}!{VAR BE01}",
+        "Maybe I should try to find a\nPokémon on Route 4 to catch!",
+        "Route 4 is long!\nBe careful if you plan to follow it!",
+        "Nimbasa City is at the end\nof Route 4."
+    ]
+}

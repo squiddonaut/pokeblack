@@ -1,0 +1,121 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "GAME SYNC",
+            "flags": 89
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Would you like to save the game?",
+            "flags": 240
+        },
+        {
+            "text": "YES",
+            "flags": 85
+        },
+        {
+            "text": "NO",
+            "flags": 85
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "Do you want to choose the\nNintendo Wi-Fi Connection settings?",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon has been tucked in.\nDon't turn off the power...",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Is it OK to wake up this Pokémon?",
+        {
+            "text": "The Pokémon is being woken up...\nDon't turn off the power.",
+            "flags": 225
+        },
+        "{VAR 0102 0000} has woken up!",
+        {
+            "text": "Please wait a moment...",
+            "flags": 225
+        },
+        "{VAR 0102 0000} fell\nasleep. It's sleeping soundly!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Game Sync has run out of energy.\nIt will take one day to recharge it.",
+        "This Pokémon is not dreaming yet.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "There are no Pokémon in your PC that can\nbe sent to the Pokémon Dream World.",
+        "This Pokémon is dreaming.",
+        {
+            "text": "You haven't yet received the\nDream Remnants from last time.{VAR BE01}\nYou'll lose it if you wake this Pokémon up\nto receive new Dream Remnants.{VAR BE01}\nIs it OK to wake up this Pokémon?",
+            "flags": 229
+        },
+        "{VAR 0102 0000} has gained\n{VAR 0201 0001} level(s).",
+        "C-Gear skin has changed.\nMusical show has changed.\nPokédex skin has changed.",
+        "C-Gear skin has changed.",
+        "Musical show has changed.",
+        "Pokédex skin has changed.",
+        "C-Gear skin has changed.\nMusical show has changed.",
+        "Musical show has changed.\nPokédex skin has changed.",
+        "C-Gear skin has changed.\nPokédex skin has changed.",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13201",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13202",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nplease refer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13203",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13204",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13205",
+        "This service has been discontinued.\n\nError Code: 13206",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13207",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13208",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13209",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13210",
+        "The server is experiencing high\ntraffic volumes.\nUnable to connect.\nPlease wait a little while and try again.\n\nError Code: 13211",
+        "The server is undergoing maintenance.\nYou can review the details at the\nPokémon Global Link website.\nhttp://www.pokemon-gl.com\n\nError Code: 13212",
+        {
+            "text": "You can let your Pokémon play\nin the Pokémon Dream World on the Internet.",
+            "flags": 240
+        },
+        {
+            "text": "You must set up\nthe Game Sync settings\nto play Pokémon Dream World.",
+            "flags": 240
+        },
+        {
+            "text": "Please read the Instruction Booklet\nfor details about Game Sync settings.",
+            "flags": 240
+        },
+        "{VAR 0102 0000} has woken up!",
+        {
+            "text": "There is already a saved game file.\nIt is impossible to save.{VAR BE01}\nPlease refer to the Instruction\nBooklet for details.{VAR BE01}\nPress Up + SELECT + B Button\non the title screen to erase{VAR BE00}\nthe current saved game file.",
+            "flags": 229
+        },
+        {
+            "text": "Your Game Sync ID has been issued.\n\nYou can check your Game Sync ID\nin Game Sync Settings on the main menu.",
+            "flags": 229
+        },
+        {
+            "text": "Access the Pokémon Global Link website\nat http://www.pokemon-gl.com/\nand complete the setup\nto use all features of Game Sync.\n\nRead the Instruction Booklet\nfor complete details.",
+            "flags": 229
+        },
+        {
+            "text": "Your PC is full!{VAR BE01}\nYou must have one empty place\navailable to wake up the Pokémon.",
+            "flags": 229
+        }
+    ]
+}

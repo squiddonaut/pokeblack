@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am the Feeling Reader.{VAR BE01}\nI've heard a lot of people take\nFeeling Checks using the C-Gear.",
+        "I am the Feeling Reader.{VAR BE01}\nFrom the results of your Feeling Checks,\nI'll tell you your lucky person{VAR BE00}\nfor today!{VAR BE01}\nAre you interested?\nDo you want to know your lucky person?",
+        "The person who can make your day\nexceptionally happy...{VAR BE01}\nIt's {VAR 0100 0000}!",
+        "Oh, you don't have to hesitate.\nI will read it for free!",
+        "The person who can make your day\nexceptionally happy is...{VAR BE01}\nOh dear. You've taken a Feeling Check\nonly with {VAR 0100 0000}.{VAR BE01}\nI suggest that you take Feeling Checks\nwith a lot of people!",
+        "You can't change the name of a Pokémon\nyou got from someone.{VAR BE01}\nBecause the name contains wishes\nof the person who named it!",
+        "Gesundheit: Gyu gyu?",
+        "By taking a Feeling Check, you can get\na Sweet Heart. That's a good item, right?"
+    ]
+}

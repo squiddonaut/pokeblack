@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_GRASS" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_NO_GENDER",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 6,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 182,
+    "base_exp_reward": 182,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TRICK" ],
@@ -83,7 +86,7 @@
             "TM90"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 3,

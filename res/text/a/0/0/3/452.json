@@ -1,0 +1,22 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "Hello, boy!{VAR BE01}\nDo you have a villa in Undella?\nYou are rich!{VAR BE01}\nAs a token of our new acquaintance,\nplease accept this!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Hello, girl!{VAR BE01}\nDo you have a villa in Undella?\nYou are rich!{VAR BE01}\nAs a token of our new acquaintance,\nplease accept this!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Isn't the Prism Scale beautiful?\nIt may be good to let a Pokémon hold it.",
+            "flags": 224
+        },
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

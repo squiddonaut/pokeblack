@@ -1,0 +1,116 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Is there anything you'd like to know\nabout the Entralink?",
+        "If there is anything you don't\nunderstand, you may ask the girls, too.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Entralink is a mysterious place to\nconnect with someone's world.{VAR BE01}\nIf you cross a bridge in the Entralink,\nyou will be able to go to someone's world.{VAR BE01}\nThere, you should be able to help the\nadventurer in that world.{VAR BE01}",
+        "The power stored in this tree is called\nPass Power.{VAR BE01}\nYou can register only one Pass Power in\nyour C-Gear. You use it by aiming at{VAR BE00}\npeople you pass by with the{VAR BE00}\nTag Log.{VAR BE01}\nBut you need a Pass Orb to use\nPass Power.{VAR BE01}\nCarry out a mission in someone else's\nworld and collect Pass Orbs.{VAR BE01}",
+        {
+            "text": "Entralink",
+            "flags": 219
+        },
+        {
+            "text": "Pass Power",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Oh, someone showed up...\nWelcome to the Entralink.{VAR BE01}\nHm?{VAR BE01}\nJudging by the look of you, you don't\nseem to know where you are.{VAR BE01}",
+        "This is an island called the Entralink.\nIt's located in the center of the{VAR BE00}\nUnova region.{VAR BE01}\nThe Entralink is a mysterious place where\nyou can connect with someone's world.{VAR BE01}\nIf you go to someone's world by passing\nthrough this island, you will be able to{VAR BE00}\nmeet an adventurer in the world.{VAR BE01}",
+        "And you can help that adventurer.{VAR BE01}\nYes! If you want to help, cross a bridge\nin this island and go to someone's world.{VAR BE01}\nThere must be someone who is waiting\nfor you there!",
+        "This bridge will connect to someone\nelse's world.{VAR BE01}",
+        "Is there anything you'd like to know\nabout a connection at a bridge?",
+        "When you are on a bridge, a search will\nstart to find a person to connect with.{VAR BE01}\nIf the bridge connects, you will be able\nto cross into that person's world.{VAR BE01}",
+        "This bridge will connect to the world of a\nperson who is having an adventurous{VAR BE00}\njourney in a town or on a road{VAR BE00}\naround the Entralink.{VAR BE01}\nIf you cross the bridge, you will be able\nto help with that person's adventure.{VAR BE01}",
+        "Now, please go to the bridge.{VAR BE01}\nIf it connects to someone else's world,\nyou'll be able to cross.",
+        {
+            "text": "How to connect",
+            "flags": 219
+        },
+        {
+            "text": "Connecting with someone",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "This bridge will connect to someone\nelse's world.{VAR BE01}",
+        "Is there anything you'd like to know\nabout a connection at a bridge?",
+        "When you are on a bridge, a search will\nstart to find a person to connect with.{VAR BE01}\nIf the bridge connects, you will be able\nto cross into that person's world.{VAR BE01}",
+        "This bridge will connect to the world of a\nperson who is having an adventurous{VAR BE00}\njourney in a town or on a road{VAR BE00}\naround the Entralink.{VAR BE01}\nIf you cross the bridge, you will be able\nto help with that person's adventure.{VAR BE01}",
+        "Now, please go to the bridge.{VAR BE01}\nIf it connects to someone else's world,\nyou'll be able to cross.",
+        {
+            "text": "How to connect",
+            "flags": 219
+        },
+        {
+            "text": "Connecting with someone",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "The Entree Forest connects dreams\nand reality.{VAR BE01}\nPeople say dreams come true here.{VAR BE01}",
+        "Is there anything you'd like to know\nabout the Entree Forest?",
+        "The Entree Forest is a place where\ndreams come true.{VAR BE01}\nWhen a dreaming Pokémon wakes up in\nGame Sync, its dream will come true in{VAR BE00}\nthis forest.{VAR BE01}",
+        "Pokémon that your Pokémon met in its\ndream will show up in the Entralink{VAR BE00}\nin a Forest Clearing.{VAR BE01}\nPokémon in a Forest Clearing will be\nyour friends for sure!{VAR BE01}\nIf you move the Pokémon to the Deepest\nClearing, they will wait for you there.{VAR BE01}",
+        "When your Pokémon wakes up from a\ndream, please come to this forest.",
+        {
+            "text": "Entree Forest",
+            "flags": 219
+        },
+        {
+            "text": "Forest Clearing and Deepest Clearing",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "You can go back to the original world\nfrom this place.{VAR BE01}\nIf you want to go back to the original\nworld, please come back here.",
+        "Welcome to someone else's world.{VAR BE01}\nHere, you can help the adventurer in\nthis world.{VAR BE01}\nNow, touch this tree to receive\na mission.{VAR BE01}",
+        "Is there anything you'd like to know?",
+        "Now, receive a mission and\nhelp the adventurer.",
+        "To help the adventurer traveling in this\nworld, touch this tree and receive{VAR BE00}\na mission.{VAR BE01}",
+        "A mission is a means to help the\nadventurer in this world.{VAR BE01}\nIf you check this tree, you can receive\na mission.{VAR BE01}\nNow, receive a mission and go find\nthe adventurer.{VAR BE01}",
+        "In this world, you can travel by warping\naround, because this world is made of{VAR BE00}\nyour dream.{VAR BE01}\nIf you imagine a place, you can\nwarp there.{VAR BE01}\nNow, receive a mission and go find\nthe adventurer.{VAR BE01}",
+        {
+            "text": "Mission",
+            "flags": 219
+        },
+        {
+            "text": "Warp",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "First, cross a bridge in the Entralink,\nand go to someone's world.{VAR BE01}\nThere must be someone who is waiting\nfor you there.",
+        "You've chosen a mission!\nIn order to accomplish the mission,{VAR BE00}\ngo find the adventurer!{VAR BE01}\nThe adventurer's location is shown on\nthe map below.{VAR BE01}\nTouch the place on the map and you can\nwarp there.{VAR BE01}\nRely on the map, meet the adventurer,\nand accomplish the mission!",
+        "Wonderful! You accomplished the mission!\nI didn't expect you to make it this far...{VAR BE01}\nYour success brought happiness to the\nEntralink, and the tree grew a little bit.{VAR BE01}\nMysterious power will gather here as this\ntree grows bigger.{VAR BE01}\nYou may be able to receive this power!{VAR BE01}\nTouch this tree and try to receive the\nmysterious power...{VAR BE00}\nPass Power.",
+        "Oh, it seems you've failed in the mission.\nWell, nobody's perfect.{VAR BE01}\nPlease cross the bridge and try it again!{VAR BE01}\nThe tip is to look at the map closely and\nfind the adventurer.",
+        "Oooooh! You've received a Pass Power!\nIt's wonderful! Really wonderful!{VAR BE01}\nPass Power can help people who\npassed by.{VAR BE01}\nCheck the Tag Log in your\nC-Gear later.{VAR BE01}\n...Well, that's really all I can\nteach you.{VAR BE01}\nThe power of this Entralink is all yours.{VAR BE01}\nHelp a lot of adventurers via the\nEntralink, and collect a lot of happiness.{VAR BE01}\nCollect a lot of happiness, and get\nall the powers!"
+    ],
+    "pad": "c4c4"
+}

@@ -1,0 +1,551 @@
+{
+    "flags": 213,
+    "entries": [
+        {
+            "text": "CONFIRM",
+            "flags": 62
+        },
+        {
+            "text": "CANCEL",
+            "flags": 48
+        },
+        {
+            "text": "L{VAR 0202 0000}",
+            "flags": 44
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 64
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 26
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 26
+        },
+        {
+            "text": "/",
+            "flags": 8
+        },
+        {
+            "text": "⑭",
+            "flags": 11
+        },
+        {
+            "text": "⑮",
+            "flags": 11
+        },
+        {
+            "text": "Choose a Pokémon.",
+            "flags": 167
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Move to where?",
+            "flags": 167
+        },
+        {
+            "text": "Give to which Pokémon?",
+            "flags": 167
+        },
+        {
+            "text": "Use on which Pokémon?",
+            "flags": 167
+        },
+        {
+            "text": "Teach which Pokémon?",
+            "flags": 167
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Deposit which Pokémon?",
+            "flags": 167
+        },
+        {
+            "text": "Use on which Pokémon?",
+            "flags": 167
+        },
+        {
+            "text": "Do what with\n{VAR 0102 0000}?",
+            "flags": 111
+        },
+        {
+            "text": "Do what with\nan item?",
+            "flags": 111
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Restore\nwhich move?",
+            "flags": 111
+        },
+        {
+            "text": "Boost the PP\nof which move?",
+            "flags": 111
+        },
+        {
+            "text": "Send the removed Mail to\nyour PC?",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Mail was sent to your PC.",
+        {
+            "text": "If the Mail is removed, its written\nmessage will be lost. Is that OK?",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Your PC's Mailbox is full.",
+        "Mail was taken from the\nPokémon.",
+        "{VAR 0102 0000} wants to learn the\nmove {VAR 0107 0001}.{VAR BE01}\nHowever, {VAR 0102 0000} already\nknows four moves.{VAR BE01}\nShould a move be deleted and\nreplaced with {VAR 0107 0001}?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Give up on learning the move\n{VAR 0107 0001}?",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} did not learn\n{VAR 0107 0001}.",
+        "Which move should\nbe forgotten?",
+        "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n{VAR 0102 0000} forgot how to\nuse {VAR 0107 0001}.{VAR BE01}\nAnd...",
+        "{VAR 0102 0000} learned\n{VAR 0107 0001}!{VAR BE05 0002}{VAR BE05 0005}",
+        "{VAR 0102 0000} and {VAR 0107 0001}\nare not compatible.{VAR BE01}\n{VAR 0107 0001} can't be learned.",
+        "{VAR 0102 0000} already knows\n{VAR 0107 0001}.",
+        "{VAR 0102 0000}'s HP was restored\nby {VAR 0202 0001} point(s).",
+        "{VAR 0102 0000} was cured of its\npoisoning.",
+        "{VAR 0102 0000} was cured of\nparalysis.",
+        "{VAR 0102 0000}'s burn was healed.",
+        "{VAR 0102 0000} was thawed out.",
+        "PP was restored.",
+        "{VAR 0102 0000} recovered from\nfainting!",
+        "{VAR 0102 0000} became healthy.",
+        "{VAR 0107 0000}'s PP\nincreased.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000}'s base {VAR 010D 0001}\nrose!",
+        "This can't be used until a new\nBadge is obtained.",
+        "Must remove Mail before the\nPokémon is allowed to hold an item.",
+        "{VAR 0102 0000} is already holding\n{VAR 0109 0001}.{VAR BE01}\nWould you like to switch the\ntwo items?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} isn't holding\nanything.",
+        "Received the {VAR 0109 0001}\nfrom {VAR 0102 0000}.",
+        "The Bag is full.",
+        "The {VAR 0109 0001} was taken and\nreplaced with the {VAR 0109 0002}.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} woke up.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You're already surfing.",
+        "You can't use that here.",
+        "It won't have any effect.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} became more friendly.{VAR BE01}\nHowever, its base {VAR 010D 0001} fell!",
+        "{VAR 0102 0000} adores you!{VAR BE01}\nIts base {VAR 010D 0001} fell!",
+        "{VAR 0102 0000} became more friendly.{VAR BE01}\nIts base {VAR 010D 0001} can't go lower.",
+        "{VAR 0102 0000} was given the\n{VAR 0109 0001} to hold.",
+        "Choose a Pokémon.",
+        "Two Pokémon are needed.",
+        "Three Pokémon are needed.",
+        "Four Pokémon are needed.",
+        "Five Pokémon are needed.",
+        "Six Pokémon are needed.",
+        "No more than one Pokémon\nmay enter.",
+        "No more than two Pokémon\nmay enter.",
+        "No more than three Pokémon\nmay enter.",
+        "No more than four Pokémon\nmay enter.",
+        "No more than five Pokémon\nmay enter.",
+        "Mail was transferred from\nthe Mailbox.",
+        "This Pokémon is holding an item.\nIt cannot hold Mail.",
+        "This can't be used on\nthat Pokémon.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Not enough HP...",
+        {
+            "text": "SWITCH",
+            "flags": 86
+        },
+        {
+            "text": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "text": "ITEM",
+            "flags": 86
+        },
+        {
+            "text": "MAIL",
+            "flags": 86
+        },
+        {
+            "text": "READ",
+            "flags": 86
+        },
+        {
+            "text": "TAKE",
+            "flags": 86
+        },
+        {
+            "text": "STORE",
+            "flags": 86
+        },
+        {
+            "text": "QUIT",
+            "flags": 72
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "ENTER",
+            "flags": 86
+        },
+        {
+            "text": "NO ENTRY",
+            "flags": 86
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "GIVE",
+            "flags": 86
+        },
+        {
+            "text": "TAKE",
+            "flags": 86
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "NOT ENTERED",
+            "flags": 72
+        },
+        {
+            "text": "BANNED",
+            "flags": 72
+        },
+        {
+            "text": "FIRST",
+            "flags": 72
+        },
+        {
+            "text": "SECOND",
+            "flags": 72
+        },
+        {
+            "text": "THIRD",
+            "flags": 72
+        },
+        {
+            "text": "FOURTH",
+            "flags": 72
+        },
+        {
+            "text": "FIFTH",
+            "flags": 72
+        },
+        {
+            "text": "SIXTH",
+            "flags": 72
+        },
+        {
+            "text": "ABLE!",
+            "flags": 88
+        },
+        {
+            "text": "UNABLE!",
+            "flags": 88
+        },
+        {
+            "text": "LEARNED",
+            "flags": 88
+        },
+        {
+            "text": "ABLE!",
+            "flags": 72
+        },
+        {
+            "text": "UNABLE!",
+            "flags": 72
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Identical Pokémon are not permitted.\n",
+        "Some Pokémon are holding identical\nitems.",
+        "The total of all party members'\nlevels has gone over {VAR 0202 0000}.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Pokémon which must participate\nis not selected.",
+        {
+            "text": "MAX HP",
+            "flags": 63
+        },
+        {
+            "text": "ATTACK",
+            "flags": 63
+        },
+        {
+            "text": "DEFENSE",
+            "flags": 63
+        },
+        {
+            "text": "SP. ATK",
+            "flags": 63
+        },
+        {
+            "text": "SP. DEF",
+            "flags": 63
+        },
+        {
+            "text": "SPEED",
+            "flags": 63
+        },
+        {
+            "text": "+",
+            "flags": 8
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        "{VAR 0102 0000} was elevated to\nLv. {VAR 0202 0001}!{VAR BE05 0002}{VAR BE05 0005}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You can't use that when you have\nsomeone with you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "What will you do\nwith the Egg?",
+            "flags": 111
+        },
+        {
+            "text": "Please select an Egg.",
+            "flags": 167
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "CONFIRM",
+            "flags": 86
+        },
+        "{VAR 0101 0000} changed Forme!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0100 0000} is standing by...",
+            "flags": 159
+        },
+        {
+            "text": "One person standing by...",
+            "flags": 159
+        },
+        {
+            "text": "Two people standing by...",
+            "flags": 159
+        },
+        {
+            "text": "Three people standing by...",
+            "flags": 159
+        },
+        {
+            "text": "Time Limit",
+            "flags": 80
+        },
+        {
+            "text": "{VAR 0201 0000}:{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "text": "Communicating. Please wait.",
+            "flags": 152
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        "You used your last {VAR 0109 0000}."
+    ]
+}

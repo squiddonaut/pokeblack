@@ -1,0 +1,1146 @@
+{
+    "flags": 223,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Welcome to Mystery Gift!",
+            "flags": 240
+        },
+        {
+            "text": "RECEIVE GIFT",
+            "flags": 176
+        },
+        {
+            "text": "CHECK THE CARD ALBUM",
+            "flags": 176
+        },
+        {
+            "text": "QUIT",
+            "flags": 40
+        },
+        {
+            "text": "The communication channel must be opened\nto receive Mystery Gifts.{VAR BE00}\nIs that OK?",
+            "flags": 230
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Please choose how you want to\nreceive your gift.",
+            "flags": 240
+        },
+        {
+            "text": "GET VIA WIRELESS",
+            "flags": 176
+        },
+        {
+            "text": "GET VIA NINTENDO WFC",
+            "flags": 176
+        },
+        {
+            "text": "GET VIA INFRARED",
+            "flags": 176
+        },
+        {
+            "text": "BACK",
+            "flags": 40
+        },
+        {
+            "text": "Please choose how you want to\nreceive your gift.",
+            "flags": 240
+        },
+        {
+            "text": "Please throw away one card you no longer\nneed to keep.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "You must throw away one card\nto receive a Mystery Gift.{VAR BE00}\nIs that OK?",
+            "flags": 230
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "DS Wireless Communications will\nbe launched.",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Connect to Nintendo Wi-Fi Connection?",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Infrared Communications will\nbe launched.{VAR BE01}\nPlease point your Nintendo Game Card\nat the other person's Game Card{VAR BE00}\nand press the A Button.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Searching for a gift.\nPlease wait...",
+            "flags": 230
+        },
+        {
+            "text": "Choose the gift you want to receive.",
+            "flags": 240
+        },
+        {
+            "text": "Cancel receiving this gift?",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Receive this gift?",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Receiving your gift.\nDon't turn off the power.",
+            "flags": 224
+        },
+        {
+            "text": "The gift has been received!{VAR BE01}\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "Saving your Card Album...\nDon't turn off the power.",
+            "flags": 224
+        },
+        {
+            "text": "What would you like to do with this\nWonder Card?",
+            "flags": 240
+        },
+        {
+            "text": "Swap",
+            "flags": 83
+        },
+        {
+            "text": "Trash",
+            "flags": 83
+        },
+        {
+            "text": "Back",
+            "flags": 83
+        },
+        {
+            "text": "This card cannot be thrown away because\nyou have not received the gift yet.{VAR BE01}\nPlease pick up the gift from the\ndeliveryman in any Pokémon Center.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "The card has been thrown away.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "Please select a card to swap with.",
+            "flags": 240
+        },
+        {
+            "text": "Is it OK to throw away this card?",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "What would you like to know about?",
+            "flags": 240
+        },
+        {
+            "text": "ABOUT MYSTERY GIFT",
+            "flags": 176
+        },
+        {
+            "text": "ABOUT THE CARD ALBUM",
+            "flags": 176
+        },
+        {
+            "text": "WHEN THE ALBUM IS FULL",
+            "flags": 176
+        },
+        {
+            "text": "BACK",
+            "flags": 40
+        },
+        {
+            "text": "INFO",
+            "flags": 176
+        },
+        {
+            "text": "Mystery Gift allows you\nto receive great gifts{VAR BE00}\nthrough various communication modes.{VAR BE01}\nOnce you have received a gift,\nplease go to any Pokémon Center and{VAR BE00}\npick it up from the deliveryman.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "When you've received your Mystery Gift,\nyour Wonder Card will be displayed{VAR BE00}\nin the Card Album.{VAR BE01}\nYou can check the card to see\nif you've picked up the gift{VAR BE00}\nfrom a deliveryman.{VAR BE01}\nMake sure to pick up gifts\nthat are waiting for you.{VAR BE01}\nThere is a limit to how many\ncards you can save in the Album.{VAR BE01}\nYou can store up to 12 cards if you\nhave previously saved your game.{VAR BE01}\nIf you don't have a saved game yet,\nyou can store up to three cards.{VAR BE01}\nWhen the card slots are full, you will not\nbe able to receive any more. Please delete{VAR BE00}\nsome from the Album.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "When the Card Album is full,\nyou cannot receive new cards.{VAR BE01}\nTo receive new cards,\nchoose a Wonder Card and{VAR BE00}\npress the A Button to throw it away.{VAR BE01}\nIf you have gifts waiting,\ngo to any Pokémon Center{VAR BE01}\nand pick up your gifts\nfrom the deliveryman.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "When you've received a Mystery Gift,\nyour Wonder Card will be displayed{VAR BE00}\nin the Card Album.{VAR BE01}\nYou can check the card to see\nif you've picked up the gift{VAR BE00}\nfrom a deliveryman.{VAR BE01}\nMake sure to pick up gifts\nthat are waiting for you.{VAR BE01}\nThere is a limit to how many \ncards you can save in the Album.{VAR BE01}\nYou can store up to 12 cards if you have\npreviously saved your game.{VAR BE01}\nIf you don't have a saved game yet,\nyou can store up to three cards.{VAR BE01}\nWhen the card slots are full, you will not\nbe able to receive any more. Please delete{VAR BE00}\nsome from the Album.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 224
+        },
+        {
+            "text": "Our deliveryman is currently overloaded\nwith gifts for you!{VAR BE01}\nPlease go see him at any Pokémon Center\nand pick up your gifts.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "You've already received this gift.\nYou may not get another one.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "There were no gifts to be found...{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "You are out of room for Wonder Cards.{VAR BE01}\nYou may not accept another gift until you\nthrow away one or more Wonder Cards.",
+            "flags": 230
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "There was a problem\nwith receiving the gift.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "You cannot receive any more gifts until \nyou have a saved game.{VAR BE00}\nPlease start a new game and save it.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "text": "CARD ALBUM",
+            "flags": 208
+        },
+        {
+            "text": "A Button: Sort",
+            "flags": 88
+        },
+        {
+            "text": "BACK",
+            "flags": 56
+        },
+        {
+            "text": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 48
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 76
+        },
+        {
+            "text": "Wonder Card",
+            "flags": 104
+        },
+        {
+            "text": "Date received",
+            "flags": 111
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 88
+        },
+        {
+            "text": "A: Done",
+            "flags": 64
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Thank you for coming to see\nthe Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2010 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2011 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2012 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2013 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2014 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2015 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2016 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2017 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2018 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2019 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to see\nthe 2020 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nthe Pokémon Center!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Tokyo!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Osaka!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Fukuoka!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Nagoya!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Sapporo!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for coming to\nthe Pokémon Center Yokohama!\nPlease pick up your gift from\nthe deliveryman in the game.",
+        "Thank you for participating in the\nPokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2010 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2011 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2012 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2013 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2014 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2015 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2016 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2017 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2018 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2019 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in the\n2020 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2010 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2011 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2012 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2013 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2014 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2015 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2016 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2017 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2018 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2019 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the\n2020 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\nPokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2010 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2011 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2012 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2013 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2014 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2015 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2016 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2017 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2018 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2019 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2020 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2010\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2011\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2012\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2013\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2014\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2015\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2016\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2017\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2018\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2019\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for participating in a 2020\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.",
+        "Thank you for coming to the event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing Pokémon!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the store!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Battle Competition!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe video-game event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the video game event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a present from\nthe Pokémon Fan Club!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for watching Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Challenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the\nChallenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Battle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the\nBattle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Trainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the\nTrainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nthe Pokémon Concert!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for watching\nthe Pokémon animation!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing over\nNintendo Wi-Fi Connection!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for receiving this distribution!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing the\nPokémon Ranger series game!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "The Ranger Union requests that you\nprotect a Pokémon.\nPlease pick it up from the\ndeliveryman in any Pokémon Center.",
+        "The Ranger Union requests that you\nprotect an Egg.\nPlease pick it up from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing in the\nPokémon Dream World!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the\nPokémon Dream World!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing in the Pokémon DW!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the Pokémon DW!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2010 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2011 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2012 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2013 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2014 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2015 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2016 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2017 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2018 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2019 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to a\n2020 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2010!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2011!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2012!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2013!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2014!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2015!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2016!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2017!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2018!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2019!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nPokémon Festa 2020!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the POKÉPARK!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from the POKÉPARK!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2010!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2011!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2012!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2013!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2014!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2015!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2016!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2017!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2018!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2019!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to the\nPOKÉPARK in 2020!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Please pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming\nto see the Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2010 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2011 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2012 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2013 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2014 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2015 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2016 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2017 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2018 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2019 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to see\nthe 2020 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Tokyo!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Osaka!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Fukuoka!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Nagoya!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Sapporo!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nthe Pokémon Center Yokohama!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in\nthe Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2010 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2011 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2012 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2013 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2014 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2015 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2016 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2017 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2018 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2019 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in the\n2020 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2010 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2011 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2012 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2013 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2014 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2015 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2016 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2017 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2018 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2019 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\n2020 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\nPokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2010 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2011 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2012 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2013 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2014 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2015 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2016 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2017 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2018 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2019 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2020 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2010\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2011\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2012\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2013\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2014\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2015\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2016\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2017\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2018\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2019\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in a 2020\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for playing Pokémon!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the store!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating in\nthe Battle Competition!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for participating\nin the video-game event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the video-game event!\nPlease pick up your gift from \nthe deliveryman in any Pokémon Center.",
+        "This is a present from\nthe Pokémon Fan Club!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for watching Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "This is a gift from Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Challenge Plaza!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the\nChallenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Battle Challenge!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the\nBattle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Trainers' Court!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the\nTrainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for participating in\nthe Battle Tour!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for coming to\nthe Pokémon Concert!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for watching\nthe Pokémon animation!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.",
+        "Thank you for playing over\nNintendo Wi-Fi Connection!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for receiving this distribution!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for playing the\nPokémon Ranger series game!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "The Ranger Union requests that you\nprotect a Pokémon.\nYou have already picked it up\nfrom the deliveryman.",
+        "The Ranger Union requested that you\nprotect an Egg.\nYou have already picked it up\nfrom the deliveryman.",
+        "Thank you for playing in the\nPokémon Dream World!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the\nPokémon Dream World!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for playing in the Pokémon DW!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the Pokémon DW!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2010 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2011 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2012 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2013 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2014 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2015 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2016 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2017 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2018 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2019 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to a\n2020 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2010!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2011!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2012!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2013!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2014!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2015!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2016!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2017!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2018!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2019!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to\nPokémon Festa 2020!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the POKÉPARK!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "This is a gift from the POKÉPARK!\nPlease pick up your gift from \nthe deliveryman in any Pokémon center.",
+        "Thank you for coming to the\nPOKÉPARK in 2010!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2011!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2012!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2013!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2014!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2015!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2016!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2017!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2018!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2019!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "Thank you for coming to the\nPOKÉPARK in 2020!\nYou have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman.",
+        "You have already picked up your gift\nfrom the deliveryman."
+    ],
+    "pad": "f8f8"
+}

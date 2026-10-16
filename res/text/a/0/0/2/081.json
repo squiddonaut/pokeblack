@@ -1,0 +1,48 @@
+{
+    "flags": 240,
+    "entries": [
+        "Your name?",
+        "{VAR 0101 0000}'s nickname?",
+        "Box name?",
+        "Your rival's name?",
+        "Your friend's name?",
+        "How do you greet passersby?",
+        "How do you thank passersby?",
+        "What's your message\nto passersby?",
+        "Please enter the name.",
+        "Numbers may contain\nonly up to four digits.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Shiro*",
+            "flags": 60
+        },
+        {
+            "text": "Kuro*",
+            "flags": 60
+        },
+        {
+            "text": "⑭",
+            "flags": 16
+        },
+        {
+            "text": "⑮",
+            "flags": 16
+        }
+    ],
+    "pad": "8e8e"
+}

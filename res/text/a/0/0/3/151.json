@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Do you want to go to\nTeam Plasma's castle?",
+        "Go!{VAR BE01}",
+        "I see."
+    ],
+    "pad": "8080"
+}

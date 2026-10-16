@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "My husband can teach some Pokémon the\nultimate moves! I'll tell you their names.{VAR BE01}\nThe blazing Fire-type Pokémon:\nCharizard, Typhlosion, Blaziken,{VAR BE00}\nInfernape, and Emboar!{VAR BE01}\nThe restless Water-type Pokémon:\nBlastoise, Feraligatr, Swampert,{VAR BE00}\nEmpoleon, and Samurott!{VAR BE01}\nThe quiet Grass-type Pokémon: Venusaur,\nMeganium, Sceptile, Torterra,{VAR BE00}\nand Serperior!" ],
+    "pad": "0c0c"
+}

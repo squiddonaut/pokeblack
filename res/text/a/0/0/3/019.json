@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "I've trained only Fire-type Pokémon,\n'cause they're my favorites!{VAR BE01}\nBut they had no chance in a battle\nagainst Water-type Pokémon...{VAR BE01}\nSigh... Maybe I should try to train\nPokémon of other types.",
+        "It is quite hard to train six Pokémon at\nonce, so I've heard some Trainers focus{VAR BE00}\non training three Pokémon at a time.",
+        "Skreee!",
+        "Fwee lee lee... ♪",
+        "Fwee-oosh!"
+    ],
+    "pad": "dcdc"
+}

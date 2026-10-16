@@ -1,0 +1,11 @@
+{
+    "flags": 232,
+    "entries": [
+        "Delete all saved data?",
+        "Once the saved data has been deleted,\nthere is no way to recover it.{VAR BE01}\nIs it really OK to delete\nall saved data?",
+        {
+            "text": "Deleting all saved data...\nDon't turn off the power.",
+            "flags": 224
+        }
+    ]
+}

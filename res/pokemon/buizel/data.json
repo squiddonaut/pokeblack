@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_WACAN_BERRY"
+        "rare": "ITEM_WACAN_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_SWIFT_SWIM", "ABILITY_NONE" ],
-    "unk_1A": 41,
+    "abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_NONE",
+        "ABILITY_WATER_VEIL"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 66,
+    "base_exp_reward": 66,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SONIC_BOOM" ],
@@ -96,7 +99,7 @@
             "MOVE_TAIL_SLAP"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -108,5 +111,16 @@
         "height": 7,
         "weight": 295
     },
-    "offspring": "SPECIES_BUIZEL"
+    "offspring": "SPECIES_BUIZEL",
+    "text": {
+        "70": "Buizel",
+        "235": "It spins its two tails like a screw\nto propel itself through water. The\ntails also slice clinging seaweed.",
+        "236": "It spins its two tails like a screw\nto propel itself through water. The\ntails also slice clinging seaweed.",
+        "244": "",
+        "245": "2'04\"",
+        "260": "Sea Weasel Pokémon",
+        "268": "65.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Buizel",
+        "284": "BUIZEL"
+    }
 }

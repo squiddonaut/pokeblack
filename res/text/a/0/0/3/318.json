@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Pass Orbs are often found under\nsignboards of cities or towns!{VAR BE00}\n...But where am I?{VAR BE01}\nWhen I passed under a signboard,\neverybody disappeared.",
+        "People say Pass Orbs are created by\nfeelings of gratitude!{VAR BE01}\nThey say the orbs will pour out if you\nhelp someone!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "2c2c"
+}

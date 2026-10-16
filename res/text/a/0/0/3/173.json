@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: Whew! I finally caught up.{VAR BE01}",
+        "Alder: You two. Come here...\nCome to my side.{VAR BE01}",
+        "Ghetsis: It looks like everyone is here.{VAR BE01}\nIt seems you are working hard\nto resurrect Zekrom, the other{VAR BE00}\nDragon-type Pokémon, aren't you?{VAR BE01}\nBut it appears the Dark Stone you seek\nis not here.{VAR BE01}",
+        "Ghetsis: It looks like everyone is here.{VAR BE01}\nIt seems you are working hard\nto resurrect Reshiram, the other{VAR BE00}\nDragon-type Pokémon, aren't you?{VAR BE01}\nBut it appears the Light Stone you seek\nis not here.{VAR BE01}",
+        "Well then, congratulations are in order!\n{VAR 0100 0000}, you were chosen by our king.{VAR BE01}\nIf you truly desire to keep the world as\nit is, where Pokémon live alongside{VAR BE00}\npeople, you must bring the other{VAR BE00}\nDragon-type Pokémon spoken of{VAR BE00}\nin legend and battle with our king.{VAR BE01}\nOtherwise, Team Plasma will steal every\nPokémon from every person in the world{VAR BE00}\nand release them all!{VAR BE01}",
+        "Alder: Release them, you say?{VAR BE01}\nDo the Pokémon who live with their\nTrainers actually want that?{VAR BE01}\nIs the liberation you talk about really\njust stealing Pokémon from people?{VAR BE01}",
+        "Ghetsis: What's this?{VAR BE01}\nChampion Alder, even though illness took\nthe Pokémon that had been your partner{VAR BE00}\nfor many years, and you haven't had a{VAR BE00}\nserious battle in all that time...{VAR BE01}\nEven you, who ordered the Elite Four to\nprotect the Pokémon League and left to{VAR BE00}\nwander the Unova region alone...{VAR BE01}\nEven a Champion like you now wants to\nprotect a world where Pokémon and{VAR BE00}\npeople live together?{VAR BE01}",
+        "Team Plasma's king will show the people of\nUnova that he is stronger than a{VAR BE00}\nChampion who keeps Pokémon bound!{VAR BE01}\nAnd just like the hero who founded\nUnova, he will be accompanied by the{VAR BE00}\nlegendary Pokémon.{VAR BE01}\nHe will give this order!\n“Trainers, release your Pokémon!\"{VAR BE01}\nFor this, we have prepared a suitable\ncastle for the legendary Reshiram and{VAR BE00}\nour king!{VAR BE01}",
+        "Team Plasma's king will show the people of\nUnova that he is stronger than a{VAR BE00}\nChampion who keeps Pokémon bound!{VAR BE01}\nAnd just like the hero who founded\nUnova, he will be accompanied by the{VAR BE00}\nlegendary Pokémon.{VAR BE01}\nHe will give this order!\n“Trainers, release your Pokémon!\"{VAR BE01}\nFor this, we have prepared a suitable\ncastle for the legendary Zekrom and{VAR BE00}\nour king!{VAR BE01}",
+        "Alder: I won't lose!{VAR BE01}\nI'll fight for all Trainers who love their\nPokémon, and for all Pokémon who believe{VAR BE00}\nin their Trainers!{VAR BE01}",
+        "Ghetsis: Our king has no interest in you.{VAR BE01}\nHe has already determined that victory\nagainst you is assured.{VAR BE01}",
+        "Alder: So you stayed behind just to\ntell me that? Just to make a fool of me?{VAR BE01}",
+        "Ghetsis: Of course not.{VAR BE01}\nI'm doing this out of kindness.\nYes, kindness.{VAR BE01}\nI'm making sure the Champion doesn't\nget hurt for no reason.{VAR BE01}\nGranted, the moment when\nsomeone loses all hope...{VAR BE01}\nI really do love to watch\nthat moment.{VAR BE01}\nWell then, farewell.{VAR BE01}",
+        "Cheren: Alder...\nWhat are you going to do now?{VAR BE01}",
+        "Alder: Hmmm...{VAR BE01}\nIt seems my only choice is to return to\nthe Pokémon League and battle N.{VAR BE01}\nBut it bothers me to do exactly what\nGhetsis wants...{VAR BE01}\nMore importantly, what should we do\nabout the Dark Stone?{VAR BE01}",
+        "Alder: Hmmm...{VAR BE01}\nIt seems my only choice is to return to\nthe Pokémon League and battle N.{VAR BE01}\nBut it bothers me to do exactly what\nGhetsis wants...{VAR BE01}\nMore importantly, what should we do\nabout the Light Stone?{VAR BE01}",
+        "Cheren: Alder...\nWhy don't we go outside for now?{VAR BE01}",
+        "Alder: Yes...that's a good idea.\nIt's hard to breathe in here!{VAR BE01}"
+    ]
+}

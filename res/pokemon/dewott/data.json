@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_TORRENT", "ABILITY_TORRENT" ],
-    "unk_1A": 75,
+    "abilities": [
+        "ABILITY_TORRENT",
+        "ABILITY_TORRENT",
+        "ABILITY_SHELL_ARMOR"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 145,
+    "base_exp_reward": 145,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -92,7 +95,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 4,
+    "tutor_flags": 4,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -104,5 +107,16 @@
         "height": 8,
         "weight": 245
     },
-    "offspring": "SPECIES_OSHAWOTT"
+    "offspring": "SPECIES_OSHAWOTT",
+    "text": {
+        "70": "Dewott",
+        "235": "Scalchop techniques differ from one\nDewott to another. It never\nneglects maintaining its scalchops.",
+        "236": "Strict training is how it learns its\nflowing double-scalchop technique.",
+        "244": "",
+        "245": "2'07\"",
+        "260": "Discipline Pokémon",
+        "268": "54.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Dewott",
+        "284": "DEWOTT"
+    }
 }

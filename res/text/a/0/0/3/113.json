@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hee-hee!\nI've been waiting for you.{VAR BE01}\nDid you enjoy flying with the help of\nthe Mistralton Gym cannons?{VAR BE01}\nThey're my pride and joy!{VAR BE01}\nThis time, let's try something else!{VAR BE01}",
+        "You're an amazing Pokémon Trainer.{VAR BE01}\nMy Pokémon and I are happy,\nbecause for the first time in a while,{VAR BE00}\nwe could fight with our full strength.{VAR BE01}\nThis is an official League Gym Badge.\nI think it will look good on you.{VAR BE01}",
+        "{VAR 0100 0000} received the\nJet Badge from Skyla.{VAR BE01}",
+        "Wow, hot stuff!{VAR BE01}\nWith that many Gym Badges,\nPokémon up to Lv. 70 will obey you.{VAR BE01}\nAlso, as thanks for a Pokémon battle\nthat made me very happy,{VAR BE00}\nI want you to have this TM.{VAR BE01}",
+        "My present to you is Acrobatics.\nIf the user doesn't have a held item,{VAR BE00}\nits power doubles.{VAR BE00}\nIt's a pretty technical move.{VAR BE01}\nBe sure to compensate for the\nlack of a held item!{VAR BE01}\nBy the way, when I flew over\nTwist Mountain on the way{VAR BE00}\nto Icirrus City...{VAR BE01}\nTeam Plasma--is that the name?\nAnyway, they were heading for the city.{VAR BE01}\nWhat kind of people are they?",
+        "Icirrus City, where you'll find the next\nGym, is past Route 7, just after you{VAR BE00}\ncross Twist Mountain.{VAR BE01}\nIt's a hop, skip, and a jump when flying,\nbut it's a really challenging walk.{VAR BE01}\nHeads up! Make sure you're ready for it!",
+        "Skyla: Are you and your Pokémon well?\nOur battle together was so much fun.{VAR BE01}\nNow, my Pokémon and I have started\ntraining again.{VAR BE01}\nI don't usually let people travel in my\ncargo plane, but battling with you was{VAR BE00}\nsuch a blast that I'd make an exception.",
+        "Please take this Fresh Water!{VAR BE01}",
+        "Just between you and me...{VAR BE01}\nRock, Electric, Ice... Flying types have\nmore weaknesses than people know about.{VAR BE01}\nIf you use Pokémon and moves of those\ntypes, victory is practically yours!{VAR BE01}\nBy the way, to proceed in this Gym,\nyou climb in the cannons to move forward.{VAR BE01}\nThe cannons go up, down, left, and right.\nYou can get in them from anywhere!",
+        "Woo! Not many people look that good\nbeing shot out of a cannon...{VAR BE00}\nYou make it look easy!{VAR BE01}\nAnd congratulations on your victory\nagainst the Gym Leader.",
+        "Mistralton Pokémon Gym{VAR BE01}\nGym Leader: Skyla\nCertified Trainers:",
+        "Mistralton Pokémon Gym{VAR BE01}\nGym Leader: Skyla\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Mistralton Pokémon Gym{VAR BE01}\nGym Leader: Skyla\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca"
+    ]
+}

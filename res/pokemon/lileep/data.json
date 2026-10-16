@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ROCK", "TYPE_GRASS" ],
     "catch_rate": 45,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_BIG_ROOT"
+        "rare": "ITEM_BIG_ROOT",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 30,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_ERRATIC",
     "egg_groups": [ "EGG_GROUP_WATER_3", "EGG_GROUP_WATER_3" ],
-    "abilities": [ "ABILITY_SUCTION_CUPS", "ABILITY_NONE" ],
-    "unk_1A": 114,
+    "abilities": [
+        "ABILITY_SUCTION_CUPS",
+        "ABILITY_NONE",
+        "ABILITY_STORM_DRAIN"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
-    "unk_22": 71,
+    "base_exp_reward": 71,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_ASTONISH" ],
@@ -90,7 +93,7 @@
             "MOVE_STEALTH_ROCK"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -102,5 +105,16 @@
         "height": 10,
         "weight": 238
     },
-    "offspring": "SPECIES_LILEEP"
+    "offspring": "SPECIES_LILEEP",
+    "text": {
+        "70": "Lileep",
+        "235": "It lived on the seafloor 100\nmillion years ago and was\nreanimated scientifically.",
+        "236": "It lived on the seafloor 100\nmillion years ago and was\nreanimated scientifically.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Sea Lily Pokémon",
+        "268": "52.5 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Lileep",
+        "284": "LILEEP"
+    }
 }

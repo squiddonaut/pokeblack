@@ -1,0 +1,188 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Single Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Double Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Multi Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Wi-Fi Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Super Single Train here.{VAR BE01}",
+        "Welcome to the Battle Subway.{VAR BE01}\nI am sorry, but this Super Single Train is\nonly for those who beat the Single Train.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Super Double Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI am sorry, but this Super Double Train\nis only for those who beat{VAR BE00}\nthe Double Train.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI will guide you to\nthe Super Multi Train here.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI am sorry, but this Super Multi Train is\nonly for those who beat the Multi Train.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Currently, {VAR 0100 0000} has\nwon {VAR 0203 0001} battles in a row.{VAR BE01}",
+        "In the Single Train, you will battle\nusing three Pokémon.{VAR BE01}\nYou may not have duplicate Pokémon\nor duplicate held items.{VAR BE01}\nAll Pokémon will be temporarily set to\nLv. 50 for the battles here.{VAR BE01}\nThe Single Train has seven cars, so you\nwill fight against seven Trainers.{VAR BE01}",
+        "If you manage to defeat all seven,\nyou will arrive at a station and earn{VAR BE00}\nBattle Points (BP).{VAR BE00}\nGood luck!{VAR BE01}\nIf you need a break from your challenge,\nremember to save the game!{VAR BE01}\nIf you don't save, you'll have to start\nthe challenge all over again.{VAR BE00}\nPlease be aware of that!{VAR BE01}",
+        "In the Double Train, you will battle\nusing four Pokémon.{VAR BE01}\nYou may not have duplicate Pokémon\nor duplicate held items.{VAR BE01}\nAll Pokémon will be temporarily set to\nLv. 50 for the battles here.{VAR BE01}\nThe Double Train has seven cars, so you\nwill fight against seven Trainers.{VAR BE01}",
+        "If you manage to defeat all seven,\nyou will arrive at a station and earn{VAR BE00}\nBattle Points (BP).{VAR BE00}\nGood luck!{VAR BE01}\nIf you need a break from your challenge,\nremember to save the game!{VAR BE01}\nIf you don't save, you'll have to start\nthe challenge all over again.{VAR BE00}\nPlease be aware of that!{VAR BE01}",
+        "In the Multi Train, you and a friend will\nteam up to battle another team of two{VAR BE00}\nTrainers. Everyone will use two Pokémon.{VAR BE01}\nA team cannot have duplicate Pokémon,\nand the two Pokémon of one Trainer{VAR BE00}\ncannot hold the same item.{VAR BE01}\nAll Pokémon will be temporarily set to\nLv. 50 for the battles here.{VAR BE01}\nThe Multi Train has seven cars, so you\nwill battle seven pairs of Trainers.{VAR BE01}",
+        "If you manage to defeat all seven pairs,\nyou will arrive at a station and earn{VAR BE00}\nBattle Points (BP).{VAR BE00}\nGood luck!{VAR BE01}\nIf you need a break from your challenge,\nremember to save the game!{VAR BE01}\nIf you don't save, you'll have to start\nthe challenge all over again.{VAR BE00}\nPlease be aware of that!{VAR BE01}",
+        "In the Wi-Fi Train, you will battle\nusing three Pokémon.{VAR BE01}\nYou may not have duplicate Pokémon\nor held items.{VAR BE01}\nAll Pokémon will be temporarily set to\nLv. 50 for the battles here.{VAR BE01}\nThe Wi-Fi Train has seven cars, so you\nwill fight against seven Trainers.{VAR BE01}",
+        "Your opponents will come from around the\nworld via Nintendo Wi-Fi Connection.{VAR BE01}\nIf you manage to defeat all seven,\nyou will arrive at a station and earn{VAR BE00}\nBattle Points (BP).{VAR BE00}\nGood luck!{VAR BE01}\nThe Wi-Fi Train has a ranking system.{VAR BE01}\nIf you keep winning, your rank will go up,\nand if you lose, it will go down.{VAR BE01}\nKeep winning and fight against\nstronger opponents.{VAR BE01}\nIf you need a break from your challenge,\nremember to save the game!{VAR BE01}\nIf you don't save, you'll have to start\nthe challenge all over again.{VAR BE00}\nPlease be aware of that!{VAR BE01}",
+        "Would you like to board\nthe Single Train?",
+        "Would you like to board\nthe Double Train?",
+        "Would you like to board\nthe Multi Train?",
+        "Would you like to board\nthe Wi-Fi Train?",
+        "Would you like to board\nthe Super Single Train?",
+        "Would you like to board\nthe Super Double Train?",
+        "Would you like to board\nthe Super Multi Train?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Please select the Pokémon you wish\nto enter.{VAR BE01}",
+        "Now, please board\nthe Single Train!{VAR BE01}",
+        "Now, please board\nthe Double Train!{VAR BE01}",
+        "Now, please board\nthe Multi Train!{VAR BE01}",
+        "Now, please board\nthe Wi-Fi Train!{VAR BE01}\nAre you ready?",
+        "Now, please board\nthe Super Single Train!{VAR BE01}",
+        "Now, please board\nthe Super Double Train!{VAR BE01}",
+        "Now, please board\nthe Super Multi Train!{VAR BE01}",
+        "Would you like to save and interrupt\nyour challenge?",
+        "It's good to see you back.{VAR BE01}\nWould you like to resume your challenge\nat the Battle Subway?",
+        "Saving...\nDon't turn off the power.",
+        "Now, I will guide you to the place\nwhere you interrupted your challenge.{VAR BE01}",
+        "Thank you for playing!{VAR BE01}\nIf you want to resume your challenge,\nplease visit us again.{VAR BE01}",
+        "Saving...\nDon't turn off the power.",
+        "Excuse me!{VAR BE01}\nYou didn't save before you quit your\nchallenge last time.{VAR BE01}\nI am sorry, but you'll have to start\nyour challenge over again.{VAR BE01}",
+        "We hope to see you again!",
+        {
+            "text": "Board",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "Successive records",
+            "flags": 219
+        },
+        {
+            "text": "Earlier train",
+            "flags": 219
+        },
+        {
+            "text": "Please select whether to use your\nparty Pokémon or your Battle Box.",
+            "flags": 240
+        },
+        {
+            "text": "In party",
+            "flags": 91
+        },
+        {
+            "text": "Battle Box",
+            "flags": 91
+        },
+        {
+            "text": "Cancel",
+            "flags": 91
+        },
+        "Would you like to communicate with a\nfriend and take this challenge together?",
+        "{VAR 0100 0000}'s current rank is {VAR 0201 0001}.{VAR BE01}",
+        "It's good to see you back.{VAR BE01}\nYour previous results were not sent out\nusing Nintendo Wi-Fi Connection.{VAR BE00}\nWould you like to send them now?",
+        "Your results were sent out using\nNintendo Wi-Fi Connection!{VAR BE01}",
+        "I've downloaded the Rank {VAR 0201 0000}\nTrain No. {VAR 0202 0001}'s successive records.{VAR BE01}\nPlease confirm on the Performance\nMonitor outside this platform.{VAR BE01}",
+        "Please decide which of you two will\nbecome the leader.{VAR BE01}\nThe other player must then choose\n“Join group.\"",
+        "Both Trainers have chosen the\nPokémon {VAR 0101 0000}.{VAR BE01}\nPlease confer with the other Trainer\nand choose different Pokémon.{VAR BE01}",
+        "Both Trainers have chosen the Pokémon\n{VAR 0101 0000} and {VAR 0101 0001}.{VAR BE01}\nPlease confer with the other Trainer\nand choose different Pokémon.{VAR BE01}",
+        "You and the other Trainer have chosen\ndifferent trains.{VAR BE01}\nPlease confer with the other Trainer\nand come back again.{VAR BE01}",
+        "Hi! I'm Hilbert!{VAR BE01}\nIt's your first time challenging the\nMulti Train, right?{VAR BE01}\nWell, you need a partner!{VAR BE01}",
+        "Hi! I'm Hilda!{VAR BE01}\nYou're challenging the Multi Train for the\nfirst time, right?{VAR BE01}\nYou can't take this challenge alone.\nYou need a partner!{VAR BE01}",
+        "Hi, {VAR 0100 0000}!\nGood to see you again!{VAR BE01}",
+        "Hi, {VAR 0100 0000}!\nNice to see you again!{VAR BE01}",
+        "Are you looking for a partner?{VAR BE01}\nThen why don't you team up\nwith me? Yeah! It'll be great!{VAR BE01}\nWhat sort of Pokémon should I use?",
+        "Are you here by yourself today?{VAR BE01}\nWhy don't you team up with me, then?\nIt'll be fun!{VAR BE01}\nWhat sort of Pokémon should I use?",
+        {
+            "text": "FOCUSED ON ATTACK",
+            "flags": 219
+        },
+        {
+            "text": "FOCUSED ON DEFENSE",
+            "flags": 219
+        },
+        {
+            "text": "FOCUSED ON BALANCE",
+            "flags": 219
+        },
+        "OK. I'll focus on Attack!\nThen, let's begin!{VAR BE01}",
+        "OK. I'll focus on Defense!\nThen, let's begin!{VAR BE01}",
+        "OK. I'll focus on a balance between\nAttack and Defense! Let's begin!{VAR BE01}",
+        "OK. I'll focus on Attack!\nThen, let's begin!{VAR BE01}",
+        "OK. I'll focus on Defense!\nThen, let's begin!{VAR BE01}",
+        "OK. I'll focus on a balance between\nAttack and Defense! Let's begin!{VAR BE01}",
+        "You don't want to team up with me?\nOK then, bye!{VAR BE01}",
+        "You don't want to team up with me?\nOK then, bye!{VAR BE01}",
+        {
+            "text": "Become leader",
+            "flags": 219
+        },
+        {
+            "text": "Join group",
+            "flags": 219
+        },
+        "Launch DS Wireless Communications?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Saving...\nDon't turn off the power.",
+        "Unfortunately, you have been\ndemoted to Rank {VAR 0201 0000}...{VAR BE01}",
+        "Would you like to use\nInfrared Communication or{VAR BE00}\nDS Wireless Communications?",
+        {
+            "text": "Infrared Communication",
+            "flags": 219
+        },
+        {
+            "text": "DS Wireless Communications",
+            "flags": 219
+        },
+        "Would you like to launch\nInfrared Communication and{VAR BE00}\nDS Wireless Communications?",
+        "Welcome to the Battle Subway.{VAR BE01}\nI am sorry, but this Super Single Train is\nonly for those who beat the Single Train.{VAR BE01}",
+        "Welcome to the Battle Subway.{VAR BE01}\nI am sorry, but this Super Double Train is\nonly for those who beat the Double Train.{VAR BE01}",
+        "Welcome to the Battle Subway.{VAR BE01}\nI am sorry, but this Super Multi Train is\nonly for those who beat the Multi Train.{VAR BE01}",
+        "That was awesome!\nLet's battle together again!{VAR BE01}",
+        "That was really fun!\nLet's battle together again!{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI'm sorry, but this Super Single Train\nisn't ready yet.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI'm sorry, but this Super Double Train\nisn't ready yet.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI'm sorry, but this Super Multi Train\nisn't ready yet.{VAR BE01}",
+        "Welcome to the Battle Subway!{VAR BE01}\nI'm sorry, but this Wi-Fi Train\nisn't ready yet.{VAR BE01}",
+        "Would you like to send these\nresults using Nintendo WFC?",
+        "Communicating. Please stand by...",
+        "What kinds of Pokémon\nshould I enter?",
+        "What kinds of Pokémon\nshould I enter?",
+        "{VAR 0100 0000} achieved a win streak\nof {VAR 0203 0001} in the Multi Train challenge{VAR BE00}\nwith a Trainer.{VAR BE01}",
+        "{VAR 0100 0000} achieved a win streak of {VAR 0203 0001}\nin the Multi Train challenge with a friend.{VAR BE01}",
+        "{VAR 0100 0000} achieved a win streak of\n{VAR 0203 0001} in the Multi Train challenge with a{VAR BE00}\nTrainer and a win streak of {VAR 0203 0002} in{VAR BE00}\nthe Multi Train challenge with a friend.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Would you like to board\nthe train to Anville Town?",
+        "The train is leaving the station shortly.\nAll aboard!{VAR BE01}",
+        "We hope to see you again!",
+        "We hope to see you again!{VAR BE01}"
+    ],
+    "pad": "e0e0"
+}

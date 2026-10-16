@@ -1,0 +1,161 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "{VAR BD02}TRADE WITH ANYONE",
+            "flags": 126
+        },
+        {
+            "text": "{VAR BD02}TRADE RENDEZVOUS",
+            "flags": 126
+        },
+        {
+            "text": "TRADE WANTED",
+            "flags": 83
+        },
+        {
+            "text": "LEVEL",
+            "flags": 59
+        },
+        {
+            "text": "Lv. 1 through 49",
+            "flags": 126
+        },
+        {
+            "text": "Lv. 50",
+            "flags": 126
+        },
+        {
+            "text": "Lv. 51 through 100",
+            "flags": 126
+        },
+        {
+            "text": "Any kind",
+            "flags": 126
+        },
+        {
+            "text": "COOL",
+            "flags": 102
+        },
+        {
+            "text": "CUTE",
+            "flags": 102
+        },
+        {
+            "text": "SCARY",
+            "flags": 102
+        },
+        {
+            "text": "STRANGE",
+            "flags": 102
+        },
+        {
+            "text": "ANY KIND",
+            "flags": 102
+        },
+        {
+            "text": "TRADE SEARCH",
+            "flags": 111
+        },
+        "Searching for the right person\nto trade with...",
+        {
+            "text": "CANCEL",
+            "flags": 80
+        },
+        "Getting information from the other person...",
+        "A trade partner has been found!",
+        {
+            "text": "SEARCH",
+            "flags": 48
+        },
+        "Please select who you wish\nto trade with.",
+        "Please press “SEARCH\" when you've\nchosen the desired trade conditions.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "WANT",
+            "flags": 99
+        },
+        {
+            "text": "HAVE",
+            "flags": 99
+        },
+        {
+            "text": "YES",
+            "flags": 86
+        },
+        {
+            "text": "NO",
+            "flags": 86
+        },
+        {
+            "text": "YES",
+            "flags": 85
+        },
+        {
+            "text": "{VAR 0100 0000} {VAR BD03 0001}ID: {VAR 0204 0001}\n{VAR 0124 0002}",
+            "flags": 192
+        },
+        "You have no one to Rendezvous with...",
+        {
+            "text": "SELECT FOR RENDEZVOUS",
+            "flags": 159
+        },
+        "Will you Rendezvous with this person?",
+        "Please select how your trade\npartner is chosen.",
+        {
+            "text": "CANCEL",
+            "flags": 85
+        },
+        {
+            "text": "{VAR 0124 0000}\n{VAR 0125 0001}",
+            "flags": 232
+        },
+        {
+            "text": "GREETINGS",
+            "flags": 102
+        },
+        {
+            "text": "{VAR BD03 0001}{VAR 0204 0000}",
+            "flags": 80
+        },
+        {
+            "text": "{VAR BD02}{VAR 0100 0000}",
+            "flags": 80
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The trade will be started.",
+        {
+            "text": "{VAR BD03 0001}NO. OF TRADES",
+            "flags": 80
+        },
+        {
+            "text": "LOCATION",
+            "flags": 102
+        },
+        "Is it OK to disconnect from\nNintendo Wi-Fi Connection?",
+        "You need at least two Pokémon\nif you want to trade!",
+        {
+            "text": "RENDEZVOUS WITH ANY",
+            "flags": 112
+        },
+        "Will you trade with someone\nyou have traded with before?",
+        {
+            "text": "さくじょします",
+            "flags": 0
+        },
+        {
+            "text": "{FF19}{FF19}ついかします",
+            "flags": 0
+        }
+    ]
+}

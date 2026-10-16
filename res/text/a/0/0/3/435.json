@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Hi there!\nI've been waiting for you young people!{VAR BE01}\nLet me introduce myself again.\nMy name is...{VAR BE01}",
+        "Cheren: Professor Juniper?\nWe know your name.{VAR BE01}",
+        "Professor Juniper: Come, come, Cheren!\nThis is not a time to take things lightly.{VAR BE01}\nToday is a day to remember always, so\nit's best to behave with some formality.{VAR BE01}\nThat being so, once again, my name is\nProfessor Juniper, and I am researching{VAR BE00}\nwhen and how the creatures called{VAR BE00}\nPokémon came into existence.{VAR BE01}",
+        "Oh, that's unusual!\nYou've already had a Pokémon battle!{VAR BE01}\nSo maybe that's why...{VAR BE01}\nIt feels as though your Pokémon have\nalready begun to trust you!{VAR BE01}\nBy the way, would you like to give your\nPokémon a nickname?",
+        "Professor Juniper: Uh-huh, I see.\nAre you OK with the nickname {VAR 0102 0000}?",
+        "Professor Juniper: {VAR 0102 0000} is its\nname. That is such a great name!{VAR BE01}",
+        "Professor Juniper: You aren't planning\nto use a nickname? Well, that's fine, too.{VAR BE01}",
+        "Professor Juniper: As for why I gave all\nof you Pokémon...{VAR BE01}",
+        "Cheren: It's for the Pokédex, right?{VAR BE01}",
+        "Bianca: Pokédex?{VAR BE01}",
+        "Professor Juniper: I am astonished.\nNice work, Cheren!{VAR BE01}\nYou have already studied Pokémon\nextensively, haven't you?{VAR BE01}\nStill, let me explain everything from the\nbeginning, for everyone's sake.{VAR BE01}",
+        "The Pokédex is a high-tech device that\nautomatically records the Pokémon{VAR BE00}\nyou encounter!{VAR BE01}\nSo, I want you three to visit many\nplaces and meet all of the Pokémon{VAR BE00}\nin the Unova region!{VAR BE01}",
+        "This is my request.{VAR BE01}\n{VAR 0100 0000}!\nCheren! Bianca!{VAR BE01}\nYou'll go on an adventure to\ncomplete the Pokédex, will you not?",
+        "Professor Juniper: Here is what I need\nfrom you!{VAR BE01}\nWhat I want to hear are the courageous\nwords of people who will blaze new{VAR BE00}\npaths around the world!{VAR BE01}\nI want you three to travel to many\ndistant places and meet all of the{VAR BE00}\nPokémon in the Unova region!",
+        "Bianca: OK!{VAR BE01}\nI mean... Yes, professor!{VAR BE01}",
+        "Cheren: Thank you very much.{VAR BE01}\nBecause of you, I can become a Pokémon\nTrainer, exactly as I've always wished.{VAR BE01}",
+        "Professor Juniper: All of you, thanks!{VAR BE01}\nYou have given me the best\npossible answer!{VAR BE01}",
+        "{VAR 0100 0000} obtained the {VAR FF00 0002}Pokédex{VAR FF00 0000}!",
+        "Professor Juniper: Next, I need to teach\nyou how to meet Pokémon.{VAR BE01}\nPlease meet me at Route 1, OK?{VAR BE01}",
+        "Bianca: S-since the professor asked us,\nit's OK to go on an adventure, right?{VAR BE01}\nI can explore and maybe find out what\nI want to do in life. I think I'd like that.{VAR BE01}",
+        "Cheren: Of course.{VAR BE01}\nWe can travel however we want\nwhile we complete the Pokédex.",
+        "Bianca: For some reason,\nmy heart is pounding, {VAR 0100 0000}.{VAR BE01}\nWhat are you and {VAR 0101 0001} going to do?",
+        "Cheren: Finally, I can become\na Pokémon Trainer.{VAR BE01}\nI'll have real battles with other\nTrainers and get stronger. Wait and see!",
+        "Professor Juniper: Why, hello,\n{VAR 0100 0000}! How have you been lately?{VAR BE01}",
+        "Cedric: Hey, {VAR 0100 0000}!\nAre you meeting lots of Pokémon?{VAR BE01}\nThere really are lots of Pokémon\nin the Unova region and the{VAR BE00}\nrest of the world!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cedric: Hey, {VAR 0100 0000}!{VAR BE01}",
+        "Skreet! Skreet!",
+        "Bianca: Professor Juniper is\nletting me help out.{VAR BE01}\nWhen I was looking at my Pokédex,\nI realized something...{VAR BE01}\nI met so many Pokémon during my journey.{VAR BE01}\nI just want to learn more and more\nand more about the little darlings!{VAR BE01}",
+        "Oh yeah! That's right.{VAR BE01}\n{VAR 0100 0000}, do you know\nabout massive outbreaks of Pokémon?",
+        "Bianca: I knew you'd know, {VAR 0100 0000}!{VAR BE01}\nI'm sure you also know that lots of a\ncertain Pokémon appear in the grass all{VAR BE00}\nover, and that if you look at the electric{VAR BE00}\nsigns in the Route gates, you can see{VAR BE00}\nwhere the mass outbreaks are happening{VAR BE00}\nin the Unova region!{VAR BE01}",
+        "Bianca: Tee-hee!\nOK, then, I'll tell you about it.{VAR BE01}\nFirst of all, lots of a certain Pokémon\nappear in the grass all over.{VAR BE01}\nIf you look at the electric signs in the\nRoute gates, you can see where the{VAR BE00}\nmass outbreaks are happening in the{VAR BE00}\nUnova region! Isn't that amazing!{VAR BE01}",
+        "I have to study lots of Pokémon\nresearch, but I don't mind. This is{VAR BE00}\nthe answer I found during my adventure!{VAR BE00}\nIt's actually a lot of fun!{VAR BE01}\nAnd I have an idea! Every now and then,\ncome have a Pokémon battle with me, OK?{VAR BE01}\n'Cause by doing that, I'll learn\na lot more about Pokémon!",
+        "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\nIf you give a Pokémon called Feebas\na Prism Scale and trade it with someone,{VAR BE00}\napparently it evolves.{VAR BE01}\nIsn't that amazing?{VAR BE01}\nPokémon sure are mysterious beings,\naren't they?",
+        "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\nIn Pinwheel Forest, there is a rock\nthat's covered in moss.{VAR BE01}\nIt might be related to the rock, I dunno,\nbut there is a Pokémon that evolves{VAR BE00}\nwhen it levels up in Pinwheel Forest!{VAR BE01}\nPokémon sure are mysterious beings,\naren't they?",
+        "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\nDeep in Twist Mountain,\nthere's an ice-covered rock.{VAR BE01}\nThere is a Pokémon that evolves\nwhen it levels up near that rock.{VAR BE01}\nPokémon sure are mysterious beings,\naren't they?",
+        "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\nThere are Pokémon that evolve when they\nlevel up knowing a certain move!{VAR BE01}\nPokémon sure are mysterious beings,\naren't they?",
+        "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\nThere are Pokémon that evolve when\nyou give them a certain item and they{VAR BE00}\nlevel up at night!{VAR BE01}\nPokémon sure are mysterious beings,\naren't they?",
+        "Bianca: Oh, {VAR 0100 0000}!{VAR BE01}\nWould you have a Pokémon\nbattle with me today?",
+        "Bianca: Great! {VAR 0100 0000}!{VAR BE01}\nWe're battling indoors, so\ndon't get too worked up!{VAR BE01}",
+        "Bianca: Whaaaaat!{VAR BE01}\nWait...\nNo, I'm pretty disappointed...",
+        "Bianca: Oh, so you will have a\nPokémon battle with me, then?",
+        "Bianca: Phew!\nI'm totally sure, {VAR 0100 0000}.{VAR BE01}\nYou're really a strong Trainer.{VAR BE01}\nI love your style of Pokémon\nbattling, {VAR 0100 0000}.{VAR BE01}\nSomehow your Pokémon look like\nthey're having so much fun!",
+        "Who is this with Professor Juniper?\nThere's a smiling man in the picture.",
+        "Father and daughter...{VAR BE01}\nIt's a picture of the two\nProfessor Junipers.",
+        "Adventure Rule No. 1\nThe X Button opens the menu.",
+        "Adventure Rule No. 2\nRecord your progress with SAVE.",
+        "There are lots of books about Pokémon!",
+        "There are lots of materials and\nresearch reports about Pokémon!"
+    ],
+    "pad": "1212"
+}

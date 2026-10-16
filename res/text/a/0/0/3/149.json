@@ -1,0 +1,30 @@
+{
+    "flags": 224,
+    "entries": [
+        "N: {VAR BE09 0001}It's over!{VAR BE01}\nNever again will Pokémon be made to\nsuffer or be held captive by humans.{VAR BE01}\nIt's all thanks to my friend, Reshiram!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}It's over!{VAR BE01}\nNever again will Pokémon be made to\nsuffer or be held captive by humans.{VAR BE01}\nIt's all thanks to my friend, Zekrom!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}You may have the title of Champion...\nBut you can't stop me with just a title.{VAR BE00}\nYour soft heart has left you weak.{VAR BE01}\nYears ago, you lost your Pokémon,\nyour partner, to sickness.{VAR BE01}\nIn order to forget the pain in your\nheart, you wandered Unova...{VAR BE01}\nWho knows how long it's been since you've\nhad to fight with your full strength?{VAR BE01}\nI actually kind of like that\nabout you, though.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}As a Trainer who far outmatches\nthe Champion,{VAR BE00}\nI shall issue an order across Unova:{VAR BE01}\nTrainers of the world,\nfree your Pokémon!{VAR BE09 0000}{VAR BE01}",
+        "Alder: I beg you!{VAR BE01}\nSeparating people from Pokémon...\nDo anything but that!{VAR BE01}",
+        "N: {VAR BE09 0001}You and I both put our beliefs on the\nline and fought with all our strength.{VAR BE01}\nAnd I won.{VAR BE01}\nDo not say another word.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}...I've been waiting.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}In the future I envisioned, you obtained\na stone. And, indeed, you have.{VAR BE01}\nThat Dark Stone...\nReshiram is responding to it.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}In the future I envisioned, you obtained\na stone. And, indeed, you have.{VAR BE01}\nThat Light Stone...\nZekrom is responding to it.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Stop.{VAR BE01}\nThis is not a suitable place\nfor the legendary dragons!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}From the ground, rise up!\nThe castle of Team Plasma!{VAR BE00}\nSurround the Pokémon League!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}What has just appeared is\nTeam Plasma's castle.{VAR BE01}\nThe king's words will resound\nfrom the heights to all below.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}You must come to the castle, as well.\nEverything will be decided there.{VAR BE01}\nWhether Pokémon will be liberated\nfrom people,{VAR BE00}\nor whether Pokémon and people{VAR BE00}\nwill live together...{VAR BE01}\nWe will see whose belief is stronger...\nAnd our result will change the world.{VAR BE09 0000}{VAR BE01}",
+        "Cheren: Mr. Alder, you're a wreck.\nIt's not fitting for the Champion.{VAR BE01}",
+        "Alder: You did well to get this far.{VAR BE01}",
+        "Cheren: Somehow, I beat the\nPokémon League, but it wasn't easy.{VAR BE01}",
+        "Alder: Er... I have to congratulate you.{VAR BE01}",
+        "Cheren: I became stronger because\nI understood what I want to do.{VAR BE01}",
+        "{VAR 0100 0000}!\nTell N this...{VAR BE01}\nSome people grow stronger by being\nwith Pokémon.{VAR BE01}\nMy Pokémon and I are proof. Together,\nwe learned and became stronger.{VAR BE01}",
+        "Cheren: I'll look after Alder. You go on.",
+        "Alder: I... I lost.{VAR BE01}\nI should have been able to demonstrate\nthe bond between me and my Pokémon.{VAR BE01}\nThat would have shown that brat the\nworthlessness of his outrageous dreams.{VAR BE01}\nSo, his convictions were the real thing...\nBe careful.{VAR BE01}\nThe ones who change the world are always\nthe ones who pursued their dreams.{VAR BE01}\n{VAR 0100 0000}, I ask this of you.{VAR BE01}\nEven if Pokémon and people are\nseparated, nothing good will come of it.{VAR BE00}\nPlease let him know that!{VAR BE01}",
+        "Alder: I... I lost.{VAR BE01}\nI should have been able to demonstrate\nthe bond between me and my Pokémon.{VAR BE01}\nThat would have shown that brat the\nworthlessness of his outrageous dreams.{VAR BE01}\nSo, his convictions were the real thing...\nBe careful.{VAR BE01}\nThe ones who change the world are always\nthe ones who pursued their dreams.{VAR BE01}\n{VAR 0100 0000}, I ask this of you.{VAR BE01}\nEven if Pokémon and people are\nseparated, nothing good will come of it.{VAR BE00}\nPlease let him know that!",
+        "Alder: I am grateful for\nwhat you did about N.{VAR BE01}\nI don't know what he's thinking now,\nbut I'm sure he realizes{VAR BE00}\nthat different people and Pokémon{VAR BE00}\nhave their own paths to follow.{VAR BE01}\nSay now, how about a match with the\nstrongest Trainer in the Unova region?{VAR BE01}",
+        "Alder: I've really been looking forward\nto deciding who's the strongest{VAR BE00}\nPokémon Trainer in the Unova region!{VAR BE01}\nKiai!{VAR BE01}",
+        "Alder: Well done!\nYou certainly are an unmatched talent!{VAR BE01}\nCome with me!{VAR BE01}"
+    ]
+}

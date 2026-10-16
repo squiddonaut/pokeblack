@@ -1,0 +1,20 @@
+{
+    "flags": 224,
+    "entries": [
+        "Brycen: {VAR 0100 0000}!\nWe'll hold them here!{VAR BE01}\nYou go on ahead!{VAR BE01}",
+        "Brycen: I'm fine, but there's no time!",
+        "Cheren: This is nothing! But there sure\nare a lot of them...{VAR BE01}\nOh, what a complete bother!{VAR BE01}",
+        "Cheren: Why do you make that\nextra push?{VAR BE01}\nWhat is the source of that strength?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Team Plasma: So this is the\ntrue strength of a Gym Leader!",
+        "Team Plasma: This strength...\nCould it be equal to the Seven Sages?",
+        "Team Plasma: No one!\nI won't let anyone get in our way!",
+        "Team Plasma: Why do you get in our way\neven though you don't understand{VAR BE00}\nour sublime goal?!",
+        "Team Plasma: So young, but so tough!",
+        "Team Plasma: Yeah, all right. If I have\nto lose, at least it's to the Gym Leader.",
+        "Team Plasma: Right now,\nour king is upstairs...{VAR BE01}\nThere's nothing you can do!"
+    ]
+}

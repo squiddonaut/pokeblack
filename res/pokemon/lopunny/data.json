@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_CHOPLE_BERRY"
+        "rare": "ITEM_CHOPLE_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_KLUTZ" ],
-    "unk_1A": 7,
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_KLUTZ",
+        "ABILITY_LIMBER"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 168,
+    "base_exp_reward": 168,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_MIRROR_COAT" ],
@@ -95,11 +98,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 12,
         "weight": 333
     },
-    "offspring": "SPECIES_BUNEARY"
+    "offspring": "SPECIES_BUNEARY",
+    "text": {
+        "70": "Lopunny",
+        "235": "The ears appear to be delicate. If\nthey are touched roughly, it kicks\nwith its graceful legs.",
+        "236": "The ears appear to be delicate. If\nthey are touched roughly, it kicks\nwith its graceful legs.",
+        "244": "",
+        "245": "3'11\"",
+        "260": "Rabbit Pokémon",
+        "268": "73.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Lopunny",
+        "284": "LOPUNNY"
+    }
 }

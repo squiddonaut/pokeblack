@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
     "catch_rate": 45,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 3,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_INTIMIDATE" ],
-    "unk_1A": 62,
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_INTIMIDATE",
+        "ABILITY_GUTS"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 235,
+    "base_exp_reward": 235,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -84,11 +87,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 14,
         "weight": 420
     },
-    "offspring": "SPECIES_SHINX"
+    "offspring": "SPECIES_SHINX",
+    "text": {
+        "70": "Luxray",
+        "235": "It can see clearly through walls\nto track down its prey and seek\nits lost young.",
+        "236": "It can see clearly through walls\nto track down its prey and seek\nits lost young.",
+        "244": "",
+        "245": "4'07\"",
+        "260": "Gleam Eyes Pokémon",
+        "268": "92.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Luxray",
+        "284": "LUXRAY"
+    }
 }

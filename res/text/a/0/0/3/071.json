@@ -1,0 +1,47 @@
+{
+    "flags": 224,
+    "entries": [
+        "You can take the Battle Subway from\nGear Station!",
+        "The Battle Subway!{VAR BE01}\nAs the name suggests, it's the subway\nwhere Trainers wage battles.",
+        "The Battle Subway has seven lines\nin total!{VAR BE01}\nBut I heard that the only lines you can\ntake at the beginning are the Single,{VAR BE00}\nDouble, or Multi Trains!",
+        "The Battle Subway has seven lines\nin total!{VAR BE01}\nBut you can't take the trains called\n“Super\" unless you make a great effort.",
+        "Hi, hi!{VAR BE01}\nPlease tell me how you introduce yourself\nbefore a battle and how you feel when{VAR BE00}\nyou win or lose.",
+        "Please tell me how you introduce yourself\nbefore a battle.{VAR BE01}",
+        "Please tell me how you feel when you\nlose a battle.{VAR BE01}",
+        "Please tell me how you feel when you\nwin a battle!{VAR BE01}",
+        "Please tell me how you feel when you\nbecome No. 1!{VAR BE01}",
+        "Got it! Thanks!\n{VAR 011C 0000}, huh...",
+        "Oh, you prefer not to say?\nOh, well...",
+        "Thanks! Will you tell me your other\nfeelings, too?",
+        "Got it! Thanks!",
+        {
+            "text": "INTRODUCTION",
+            "flags": 219
+        },
+        {
+            "text": "WHEN YOU WIN",
+            "flags": 219
+        },
+        {
+            "text": "WHEN YOU LOSE",
+            "flags": 219
+        },
+        {
+            "text": "WHEN YOU BECOME NO. 1",
+            "flags": 219
+        },
+        {
+            "text": "NOT TELLING",
+            "flags": 219
+        },
+        "Platform for Single Trains",
+        "Platform for Double Trains",
+        "Platform for Multi Trains",
+        "Platform for Wi-Fi Trains",
+        "Platform for Super Single Trains",
+        "Platform for Super Double Trains",
+        "Platform for Super Multi Trains",
+        "Platform for Trains to Anville Town",
+        "Under Construction"
+    ]
+}

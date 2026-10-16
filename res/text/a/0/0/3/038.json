@@ -1,0 +1,105 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "I finally get to eat it!\nIt was worth lining up!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "I came all the way from Accumula Town\njust to have a taste!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "These sweets are mega popular!!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "That's a popular store for you!\nIt's amazingly crowded!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Huh? Oh, here you can buy the dessert\nthat everyone in Castelia City{VAR BE00}\nis talking about!{VAR BE01}\nAre you going to get in line?",
+            "flags": 224
+        },
+        {
+            "text": "I see!\nThe line gets really long!{VAR BE01}\nBut it's definitely delicious.\nIt's worth lining up!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "I see. Well, it is crowded.{VAR BE01}\nBut just between you and me,\nit's actually pretty empty today.{VAR BE01}\nUsually, it's sold out by now.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Huh? Oh, here you can buy the dessert\nthat everyone in Castelia City{VAR BE00}\nis talking about!{VAR BE01}\nBut it looks like I got the last one.\nThey're sold out for today!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Huh? Oh, here you can buy the dessert\nthat everyone in Castelia City{VAR BE00}\nis talking about!{VAR BE01}\nBut it looks like I got the last one.\nThey're sold out for today!{VAR BE01}\nTry again on a different day!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "How about Castelia City's famous\nCasteliacone!{VAR BE01}\nIt's $100.\nWould you like to buy one?",
+            "flags": 224
+        },
+        {
+            "text": "Oh, you really aren't going to buy one?\nThey'll sell out soon!",
+            "flags": 224
+        },
+        {
+            "text": "Thank you very much!{VAR BE01}\nWe hope you enjoy the cute appearance\nand the naive flavor!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Thank you very much!{VAR BE01}\n...Huh? Oh, dear!\nIt looks like you don't have enough{VAR BE00}\nmoney. Please come again sometime.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Thank you very much!{VAR BE01}\n...Huh? Oh, dear!\nIt looks like your Bag is full.{VAR BE01}\nPlease come again sometime.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Even though you waited in line...\nWell, please come again, OK?{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "We sell Castelia City's famous\nCasteliacone here!{VAR BE01}\nBut the owner closes the\nshop for the winter!{VAR BE01}\nPlease come again when it gets warm!",
+            "flags": 224
+        },
+        {
+            "text": "Buy",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "Studio Castelia",
+            "flags": 207
+        },
+        {
+            "text": "Castelia's Famous Casteliacone\nClosed during Winter",
+            "flags": 207
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

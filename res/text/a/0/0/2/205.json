@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR BE09 0001}First, I must tell you...\nI am the king of Team Plasma.{VAR BE09 0000}",
+        "{VAR BE09 0001}Ghetsis asked me to work with him to save\nthe Pokémon.{VAR BE09 0000}",
+        "{VAR BE09 0001}I wonder how many Pokémon\nexist in this world...{VAR BE09 0000}",
+        "Wow... As I thought, it's high...\nAh... I may be getting scared...",
+        "Ugh... It's swaying... Isn't it? It is!\nI'm scared of how high up we are...",
+        "Ahh... No, no... This is my limit.\nHere... Sit a little closer, OK?",
+        "It's getting higher and higher...\nUlp. This is going faster than I thought.",
+        "Oh! Come look here!\nLook! Ulp, I'm not feeling so good...",
+        "... ... ... ... ... ...\n... ... ... ... ... ...",
+        "I thought I'd enjoy this ride, but I feel\nlike I'm enclosed in a tiny little space...",
+        "Luckily, I'm not scared of heights.\nThat would not be cool for a Hiker.",
+        "I'm gonna stay cool. Feel cool on the\ninside, look cool on the outside.",
+        "Uh-oh. It's higher than I thought.\nUlp. It's swaying more than I expected.",
+        "Oh! Don't move! We'll fall!\nDo...not...move...",
+        "Eep... I can't take it. This is my limit.\nW-w-will you hold my hand?",
+        "It's a great view... G-great...\nB-b-but...",
+        "I'm not crying. I'm not...\nSorry... Can I sit next to you?",
+        "Just...just until we start to descend...\nPlease...stay...",
+        "Um-hmm...\nSince we have time, shall we talk?",
+        "Um-hm... That's right... No way!\nThen... Um-hmm... Yes, yes... Um-hm...",
+        "Said...I like you... Such a lie.\nIt turned out there was... Uh-huh...",
+        "Yay! Yaaaay! It's going round and round!\nYaaay! Yaaaay! It's going up and up!",
+        "Yaaaay! So high up! Up in the sky!\nHee hee. It's fun!",
+        "Look how far we can see!\nLook! Please, Trainer?",
+        "The city is getting smaller and smaller...\nSuch a pretty sight...",
+        "Krrf! Krrrf! Krrrf!\nSorry... It's a bit chilly for me...",
+        "I think it's finally warming up. I'm\nfeeling better. Thanks for the company."
+    ],
+    "pad": "bcbc"
+}

@@ -1,0 +1,32 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi! I'm Iris, the amazingly strong\nGym Leader!{VAR BE01}\nTell me... What Pokémon are you using?\nHow will you fight?{VAR BE01}\nOoh, I'm super curious, so let's just\nget started!{VAR BE01}",
+        "Whoooa!\nThat was so cool!{VAR BE01}\nI'm sooo happy I could battle a Trainer\nas strong as you!{VAR BE01}",
+        "{VAR 0100 0000} received the Legend Badge\nfrom Iris.{VAR BE01}",
+        "Hey, that's your eighth Badge, right?\nThat's so cool!{VAR BE01}\nNow every Pokémon will do what you ask,\nno matter how big they are!{VAR BE01}\nKnow what? I'll give you this TM, too!{VAR BE01}",
+        "Dragon Tail doesn't just do damage.{VAR BE01}\nIt sends the other Pokémon back to its\nPoké Ball, too!{VAR BE01}",
+        "Ooh, hey!\nI wonder how Mister Alder is doing?{VAR BE01}\nI wonder if he's battling that Trainer\ncalled N in the Pokémon League right now?{VAR BE01}\nDo you know about the Pokémon League?{VAR BE01}\nIt's past Victory Road, at the end of\nRoute 10!",
+        "You've been on a journey and seen a lot\nof the world.{VAR BE01}\nI'm like that, too! I'm from way out in\nthe country.{VAR BE01}\nI'm really happy that I've gotten to\nmeet lots of different people{VAR BE00}\nand Pokémon!!",
+        "You've been on a journey and seen a lot\nof the world.{VAR BE01}\nI'm like that, too! I'm from way out in\nthe country.{VAR BE01}\nI'm really happy that I've gotten to\nmeet lots of different people{VAR BE00}\nand Pokémon!!",
+        "Welcome. Thank you for coming. I am\nOpelucid Pokémon Gym's Leader, Drayden.{VAR BE01}\nAs the mayor, I've given everything\nto developing the city.{VAR BE01}\nAs a Trainer, I've simply been pursuing\ngreater strength.{VAR BE01}\nBut what I'm searching for now is a young\nTrainer who can show me a bright future.{VAR BE01}\nPerhaps you can show me that future,\nthe way Iris has?{VAR BE01}",
+        "Wonderful.{VAR BE01}\nI'm grateful we had a chance to meet\nand battle.{VAR BE01}",
+        "{VAR 0100 0000} received the Legend Badge\nfrom Drayden!{VAR BE01}",
+        "Well, now. You've obtained all of the\nGym Badges in Unova.{VAR BE01}\nNow, all Pokémon will obediently follow\nyour commands.{VAR BE01}\nI also want you to have this.\nIt's a TM I'm particularly fond of.{VAR BE01}\nIt's called Dragon Tail.{VAR BE01}",
+        "Dragon Tail is a move that returns the\ndamaged Pokémon to its Poké Ball.{VAR BE01}\nIn other words, it switches your\nopponent's Pokémon.{VAR BE01}",
+        "Now, I have something to ask of you.{VAR BE01}\nHead for the Pokémon League and\ngo after Alder.{VAR BE01}\nThe Pokémon League is past Route 10,\nwhich runs from Opelucid City{VAR BE00}\nto Victory Road.{VAR BE01}\nI know Alder's strength, but I don't\nknow the depths of N's power...",
+        "Pokémon and people do not age because of\nthe passage of time.{VAR BE01}\nThey get old when the energy flowing in\ntheir hearts dries up.{VAR BE01}\nThis energy in our hearts is powered by\ntruth, ideals, or maybe dreams...{VAR BE01}\nThat probably changes with what you most\nhope for in your life.",
+        "Thanks for coming!\nI happily welcome you!{VAR BE01}\nBut...\nI may be a little rough on you!{VAR BE01}",
+        "Advancing or retreating is up to you.\nBut if you proceed, prepare yourself!{VAR BE01}\nMoving forward halfheartedly is\ndisrespectful to your Pokémon!",
+        "Welcome to the Opelucid Gym, the Unova\nregion's strongest and biggest trial!{VAR BE01}\nFirst off, please take this Fresh Water.\nIt'll help you in the challenge ahead.{VAR BE01}",
+        "Let me give you a brief explanation of\nthe trick to the Opelucid Gym!{VAR BE01}\nThe path around this Gym is shaped like\ntwo dragons.{VAR BE01}\nThis path changes when you step on\nthe switches on the dragons' arms.{VAR BE01}\nPay attention to how the dragons'\nnecks move!",
+        "You beat the Gym Leader?\nWow, that's amazing!{VAR BE01}\nOh, by the way, since I gave you all that\nFresh Water...{VAR BE00}\nDon't you owe me some of your winnings?{VAR BE01}\n...I'm kidding! It's just a joke!\nNo, seriously, congratulations!",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Iris\nCertified Trainers:",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Iris\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Iris\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Drayden\nCertified Trainers:",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Drayden\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Opelucid Pokémon Gym{VAR BE01}\nGym Leader: Drayden\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca"
+    ],
+    "pad": "f6f6"
+}

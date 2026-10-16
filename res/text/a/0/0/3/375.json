@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "Kid! Have you caught any {VAR 0101 0000}?{VAR BE01}\nIf you have, would you trade your\n{VAR 0101 0000} for my {VAR 0101 0001}?",
+        "OK! Let's start our Pokémon trade!{VAR BE01}",
+        "Oh! Oh! What a cute Pokémon!\nPlease cherish {VAR 0101 0001}, too.",
+        "Hey! Come on, now!\nI want to trade for a {VAR 0101 0000}...",
+        "I see... Well, come talk to me again if you\nchange your mind!",
+        "Trading Pokémon lets you get to know\nother Trainers!",
+        "I love the Pokémon moves Mega Drain\nand Giga Drain!{VAR BE01}\nYour opponent's HP is reduced, and the\nuser's HP increases!",
+        "Fwoo-ooo-ooosh...",
+        "Tralalala! ♪"
+    ],
+    "pad": "0404"
+}

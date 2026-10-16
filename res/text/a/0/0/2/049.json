@@ -1,0 +1,42 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You've created an Infrared Connection!",
+        "Create an Infrared Connection to start\nthe Feeling Check with someone.",
+        "Checking...\nPlease maintain the Infrared Connection.",
+        "Tap the menu in the Touch Screen\nto begin!",
+        {
+            "text": "BEGIN CHECK",
+            "flags": 144
+        },
+        {
+            "text": "RANKING",
+            "flags": 144
+        },
+        {
+            "text": "CANCEL",
+            "flags": 73
+        },
+        {
+            "text": "BACK",
+            "flags": 73
+        },
+        {
+            "text": "FEELING CHECK",
+            "flags": 160
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "6060"
+}

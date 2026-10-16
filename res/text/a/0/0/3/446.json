@@ -1,0 +1,64 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh, Shaymin!{VAR BE01}\nWhen it comes to Shaymin,\nGracidea flowers are important!{VAR BE01}\nI have a lot of Gracidea flowers,\nso let me share one with you.{VAR BE01}",
+        "Since early times in Sinnoh, people\nmade a bouquet of Gracidea flowers{VAR BE00}\nto give someone to show their{VAR BE00}\nfeelings of appreciation.{VAR BE01}\nIsn't that interesting?{VAR BE01}\nBy giving a Gracidea bouquet,\nyou don't have to say a word, and{VAR BE00}\nsomeone will know how grateful you are.{VAR BE01}\nQuite a delightful custom!",
+        "Do you know about Gracidea flowers?{VAR BE01}\nSince early times in Sinnoh, people\nmade a bouquet of Gracidea flowers{VAR BE00}\nto give someone to show their{VAR BE00}\nfeelings of appreciation.",
+        "Every Gym Badge tells the story\nof a hard-won victory against{VAR BE00}\na worthy opponent.{VAR BE01}\nI can look at a Gym Badge and\ntell you that story.{VAR BE01}\nCan I see one of your Gym Badges?",
+        "OK. You don't have to show me anything.\nI'm sure your memories are all you need!",
+        "Which Badge are you going to show me?",
+        "You got the Trio Badge with...{VAR BE01}",
+        "You got the Basic Badge with...{VAR BE01}",
+        "You got the Insect Badge with...{VAR BE01}",
+        "You got the Bolt Badge with...{VAR BE01}",
+        "You got the Quake Badge with...{VAR BE01}",
+        "You got the Jet Badge with...{VAR BE01}",
+        "You got the Freeze Badge with...{VAR BE01}",
+        "You got the Legend Badge with...{VAR BE01}",
+        "{VAR 0101 0000}.{VAR BE01}",
+        "{VAR 0101 0000} and {VAR 0101 0001}.{VAR BE01}",
+        "{VAR 0101 0000}, {VAR 0101 0001}, and\n{VAR 0101 0002}.{VAR BE01}",
+        "{VAR 0101 0000}, {VAR 0101 0001},\n{VAR 0101 0002}, and {VAR 0101 0003}.{VAR BE01}",
+        "{VAR 0101 0000}, {VAR 0101 0001},\n{VAR 0101 0002}, {VAR 0101 0003}, and{VAR BE00}\n{VAR 0101 0004}.{VAR BE01}",
+        "{VAR 0101 0000}, {VAR 0101 0001},\n{VAR 0101 0002}, {VAR 0101 0003},{VAR BE00}\n{VAR 0101 0004}, and {VAR 0101 0005}.{VAR BE01}",
+        "Want to show me another Gym Badge?",
+        {
+            "text": "Trio Badge",
+            "flags": 219
+        },
+        {
+            "text": "Basic Badge",
+            "flags": 219
+        },
+        {
+            "text": "Insect Badge",
+            "flags": 219
+        },
+        {
+            "text": "Bolt Badge",
+            "flags": 219
+        },
+        {
+            "text": "Quake Badge",
+            "flags": 219
+        },
+        {
+            "text": "Jet Badge",
+            "flags": 219
+        },
+        {
+            "text": "Freeze Badge",
+            "flags": 219
+        },
+        {
+            "text": "Legend Badge",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "I don't have anything to do ever since\nI took a post here.{VAR BE01}\nSince nobody goes outside at night,\nit's very peaceful."
+    ],
+    "pad": "aaaa"
+}

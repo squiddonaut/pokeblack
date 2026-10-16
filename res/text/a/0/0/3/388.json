@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "The key to open this closed gate is the\nTrio Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Trio Badge!\nChallenge all that you face!",
+        "First, obtain the Trio Badge from the\nStriaton Pokémon Gym!",
+        "Halt! Unqualified ones shall not pass!{VAR BE01}"
+    ],
+    "pad": "8a8a"
+}

@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren's Dad: Hey, {VAR 0100 0000}!{VAR BE01}\nI heard it from the professor!\nSo, you're getting a Pokémon, eh?{VAR BE01}\nOh, you've already got it!\nHm, that sure is a cute Pokémon.{VAR BE01}\nAnd you're all finally\nstarting your journeys as Trainers?{VAR BE01}\nWell, let me read you a passage from\na book called “Adventure Rules.\"{VAR BE01}\n“The X Button is vitally important\nfor Trainers.\" Never forget that.",
+        "Cheren's Mom: That Cheren.\nI'm sure he's at the laboratory. {VAR BE01}\nHe's so... How should I put it?\nDiligent or, better, conscientious.",
+        "Cheren's Dad: Traveling is great!{VAR BE01}\nYou encounter so many things you've\nnever seen and things you don't yet{VAR BE00}\nunderstand. Wherever you go, you'll{VAR BE00}\nlearn something new and grow up a little.",
+        "Cheren's Mom: Why, {VAR 0100 0000}.{VAR BE01}\nI hear the professor asked you to\ncomplete the Pokédex.{VAR BE01}\nDon't worry!\nYou'll always have Pokémon by your side."
+    ],
+    "pad": "8484"
+}

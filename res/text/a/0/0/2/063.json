@@ -1,0 +1,391 @@
+{
+    "flags": 248,
+    "entries": [
+        {
+            "text": "MAIN MENU",
+            "flags": 206
+        },
+        {
+            "text": "POKÉMON CENTER INFO",
+            "flags": 206
+        },
+        {
+            "text": "C-GEAR INFO",
+            "flags": 206
+        },
+        {
+            "text": "ABOUT “MENU\"",
+            "flags": 206
+        },
+        {
+            "text": "ABOUT “BATTLE\"",
+            "flags": 206
+        },
+        {
+            "text": "POKÉMON INFO",
+            "flags": 206
+        },
+        {
+            "text": "OTHER TOPICS",
+            "flags": 206
+        },
+        {
+            "text": "CONTINUE",
+            "flags": 207
+        },
+        {
+            "text": "NEW GAME",
+            "flags": 207
+        },
+        {
+            "text": "MYSTERY GIFT",
+            "flags": 207
+        },
+        {
+            "text": "BATTLE COMPETITION",
+            "flags": 207
+        },
+        {
+            "text": "DIGITAL PLAYER ID",
+            "flags": 207
+        },
+        {
+            "text": "GAME SYNC SETTINGS",
+            "flags": 207
+        },
+        {
+            "text": "NINTENDO Wi-Fi CONNECTION SETTINGS",
+            "flags": 207
+        },
+        {
+            "text": "MIC TEST",
+            "flags": 207
+        },
+        {
+            "text": "POKÉMON CENTER",
+            "flags": 207
+        },
+        {
+            "text": "MOVE POKÉMON IN THE PC",
+            "flags": 207
+        },
+        {
+            "text": "BATTLE BOX",
+            "flags": 207
+        },
+        {
+            "text": "HOW TO START A LINK TRADE",
+            "flags": 207
+        },
+        {
+            "text": "HOW TO START A LINK BATTLE",
+            "flags": 207
+        },
+        {
+            "text": "SINGLE BATTLE",
+            "flags": 207
+        },
+        {
+            "text": "DOUBLE BATTLE",
+            "flags": 207
+        },
+        {
+            "text": "TRIPLE BATTLE",
+            "flags": 207
+        },
+        {
+            "text": "ROTATION BATTLE",
+            "flags": 207
+        },
+        {
+            "text": "WONDER LAUNCHER",
+            "flags": 207
+        },
+        {
+            "text": "UNION ROOM",
+            "flags": 207
+        },
+        {
+            "text": "Wi-Fi CLUB",
+            "flags": 207
+        },
+        {
+            "text": "GLOBAL TERMINAL",
+            "flags": 207
+        },
+        {
+            "text": "FRIEND CODE",
+            "flags": 207
+        },
+        {
+            "text": "C-GEAR",
+            "flags": 207
+        },
+        {
+            "text": "TAG LOG",
+            "flags": 207
+        },
+        {
+            "text": "WHAT IS A PASSERBY SURVEY?",
+            "flags": 207
+        },
+        {
+            "text": "ACCEPTING A PASSERBY SURVEY REQUEST",
+            "flags": 207
+        },
+        {
+            "text": "STARTING A PASSERBY SURVEY",
+            "flags": 207
+        },
+        {
+            "text": "REPORTING PASSERBY SURVEY RESULTS",
+            "flags": 207
+        },
+        {
+            "text": "INFRARED CONNECTION",
+            "flags": 207
+        },
+        {
+            "text": "GAME SYNC",
+            "flags": 207
+        },
+        {
+            "text": "ENTRALINK",
+            "flags": 207
+        },
+        {
+            "text": "PASS POWER",
+            "flags": 207
+        },
+        {
+            "text": "PASS ORB",
+            "flags": 207
+        },
+        {
+            "text": "BAG",
+            "flags": 207
+        },
+        {
+            "text": "TRAINER CARD",
+            "flags": 207
+        },
+        {
+            "text": "POKÉDEX",
+            "flags": 207
+        },
+        {
+            "text": "TIPS ON CATCHING POKÉMON",
+            "flags": 207
+        },
+        {
+            "text": "TYPES AND TYPE MATCHUP",
+            "flags": 207
+        },
+        {
+            "text": "“PHYSICAL,\" “SPECIAL,\" AND “STATUS\"",
+            "flags": 207
+        },
+        {
+            "text": "FAINTED",
+            "flags": 207
+        },
+        {
+            "text": "POISON",
+            "flags": 207
+        },
+        {
+            "text": "PARALYSIS",
+            "flags": 207
+        },
+        {
+            "text": "SLEEP",
+            "flags": 207
+        },
+        {
+            "text": "FROZEN",
+            "flags": 207
+        },
+        {
+            "text": "BURNED",
+            "flags": 207
+        },
+        {
+            "text": "CONFUSED",
+            "flags": 207
+        },
+        {
+            "text": "INFATUATION",
+            "flags": 207
+        },
+        {
+            "text": "EXP. POINTS",
+            "flags": 207
+        },
+        {
+            "text": "EVOLUTION",
+            "flags": 207
+        },
+        {
+            "text": "“NATURE\" AND “CHARACTERISTIC\"",
+            "flags": 207
+        },
+        {
+            "text": "POKÉRUS",
+            "flags": 207
+        },
+        {
+            "text": "RUNNING",
+            "flags": 207
+        },
+        {
+            "text": "DOWSING MCHN",
+            "flags": 207
+        },
+        {
+            "text": "XTRANSCEIVER",
+            "flags": 207
+        },
+        {
+            "text": "GYM BADGES",
+            "flags": 207
+        },
+        {
+            "text": "READY BUTTON",
+            "flags": 207
+        },
+        {
+            "text": "TRANSFER POKÉMON WITH POKÉ TRANSFER",
+            "flags": 207
+        },
+        {
+            "text": "CATCH POKÉMON WITH POKÉ TRANSFER",
+            "flags": 207
+        },
+        "When you are playing, press the X Button\nto open the menu and save often.\n\nOnce saved, you can select “CONTINUE\"\nfrom the main menu to continue playing\nthe game from that location even if you've\nturned off your Nintendo DS since.",
+        "To delete your saved data and\nstart a new game, go to the\ntitle screen and press the\nfollowing buttons at the same time.\n\nUP + SELECT + B Button",
+        "You can receive special gifts at events and\nother locations in the following three ways.\n\n-GET VIA WIRELESS\n-GET VIA NINTENDO WFC\n-GET VIA INFRARED\n\nPlease note that each event has its own way\nof distributing gifts.",
+        "When you receive a Wonder Card\nfor a special Pokémon or an item,\na deliveryman with a blue cap\nwill appear in the Pokémon Center.\n\nPlease talk to him to receive\nthe Pokémon or item.",
+        "You can keep up to 12 Wonder Cards.\n\nTo receive another Wonder Card\nwhen you already have 12, go to\n“CHECK THE CARD ALBUM\"\nand delete one to make room\nfor a new Wonder Card.",
+        "You can participate in competitions\nusing Nintendo Wi-Fi Connection\nand at events.\n\nFor details on the Battle Competition,\ngo to “BATTLE COMPETITION\"\non the main menu and select\n“Info.\"",
+        "For more details on Battle Competition,\nincluding Battle Competition rules and\nhow to register as a user,\nvisit the following official websites.\n\nPokémon Global Link website\nThe Official Pokémon website",
+        "Pokémon in your Battle Box\ncan participate in Battle Competitions.\n\nOnce registered, you cannot change\nthe Pokémon in your Battle Box\nduring the competition.\n\nPlease carefully select the right Pokémon\nbefore you start the competition.",
+        "Once you have completed\nthe registration for Battle Competition,\nyou will be able to check your\nDigital Player ID.\n\nFor more details, please visit\nthe Pokémon Global Link.",
+        "Before adjusting Game Sync settings,\nyou must complete your\nNintendo Wi-Fi Connection settings.\n\nWhen these settings are done,\nadjust the Game Sync settings\nto have the Game Sync ID issued.\nThis is a unique ID assigned to you.",
+        "You must have a Game Sync ID\nto register at the\nPokémon Global Link using\na computer with Internet access.",
+        "When you delete a saved game,\nyour Game Sync ID will also be lost.\n\nWhen you change your Game Sync ID,\nyou must also renew your registration\nat the Pokémon Global Link.",
+        "You can set up your DS system\nfor Nintendo Wi-Fi Connection.\n\nOnce your Nintendo Wi-Fi Connection\nsettings are complete, you can trade\nand battle with people all over the world\nthrough the Internet.",
+        "You need to set up the Nintendo Wi-Fi\nConnection settings to connect your game\nwith the Pokémon Global Link, which allows\nBattle Competition, Game Sync settings,\nand so on.",
+        "You can check to see\nif your DS system's\nmicrophone is functioning.\n\nThe microphone is functioning properly\nif Jigglypuff on the top screen\nreacts when you talk\nor blow into it.",
+        "You can restore your tired Pokémon and buy\nuseful items. You'll find the PC where you\ncan keep captured Pokémon.\n\nYou can hear\nProfessor Juniper's evaluation\nof your Pokédex.\n\nVisit 2F for Link Trade and Link Battle.",
+        "You can use the PC to store and organize\nPokémon.\n\nWhen you have six Pokémon in your party,\nany Pokémon you catch will be sent to the PC.",
+        "You can register up to six Pokémon\nyou use most often in battles.\n\nFor a Link Battle, you can choose to battle\nwith either your party Pokémon or with\nthe Pokémon in the Battle Box.\n\nIf your Battle Box is empty,\nyou always battle with your party Pokémon.",
+        "There are four ways to offer a Link Trade.\n\n-Through an IR Connection\n-Through the Union Room\n-Through the Wi-Fi Club\n-Through the Global Terminal",
+        "-Through an IR Connection\n\nIf your friends are nearby, IR Connection is\na quick way to trade.\n\nSelect IR from your C-Gear and select Trade.",
+        "-Through the Union Room\n\nWhen you are playing with lots of friends,\nyou can use the Union Room for trades.\n\nThe Union Room is in Pokémon Center 2F.",
+        "-Through the Wi-Fi Club\n\nWhen your friends are far away,\nyou can trade through the Wi-Fi Club.\n\nYou must have exchanged your Friend Codes\nahead of time to use the Wi-Fi Club.",
+        "-Through the Global Terminal\n\nUsing the Global Terminal, you can trade\nPokémon with people all over the world.\n\nWhen the trade conditions are met,\nyour Pokémon are traded automatically.",
+        "There are four ways to offer a Link Battle.\n\n-Through an IR Connection\n-Through the Union Room\n-Through the Wi-Fi Club\n-Through the Global Terminal",
+        "-Through an IR Connection\nIf your friends are nearby, an IR Connection\nis a quick way to battle.\n\nSelect IR from your C-Gear and select Battle\nfor a Level 50 Flat Battle with the\nWonder Launcher.",
+        "-Through the Union Room\n\nWhen you are playing with lots of friends,\nyou can go to the Union Room for battles.\n\nThe Union Room is located in Pokémon\nCenter 2F.",
+        "-Through the Wi-Fi Club\n\nWhen your friends are far away, you can\nbattle using the Wi-Fi Club.\n\nYou must have exchanged your Friend Codes\nahead of time to use the Wi-Fi Club.",
+        "-Through the Global Terminal\nUsing the Global Terminal, you can battle with\npeople all over the world using various rules\nto hone your skills.\n\nThe Global Terminal is located in Pokémon\nCenter 2F.",
+        "A battle where each Trainer chooses one\nPokémon to fight is called Single Battle.\n\nIncluding Single Battle, there are four kinds\nof battles.\n\nYou can always press the A Button\nwhile holding down the L Button to\nread move information when choosing a move.",
+        "Having a battle with two Pokémon from each\nTrainer is called Double Battle.",
+        "A battle with three Pokémon from each\nTrainer is called Triple Battle.\n\nIn a Triple Battle challenge, Pokémon cannot\nattack others if they are too far away.\n\nThe one in the middle position can attack\nany of the other Trainer's Pokémon.",
+        "Some moves can reach Pokémon\neven when they are far away.\n\nYou can switch Pokémon locations\nduring battle.\n\nYou can select “SHIFT\" while selecting\na move and the right or left Pokémon will\nswitch places with the middle Pokémon.",
+        "Rotation Battle is a new and evolved\nstyle of Single Battle.\n\nYou'll need three of your Pokémon\nfor Rotation Battle.\n\nOnly one Pokémon can act every turn,\nbut you choose which one takes action.",
+        "If you want to move a Pokémon to the front,\nselect the Rotation icon while selecting\na move.\n\nThe Pokémon will rotate to the front and\nwill use its selected move in the same turn.",
+        "When you select Wonder Launcher “ON,\"\nyou and the other Trainer can use items\nduring a Link Battle.\n\nEach item has points needed to launch.\nYou'll gain points in battle.\n\nYou choose whether to use items immediately\nor collect points for powerful items.",
+        "In the Union Room, you can trade and\nbattle with people nearby.\n\nGo to Pokémon Center 2F and enter\nthe room to your left. Press the A Button\nto talk to anyone there.\n\nFor more information, talk to the lady\nat the far left in the Union Room.",
+        "At the Wi-Fi Club in Pokémon Center 2F,\nyou can make Link Trades, fight Link Battles,\nand use Voice Chat or the Xtransceiver with\npeople you've registered on your Pal Pad.\n\nRefer to the “FRIEND CODE\" section\nof this guide to learn how to register\nyour friends.",
+        "Once in the room, press the A Button\nnear the friend you want to link to.\n\nYour friends who have decided what to do\nwill be jumping up and down while waiting.\n\nWhen you've decided what you want to do,\npress the A Button near the monitor\nat the far end of the room.",
+        "You can talk to your friends with Voice Chat.\nIt works like a telephone.\n\nPress the X Button in the room to indicate\nwhether you want to use Voice Chat or not.",
+        "At the Global Terminal, you can set up\nLink Trades and you can Link Battle with\npeople all around the world.\n\nGo to the right counter in Pokémon Center 2F.",
+        "This personal number is issued when you\nestablish a Nintendo Wi-Fi Connection.\n\nIf you exchange Friend Codes, you can battle\nand trade with friends far away.\n\nPlease check the Pal Pad in the Key Items\nin your Bag for your own Friend Code.",
+        "You can register a Friend Code in two\ndifferent ways.\n\n- Use the Pal Pad in the Key Items in your\n   Bag to enter your friend's Friend Code\n- Use an Infrared Connection from your\n   C-Gear",
+        "C-Gear is a multi-functional device that lets\nyou use the Entralink, the Xtransceiver, and\nGame Sync.\n\nYour C-Gear can also help you Link Trade\nand Link Battle with people nearby.\n\nTap the power icon in the bottom-right corner\nof your C-Gear to turn it on or off.",
+        "When your C-Gear is turned on, your\nDS system's wireless communications\nare always on.\n\nTurn your C-Gear off in places where\nwireless communications are prohibited,\nsuch as airplanes and hospitals.",
+        "Tap the wrench icon in the bottom-right\ncorner of the C-Gear to customize it.\n\nTry tapping on the colorful frames\nafter you've tapped the wrench icon.\nYou can customize them to your liking.\n\nTap the ? icon for help with your C-Gear.",
+        "The long icon at the bottom of your C-Gear\nis for the Tag Log. Tap it to see people\nwho are using their C-Gear around you.\n\nYou can see their profiles, tell what they\nare doing, and exchange messages.\n\nOthers can see what you are doing, as well.",
+        "When you see other players who have their\nC-Gear on, you can select them to see their\nplay time, location in the game, and more.",
+        "Tap the triangle icon in the Tag Log to use\na Pass Power received from your Entree.\n\nTo receive a Pass Power, complete missions\nat someone else's Entree and then check\nyour own Entree.",
+        "Tap the speech-bubble icon to send messages\nto another player with his or her C-Gear\nturned on.\n\nNever send offensive messages or messages\nthat contain personal information such as\nnames and telephone numbers.",
+        "Tap the smile icon and you can send\na thank-you message.\n\nTap the icon and then select whom to thank.",
+        "A Passerby Survey can tell you\nhow many people around you\nlike certain hobbies, for example.",
+        "You can accept Passerby Survey requests\nat the Passerby Analytics HQ in Castelia City.",
+        "When the leader asks you to take a survey,\ntap the pie-chart icon in the bottom-left\ncorner of your C-Gear to decide which survey\nto run.\n\nThe survey you are running will be marked\nin your list.",
+        "Once you've decided which survey to run,\njust turn your C-Gear on.\n\nThe survey will take place automatically\nas people pass by you.\n\nThe survey will continue even when your\nDS system is closed or when you are playing\nthe game.",
+        "Before you report to the leader in Castelia\nCity, check the results using “CHECK SURVEY\nRESULTS\" in your C-Gear.\n\nOnce you know that the survey is complete,\ngo to Passerby Analytics HQ in Castelia City\nto report to your leader.",
+        "When you tap the red-framed “INFRARED\"\nin your C-Gear, you can enjoy Link Trade and\nLink Battle with people nearby.\n\nYou can also exchange Friend Codes and check\nhow close you are to someone else.",
+        "Select the same item and let your and your\nfriend's DS systems face each other to start\nthe connection.\n\nOnce they are connected, your DS systems\nno longer need to face each other.",
+        "When you tap the blue-framed\n“ONLINE\" on your C-Gear,\nthe Game Sync option will appear.\n\nGame Sync is a system to make a Pokémon in\nthe PC fall asleep and to send the saved\ndata of Trainers all over the world.",
+        "You'll see different colors display\ninside the “ONLINE\" C-Gear frame,\ndepending on the situation.\n\nIt is green when the\nNintendo Wi-Fi Connection Settings\nof the DS system are complete.",
+        "The frame will be blue when you are\nsomewhere with a wireless access point\nthat enables Nintendo Wi-Fi Connection,\nsuch as Nintendo Zone.",
+        "When you are near wireless access points,\nbut your Nintendo Wi-Fi Connection Settings\nare not complete, the background\ninside the “ONLINE\" frame will be red.",
+        "The saved data sent through Game Sync\ngoes to the Pokémon Dream World.\n\nThe Pokémon Dream World is located\non the official Pokémon Global Link website.",
+        "To play in the Pokémon Dream World,\nyou must set up the following items:\n\n-Nintendo Wi-Fi Connection Settings\n-Game Sync Settings\n-User registration with your own computer\n  at the official website for\n  the Pokémon Global Link.",
+        "You can move to the center of the Unova\nregion, called the Entralink, by tapping the\nyellow frame with “WIRELESS\"\non it on your C-Gear.\n\nIn the center of your Entralink is a tree\ncalled the Entree.",
+        "The Entralink creates bridges to visit\nother people's worlds when they are near you\nand their C-Gear is turned on.\n\n*Note that you cannot enter your Entralink\n when someone else is in your Entralink.",
+        "Please wait on the left or right bridge\nat the Entralink for establishing a bridge\nwith the other Trainer.\n\nYou can only establish a bridge\nwhen the other Trainer is at one of the eight\ncities or routes surrounding the Entralink.\nThe other Trainer cannot be in a building.",
+        "When the Entralink bridge is established,\nyour Touch Screen will inform you\nwho the other Trainer is.\n\nYou can enter the other Trainer's world\nthrough the bridge.\n\nThe other world looks grayish, and\nyour appearance will change, too.",
+        "The other Trainer's Entralink contains\nan Entree, as well.\n\nPress the A Button in front of the Entree,\nand you will receive a mission.\n\nThe missions have a time limit and may take\nvarious forms, such as talking to a person\nor fighting a Pokémon battle.",
+        "Once you accept the first mission,\nyou can warp to any city you want\nto visit.\n\nTo find the other Trainer, tap a city near\nthem on the Touch Screen to be sent to,\nthen start looking around for them.",
+        "Once you complete a mission received from the\nother Trainer's Entree, you'll return to\nyour own Entree.\n\nYou'll then receive a mysterious Pass Power\nfrom your own Entree.",
+        "Options not available while in the Entralink.\n\n-Save the game\n-Use Key Items\n-Use an HM or other moves that can be\n used outside of battle.\n\nYou cannot use these options in your own\nEntralink or in someone else's world.",
+        "A Pass Power is a mysterious power you\nreceive from the Entree in your Entralink.\n\nYou receive it after you've successfully\ncompleted missions from the Entree\nin someone else's Entralink.",
+        "You cannot use a Pass Power in your Entralink\nor in someone else's world.\n\nIf you want to use your Pass Power, please\nexit the Entralink and tap the Tag Log at the\nbottom of your C-Gear, then tap the\ntriangle icon.",
+        "To use Pass Power, you need a certain number\nof Pass Orbs.\n\nYou can obtain Pass Orbs by completing\nmissions from someone else's Entree.",
+        "You need to have a certain number\nof Pass Orbs to use your Pass Power.\n\nYou can obtain Pass Orbs by completing\nmissions from someone else's Entree.",
+        "■ Bag function\nYour Bag always sorts items by their types.\n\nItems in the Key Items Case\nhave checkboxes next to them.\n\nCheck the box to set up the item\nto use it by pressing the Y Button,\nwithout having to open your Bag.",
+        "Pressing the green icon on the Touch Screen\nor START sorts items in the Case.\n\nPressing SELECT allows you to move items\nin a Case freely. You can switch between\npages with the L Button or R Button.",
+        "■ Item types\n-ITEMS\nPokémon can hold some items to raise their\nstats or move power. Those items are marked.\n\nTry letting your Pokémon hold these items\nto see what effects they have.",
+        "There are some items you can use\nonly in a battle to raise Pokémon stats or\nmoves powers.\n\nSome items may last for a limited time.\nSome last until the Pokémon switches out.",
+        "The Poké Balls you need to catch Pokémon\nare kept in the ITEMS Case, as are items\nrelated to Pokémon evolution.\n\nYou can combine phrases and words\nto form Mail. Your Pokémon can hold Mail,\nand if you trade the Pokémon with\nyour friends, they can deliver your Mail.",
+        "-MEDICINE\nThis area holds items that restore\nyour Pokémon's HP, PP, and heal\nstatus conditions.\n\n-TMs & HMs\nThis area holds your TMs & HMs.\nThey can be reused as often as you like.",
+        "-BERRIES\nThis holds Berries that create special\neffects when your Pokémon hold them\nor use them.\n\n-KEY ITEMS\nThis is a place to keep Key Items. You can\nassign some of them to the Ready button\nfor instant use.",
+        "Open the menu using the X Button, then\nselect your name to check how many\nGym Badges you have.\n\nYou can tap the mark in the bottom-left\ncorner of the Touch Screen to check\nyour Trainer Card.",
+        "The Trainer Card displays your total\nplay time, prize money, and more.\nTap your title and characteristic to change\nthem, and select a new one you like.\n\nTouch the white frame underneath\nto edit your message. Fill in the boxes\nto complete your message.",
+        "You can sign the back of your card\nusing the stylus.\n\nTap the pen and eraser icons to switch\nbetween writing and erasing.\n\nTap the plus icon to magnify the screen.\nTap the triangle icon to split the signature\narea in two for animation.",
+        "This high-tech Pokédex records Pokémon\nautomatically.\n\nYou can check a Pokémon's info, area, cry,\nheight, weight, type, footprint, and more.",
+        "As you progress in your adventure, the\nPokédex will gain the search feature.\n\nWhen it's added, press START to search\nfor Pokémon that match certain conditions,\nsuch as Pokédex number, alphabetical order,\ncolor, or form.",
+        "Your chances of capturing a Pokémon\nare better if you lower your target's HP\nbefore you throw Poké Balls.\n\nIf you use Pokémon moves to inflict a Sleep\nor Paralysis condition on the target,\ncapturing it will be even easier.",
+        "Pokémon and their moves fall into\n17 different types. Each type has\nits own advantageous and disadvantageous\nmatchups against the others.\n\nFor example, Fire-type moves are more\neffective against Bug- and Grass-type\nPokémon but are less effective against\nWater- or Rock-type Pokémon.",
+        "When the move type matches the type of the\nPokémon using it, the power of the move\nis greater than usual.\n\nWhen a Pokémon has two types, either one\ncan affect the power.\n\nSome move types have no effect at all\non Pokémon of certain types.",
+        "Moves are classified as Physical, Special, or\nStatus moves. You can tell which is which\nby their icons.\n\n-Physical Moves\nPokémon's Attack and Defense stats\ndetermine the overall damage of this type\nof move.",
+        "-Special Moves\nPokémon's Sp. Attack and Sp. Defense stats\ndetermine the overall damage of these types\nof moves.\n\n-Status Moves\nThis type of move is not a direct attack, but\nit can raise the Pokémon's stats and inflict\nstatus conditions that help them in battles.",
+        "The Pokémon's HP has reached zero.\nYou must restore its HP before\nit can battle again.\nSome of the moves usable outside battle can\nstill be used when its HP reaches zero.\n■ To heal your Pokémon:\n-Let Pokémon rest at a Pokémon Center\n-Use Revive\n-Use Max Revive",
+        "The Pokémon has been poisoned.\nIts HP will gradually decrease in battle.\nThis will stop when it returns to its Poké Ball\nor when the battle ends, but the poisoned\nPokémon will not cure itself.\n\n■ To heal a poisoned Pokémon:\n-Let Pokémon rest at a Pokémon Center\n-Use Antidote, Pecha Berry, etc.",
+        "The Pokémon has paralysis.\nIts Speed stat drops, and\nit sometimes fails to use moves.\nA Pokémon with paralysis will not\ncure itself.\n\n■ To heal a Pokémon with paralysis:\n-Let Pokémon rest at a Pokémon Center\n-Use Parlyz Heal, Cheri Berry, etc.",
+        "The Pokémon is asleep. Only certain moves\ncan be used in this state.\n\nThe Pokémon can wake up during a battle, but\nit stays asleep if the battle ends before it\nwakes up.\n■ To heal a sleeping Pokémon:\n-Let the Pokémon rest at a Pokémon Center\n-Use Awakening, Chesto Berry, etc.",
+        "The Pokémon is frozen and cannot use\nmost moves. It can be defrosted during\na battle, but it stays frozen if the battle\nends before it is defrosted.\n\n■ To heal a frozen Pokémon:\n-Let the Pokémon rest at a Pokémon Center\n-Use Ice Heal, Aspear Berry, etc.",
+        "The Pokémon is burned.\nIts Attack stat drops, and its HP gradually\ndecreases. This HP loss stops when it returns\nto its Poké Ball or when the battle ends,\nbut the burned Pokémon will not\ncure itself.\n■ To heal a burned Pokémon:\n-Let the Pokémon rest at a Pokémon Center\n-Use Burn Heal, Rawst Berry, etc.",
+        "The Pokémon is confused.\nIt sometimes attacks itself instead of\nusing the selected move.\nIt is cured after the battle, and the Pokémon\ncan sometimes cure itself during a battle.\n\n■ To heal a confused Pokémon:\n-Switch out the affected Pokémon in a battle\n-Use Persim Berry, etc.",
+        "The Pokémon is infatuated\nby a Pokémon of the opposite gender.\nIt has a crush on the other Pokémon\nand sometimes fails to use its moves.\n\nIt will be cured when switched out\nor when the other Pokémon is defeated.",
+        "Pokémon earn Exp. Points\nafter a battle. They grow as they\nreceive Exp. Points and level up.\n\nThe stronger the Pokémon it defeats,\nthe more Exp. Points it earns.\n\nThe weaker the Pokémon it defeats,\nthe fewer Exp. Points it earns.",
+        "Exp. Points are shared among\nthe Pokémon in a battle. To help\na weak Pokémon receive Exp. Points,\ntake it out and switch in a strong Pokémon.\n\nWhen you trade and receive a Pokémon\nfrom another Trainer, it'll gain more\nExp. Points than Pokémon that\nyou've caught yourself.",
+        "Pokémon sometimes evolve.\nWhen they do, their appearance changes\nand their stats increase.\n\nThere are many ways to evolve.\nYou can evolve some Pokémon by leveling up,\nsome by using items that evolve Pokémon,\nand some by trading a Pokémon with a friend.\nEach Pokémon has its own way to evolve.",
+        "If you press the B Button while a Pokémon\nis evolving, it will be surprised\nand will stop evolving.\n\nYou can also obtain an item that\nprevents Pokémon from evolving.",
+        "Pokémon can grow differently,\ndepending on each one's Nature\nand Characteristic.\n\nSometimes Pokémon stats such as\nAttack and Defense may be colored\nred or blue. Red means the stat is\nmore likely to increase, and blue means\nthe stat is less likely to increase.",
+        "Pokérus is a beneficial virus seldom\nseen on Pokémon.\n\nPokérus seems to help Pokémon grow faster.\nAfter several days, Pokémon will return to\nnormal and are immune to Pokérus.\n\nPokérus may spread to other Pokémon\nin your party.",
+        "Once you've received the Running Shoes,\npress the B Button to run.",
+        "The Dowsing MCHN can indicate where items\nare hidden on the Touch Screen.\n\nFollow the directions to find them. When\nyou stand on a hidden item, it will blink.\n\nYou cannot pick up items if you are standing\ndirectly on them. Step away, face toward\nthe hidden item, and press the A Button.",
+        "This item lets you talk to your friends\nusing DS Wireless Communications\nor Nintendo Wi-Fi Connection.\n\nWith a Nintendo DSi or Nintendo DSi XL,\nyou can use the camera to see each\nother while talking.\nYou must both register Friend Codes before\ntalking with friends on the Xtransceiver.",
+        "■ Using DS Wireless Communications\nTouch the “WIRELESS\" button on your C-Gear\nto select the Xtransceiver.\nThe names and ID numbers of Trainers\nyou've exchanged Friend Codes with\nwill appear on the Touch Screen.\nSelect the people you want to talk to\nand give them a call. You can call\nup to three people at once.",
+        "The “WIRELESS\" button on your C-Gear will\nflash, and the C-Gear will ring.\n\nThe Xtransceiver will show your friend's name.\nTap it to pick up the phone.\n\nYou will not be able to answer if you tap\nthe Xtransceiver.",
+        "■ Using Wi-Fi Club\nYou can talk to one Trainer in the Wi-Fi Club.",
+        "■ How to Use the Xtransceiver\nUse the Touch Screen. Touch the button\nin the middle while you are talking into it.\n\nUse the gauge to your left to change\nthe pitch of your voice.",
+        "With the Nintendo DSi and Nintendo DSi XL,\nyou'll see another player's face on the top\nscreen. You can cover it with graffiti using\nthe button in the top-right corner. You can\nalso freeze the picture using the button in\nthe bottom-right corner.\n\n“SOUND ONLY\" will be displayed\nif the DS system lacks a camera.",
+        "The Unova region has eight Gyms. Each Gym\nhas its own Gym Leader, and you can win\nGym Badges by defeating those Gym Leaders.\n\nPress the X Button to open the menu and\nselect your name to check how many\nGym Badges you've collected.",
+        "As you collect Badges, the Pokémon you've\npicked up by trading will start to obey you\nwithout question, even if their level is high.",
+        "The Ready button is an easy shortcut\nto frequently used functions and items.\n\nOnce you register something with the\nReady button, just press the Y Button\nto use that item or function instantly.",
+        "You may see boxes on the Touch Screen when\nyou open the menu by pressing the X Button.\n\nTap the box and a check mark will appear in it.\n\nFunctions and items with check marks\nnext to them are the ones that\nare registered to the Ready button.",
+        "You will see boxes next to item names\nin the Key Items Case, as well.\n\nTap to check them, and they will be\nregistered to work with the Ready button.",
+        "You can register up to 25 functions and items\nwith the Ready button.\n\nTo unregister, tap a checked box to remove\nthe check mark.\n\nPress SELECT to change the order of the\nfunctions and items on the list.",
+        "Insert one of the following games in another\nDS system and turn the power ON.\n- Pokémon Diamond Version\n- Pokémon Pearl Version\n- Pokémon Platinum Version\n- Pokémon HeartGold Version\n- Pokémon SoulSilver Version\nThen tap DS Download Play in the DS Menu\nto select Poké Transfer.",
+        "When the Pokémon have been received,\nselect the six Pokémon you'd like\nto transfer to Pokémon Black Version or\nPokémon White Version and slide them\ninto the frame to your right.\n\nPokémon sent by Poké Transfer CANNOT\nbe returned to the games they came from.",
+        "Tap the Touch Screen to pull back\nthe Poké Ball, aim it at the Pokémon,\nand release the Poké Ball.\n\nSome Pokémon may be hiding in the grass\nor behind trees.",
+        "When hit by a Poké Ball, a Pokémon will\ncome out from where it's been hiding.\nThrow a second Poké Ball to catch it.\n\nTry to catch all six Pokémon\nwithin the time limit.",
+        "You may see pink mist from time to time.\nIf you hit it with your Poké Ball,\nthe Pokémon will fall asleep.\n\nPokémon cannot move while sleeping,\nso this makes it easier to catch them."
+    ],
+    "pad": "5252"
+}

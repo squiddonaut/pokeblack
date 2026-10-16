@@ -1,0 +1,817 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "Trying to get their attention...",
+            "flags": 240
+        },
+        {
+            "text": "Someone is talking to you...",
+            "flags": 240
+        },
+        {
+            "text": "Seems to be busy...",
+            "flags": 240
+        },
+        {
+            "text": "Please wait a moment...",
+            "flags": 240
+        },
+        {
+            "text": "The conversation has been dropped.",
+            "flags": 240
+        },
+        {
+            "text": "You were too late.",
+            "flags": 240
+        },
+        {
+            "text": "The connection has been lost.",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR BD02}Mission failed...",
+            "flags": 240
+        },
+        {
+            "text": "Pass Orbs received: {VAR 0201 0000}.{VAR BE02 005A}\n",
+            "flags": 240
+        },
+        {
+            "text": "{VAR BD02}Mission accomplished!",
+            "flags": 240
+        },
+        {
+            "text": "Please wait a moment...\nThe mission will start shortly.",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It seems that {VAR 0100 0000} came\nto help you through the Entralink.{VAR BE00}\n{VAR 0100 0000} left an item for you.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Your Entralink's ◇Black Lv. went up\nby {VAR 0202 0000} as happiness increased!{VAR BE02 005A}",
+            "flags": 240
+        },
+        {
+            "text": "Your Entralink's ◆White Lv. went up\nby {VAR 0202 0000} as happiness increased!{VAR BE02 005A}",
+            "flags": 240
+        },
+        "The Pokémon that came to you\nhad a cute little cry!{VAR BE01}\n...What?\nIt started shining all of a sudden!{VAR BE01}",
+        "The Pokémon that came to you\nroared ferociously!{VAR BE01}\n...What?\nIt started shining all of a sudden!{VAR BE01}",
+        "...Huh?\nIt started shining all of a sudden!{VAR BE01}",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        {
+            "text": "{VAR 0100 0000}: Haha!\nI got you!{VAR BE01}\nBut it's strange for a Pokémon\nto be hanging around here.{VAR BE00}\n...What?{VAR BE01}\n{VAR 0100 0001} used the\n{VAR 011C 0002} received from{VAR BE00}\nthe Entree on {VAR 0100 0000}!{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000}: Haha!\nI got you!{VAR BE01}\nBut it's strange for a Pokémon\nto be hanging around here.{VAR BE00}\n...What?{VAR BE01}\n{VAR 0100 0001} used the\n{VAR 011C 0002} received from{VAR BE00}\nthe Entree on {VAR 0100 0000}!{VAR BE01}",
+            "flags": 240
+        },
+        "It's so cute!{VAR BE01}\nIt wants to play with you.",
+        "It's roaring ferociously!{VAR BE01}\nIt wants to play with you.",
+        "...{VAR BE01}\nIt wants to play with you.",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Huh?\nDo you want me to play with you?",
+        "{VAR 0100 0000}: Huh?\nDo you want me to play with you?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Wow!\nWhat a great power!{VAR BE01}\nThank you!\nThat'll help me a lot!{VAR BE01}",
+        "{VAR 0100 0000}: Wow!\nWhat a great power!{VAR BE01}\nThank you!\nThat'll help me a lot!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Go!\nThat's right! Hang in there!{VAR BE01}\n...They seem busy\nbattling someone else.",
+        "{VAR 0100 0000}: Go!\nThat's right! Hang in there!{VAR BE01}\n...They seem busy\nbattling someone else.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Squeak!\nSqueeak!{VAR BE01}\nUnfortunately they seem to be busy...",
+        "Grrr!\nGrrrrrr!{VAR BE01}\nUnfortunately they seem to be busy...",
+        "Unfortunately they seem to be busy...",
+        "{VAR 0100 0000}: ...\n... ... ...{VAR BE00}\nSeems to be busy...",
+        "{VAR 0100 0000}: ...\n... ... ...{VAR BE00}\nSeems to be busy...",
+        "Squeak!\nSqueeeak!{VAR BE01}\nIt seems full of energy!",
+        "Grrr!\nGrrrrrrr!{VAR BE01}\nIt seems full of energy!",
+        "It seems full of energy!",
+        "{VAR 0100 0000}: Hi!\nAre you keeping busy?",
+        "{VAR 0100 0000}: Hi!\nAre you keeping busy?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: ...\n...Gah!{VAR BE01}\nDid I fall asleep...?{VAR BE01}\nOh no!\nI've got to go!{VAR BE00}\nThank you for waking me up!{VAR BE00}\nHere, please take this!{VAR BE01}",
+        "{VAR 0100 0000}: ...\n...Gah!{VAR BE01}\nDid I fall asleep...?{VAR BE01}\nOh, no!\nI've got to go!{VAR BE00}\nThank you for waking me up!{VAR BE00}\nHere, please take this.{VAR BE01}",
+        {
+            "text": "The Pokémon that came to you\nwas so cute!{VAR BE01}\n...What?\nIt started shining all of a sudden!{VAR BE01}\n{VAR 0100 0000} received one\n{VAR 011C 0002} from the Pokémon!{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "The Pokémon that came to you\nroared ferociously!{VAR BE01}\n...What?\nIt started shining all of a sudden!{VAR BE01}\n{VAR 0100 0000} received one\n{VAR 011C 0002} from the Pokémon!{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "... ... ...{VAR BE01}\n...Huh?\nIt started shining all of a sudden!{VAR BE01}\n{VAR 0100 0000} received one\n{VAR 011C 0002} from the Pokémon!{VAR BE01}",
+            "flags": 240
+        },
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI thought this might come in handy\nin your adventure.{VAR BE01}\nThis is from my Entralink.\nPlease take it!{VAR BE01}\n...{VAR 0100 0000} started shining\nall of a sudden!{VAR BE01}",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI thought this might come in handy\nin your adventure.{VAR BE01}\nThis is from my Entralink.\nPlease take it!{VAR BE01}\n...{VAR 0100 0000} started shining\nall of a sudden!{VAR BE01}",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nMy adventure is going smoothly\nthanks to my Pokémon and everyone else!{VAR BE01}\nHuh?\nAre you giving me something?{VAR BE01}",
+        {
+            "text": "Thank you!\nThat'll help me a lot!{VAR BE01}\n{VAR 0100 0001} used the\n{VAR 011C 0002} received from{VAR BE00}\nthe Entree on {VAR 0100 0000}!{VAR BE01}",
+            "flags": 240
+        },
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nMy adventure is going smoothly\nthanks to my Pokémon and everyone else!{VAR BE01}\nHuh?\nAre you giving me something?{VAR BE01}",
+        {
+            "text": "Thank you!\nThat'll help me a lot!{VAR BE01}\n{VAR 0100 0001} used the\n{VAR 011C 0002} received from{VAR BE00}\nthe Entree on {VAR 0100 0000}!{VAR BE01}",
+            "flags": 240
+        },
+        "It's so cute! It seems surprised to be\ntalked to out of the blue.",
+        "It's roaring ferociously! It seems\nsurprised to be talked to out of the blue.",
+        "It seems surprised to be talked to\nout of the blue.",
+        "{VAR 0100 0000}: Oh!\nHi!{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI have something I prepared for you.\nWait just a second, OK?{VAR BE00}\nI'll talk to you when I'm ready.",
+        "{VAR 0100 0000}: Oh!\nHi!{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI have something I prepared for you.\nWait just a second, OK?{VAR BE00}\nI'll talk to you when I'm ready.",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nAre you traveling, too?\nFeel free to talk to me anytime!",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nAre you traveling, too?\nFeel free to talk to me anytime!",
+        "Squeak!",
+        "Grrrrr!",
+        "... ...",
+        "{VAR 0100 0000}: I hope this power\nwill help you in your adventure!{VAR BE00}\nSee ya!",
+        "{VAR 0100 0000}: I hope this power\nwill help you in your adventure!{VAR BE00}\nSee ya!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Wow!\nWhat a great power!{VAR BE01}\nThank you!\nThat'll help me a lot!{VAR BE01}",
+        "{VAR 0100 0000}: Wow!\nWhat a great power!{VAR BE01}\nThank you!\nThat'll help me a lot!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\n...I know this may sound sudden, but\nwill you battle with me?{VAR BE01}\nHow about a Flat Battle\nat Lv. {VAR 0202 0001} with two fully healed Pokémon?",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\n...I know this may sound sudden, but\nwill you battle with me?{VAR BE01}\nHow about a Flat Battle\nat Lv. {VAR 0202 0001} with two fully healed Pokémon?",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nHuh?\nYou want a Flat Battle{VAR BE00}\nat Lv. {VAR 0202 0001} with two Pokémon?{VAR BE01}\nHold on a second!",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nHuh?\nYou want a Flat Battle{VAR BE00}\nat Lv. {VAR 0202 0001} with two Pokémon?{VAR BE01}\nHold on a second!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\n...I know this may sound sudden, but\nwill you battle with me?{VAR BE01}\nHow about a Flat Battle\nat Lv. {VAR 0202 0001} with two fully healed Pokémon?",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\n...I know this may sound sudden, but\nwill you battle with me?{VAR BE01}\nHow about a Flat Battle\nat Lv. {VAR 0202 0001} with two fully healed Pokémon?",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nHuh?\nYou want a Flat Battle{VAR BE00}\nat Lv. {VAR 0202 0001} with two Pokémon?{VAR BE01}\nHold on a second!",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nHuh?\nYou want a Flat Battle{VAR BE00}\nat Lv. {VAR 0202 0001} with two Pokémon?{VAR BE01}\nHold on a second!",
+        "-",
+        "-",
+        "-",
+        "All right!\nHere we go!",
+        "All right!\nHere we go!",
+        "-",
+        "-",
+        "-",
+        "All right!\nHere we go!",
+        "All right!\nHere we go!",
+        "-",
+        "-",
+        "-",
+        "Whew!\nThat was a good battle!{VAR BE01}\nThank you for taking up my\nchallenge out of the blue!{VAR BE00}\nSee ya!",
+        "Whew!\nThat was a good battle!{VAR BE01}\nThank you for taking up my\nchallenge out of the blue!{VAR BE00}\nSee ya!",
+        "-",
+        "-",
+        "-",
+        "Whew!\nThat was a good battle!{VAR BE01}\nI'm glad I took up your challenge!\nSee ya!",
+        "Whew!\nThat was a good battle!{VAR BE01}\nI'm glad I took up your challenge!\nSee ya!",
+        "-",
+        "-",
+        "-",
+        "I see. That's OK!\nBattle you later!",
+        "I see. That's OK!\nBattle you later!",
+        "-",
+        "-",
+        "-",
+        "Sorry! I'm not ready for it...\nLet's battle another time{VAR BE00}\nwhen I'm ready!",
+        "Sorry! I'm not ready for it...\nLet's battle another time{VAR BE00}\nwhen I'm ready!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Go!\nThat's right! Hang in there!{VAR BE01}\nAre you telling me you'll help my Pokémon?\nWow, thanks!{VAR BE01}\nHP Restoring Power was used\non {VAR 0100 0000}'s Pokémon!{VAR BE01}",
+        "{VAR 0100 0000}: Go!\nThat's right! Hang in there!{VAR BE01}\nAre you telling me you'll help my Pokémon?\nWow, thanks!{VAR BE01}\nHP Restoring Power was used\non {VAR 0100 0000}'s Pokémon!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "-",
+        "-",
+        "-",
+        "Restored the Pokémon's HP\nfor {VAR 0100 0000}!{VAR BE01}\n{VAR 0100 0000}: Oh!\nThanks a lot!",
+        "Restored Pokémon's HP for {VAR 0100 0000}!{VAR BE01}\n{VAR 0100 0000}: Wow!\nThanks a lot!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI'll help your Pokémon whenever\nyou need me to!{VAR BE01}\n...Oh!\nSomebody else needs me now!{VAR BE00}\nSee ya!",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI'll help your Pokémon whenever\nyou need me to!{VAR BE01}\n...Oh!\nSomebody else needs me now!{VAR BE00}\nSee ya!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nI'm glad you are around.\nYou make me feel safer!{VAR BE01}\nHuh?\nAre you going away?{VAR BE01}\nOh, well. You must be busy.\nSee ya.",
+        "{VAR 0100 0000}: Hi!\nHow are you?{VAR BE01}\nI'm glad you are around.\nYou make me feel safer!{VAR BE01}\nHuh?\nAre you going away?{VAR BE01}\nOh, well. You must be busy.\nSee ya.",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI'll help your Pokémon whenever\nyou need me to!{VAR BE01}\nI'll watch your back,\nso go ahead and have a battle!",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nI'll help your Pokémon whenever\nyou need me to!{VAR BE01}\nI'll watch your back,\nso go ahead and have a battle!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Oh!\nHi!{VAR BE01}\nI'm glad you are around.\nYou make me feel safer!",
+        "{VAR 0100 0000}: Ha ha!\nHi!{VAR BE01}\nI'm glad you are around.\nYou make me feel safer!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Squeak!\nIt seems to be after something.",
+        "Grrrrr!\nIt seems to be after something.",
+        "It seems to be after something.",
+        "{VAR 0100 0000}: Oh, no!\nYou found me.{VAR BE00}\nI better run!",
+        "{VAR 0100 0000}: Oh, no!\nYou found me.{VAR BE00}\nI better run!",
+        "Squeak!\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "Grrrrr!\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "... ...\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "{VAR 0100 0000}: Huh?\nIt's strange for a Pokémon{VAR BE00}\nto be hanging around here.{VAR BE00}\nAre you looking for something?",
+        "{VAR 0100 0000}: Huh?\nIt's strange for a Pokémon{VAR BE00}\nto be hanging around here.{VAR BE00}\nAre you looking for something?",
+        "Squeak!\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "Grrrrr!\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "... ...\nYou caught the Pokémon!{VAR BE01}\nIt ran away suddenly.\nIt must have been surprised.",
+        "{VAR 0100 0000}: Oh, no!\nI got caught.{VAR BE00}\nI better run!",
+        "{VAR 0100 0000}: Oh, no!\nI got caught.{VAR BE00}\nI better run!",
+        "Squeak!\nYou got caught!",
+        "Grrrrr!\nYou got caught!",
+        "... ...\nYou got caught!",
+        "{VAR 0100 0000}: Haha!\nI got you!{VAR BE00}\nWait, don't run away!",
+        "{VAR 0100 0000}: Haha!\nI got you!{VAR BE00}\nWait, don't run away!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "This is the place!{VAR BE01}\n... ...{VAR BE01}\n{VAR 0100 0000} stashed the {VAR 0109 0001}\nalong with a memo to surprise{VAR BE00}\nwhoever finds it!",
+        "This is the place!{VAR BE01}\n... ...{VAR BE01}\n{VAR 0100 0000} stashed the {VAR 0109 0001}\nalong with a memo to surprise{VAR BE00}\nwhoever finds it!",
+        "This is the place!{VAR BE01}\n... ...{VAR BE01}\n{VAR 0100 0000} stashed the {VAR 0109 0001}\nalong with a memo to surprise{VAR BE00}\nwhoever finds it!",
+        "This is the place!{VAR BE01}\n... ...{VAR BE01}\n{VAR 0100 0000} stashed the {VAR 0109 0001}\nalong with a memo to surprise{VAR BE00}\nwhoever finds it!",
+        "This is the place!{VAR BE01}\n... ...{VAR BE01}\n{VAR 0100 0000} stashed the {VAR 0109 0001}\nalong with a memo to surprise{VAR BE00}\nwhoever finds it!",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nTa-da!\nI see you are enjoying your adventure,{VAR BE00}\nbut why don't you take a little break?{VAR BE01}\nCurrently at Poké Marts,\nthe item {VAR 0109 0001} is on sale.{VAR BE01}",
+        "Wow, ${VAR 0204 0002}!\nWhat a sale!{VAR BE01}\nThis kind of bargain\ndoesn't come around often, you know?{VAR BE01}\nHow about one {VAR 0109 0001} for\n${VAR 0204 0002}?",
+        "{VAR 0100 0000}: Hello!\nDid I surprise you?{VAR BE00}\nI came to see you through the Entralink.{VAR BE01}\nTa-da!\nI see you are enjoying your adventure,{VAR BE00}\nbut why don't you take a little break?{VAR BE01}\nCurrently at Poké Marts,\nthe item {VAR 0109 0001} is on sale.{VAR BE01}",
+        "Wow, ${VAR 0204 0002}!\nWhat a sale!{VAR BE01}\nThis kind of bargain\ndoesn't come around often, you know?{VAR BE01}\nHow about one {VAR 0109 0001} for\n${VAR 0204 0002}?",
+        "-",
+        "-",
+        "-",
+        "{VAR 0100 0000}: Hello!{VAR BE01}\nWhat? Really?\n{VAR 0109 0001} for just ${VAR 0204 0002}?{VAR BE01}\nWhat should I do?\n...Hmm.",
+        "{VAR 0100 0000}: Hello!{VAR BE01}\nWhat? Really?\n{VAR 0109 0001} for just ${VAR 0204 0002}?{VAR BE01}\nWhat should I do?\n...Hmm.",
+        "-",
+        "-",
+        "-",
+        "Thank you!\nGo ahead and take the {VAR 0109 0001}.{VAR BE01}\n{VAR 0100 0003} received the {VAR 0109 0001}!{VAR BE01}\nWell, see you another time,\nanother place!",
+        "Thank you!\nGo ahead and take the {VAR 0109 0001}.{VAR BE01}\n{VAR 0100 0003} received the {VAR 0109 0001}!{VAR BE01}\nWell, see you another time,\nanother place!",
+        "-",
+        "-",
+        "-",
+        "All right!\nCan I have a {VAR 0109 0001}, please?{VAR BE01}\n{VAR 0100 0000} received {VAR 0109 0001}!{VAR BE01}\n{VAR 0100 0000}: Wow, I just saved so much!\nThank you!",
+        "All right!\nCan I have a {VAR 0109 0001}, please?{VAR BE01}\n{VAR 0100 0000} received {VAR 0109 0001}!{VAR BE01}\n{VAR 0100 0000}: Wow, I just saved so much!\nThank you!",
+        "-",
+        "-",
+        "-",
+        "I see.\nThat's OK!{VAR BE01}\nWell, see you another time,\nanother place!",
+        "I see.\nThat's OK!{VAR BE01}\nWell, see you another time,\nanother place!",
+        "-",
+        "-",
+        "-",
+        "Well...\nI guess I don't need it right now.{VAR BE01}\nKeep me posted for other items!",
+        "Well...\nI guess I don't need it right now.{VAR BE01}\nKeep me posted for other items!",
+        "-",
+        "-",
+        "-",
+        "Sorry, you don't have enough money.\nMaybe next time.{VAR BE00}\nWell, see you another time, another place!",
+        "Sorry, you don't have enough money.\nMaybe next time.{VAR BE00}\nWell, see you another time, another place!",
+        "-",
+        "-",
+        "-",
+        "Ouch!\nI wanted to buy it, but I don't have{VAR BE00}\nenough money...{VAR BE01}\nI'll buy one next time,\nso please do come around again!",
+        "Ouch!\nI wanted to buy it, but I don't have{VAR BE00}\nenough money...{VAR BE01}\nI'll buy one next time,\nso please do come around again!",
+        "-",
+        "-",
+        "-",
+        "Oh my...\nYour Bag is full.{VAR BE00}\nMaybe next time.{VAR BE01}\nWell, see you another time,\nanother place!",
+        "Sorry, you don't have enough money.\nMaybe next time.{VAR BE00}\nWell, see you another time, another place!",
+        "-",
+        "-",
+        "-",
+        "Ouch!\nI wanted to buy it, but my Bag is full...{VAR BE01}\nI'll buy something else next time,\nso please do come around again!",
+        "Ouch!\nI wanted to buy it, but my Bag is full...{VAR BE01}\nI'll buy something else next time,\nso please do come around again!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

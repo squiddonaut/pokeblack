@@ -1,0 +1,235 @@
+{
+    "flags": 216,
+    "entries": [
+        {
+            "text": "The “How Do You Play the Game\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Details about People\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Pokémon Favorites\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Ideals and Values\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Likable People\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Preferences\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Entertainment\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “School Life\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “Sports and Pastimes\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "The “More about Pokémon\" Survey",
+            "flags": 213
+        },
+        {
+            "text": "This is a survey about how people play Pokémon\nBlack Version and Pokémon White Version.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out details\nabout people.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out people's\npreferences when it comes to Pokémon.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out about the ideals\nand values of people.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out about what kinds\nof people are most likable.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out about people's\ntastes in seasons, food, and art.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out what kinds of\nentertainment people enjoy.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out about people's\nschool life.",
+            "flags": 256
+        },
+        {
+            "text": "This is a survey to find out what people like\nto do in their spare time.",
+            "flags": 256
+        },
+        {
+            "text": "This is a detailed survey to find out\nmore about what people think of Pokémon.",
+            "flags": 256
+        },
+        "Which version do you play?",
+        "Are you male or female?",
+        "Which do you prefer, battle or trade?",
+        "Would you live in the city or country?",
+        "What kind of person do you prefer?",
+        "Which do you wish you had more of?",
+        "Which do you value more in a person?",
+        "What kind of Pokémon do you like best?",
+        "What's your starter Pokémon?",
+        "Where would you go for a vacation?",
+        "What's your favorite time at school?",
+        "What's most important to you?",
+        "What season do you like best?",
+        "What kind of food do you like best?",
+        "What kind of people do you like best?",
+        "What do you like about Pokémon?",
+        "What subject do you like best?",
+        "What subject do you like least?",
+        "What do you want to become?",
+        "What do you do in your spare time?",
+        "What kind of music do you like?",
+        "What kind of TV programs do you like?",
+        "What kind of movies do you like?",
+        "What's your favorite sport?",
+        "What's your favorite color?",
+        "What's your hobby?",
+        "What kind of job do you have?",
+        "Which Gym Leader do you like best?",
+        "What Pokémon type do you like best?",
+        "How long have you been playing?",
+        {
+            "text": "The “Pokémon Black Version or\nPokémon White Version\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Gender\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Battle vs. Trade\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Where to Live\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Smart vs. Athletic\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Time vs. Money\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Appearance vs. Substance\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Favorite Kind of Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Starter Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Vacation Spot\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “School Days\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Important People\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Seasons\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Food\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Popular People\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Best Thing about Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Favorite Subject\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Worst Subject\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Pokémon Jobs\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Leisure Time\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Music\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “TV\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Movies\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Sports\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Colors\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Hobbies\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Jobs\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Gym Leaders\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Pokémon Types\" Survey",
+            "flags": 238
+        },
+        {
+            "text": "The “Gameplay Time\" Survey",
+            "flags": 238
+        }
+    ]
+}

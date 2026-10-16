@@ -1,0 +1,16 @@
+{
+    "flags": 208,
+    "entries": [
+        "SINGLE BATTLE",
+        "DOUBLE BATTLE",
+        "TRIPLE BATTLE",
+        "ROTATION BATTLE",
+        "MULTI BATTLE",
+        "LAUNCHER BATTLE",
+        {
+            "text": "デバッグバトル",
+            "flags": 0
+        }
+    ],
+    "pad": "eaea"
+}

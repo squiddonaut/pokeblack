@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Welcome to the musical!\nI'm very pleased with your participation!{VAR BE01}\nParticipants for this musical are:{VAR BE01}",
+        "{VAR 0100 0003} will participate\nwith {VAR 0101 0002}!{VAR BE01}",
+        "And the show you'll be performing\nis {VAR 0122 0000}.{VAR BE01}\nThat is a popular show\namong {VAR 0123 0001}.{VAR BE01}\nWell, without further ado...\nLet's play Dress Up!{VAR BE01}",
+        "I guess everyone is ready.\nLet's go up on stage!{VAR BE01}",
+        "Good job!\nThe Pokémon were in total sync!{VAR BE01}\nIt was the best musical ever! I am the\nowner, but even I was greatly moved.{VAR BE01}\nSince it's the best musical ever seen,\nwe have received many comments from{VAR BE00}\nthe audience!{VAR BE01}\nThere are comments for everyone,\nso let me give them to you in order!{VAR BE01}",
+        "Hmmm... Good job!\nIt was a great musical!{VAR BE01}\nIn fact, I've received comments for you\nfrom the audience!{VAR BE01}\nI am really pleased.\nI will give them to you in order!{VAR BE01}",
+        "Good job!\nIt was quite an interesting musical!{VAR BE01}\nI've received comments for you\nfrom the audience!{VAR BE01}\nWell, I am so pleased.\nI will give them to you in order!{VAR BE01}",
+        "Good job!{VAR BE01}\nIt was a musical with some very\nexciting moments!{VAR BE01}\nBy the way, I received comments for you\nfrom the audience.{VAR BE01}\nI am quite pleased.\nI will give them to you in order.{VAR BE01}",
+        "{VAR 0100 0000}'s Dress Up performance\nwas very {VAR 0123 0001}!{VAR BE01}",
+        "{VAR 0100 0000}'s Dress Up performance\nwas very distinctive!{VAR BE01}",
+        "In this musical, it's not an\noverstatement to say that {VAR 0100 0000}'s{VAR BE00}\nPokémon was the lead role.{VAR BE01}",
+        "The Pokémon used Props to convey such\nabundant expression, just as if they{VAR BE00}\nwere actors!{VAR BE01}",
+        "Watching your Pokémon's sharp moves,\nI also felt {VAR 0123 0001}!{VAR BE01}",
+        "Your Pokémon played its role very well.{VAR BE01}",
+        "It looked like your Pokémon was making an\neffort to live up to your expectations.{VAR BE01}\nI will support your Pokémon on the side!{VAR BE01}",
+        "It was not highly noticeable...\nBut I liked it! Keep it up!{VAR BE01}",
+        "Thank you very much for participating in\nthe musical today!{VAR BE01}\nPlease join another musical again!\nHave a great day!{VAR BE01}"
+    ]
+}

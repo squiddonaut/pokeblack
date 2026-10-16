@@ -1,0 +1,56 @@
+{
+    "flags": 224,
+    "entries": [
+        "Burgh: That way!{VAR BE01}\nM'hm. There, heading toward the Gym?!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "When work's finally over...{VAR BE01}\nWhen my thrown Poké Ball rocks three\ntimes and I hear that great “click\"...{VAR BE01}\nMy life is full of things that give me joy!",
+        "I'm a battling Clerk ⑭!\n...But my Pokémon are weak.",
+        "Busy, busy!{VAR BE01}\nAfter I eat breakfast, I have to think\nabout lunch.{VAR BE01}\nAfter eating lunch, I worry about dinner.\nEvery day's the same. What a busy life!",
+        "Hey there, Trainer!\nAre your Pokémon healthy?{VAR BE01}\nBeing healthy's the best, because when\nyou're healthy, you can do anything!",
+        "...Grumble, grumble, grumble.{VAR BE01}\nShould I change my Pokémon's moves,\nor should I change my Pokémon?{VAR BE01}\nGrumble, grumble...",
+        "Castelia City has so many people!{VAR BE01}\nSometimes there are people who are only\ninterested in themselves.",
+        "My favorite way to spend my lunch break\nis watching ships at the dock.",
+        "Working women are beautiful, and\nbattling Pokémon are wonderful!",
+        "At the Battle Company, we welcome\nTrainers who are proud of their skills.",
+        "Next time, I'll do it! Next time, I want to\neat a Casteliacone for sure!",
+        {
+            "text": "Castelia City\nA City of Grandeur",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Ahead: Castelia Street\nOcean Side: Cruise Dock",
+            "flags": 207
+        },
+        {
+            "text": "Ahead: Mode Street\nOcean Side: Prime Pier",
+            "flags": 207
+        },
+        {
+            "text": "Ahead: Narrow Street\nOcean Side: Unity Pier",
+            "flags": 207
+        },
+        {
+            "text": "Ahead: Pokémon Gym\nOcean Side: Liberty Pier",
+            "flags": 207
+        },
+        {
+            "text": "Passerby Analytics HQ\n...People pass by as they walk along.",
+            "flags": 207
+        },
+        {
+            "text": "Battle Company\nTalented Trainers Welcome!",
+            "flags": 207
+        }
+    ]
+}

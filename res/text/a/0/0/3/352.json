@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "Good afternoon, Trainer!{VAR BE01}\nThis is a gate for travelers!\nPlease check the electric bulletin board!", "Watching the information changing on the\nelectric bulletin board...{VAR BE00}\nIt makes me happy. I find it so soothing!" ],
+    "pad": "dcdc"
+}

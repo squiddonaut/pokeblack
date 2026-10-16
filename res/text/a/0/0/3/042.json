@@ -1,0 +1,28 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi! Would you like to go to Unity Tower?",
+        "People are quite different,\ndepending on where they live.{VAR BE01}\nIt's a bit surprising that rules and ways\nof thinking are different just because{VAR BE00}\nthe places we live are different!",
+        "One person will be on board!\nPlease get on board!{VAR BE01}",
+        "Unity Tower is a place where Trainers\ngather from all over the world!{VAR BE01}\nIf you have friends who live far away,\nyou may be able to have a merry reunion!{VAR BE01}",
+        "Please come again!",
+        {
+            "text": "Yes",
+            "flags": 219
+        },
+        {
+            "text": "No",
+            "flags": 219
+        },
+        {
+            "text": "What is it?",
+            "flags": 219
+        },
+        "Both Pokémon and people will meet their\ndestined partner someday!{VAR BE01}\nI believe it because my sister who got\nmarried said so!",
+        "I've come to Castelia City to have a\ndance lesson!",
+        "What do you want?{VAR BE01}\nOh! The dance team! You're going to\nintroduce me to the team!{VAR BE01}\nOh! Then, before that, let's have a\nPokémon battle!",
+        "I was great in Pokémon lessons!{VAR BE01}",
+        "If you want me to join your dance team,\nyou've got to be strong!",
+        "What was that?{VAR BE01}\nOh! The dance team!\nI will join the team!{VAR BE01}"
+    ]
+}

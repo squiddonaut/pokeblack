@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Pokémon Trainer.{VAR BE01}\nThe sparkle in your eyes...\nI feel your kindness toward Pokémon!{VAR BE01}\nI have decided! I will entrust the Egg\nI found in the Relic Castle to you!{VAR BE01}\nWould you like to receive this\nPokémon Egg and raise it?",
+        "Would you like to receive this\nPokémon Egg and raise it?",
+        "I appreciate your thought, but you\ncannot take the Egg right now because{VAR BE00}\nyour party is full.",
+        "Well, that's certainly up to you.",
+        "Yes! I'm counting on you.{VAR BE01}",
+        "Pokémon Eggs hatch when you carry them\nwith you. Being around healthy Pokémon{VAR BE00}\nhelps them grow!",
+        "{VAR 0100 0000} obtained the Egg!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Wait! Wait!{VAR BE01}\nAren't your Pokémon a bit tired?\nHere, don't be shy! Let them rest!{VAR BE01}",
+        "Your Pokémon are so energetic!"
+    ]
+}

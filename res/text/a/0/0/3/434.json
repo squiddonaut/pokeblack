@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "{VAR 0100 0000} checked the PC screen.{VAR BE01}\nAdventure Rule No. 1\nThe X Button opens the menu!{VAR BE01}\nAdventure Rule No. 2\nRecord your progress with SAVE.{VAR BE01}\nThere is nothing else on here..." ],
+    "pad": "0c0c"
+}

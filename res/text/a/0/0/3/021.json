@@ -1,0 +1,177 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: Come with me a sec.{VAR BE01}",
+        "If you go straight from here,\nthere's a Pokémon Center.{VAR BE01}\nAnd...\nUse these if you want.{VAR BE01}",
+        "Cheren: Give your Pokémon a\nChesto Berry to hold. Then, if it ever{VAR BE00}\nfalls asleep, it will wake up immediately.{VAR BE01}\nOh, and another piece of advice--{VAR BE01}\nNacrene City's Gym Leader uses\nNormal types.{VAR BE01}\nIf you have a Fighting-type Pokémon,\nit might give you a big advantage.{VAR BE01}",
+        "N: {VAR BE09 0001}I...want to see things no one can see.{VAR BE01}\nThe ideals of Pokémon inside Poké Balls.{VAR BE01}\nThe truths of how Trainers should be.{VAR BE01}\nAnd a future where Pokémon\nhave become perfect...{VAR BE01}\nDo you feel the same?{VAR BE09 0000}",
+        "N: {VAR BE09 0001}I...want to see things no one can see.{VAR BE01}\nThe truths of Pokémon inside Poké Balls.{VAR BE01}\nThe ideals of how Trainers should be.{VAR BE01}\nAnd a future where Pokémon\nhave become perfect...{VAR BE01}\nDo you feel the same?{VAR BE09 0000}",
+        "N: {VAR BE09 0001}That so?{VAR BE01}\nI think my friends and I should test you\nto see if you can see this future, too.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Huh. I expected more from you.\nNow pay attention.{VAR BE01}\nMy friends and I will test you\nto see if you can see this future, too.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Right now, my friends aren't strong\nenough to save all Pokémon.{VAR BE01}\nMaybe I can't solve the equation\nthat will change the world.{VAR BE01}\nSo, I need power... Power enough\nto make anyone agree with me.{VAR BE09 0000}{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Now I know what power I need.\nReshiram!{VAR BE01}\nThe legendary Pokémon that, along with\nthe hero, created the Unova region.{VAR BE01}\nIt's my turn to become that hero--\nand you and I will be friends!{VAR BE01}",
+        "Now I know what power I need.\nZekrom!{VAR BE01}\nThe legendary Pokémon that, along with\nthe hero, created the Unova region.{VAR BE01}\nIt's my turn to become that hero--\nand you and I will be friends!{VAR BE01}",
+        "???: Good day, Lenora.\nFind any good Fossils lately?{VAR BE01}",
+        "Lenora: This is a surprise visit! Are you\nsuffering from artist's block again?{VAR BE01}",
+        "{VAR 0100 0000}!{VAR BE01}\nThis is Burgh.\nHe may not look like it, but he's{VAR BE00}\nCastelia City's Gym Leader!{VAR BE01}",
+        "Burgh: ...Eh?\nJust looking for a change of pace.{VAR BE01}\nSeems hectic or something around here.\nWhat's up?{VAR BE01}",
+        "Lenora: What's up?!{VAR BE01}\nSomeone just walked away with an exhibit,\nthat's what's up!{VAR BE01}",
+        "Bianca: Oh, hi, {VAR 0100 0000}!\nWhat's everybody doing here?{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, is there\nsome kind of problem?{VAR BE01}",
+        "Lenora: And these two are...?{VAR BE01}\nYour friends?{VAR BE01}\n...\n...{VAR BE01}\nBianca and Cheren...\nOh, I see. They're Trainers.{VAR BE01}\nOK, then. Let's split up and search.\nI'll head this way.{VAR BE01}",
+        "Everyone!{VAR BE01}\nCheren and Bianca,\nI want you to stay here at the museum.{VAR BE01}",
+        "Burgh and {VAR 0100 0000},\nyou two search Pinwheel Forest!{VAR BE01}\nGot it?\nBurgh, you show the way!{VAR BE01}\nI'm counting on you, everyone!{VAR BE01}",
+        "Burgh: Uh-huh.\nYou are...{VAR 0100 0000}, is it?{VAR BE01}\nAre you raring to round up\nour robbers?{VAR BE01}",
+        "Burgh: Uh-huh.\nYou are...{VAR 0100 0000}, is it?{VAR BE01}\nAre you raring to round up\nour robbers?{VAR BE01}",
+        "Bianca: Oh! Oh, {VAR 0100 0000}!\nTake this with you!{VAR BE01}\nFennel gave me this Dowsing Machine\nto give you.{VAR BE01}",
+        "Now, what did she tell me? Um...{VAR BE01}\nYou can use the Dowsing Machine\nto find places where items are hidden.{VAR BE00}\nSo you can find stuff you can't even see!{VAR BE01}",
+        "Cheren: For now, all we need to do is\nprotect the museum, right?{VAR BE01}",
+        "Bianca: Hey, wait for me!{VAR BE01}",
+        "Lenora: It doesn't look like there are\nany members of Team Plasma over here...{VAR BE00}\nI think I'd better stay here, though.{VAR BE01}\nPlease head to Pinwheel Forest\nand search very carefully!",
+        "These old textile factories\nand storehouses were abandoned.{VAR BE01}\nBut enterprising young people\nstarted using them as studios.{VAR BE01}\nThat could be called the beginning of\nNacrene City, the city of art.",
+        "That warehouse...\nThey're selling something good inside.",
+        "Even though it's just an old warehouse,\nit's become so popular...{VAR BE01}\nIt makes me take a second look at\nwhat I think things are worth.",
+        "Nacrene City is a highly fashionable\nand admired locale!{VAR BE01}\nContrariwise, if you happen to be a bit\nordinary, here that's cool in its own way.",
+        "How do you like the sound of accordions?",
+        {
+            "text": "Nacrene City\nA Pearl of a Place",
+            "flags": 207
+        },
+        {
+            "text": "Café Warehouse\nTry our delicious Wednesday specials!",
+            "flags": 207
+        },
+        {
+            "text": "Nacrene City Pokémon Gym\nLeader: Lenora{VAR BE00}\nAn Archeologist with Backbone",
+            "flags": 207
+        },
+        "Professor Juniper: Alder told me what's\ngoing on.{VAR BE01}\n{VAR 0100 0000}, you got caught up\nin something serious, it seems...{VAR BE01}",
+        "Lenora: Is this it?{VAR BE01}",
+        "Bianca: Whoa. Isn't that the...stone...\nfound in the Desert Resort?{VAR BE01}",
+        "Lenora: Yes, that's right, but is this\nreally a Dragon-type Pokémon?{VAR BE01}",
+        "Cedric: Surely...\nWhen I investigated Dragonspiral Tower,{VAR BE00}\nI found elements that were dated to the{VAR BE00}\nsame era as this Dark Stone!{VAR BE01}",
+        "Cedric: Surely...\nWhen I investigated Dragonspiral Tower,{VAR BE00}\nI found elements that were dated to the{VAR BE00}\nsame era as this Light Stone!{VAR BE01}",
+        "Professor Juniper: ...I looked into that.{VAR BE01}",
+        "Lenora: Impressive, as always.{VAR BE01}",
+        "Bianca: But, you know, we're lucky...\n'Cause what if Team Plasma, like, noticed{VAR BE00}\nthat old stone that time...{VAR BE01}",
+        "Lenora: That's a good point.{VAR BE01}\nIt's clear to me that they were\ntrying to steal the Dragon Skull so{VAR BE00}\nthey could revive the legendary{VAR BE00}\nDragon-type Pokémon.{VAR BE01}",
+        "If you would, {VAR 0100 0000}, take this...{VAR BE01}",
+        "Alder: Wait a moment, {VAR 0100 0000}!{VAR BE01}",
+        "If you take this Dark Stone, that\nmeans you'll be the one to battle N{VAR BE00}\nif anything happens to me.{VAR BE01}\nAre you really OK with that?",
+        "If you take this Light Stone, that\nmeans you'll be the one to battle N{VAR BE00}\nif anything happens to me.{VAR BE01}\nAre you really OK with that?",
+        "Alder: I understand. You are determined\nto take on this duty.{VAR BE01}\nThen, here it is.\nPrepare yourself. Be strong.{VAR BE01}",
+        "Alder: So, you're just going to allow\nN to fulfill his plans for a new world?{VAR BE01}\nA world where Pokémon and Trainers\nare separated?",
+        "Alder: Still, I must ask you...\nSincerely, I must ask you...{VAR BE01}\nTake this stone.\nJust in case it's needed!",
+        "Alder: I am deeply sorry.\nI wish I didn't have to burden you.{VAR BE01}\nThis world of ours, where Pokémon\nand people live together...{VAR BE01}\nPlease...\nIf anything happens to me, protect it!{VAR BE01}",
+        "Lenora: ...I see.{VAR BE01}\nIf things don't go as planned,\nyou'll use this Dark Stone.{VAR BE01}\nYou'll protect the ideal future\nfor us and Pokémon.{VAR BE01}\n{VAR 0100 0000}, we're counting on you.\nPlease take care of yourself.{VAR BE01}",
+        "Lenora: ...I see.{VAR BE01}\nIf things don't go as planned,\nyou'll use this Light Stone.{VAR BE01}\nYou'll protect the true future\nfor us and Pokémon.{VAR BE01}\n{VAR 0100 0000}, we're counting on you.\nPlease take care of yourself.{VAR BE01}",
+        "Cedric: ...{VAR BE01}\nSo, how do we wake the Dragon-type\nPokémon from the stone, then?",
+        {
+            "text": "Huh?",
+            "flags": 126
+        },
+        {
+            "text": "...",
+            "flags": 126
+        },
+        {
+            "text": "Umm...",
+            "flags": 126
+        },
+        "Lenora: That's it!\nWe've got them, don't we?{VAR BE01}",
+        "Alder: Ah-hah. We've got those two.{VAR BE01}",
+        "{VAR 0100 0000}!\nGo to Opelucid City.{VAR BE01}\nThe Gym Leader of that city\nuses Dragon-type Pokémon.{VAR BE01}\nThe Gym Leader could know something.\nI'll go ahead and wait for you there!{VAR BE01}\nUntil then!{VAR BE01}",
+        "Professor Juniper: That's right!{VAR BE01}\nOpelucid City's Iris might know something!{VAR BE01}",
+        "Professor Juniper: That's right!{VAR BE01}\nOpelucid City's Drayden might\nknow something!{VAR BE01}",
+        "Cedric: Hey, {VAR 0100 0000}.{VAR BE01}\nNever forget that you always\nhave Pokémon right by your side.{VAR BE01}",
+        "Professor Juniper: I'm going to head\nback to the lab and do some research...{VAR BE01}\nI'll see if I can uncover what kinds of\nbeings these legendary Dragon-type{VAR BE00}\nPokémon are and if there is any way{VAR BE00}\nto awaken them...{VAR BE01}",
+        "Lenora: Don't worry!{VAR BE01}\nIf we have something for you,\nwe'll come running to find you!{VAR BE01}",
+        "Lenora: Don't worry!{VAR BE01}\nIf we have something for you,\nwe'll come running to find you!",
+        "Bianca: Ooh. Sounds real serious...\nUm, that's about all I got out of it.{VAR BE01}\n{VAR 0100 0000}, do you know Opelucid City?{VAR BE01}\nWhen you leave from Icirrus City\nand, like, cross the Tubeline Bridge,{VAR BE00}\nit's on the other side. Umm...{VAR BE01}\nI'm not that great with directions, so if\nyou need more, check your Town Map, OK?{VAR BE01}",
+        "Bianca: Ooh. Sounds real serious...\nUm, that's about all I got out of it.{VAR BE01}\n{VAR 0100 0000}, do you know Opelucid City?{VAR BE01}\nWhen you leave from Icirrus City\nand, like, cross the Tubeline Bridge,{VAR BE00}\nit's on the other side. Umm...{VAR BE01}\nI'm not that great with directions, so if\nyou need more, check your Town Map, OK?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

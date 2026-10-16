@@ -1,0 +1,37 @@
+{
+    "flags": 224,
+    "entries": [
+        "Professor Juniper: Hi there, {VAR 0100 0000}!{VAR BE01}",
+        "I heard about these Pokémon statues,\nand I came to look into their origins!{VAR BE01}",
+        "I've learned that each of these Pokémon\nstatues is actually a real Pokémon!{VAR BE01}\nIt's called Darmanitan. It's sleeping,\nso it's become like a stone.{VAR BE01}",
+        "When I quickly measured how long\nthey've existed...{VAR BE01}\nIt was amazing! Around 2,500 years!\nSeems like they went to sleep that{VAR BE00}\nlong ago.{VAR BE01}\nThat means they've been here since\nbefore this place was in ruins, when{VAR BE00}\nthe Relic Castle was flourishing.{VAR BE01}\nPerhaps they were guarding the city.{VAR BE01}",
+        "These Pokémon...{VAR BE01}\nThey are either in a state of hibernation\nor meditation, so if you wake them, they{VAR BE00}\nwill become active once again.{VAR BE01}\nAnd the item that wakes up Darmanitan is\nactually...this RageCandyBar!{VAR BE01}\nThat's why I will share one with you,\ntoo, {VAR 0100 0000}!{VAR BE01}",
+        "Well, I'm headed back to the\nPokémon Research Lab.{VAR BE00}\nBe seeing you!{VAR BE01}",
+        "It appears to be a statue of a Pokémon.",
+        "Give the RageCandyBar to the\nPokémon statue?",
+        "The ancient Pokémon statue responded to\nthe RageCandyBar.{VAR BE01}\nThe Pokémon was a sleeping Darmanitan!{VAR BE01}\nThe awakened Darmanitan attacked!{VAR BE01}",
+        "Cheren: Stop, {VAR 0100 0000}!{VAR BE01}",
+        "Cheren: That's the entrance to the\nRelic Castle.{VAR BE01}\nYou're impressive, {VAR 0100 0000},\nmaking it here before I did.{VAR BE01}",
+        "Dealing with the Desert Resort's Pokémon\ntook longer than I would've thought.{VAR BE01}\nI only made it all the way out here\nthanks to my Pokémon.{VAR BE01}",
+        "Alder went on ahead. Let's hurry.",
+        "Cheren: It's hard to put into words...\nbut I'll never forgive them for this!{VAR BE01}",
+        "Alder: What could that guy called\nN possibly want?{VAR BE01}\nCould he be trying to prove he is\nright by winning the battle of the{VAR BE00}\ntwo dragons?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Xtransceiver is ringing.",
+        "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}",
+        "Alder: I could hear Professor Juniper's\nvoice from clear over here!{VAR BE00}\nSeems like something big is happening.{VAR BE01}\nI wonder what is waiting at the museum\nin Nacrene City.{VAR BE00}\nI'll go on ahead!{VAR BE01}",
+        "Cheren: I'll look around here once more.{VAR BE01}\nI don't want to believe what\nthat Ghetsis says...{VAR BE01}\nYou should head for the\nNacrene City Museum.",
+        "I came clear out to the Desert Resort\nto train, but...{VAR BE01}\nThere are so many Ground-type Pokémon,\nand I'm already in tatters...",
+        "You're the first person to come\nclear out here to talk to me!{VAR BE01}\nI'm so moved!\nSo, I'll give you this!{VAR BE01}",
+        "If a Pokémon holds this Soft Sand, the\npower of its Ground-type moves goes up!",
+        "According to what I've heard, that\nRelic Castle is the ruins of a city built{VAR BE00}\nby the hero of old and the dragon{VAR BE00}\nPokémon that accompanied the hero.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh! A sea of sand! I don't need\nGo-Goggles here!{VAR BE01}\nOh, I've come here all the way from\nthe Hoenn region."
+    ]
+}

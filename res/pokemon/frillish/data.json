@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_GHOST" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_WATER_ABSORB", "ABILITY_CURSED_BODY" ],
-    "unk_1A": 6,
+    "abilities": [
+        "ABILITY_WATER_ABSORB",
+        "ABILITY_CURSED_BODY",
+        "ABILITY_DAMP"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 67,
+    "base_exp_reward": 67,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_BUBBLE" ],
@@ -96,7 +99,7 @@
             "MOVE_CONSTRICT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -108,5 +111,16 @@
         "height": 12,
         "weight": 330
     },
-    "offspring": "SPECIES_FRILLISH"
+    "offspring": "SPECIES_FRILLISH",
+    "text": {
+        "70": "Frillish",
+        "235": "They paralyze prey with poison,\nthen drag them down to their lairs,\nfive miles below the surface.",
+        "236": "With its thin, veil-like arms wrapped\naround the body of its opponent,\nit sinks to the ocean floor.",
+        "244": "",
+        "245": "3'11\"",
+        "260": "Floating Pokémon",
+        "268": "72.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Frillish",
+        "284": "FRILLISH"
+    }
 }

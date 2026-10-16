@@ -1,0 +1,25 @@
+{
+    "flags": 91,
+    "entries": [
+        "In Party",
+        "Battle Box",
+        "Cancel",
+        {
+            "text": "Please select whether to use your\nparty Pokémon or your Battle Box.",
+            "flags": 240
+        },
+        {
+            "text": "L{VAR 0202 0000}",
+            "flags": 38
+        },
+        {
+            "text": "{VAR FF00 0002}⑭{VAR FF00 0000}",
+            "flags": 8
+        },
+        {
+            "text": "{VAR FF00 0001}⑮{VAR FF00 0000}",
+            "flags": 8
+        }
+    ],
+    "pad": "1a1a"
+}

@@ -1,0 +1,24 @@
+{
+    "flags": 72,
+    "entries": [
+        "POKÉMON",
+        "STATS",
+        "MOVE",
+        "TRAINER",
+        "UNION",
+        "GREETINGS",
+        "PEOPLE",
+        "LIFESTYLE",
+        "FEELINGS",
+        "ANIMATED",
+        "TERM",
+        "CONNECTION",
+        "VOICE",
+        "???",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "4c4c"
+}

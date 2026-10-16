@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "Both you and your Pokémon are healthy\nand energetic!{VAR BE01}\nIf you get tired, please talk to me.\nI'll let you take a nice long rest.", "Oh, your Pokémon look pretty tired.\nDon't be shy. Take a nice long rest!{VAR BE01}" ],
+    "pad": "1616"
+}

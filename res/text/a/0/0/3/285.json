@@ -1,0 +1,60 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am researching Pokémon Fossils here.{VAR BE01}",
+        "You have a Fossil, don't you?\nShall I turn it back into a Pokémon?",
+        "Which Fossil should I turn back\ninto a Pokémon?",
+        "All right!{VAR BE01}\nI will turn the {VAR 0109 0000} back\ninto a Pokémon!{VAR BE01}",
+        "Oh, you'd like to keep it as a Fossil? OK!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Fossil you gave me turned back into\na Pokémon!{VAR BE01}\nThis is {VAR 0101 0000}!\nPlease take good care of it.{VAR BE01}",
+        "{VAR 0100 0000} received\n{VAR 0101 0001}!",
+        "Would you like to give a nickname to the\nnewly received {VAR 0101 0000}?",
+        "Oh, I'm sorry. Your party is full.{VAR BE01}\nI will keep it with extra care, so please\ncome back to pick it up when you can!",
+        "If you have a Fossil, bring it to me!",
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0109 0001}",
+            "flags": 219
+        },
+        {
+            "text": "Root Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Claw Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Helix Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Dome Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Old Amber",
+            "flags": 219
+        },
+        {
+            "text": "Armor Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Skull Fossil",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "I-I'm sorry. I'm afraid you'll have\nto come back later."
+    ]
+}

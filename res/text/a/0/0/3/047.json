@@ -1,0 +1,546 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0113 0000}",
+            "flags": 219
+        },
+        {
+            "text": "YES",
+            "flags": 219
+        },
+        {
+            "text": "NO",
+            "flags": 219
+        },
+        "What are people's favorite things?\nWhat is popular right now?{VAR BE01}\nHave you ever wondered about\nthese things?{VAR BE01}\nWelcome to Passerby Analytics HQ!{VAR BE01}\nThis is where you can find\nall the answers.{VAR BE01}\n...You have good eyes.\nEyes full of curiosity.{VAR BE01}\n...Good! I will specially appoint you\nas a statistician!{VAR BE01}",
+        "{VAR 0100 0001} was appointed\nas a statistician!{VAR BE01}",
+        "Statisticians have only one task!\nThey conduct requested surveys.{VAR BE01}\nFirst, you'll receive survey requests\nfrom me.{VAR BE01}\nThen, with the Survey Radar, you'll\nchoose the survey you want to conduct.{VAR BE01}\nThen, if you pass by a lot of people,\nthe radar will collect the information.{VAR BE01}\nOf course, we've prepared compensation\nfor the survey.{VAR BE01}\nStatistician {VAR 0100 0001}!\nI expect you to do a great job!{VAR BE01}",
+        "Statistician {VAR 0100 0001},\ngood to see you!{VAR BE01}\nAre you surveying people vigorously?{VAR BE01}",
+        "You've finished all the requests.{VAR BE01}\nFrom now on, feel free to survey\nwhatever you want to know!",
+        "What would you like to do today?",
+        {
+            "text": "Accept a request",
+            "flags": 219
+        },
+        {
+            "text": "Report the result",
+            "flags": 219
+        },
+        {
+            "text": "Nothing",
+            "flags": 219
+        },
+        {
+            "text": "Check the request",
+            "flags": 219
+        },
+        "Accept a survey request, right?{VAR BE01}\nFirst, choose a survey method.",
+        {
+            "text": "Timed survey",
+            "flags": 219
+        },
+        {
+            "text": "Head-count survey",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "A timed survey, right?{VAR BE01}\nThis is a survey to collect data\nfor a specified time.{VAR BE01}",
+        "A head-count survey, right?{VAR BE01}\nThis is a survey to collect data for\na specified number of people.{VAR BE01}",
+        "Please choose a request on which\nyou are going to conduct a survey.",
+        "OK...{VAR BE01}\nPlease come back again\nif you want to accept a request.",
+        "You've already accepted a survey\nrequest!{VAR BE01}\nTry your best to conduct the survey.\nOr do you want to cancel the survey?",
+        "You'll need to resurvey for the data\nyou've already collected...{VAR BE01}\nAre you sure you want to cancel?",
+        "OK...{VAR BE01}\nPlease come back again if you\nwant to accept a request.",
+        "Then, please continue the survey.",
+        {
+            "text": "Which version is more popular?",
+            "flags": 219
+        },
+        {
+            "text": "The first Pokémon you picked?",
+            "flags": 219
+        },
+        {
+            "text": "How long have you been playing?",
+            "flags": 219
+        },
+        {
+            "text": "More men or more women?",
+            "flags": 219
+        },
+        {
+            "text": "The most common job?",
+            "flags": 219
+        },
+        {
+            "text": "The most common hobby?",
+            "flags": 219
+        },
+        {
+            "text": "More popular, battles or trades?",
+            "flags": 219
+        },
+        {
+            "text": "Favorite kind of Pokémon?",
+            "flags": 219
+        },
+        {
+            "text": "Favorite Pokémon type?",
+            "flags": 219
+        },
+        {
+            "text": "Where do people prefer to live?",
+            "flags": 219
+        },
+        {
+            "text": "About what's most important",
+            "flags": 219
+        },
+        {
+            "text": "Favorite kinds of people?",
+            "flags": 219
+        },
+        {
+            "text": "About seasons",
+            "flags": 219
+        },
+        {
+            "text": "About art",
+            "flags": 219
+        },
+        {
+            "text": "Favorite music?",
+            "flags": 219
+        },
+        {
+            "text": "About TV and movies",
+            "flags": 219
+        },
+        {
+            "text": "Favorite time in school?",
+            "flags": 219
+        },
+        {
+            "text": "About study",
+            "flags": 219
+        },
+        {
+            "text": "Most popular sport?",
+            "flags": 219
+        },
+        {
+            "text": "About a holiday",
+            "flags": 219
+        },
+        {
+            "text": "What do you want to become the most?",
+            "flags": 219
+        },
+        {
+            "text": "Most popular Gym Leader?",
+            "flags": 219
+        },
+        {
+            "text": "Most fun part of Pokémon?",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out which is more\npopular, Pokémon Black Version{VAR BE00}\nor Pokémon White Version.{VAR BE01}\nThe survey must be conducted for\ntwo hours or more.{VAR BE01}\nI'm thinking of taking up Pokémon, too.\nI want to know which one is most popular.{VAR BE01}",
+        "This survey is...\na request from a Pokémon Professor.{VAR BE01}\nYou need to find out the most popular\nstarter Pokémon.{VAR BE01}\nThe survey must be conducted for\ntwo hours or more.{VAR BE01}\nHe wants to use the results\nfor his research.{VAR BE01}",
+        "This survey is...\na request from a mother.{VAR BE01}\nYou need to find out how long people\nhave been playing the game.{VAR BE01}\nThe survey must be conducted for\nfour hours or more.{VAR BE01}\nShe wants to compare her child's game\ntime and the result of the survey.{VAR BE01}",
+        "This survey is...\na request from a newspaper company.{VAR BE01}\nYou need to find out which are the\nmajority, men or women.{VAR BE01}\nThe survey must be conducted for\nfour hours or more.{VAR BE01}\nThey want to publish the result\nin tomorrow's morning paper.{VAR BE01}",
+        "This survey is...\na request from a magazine company.{VAR BE01}\nYou need to find out the most\ncommon job.{VAR BE01}\nThe survey must be conducted for\nfour hours or more.{VAR BE01}\nThey want to use the result for their\nfeature article.{VAR BE01}",
+        "This survey is...\na request from a leisure company.{VAR BE01}\nYou need to find out the most\ncommon hobby.{VAR BE01}\nThe survey must be conducted for\nfour hours or more.{VAR BE01}\nThey want to use the result as a\nreference for their projects.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out which one is more\npopular, battles or trades.{VAR BE01}\nThe survey must be conducted for\neight hours or more.{VAR BE01}\nLately, I've been addicted to Pokémon,\nso I want to know how other people play.{VAR BE01}",
+        "This survey is...\na request from a girl.{VAR BE01}\nYou need to find out the most popular\nkind of Pokémon.{VAR BE01}\nThe survey must be conducted for\neight hours or more.{VAR BE01}\nShe wants to submit the result as her\nhomework.{VAR BE01}",
+        "This survey is...\na request from a Trainer.{VAR BE01}\nYou need to find out the most popular\nPokémon type.{VAR BE01}\nThe survey must be conducted for\neight hours or more.{VAR BE01}\nHe wants to use the result to plan\nhis battles.{VAR BE01}",
+        "This survey is...\na request from a real-estate firm.{VAR BE01}\nYou need to find out where people want\nto live, in a city or in the countryside.{VAR BE01}\nThe survey must be conducted for\neight hours or more.{VAR BE01}\nThey want to use the result for\ntheir business.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out which one people\nwant more, time or money,{VAR BE00}\nand what's most important to people.{VAR BE01}\nThe survey must be conducted for\n12 hours or more.{VAR BE01}\nI'd like to know...\nwhat people cherish the most...{VAR BE01}\nWhat? Why?\nI cannot tell you the reason.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out which kind of person\nis more popular, a smart person or an{VAR BE00}\nathletic person...{VAR BE01}\nand which one people desire more,\nappearance or substance.{VAR BE01}\nThe survey must be conducted for\n12 hours or more.{VAR BE01}\nIt's a survey about the most popular\ntype of person.{VAR BE01}\nWhat? Did something happen?\nNo, nothing... Never mind!{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out people's favorite\nseason and favorite food.{VAR BE01}\nThe survey must be conducted for\n12 hours or more.{VAR BE01}\nDon't you want to offer delicious food\ndepending on the season?{VAR BE01}\nTo whom? That's a secret!{VAR BE01}",
+        "This survey is...\na request from an artist.{VAR BE01}\nYou need to find out people's favorite\ncolors and favorite music.{VAR BE01}\nThe survey must be conducted for\n12 hours or more.{VAR BE01}\nHe wants to use the result for his art.{VAR BE01}",
+        "This survey is...\na request from a popular singer.{VAR BE01}\nYou need to find out\npeople's favorite music.{VAR BE01}\nThe survey must be conducted for\n16 hours or more.{VAR BE01}\nShe wants to use the result\nfor her new song.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out people's favorite\nTV programs and movies.{VAR BE01}\nThe survey must be conducted for\n16 hours or more.{VAR BE01}\nI want to have a lot of things to talk\nabout. So I need to know the trends!{VAR BE01}",
+        "This survey is...\na request from a student.{VAR BE01}\nYou need to find out\npeople's favorite time in school.{VAR BE01}\nThe survey must be conducted for\n16 hours or more.{VAR BE01}\nHe wants to use the result\nfor his school life.{VAR BE01}",
+        "This survey is...\na request from a teacher.{VAR BE01}\nYou need to find out people's favorite\nsubjects and weakest subjects.{VAR BE01}\nThe survey must be conducted for\n16 hours or more.{VAR BE01}\nShe wants to use the result\nfor her classes.{VAR BE01}",
+        "This survey is...\na request from an athlete.{VAR BE01}\nYou need to find out\nthe most popular sport.{VAR BE01}\nThe survey must be conducted for\n20 hours or more.{VAR BE01}\nHe wants to use the result\nfor his games.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out the most popular\nway to spend a holiday, and the most{VAR BE00}\npopular fun place.{VAR BE01}\nThe survey must be conducted for\n20 hours or more.{VAR BE01}\nWhy? Well, to tell you the truth,\nI have a date next weekend.{VAR BE01}\nSo, I want to check out some\ntrendy places.{VAR BE01}",
+        "This survey is...\na request from a Pokémon fan.{VAR BE01}\nYou need to find out what people most\nwant to become.{VAR BE01}\nThe survey must be conducted for\n20 hours or more.{VAR BE01}\nHe wants to use the result\nto promote Pokémon.{VAR BE01}",
+        "This survey is...\na request from a Gym Leader.{VAR BE01}\nYou need to find out who is the most\npopular Gym Leader.{VAR BE01}\nThe survey must be conducted for\n24 hours or more.{VAR BE01}\nHe wants to use the result\nfor his Gym operation.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nYou need to find out the most fun part\nof Pokémon.{VAR BE01}\nThe survey must be conducted\nfor 24 hours or more.{VAR BE01}\n...There is a lot going on for grown-ups.{VAR BE01}\nFrom now on, I will live a life dedicated\nto Pokémon.{VAR BE01}\nI will research the appeal of Pokémon!{VAR BE01}",
+        "...Oh?{VAR BE01}\nYou've passed by so many people already!\nI knew you could do it, {VAR 0100 0001}.{VAR BE01}\nI think the current data is enough.\nPlease report the survey results to me!{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\nfive or more people to find out which is{VAR BE00}\nmore popular, Pokémon Black Version{VAR BE00}\nor Pokémon White Version.{VAR BE01}\nI'm thinking of taking up Pokémon, too.\nI want to know which one is most popular.{VAR BE01}",
+        "This survey is...\na request from a Pokémon Professor.{VAR BE01}\nThis survey requires you to pass by\nfive or more people to find out{VAR BE00}\nthe most-picked starter Pokémon.{VAR BE01}\nHe wants to use the result of the survey\nfor his research.{VAR BE01}",
+        "This survey is...\na request from a mother.{VAR BE01}\nThis survey requires you to pass by\nten or more people to find out{VAR BE00}\nhow long people have spent playing{VAR BE00}\nthe game.{VAR BE01}\nShe wants to compare her child's\ngame time with the result of the survey.{VAR BE01}",
+        "This survey is...\na request from a newspaper company.{VAR BE01}\nThis survey requires you to pass by\nten or more people to find out{VAR BE00}\nwhich are the majority,{VAR BE00}\nmen or women.{VAR BE01}\nThey want to publish the result\nin tomorrow's morning paper.{VAR BE01}",
+        "This survey is...\na request from a magazine company.{VAR BE01}\nThis survey requires you to pass by\nten or more people to find out{VAR BE00}\nthe most common job.{VAR BE01}\nThey want to use the result\nfor their feature article.{VAR BE01}",
+        "This survey is...\na request from a leisure company.{VAR BE01}\nThis survey requires you to pass by\nten or more people to find out{VAR BE00}\nthe most common hobby.{VAR BE01}\nThey want to use the result\nas a reference for their projects.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n20 or more people to find out{VAR BE00}\nwhich one is more popular,{VAR BE00}\nbattles or trades.{VAR BE01}\nLately, I've been addicted to Pokémon,\nand I want to know how people play it.{VAR BE01}",
+        "This survey is...\na request from a girl.{VAR BE01}\nThis survey requires you to pass by\n20 or more people to find out{VAR BE00}\nthe most popular kind of Pokémon.{VAR BE01}\nShe wants to submit the result\nas her homework.{VAR BE01}",
+        "This survey is...\na request from a Trainer.{VAR BE01}\nThis survey requires you to pass by\n20 or more people to find out{VAR BE00}\nthe most popular Pokémon type.{VAR BE01}\nHe wants to use the result\nfor his battles.{VAR BE01}",
+        "This survey is...\na request from a real-estate firm.{VAR BE01}\nThis survey requires you to pass by\n20 or more people to find out{VAR BE00}\nwhere people want to live,{VAR BE00}\nin a city or in the countryside.{VAR BE01}\nThey want to use the result\nfor their business.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n30 or more people to find out{VAR BE00}\nwhich one people want, time or money,{VAR BE00}\nand what's most important to people.{VAR BE01}\nI'd like to know... \nwhat people cherish the most...{VAR BE01}\nWhat? Why?\nI cannot tell you the reason.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n30 or more people to find out{VAR BE00}\nwhich person is more popular, {VAR BE00}\na smart person or an athletic person...{VAR BE01}\nand which one people desire more,\nappearance or substance.{VAR BE01}\nIt's a survey about the most popular\nkind of person.{VAR BE01}\nWhat?\nDid something happen?{VAR BE01}\nNo, nothing...\nNever mind!{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n30 or more people to find out{VAR BE00}\npeople's favorite seasons and{VAR BE00}\nfavorite food.{VAR BE01}\nDon't you want to offer delicious food\ndepending on the season?{VAR BE01}\nTo whom?\nThat's a secret!{VAR BE01}",
+        "This survey is...\na request from an artist.{VAR BE01}\nThis survey requires you to pass by\n30 or more people to find out{VAR BE00}\npeople's favorite colors and music.{VAR BE01}\nHe wants to use the result\nfor his art.{VAR BE01}",
+        "This survey is...\na request from a popular singer.{VAR BE01}\nThis survey requires you to pass by\n40 or more people to find out{VAR BE00}\npeople's favorite music.{VAR BE01}\nShe wants to use the result\nfor her new song.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n40 or more people to find out{VAR BE00}\npeople's favorite TV programs{VAR BE00}\nand movies.{VAR BE01}\nI want to have a lot of things to talk\nabout. So I need to know the trends!{VAR BE01}",
+        "This survey is...\na request from a student.{VAR BE01}\nThis survey requires you to pass by\n40 or more people to find out{VAR BE00}\npeople's favorite time in school.{VAR BE01}\nHe wants to use the result\nfor his school life.{VAR BE01}",
+        "This survey is...\na request from a teacher.{VAR BE01}\nThis survey requires you to pass by\n40 or more people to find out{VAR BE00}\npeople's favorite subjects{VAR BE00}\nand weakest subjects.{VAR BE01}\nShe wants to use the result\nfor her classes.{VAR BE01}",
+        "This survey is...\na request from an athlete.{VAR BE01}\nThis survey requires you to pass by\n50 or more people to find out{VAR BE00}\nthe most popular sport.{VAR BE01}\nHe wants to use the result\nfor his games.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n50 or more people to find out{VAR BE00}\nthe most popular way to spend a holiday,{VAR BE00}\nand the most popular fun place.{VAR BE01}\nTo tell you the truth, \nI have a date next weekend.{VAR BE01}\nSo, I want to check out\ntrendy places.{VAR BE01}",
+        "This survey is...\na request from a Pokémon fan.{VAR BE01}\nThis survey requires you to pass by\n50 or more people to find out{VAR BE00}\nwhat people want to become the most.{VAR BE01}\nHe wants to use the result\nto promote Pokémon.{VAR BE01}",
+        "This survey is...\na request from a Gym Leader.{VAR BE01}\nThis survey requires you to pass by\n100 or more people to find out{VAR BE00}\nthe most popular Gym Leader.{VAR BE01}\nHe wants to use the result\nfor his Gym operation.{VAR BE01}",
+        "This survey is...\na request from me.{VAR BE01}\nThis survey requires you to pass by\n100 or more people to find out{VAR BE00}\nthe most fun part of Pokémon.{VAR BE01}\n...There is a lot going on for grown-ups.{VAR BE01}\nFrom now on, I will live a life dedicated\nto Pokémon.{VAR BE01}\nI will research the appeal of Pokémon!{VAR BE01}",
+        "...Oh?{VAR BE01}\nYou've already got the data\nfor this survey!{VAR BE01}\nI knew you could do it, {VAR 0100 0001}.\nPlease report the survey result to me!{VAR BE01}",
+        "Will you accept this survey request?",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Which version is more popular?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“The first Pokémon{VAR BE00}\nyou picked?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“How long have you been playing?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“More men or more women?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“The most common job?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“The most common hobby?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“More popular,{VAR BE00}\nbattles or trades?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Favorite kind of Pokémon?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Favorite Pokémon type?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Where do people prefer to live?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About what's most important.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Favorite kinds of people?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About seasons.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About art.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Favorite music?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About TV and movies.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Favorite time in school?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About study.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Most popular sport?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“About a holiday.\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“What do you want to{VAR BE00}\nbecome the most?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Most popular{VAR BE00}\nGym Leader?\"{VAR BE01}",
+        "{VAR 0100 0001}\naccepted the survey request{VAR BE00}\n“Most fun part of Pokémon?\"{VAR BE01}",
+        "Then, when you finish the survey,\nplease come and report it to me.",
+        "Then, when you finish the survey,\nplease come and report it to me.{VAR BE01}",
+        "Accept another request?",
+        "You have finished the survey!\nPlease report the survey result.{VAR BE01}",
+        "You haven't finished the survey,\n“Which version is more popular?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The first Pokémon you picked?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“How long have you been playing?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More men or more women?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The most common job?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The most common hobby?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More popular, battles or trades?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kind of Pokémon?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite Pokémon type?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Where do people prefer to live?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About what's most important.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kinds of people?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About seasons.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About art.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite music?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About TV and movies.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite time in school?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About study.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular sport?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About a holiday.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“What do you want{VAR BE00}\nto become the most?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular{VAR BE00}\nGym Leader?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most fun part of Pokémon?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more hours: {VAR 0201 0002}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Which version is more popular?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The first Pokémon you picked?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“How long have you been playing?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More men or more women?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most common job?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most common hobby?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More popular, battles or trades?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kind of Pokémon?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite Pokémon type?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Where do people prefer to live?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About what's most important.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kinds of people?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About seasons.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About art.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite music?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About TV and movies.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite time in school?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About study.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular sport?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About a holiday.\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“What do you want{VAR BE00}\nto become the most?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular{VAR BE00}\nGym Leader?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most fun part of Pokémon?\"{VAR BE01}\nYou need to conduct the survey\nfor at least one person.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Which version is more popular?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The first Pokémon{VAR BE00}\nyou picked?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“How long have you been playing?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More men or more women?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The most common job?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“The most common hobby?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“More popular, battles or trades?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kind of Pokémon?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite Pokémon type?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Where do people prefer to live?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About what's most important.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite kinds of people?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About seasons.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About art.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite music?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About TV and movies.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Favorite time in school?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About study.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular sport?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“About a holiday.\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“What do you want{VAR BE00}\nto become the most?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most popular{VAR BE00}\nGym Leader?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You haven't finished the survey,\n“Most fun part of Pokémon?\"{VAR BE01}\nYou need to conduct the survey for\nthis many more people: {VAR 0202 0001}.{VAR BE01}\nKeep it up and complete the survey.\nOr do you want to cancel this survey?",
+        "You don't seem to have accepted\na survey request.{VAR BE01}\nPlease come back if you want to\naccept a request.",
+        "Reported the result of the survey\n“Which version is more popular?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“The first Pokémon you picked?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“How long have you been playing?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“More men or more women?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Most common job?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Most common hobby?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“More popular, battles or trades?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Favorite kind of Pokémon\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Favorite Pokémon type?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Where do people prefer to live?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About what's most important\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Favorite kinds of people?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About seasons\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About art\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Favorite music?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About TV and movies\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Favorite time in school?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About study\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Most popular sport?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“About a holiday\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“What do you want to become the most?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Most popular Gym Leader?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Reported the result of the survey\n“Most fun part of Pokémon?\"{VAR BE00}\nto the leader!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for Pokémon Black Version and\nPokémon White Version, more people have{VAR BE00}\nPokémon {VAR 0113 0000} Version.{VAR BE01}\nThat is helpful.{VAR BE01}\nEither version seems to be fun to play.\nNow, it's more difficult to choose!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like the\nmost selected starter Pokémon.{VAR BE01}\nThat came as a surprise.\nThat's why the survey is interesting!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe most common playing time.{VAR BE01}\nI am happy that people enjoy the game\nfor long hours!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for women and men,\nthe majority of people who play Pokémon{VAR BE00}\nare “{VAR 0113 0000}.\"{VAR BE01}\nAnyone can enjoy Pokémon!\nI want everyone to enjoy it.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe most common job.{VAR BE01}\nMany different people\nare playing the game.{VAR BE01}\nWhat a wonderful thing!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe most common hobby.{VAR BE01}\nIt's great to enjoy various things.\nBecause your world will be broadened.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for battles and trades, more people\nseem to enjoy “{VAR 0113 0000}.\"{VAR BE01}\nThat is helpful.{VAR BE01}\nYou can enjoy various things.\nThat's the beauty of Pokémon.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nIt looks like people prefer\n“{VAR 0113 0000}\" Pokémon.{VAR BE01}\nThere are so many different Pokémon!\nI want to meet lots of them.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe most popular Pokémon type.{VAR BE01}\nThere are many different Pokémon types.{VAR BE01}\nThis will be useful information\nfor battles!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for a city or the countryside,\nmore people seem to want to live in{VAR BE00}\n“{VAR 0113 0000}.\"{VAR BE01}\nThere is a saying:\nEvery bird finds its own nest charming.{VAR BE00}\nIt's difficult to say which one is better.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for time or money, it looks like more\npeople chose “{VAR 0113 0000}.\"{VAR BE01}\nAnd what's most important to people\nseems to be “{VAR 0113 0001}.\"{VAR BE01}\nThat is helpful.{VAR BE01}\nI don't want to lose sight of\nwhat is important for myself.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nAs for a smart or an athletic person,\nmore people chose “{VAR 0113 0000}.\"{VAR BE01}\nAs for appearance or substance,\nmore people chose “{VAR 0113 0001}.\"{VAR BE01}\nThe most popular type of person is\n“{VAR 0113 0002}.\"{VAR BE01}\nThat is helpful.{VAR BE01}\nDifferent people are charmed by\ndifferent qualities.{VAR BE01}\nWhy don't people notice\nmy charms...?{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite season.{VAR BE01}\nThe people's favorite food seems to be\n“{VAR 0113 0001}.\"{VAR BE01}\nIt was helpful.{VAR BE01}\nDelicious food varies seasonally.\nTaste the difference!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite color.{VAR BE01}\n“{VAR 0113 0001}\" looks like\nthe people's favorite music.{VAR BE01}\nPopular things are not necessarily good.\nWe should value what we love.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite music.{VAR BE01}\nIt may be a good idea\nto relax and listen to music.{VAR BE01}\nI will make use of the result\nfor my life.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite kind of TV program.{VAR BE01}\n“{VAR 0113 0001}\" looks like\nthe people's favorite kind of movie.{VAR BE01}\nThat is helpful.{VAR BE01}\nThat should prevent me from\nrunning out of conversation topics.{VAR BE01}\nI look forward to my next date.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite time in school.{VAR BE01}\nSchool... It brings back memories.{VAR BE01}\nIn the old days,\njust being in school was fun.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe people's favorite subject.{VAR BE01}\nAnd, “{VAR 0113 0001}\" looks like\nthe people's weakest subject.{VAR BE01}\nTo have a balanced life, play hard and\nstudy hard.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nIt looks like the most popular sport is\n“{VAR 0113 0000}.\"{VAR BE01}\nExercise is also important.{VAR BE01}\nThere is nothing more valuable\nthan good health.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\n“{VAR 0113 0000}\" looks like\nthe most popular way of{VAR BE00}\nspending a holiday.{VAR BE01}\nAnd, “{VAR 0113 0001}\" looks like\nthe most popular fun place.{VAR BE01}\nThat is helpful.\nThis will make my date special.{VAR BE01}\nWith who? That's a secret!{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nIt looks like people want to become a\n“{VAR 0113 0000}\" the most.{VAR BE01}\nIt's not bad to long to be something,\nbut first we should have confidence{VAR BE00}\nin ourselves.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nIt looks like the most popular Gym Leader\nis “{VAR 0113 0000}.\"{VAR BE01}\nGym Leaders are icons for children.\nI think all Leaders are attractive.{VAR BE01}",
+        "Hmm... I see...{VAR BE01}\nIt looks like the most fun part\nof Pokémon is “{VAR 0113 0000}.\"{VAR BE01}\nThat is helpful.{VAR BE01}\nThere are many ways to enjoy Pokémon.\nSo you can enjoy Pokémon indefinitely!{VAR BE01}",
+        "It's an excellent survey!{VAR BE01}\n{VAR 0100 0001}, you've come up to\nmy expectation.{VAR BE01}\nThis is the compensation for the survey.\nPlease accept this.{VAR BE01}",
+        "Your great work surprises me every time.{VAR BE01}\nAll right! From today, you are a\n“B-rank statistician\"!{VAR BE01}",
+        "Your great work surprises me every time.{VAR BE01}\nAll right! From today, you are an\n“A-rank statistician\"!{VAR BE01}",
+        "Your great work surprises me every time.{VAR BE01}\nAll right! From today, you are an\n“S-rank statistician\"!{VAR BE01}",
+        "Your great work surprises me every time.{VAR BE01}\nAll right! From today, you are an\n“S+ rank statistician\"!{VAR BE01}",
+        "{VAR 0100 0001}\nwas appointed as a{VAR BE00}\n“B-rank statistician\"!{VAR BE01}",
+        "{VAR 0100 0001}\nwas appointed as an{VAR BE00}\n“A-rank statistician\"!{VAR BE01}",
+        "{VAR 0100 0001}\nwas appointed as an{VAR BE00}\n“S-rank statistician\"!{VAR BE01}",
+        "{VAR 0100 0001}\nwas appointed as an{VAR BE00}\n“S+ rank statistician\"!{VAR BE01}",
+        "You'll become a “B-rank statistician\"\nif you complete a requested survey{VAR BE00}\nthis many more times: {VAR 0201 0001}.{VAR BE00}\nKeep it up!{VAR BE01}",
+        "You'll become an “A-rank statistician\"\nif you complete a requested survey{VAR BE00}\nthis many more times: {VAR 0201 0001}.{VAR BE00}\nKeep it up!{VAR BE01}",
+        "You'll become an “S-rank statistician\"\nif you complete a requested survey{VAR BE00}\nthis many more times: {VAR 0201 0001}.{VAR BE00}\nKeep it up!{VAR BE01}",
+        "You'll become an “S+ rank statistician\"\nif you complete a requested survey{VAR BE00}\nthis many more times: {VAR 0201 0001}.{VAR BE00}\nKeep it up!{VAR BE01}",
+        "I'm expecting great work\nfor the next survey, too!{VAR BE00}\n{VAR 0100 0001}!",
+        "This completes all the survey requests.\n{VAR 0100 0001}, well done!{VAR BE00}\nI'm incredibly moved!{VAR BE01}\nThis is a token of my appreciation.\nPlease accept this.{VAR BE01}",
+        "From now on, feel free to survey\nwhatever you want to know.{VAR BE01}\nI have high hopes for\nyour future success!",
+        "I see...{VAR BE01}\nI'm lonely, so\nplease come visit me sometimes.",
+        "This is Passerby Analytics HQ.{VAR BE01}\nIf you want to join us,\nplease speak to the leader.",
+        "Hi, {VAR 0100 0001}.\nAre you conducting a survey vigorously?{VAR BE01}",
+        "Excuse me, new statistician!\nPlease wait!{VAR BE01}",
+        "Actually, I have a favor to ask you.{VAR BE01}\nI'm asking statisticians to answer\na questionnaire.{VAR BE01}\nOK, here we go!{VAR BE01}",
+        "I'd like to ask you to answer\na questionnaire again.{VAR BE01}\nWill you?",
+        "All right.{VAR BE01}\nIf you change your mind,\nplease speak to me.",
+        "Oh? It looks like you've answered\nall the questionnaires.{VAR BE01}\nWould you like to re-answer\nthe questionnaires you did before?",
+        "Then, will you choose a questionnaire\nyou'd like to answer?",
+        {
+            "text": "Details about people",
+            "flags": 219
+        },
+        {
+            "text": "Pokémon favorites",
+            "flags": 219
+        },
+        {
+            "text": "Ideals and values",
+            "flags": 219
+        },
+        {
+            "text": "Likable people",
+            "flags": 219
+        },
+        {
+            "text": "Preferences",
+            "flags": 219
+        },
+        {
+            "text": "Entertainment",
+            "flags": 219
+        },
+        {
+            "text": "School life",
+            "flags": 219
+        },
+        {
+            "text": "Sports and pastimes",
+            "flags": 219
+        },
+        {
+            "text": "More about Pokémon",
+            "flags": 219
+        },
+        "Choose this questionnaire?",
+        "You can answer the questionnaires\nas many times as you want.{VAR BE01}\nIf you want to change your answers,\nplease let me know.",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Details about people.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Pokémon favorites.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Ideals and values.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Likable people.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Preferences.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Entertainment.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“School life.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“Sports and pastimes.\"{VAR BE01}",
+        "Let's get started.\nThis questionnaire...{VAR BE01}\nis about\n“More about Pokémon.\"{VAR BE01}",
+        "“What is your hobby?\"",
+        "“Which do you prefer,\nbattles or trades?\"",
+        "“Where do people prefer to live?\"",
+        "“Which partner would you choose?\"",
+        "“What is your favorite season?\"",
+        "“What is your favorite music?\"",
+        "“What is your favorite time\nin school?\"",
+        "“Where would you like to go\nfor fun?\"",
+        "“What do you think\nthe most fun part of Pokémon is?\"",
+        "“What is your job?\"",
+        "“What is your favorite kind of Pokémon?\"",
+        "“Which one do you wish you had more of?\"",
+        "“What do you value more in a person?\"",
+        "“What is your favorite food?\"",
+        "“What is your favorite kind of\nTV program?\"",
+        "“What is your favorite school subject?\"",
+        "“What do you do on holidays?\"",
+        "“What would you want to become?\"",
+        "",
+        "“What is your favorite Pokémon type?\"",
+        "“What's most important to you?\"",
+        "“What type of person\ndo you like?\"",
+        "“What is your favorite color?\"",
+        "“What is your favorite kind of movie?\"",
+        "“What is your weakest subject?\"",
+        "“What is your favorite sport?\"",
+        "“Who is your favorite Gym Leader?\"",
+        "I see, I see...\nUh-huh.{VAR BE01}\nNext up...{VAR BE01}",
+        "I see, I see...\nUh-huh.{VAR BE01}\n...OK. That's it!{VAR BE01}\nThank you.\nI got a useful questionnaire.{VAR BE01}",
+        "Oh, I will give this questionnaire sheet\nto you, too.{VAR BE01}",
+        "The “Details About People\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Pokémon Favorites\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Ideals and Values\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Likable People\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Preferences\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Entertainment\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “School Life\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “Sports and Pastimes\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "The “More About Pokémon\" survey\nwas added to the Survey Radar!{VAR BE01}",
+        "And... This is a thank-you gift\nfor answering the questionnaire.{VAR BE01}",
+        "This is the end of \nall the questionnaires.{VAR BE01}\nIt was fun to get to know you!{VAR BE01}",
+        "You can answer the questionnaires\nas many times as you want, so{VAR BE00}\nif you want to change your answers,{VAR BE00}\nplease let me know.",
+        "Now, you have...\nthis many questionnaires left: {VAR 0200 0001}.{VAR BE01}",
+        "If you want to answer other\nquestionnaires, too, speak to me.",
+        "Since you're here, why don't you\nanswer other questionnaires, too?",
+        "Hello!\nGreeting is important, isn't it?{VAR BE01}",
+        "If you don't mind, would you tell me\nyour favorite greeting?",
+        "If you don't mind, would you tell me\nyour favorite greeting again?",
+        {
+            "text": "Hello!",
+            "flags": 96
+        },
+        "Then, maybe next time.\nLet's always have a cheerful greeting!",
+        "Yes, it's a good greeting!\nIt cheers me up!{VAR BE01}\nPlease feel free to come and say hi again!\nI look forward to seeing you again!",
+        "Hello! Do you always have a feeling\nof gratitude?{VAR BE01}",
+        "Oh, you dropped your Poké Ball.\nHere you are.{VAR BE01}",
+        "{VAR 0100 0001} received a Poké Ball.{VAR BE01}",
+        "Please remember to thank someone\nwho helps you!{VAR BE01}\nIt may sound trivial, but it's important.{VAR BE01}\nNow, will you tell me your\nfeeling of gratitude?",
+        "If you don't mind, will you show me your\nfeeling of gratitude again?",
+        {
+            "text": "Thanks!",
+            "flags": 96
+        },
+        "Then, maybe next time.{VAR BE01}\nDon't forget a feeling of gratitude!",
+        "What a wonderful phrase!\nIt warms up my heart.{VAR BE01}\nIf somebody helps you,\nshow your feelings of gratitude.{VAR BE01}\nI am sure they will appreciate\nyour feelings.",
+        "Do you know the ranks of statisticians?{VAR BE01}\nIf you complete several survey\nrequests, you can advance in rank!{VAR BE01}\nIf you advance in rank,\npeople will look up to you, and{VAR BE00}\nyou can get something good!",
+        "Do you know the ranks of statisticians?{VAR BE01}\nOh, you are {VAR 0100 0001}.\nYou are a B-rank statistician.{VAR BE01}\nYou advanced to the B rank!\nYou've been working hard.{VAR BE01}\nIf you advance in rank,\nyou'll get more new requests, so{VAR BE00}\nyou might want to talk to the leader.",
+        "Do you know the ranks of statisticians?{VAR BE01}\nOh, you are {VAR 0100 0001}.\nYou are an A-rank statistician.{VAR BE01}\nYou're already in the A rank.\nThat's awesome!{VAR BE01}\nI also have to work hard\nand take surveys.{VAR BE01}\nI heard requests for the A rank\nwere difficult.{VAR BE01}\nKeep up the good work!",
+        "Do you know the ranks of statisticians?{VAR BE01}\nOh, you are {VAR 0100 0001}.\nYou are an S-rank statistician.{VAR BE01}\nYou are close to the S+ rank,\nwhich is the best!{VAR BE01}\nI will support you!\nGood luck.",
+        "Do you know the ranks of statisticians?{VAR BE01}\nOh, you are {VAR 0100 0001}.\nYou are an S+ rank statistician!{VAR BE01}\nWow! I will also do my best to\nadvance in rank as much as possible!",
+        "If you want to check your information,\nlook at the graph on the back wall.{VAR BE01}\nInformation about all the statisticians\nis kept there.{VAR BE01}\nOf course, we checked the information\nabout you!",
+        "Have you answered a questionnaire?{VAR BE01}\nYou should at least answer about\nwhat kind of person you are.",
+        "Are you having a hard time getting new\nsurvey items in the Survey Radar?{VAR BE01}\nIf you want more survey items, answer\nquestionnaires in the headquarters.",
+        "If you are an S-rank statistician, you\nmust have answered all the{VAR BE00}\nquestionnaires.{VAR BE01}\nWhat you want to know is\nwhat everybody wants to know.{VAR BE01}\nPlease volunteer to answer\nquestionnaires.",
+        "Good work today,\n{VAR 0100 0001}!{VAR BE01}\nWe have more statisticians, and\nthis place has become quite lively.{VAR BE01}\nThe way things are going,\nwe can collect more survey data.",
+        "The more I conduct surveys,\nthe more fun it will be.{VAR BE01}\nI'm determined to pass by more people!{VAR BE01}\nIt's way more fun to conduct surveys\nwith people than doing them by myself.",
+        "By any chance, are you having trouble?{VAR BE01}\nIf it's difficult to pass by many people,\nI recommend you try a timed survey.{VAR BE01}\nIt takes time, but if you pass by just\none person, you can complete the{VAR BE00}\nrequest.",
+        "I'll give you a hint.{VAR BE01}\nIf you go to a place full of people,\nI recommend a head-count survey.{VAR BE01}\nYou can collect survey data really fast,\nso you can complete the request{VAR BE00}\nin a short time.",
+        "Good work today,\n{VAR 0100 0001}!{VAR BE01}\nYou've become the top statistician\ninstantly.{VAR BE01}\nI should learn a lot from you\nand work hard!",
+        "When I answered a questionnaire earlier,\nI got a questionnaire sheet.{VAR BE01}\nMaybe I will answer all the\nquestionnaires...",
+        "After the questionnaire, the next step is\nconducting a survey.{VAR BE01}\nSet the request you want to survey\non the Survey Radar...{VAR BE00}\nAnd let's go!",
+        "New statisticians are not\nanswering questionnaires.{VAR BE01}\nIf they answered questionnaires,\nthey could conduct more surveys...{VAR BE00}\nWhat a shame!",
+        "Hello, {VAR 0100 0001}!{VAR BE01}\nI've also started teaching novice\nstatisticians how to conduct surveys.",
+        "What is the popular movie now?\n{VAR 0100 0001}, do you have any idea?",
+        "What is the popular food now?\n{VAR 0100 0001}, do you have any idea?",
+        "What is the popular...\nOh, {VAR 0100 0001}.{VAR BE01}\nI knew it.\nI have to take a survey by myself...{VAR BE01}\nAh, it is a pain in the neck...",
+        "The survey requests from the leader\nare hard. Don't you agree?{VAR BE01}\nBesides, the number of more difficult\nsurveys are increasing...",
+        "Hello! Good work today, {VAR 0100 0001}.{VAR BE01}\nHave you finished all the\nsurvey requests from the leader?{VAR BE01}\nI heard if you finish all the requests,\nyou can get something good!",
+        "Oh! {VAR 0100 0001}!\nI'm honored to see you!{VAR BE01}\nOh, wow!\n{VAR 0100 0001} spoke to me!",
+        {
+            "text": "STATISTICIANS WANTED!\nFOR DETAILS, ASK THE LEADER!",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000}\nStatistician rank: C rank\nNumber of times thanked: {VAR 0204 0002}\nNumber of people passed by: {VAR 0204 0001}",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000}\nStatistician rank: B rank\nNumber of times thanked: {VAR 0204 0002}\nNumber of people passed by: {VAR 0204 0001}",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000}\nStatistician rank: A rank\nNumber of times thanked: {VAR 0204 0002}\nNumber of people passed by: {VAR 0204 0001}",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000}\nStatistician rank: S rank\nNumber of times thanked: {VAR 0204 0002}\nNumber of people passed by: {VAR 0204 0001}",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000}\nStatistician rank: S+ rank\nNumber of times thanked: {VAR 0204 0002}\nNumber of people passed by: {VAR 0204 0001}",
+            "flags": 232
+        }
+    ],
+    "pad": "b4b4"
+}

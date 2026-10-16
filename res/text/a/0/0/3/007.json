@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to Black City.{VAR BE01}\nThis is the city of dreams, greed, and\nmore greed.{VAR BE01}\nAnd I am Black City's boss, so I'm\na whirlpool of greed!{VAR BE01}",
+        "This city is filled with vibrant people\nwho are like big piles of greed.{VAR BE01}\nHmm. Try defeating {VAR 0204 0000} of the\npeople outside.{VAR BE01}\nThen I'll respond to your greed.{VAR BE01}",
+        "I see you've defeated {VAR 0204 0001} of them.\nHmph. Keep trying.",
+        "What?\nYou've already beaten {VAR 0204 0000} people?{VAR BE01}\nYou...\nYou're a greedier one than I expected.{VAR BE00}\nDeep down, you want a lot.{VAR BE01}\nI like you!\nI'll respond to your greed.{VAR BE01}",
+        "{VAR 0100 0002} received ${VAR 0204 0003}!",
+        "Next, try to defeat {VAR 0204 0004} people.\nShow me how greedy you really are.",
+        "Wow! You're the best!{VAR BE01}\nYou're definitely the greediest\nof the greedy!{VAR BE01}\nYou put the other greedies to shame!",
+        "Wow! It's all really expensive, so these\nthings must be great...{VAR BE01}\nI want this, and that, and that\nthing over there!",
+        "I want to become more powerful and make\nmore money!",
+        "If you have the money, you can get\nanything you want in this city!",
+        "This city has everything!\nAbsolutely everything!",
+        "Hmmm... Isn't there a better job where\nI can make more money?",
+        "I wonder how strong this Pokémon\ncould become...",
+        "Everything I want is here!\nIf I only had money! If only!",
+        "The power of civilization is amazing...\nWe can make anything people could want!",
+        "Hee hee! Let's have a Rotation Battle!",
+        "Prepare three Pokémon for battle, OK?{VAR BE01}\nRotation Battle is a new kind of battle\nthat uses three Pokémon at a time!",
+        "Heh! Scared of me, aren't you?!",
+        "Rotation Battles are shocking!",
+        "I just got lucky and got some\nPokémon here...{VAR BE01}\nI want to use them right now, so let's\nhave a Rotation Battle!",
+        "Rotation Battles use three Pokémon!\nSo get three of yours ready!",
+        "Scared of how lucky I am, huh?",
+        "Hmmmph. I only lost today because\nI got unlucky.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "flags": 224,
+    "entries": [
+        "Zinzolin: All of you--huddle around me!\nI can't take this cold...{VAR BE01}",
+        "Cheren: Whatever.\nI can't believe you were really hiding.{VAR BE01}\nIt's a bother, but if you're cold,\nshall I show you outside?{VAR BE01}",
+        "Zinzolin: Pokémon are our king's friends.{VAR BE01}\nWhile we're taking care of them, we can't\nlet any harm come to them here.{VAR BE01}\nEveryone, drive these intruders away!{VAR BE01}",
+        "Team Plasma: Understood,\nZinzolin of the Seven Sages!{VAR BE01}\nPut 'em up, 'cause here we come!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}!\nLet's each take care of one side!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, you take\ncare of those guys over there!",
+        "Team Plasma: I'm one of the tougher\nmembers of Team Plasma here!{VAR BE01}",
+        "Team Plasma: How am I supposed to win\nwhen I'm shaking 'cause of the cold?",
+        "Team Plasma: S-s-so cold...\nHow can I win when I'm shivering so hard?{VAR BE01}",
+        "Team Plasma: For this group,\nI'm pretty strong. I hope you know that!{VAR BE01}",
+        "Team Plasma: In the middle of the night,\nwe gathered all the Pokémon we stole{VAR BE00}\nin front of the container, so we could{VAR BE00}\ntransport them all at the same time.{VAR BE01}\nThen Clay, that old guy, found us.\nWe had been captured!",
+        "Team Plasma: In the middle of the night,\nwe gathered all the Pokémon we stole{VAR BE00}\nin front of the container, so we could{VAR BE00}\ntransport them all at the same time.{VAR BE01}\nThen Clay, that old guy, found us.\nWe had been captured!{VAR BE01}",
+        "Team Plasma: In this group,\nI'm fairly strong, and that's a fact!{VAR BE01}",
+        "Team Plasma: The Pokémon that work\nwith people may look like they're having{VAR BE00}\nfun, but the truth is they're suffering.{VAR BE01}\nThere's no doubt about it!",
+        "Team Plasma: The Pokémon that work\nwith people may look like they're having{VAR BE00}\nfun, but the truth is they're suffering.{VAR BE01}\nThere's no doubt about it!{VAR BE01}",
+        "Team Plasma: In my own way, I'm a strong\npart of this Team Plasma group!{VAR BE01}",
+        "Team Plasma: Hmm-mmm... I wonder why...\nI'm getting sleepy for some reason.",
+        "Team Plasma: I wonder why...\nI'm getting sleepy for some reason.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Team Plasma: Um.\nRunning into the Cold Storage,{VAR BE00}\nthinking it was a regular container...{VAR BE00}\nHow cold life can be...",
+        "Team Plasma: Me?\nLosing to a Trainer like this?!",
+        "Team Plasma: Achoo! Why did I end up\nhere when I'm allergic to the cold!",
+        "Clay: Well, I'll be!{VAR BE01}\nHidin' in a chilly old place like this...{VAR BE01}",
+        "You guys take these\nPokémon robbers!{VAR BE01}",
+        "Worker: Roger!{VAR BE01}",
+        {
+            "text": "Come on!",
+            "flags": 126
+        },
+        {
+            "text": "Eek!",
+            "flags": 126
+        },
+        {
+            "text": "Ugh!",
+            "flags": 126
+        },
+        "Clay: You guys ain't so bad!{VAR BE01}\nYup, a promise is a promise.\nCome on an' challenge my Gym!{VAR BE01}",
+        "Cheren: Whatever...\nTeam Plasma's ideal...{VAR BE01}\nSeparating people and Pokémon...{VAR BE01}\nIt's exactly the same as not having\nPokémon in this world at all.{VAR BE00}\nThat bunch is a waste of oxygen.{VAR BE01}\n{VAR 0100 0000}...\nIt's cold, so I'm getting out of here.{VAR BE01}",
+        "Zinzolin: So, you returned?\nYou're an odd Trainer.{VAR BE01}\nAll right. I've got time enough\nto satisfy your curiosity.{VAR BE01}",
+        "...Breathing.\nHaving a heart that beats.{VAR BE01}\nThat is simple existence and\nnothing more for a living being.{VAR BE01}\nThat may be the definition of living,\nbut I don't think that defines life.{VAR BE01}",
+        "The experiences of joy and suffering\nare a vital part of being alive.{VAR BE01}\nGhetsis gave me the sensation\nof being truly alive...{VAR BE01}\nWhat did he mean to accomplish?\nThat isn't what's important.{VAR BE01}",
+        "Right now, I'm shivering.\nI'm suffering, but I'm alive.{VAR BE01}",
+        "Pokémon and people live by being\ntogether and relying on one another.{VAR BE00}\nThat might be how you feel.{VAR BE01}\nIf that's so, is it necessary to\nseparate people and Pokémon?{VAR BE01}\nBy talking to you, I've discovered that\nthere's much I need to think about...{VAR BE01}\nI wish I had more to give you in thanks...\nHere, take this.{VAR BE01}",
+        "Zinzolin: My lord N said that he wanted\nto make Pokémon perfect...{VAR BE01}\nBut, even if the relationship between\nPokémon and people stayed as it now is,{VAR BE00}\nPokémon can aspire to perfection...{VAR BE01}",
+        "Looker: Indeed! I am an officer of the\nInternational Police, and I demand to{VAR BE00}\nhear all you know about Team Plasma!{VAR BE01}",
+        "Zinzolin: It's too cold and I'm already\ntired of shivering in here.{VAR BE01}\nIf you'll give me some time to think,\nI'll tell you what I know.{VAR BE00}\nSo...take me with you.{VAR BE01}",
+        "Looker: Thanks many times over!{VAR BE01}\nNow, Ghetsis notwithstanding, there\nyet remains but {VAR 0200 0000} of the{VAR BE00}\nSeven Sages still at large.{VAR BE01}\nThe thoughts they are contemplating,\nthe hopes they are anticipating,{VAR BE00}\nthese--these are what I want to know!{VAR BE00}\nUntil our next meeting!{VAR BE01}",
+        "Looker: Thank you!{VAR BE01}\n{VAR 0100 0000}, of something we must speak.{VAR BE01}\nA report has reached my ears of someone\nfar from here. Indeed, this someone{VAR BE00}\nhas spotted a person like N and a...{VAR BE00}\ndragon Pokémon.{VAR BE01}\nI plan to examine the exactitude\nof this information. {VAR BE00}\nI hope to see you again!{VAR BE01}"
+    ],
+    "pad": "3030"
+}

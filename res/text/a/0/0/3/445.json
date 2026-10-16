@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "Lacunosa Town\nMethodical and Orderly",
+            "flags": 207
+        },
+        "Welcome to Lacunosa Town.{VAR BE01}\nIn this town, people live as methodically\nas clockwork from morning to night.{VAR BE01}\nIf you live your life soaking up sunlight,\nyou can sleep very well at night.",
+        "Well, hello there, young traveler!{VAR BE01}\nWould you like to hear an old story\nof Lacunosa Town?{VAR BE01}\nBear with me, because I'm an old lady who\nlikes telling tales the old-fashioned way!",
+        "There's a great big hole at the back\nof this town.{VAR BE01}\nA long time ago, a huge meteor fell from\nthe sky and made the big hole.{VAR BE01}\nA very scary monster was hiding\ninside the meteor!{VAR BE01}\nPeople say the monster appeared in the\nvillage at night, bringing a cold wind, and{VAR BE00}\nit stole away people and Pokémon...{VAR BE01}\nSo the villagers built big walls to keep\nthe monster out and made a rule that{VAR BE00}\nno one could go out after dark.{VAR BE01}",
+        "...Of course, nowadays nobody believes in\nsuch things.{VAR BE01}\nBut you know...{VAR BE01}\nEven now, the people of this town\nstay inside after dark.{VAR BE00}\nIsn't that strange?{VAR BE01}\nI guess old stories and old traditions\nhave some influence on our current life.",
+        "Oh, well, that's too bad. Come talk to me\nif you're ever in the mood for a story!",
+        "At night, a scary monster comes out of\nthe big hole, so you have to go home{VAR BE00}\nand be good!",
+        "Along the road ahead, there is a\ncoastline that fishing fans love.{VAR BE01}\nWhirrrrr...plunk!{VAR BE01}\nThat's the sound my fishing rod makes.\nI like to hear it every day!",
+        "My grandma loves to tell old stories.{VAR BE01}\nShe makes me listen to her long stories\nall the time!",
+        "There are a lot of people in the world,\nand there are just as many different{VAR BE00}\ncharacteristics and ideas.",
+        "I don't have anything to do ever since\nI took a post here.{VAR BE01}\nSince nobody goes outside at night,\nit's very peaceful.",
+        "Gahoo! Gahoo!",
+        "My Pokémon always goes out\nfor fun without me."
+    ],
+    "pad": "fcfc"
+}

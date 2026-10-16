@@ -1,0 +1,19 @@
+{
+    "flags": 221,
+    "entries": [
+        "Touch the Battle icon\nif you want to battle!",
+        "Touch the Trade icon\nif you want to trade!",
+        "Touch the Draw icon\nif you want to draw!",
+        "Touch the Spin Trade icon\nif you want to Spin Trade!",
+        {
+            "text": "FRIEND",
+            "flags": 102
+        },
+        {
+            "text": "PLAYER",
+            "flags": 102
+        },
+        "I've entered the Union Room."
+    ],
+    "pad": "c4c4"
+}

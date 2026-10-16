@@ -1,0 +1,78 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}! {VAR BE01}\nI understand the feeling.\nI want to go somewhere with{VAR BE00}\nmy Pokémon too, but first{VAR BE00}\nwe have to go thank Professor Juniper.{VAR BE01}\nCome on. The lab is this way!{VAR BE01}",
+        "Cheren: I'm sorry, but could you\ngo to Bianca's house?{VAR BE01}\nI'll bet she's spacing out\nlike she usually does.{VAR BE00}\nShe's totally flighty.",
+        "Bianca: ...That's a secret, OK?",
+        "Cheren: OK!\nLet's go meet the professor.{VAR BE01}",
+        "Bianca: Heeey!\n{VAR 0100 0000}, wait up!{VAR BE01}",
+        "Bianca: Come on!\n{VAR 0100 0000}, wait up!{VAR BE01}",
+        "Mom: Oh, there you are! And...?\nWhat did the professor have to say?{VAR BE01}\nShe asked you to complete the Pokédex?!\nI can't believe it!{VAR BE01}",
+        "Well, actually, I can.\nI already knew she was going to ask.{VAR BE01}",
+        "That's why I brought you three of\nthese Town Maps. Take them with you!{VAR BE01}",
+        "Mom: Here you are, Cheren.{VAR BE01}",
+        "Cheren: I'll take good care of it.{VAR BE01}",
+        "Mom: And one for you, too, Bianca.{VAR BE01}",
+        "Bianca: Th-thank you so much!{VAR BE01}",
+        "Mom: As for your room, {VAR 0100 0000}--\nor what's left of it...{VAR BE01}\nNo need for any of you to worry.\nI'll take care of tidying up.{VAR BE01}\nOK, {VAR 0100 0000}?{VAR BE01}",
+        "Mom: Ah, Pokémon. They are so cute,\nbut they have enough power to destroy{VAR BE00}\na bedroom! They are really something.{VAR BE01}\nWith Pokémon like that at your side,\nyou'll be safe wherever you go!{VAR BE01}",
+        "I'll let your parents know!{VAR BE01}\nI hope that, in addition to Pokémon,\nyou'll find lots and lots of places{VAR BE00}\nyou like in the Unova region--{VAR BE00}\nand become wonderful adults!{VAR BE01}\nHave a great trip!{VAR BE01}",
+        "Cheren: If I use the Town Map,\nI'll always know where I am...{VAR BE00}\nThat's certainly helpful.{VAR BE01}\nShall we head to Route 1?\nThe professor's waiting.{VAR BE01}",
+        "Bianca: Let's go, let's go!\n{VAR 0100 0000}, hurry and come too, OK?{VAR BE01}",
+        "Bianca: {VAR 0100 0000}...\nIt's this way!{VAR BE01}",
+        "Cheren: Bianca says if we're starting a\njourney together, she wants us all to{VAR BE00}\ntake our first step at the same time.{VAR BE01}",
+        "Bianca: Hey, {VAR 0100 0000}!{VAR BE01}\nLet's all take our first step\non Route 1 together!{VAR BE01}",
+        "Cheren: OK, here we go!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "One, two!{VAR BE01}",
+        "The power of science is amazing!{VAR BE01}\nNow you can use infrared to do all\nsorts of things in the blink of an eye!",
+        "Do you think traveling with Pokémon\nchanges people?",
+        "Me too! Traveling and thinking about many\nthings can definitely make a difference.",
+        "You're right! It's fine to just enjoy the\njourney without overthinking it!",
+        "I've heard there are a lot of Pokémon\nand many different people in the world.{VAR BE01}\nWhen I hear stories about them,\nI get very excited!",
+        "Bianca: Oh! I wonder what will happen!\nIsn't this so exciting?!{VAR BE01}",
+        "Cheren: It sure is!\nC'mon, the professor's waiting.{VAR BE01}",
+        {
+            "text": "Nuvema Town\nThe Start of Something Big!",
+            "flags": 207
+        },
+        {
+            "text": "{VAR 0100 0000}'s House",
+            "flags": 207
+        },
+        {
+            "text": "Cheren's House",
+            "flags": 207
+        },
+        {
+            "text": "Bianca's House",
+            "flags": 207
+        },
+        {
+            "text": "Juniper Pokémon Lab",
+            "flags": 207
+        },
+        "Cheren: Hey, {VAR 0100 0000}.\nIs Looker through talking to you?{VAR BE01}",
+        "Bianca: ...I'm sorry.{VAR BE01}\nBy the time I went to get the\nStriaton City Gym Leaders,{VAR BE00}\neverything was over...{VAR BE01}",
+        "Cheren: If that's the case...{VAR BE01}\nI let Ghetsis escape when the\nShadow Triad created an opening.{VAR BE01}",
+        "Bianca: ...Ghetsis?\nThe Shadow Triad?{VAR BE01}",
+        "Cheren: I'll tell you later about what\nhappened in the castle.{VAR BE01}\nIt's more important to ask what you plan\nto do now, Bianca.{VAR BE01}",
+        "Bianca: You know what? You know what!\nI'm gonna go to White Forest!{VAR BE01}",
+        "Bianca: You know what? You know what!\nI'm gonna go to Black City!{VAR BE01}",
+        "Cheren: That's the city on the other side\nof Route 16 when you leave from{VAR BE00}\nNimbasa City. Hmm.{VAR BE01}\nIf you go that way, you might be able to\nmeet all sorts of Pokémon{VAR BE00}\nyou've never seen before.{VAR BE01}",
+        "Cedric: Oh!\nWell, this is nice timing!{VAR BE00}\nI see you're all here!{VAR BE01}",
+        "Just a moment ago, I got some National\nPokédex data from an acquaintance.{VAR BE01}\nSince you're here, let's upgrade your\nPokédex with the National Pokédex data.{VAR BE01}\nI'm sure you'll be visiting a wider range\nof places. Naturally, that means{VAR BE00}\nyou'll be encountering more Pokémon.{VAR BE01}\nLet me see your Pokédex for a sec!{VAR BE01}",
+        "There you go, Bianca!{VAR BE01}",
+        "Next up is Cheren!{VAR BE01}",
+        "And last, but not least...{VAR BE01}",
+        "{VAR 0100 0000}'s Pokédex was upgraded\nwith the National Mode!",
+        "Cedric: You can now switch your\nPokédexes to the National Mode Pokédex.{VAR BE01}\nCompleting the National Pokédex will\nsurely be a big challenge.{VAR BE01}\nSo, take your time, enjoy yourselves,\nand meet lots of Pokémon.{VAR BE01}",
+        "Bianca: Wow, the National Pokédex...{VAR BE01}\nIt looks like there are tons of Pokémon\nI don't know yet! {VAR BE01}\nOh! Ooh! I want to show Mom and Dad\nmy Pokédex! I gotta go!{VAR BE01}\nLet's meet again somewhere, OK?!{VAR BE01}",
+        "Cheren: Huh. Bianca's as impetuous as\never, no matter what is going on.{VAR BE01}",
+        "I think I'll travel all the way around\nUnova, starting at Route 1 again.{VAR BE01}\nI'm sure I'll discover lots of new things.{VAR BE01}\nCould be I'll encounter the Seven Sages\nalong the way...{VAR BE01}\nAnd, {VAR 0100 0000}, if we spy each other\nalong the way, let's battle again, OK?{VAR BE01}"
+    ],
+    "pad": "7272"
+}

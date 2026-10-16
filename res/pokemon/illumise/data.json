@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_BUG" ],
     "catch_rate": 150,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_ONLY",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FLUCTUATING",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_OBLIVIOUS", "ABILITY_TINTED_LENS" ],
-    "unk_1A": 158,
+    "abilities": [
+        "ABILITY_OBLIVIOUS",
+        "ABILITY_TINTED_LENS",
+        "ABILITY_PRANKSTER"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
-    "unk_22": 140,
+    "base_exp_reward": 140,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -94,11 +97,22 @@
             "MOVE_CONFUSE_RAY"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 6,
         "weight": 177
     },
-    "offspring": "SPECIES_ILLUMISE"
+    "offspring": "SPECIES_ILLUMISE",
+    "text": {
+        "70": "Illumise",
+        "235": "With its sweet aroma, it guides\nVolbeat to draw signs with light in\nthe night sky.",
+        "236": "With its sweet aroma, it guides\nVolbeat to draw signs with light in\nthe night sky.",
+        "244": "",
+        "245": "2'00\"",
+        "260": "Firefly Pokémon",
+        "268": "39.0 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Illumise",
+        "284": "ILLUMISE"
+    }
 }

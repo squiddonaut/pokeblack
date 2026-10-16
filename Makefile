@@ -73,6 +73,8 @@ BANNER         := $(BUILD_DIR)/banner.bin
 DATA_DIR       := $(BUILD_DIR)/files
 SPECIES_STAMP  := $(DATA_DIR)/.species
 SPECIES_SRCS   := $(shell find res/pokemon -name '*.json' 2>/dev/null) $(wildcard generated/*.txt)
+TEXT_STAMP     := $(DATA_DIR)/.text
+TEXT_SRCS      := $(shell find res/text -name '*.json' 2>/dev/null)
 
 MAKEFLAGS += --no-print-directory
 
@@ -149,12 +151,17 @@ $(SPECIES_STAMP): $(SPECIES_SRCS) $(SCRIPTS)/speciesproc.py $(SCRIPTS)/narc.py
 	@$(PYTHON) $(SCRIPTS)/speciesproc.py -o $(DATA_DIR)
 	@touch $@
 
-check-data: $(SPECIES_STAMP)
+$(TEXT_STAMP): $(TEXT_SRCS) $(SPECIES_SRCS) $(SCRIPTS)/textproc.py $(SCRIPTS)/gen5text.py $(SCRIPTS)/narc.py
+	@$(PYTHON) $(SCRIPTS)/textproc.py -o $(DATA_DIR)
+	@touch $@
+
+check-data: $(SPECIES_STAMP) $(TEXT_STAMP)
 	@$(PYTHON) $(SCRIPTS)/narc.py verify
 	@$(PYTHON) $(SCRIPTS)/gen5text.py verify
 	@$(PYTHON) $(SCRIPTS)/speciesproc.py -o $(DATA_DIR) --compare files
+	@$(PYTHON) $(SCRIPTS)/textproc.py -o $(DATA_DIR) --compare files
 
-$(ROM): $(PACKED_ARM9) sub $(BANNER) $(SPECIES_STAMP)
+$(ROM): $(PACKED_ARM9) sub $(BANNER) $(SPECIES_STAMP) $(TEXT_STAMP)
 	@$(PYTHON) $(SCRIPTS)/make_rom.py --build $(BUILD_DIR) \
 		--header $(HEADER_TEMPLATE) --fnt $(FNT) --twl-tail $(TWL_TAIL) \
 		--overlays $(PACKED_DIR) --arm9 $(PACKED_ARM9) --arm7 $(SUB_SBIN) \

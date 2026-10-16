@@ -1,0 +1,57 @@
+{
+    "flags": 229,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Is it OK to create data\nto play Game Sync?",
+            "flags": 240
+        },
+        {
+            "text": "Creating data...\nPlease wait a moment.",
+            "flags": 225
+        },
+        {
+            "text": "YES",
+            "flags": 86
+        },
+        {
+            "text": "NO",
+            "flags": 86
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 225
+        },
+        "Use a computer to access the\nPokémon Global Link website\nand enter the Game Sync ID above\nto set up Game Sync.\n\nhttp://www.pokemon-gl.com",
+        "Your Game Sync ID has been issued.\n\nYou can check your Game Sync ID\nin Game Sync Settings on the main menu.",
+        "Use a computer to access the\nPokémon Global Link website\nand enter the Game Sync ID above\nto set up Game Sync.\n\nhttp://www.pokemon-gl.com",
+        {
+            "text": "Game Sync ID",
+            "flags": 176
+        },
+        {
+            "text": "The Game Sync ID\nhas been saved.",
+            "flags": 240
+        },
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13201",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13202",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13203",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13204",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13205",
+        "This service has been discontinued.\n\nError Code: 13206",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13207",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13208",
+        "A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13209",
+        "An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting\"\nsection of your Instruction Booklet.\n\nError Code: 13210",
+        "The server is experiencing high\ntraffic volumes.\nUnable to connect.\nPlease wait a little while and try again.\n\nError Code: 13211",
+        "The server is undergoing maintenance.\n\nThe details can be reviewed at the\nPokémon Global Link website.\n\nhttp://www.pokemon-gl.com\n\nError code: 13212"
+    ],
+    "pad": "d4d4"
+}

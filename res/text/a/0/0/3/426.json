@@ -1,0 +1,67 @@
+{
+    "flags": 224,
+    "entries": [
+        "I'm the Day-Care Man.{VAR BE01}\nWe take care of the precious Pokémon\nof other Trainers.{VAR BE01}\nIf you'd like us to raise your\nPokémon, have a word with my wife.",
+        "Glad you came!\nYour {VAR 0102 0000}'s doing just fine.",
+        "Glad you came!{VAR BE01}\nYour {VAR 0102 0000} and\n{VAR 0102 0001} are doing just fine.{VAR BE01}\nThe two seem to get along very well!",
+        "Glad you came!{VAR BE01}\nYour {VAR 0102 0000} and\n{VAR 0102 0001} are doing just fine.{VAR BE01}\nThe two seem to get along.",
+        "Glad you came!{VAR BE01}\nYour {VAR 0102 0000} and\n{VAR 0102 0001} are doing just fine.{VAR BE01}\nThe two don't really seem to like\neach other much.",
+        "Glad you came!{VAR BE01}\nYour {VAR 0102 0000} and\n{VAR 0102 0001} are doing just fine.{VAR BE01}\nThe two prefer to play with other\nPokémon more than with each other.",
+        "Ah, it's you!{VAR BE01}\nWe were raising your Pokémon,\nand my goodness, were we surprised!{VAR BE01}\nYour Pokémon was holding an Egg!{VAR BE01}\nWe don't know how it got there,\nbut your Pokémon had it.{VAR BE01}\nYou do want it, don't you?",
+        "{VAR 0100 0000} received the Egg from\nthe Day-Care Man.",
+        "You take good care of it.",
+        "You have no room for it right now...\nCome back when you've made room.",
+        "I really will keep it.\nYou do want this Egg, yes?",
+        "Well then, I'll hang on to it.\nThanks!",
+        "I'm the Day-Care Lady.\nWe can raise Pokémon for you.{VAR BE01}\nWould you like us to raise\nyour Pokémon?",
+        "I'm the Day-Care Lady.{VAR BE01}\nWe can raise Pokémon for you.\nWhat do you want to do today?",
+        "Very good.\nCome again.",
+        "Ah, there you are!\nMy husband was looking for you.",
+        "You can't leave your only Pokémon\nwith me! How would you battle?{VAR BE01}\nCome back another time.",
+        "Which Pokémon should we raise\nfor you?{VAR BE01}",
+        "Now, now.\nThat is merely an Egg!",
+        "Fine, we'll raise your {VAR 0102 0000}\nfor a while.{VAR BE01}",
+        "Come back for it later.",
+        "We can raise two of your Pokémon.\nWould you like us to raise another?",
+        "You have energetic Pokémon.\nDo you want your Pokémon back?",
+        "By level, your {VAR 0101 0000} has\ngrown by about {VAR 0201 0001}.{VAR BE01}",
+        "If you want your {VAR 0101 0000} back,\nit will cost ${VAR 0204 0001}.{VAR BE00}\nDo you want it back?",
+        "You don't have enough money...",
+        "{VAR 0100 0001} took {VAR 0101 0000} back\nfrom the Day-Care Lady.{VAR BE01}",
+        "Do you want to take back the other\none, too? ",
+        "Huh? Now, now.{VAR BE01}\nIf you leave that Pokémon with\nme, you'll be left with just one.{VAR BE01}\nYou will be better off if you catch\nsome more, if I do say so myself.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Leave Pokémon",
+            "flags": 219
+        },
+        {
+            "text": "Take back",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0101 0000}⑭ Lv. {VAR 0202 0001}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0101 0000}⑮ Lv. {VAR 0202 0001}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0101 0000} Lv. {VAR 0202 0001}",
+            "flags": 219
+        }
+    ],
+    "pad": "eeee"
+}

@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "They say ideals intermingled with truth,\nand the Dragonspiral Tower was created.{VAR BE01}\nIt has been there, watching us, for\nthousands of years...{VAR BE00}\nI don't know whether or not this is true.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Listen, listen! I heard that Brycen was\nin the movies a long time ago!",
+        "If we live a monotonous life, do we get\nused to it and stop thinking about{VAR BE00}\nchanging it?"
+    ],
+    "pad": "3434"
+}

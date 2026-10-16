@@ -1,0 +1,24 @@
+{
+    "flags": 160,
+    "entries": [
+        {
+            "text": "{VAR BD02}PLAYER: {VAR 0100 0000}",
+            "flags": 144
+        },
+        {
+            "text": "{VAR BD02}This document certifies that\n{VAR BD02}you have made the great\n{VAR BD02}achievement of catching all\n{VAR BD02}the Pokémon in the Unova region.",
+            "flags": 176
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR BD02}GAME FREAK\n{VAR BD02}All the staff",
+            "flags": 96
+        },
+        "PLAYER: {VAR 0100 0000}",
+        "{VAR BD03 0000}GAME FREAK\n{VAR BD03 0000}All the staff",
+        "This document certifies\nthat you have successfully\ncompleted your\nNational Pokédex."
+    ]
+}

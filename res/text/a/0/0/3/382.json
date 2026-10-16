@@ -1,0 +1,55 @@
+{
+    "flags": 224,
+    "entries": [
+        "I come shop at the Shopping Mall a lot\nbecause I want all the TMs!",
+        "On the first floor, they sell medicines.{VAR BE01}\nOn the second floor, they sell TMs\nand different kinds of Mail.{VAR BE01}\nOn the third floor, they sell items for\nraising stats and battle items.{VAR BE01}\nI really admire Mr. Clyde, the\nPokémon Gym guide, so I'm practicing{VAR BE00}\nbeing a guide, too!",
+        "There are even some people in the mall\nwho will challenge you to battles.",
+        "The thing I buy most often is the item\nthat raises a Pokémon's HP, called HP Up.{VAR BE01}\nThere are also a lot of other items that\ncatch my eye.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Good Trainers never use only\nbrute force.{VAR BE01}\nThey think about many different\nstrategies, such as which Pokémon and{VAR BE00}\nmoves to use in battle, or the best time{VAR BE00}\nto use an item.",
+        "Playing hide-and-seek would be fun!",
+        "Welcome to Shopping Mall Nine!\nIt's called Nine because it's on Route 9.{VAR BE01}\nYou can remember it by thinking of this:\n“Done shopping? Nein!\"",
+        "Have you heard? There's a cave\nalong Route 9.{VAR BE01}\nI don't know exactly where it is or\nwhat's in it, though.",
+        "Hey! Pokémon Trainer!{VAR BE01}\nDo you know about an item called\nthe Thunderstone?",
+        "So you know Thunderstones make certain\nPokémon evolve, then? Niiice!{VAR BE01}",
+        "Well then, I'll tell you!{VAR BE01}\nIf you use the Thunderstone, it makes\ncertain Pokémon evolve!{VAR BE01}",
+        "Meeting here must be fate!\nThis is for you!{VAR BE01}",
+        "I've heard a Pokémon called Eelektrik\nevolves with the Thunderstone.",
+        "Shopping Mall Nine\nColorful and wonderful!"
+    ]
+}

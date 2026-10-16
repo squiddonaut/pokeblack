@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "A battle between you and our lord N will\nreveal whether our lord N is a true hero.{VAR BE01}\nIt will also reveal how you feel about\nprotecting the current world,{VAR BE00}\nwhere people live with Pokémon.{VAR BE01}", "A battle between you and our lord N\nwill reveal whether our lord N is{VAR BE00}\nan ideal hero.{VAR BE01}\nIt will also reveal how you feel about\nprotecting the current world,{VAR BE00}\nwhere people live with Pokémon.{VAR BE01}" ],
+    "pad": "9696"
+}

@@ -1,0 +1,20 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "Team Plasma: Arggghhhhh!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Team Plasma: Ryoku of the Seven Sages is\nlooking for a Pokémon inside Relic Castle.{VAR BE01}\nI was his lookout so he\nwouldn't be interrupted...{VAR BE01}\nStupid, stupid, stupid me!\nPlus, weak... And did I mention stupid?{VAR BE01}\nIt all adds up to nincompoop!",
+            "flags": 224
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "pad": "6868"
+}

@@ -1,0 +1,1173 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "BATTLE VIDEOS",
+            "flags": 118
+        },
+        {
+            "text": "BATTLE SUBWAY",
+            "flags": 118
+        },
+        {
+            "text": "RANDOM MATCHUP",
+            "flags": 118
+        },
+        {
+            "text": "CANCEL",
+            "flags": 118
+        },
+        {
+            "text": "QUIT",
+            "flags": 54
+        },
+        {
+            "text": "MY VIDEO",
+            "flags": 118
+        },
+        {
+            "text": "OTHER VIDEOS",
+            "flags": 118
+        },
+        {
+            "text": "DELETE VIDEOS",
+            "flags": 118
+        },
+        {
+            "text": "{VAR BD02}{VAR 0100 0000}'S VIDEO",
+            "flags": 192
+        },
+        {
+            "text": "EMPTY",
+            "flags": 118
+        },
+        {
+            "text": "{VAR 0203 0000}",
+            "flags": 40
+        },
+        {
+            "text": "Battle",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD02}Video no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002}",
+            "flags": 198
+        },
+        {
+            "text": "{VAR BD02}Video no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002} ★",
+            "flags": 198
+        },
+        {
+            "text": "{VAR BD02}{VAR 0100 0000}'S PROFILE",
+            "flags": 144
+        },
+        "",
+        {
+            "text": "{VAR BD02}Born in {VAR 0180 0000}",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD02}Location",
+            "flags": 96
+        },
+        {
+            "text": "{VAR BD02}Trainer's quote",
+            "flags": 88
+        },
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0124 0000}",
+            "flags": 192
+        },
+        {
+            "text": "{VAR 0125 0000}",
+            "flags": 192
+        },
+        "",
+        {
+            "text": "{VAR 0100 0000}'S VIDEO",
+            "flags": 118
+        },
+        {
+            "text": "DELETE MY VIDEO",
+            "flags": 118
+        },
+        {
+            "text": "DELETE OTHER VIDEOS",
+            "flags": 118
+        },
+        "",
+        "",
+        {
+            "text": "SEARCH BY RANKING",
+            "flags": 118
+        },
+        "",
+        {
+            "text": "NEWEST 30",
+            "flags": 118
+        },
+        {
+            "text": "SEARCH",
+            "flags": 118
+        },
+        {
+            "text": "SEARCH BY NO.",
+            "flags": 118
+        },
+        {
+            "text": "SEARCH BY FACILITY",
+            "flags": 128
+        },
+        {
+            "text": "SEARCH BY POKÉMON",
+            "flags": 128
+        },
+        {
+            "text": "SEARCH YOUR LOCATION",
+            "flags": 128
+        },
+        {
+            "text": "LINK BATTLES",
+            "flags": 118
+        },
+        {
+            "text": "BATTLE SUBWAY",
+            "flags": 118
+        },
+        {
+            "text": "SEND PHOTO",
+            "flags": 118
+        },
+        {
+            "text": "VIEW PHOTOS",
+            "flags": 118
+        },
+        {
+            "text": "SEND",
+            "flags": 54
+        },
+        {
+            "text": "Please choose the Pokémon you want to see.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "ABC",
+            "flags": 18
+        },
+        {
+            "text": "DEF",
+            "flags": 18
+        },
+        {
+            "text": "GHI",
+            "flags": 18
+        },
+        {
+            "text": "JKL",
+            "flags": 18
+        },
+        {
+            "text": "MNO",
+            "flags": 18
+        },
+        {
+            "text": "PQR",
+            "flags": 18
+        },
+        {
+            "text": "STU",
+            "flags": 18
+        },
+        {
+            "text": "VWX",
+            "flags": 18
+        },
+        {
+            "text": "YZ",
+            "flags": 18
+        },
+        {
+            "text": "",
+            "flags": 18
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "SAVE",
+            "flags": 54
+        },
+        {
+            "text": "VIEW BATTLE\nVIDEO",
+            "flags": 80
+        },
+        "",
+        {
+            "text": "NEWEST 30 BATTLE VIDEOS",
+            "flags": 208
+        },
+        {
+            "text": "TOP-RANKED BATTLE VIDEOS\nLINK BATTLE",
+            "flags": 208
+        },
+        {
+            "text": "TOP-RANKED BATTLE VIDEOS\nBATTLE SUBWAY",
+            "flags": 208
+        },
+        {
+            "text": "LIST OF BATTLE VIDEOS FROM\nSEARCH RESULTS",
+            "flags": 208
+        },
+        "",
+        {
+            "text": "Where would you like to save\n{VAR 0100 0000}'s Battle Video?",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Is it OK to delete\n{VAR 0100 0000}'s Battle Video?",
+            "flags": 240
+        },
+        {
+            "text": "VIEW BATTLE VIDEOS",
+            "flags": 118
+        },
+        {
+            "text": "SEND BATTLE VIDEO",
+            "flags": 118
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "SEARCH BY FACILITY",
+            "flags": 136
+        },
+        {
+            "text": "SEARCH BY POKÉMON",
+            "flags": 136
+        },
+        {
+            "text": "SEARCH YOUR LOCATION",
+            "flags": 136
+        },
+        {
+            "text": "OK!",
+            "flags": 54
+        },
+        {
+            "text": "Please enter the Video Number.",
+            "flags": 240
+        },
+        {
+            "text": "Please choose the facility.",
+            "flags": 240
+        },
+        {
+            "text": "Please choose the Pokémon.",
+            "flags": 240
+        },
+        {
+            "text": "Please enter the search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "You haven't set any search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "Loading Battle Video...",
+            "flags": 240
+        },
+        {
+            "text": "There is no matching Battle Video...",
+            "flags": 240
+        },
+        {
+            "text": "Sending the Battle Video...",
+            "flags": 240
+        },
+        {
+            "text": "The Battle Video has been sent!",
+            "flags": 240
+        },
+        {
+            "text": "{VAR BD02}VIEW PROFILE",
+            "flags": 128
+        },
+        {
+            "text": "{VAR BD02}CLOSE PROFILE",
+            "flags": 128
+        },
+        "",
+        {
+            "text": "Please set the search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "Undefined",
+            "flags": 176
+        },
+        "",
+        {
+            "text": "The same Battle Video can't be sent again.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "You have not registered your location.",
+            "flags": 240
+        },
+        {
+            "text": "There is no Battle Video to send.",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 80
+        },
+        "",
+        {
+            "text": "BATTLE SUBWAY",
+            "flags": 96
+        },
+        {
+            "text": "",
+            "flags": 176
+        },
+        {
+            "text": "{VAR BD02}SINGLE TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}DOUBLE TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}MULTI TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}Wi-Fi TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}BATTLE SUBWAY",
+            "flags": 192
+        },
+        {
+            "text": "{VAR BD02}SUPER SINGLE TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}SUPER DOUBLE TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "{VAR BD02}SUPER MULTI TRAIN",
+            "flags": 190
+        },
+        {
+            "text": "Please select the Record\nyou want to view.",
+            "flags": 240
+        },
+        {
+            "text": "PREVIOUS:",
+            "flags": 56
+        },
+        {
+            "text": "RECORD:",
+            "flags": 56
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 56
+        },
+        "",
+        {
+            "text": "{VAR BD03 0000} Wins",
+            "flags": 56
+        },
+        {
+            "text": "Multi with Trainer",
+            "flags": 120
+        },
+        {
+            "text": "Multi with friend",
+            "flags": 120
+        },
+        {
+            "text": "RANK",
+            "flags": 40
+        },
+        {
+            "text": "Current Record",
+            "flags": 104
+        },
+        {
+            "text": "{VAR BD02}Wi-Fi Train Record",
+            "flags": 192
+        },
+        {
+            "text": "CURRENT:",
+            "flags": 56
+        },
+        {
+            "text": "{VAR BD02}{VAR 0100 0000}'S RATING",
+            "flags": 176
+        },
+        {
+            "text": "{VAR BD02}RATING MODE RECORD",
+            "flags": 176
+        },
+        {
+            "text": "{VAR BD02}FREE MODE RECORD",
+            "flags": 176
+        },
+        {
+            "text": "{VAR BD02}Win",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD02}Lose",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}Single:",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}Double:",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}Triple:",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}Rotation:",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}Launcher:",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 88
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0204 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}Rating",
+            "flags": 72
+        },
+        {
+            "text": "{VAR BD02}YES",
+            "flags": 64
+        },
+        {
+            "text": "{VAR BD02}NO",
+            "flags": 64
+        },
+        {
+            "text": "YES",
+            "flags": 118
+        },
+        {
+            "text": "NO",
+            "flags": 118
+        },
+        {
+            "text": "Is it OK to disconnect from\nNintendo Wi-Fi Connection?",
+            "flags": 240
+        },
+        {
+            "text": "Colosseum Single,\nNo Restrictions",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Single,\nFlat",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Single,\nNo Restrictions, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Single,\nFlat, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Double,\nNo Restrictions",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Double,\nFlat",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Double,\nNo Restrictions, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Double,\nFlat, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Triple,\nNo Restrictions",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Triple,\nFlat",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Triple,\nNo Restrictions, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Triple,\nFlat, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Rotation,\nNo Restrictions",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Rotation,\nFlat",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Rotation,\nNo Restrictions, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Rotation,\nFlat, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Multi,\nNo Restrictions",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Multi,\nFlat",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Multi,\nNo Restrictions, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Colosseum Multi,\nFlat, Launcher On",
+            "flags": 192
+        },
+        {
+            "text": "Battle Subway,\nSingle",
+            "flags": 192
+        },
+        {
+            "text": "Battle Subway,\nDouble",
+            "flags": 192
+        },
+        {
+            "text": "Battle Subway,\nMulti",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Free\nSingle",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Free\nDouble",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Free\nTriple",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Free\nRotation",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Free\nLauncher Battle",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Rating\nSingle",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Rating\nDouble",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Rating\nTriple",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Rating\nRotation",
+            "flags": 192
+        },
+        {
+            "text": "Random Matchup, Rating\nLauncher Battle",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Single\nLauncher Off",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Single\nLauncher On",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Double\nLauncher Off",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Double\nLauncher On",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Triple\nLauncher Off",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Triple\nLauncher On",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Rotation\nLauncher Off",
+            "flags": 192
+        },
+        {
+            "text": "Competition, Rotation\nLauncher On",
+            "flags": 192
+        },
+        {
+            "text": "01: Colosseum, Single\nLauncher Off",
+            "flags": 176
+        },
+        {
+            "text": "02: Colosseum, Single\nLauncher On",
+            "flags": 176
+        },
+        {
+            "text": "03: Colosseum, Double\nLauncher Off",
+            "flags": 176
+        },
+        {
+            "text": "04: Colosseum, Double\nLauncher On",
+            "flags": 176
+        },
+        {
+            "text": "05: Colosseum, Triple\nLauncher Off",
+            "flags": 176
+        },
+        {
+            "text": "06: Colosseum, Triple\nLauncher On",
+            "flags": 176
+        },
+        {
+            "text": "07: Colosseum, Rotation\nLauncher Off",
+            "flags": 176
+        },
+        {
+            "text": "08: Colosseum, Rotation\nLauncher On",
+            "flags": 176
+        },
+        {
+            "text": "09: Colosseum, Multi\nLauncher Off",
+            "flags": 176
+        },
+        {
+            "text": "10: Colosseum, Multi\nLauncher On",
+            "flags": 176
+        },
+        {
+            "text": "11: Battle Subway\nSingle",
+            "flags": 176
+        },
+        {
+            "text": "12: Battle Subway\nDouble",
+            "flags": 176
+        },
+        {
+            "text": "13: Battle Subway\nMulti",
+            "flags": 176
+        },
+        {
+            "text": "14: Random Matchup\nSingle",
+            "flags": 176
+        },
+        {
+            "text": "15: Random Matchup\nDouble",
+            "flags": 176
+        },
+        {
+            "text": "16: Random Matchup\nTriple",
+            "flags": 176
+        },
+        {
+            "text": "17: Random Matchup\nRotation",
+            "flags": 176
+        },
+        {
+            "text": "18: Random Matchup\nLauncher Battle",
+            "flags": 176
+        },
+        {
+            "text": "19: Battle Competition",
+            "flags": 176
+        },
+        {
+            "text": "20: Battle Castle\nMulti",
+            "flags": 176
+        },
+        {
+            "text": "21: Battle Arcade\nSingle",
+            "flags": 176
+        },
+        {
+            "text": "22: Battle Arcade\nDouble",
+            "flags": 176
+        },
+        {
+            "text": "23: Battle Arcade\nMulti",
+            "flags": 176
+        },
+        {
+            "text": "{VAR BD02}TAP HERE!",
+            "flags": 128
+        },
+        {
+            "text": "Is it OK to disconnect from\nNintendo Wi-Fi Connection?",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Authentication error.\nUnable to connect.",
+            "flags": 240
+        },
+        {
+            "text": "This data is already registered.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the Musical Photo.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem with the\nPokémon in the Musical Photo.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the Profile data.",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Authentication error.\nUnable to connect.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem with the\nchosen Pokémon.",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Authentication error.\nUnable to connect.",
+            "flags": 240
+        },
+        {
+            "text": "This data is already registered.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the Battle Video.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the Battle Video.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the Profile data.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem with the\nPokémon in the Battle Video.",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Authentication error.\nUnable to connect.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "There appears to be a problem\nwith the search criteria.",
+            "flags": 240
+        },
+        {
+            "text": "The search failed...",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "Authentication error.\nUnable to connect.",
+            "flags": 240
+        },
+        {
+            "text": "No matching Battle Videos found...\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "You cannot watch this Battle Video.",
+            "flags": 240
+        },
+        {
+            "text": "Failed to receive the Battle Video.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "An error occurred.\nError Code 10601",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10602",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10603",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10604",
+            "flags": 240
+        },
+        {
+            "text": "Unable to connect.\nError Code 10605",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10606",
+            "flags": 240
+        },
+        {
+            "text": "Unable to connect.\nError Code 10607",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10608",
+            "flags": 240
+        },
+        {
+            "text": "An error occurred.\nError Code 10609",
+            "flags": 240
+        },
+        {
+            "text": "There is no response.\nError Code 10610",
+            "flags": 240
+        },
+        {
+            "text": "There is no response.\nError Code 10611",
+            "flags": 240
+        },
+        {
+            "text": "There is no response.\nError Code 10612",
+            "flags": 240
+        },
+        {
+            "text": "Communication was interrupted.\nError Code 10613",
+            "flags": 240
+        },
+        {
+            "text": "Unable to connect.\nError Code 10614",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "The connection to the server was lost.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        "",
+        "",
+        {
+            "text": "There is nothing saved.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "The saved data could not be deleted...",
+            "flags": 240
+        },
+        {
+            "text": "The same Battle Video can't be saved again.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 240
+        },
+        {
+            "text": "Receiving ranking data...",
+            "flags": 240
+        },
+        {
+            "text": "Sending save data...",
+            "flags": 240
+        },
+        {
+            "text": "Save completed.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Is it OK to delete\n{VAR 0100 0000}'s Battle Video?",
+            "flags": 240
+        },
+        {
+            "text": "Is it really OK to delete this data?",
+            "flags": 240
+        },
+        {
+            "text": "Deleting data...\nSaving... Don't turn off the power.",
+            "flags": 240
+        },
+        {
+            "text": "The data was deleted.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Sending your Musical Photo...",
+            "flags": 240
+        },
+        {
+            "text": "Receiving Musical Photo...",
+            "flags": 240
+        },
+        {
+            "text": "Sending your Box Data...",
+            "flags": 240
+        },
+        {
+            "text": "Receiving Box Data...",
+            "flags": 240
+        },
+        {
+            "text": "You have no saved data to send.\nParticipate in the data to send.",
+            "flags": 240
+        },
+        {
+            "text": "The same data can't be sent again.\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Receiving Battle Videos...",
+            "flags": 240
+        },
+        {
+            "text": "No matching data was found...\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "No matching Musical Photo was found...\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Your Battle Video was sent.\nVideo no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002}",
+            "flags": 240
+        },
+        {
+            "text": "The game will be saved before\nyou can view Battle Videos.",
+            "flags": 240
+        },
+        {
+            "text": "Deleting data... Saving a lot of\ndata... Don't turn off the power.",
+            "flags": 240
+        },
+        {
+            "text": "Saving a lot of data...\nDon't turn off the power.",
+            "flags": 240
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 240
+        },
+        {
+            "text": "There is no ranking data...\nTouch the Touch Screen to continue.",
+            "flags": 240
+        },
+        {
+            "text": "Would you like to send\nyour Battle Video?",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Kuro*",
+            "flags": 60
+        }
+    ],
+    "pad": "dede"
+}

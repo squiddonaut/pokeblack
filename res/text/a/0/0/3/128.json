@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "entries": [
+        "Drayden: I'll explain.{VAR BE01}\nWhat you are holding is the Dark Stone.{VAR BE01}\nZekrom, who will likely awaken from the\nDark Stone, and Reshiram, who is already{VAR BE00}\nawake, were once the same Pokémon.{VAR BE01}",
+        "Drayden: I'll explain.{VAR BE01}\nWhat you are holding is the Light Stone.{VAR BE01}\nReshiram, who will likely awaken from the\nLight Stone, and Zekrom, who is already{VAR BE00}\nawake, were once the same Pokémon.{VAR BE01}",
+        "Iris: That single Dragon Pokémon,\nalong with twin heroes,{VAR BE00}\nbrought a new region into being.{VAR BE01}\nAnd people and Pokémon had happy lives!{VAR BE01}",
+        "Drayden: One day, however...{VAR BE01}\nThe twin heroes, the older brother\nwho sought the truth, and the{VAR BE00}\nyounger brother who sought ideals,{VAR BE00}\nbegan to argue about how to decide{VAR BE00}\nwhich one of them was right...{VAR BE01}\nThe single Dragon-type Pokémon\nthat had been with them all that time{VAR BE00}\nsplit its body into two.{VAR BE01}\nOne sided with the older brother,\nand the other with the younger brother.{VAR BE01}",
+        "Drayden: One day, however...{VAR BE01}\nThe twin heroes, the older brother\nwho sought the truth, and the{VAR BE00}\nyounger brother who sought ideals,{VAR BE00}\nbegan to argue about how to decide{VAR BE00}\nwhich one of them was right...{VAR BE01}\nThe single Dragon-type Pokémon\nthat had been with them all that time{VAR BE00}\nsplit its body into two.{VAR BE01}\nOne sided with the older brother,\nand the other with the younger brother.{VAR BE01}",
+        "Iris: In its pursuit of truth, the white\nDragon-type Pokémon sought to usher{VAR BE00}\nin a new and better world...{VAR BE01}\nIts name was Reshiram.{VAR BE01}\nAnd the other, the black Dragon-type\nPokémon, sought ideals and{VAR BE00}\nto usher in a new world--a world of hope.{VAR BE01}\nIts name was Zekrom.{VAR BE01}",
+        "Iris: In its pursuit of ideals, the black\nDragon-type Pokémon sought to usher{VAR BE00}\nin a new and better world...{VAR BE01}\nIts name was Zekrom.{VAR BE01}\nAnd the other, the white Dragon-type\nPokémon, sought truth, and to{VAR BE00}\nusher in a new world--a world of good...{VAR BE01}\nIts name was Reshiram.{VAR BE01}",
+        "Drayden: Because the two of them\nwere once the same entity,{VAR BE00}\ntheir battle raged endlessly{VAR BE00}\nand neither one could be{VAR BE00}\ndeclared the winner.{VAR BE00}\nThey simply exhausted themselves.{VAR BE01}\nThe twin heroes proclaimed that there\nwas no one side that was right{VAR BE00}\nand ceased the conflict.{VAR BE01}",
+        "Iris: But, but...{VAR BE01}\nThe two heroes' sons started the\nbattle again! And an instant later,{VAR BE00}\nReshiram and Zekrom destroyed{VAR BE00}\nUnova with fire and lightning!{VAR BE01}\nThen, they disappeared!{VAR BE01}\nBut, but...\nIf people work with Pokémon{VAR BE00}\nin the right way, we don't have to worry{VAR BE00}\nanymore about the world being destroyed.{VAR BE01}\nI mean, Reshiram and Zekrom\nworked hard for everyone{VAR BE00}\nand made a new region!{VAR BE01}\nSo, it should be all right, I think.{VAR BE01}",
+        "Iris: But, but...{VAR BE01}\nThe two heroes' sons started the \nbattle again! And an instant later,{VAR BE00}\nZekrom and Reshiram destroyed{VAR BE00}\nUnova with lightning and fire!{VAR BE01}\nThen, they disappeared!{VAR BE01}\nBut, but...\nIf people work with Pokémon{VAR BE00}\nin the right way, we don't have to worry{VAR BE00}\nanymore about the world being destroyed.{VAR BE01}\nI mean, Zekrom and Reshiram\nworked hard for everyone{VAR BE00}\nand made a new region!{VAR BE01}\nSo, it should be all right, I think.{VAR BE01}",
+        "Drayden: True.\nPokémon cannot speak.{VAR BE01}\nPeople may hurt Pokémon even more by\nimposing their selfish thoughts on them.{VAR BE01}\nBut, no matter what, Pokémon and people\nbelieve in each other, need each other,{VAR BE00}\nand will continue to live together...{VAR BE01}",
+        "Iris: Yeah!{VAR BE01}\nSo I'm never gonna forgive Team Plasma\nfor trying to separate Pokémon and us!{VAR BE01}",
+        "Drayden: Sorry.\nWe got a little off topic at the end.{VAR BE01}\nThat is everything we know.{VAR BE01}\nUnfortunately, we don't know how\nto wake up the legendary Pokémon...{VAR BE01}",
+        "Drayden: I made a promise to Alder.{VAR BE01}\nYou must win the Gym Badge from\nthe Opelucid Pokémon Gym.{VAR BE01}",
+        "Iris, you go and be {VAR 0100 0000}'s\nopponent at the Pokémon Gym.{VAR BE01}",
+        "Iris: Yay!{VAR BE01}\nLook out! I'm really, really strong,\njust like Drayden!{VAR BE01}",
+        "{VAR 0100 0000}, I'll be waiting for\nyour challenge at the Pokémon Gym!{VAR BE01}",
+        "Drayden: What will it accomplish\nto separate the worlds of people{VAR BE00}\nand Pokémon?{VAR BE01}\nThe way we live now, with different beings\nunderstanding and forgiving each other,{VAR BE00}\nis much richer. That's my belief.",
+        "Iris: Everyone, people and Pokémon can\nget along and be happy. That's awesome!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

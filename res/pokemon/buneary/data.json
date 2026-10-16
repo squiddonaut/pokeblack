@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_CHOPLE_BERRY"
+        "rare": "ITEM_CHOPLE_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 0,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_KLUTZ" ],
-    "unk_1A": 7,
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_KLUTZ",
+        "ABILITY_LIMBER"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 70,
+    "base_exp_reward": 70,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SPLASH" ],
@@ -102,7 +105,7 @@
             "MOVE_COPYCAT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_HAPPINESS", "SPECIES_LOPUNNY" ]
     ],
@@ -110,5 +113,16 @@
         "height": 4,
         "weight": 55
     },
-    "offspring": "SPECIES_BUNEARY"
+    "offspring": "SPECIES_BUNEARY",
+    "text": {
+        "70": "Buneary",
+        "235": "Its ears are always rolled up. They\ncan be forcefully extended to\nshatter even a large boulder.",
+        "236": "Its ears are always rolled up. They\ncan be forcefully extended to\nshatter even a large boulder.",
+        "244": "",
+        "245": "1'04\"",
+        "260": "Rabbit Pokémon",
+        "268": "12.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Buneary",
+        "284": "BUNEARY"
+    }
 }

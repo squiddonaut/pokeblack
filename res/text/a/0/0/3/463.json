@@ -1,0 +1,90 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "Welcome to the Union Room.{VAR BE01}\nIf there is anything you need help\nwith, please let me know! {VAR BE01}",
+            "flags": 224
+        },
+        "",
+        {
+            "text": "Which topic would you\nlike me to explain?",
+            "flags": 224
+        },
+        {
+            "text": "There are five Battle Formats.{VAR BE01}\nSingle Battle is for two Trainers\nwith one or more Pokémon each.{VAR BE01}\nEach Trainer can have one Pokémon\nin battle at a time.{VAR BE01}\nDouble Battle is for two Trainers\nwith two or more Pokémon each.{VAR BE01}\nEach Trainer will send out two\nPokémon to battle at a time.{VAR BE01}\nTriple Battle is for two Trainers\nwith three or more Pokémon each.{VAR BE01}\nEach Trainer will send out three\nPokémon to battle at a time.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "Rotation Battle is for two Trainers\nwith three or more Pokémon each.{VAR BE01}\nEach Trainer sends out three Pokémon at\na time, one in front and two in the back.{VAR BE01}\nMulti Battle is for four Trainers\nwith one or more Pokémon each.{VAR BE01}\nEach Trainer can have one Pokémon\nin battle at a time.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "You may trade your Pokémon with\nother players.{VAR BE01}\nMeeting new people could be a\nshortcut to meeting rare Pokémon!{VAR BE01}",
+            "flags": 224
+        },
+        "",
+        {
+            "text": "In a Spin Trade, participants each bring\nan Egg for trading with others.{VAR BE01}\nWhich Egg will you end up with?\nWhat kind of Pokémon is in that Egg?{VAR BE00}\nIt's quite exciting and fun!{VAR BE01}\nUp to five players can take part, so\ntry it with your friends!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "You may get together with others\nand draw a picture.{VAR BE01}\nYou all get to work on one sheet\nof paper at the same time.{VAR BE01}\nI'm sure a drawing made by friends\nwill be a memorable masterpiece!{VAR BE01}\nUp to five players can take part,\nso try it with your friends!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "If you touch an icon on the bar\non the Touch Screen below,{VAR BE00}\nyou can choose words for chatting{VAR BE00}\nor tell others what you want to do,{VAR BE00}\nsuch as battles or trades.{VAR BE01}\nAlso, players who have chosen the same\nicon as you will jump up and down{VAR BE00}\nso you can spot them easily.{VAR BE01}\nTouch any icon to find a person you want\nto play with.{VAR BE01}",
+            "flags": 224
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Battle",
+            "flags": 219
+        },
+        {
+            "text": "Trade",
+            "flags": 219
+        },
+        "",
+        {
+            "text": "Draw",
+            "flags": 219
+        },
+        {
+            "text": "Spin",
+            "flags": 219
+        },
+        {
+            "text": "Icons",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        }
+    ]
+}

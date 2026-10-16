@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "You want to know about this place?\nThis is the Cold Storage.{VAR BE01}\nInside, there are Workers\nwith their Pokémon!",
+        "The reason why Clay is having you look\nfor Team Plasma is 'cause he is testing{VAR BE00}\nyour abilities.",
+        "Cheren: {VAR 0100 0000}...{VAR BE01}\nDo you think Team Plasma could be\nin there?{VAR BE01}\nI don't like cold places, but we have\nto check. What a bother.",
+        "Cheren: All right, {VAR 0100 0000}.\nLet's get this over with.",
+        "You can get to the Cold Storage through\nthe gap between the fence and the{VAR BE00}\ncontainer over there.",
+        "For a few loads, send it by Pokémon.\nFor a lot of loads, send it by ship.{VAR BE01}\nUse the best method for your needs!",
+        "A helmet is an important tool for\nshock protection!{VAR BE01}\nIt's good to let your Pokémon\nhave one, too!{VAR BE01}",
+        "If you let a Pokémon hold a Rocky Helmet,\nthe foe will also be damaged if that foe's{VAR BE00}\nmove makes physical contact."
+    ]
+}

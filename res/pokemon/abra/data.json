@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
     "catch_rate": 200,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_TWISTEDSPOON"
+        "rare": "ITEM_TWISTEDSPOON",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_25",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_INNER_FOCUS" ],
-    "unk_1A": 98,
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_MAGIC_GUARD"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 62,
+    "base_exp_reward": 62,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TELEPORT" ]
@@ -91,7 +94,7 @@
             "MOVE_GUARD_SPLIT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -103,5 +106,16 @@
         "height": 9,
         "weight": 195
     },
-    "offspring": "SPECIES_ABRA"
+    "offspring": "SPECIES_ABRA",
+    "text": {
+        "70": "Abra",
+        "235": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day.",
+        "236": "Using its psychic power is such a\nstrain on its brain that it needs\nto sleep for 18 hours a day.",
+        "244": "",
+        "245": "2'11\"",
+        "260": "Psi Pokémon",
+        "268": "43.0 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Abra",
+        "284": "ABRA"
+    }
 }

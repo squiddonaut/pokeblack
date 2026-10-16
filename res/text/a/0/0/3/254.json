@@ -1,0 +1,22 @@
+{
+    "flags": 215,
+    "entries": [
+        "GFWVKVCTIUKGHKN",
+        "GHKNIPKXKGEGT\nUKIPKVCG",
+        "NNCVPUK\nNKXGTQFQQI",
+        "EKTCDTCDGDVQPQF",
+        "GVUCYVQPVUWOGPQ",
+        "UWQKEGTRUKNNC",
+        "UTCGVGVCGTEUTCY",
+        "FGGTICHKGPKJU",
+        {
+            "text": "It looks like you can climb up here!{VAR BE01}\nWill you proceed to the upper floor?",
+            "flags": 224
+        },
+        {
+            "text": "It looks like you can climb down here!{VAR BE01}\nWill you return to the lower floor?",
+            "flags": 224
+        }
+    ],
+    "pad": "fafa"
+}

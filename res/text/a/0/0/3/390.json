@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Insect Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Insect Badge!\nFight valiantly like an insect!",
+        "First, obtain the Insect Badge\nfrom the Castelia Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

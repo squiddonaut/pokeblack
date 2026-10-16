@@ -1,0 +1,142 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "X BUTTON",
+            "flags": 71
+        },
+        {
+            "text": "SELECT",
+            "flags": 71
+        },
+        {
+            "text": "B BUTTON",
+            "flags": 71
+        },
+        {
+            "text": "Use the graffiti marker",
+            "flags": 144
+        },
+        {
+            "text": "Freeze frame",
+            "flags": 144
+        },
+        {
+            "text": "Quit graffiti mode",
+            "flags": 144
+        },
+        {
+            "text": "Change pen size",
+            "flags": 160
+        },
+        {
+            "text": "Select color with the dropper",
+            "flags": 160
+        },
+        {
+            "text": "Use as an eraser",
+            "flags": 160
+        },
+        {
+            "text": "Close the graffiti marker",
+            "flags": 160
+        },
+        {
+            "text": "Stamps",
+            "flags": 160
+        },
+        {
+            "text": "GRAFFITI MODE",
+            "flags": 216
+        },
+        "",
+        "",
+        {
+            "text": "ID {VAR 0204 0000}",
+            "flags": 63
+        },
+        "",
+        {
+            "text": "{VAR 0200 0000}/4",
+            "flags": 24
+        },
+        {
+            "text": "Please select your friend(s).",
+            "flags": 168
+        },
+        {
+            "text": "CALL FRIEND(S)",
+            "flags": 150
+        },
+        {
+            "text": "JOIN",
+            "flags": 150
+        },
+        {
+            "text": "Calling...",
+            "flags": 208
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "Connecting...",
+            "flags": 208
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "Searching for your friends...",
+            "flags": 208
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "Would you like to stop the Xtransceiver?",
+            "flags": 232
+        },
+        {
+            "text": "If the leader drops out, the group will\nbe disbanded. Is that OK?",
+            "flags": 232
+        },
+        {
+            "text": "YES",
+            "flags": 45
+        },
+        {
+            "text": "NO",
+            "flags": 45
+        },
+        {
+            "text": "Since the leader dropped out,\nthe group will be disbanded.",
+            "flags": 232
+        },
+        {
+            "text": "The other Trainer has left the group.\nThe communication will be ended.",
+            "flags": 232
+        },
+        {
+            "text": "There are no members.\nThe communication will be ended.",
+            "flags": 232
+        },
+        {
+            "text": "Call failed.",
+            "flags": 208
+        },
+        {
+            "text": "Failed to connect.",
+            "flags": 208
+        },
+        {
+            "text": "Parental Controls prohibits the transfer\nof photos.\nIf you wish to send them, please change\nthe System Settings to allow this.",
+            "flags": 224
+        },
+        {
+            "text": "Waiting for the other player to finish...",
+            "flags": 224
+        }
+    ],
+    "pad": "7676"
+}

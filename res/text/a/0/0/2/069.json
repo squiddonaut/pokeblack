@@ -1,0 +1,144 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "{VAR 0100 0000}'S ENTREE",
+            "flags": 240
+        },
+        {
+            "text": "ACCEPT A MISSION",
+            "flags": 144
+        },
+        {
+            "text": "RECEIVE PASS POWER",
+            "flags": 144
+        },
+        {
+            "text": "CHECK STATUS",
+            "flags": 144
+        },
+        "There is a mission\nin progress.",
+        {
+            "text": "Entree's Total Level: {VAR 0202 0000}",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "◆White Lv.: {VAR 0203 0000}",
+            "flags": 108
+        },
+        {
+            "text": "◇Black Lv.: {VAR 0203 0000}",
+            "flags": 104
+        },
+        {
+            "text": "Available Pass Powers: {VAR 0203 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Time spent in the Entralink: {VAR 0201 0000}:{VAR 0201 0001}",
+            "flags": 224
+        },
+        {
+            "text": "Completed missions: {VAR 0204 0000}",
+            "flags": 224
+        },
+        {
+            "text": "ENTREE STATUS",
+            "flags": 224
+        },
+        {
+            "text": "BEGIN A MISSION",
+            "flags": 144
+        },
+        {
+            "text": "MISSION IN PROGRESS",
+            "flags": 144
+        },
+        "The mission is starting now!{VAR BE02 005A}",
+        "Another mission is already\nin progress.",
+        "Please select one of the\nsix missions.",
+        {
+            "text": "Please select a mission.",
+            "flags": 216
+        },
+        "You cannot accept this mission\nwhen three worlds are connected.",
+        "You cannot accept a mission when\nyou have a visitor in your Entralink.",
+        "By selecting missions,\nyou can help others.{VAR BE01}\nPlease select “SUPPORT MISSION\"\nand begin a mission.",
+        "The wrong mission was selected...{VAR BE01}\nPlease select “SUPPORT MISSION\"\nto begin.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        "Will you receive this Pass Power\nfrom the Entree?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "AVAILABLE PASS POWER",
+            "flags": 216
+        },
+        "Received “{VAR 011C 0000}\"\nfrom the Entree!{VAR BE01}\nThe “{VAR 011C 0000}\" is\nregistered to C-Gear!",
+        {
+            "text": "RECEIVE POWER",
+            "flags": 96
+        },
+        "Please select the Pass Power\nyou want to receive from the Entree.",
+        {
+            "text": "CURRENT PASS POWER",
+            "flags": 224
+        },
+        {
+            "text": "No Pass Power has been received.",
+            "flags": 224
+        },
+        {
+            "text": "Orbs needed: {VAR 0203 0000}",
+            "flags": 112
+        },
+        {
+            "text": "{VAR BD02}◆The White Level to receive it: {VAR 0202 0000}◆\n\nCurrent levels\n◇Black Lv. : {VAR 0202 0002}   ◆White Lv. : {VAR 0202 0001}",
+            "flags": 224
+        },
+        {
+            "text": "{VAR BD02}◆The Black Level to receive it: {VAR 0202 0000}◆\n\nCurrent levels\n◇Black Lv. : {VAR 0202 0002}   ◆White Lv. : {VAR 0202 0001}",
+            "flags": 224
+        }
+    ]
+}

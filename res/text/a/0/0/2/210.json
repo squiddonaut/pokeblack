@@ -1,0 +1,396 @@
+{
+    "flags": 229,
+    "entries": [
+        {
+            "text": "{VAR BD02}Random Matchup Free Mode",
+            "flags": 208
+        },
+        {
+            "text": "{VAR BD02}Random Matchup Rating Mode",
+            "flags": 208
+        },
+        {
+            "text": "{VAR BD02}SINGLE BATTLE",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD02}DOUBLE BATTLE",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD02}TRIPLE BATTLE",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD02}ROTATION BATTLE",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD02}LAUNCHER BATTLE",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD02}{VAR 0100 0000}'s Record",
+            "flags": 168
+        },
+        {
+            "text": "{VAR BD03 0000}Rating:",
+            "flags": 72
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}No. of Battles:",
+            "flags": 112
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0205 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}No. of Wins:",
+            "flags": 72
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0204 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}No. of Losses:",
+            "flags": 96
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0204 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0201 0001} {VAR 0201 0002}, {VAR 0203 0000} - {VAR 0201 0004} {VAR 0201 0005}, {VAR 0203 0003}",
+            "flags": 224
+        },
+        {
+            "text": "Registered Pokémon",
+            "flags": 208
+        },
+        {
+            "text": "Registered Pokémon",
+            "flags": 208
+        },
+        {
+            "text": "Registered Pokémon",
+            "flags": 208
+        },
+        {
+            "text": "LOCATION",
+            "flags": 224
+        },
+        {
+            "text": "GREET",
+            "flags": 224
+        },
+        {
+            "text": "{VAR 0124 0000}",
+            "flags": 224
+        },
+        {
+            "text": "{VAR 0125 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Receiving data...\nPlease wait a moment.",
+            "flags": 225
+        },
+        {
+            "text": "Which mode will you challenge?",
+            "flags": 240
+        },
+        "Random Matchup Free mode\nwill be launched.{VAR BE01}",
+        {
+            "text": "Free",
+            "flags": 83
+        },
+        {
+            "text": "Rating",
+            "flags": 83
+        },
+        {
+            "text": "Quit",
+            "flags": 83
+        },
+        {
+            "text": "Will you quit Random Matchup?",
+            "flags": 240
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Searching for your opponent...",
+            "flags": 240
+        },
+        {
+            "text": "An opponent has been found!",
+            "flags": 240
+        },
+        {
+            "text": "Quit searching for\nsomeone to battle?",
+            "flags": 240
+        },
+        {
+            "text": "Please choose your Pokémon.",
+            "flags": 225
+        },
+        {
+            "text": "Sending data...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "Do you want to continue battling?",
+            "flags": 240
+        },
+        {
+            "text": "Will you quit Random Matchup?",
+            "flags": 240
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 225
+        },
+        "Random Matchup Rating mode\nwill be launched.{VAR BE01}",
+        {
+            "text": "Waiting for the server...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "Awaiting communication...\nPlease stand by.",
+            "flags": 225
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Join",
+            "flags": 83
+        },
+        {
+            "text": "Info",
+            "flags": 83
+        },
+        {
+            "text": "Cancel",
+            "flags": 83
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Searching for competition data...",
+            "flags": 225
+        },
+        "Game Sync ID has not been\nregistered at the Pokémon Global Link.{VAR BE01}\nPlease complete the Game Sync settings\nand access the Pokémon Global Link{VAR BE01}\nwebpage to register.\nhttp://www.pokemon-gl.com{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "No competitions have been found\nfor you to participate in.{VAR BE01}\nIn Battle Competition,\nyou cannot participate in the same{VAR BE00}\ncompetition twice.{VAR BE01}",
+        {
+            "text": "Player ID will be updated...\nDon't turn off the power.",
+            "flags": 225
+        },
+        "There are no current competitions\nthat you can participate in.{VAR BE01}",
+        "To participate in the Wi-Fi Competition,\nyou need to update your Digital Player ID.{VAR BE01}\nIs it OK to update it?",
+        "To participate in the Wi-Fi Competition,\nthe Digital Player ID will be updated.{VAR BE01}\nThe Battle Box from the previous\ntournament will be unregistered.{VAR BE01}\nIs it OK to update your Digital Player ID?",
+        "You cannot participate\nwithout updating your Digital Player ID.{VAR BE01}\nCancel this update?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Unable to update your Digital Player ID.",
+        "Your Battle Box will be registered\nfor the tournament.{VAR BE01}\nCaution!\nOnce registered,{VAR BE00}\nyou will not be able to{VAR BE00}\nmove your Pokémon to or from{VAR BE00}\nyour Battle Box.{VAR BE01}\nWill you still register the Pokémon\nin your Battle Box?",
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        {
+            "text": "Quit registration?",
+            "flags": 240
+        },
+        {
+            "text": "Quit the competition registration?",
+            "flags": 240
+        },
+        {
+            "text": "Sending data...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "There was a problem with\nyour Pokémon,{VAR BE00}\nand they could not participate.{VAR BE01}",
+            "flags": 240
+        },
+        "Competition registration\nis complete!{VAR BE01}",
+        "The conditions for the tournament\nhave not been met.{VAR BE01}\nPlease place your Pokémon\nin the Battle Box.{VAR BE01}",
+        {
+            "text": "Pokémon Competition over Nintendo WFC!\nWhat would you like to do?",
+            "flags": 240
+        },
+        {
+            "text": "Battle",
+            "flags": 195
+        },
+        {
+            "text": "Cancel participation",
+            "flags": 195
+        },
+        {
+            "text": "Cancel",
+            "flags": 195
+        },
+        {
+            "text": "Quit the competition?",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The competition time has run out.\nThe competition has ended.{VAR BE01}",
+        "Your Battle Box has been\nunregistered.{VAR BE01}",
+        "Currently, you have registered no\ncompetitions.{VAR BE01}",
+        "Once unregistered, you will not be able to\nparticipate in the same tournament.{VAR BE01}\nIs it OK to unregister?",
+        {
+            "text": "You will be unregistered.\nAre you sure about this?",
+            "flags": 240
+        },
+        {
+            "text": "Searching for your opponent...",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Your opponent has been found!",
+            "flags": 240
+        },
+        {
+            "text": "The battle results were\nsent to the server.{VAR BE01}\nIt'll take a little time\nto calculate your Rating.{VAR BE01}\nOnce the calculation is done,\nyour Rating will be updated.{VAR BE01}",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Receiving data...\nDon't turn off the power.",
+            "flags": 225
+        },
+        {
+            "text": "Checking the competition\ndetails...",
+            "flags": 225
+        },
+        {
+            "text": "Pokémon Wi-Fi Competition!\nDo you want to continue battling?",
+            "flags": 240
+        },
+        {
+            "text": "Battle",
+            "flags": 195
+        },
+        {
+            "text": "Cancel participation",
+            "flags": 195
+        },
+        {
+            "text": "Cancel",
+            "flags": 195
+        },
+        "The competition you've registered\nis not currently held.{VAR BE01}\nPlease check the competition schedule\nand wait for it.{VAR BE01}",
+        "There are no Pokémon in\nyour Battle Box.{VAR BE01}\nPlease check the tournament\nrules to place Pokémon{VAR BE00}\nin your Battle Box.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "L{VAR 0202 0000}",
+            "flags": 39
+        },
+        {
+            "text": "♂",
+            "flags": 8
+        },
+        {
+            "text": "♀",
+            "flags": 8
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You are participating in this competition.\nPlease register your Pokémon.",
+        "You are participating in this competition.\nYour Battle Box is being locked.",
+        "Once unregistered, you will not be able to\nparticipate in the same tournament.{VAR BE01}\nIs it OK to unregister?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It is being unregistered...\nDon't turn off the power.",
+        "Your Battle Box has been\nunregistered.{VAR BE01}",
+        "This competition has already ended.",
+        "You unregistered from this competition.",
+        "You don't have any\nDigital Player ID data.{VAR BE01}",
+        "You've been unregistered\nfrom the competition, as{VAR BE00}\nyour Game Card was inserted into{VAR BE00}\nanother DS system.{VAR BE01}",
+        "Once unregistered, you will not be able to\nparticipate in the same tournament.{VAR BE01}\nIs it OK to unregister?",
+        "You will be unregistered.\nAre you sure about this?",
+        "You have been unregistered\nfrom the competition.{VAR BE01}",
+        {
+            "text": "Back",
+            "flags": 83
+        },
+        {
+            "text": "Unregister",
+            "flags": 107
+        },
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        "There was a problem with\nyour Pokémon,{VAR BE00}\nand they could not participate.{VAR BE01}"
+    ]
+}

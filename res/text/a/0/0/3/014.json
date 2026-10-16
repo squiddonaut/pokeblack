@@ -1,0 +1,12 @@
+{
+    "flags": 224,
+    "entries": [
+        "Fennel: You're going to meet all of the\nPokémon in the Unova region. Am I right?{VAR BE01}\nOh, the stairs are right here!{VAR BE01}",
+        "Fennel: My room is upstairs here.\nCome on, go upstairs!{VAR BE01}",
+        "After a battle, to my surprise,\nmy Pokémon evolved and{VAR BE00}\nchanged its appearance!",
+        "Some evolve and some don't...{VAR BE01}\nPokémon really are mysterious creatures.",
+        "You can't go upstairs now!{VAR BE01}\n'Cause Fennel said she was testing\nsomething, and she had a scary look{VAR BE00}\non her face!",
+        "She may not look like it,\nbut Fennel is a great scientist!"
+    ],
+    "pad": "b8b8"
+}

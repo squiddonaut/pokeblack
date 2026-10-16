@@ -1,0 +1,45 @@
+{
+    "flags": 208,
+    "entries": [
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 96
+        },
+        {
+            "text": "PP",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 39
+        },
+        {
+            "text": "{VAR 0102 0000}⑭",
+            "flags": 68
+        },
+        {
+            "text": "{VAR 0102 0000}⑮",
+            "flags": 68
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 68
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "/",
+            "flags": 7
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 24
+        },
+        "Playback paused...\nPlease wait a moment.",
+        "Data is corrupted.\nPlayback canceled.",
+        "Skipping the video...\nPlease wait a moment.",
+        "Playback stopped...\nPlease wait a moment."
+    ]
+}

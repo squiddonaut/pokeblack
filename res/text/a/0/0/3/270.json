@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "entries": [
+        "...{VAR BE01}\n...Come.{VAR BE01}",
+        "...{VAR BE01}\nGhetsis. We brought the one you wanted.{VAR BE01}",
+        "Ghetsis: Excellent. It seems that\nyou have obtained the Dark Stone.{VAR BE01}\nI congratulate you on a job well done.{VAR BE01}",
+        "Ghetsis: Excellent. It seems that\nyou have obtained the Light Stone.{VAR BE01}\nI congratulate you on a job well done.{VAR BE01}",
+        "It is my lord N's thought that the two\nholders of the legendary Pokémon{VAR BE00}\nshould put their beliefs on the line{VAR BE00}\nand strive to find which is the true hero.{VAR BE01}",
+        "This is not necessary, however.{VAR BE01}\nFrom his infancy, I provided him with the\neducation required to become the hero{VAR BE00}\nof legend. Indeed, he has been so{VAR BE00}\nacknowledged by the legendary Pokémon.{VAR BE01}\n...Such purity of purpose is his.{VAR BE01}",
+        "The liberation of Pokémon of which I... Of\nwhich Team Plasma speaks is the{VAR BE00}\nseparation of Pokémon from{VAR BE00}\nfoolish people!{VAR BE01}\nThat's the truth! All Trainers will become\nhelpless to resist us!{VAR BE01}\nWe alone will be able to use Pokémon!{VAR BE01}",
+        "The preparations are complete!{VAR BE01}\nWhen my perfect plan is set in motion,\nfirst a few gullible Pokémon Trainers who{VAR BE00}\nare unable to resist Team Plasma will{VAR BE00}\nrelease their Pokémon.{VAR BE01}\nThen that number will become a hundred,\nthen a thousand...{VAR BE01}\nIn no time, even the Gym Leaders and the\nChampion will become unable to fight us.{VAR BE01}\nHaving a Pokémon will be considered\na bad thing!{VAR BE01}\nEven people like the sad little Bianca,\nwhose Pokémon was stolen in Castelia,{VAR BE00}\nwill be unable to face public opinion{VAR BE00}\nand will release their Pokémon!{VAR BE01}\nThat's the kind of world we'll make!{VAR BE01}",
+        "You may have the Stone, but there's no\nchance whatsoever that the legendary{VAR BE00}\nPokémon will accept you as the hero.{VAR BE01}\nSo, if you're not willing to hand over\nyour precious Pokémon, I suggest you{VAR BE00}\nsearch for some courage--{VAR BE00}\nbecause you're going to need it!{VAR BE01}",
+        "When I was running around trying\nto outrun the trains,{VAR BE00}\nI got overheated. Phew!{VAR BE01}\nAnyway, please take this!{VAR BE01}",
+        "This TM contains Flame Charge!\nIf the move lands, the user's Speed{VAR BE00}\ngoes up! You'll blow by everyone!",
+        "Hey, you!{VAR BE01}\nIt's just my opinion, but it's best if you\navoid this area on weekend evenings.{VAR BE01}\nThe brats who live around here\noften get up to something stupid.",
+        "Hey! Who said ya can pass through here?{VAR BE01}\nWhen Friday night rolls around, this place\nbelongs to us, the Black {VAR 0101 0000}!{VAR BE00}\nIt's like our Gym, kid!{VAR BE01}\nSo scram! Toddle off home to your ma,\nya perfect little goody-two-shoes punk!",
+        "What didja say, ya little creep?{VAR BE01}\nI'll teach ya to take the Black\n{VAR 0101 0000} seriously!{VAR BE01}\nI'll pummel your pretty Pokémon\nright down to the ground! With relish!{VAR BE01}",
+        "Ha! Fine!\nBrats like you with a future so bright...{VAR BE01}\nJust go on back home and be nice to your\nparents. Don't forget your baby bottle!",
+        "Ha! Fine!\nBrats like you with a future so bright...{VAR BE01}\nJust go on back home and be nice to your\nparents. Don't forget your baby bottle!{VAR BE01}",
+        "Don't get all high and mighty because\nyou beat me!{VAR BE01}\nIf you really want to pick a fight with\nthe Black {VAR 0101 0000},{VAR BE00}\ngo duke it out with our leader!{VAR BE00}\nHe's somewhere on this bridge!",
+        "Don't get all feeling good because\nyou beat me!{VAR BE01}\nIf you really want to start a fight\nwith the Black {VAR 0101 0000},{VAR BE00}\ngo duke it out with our leader!{VAR BE00}\nHe's somewhere on this bridge!{VAR BE01}",
+        "Hey! Yeah, you, the little brat there!\nGet over here!{VAR BE01}",
+        "What do you think you're up to, brat?{VAR BE01}\nThis is the Black {VAR 0101 0000}'s\nultimate paradise...{VAR BE01}\nA little pest like you has no\nbusiness here...{VAR BE01}\nIt couldn't be that you think you can\nstand up to me, the head of the{VAR BE00}\nBlack {VAR 0101 0000}?",
+        "Gwa ha ha ha! Bring it!\nYou've got your share of guts, kid!{VAR BE01}\nI'll show you what the guy who holds the\nBlack {VAR 0101 0000} together can really do!{VAR BE01}",
+        "That all you got?\nNah, you got one option left--get lost!{VAR BE01}\nThis is our place, the Black {VAR 0101 0000}.{VAR BE01}\nWe got no place else to go, and we\ndon't want nobody gettin' in our way.",
+        "You ain't half bad, kid...\nI like ya.{VAR BE01}\nGet a load of this... {VAR BE01}\nFrom now on, our team's name is gonna\nbe the Black {VAR 0101 0000}!{VAR BE01}\nYeah! We're taking the name of\nyour rough-and-tough Pokémon!{VAR BE01}\nIt's a wilder name for a wilder team!{VAR BE01}\nThe Black {VAR 0101 0000}!\nGwa ha ha ha! That's awesome!",
+        "The Black {VAR 0101 0000}!\nSpeed's our only friend!",
+        "The Black {VAR 0101 0000}!\nAt a breakneck pace until dawn breaks!",
+        "The Black {VAR 0101 0000}!\nNever stop, and never look back!"
+    ]
+}

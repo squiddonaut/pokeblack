@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "{VAR 0100 0000} checked the PC!{VAR BE01}\nPokémon Basics...{VAR BE01}\nPeople live alongside Pokémon in\nthis world.{VAR BE01}\nThe people who battle with Pokémon are\ncalled Pokémon Trainers." ],
+    "pad": "0c0c"
+}

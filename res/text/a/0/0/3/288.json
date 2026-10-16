@@ -1,0 +1,8 @@
+{
+    "flags": 224,
+    "entries": [
+        "...{VAR BE01}\n...Come.{VAR BE01}",
+        "In this castle, you may rest your\nPokémon and access your PC.{VAR BE00}\nFear not.{VAR BE01}",
+        "First, have your Pokémon rest in\nthat room.{VAR BE01}\nWhen they are healed, it is our lord N's\nwish that you be moved to the innermost{VAR BE00}\npart of this castle.{VAR BE01}"
+    ]
+}

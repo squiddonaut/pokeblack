@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "entries": [
+        "You have an extremely bored look\non your face!{VAR BE01}\nOK! I'll let you have a very exciting\nPokémon battle with me!",
+        "Oh, you are not bored...",
+        "Well, if you insist, I'll let you have\nanother very exciting battle{VAR BE00}\nwith me tomorrow!",
+        "I like you!{VAR BE01}\nI will let you see a very special thing,\nso follow me!{VAR BE01}",
+        "The sea... ♪ It's a source of life... ♪\nThe sea... ♪ It's a lot of water... ♪{VAR BE01}\nSo, teach this move to your Pokémon, and\nyou can dive into the sea!{VAR BE01}",
+        "Inside this Hidden Machine is Dive!{VAR BE01}\nThe darkest parts of the sea are called\ndiving points, and if you use Dive there,{VAR BE00}\nyou can dive all the way to the bottom of{VAR BE00}\nthe sea!",
+        "The sea!!",
+        "Ah, Cynthia...\nWhy are you so Cynthia...?",
+        "Even Maids sometimes have to roost.{VAR BE01}\nOh, I was confused! A Pokémon restores\nits HP when it uses the move Roost!{VAR BE01}\nBut for people, it's called resting.",
+        "The sunlight is strong...{VAR BE01}\nDepending on the Pokémon, that can be\neither an advantage or a disadvantage.{VAR BE01}\nStrong sunlight makes Fire-type moves\nstronger and Water-type moves weaker.",
+        "Yaaaay! Yaaay!\nUndella Town!!",
+        {
+            "text": "Undella Town\nA Town of Rippling Waves",
+            "flags": 207
+        },
+        {
+            "text": "This big villa belongs to the Riches!",
+            "flags": 207
+        }
+    ]
+}

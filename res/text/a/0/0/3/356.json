@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}!{VAR BE01}\nThis bothersome bunch doesn't\nreally listen to reason.{VAR BE01}",
+        "Team Plasma: That child cannot use\na Pokémon to its full potential.{VAR BE01}\nDoesn't that make the Pokémon sad?{VAR BE01}\nIt's the same thing for all your Pokémon,\nso hand them over to us now!{VAR BE01}\nBetter yet...\nWe'll just take them!{VAR BE01}",
+        "Team Plasma: Wha...? How could we lose\nwhen we have right on our side?!{VAR BE01}",
+        "Cheren: Not bad, {VAR 0100 0000}.\nOK, go return the Pokémon to that girl.{VAR BE01}",
+        "You don't need to return it!{VAR BE01}",
+        "Team Plasma: How troublesome.{VAR BE01}\nNot only do you fail to understand, but\nyou actually got in our way, to boot.{VAR BE01}",
+        "Team Plasma: There's two of you\nand two of us.{VAR BE01}\nWe'll show you our combined power\nand teach you that we are right!{VAR BE01}",
+        "Cheren: So, there were more of them...{VAR BE01}\nStill, why are Pokémon robbers\nacting so self-righteous?{VAR BE01}",
+        "{VAR 0100 0000}!{VAR BE01}\nWe've been friends our whole lives.\nWe've got each other's back when it{VAR BE00}\ncounts. Let's show them how it's done!{VAR BE01}",
+        "Team Plasma: In order to liberate\nPokémon from foolish people,{VAR BE00}\nwe will take their Pokémon!{VAR BE01}",
+        "Cheren: Whatever...\nWhat a waste of time.{VAR BE01}\nCome on, what reason could possibly\njustify stealing Pokémon from people?{VAR BE01}",
+        "Team Plasma: Pokémon Trainers\nlike you are making Pokémon suffer...{VAR BE01}",
+        "Cheren: What do you mean, Trainers are\nmaking Pokémon suffer?{VAR BE00}\nI don't get that at all!{VAR BE01}",
+        "Team Plasma: We'll give you back\nthe Pokémon...{VAR BE01}\nBut be aware of how this Pokémon suffers\nfrom being used by people.{VAR BE01}",
+        "Team Plasma: Someday, open your eyes\nto your own complicity.{VAR BE01}",
+        "Cheren: Trainers bring out\ntheir Pokémon's strength.{VAR BE01}\nPokémon believe in their\nTrainers and respond to that.{VAR BE01}\nI don't understand what about\nthat makes Pokémon suffer!{VAR BE01}",
+        "OK, {VAR 0100 0000},\nI'll return the Pokémon.{VAR BE01}"
+    ],
+    "pad": "a2a2"
+}

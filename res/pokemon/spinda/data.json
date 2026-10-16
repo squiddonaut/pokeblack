@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 255,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_CHESTO_BERRY"
+        "rare": "ITEM_CHESTO_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_OWN_TEMPO", "ABILITY_TANGLED_FEET" ],
-    "unk_1A": 126,
+    "abilities": [
+        "ABILITY_OWN_TEMPO",
+        "ABILITY_TANGLED_FEET",
+        "ABILITY_CONTRARY"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": true,
-    "unk_22": 126,
+    "base_exp_reward": 126,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -104,11 +107,22 @@
             "MOVE_WATER_PULSE"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 11,
         "weight": 50
     },
-    "offspring": "SPECIES_SPINDA"
+    "offspring": "SPECIES_SPINDA",
+    "text": {
+        "70": "Spinda",
+        "235": "No two Spinda have the same\npattern of spots. Its tottering\nstep fouls the aim of foes.",
+        "236": "No two Spinda have the same\npattern of spots. Its tottering\nstep fouls the aim of foes.",
+        "244": "",
+        "245": "3'07\"",
+        "260": "Spot Panda Pokémon",
+        "268": "11.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Spinda",
+        "284": "SPINDA"
+    }
 }

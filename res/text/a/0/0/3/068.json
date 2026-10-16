@@ -1,0 +1,28 @@
+{
+    "flags": 224,
+    "entries": [
+        "Did the fantastic speed leave you dizzy?{VAR BE01}\nMy beloved Pokémon will be the next one\nto make your head spin!{VAR BE01}",
+        "My, oh my...\nYou have a sweet fighting style.{VAR BE01}\nI mean, you're a great Trainer!\nExcuse me, I...uh... Oh, here!{VAR BE00}\nI want you to have this!{VAR BE01}",
+        "{VAR 0100 0000} received the\nBolt Badge from Elesa!{VAR BE01}",
+        "If you have four Badges, including this\nBolt Badge, Pokémon up to Lv. 50,{VAR BE00}\nincluding traded Pokémon, will obey you.{VAR BE01}\nAlso, here's this move I like.\nFeel free to use it, um, if you want to.{VAR BE01}",
+        "Volt Switch lets the Pokémon switch with\na different Pokémon after attacking.{VAR BE01}\nOf course, if you don't have another\nPokémon in your party, you can't switch.{VAR BE01}",
+        "You're going to Driftveil City next?{VAR BE01}\nOf course. There is a Pokémon Gym there,\nafter all. Oh...{VAR BE01}\nI bet you won't be able to get there.\nYou know what?{VAR BE01}\nI'll fix it so you can cross.\nWait for me on Route 5.",
+        "What you'd like to do...\nWhat your Pokémon would like to do...{VAR BE01}\nDon't you think it could be amazing\nif those are aligned?",
+        "Elesa: I think the real me is the one who\nbattles with Pokémon as a Gym Leader.{VAR BE01}\nA model's job is to make someone else's\nvision look like a reality.{VAR BE00}\nIt's interesting, but it's not easy...",
+        "Are you cool riding a roller coaster?{VAR BE01}",
+        "When you ride a roller coaster, the\nspeed can make you dizzy.{VAR BE01}\nI'm going to make your head spin with\na Pokémon battle that's just as intense!{VAR BE01}",
+        "Your way of battling...\nIt's elegant! You've got style!{VAR BE00}\nEven compared to Ms. Elesa!{VAR BE01}",
+        "If you press the switches, the\nroller coaster's path will change.",
+        "Your Nimbasa Gym challenge is finally\nnearing its finale.{VAR BE01}\nBut if you don't beat me,\nyou won't get to meet Ms. Elesa.{VAR BE01}",
+        "I'm also a Pokémon Trainer who was\ntoughened up by Ms. Elesa.{VAR BE01}\nI'll show you power and style befitting\nthis Gym.{VAR BE01}",
+        "It pleases me to be the opponent of a\nstrong and honorable Trainer like you!{VAR BE01}",
+        "If you maintain your calm and don't get\nflustered by this Gym's gimmicks,{VAR BE00}\nyou'll be able to defeat Ms. Elesa...{VAR BE00}\nand any other Trainer, as well!",
+        "{VAR 0100 0000} pressed the switch.{VAR BE01}\nThe roller coaster's path\nhas been changed!",
+        "How about it? I can see you're surprised!{VAR BE01}\nWould you ever have guessed that\nthis Gym is a roller coaster?{VAR BE01}\nOK, let me fill you in...\nAnd take this, too!{VAR BE01}",
+        "In this roller coaster Gym, the first\nstep is to get in the car.{VAR BE01}\nNext comes the platform!\nThere, you can change{VAR BE00}\nwhere the coaster is going!{VAR BE01}\nSometimes you continue by riding\nthe cars of opponents you defeat.{VAR BE00}\nThat's how you aim for the Gym Leader!{VAR BE01}\nBy the way, Electric-type Pokémon don't\ndo well against Ground-type moves...",
+        "Elesa uses sparkling bright\nElectric-type attacks!{VAR BE01}\nBut the combination of you and your\nPokémon was even more impressive!{VAR BE01}\nIt was... It was...\nan emotional roller coaster!",
+        "Nimbasa Pokémon Gym{VAR BE01}\nGym Leader: Elesa\nCertified Trainers:",
+        "Nimbasa Pokémon Gym{VAR BE01}\nGym Leader: Elesa\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Nimbasa Pokémon Gym{VAR BE01}\nGym Leader: Elesa\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "flags": 205,
+    "entries": [
+        "You win...\n{VAR 011C 0000}!",
+        "{VAR 011C 0000} is\nreally impressive.",
+        "Waaah! {VAR 011C 0000}!",
+        "I want to go home with\n{VAR 011C 0000}...",
+        "{VAR 011C 0000}!\n{VAR 011C 0001}!",
+        "I see {VAR 011C 0000}\nright in front of me!",
+        "{VAR 011C 0000}?\nI didn't see that coming!",
+        "I was confident about\n{VAR 011C 0000}, too.",
+        "You're {VAR 011C 0000},\naren't you?",
+        "{VAR 011C 0000}!\nCan't be anything else but.",
+        "I want to be like {VAR 011C 0000}!",
+        "It might be\n{VAR 011C 0000} already...",
+        "I think {VAR 011C 0000}\nshould do.",
+        "The way I feel now is\n{VAR 011C 0000}...",
+        "{VAR 011C 0000} won't work!",
+        "Nothing beats {VAR 011C 0000}!",
+        "My head's filled with only\n{VAR 011C 0000} now!",
+        "Is it because {VAR 011C 0000}\nwas lacking?",
+        "Isn't {VAR 011C 0000}\n{VAR 011C 0001}?",
+        "Aww... That's really\n{VAR 011C 0000}..."
+    ],
+    "pad": "7070"
+}

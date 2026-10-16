@@ -1,0 +1,24 @@
+{
+    "flags": 239,
+    "entries": [
+        "The Feeling Check results for\nyou and {VAR 0100 0000} show that...",
+        {
+            "text": "RESULTS",
+            "flags": 160
+        },
+        "You are touching the screen incorrectly. \nPlease play according to the guide.",
+        "Your feelings are at Rank I!\nClose enough to say a friendly hello.",
+        "Your feelings are at Rank H!\nYou have an interest in each other.",
+        "Your feelings are at Rank G!\nClose enough to go for a walk together.",
+        "Your feelings are at Rank F!\nYou probably have nicknames for each other.",
+        "Your feelings are at Rank E!\nYou are as close as best friends.",
+        "Your feelings are at Rank D!\nClose enough to make good-night calls.",
+        "Your feelings are at Rank C!\nClose enough for traveling together.",
+        "Your feelings are at Rank B!\nEverybody's quite envious of you two.",
+        "Your feelings are at Rank A!\nYou are emotionally united.",
+        "Your feelings are at Rank S!\nUndoubtedly a fated pair!",
+        "{VAR 0100 0000} put the {VAR 0200 0002} {VAR 0109 0001}\nin the {VAR FF00 0002}Medicine{VAR FF00 0000} Case.",
+        "{VAR 0100 0000} put the {VAR 0200 0002} {VAR 0109 0001}\nin the {VAR FF00 0002}Medicine{VAR FF00 0000} Case.",
+        "Too bad!\nThe Bag is full..."
+    ]
+}

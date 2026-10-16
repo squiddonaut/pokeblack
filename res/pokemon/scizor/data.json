@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_STEEL" ],
     "catch_rate": 25,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SWARM", "ABILITY_TECHNICIAN" ],
-    "unk_1A": 135,
+    "abilities": [
+        "ABILITY_SWARM",
+        "ABILITY_TECHNICIAN",
+        "ABILITY_LIGHT_METAL"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 175,
+    "base_exp_reward": 175,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_BULLET_PUNCH" ],
@@ -95,11 +98,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 18,
         "weight": 1180
     },
-    "offspring": "SPECIES_SCYTHER"
+    "offspring": "SPECIES_SCYTHER",
+    "text": {
+        "70": "Scizor",
+        "235": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously.",
+        "236": "It raises its pincers with eyelike\nmarkings for intimidation. It also\nswings them down dangerously.",
+        "244": "",
+        "245": "5'11\"",
+        "260": "Pincer Pokémon",
+        "268": "260.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Scizor",
+        "284": "SCIZOR"
+    }
 }

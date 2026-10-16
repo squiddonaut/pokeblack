@@ -1,0 +1,19 @@
+{
+    "flags": 215,
+    "entries": [
+        "VJQLHEOODRWVNODW\nJQLN",
+        "VHYDZPRUIOOD\nGHYDV",
+        "OODURIHSRK\nVLJQLN",
+        "HYROKWLZ\nWFDNQLKW",
+        "GHHUJDIL\nJQRUWVWFD",
+        {
+            "text": "It looks like you can climb up here!{VAR BE01}\nWill you proceed to the upper floor?",
+            "flags": 224
+        },
+        {
+            "text": "It looks like you can climb down here!{VAR BE01}\nWill you return to the lower floor?",
+            "flags": 224
+        }
+    ],
+    "pad": "9696"
+}

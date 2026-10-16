@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hey! Trainer!{VAR BE01}\nThere is a bit of a problem up ahead.\nSorry, but you can't pass now.{VAR BE01}\nYou should go kill some time by\nchallenging the Castelia City Gym!",
+        "Hey! Trainer!{VAR BE01}\nThere is a bit of a problem up ahead.\nSorry, but you can't pass now.{VAR BE01}\nYou should go kill some time by\nchallenging the Castelia City Gym!{VAR BE01}",
+        "Deep in the desert ahead of here,\nat the Desert Resort,{VAR BE00}\nthere are some ruins that have{VAR BE00}\nbecome a little tourist destination!",
+        "Cheren: I believe it would be wise for me\nto catch some Ground-type Pokémon.{VAR BE01}\nOr perhaps I should strengthen my\nPokémon. What's my best path forward?",
+        "Cheren: Hey, {VAR 0100 0000}.{VAR BE01}\nI've been waiting for you to get\nthe Insect Badge.{VAR BE01}\nAnd now it's time to see which one of us\nis the stronger Trainer!{VAR BE01}",
+        "Cheren: It's now clear to me.{VAR BE01}\nThe reason you are so tough is the trust\nbetween you and your Pokémon.{VAR BE01}\nBut...that shouldn't be a problem.{VAR BE01}\nI can get more out of {VAR 0101 0000}\nand my other Pokémon, too.{VAR BE01}",
+        "The Xtransceiver is ringing.",
+        "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}",
+        "Cheren: Nimbasa City's gate is\nstraight down Route 4.{VAR BE01}",
+        "When I look at the freeway,\nI feel exhilarated!",
+        "Ruins buried in the desert...\nIt's like a grand adventure in a story.",
+        "Oh! Trainer, take a look at the sand.{VAR BE01}\nDo you see how some areas are lighter?\nAnd some of the sand looks...darker...{VAR BE01}\nPokémon are hiding in the darker sand!",
+        {
+            "text": "Route 4",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nPokémon have a source of energy\nfor using moves.{VAR BE01}\nIt's called PP, meaning Power Points.\nThey have PP for each move.{VAR BE01}\nWhen a move has no PP remaining,\nthat Pokémon cannot use that move.{VAR BE01}\nThat's a good time to head for\nthe Pokémon Center!",
+            "flags": 207
+        },
+        {
+            "text": "Tired Workers should head\nto the prefab house by Castelia City!",
+            "flags": 207
+        }
+    ],
+    "pad": "2222"
+}

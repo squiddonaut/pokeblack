@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome!{VAR BE01}\nThe director of the Nacrene Museum\nand the Nacrene Gym's Leader{VAR BE00}\nis me! Lenora!{VAR BE01}\nWell then, challenger,\nI'm going to research{VAR BE00}\nhow you battle with the{VAR BE00}\nPokémon you've so lovingly raised!{VAR BE01}",
+        "Your fighting style is so enchanting.\nIt is charming.{VAR BE01}\nYou are a Pokémon Trainer\nworthy of receiving this Basic Badge!{VAR BE01}",
+        "{VAR 0100 0000} received\nthe Basic Badge from Lenora!{VAR BE01}",
+        "If you have two Badges, traded\nPokémon up to Lv. 30 will obey you.{VAR BE01}\nHere, I also want you to have this TM.{VAR BE01}",
+        "Retaliate does a lot more damage if an\nally fainted the turn before you use it!{VAR BE01}\nIf you master the timing, you can defeat\neven strong opponents.{VAR BE01}",
+        "Some problems you can't solve even if you\nthink about them your whole life.{VAR BE01}\nSome problems have different answers\ndepending on the person.{VAR BE01}\nStill, the reason I can't keep my\ncuriosity down is this:{VAR BE00}\nI want to figure out the truth, but I{VAR BE00}\nalso have a desire for adventure!",
+        "Deeear!{VAR BE01}",
+        "Hawes: Dear! Come quickly!{VAR BE01}\nTeam Plasma is threatening to steal\nsome bones!{VAR BE01}",
+        "Lenora: What? What's going on?!{VAR BE01}\n{VAR 0100 0000}!\nYou come, too!{VAR BE01}",
+        "Lenora: Oh, it's you!{VAR BE01}\nAs always, you're raising your Pokémon\nwith a lot of love!{VAR BE01}\nBy the way, ol' Clay contacted me\nrecently.{VAR BE01}\nHe said you can find Pokémon Fossils\nin Twist Mountain!{VAR BE01}\nGo check it out if you like!",
+        "Lenora's research materials are stored\nin an orderly fashion.",
+        "The bones Lenora is using for research\nare on display."
+    ]
+}

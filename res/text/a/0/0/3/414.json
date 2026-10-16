@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "By any chance, have you caught a\nPokémon called {VAR 0101 0000}?{VAR BE01}\nI would be very happy if you would trade\nmy {VAR 0101 0001} for your {VAR 0101 0000}.",
+        "My heart is beating so fast!\nOK, let's trade!{VAR BE01}",
+        "Thank you very much! Please treat my\n{VAR 0101 0001} with love!{VAR BE01}\nI will also take good care of the\n{VAR 0101 0000} that you traded to me!",
+        "I'd like to trade for a {VAR 0101 0000}...",
+        "Well, if you don't want to, I understand.{VAR BE01}\nBut if you ever change your mind, please\ntrade Pokémon with me!",
+        "I am so grateful that you traded Pokémon\nwith me!{VAR BE01}\nMy research is making progress, and\nabove all, I'm happy because it is{VAR BE00}\nfriendly to me."
+    ]
+}

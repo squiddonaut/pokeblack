@@ -1,0 +1,28 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0201 0000}",
+            "flags": 64
+        },
+        "",
+        "",
+        {
+            "text": "Do you want to display your Musical Photo\nin the Musical Theater?",
+            "flags": 232
+        },
+        {
+            "text": "YES",
+            "flags": 47
+        },
+        {
+            "text": "NO",
+            "flags": 47
+        },
+        {
+            "text": "Awaiting others' decisions.\nPlease wait...",
+            "flags": 225
+        }
+    ],
+    "pad": "f0f0"
+}

@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Basic Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Basic Badge!\nShow the knowledge you've obtained!",
+        "First, obtain the Basic Badge\nfrom the Nacrene Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

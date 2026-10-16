@@ -1,0 +1,86 @@
+{
+    "flags": 228,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Creating save data.\nPlease wait...",
+            "flags": 220
+        },
+        "Hi there!{VAR BE01}\nWelcome to the world of Pokémon!{VAR BE01}",
+        "My name is Professor Juniper.\nEveryone calls me the Pokémon Professor!{VAR BE01}",
+        "That's right! This world is widely\ninhabited by mysterious creatures{VAR BE00}\ncalled Pokémon!{VAR BE01}",
+        "Pokémon have mysterious powers.\nThey come in many shapes{VAR BE00}\nand live in many different places.{VAR BE01}\nWe humans live happily with Pokémon!\nLiving and working together,{VAR BE00}\nwe complement each other.{VAR BE01}\nWe help each other out to\naccomplish difficult tasks.{VAR BE01}\nHaving Pokémon battle one another\nis particularly popular, and it deepens{VAR BE00}\nthe bonds between people and Pokémon.{VAR BE00}\nAnd that is why I research Pokémon.{VAR BE01}",
+        "Well, that's enough from me...\nCould you tell me about yourself?{VAR BE01}",
+        "Are you a boy?\nOr a girl?{VAR BE01}",
+        "You're a boy, right?{VAR BE01}",
+        "You're a girl, right?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "I'd like to know your name.{VAR BE01}\nPlease tell me.{VAR BE01}",
+        "Your name is {VAR 0100 0000}?{VAR BE01}",
+        "Your name is {VAR 0100 0000}?{VAR BE01}",
+        {
+            "text": "Yes",
+            "flags": 40
+        },
+        {
+            "text": "No",
+            "flags": 40
+        },
+        "So your name's {VAR 0100 0000}.\nWhat a wonderful name!{VAR BE01}",
+        "Well then. I'm going to introduce you\nto your two best friends!{VAR BE01}",
+        "This young man is Cheren.{VAR BE01}\nHe can be a little difficult, but\nhe's a very honest person.{VAR BE01}",
+        "This young woman is Bianca.{VAR BE01}\nShe's a little flighty,\nbut she works very hard.{VAR BE01}",
+        "I think you three have potential,\nso I'm going to give you{VAR BE00}\na very, very important Pokémon.{VAR BE01}",
+        "{VAR 0100 0000}!{VAR BE01}\nThe moment you choose the\nPokémon that will accompany{VAR BE00}\nyou on your journey,{VAR BE00}\nyour story will truly begin.{VAR BE01}\nDuring your journey, you will meet many\nPokémon and people with different{VAR BE00}\npersonalities and points of view!{VAR BE01}\nI really hope you find what is important\nto you in all of these travels...{VAR BE01}\nThat's right! Befriend\nnew people and Pokémon and{VAR BE00}\ngrow as a person!{VAR BE01}\nThat is the most important goal\nfor your journey!{VAR BE01}\nLet's go visit the world of Pokémon!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

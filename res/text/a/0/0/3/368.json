@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "It's about the season to go to the\nCelestial Tower on Route 7.{VAR BE01}\nI have to ring the bell for my Petilil...",
+        "It's about the season to go to the\nCelestial Tower on Route 7.{VAR BE01}\nI have to ring the bell for\nmy Cottonee...",
+        "Mister!\nHere, have this!{VAR BE01}",
+        "Miss!\nHere, have this!{VAR BE01}",
+        "Know what? When I gave my Minccino a\nShiny Stone, it evolved and became a{VAR BE00}\ndifferent Pokémon!",
+        "What's this? Your Pokémon seem to be\nfull of energy!",
+        "Oh, dear! Your Pokémon...\nSomehow, they don't seem well.{VAR BE01}\nYou should rest here for a little while.\nYou can't go anywhere when you're not{VAR BE00}\nfeeling well.{VAR BE01}"
+    ],
+    "pad": "8484"
+}

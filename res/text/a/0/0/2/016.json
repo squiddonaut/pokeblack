@@ -1,0 +1,50 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        {
+            "text": "RUN",
+            "flags": 208
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "USE NEXT POKÉMON",
+            "flags": 208
+        },
+        {
+            "text": "SWITCH POKÉMON",
+            "flags": 208
+        },
+        {
+            "text": "KEEP BATTLING",
+            "flags": 208
+        },
+        {
+            "text": "YES",
+            "flags": 208
+        },
+        {
+            "text": "NO",
+            "flags": 208
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 240
+        },
+        {
+            "text": "Max. HP{VAR BD05 003C}+{VAR 0201 0000}\nAttack{VAR BD05 003C}+{VAR 0201 0001}\nDefense{VAR BD05 003C}+{VAR 0201 0002}\nSp. Atk{VAR BD05 003C}+{VAR 0201 0003}\nSp. Def{VAR BD05 003C}+{VAR 0201 0004}\nSpeed{VAR BD05 003C}+{VAR 0201 0005}",
+            "flags": 80
+        },
+        {
+            "text": "Max. HP{VAR BD03 0000}{VAR 0202 0000}\nAttack{VAR BD03 0000}{VAR 0202 0001}\nDefense{VAR BD03 0000}{VAR 0202 0002}\nSp. Atk{VAR BD03 0000}{VAR 0202 0003}\nSp. Def{VAR BD03 0000}{VAR 0202 0004}\nSpeed{VAR BD03 0000}{VAR 0202 0005}",
+            "flags": 80
+        }
+    ]
+}

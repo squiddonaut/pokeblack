@@ -1,0 +1,73 @@
+{
+    "flags": 229,
+    "entries": [
+        "To participate in the Live Competition,\nyou need to update your Digital Player ID.{VAR BE01}\nIs it OK to update it?",
+        "To participate in the Live Competition,\nthe Digital Player ID will be updated.{VAR BE01}\nThe Battle Box from the previous\ntournament will be unregistered.{VAR BE01}\nIs it OK to update your Digital Player ID?",
+        "A Digital Player ID will be received\nvia Infrared Connection.{VAR BE01}\nPlease point your Nintendo Game Card\nat the sending Game Card{VAR BE00}\nand press the A Button.{VAR BE01}",
+        "You have registered and unregistered\nfrom this tournament already.{VAR BE01}\nYou cannot reregister\nfor this tournament.{VAR BE01}",
+        "You have registered and participated\nin this tournament already.{VAR BE01}\nYou cannot reregister for a tournament\nyou've already participated in.{VAR BE01}",
+        "Your Battle Box will be registered\nfor the tournament.{VAR BE01}\nCaution!\nOnce registered,{VAR BE00}\nyou will not be able to{VAR BE00}\nmove your Pokémon to or from{VAR BE00}\nyour Battle Box.{VAR BE01}\nWill you still register the Pokémon\nin your Battle Box?",
+        {
+            "text": "Yes",
+            "flags": 83
+        },
+        {
+            "text": "No",
+            "flags": 83
+        },
+        "Will you cancel registering\nthe Pokémon to participate?",
+        "The conditions for the tournament\nhave not been met.{VAR BE01}\nPlease place your Pokémon\nin the Battle Box.{VAR BE01}",
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 225
+        },
+        "Your Battle Box has been registered\nfor the tournament.{VAR BE01}\nYou will not be able to\nmove your Pokémon to or from{VAR BE00}\nyour Battle Box.{VAR BE01}",
+        "Pokémon Battle Competition!\nWhat would you like to do?",
+        {
+            "text": "Battle",
+            "flags": 211
+        },
+        {
+            "text": "Look back",
+            "flags": 211
+        },
+        {
+            "text": "Cancel participation",
+            "flags": 211
+        },
+        "The last battle will be\nplayed back.{VAR BE01}",
+        "Once unregistered, you will not be able to\nparticipate in the same tournament.{VAR BE01}\nIs it OK to unregister?",
+        "You will be unregistered.\nAre you sure about this?",
+        "Your Battle Box has been\nunregistered.{VAR BE01}",
+        "You will communicate with your opponent\nvia Infrared Connection.{VAR BE01}\nPlease face your Nintendo Game Card\nat your opponent's Game Card{VAR BE00}\nand press the A Button.{VAR BE01}",
+        "Will you cancel the Infrared Connection?",
+        "The selected tournaments do not match.{VAR BE01}\nPlease check the Digital Player ID\nand follow the instructions{VAR BE00}\ngiven by tournament staff.{VAR BE01}",
+        "An opponent has been found!",
+        "Follow the instructions given by \ntournament staff and press the A Button.{VAR BE01}",
+        "The battle has ended.\nThe Pokémon in your Battle Box{VAR BE00}\nare now unregistered.{VAR BE01}",
+        "Failed to receive\nyour Digital Player ID.{VAR BE01}",
+        "Failed to receive\nyour Digital Player ID.{VAR BE01}",
+        "The connection\nfailed.{VAR BE01}",
+        "Live Competition will be ended.{VAR BE01}",
+        {
+            "text": "DONE",
+            "flags": 211
+        },
+        "Live Competition is ended.\nThank you for participating.{VAR BE01}",
+        "Receiving data...\nPlease wait a moment.",
+        "Searching for your opponent...\nPlease wait a moment.",
+        "There was a problem\nwith the last battle.{VAR BE00}\nIt cannot be played back.{VAR BE01}",
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 225
+        },
+        "You have already had a battle\nwith this person.{VAR BE01}\nYou cannot battle\nthe same opponent again.{VAR BE01}",
+        "There are no Pokémon in\nyour Battle Box.{VAR BE01}\nPlease check the tournament\nrules to place Pokémon{VAR BE00}\nin your Battle Box.{VAR BE01}",
+        {
+            "text": "Please choose your Pokémon.",
+            "flags": 225
+        },
+        "An error occurred, and\nthe battle has been disrupted.{VAR BE01}\nPlease follow the instructions\ngiven by tournament staff.{VAR BE01}"
+    ],
+    "pad": "2626"
+}

@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "If I compared the glow of Nimbasa to\nsomething, it would be the sun!{VAR BE01}\nYes, the sun!\nIt inspires me to give you this!{VAR BE01}",
+        "Sun Stones are stones that make certain\nPokémon evolve!{VAR BE01}\nI gave it to Petilil as a present!",
+        "Sun Stones are stones that make certain\nPokémon evolve!{VAR BE01}\nI gave it to Cottonee as a present!",
+        "If you love your Pokémon, even if it\nchanges its appearance, you'll stay{VAR BE00}\nconnected with your Pokémon.",
+        "When a Pokémon evolves, it gets stronger\nand its appearance changes significantly.{VAR BE01}\nA Pokémon that you keep from evolving\nwill learn moves more quickly!"
+    ],
+    "pad": "6c6c"
+}

@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh ho! With a face like that,\nI'll bet you're a Pokémon Trainer!{VAR BE01}\nI work as a Depot Agent on the\nBattle Subway!{VAR BE01}\nHave you tried challenging the\nBattle Subway yet?{VAR BE01}\nIt's a hot spot for those who want\nsome serious battling action!{VAR BE01}\nBut some people get too wrapped up\nin their battles, and there's no end{VAR BE00}\nto the lost-and-found items.{VAR BE01}\nThat's right. Nobody ever came to\npick this up, so I'll give it to you!{VAR BE01}",
+        "I have a lost-and-found item\nthat no one has claimed.{VAR BE01}\nIf you don't mind, could you take it\noff my hands?{VAR BE01}",
+        "Oh! I've been waiting for you!{VAR BE01}\nRecently, we've gotten more passengers,\nso there's more lost-and-found items!{VAR BE01}\nNo one has claimed this, so if you don't\nmind, could you take it off my hands?{VAR BE01}",
+        "No worries. No worries.\nJust take it!{VAR BE01}\nIt's better for a Trainer to use it than\nfor me to hold on to it.{VAR BE01}\nI'm sure the item is happier, too!",
+        "If I have another lost-and-found\nitem, come get it, OK?{VAR BE01}\nAlso, if you're interested, take on the\nBattle Subway in Nimbasa City!",
+        "Oh, my. There's no more room for\nthe {VAR 0109 0000}.{VAR BE01}\nYou'll need to remove some from your Bag\nbefore you can accept any more!"
+    ]
+}

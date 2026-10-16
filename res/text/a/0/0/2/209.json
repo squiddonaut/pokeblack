@@ -1,0 +1,453 @@
+{
+    "flags": 216,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} is seeking someone\nto battle.",
+        "{VAR 0100 0000} is seeking someone\nto trade with.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "What would you like to seek?",
+        "Seeking participants...",
+        "Suspend your invitation?",
+        "Communicating. Please stand by...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} invites you for\na Voice Chat!",
+        "{VAR 0100 0000} appears to be busy...",
+        "You can't connect with\n{VAR 0100 0000}.",
+        {
+            "text": "Communicating with {VAR 0100 0000}...",
+            "flags": 201
+        },
+        "{VAR 0100 0000} failed to respond...",
+        "{VAR 0100 0000} ended the Voice Chat.",
+        "Would you like to end\nthis Voice Chat?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Battle",
+            "flags": 120
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trade",
+            "flags": 120
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Voice Chat",
+            "flags": 120
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Cancel",
+            "flags": 120
+        },
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 60
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "BATTLE RECORD",
+            "flags": 106
+        },
+        {
+            "text": "W: {VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 63
+        },
+        {
+            "text": "L: {VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 63
+        },
+        {
+            "text": "POKÉMON TRADES",
+            "flags": 104
+        },
+        {
+            "text": "{VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 25
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "DATE LAST PLAYED",
+            "flags": 143
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 87
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} wants to join you!{VAR BE02 003C}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Standing by...",
+            "flags": 122
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} is in a battle.",
+        "{VAR 0100 0000} is trading.",
+        "{VAR 0100 0000} is in a Voice Chat.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Reconnect to Nintendo WFC?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Voice Chat was turned on.",
+        "Voice Chat was turned off.",
+        {
+            "text": "???",
+            "flags": 122
+        },
+        {
+            "text": "Single Battle",
+            "flags": 120
+        },
+        {
+            "text": "Double Battle",
+            "flags": 120
+        },
+        {
+            "text": "Triple Battle",
+            "flags": 120
+        },
+        {
+            "text": "Rotation Battle",
+            "flags": 120
+        },
+        {
+            "text": "No Restrictions",
+            "flags": 120
+        },
+        {
+            "text": "Flat rule",
+            "flags": 120
+        },
+        {
+            "text": "Wonder Launcher On",
+            "flags": 144
+        },
+        {
+            "text": "Wonder Launcher Off",
+            "flags": 144
+        },
+        "Your friend ended\nthe communication battle.",
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 201
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Suspend your request?",
+        {
+            "text": "Voice Chat will be turned on\nwhile you are playing with this friend.{VAR BE01}\nDo you want to play with this friend?",
+            "flags": 205
+        },
+        {
+            "text": "Voice Chat will be turned off\nwhile you are playing with this friend.{VAR BE01}\nDo you want to play with this friend?",
+            "flags": 205
+        },
+        "The request has been suspended.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Awaiting your friend's decision.\nPlease wait.",
+            "flags": 201
+        },
+        "みちぼしゅうちゅう",
+        "じょうたいかいじょ",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Xtransceiver",
+            "flags": 120
+        },
+        "{VAR 0100 0000} seems\nto be busy.",
+        "{VAR 0100 0000} wants to\nhave a Voice Chat.",
+        "{VAR 0100 0000} is using\nthe Xtransceiver.",
+        "{VAR 0100 0000} is looking for someone\nto chat with on the Xtransceiver.",
+        {
+            "text": "Connect",
+            "flags": 104
+        },
+        {
+            "text": "{VAR 0100 0000} has\ncontacted you...",
+            "flags": 201
+        },
+        "Do you want to play\nwith {VAR 0100 0000}?",
+        "What would you like to\ndo with {VAR 0100 0000}?",
+        "Would you like to talk with\n{VAR 0100 0000} using Voice Chat?",
+        "Would you like to talk with\n{VAR 0100 0000} using the Xtransceiver?",
+        "Trade with {VAR 0100 0000}?",
+        {
+            "text": "Confirm",
+            "flags": 224
+        },
+        {
+            "text": "Rules",
+            "flags": 224
+        },
+        {
+            "text": "In party",
+            "flags": 128
+        },
+        {
+            "text": "Battle Box",
+            "flags": 128
+        },
+        "You do not meet the conditions,\nso you cannot battle.",
+        "Will you have a Single Battle\nwith no restrictions?",
+        "Will you have a Double Battle\nwith no restrictions?",
+        "Will you have a Triple Battle\nwith no restrictions?",
+        "Will you have a Rotation Battle\nwith no restrictions?",
+        "Will you have a Single Battle\nwith flat rules?",
+        "Will you have a Double Battle\nwith flat rules?",
+        "Will you have a Triple Battle\nwith flat rules?",
+        "Will you have a Rotation Battle\nwith flat rules?",
+        "Please select whether to use your\nparty Pokémon or your Battle Box.",
+        "You declined the offer.",
+        "Your friend is apparently\nunable to participate.",
+        {
+            "text": "L{VAR 0202 0000}",
+            "flags": 38
+        },
+        {
+            "text": "{VAR FF00 0002}⑭{VAR FF00 0000}",
+            "flags": 10
+        },
+        {
+            "text": "{VAR FF00 0001}⑮{VAR FF00 0000}",
+            "flags": 10
+        },
+        "Would you like to play with\n{VAR 0100 0000} again?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You need at least two Pokémon\nif you want to trade!",
+        {
+            "text": "Talking",
+            "flags": 122
+        },
+        "Press the B Button\nto end Voice Chat.",
+        "You ended the conversation.",
+        "Your friend is busy.\nEnding communication...",
+        {
+            "text": "Awaiting {VAR 0100 0000}'s response...",
+            "flags": 201
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Single Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Double Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Triple Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Rotation Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Battle Rule{VAR BD05 0078}: {VAR FF00 0002}No Restrictions{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Battle Rule{VAR BD05 0078}: {VAR FF00 0002}Flat rules{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Wonder Launcher{VAR BD05 0078}: {VAR FF00 0002}On{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "Wonder Launcher{VAR BD05 0078}: {VAR FF00 0002}Off{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It looks like you can't talk now.",
+        {
+            "text": "Single",
+            "flags": 122
+        },
+        {
+            "text": "Double",
+            "flags": 122
+        },
+        {
+            "text": "Triple",
+            "flags": 122
+        },
+        {
+            "text": "Rotation",
+            "flags": 122
+        },
+        {
+            "text": "Please choose the Pokémon that\nwill participate.",
+            "flags": 201
+        },
+        {
+            "text": "Please select three Pokémon that\nwill participate.",
+            "flags": 201
+        },
+        {
+            "text": "Please select four Pokémon that\nwill participate.",
+            "flags": 201
+        },
+        {
+            "text": "Please select six Pokémon that\nwill participate.",
+            "flags": 201
+        },
+        {
+            "text": "This uses the camera function\nto send image data to your friends.{VAR BE00}\nIs this OK?",
+            "flags": 205
+        }
+    ],
+    "pad": "5c5c"
+}

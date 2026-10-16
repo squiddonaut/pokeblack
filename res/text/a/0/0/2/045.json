@@ -1,0 +1,265 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Communication will be ended.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0100 0000} entered {VAR 0100 0001}'s\nEntralink.",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000} returned\nto the Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "Connected to {VAR 0100 0000}'s world!",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000} left\nfor the home Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "The mission will begin soon. Please\ntap JOIN if you want to participate.",
+            "flags": 240
+        },
+        {
+            "text": "The mission will begin soon...\nPlease wait a moment.",
+            "flags": 240
+        },
+        {
+            "text": "Seems busy with a mission...",
+            "flags": 240
+        },
+        {
+            "text": "The mission is complete.",
+            "flags": 240
+        },
+        {
+            "text": "The mission failed...",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000} received Pass Power\nfrom {VAR 0100 0001}'s Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000} received Pass Power\nfrom the Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "This is where {VAR 0100 0000} is.",
+            "flags": 240
+        },
+        {
+            "text": "Connecting to {VAR 0100 0000}'s world...\nPlease wait a moment.",
+            "flags": 240
+        },
+        {
+            "text": "Connecting to {VAR 0100 0000}'s and\n{VAR 0100 0001}'s world... Please wait a moment.",
+            "flags": 240
+        },
+        {
+            "text": "↑: {VAR 0100 0000} is this way!",
+            "flags": 240
+        },
+        {
+            "text": "↓: {VAR 0100 0000} is this way!",
+            "flags": 240
+        },
+        {
+            "text": "→: {VAR 0100 0000} is this way!",
+            "flags": 240
+        },
+        {
+            "text": "←: {VAR 0100 0000} is this way!",
+            "flags": 240
+        },
+        {
+            "text": "?: {VAR 0100 0000}'s presence disappeared.\n   Must be hiding somewhere around here.",
+            "flags": 240
+        },
+        {
+            "text": "You've never been here before.",
+            "flags": 240
+        },
+        {
+            "text": "Someone is nearby,\nvisiting your world.",
+            "flags": 240
+        },
+        {
+            "text": "Someone is visiting\nyour world.",
+            "flags": 240
+        },
+        {
+            "text": "Connecting... Searching for someone\nnear your Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "Someone is visiting\nyour world.",
+            "flags": 240
+        },
+        {
+            "text": "Another person's world\nis about to disappear.",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000} is battling here.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where the adventurer is\nto warp to that place.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where the adventurer is\nto warp to that place.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where the adventurer is\nto warp to that place.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where the adventurer is\nto warp to that place.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where you want to hide the item\nto warp to that place.",
+            "flags": 240
+        },
+        {
+            "text": "Tap where the adventurer is\nto warp to that place.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Tap it to go to the Entralink.",
+            "flags": 240
+        },
+        {
+            "text": "OWN WORLD",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0100 0000}'S WORLD",
+            "flags": 240
+        },
+        {
+            "text": "JOIN",
+            "flags": 41
+        },
+        {
+            "text": "BACK",
+            "flags": 41
+        },
+        "",
+        "",
+        {
+            "text": "Checked your Entree.",
+            "flags": 240
+        },
+        {
+            "text": "Checked {VAR 0100 0000}'s\nEntree.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "You are back in your own world.\nYou look normal!",
+            "flags": 240
+        },
+        {
+            "text": "You are in the middle of a mission.\nCannot go to another Entralink!",
+            "flags": 240
+        },
+        {
+            "text": "You are in the middle of a mission.\nCannot go to another Entralink!",
+            "flags": 240
+        },
+        {
+            "text": "You are in {VAR 0100 0000}'s world.\nYou look different!",
+            "flags": 240
+        },
+        {
+            "text": "...Not connected to any other\nworlds yet.",
+            "flags": 232
+        },
+        {
+            "text": "Please wait until\nsomeone else's world is found.",
+            "flags": 232
+        },
+        {
+            "text": "You can go back to your\nown world from here.{VAR BE01}\nDo you want to go back?",
+            "flags": 232
+        },
+        "",
+        {
+            "text": "The other world has vanished,\nand you are back in your own Entralink.",
+            "flags": 232
+        },
+        {
+            "text": "Mission failed!\nYour mission partner was faster...{VAR BE01}\nThe other world has vanished,\nand you are back in your own Entralink.",
+            "flags": 232
+        },
+        {
+            "text": "Mission failed!\nThe time ran out...{VAR BE01}\nThe other world has vanished,\nand you are back in your own Entralink.",
+            "flags": 232
+        },
+        {
+            "text": "You've been sent back to\nyour own Entralink abruptly!{VAR BE01}\nThe connection with the other\nEntralink was lost.",
+            "flags": 232
+        },
+        {
+            "text": "You've been sent back to\nyour own Entralink abruptly!{VAR BE01}\nThe connection with the other\nEntralink was lost.",
+            "flags": 232
+        },
+        "",
+        {
+            "text": "Mission failed!\nThe other person refused the offer...{VAR BE01}\nThe other world has vanished,\nand you are back in your own Entralink.",
+            "flags": 232
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "The mission to save yourself\nhas started. You will return{VAR BE00}\nto your own world.{VAR BE01}",
+            "flags": 232
+        }
+    ],
+    "pad": "a0a0"
+}

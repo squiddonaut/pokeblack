@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "This way leads to Route 16\nand Marvelous Bridge!",
+        "A camper has been parked in\nLostlorn Forest on Route 16.{VAR BE01}\nI wonder how long it's been there.",
+        "Zoroark bewitched everyone and was\nhiding itself and its habitat.",
+        "Let's train Pokémon vigorously!{VAR BE01}\nYou, who like training, and you, who\ndon't like training!{VAR BE01}\nLet's train our Pokémon by giving\nthem these!{VAR BE01}",
+        "A Pokémon's Speed decreases when it\nholds a Macho Brace, but it{VAR BE00}\ngrows stronger!{VAR BE01}\nIt's a tool that is a bit difficult to use,\nbut that's the way it goes!"
+    ],
+    "pad": "f2f2"
+}

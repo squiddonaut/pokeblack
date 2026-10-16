@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 25,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 3,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_LEPPA_BERRY",
-        "rare": "ITEM_MOON_STONE"
+        "rare": "ITEM_MOON_STONE",
+        "rare_2": "ITEM_COMET_SHARD"
     },
-    "unk_10": 583,
     "gender_ratio": "GENDER_RATIO_FEMALE_75",
     "hatch_cycles": 10,
     "base_friendship": 140,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_MAGIC_GUARD" ],
-    "unk_1A": 109,
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_UNAWARE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 213,
+    "base_exp_reward": 213,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SING" ],
@@ -94,11 +97,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 400
     },
-    "offspring": "SPECIES_CLEFFA"
+    "offspring": "SPECIES_CLEFFA",
+    "text": {
+        "70": "Clefable",
+        "235": "It is very wary and rarely shows\nitself to people. Its ears can hear\na pin drop over half a mile away.",
+        "236": "It is very wary and rarely shows\nitself to people. Its ears can hear\na pin drop over half a mile away.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Fairy Pokémon",
+        "268": "88.2 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Clefable",
+        "284": "CLEFABLE"
+    }
 }

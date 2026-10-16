@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_PSYCHIC" ],
     "catch_rate": 70,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_KINGS_ROCK"
+        "rare": "ITEM_KINGS_ROCK",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_WATER_1" ],
-    "abilities": [ "ABILITY_OBLIVIOUS", "ABILITY_OWN_TEMPO" ],
-    "unk_1A": 144,
+    "abilities": [
+        "ABILITY_OBLIVIOUS",
+        "ABILITY_OWN_TEMPO",
+        "ABILITY_REGENERATOR"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 172,
+    "base_exp_reward": 172,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POWER_GEM" ],
@@ -110,11 +113,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 20,
         "weight": 795
     },
-    "offspring": "SPECIES_SLOWPOKE"
+    "offspring": "SPECIES_SLOWPOKE",
+    "text": {
+        "70": "Slowking",
+        "235": "Being bitten by Shellder gave it\nintelligence comparable to that of\naward-winning scientists.",
+        "236": "Being bitten by Shellder gave it\nintelligence comparable to that of\naward-winning scientists.",
+        "244": "",
+        "245": "6'07\"",
+        "260": "Royal Pokémon",
+        "268": "175.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Slowking",
+        "284": "SLOWKING"
+    }
 }

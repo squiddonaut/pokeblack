@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "My name is Mr. Lock.{VAR BE01}\nI'm a magical clown who can\nopen anything.{VAR BE01}\nYour name is {VAR 0100 0000}.\nI'll see you again, I'm sure.",
+        "You have a Lock Capsule in your Bag...{VAR BE01}\nI am the only one in the whole world\nwho can open the capsule.{VAR BE01}\nI can open it in the blink of an eye!{VAR BE01}",
+        "Look! As you can see, I opened it swiftly\nand with precision!{VAR BE01}\nInside the capsule...\nWhat your heart most desires...{VAR BE00}\na Technical Machine!{VAR BE01}",
+        "Hm. There's a letter with the\nTechnical Machine...{VAR BE01}",
+        "“I entrust the Technical Machine in the\nLock Capsule to a trustworthy Trainer in{VAR BE00}\nthe Unova region.{VAR BE01}\nDon't allow it to fall into the hands of\nvillains like Team Rocket...\"{VAR BE01}",
+        "More is written here...{VAR BE01}\n“TM95 is Snarl.\nIt's a Dark-type Special Attack, and{VAR BE00}\nit lowers the opponents' Sp. Atk stat.\"{VAR BE01}\nSo that's what it is...a move that tests\nthe sense of the user!",
+        "Even though I opened the Lock Capsule,\nI can't unlock a closed heart.{VAR BE01}\nI am a sad clown, indeed...",
+        "I secretly invented a special machine.{VAR BE01}\nOnly people who know the secret\npassword can use it.{VAR BE01}",
+        "There's more!{VAR BE01}",
+        "This is the password that will enable you\nto use the Relocator I invented!{VAR BE01}\nIt's a superb machine that will swiftly\nfetch a special Pokémon or item{VAR BE00}\nby connecting to a special network.",
+        "I added a button on the main menu.{VAR BE01}\nPlease save the game, then go back to\nthe title screen!",
+        "Unfortunately, it seems that you don't\nremember the password...",
+        "Did you find my Relocator useful?"
+    ]
+}

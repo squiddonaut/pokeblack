@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "Trainer who came to Opelucid City! Hello!{VAR BE01}\nTrainer who is going to Route 11!\nPlease come again!",
+        "Trainer who came to Opelucid City! Hello!{VAR BE01}\nTrainer who is going to Route 11!\nPlease come again!",
+        "There is something ahead, and\nthe road is closed now.",
+        "There is something ahead, and\nthe road is closed now.{VAR BE01}"
+    ],
+    "pad": "1818"
+}

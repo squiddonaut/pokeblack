@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
     "catch_rate": 30,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_HUSTLE", "ABILITY_SERENE_GRACE" ],
-    "unk_1A": 105,
+    "abilities": [
+        "ABILITY_HUSTLE",
+        "ABILITY_SERENE_GRACE",
+        "ABILITY_SUPER_LUCK"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": true,
-    "unk_22": 245,
+    "base_exp_reward": 245,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SKY_ATTACK" ],
@@ -88,11 +91,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 15,
         "weight": 380
     },
-    "offspring": "SPECIES_TOGEPI"
+    "offspring": "SPECIES_TOGEPI",
+    "text": {
+        "70": "Togekiss",
+        "235": "It shares many blessings with\npeople who respect one another's\nrights and avoid needless strife.",
+        "236": "It shares many blessings with\npeople who respect one another's\nrights and avoid needless strife.",
+        "244": "",
+        "245": "4'11\"",
+        "260": "Jubilee Pokémon",
+        "268": "83.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Togekiss",
+        "284": "TOGEKISS"
+    }
 }

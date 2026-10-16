@@ -1,0 +1,345 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "Choose a Pokémon.",
+            "flags": 176
+        },
+        {
+            "text": "Use on which Pokémon?",
+            "flags": 176
+        },
+        "",
+        {
+            "text": "Battle using which Pokémon?",
+            "flags": 176
+        },
+        {
+            "text": "Switch out which Pokémon?",
+            "flags": 176
+        },
+        {
+            "text": "L{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "/",
+            "flags": 8
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0106 0000}",
+            "flags": 88
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 96
+        },
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "PP",
+            "flags": 16
+        },
+        {
+            "text": "SHIFT",
+            "flags": 80
+        },
+        {
+            "text": "⑭",
+            "flags": 7
+        },
+        {
+            "text": "⑮",
+            "flags": 7
+        },
+        {
+            "text": "SUMMARY",
+            "flags": 80
+        },
+        {
+            "text": "CHECK MOVES",
+            "flags": 80
+        },
+        {
+            "text": "CANNOT BATTLE",
+            "flags": 80
+        },
+        {
+            "text": "IN BATTLE",
+            "flags": 80
+        },
+        {
+            "text": "STAND BY",
+            "flags": 80
+        },
+        {
+            "text": "PARTNER'S",
+            "flags": 80
+        },
+        {
+            "text": "No item held",
+            "flags": 96
+        },
+        "",
+        "",
+        {
+            "text": "Lv.",
+            "flags": 32
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "NEXT LV",
+            "flags": 96
+        },
+        {
+            "text": "{VAR 0205 0000}",
+            "flags": 48
+        },
+        "",
+        {
+            "text": "HP",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 25
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 25
+        },
+        {
+            "text": "/",
+            "flags": 7
+        },
+        {
+            "text": "ATTACK",
+            "flags": 48
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "DEFENSE",
+            "flags": 48
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "SP. ATK",
+            "flags": 48
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "SP. DEF",
+            "flags": 48
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "SPEED",
+            "flags": 48
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        "",
+        {
+            "text": "PP",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 16
+        },
+        {
+            "text": "/",
+            "flags": 7
+        },
+        "",
+        {
+            "text": "POWER",
+            "flags": 64
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "--",
+            "flags": 24
+        },
+        {
+            "text": "ACCURACY",
+            "flags": 64
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "CATEGORY",
+            "flags": 72
+        },
+        {
+            "text": "PHYSICAL",
+            "flags": 64
+        },
+        {
+            "text": "STATUS",
+            "flags": 64
+        },
+        {
+            "text": "SPECIAL",
+            "flags": 64
+        },
+        "",
+        {
+            "text": "FORGET",
+            "flags": 96
+        },
+        {
+            "text": "CANCEL",
+            "flags": 96
+        },
+        {
+            "text": "HM moves can't be\nforgotten now.",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 106
+        },
+        "",
+        "",
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 106
+        },
+        "",
+        "",
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 106
+        },
+        "",
+        "",
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 106
+        },
+        "",
+        "",
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 88
+        },
+        "",
+        {
+            "text": "",
+            "flags": 7
+        },
+        {
+            "text": "{VAR 0102 0000} is\nalready in battle!",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0102 0000} has no energy\nleft to battle!",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0102 0000} can't be switched\nout!",
+            "flags": 216
+        },
+        {
+            "text": "An Egg can't battle!",
+            "flags": 216
+        },
+        {
+            "text": "You cannot decide for\nyour partner!",
+            "flags": 216
+        },
+        {
+            "text": "It won't have any effect.",
+            "flags": 216
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0102 0000} has already been\nselected.",
+            "flags": 216
+        },
+        {
+            "text": "Restore which move?",
+            "flags": 176
+        },
+        {
+            "text": "{VAR 0107 0001}'s effect prevents\nthe item's use on {VAR 0102 0000}!",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0102 0000} can't be switched\nout!",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0102 0000} is already switched\nout.",
+            "flags": 216
+        }
+    ],
+    "pad": "c2c2"
+}

@@ -1,0 +1,45 @@
+{
+    "flags": 216,
+    "entries": [
+        "{VAR 0100 0000} has joined.",
+        "Would you like to stop drawing?",
+        "{VAR 0100 0000} has left.",
+        "{VAR 0100 0000}, the leader, has left.\nThe group will be disbanded.{VAR BE02 003C}",
+        "If the leader drops out, the group will\nbe disbanded. Is that OK?",
+        "There are no members.\nThe group will be disbanded.{VAR BE02 003C}",
+        "The drawing session was ended.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 80
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Joined a drawing session!",
+        {
+            "text": "YES",
+            "flags": 62
+        },
+        {
+            "text": "NO",
+            "flags": 62
+        }
+    ]
+}

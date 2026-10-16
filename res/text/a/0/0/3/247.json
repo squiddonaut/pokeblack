@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh, it's just a kid...{VAR BE01}",
+        "You... It couldn't be...{VAR BE01}\nThe fact that you are here means you\ncame to learn about the secret{VAR BE00}\nof Genesect!{VAR BE01}",
+        "We, Team Plasma, revived Genesect from\na Fossil.{VAR BE01}\nThen we enhanced the Pokémon with the\npower of science!{VAR BE01}",
+        "It is the strongest Pokémon in history!!{VAR BE01}",
+        "But, our lord N was not interested in\nthis Genesect that was modified by the{VAR BE00}\npower of science!{VAR BE01}",
+        "“Science damages the natural beauty\nof Pokémon! They're perfect beings!\"{VAR BE01}",
+        "That's what he said...{VAR BE01}\nSo our research was halted, and this\nfacility was closed...{VAR BE01}",
+        "However!!\nThe Genesect research is all mine!{VAR BE01}\nSo if you want to know Genesect's\nsecret, you'll have to beat me in battle!{VAR BE01}",
+        "Battle the Scientist?",
+        "I've lost everything...{VAR BE01}\nI forgot my duty as a Scientist is\nto make the world happy.{VAR BE01}\nSo, this must be what I get for trying to\nmake a Pokémon into a tool for fighting...{VAR BE01}",
+        "I'm going to wash my hands of this\nGenesect matter...{VAR BE01}\nI don't need this anymore...\nI'll give it to you.{VAR BE01}",
+        "There was another one in my\nother pocket...{VAR BE01}",
+        "The item I just gave you was made\nfor Genesect.{VAR BE01}\nWhen it holds an item like this, it\nchanges the type of the move called{VAR BE00}\nTechno Blast, so it can always have{VAR BE00}\nan advantage.{VAR BE01}",
+        "There sure are some very cowardly\nTrainers, aren't there!",
+        "So you want to battle me?!",
+        "I've given you all of the Drives.\nUse them how you wish...",
+        "There is a memo stuck to the\nside of the monitor.{VAR BE01}\nRead it?",
+        "My lord N apparently rejected\nmy research...{VAR BE01}\nBut my research is necessary for\nTeam Plasma to reach its goal...{VAR BE00}\nThe strongest Pokémon...{VAR BE01}\nThe rest of the memo is torn and\nimpossible to read."
+    ]
+}

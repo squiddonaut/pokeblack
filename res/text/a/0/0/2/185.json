@@ -1,0 +1,244 @@
+{
+    "flags": 200,
+    "entries": [
+        {
+            "text": "Fly to where?",
+            "flags": 152
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "A rural town whose sea breezes give\nthe sense of something coming.",
+        {
+            "text": "Juniper Pokémon Lab",
+            "flags": 112
+        },
+        "This town offers great views\ndue to its many hills.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "Entry stairs built in memory of a\nformer home in a snowier climate.",
+        {
+            "text": "Striaton City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Trainers' School",
+            "flags": 112
+        },
+        {
+            "text": "Fennel's Lab",
+            "flags": 112
+        },
+        "A city established in restored\nstorehouses built 100 years ago.",
+        {
+            "text": "Nacrene City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Nacrene Museum",
+            "flags": 112
+        },
+        {
+            "text": "Café Warehouse",
+            "flags": 112
+        },
+        "A big city with skyscrapers\npiercing the clouds.",
+        {
+            "text": "Castelia City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Passerby Analytics",
+            "flags": 112
+        },
+        {
+            "text": "Name-Rating Services",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Massage",
+            "flags": 112
+        },
+        {
+            "text": "Royal Unova",
+            "flags": 112
+        },
+        "A bustling city of entertainment,\nwith many theme parks.",
+        {
+            "text": "Nimbasa City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Musical Theater",
+            "flags": 112
+        },
+        {
+            "text": "Battle Subway",
+            "flags": 112
+        },
+        {
+            "text": "Big Stadium",
+            "flags": 112
+        },
+        {
+            "text": "Small Court",
+            "flags": 112
+        },
+        "A port town distributing many goods,\nand a gateway to the Unova region.",
+        {
+            "text": "Driftveil City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Driftveil Market",
+            "flags": 112
+        },
+        {
+            "text": "Move Tutor's House",
+            "flags": 112
+        },
+        "Vegetables are grown by the runway\nand transported by cargo plane.",
+        {
+            "text": "Mistralton City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Move Family's House",
+            "flags": 112
+        },
+        {
+            "text": "Cargo Service",
+            "flags": 112
+        },
+        "In winter, the city is covered with\nsnow as far as the eye can see.",
+        {
+            "text": "Icirrus City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Fan Club",
+            "flags": 112
+        },
+        "A city that respects history\nand values old things.",
+        "A convenient city of rapid change,\nshowing no traces of the past.",
+        {
+            "text": "Opelucid City Gym",
+            "flags": 112
+        },
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "text": "Battle House",
+            "flags": 112
+        },
+        "Only Trainers who win at all the\nPokémon Gyms may challenge it.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "A town where all honor old customs,\nliving as methodically as clockwork.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "A summer retreat with a beach full of\npeople who enjoy summer vacations.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "A city with a rail yard where\ntrains park for an overhaul.",
+        "A modern city of ongoing development\nthat draws people to it.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "A place of nature's bounty, it\nattracts people who long for nature.",
+        {
+            "text": "Pokémon Center",
+            "flags": 112
+        },
+        "A skyscraper where people from\nall over the world can communicate.",
+        "A facility to study Pokémon\nfrom faraway regions.",
+        "A plant site used as a playground\nfor children and Pokémon.",
+        "You can go through hollows\nof fallen trees, too.",
+        "It is a popular place for tourists,\nbut too harsh to be a resort.",
+        "Ancient ruins with a glorious history,\nburied in the sand as time went by.",
+        "A lot of collected products are\nstored at a constant temperature.",
+        "A cave where electrically charged\nstones float.",
+        "It has a reputation as a mine\nlittered with valuable ore.",
+        "The oldest tower in the Unova\nregion. No one knows its history.",
+        "These steep slopes are the last\nobstacle before the Pokémon League!",
+        "Legend says if you approach this\nbig chasm, disasters surely follow.",
+        "An island symbol of hope for a world\nwhere humans and Pokémon live free.",
+        "Team Plasma's secret lab is located\non a quiet little island.",
+        "This underwater pool grew from\nrainwater soaking into the ground.",
+        "A forgotten cave sealed with\nhints of a legend's presence.",
+        "A tall tower with a large bell whose\ntones are said to purify the spirit.",
+        "They say water collecting in hollows\non the flat land created the moor.",
+        "People once lived in this village, and\nit still feels the same as it did then.",
+        "A world-famous sea of shining waves.",
+        "A mysterious forest where people get\nlost despite the simple landscape.",
+        "A small road by the shore, where you\ncan enjoy the seascape in peace.",
+        "A pastoral road where novice\nTrainers can challenge one another.",
+        "A long and winding road with lots\nof ponds and tall grass.",
+        "A sandstorm delayed the road\nconstruction to connect two cities.",
+        "A busy road where\nperformers gather.",
+        "A road with many trees\nfor nature lovers.",
+        "Raised walkways help you\navoid the tall grass.",
+        "It rains a lot here, and the marshy\nswamp holds many Pokémon.",
+        "This paved road attracts\nthose who love bikes.",
+        {
+            "text": "Shopping Mall Nine",
+            "flags": 112
+        },
+        "A road leading to the Badge Check\nGates, chock full of showoffs.",
+        "Limpid streams carved beautiful\nscenery on this road.",
+        "A place of fun, where it's enjoyable\njust walking over its gentle hills.",
+        "This seaside route is famous for\nsand bars that cross the ocean.",
+        "A road covered with mist from\nthe waterfalls.",
+        "A road whose sharp cliffs may scare\nsome people off.",
+        "Many who visit Nimbasa City\ndrop by to take a break.",
+        "The fast current here makes it\ndifficult to surf.",
+        "Some researchers believe it was once\ncontiguous with Desert Resort.",
+        "The biggest, longest bridge in Unova\nhas four supporting towers.",
+        "A drawbridge raises and lowers,\ndepending on the ship schedules.",
+        "A sturdy steel bridge that won't\nbudge an inch when trains cross it.",
+        "An old bridge that settlers of the\nUnova region built and now live on.",
+        "The most advanced bridge in Unova,\ndesigned to soften any impact.",
+        "In the middle of the Unova region,\nit is a place of mysterious power.",
+        "Trainers seeking further strength\nenter the cavern despite the risks."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh! A Trainer!{VAR BE01}\nLet me introduce myself. I am a member\nof the Hip Waders. As its name suggests,{VAR BE00}\nit's a fishing club!{VAR BE01}\nWhy don't you join up and enjoy\nsome fishing?",
+        "Hey, Trainer!{VAR BE01}\nWhy don't you join the Hip Waders\nand do some fishing?",
+        "That's the way the tide turns, huh?{VAR BE01}\nBut, I won't give up. If you change your\nmind, come see me again!",
+        "Awesome! Now you are the second member\nof the Hip Waders!{VAR BE01}",
+        "Here we go! I'll announce the\nOfficial Hip Waders Catch of the Day!{VAR BE01}\nThe Pokémon we're fishing for\ntoday is {VAR 0101 0000}!{VAR BE00}\nIf you catch one, please show it to me!",
+        "The Official Hip Waders Catch of the Day\nis {VAR 0101 0000}!{VAR BE00}\nHave you caught one already?",
+        "That's great! Show it to me!{VAR BE01}",
+        "Oh! This is a great {VAR 0101 0000}!{VAR BE01}\nThat's why you're the second member of\nthe Hip Waders!{VAR BE01}\nCool! Take these with you!{VAR BE01}",
+        "Oh! This is a great {VAR 0101 0000}!{VAR BE01}\n...But when it comes to the\nOfficial Hip Waders Catch of the Day,{VAR BE00}\na Pokémon you caught before today{VAR BE00}\ndoesn't count. Sorry!",
+        "Oh! This is a great {VAR 0101 0000}!{VAR BE01}\nBut it's not the Official Hip Waders\nCatch of the Day. Sorry!",
+        "The Official Hip Waders Catch of the Day\nis {VAR 0101 0000}!{VAR BE00}\nI'm counting on you, Member No. 2!",
+        "The appeal of fishing...{VAR BE01}\nThat's something you have to discover\nthrough experience, rather than{VAR BE00}\nlistening to me explaining about it!{VAR BE01}\nRight, Member No. 2?",
+        "Yo! Member No. 2!\nTimes have changed...{VAR BE01}\nThat's right! Because today is a new day,\nwe've got a new Official Hip Waders{VAR BE00}\nCatch of the Day! Isn't it exciting?{VAR BE01}"
+    ],
+    "pad": "8e8e"
+}

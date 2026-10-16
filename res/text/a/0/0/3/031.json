@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to Café Warehouse,\na stylish café in a rural area!",
+        "Welcome to Café Warehouse,\na stylish café in a rural area!{VAR BE01}\nOur café has a special on Wednesdays!\nHere, have a Soda Pop!{VAR BE01}\nEnjoy the taste of our specialty!{VAR BE01}",
+        "Enjoy the taste of our specialty!",
+        "This café has a special on Wednesdays!",
+        "As far as I'm concerned, it doesn't\nmatter that the café is in a rural area{VAR BE00}\nthat nobody knows.",
+        "Do you know about the Battle Box?{VAR BE01}\nI heard it is a useful function you can\nuse at the Pokémon Center.",
+        "The Striaton City Gym Leaders are a\ngreat triplet combo!{VAR BE01}\nThe Grass-type Pokémon user, Cilan,\nchooses great tea leaves.{VAR BE01}\nThe Water-type Pokémon user, Cress,\nprepares the best water.{VAR BE01}\nAnd the Fire-type Pokémon user, Chili,\npours hot water at the right heat.{VAR BE01}\nNo wonder their tea is the best!",
+        "When you battle with a friend using\nwireless communications, you can use{VAR BE00}\nitems using a Wonder Launcher!",
+        "Yes, I know!{VAR BE01}\nIf you have a Wonder Launcher, energy\nwill be charged, and you can use{VAR BE00}\nvarious items."
+    ]
+}

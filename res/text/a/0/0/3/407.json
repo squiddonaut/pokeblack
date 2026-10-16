@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "If you want to enjoy the slow life, visit\nWhite Forest.",
+        "If you want to enjoy vibrant city life,\nvisit Black City.",
+        "White Forest is full of nature!\nPeople and Pokémon live together.",
+        "People in this city are really something!{VAR BE01}\nBe careful, 'cause they'll challenge you\nif you talk to them!"
+    ],
+    "pad": "8c8c"
+}

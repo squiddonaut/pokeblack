@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "There is a tennis match\nin Small Court now!",
+        "Tennis players are practicing \nin Small Court now!{VAR BE01}\nPeople can watch them practicing!",
+        "There is a basketball game\nin Small Court now!",
+        "Basketball players are practicing \nin Small Court now!{VAR BE01}\nPeople can watch them practicing!",
+        "We love sports.\nWatching games is great, but we enjoy{VAR BE00}\nwatching practices, too!",
+        "New styles of basketball and tennis\ncreated by people and Pokémon...{VAR BE00}\nThese may be advanced forms of sports.",
+        "If you speak to athletes during a\npractice, they may challenge you to a{VAR BE00}\nPokémon battle!",
+        "First-rank Smashers are waiting for you\nin the court with their Pokémon!",
+        "First-rank Hoopsters are waiting for you\nin the court with their Pokémon!",
+        "I am sorry.{VAR BE01}\nBut you cannot enter the court\nbecause a game is in progress.",
+        "I am sorry.{VAR BE01}\nBut you cannot enter the court\nbecause a game is in progress.",
+        "I am sorry.{VAR BE01}\nBut you cannot enter the court\nbecause a game is in progress."
+    ],
+    "pad": "1414"
+}

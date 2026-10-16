@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GRASS", "TYPE_POISON" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 1,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_TINYMUSHROOM",
-        "rare": "ITEM_BIG_MUSHROOM"
+        "rare": "ITEM_BIG_MUSHROOM",
+        "rare_2": "ITEM_BALM_MUSHROOM"
     },
-    "unk_10": 580,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_GRASS", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_EFFECT_SPORE", "ABILITY_NONE" ],
-    "unk_1A": 144,
+    "abilities": [
+        "ABILITY_EFFECT_SPORE",
+        "ABILITY_NONE",
+        "ABILITY_REGENERATOR"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 59,
+    "base_exp_reward": 59,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_ABSORB" ],
@@ -88,7 +91,7 @@
             "MOVE_BODY_SLAM"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -100,5 +103,16 @@
         "height": 2,
         "weight": 10
     },
-    "offspring": "SPECIES_FOONGUS"
+    "offspring": "SPECIES_FOONGUS",
+    "text": {
+        "70": "Foongus",
+        "235": "For some reason, this Pokémon resembles\na Poké Ball. They release poison spores\nto repel those who try to catch them.",
+        "236": "It lures people in with its Poké Ball\npattern, then releases poison spores.\nWhy it resembles a Poké Ball is unknown.",
+        "244": "",
+        "245": "0'08\"",
+        "260": "Mushroom Pokémon",
+        "268": "2.2 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Foongus",
+        "284": "FOONGUS"
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am coaching Iris.{VAR BE01}\nBut, honestly, she's been stronger than\nme ever since she came here!",
+        "The move Draco Meteor that Drayden\nteaches us is the strongest{VAR BE00}\nDragon-type move.{VAR BE01}\nHowever, it will sharply reduce\nSpecial Attack after use.",
+        "The move Draco Meteor that Iris teaches\nus is the strongest Dragon-type move.{VAR BE01}\nHowever, it will sharply reduce\nSpecial Attack after use.",
+        "Concerned about your Pokémon's weight?{VAR BE01}\nYou don't need to put it on a diet!\nJust let it hold this.{VAR BE01}",
+        "The weight of a Pokémon holding a\nFloat Stone will be halved!{VAR BE01}\nThat way, you can reduce the damage\ncaused by weight-based moves such as{VAR BE00}\nLow Kick and Grass Knot.",
+        "I have an item that I don't know how to\nuse. Would you give it a try and see if{VAR BE00}\nyou can make it work?",
+        "I know...\nYou'll also have trouble figuring it out.",
+        "You may be able to master it. Here it is!{VAR BE01}",
+        "If a Pokémon holds a Ring Target, it can\nbe hit even by a move that would usually{VAR BE00}\nhave no effect.{VAR BE01}\nFor example, a Normal-type move would\nhit a Ghost-type Pokémon.{VAR BE01}\nMastering this item is a bit tough...\nActually, it's very tough, but think{VAR BE00}\nhow useful it could be!"
+    ],
+    "pad": "ecec"
+}

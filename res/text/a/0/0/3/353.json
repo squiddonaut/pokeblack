@@ -1,0 +1,68 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You only have one Pokémon?\nAnd you call yourself a Trainer?{VAR BE01}\nWell, it's too dangerous for\nyou to go any further!{VAR BE01}",
+        "We're going to combine our strength\nand do our best, so please watch!{VAR BE01}",
+        "Ummm...\nOne plus one is two, right?{VAR BE01}",
+        "Maybe I could have won if I had used\na Potion or something at some point?",
+        "It's hard to win in a Double Battle if\none Pokémon faints.",
+        "Cheren: {VAR 0100 0000}, stop!{VAR BE01}\nWe both have a Trio Badge,\nso let's see which of us is stronger!{VAR BE01}",
+        "Cheren: I see.\nSo that's how you battle.{VAR BE01}",
+        "???: Out of the way!{VAR BE01}",
+        "Cheren: What was that about?{VAR BE01}",
+        "Bianca?\nWhy are you running?{VAR BE01}",
+        "Bianca: Hey!\nWhere were those people headed?{VAR BE01}",
+        "Cheren: That way, but...{VAR BE01}",
+        "Why are you running now?{VAR BE01}",
+        "Bianca: Oh, seriously!\nThey run so fast!{VAR BE01}",
+        "Little Girl: Miss... Oh...\nMy Pokémon?{VAR BE01}",
+        "Bianca: It'll be OK.\nIt'll be OK. Don't cry.{VAR BE01}",
+        "Cheren: Bianca, really, why\nwere you running?{VAR BE01}",
+        "Bianca: You have to hear this!{VAR BE01}\nThose people stole this girl's Pokémon!{VAR BE01}",
+        "Cheren: You should have\nspoken up sooner!{VAR BE01}",
+        "{VAR 0100 0000}, we're going to get\nthat Pokémon back.{VAR BE01}\nBianca! Please stay by the girl's side.{VAR BE01}",
+        "Bianca: Please, {VAR 0100 0000}.{VAR BE01}\nTeam Plasma took that Pokémon.\nGet it back!",
+        "Bianca: Please, {VAR 0100 0000}.{VAR BE01}\nTeam Plasma took that Pokémon.\nGet it back!{VAR BE01}",
+        "Little Girl: Oh, why do they\ntake people's Pokémon?",
+        "Cheren: They ran inside here!{VAR BE01}\n{VAR 0100 0000}, your Pokémon's HP is fine,\nand you're ready to go, right?",
+        "Then let's go.{VAR BE01}",
+        "I could never forgive myself if we were\nto lose to the kinds of thugs who would{VAR BE00}\ntake people's Pokémon!{VAR BE01}\nI'll wait here. Hurry and get ready!",
+        "I could never forgive myself if we were\nto lose to the kinds of thugs who would{VAR BE00}\ntake people's Pokémon!{VAR BE01}\nI'll wait here. Hurry and get ready!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, your Pokémon's HP\nis fine, and you're ready to go, right?",
+        "Bianca: {VAR 0100 0000}, thank you so much!\nThe two of you got her Pokémon back!{VAR BE01}\nI'm lucky to have friends like you two!{VAR BE01}",
+        "Little Girl: Thank you, mister! Please\ntake these as a thank-you present.{VAR BE01}",
+        "Little Girl: Thank you, miss! Please\ntake these as a thank-you present.{VAR BE01}",
+        "Bianca: Ooh! Those are Heal Balls!{VAR BE01}\nThey completely heal the captured\nPokémon on the spot! How sweet of you!{VAR BE01}\nI'm going to see this girl on her way,\nso see you later, {VAR 0100 0000}. Bye-bye!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, stop!{VAR BE01}",
+        "That dark tall grass over there...{VAR BE01}\nEvery now and again, two Pokémon\nwill pop out at the same time.{VAR BE01}",
+        "In other words, you have to be\ncareful in the darker grass.{VAR BE01}\nI'm heading on to Nacrene City.{VAR BE01}",
+        "Heeey, {VAR 0100 0000}!\nCome here!{VAR BE01}",
+        "Heeey, {VAR 0100 0000}!\nCome here!{VAR BE01}",
+        "Pokémon battling is very popular\nat this Day Care.{VAR BE01}\nIf you go in the playground, you'll\nbe pestered into battling.",
+        "You w-want to have a Double Battle?{VAR BE01}\nOur P-Pokémon aren't strong enough yet.{VAR BE01}\nMaybe we'll leave them at the Day Care.",
+        "Our perfectly matched combination\nflusters all the other Trainers!",
+        "Sometimes they let\nus play with Pokémon!",
+        {
+            "text": "Route 3",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nThe Pokémon placed in the upper\nleft of the Pokémon list is important!{VAR BE01}\nThe Pokémon set there is the first\nout when a Pokémon battle starts!",
+            "flags": 207
+        },
+        {
+            "text": "Pokémon Day Care\nWe Take Care of Your Precious Pokémon",
+            "flags": 207
+        },
+        ""
+    ],
+    "pad": "7878"
+}

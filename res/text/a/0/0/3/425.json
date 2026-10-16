@@ -1,0 +1,65 @@
+{
+    "flags": 224,
+    "entries": [
+        "Iris: Guess what!!{VAR BE01}\nI can teach you the strongest\nDragon-type move!{VAR BE01}\nFun, huh? Want me to\nteach your Pokémon this move?",
+        "OK! Well, if you change your mind,\ncome again, OK?",
+        "Let me see...{VAR BE01}\nWell, this Pokémon can learn the move,\nbut you need to have a really strong{VAR BE00}\nbond of friendship first.{VAR BE01}\nI don't think I can teach it yet.",
+        "OK, great!\nOh, but...{VAR BE01}\nYou don't seem to have a\nPokémon that can learn this move.",
+        "OK, great! Which Pokémon should\nlearn this move?{VAR BE01}",
+        "Um... I'm sorry...\nThat Pokémon can't learn this move!",
+        "What?{VAR BE01}\nYou want me to teach the move to an Egg?\nOK, I'll do my best!{VAR BE01}\n...\n...{VAR BE01}\nSorry!\nI think it's impossible!",
+        "This one?{VAR BE01}\nUm, but...it looks like this Pokémon\nalready knows {VAR 0107 0000}.",
+        "Iris: Draco Meteor's power is\nreally amazing!{VAR BE01}\nBut after you use it, your Sp. Atk stat\ngoes down.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} learned\n{VAR 0107 0001}!",
+        "{VAR 0102 0000} is trying to\nlearn {VAR 0107 0001}!{VAR BE01}\nBut {VAR 0102 0000} can't learn more than\nfour moves.{VAR BE01}\nDelete a move to make room\nfor {VAR 0107 0001}?",
+        "Give up on learning the\nmove {VAR 0107 0000}?",
+        "{VAR 0102 0000} did not learn {VAR 0107 0001}!",
+        "Is it OK to forget the\nmove {VAR 0107 0000}?",
+        "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n{VAR 0102 0000} forgot how to\nuse {VAR 0107 0001}.{VAR BE01}\nAnd...{VAR BE01}",
+        "{VAR 0102 0000} learned {VAR 0107 0002}!",
+        "Drayden: If you wish, I can teach your\nPokémon the strongest{VAR BE00}\nDragon-type move.{VAR BE01}\nWould you like your Pokémon to learn\nthat move?",
+        "Understood.\nCome again if you change your mind.",
+        "Hmm...{VAR BE01}\nThis Pokémon can learn this move, but\nyour bond of friendship is not yet{VAR BE00}\nstrong enough.{VAR BE01}\nThat means I cannot teach\nit this move.",
+        "I see...{VAR BE01}\nBut there are no Pokémon with\nyou right now that can learn this move.",
+        "Which Pokémon should\nlearn this move?{VAR BE01}",
+        "I'm very sorry, but...{VAR BE01}\nThis Pokémon cannot learn this move.",
+        "That's an interesting request, but...\nNot even I can teach a move to an Egg.",
+        "Hmm... It looks like this Pokémon\nalready knows {VAR 0107 0000}.",
+        "Drayden: Draco Meteor's power is\nexceptional, but using it lowers{VAR BE00}\nthe user's Sp. Atk stat.",
+        "Your quest for power has brought\nyou here...{VAR BE01}\nVery well.{VAR BE01}\nLet me reward your passion with some\nabsolutely astounding moves.{VAR BE01}\nThey're the ultimate moves!{VAR BE01}\nShall I teach them to\nyour Pokémon?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Pokémon with you can't\nlearn these moves!{VAR BE01}\nGo talk to my wife! Keh!!",
+        "Hmm... Well, that is fine, as well.\nVisit if you have a change of heart.",
+        "Well, which Pokémon should I teach?{VAR BE01}",
+        "That Pokémon can't learn a move!\nGo talk to my wife! Keh!",
+        "Teach a move to an Egg?\nImpossible, even for me! Keh!",
+        "The bond with your Pokémon\nis not strong enough! Keh!",
+        "That Pokémon already knows\nthat move! Keh!",
+        "I should teach {VAR 0107 0001} to\n{VAR 0101 0000}, right? Keh!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Heya!{VAR BE01}\nThe professor gave you a Pokémon to\nstart your journey, right?{VAR BE01}\nIf that Pokémon is still with you, and if\nyou two have a strong bond, there's a{VAR BE00}\nspecial move it can learn...{VAR BE01}\nWant me to teach it a battle combo move?",
+        "A special move...\nShould I teach it a battle-combo move?",
+        "I can't teach these Pokémon.",
+        "Is that so...\nWell, come on back now, y'hear?",
+        "Which Pokémon should learn the move?{VAR BE01}",
+        "Now, that Pokémon can't learn this\nspecial move!{VAR BE01}\nI told ya, it's only for the Pokémon who\nstarted your journey with you.",
+        "Teach a move to an Egg?\nWhat kinda crazy talk is that?!",
+        "This Pokémon... Well, it doesn't look\nlike it's too comfortable with you yet.",
+        "I can't teach it twice. This Pokémon\nalready knows the special move!",
+        "Want me to teach {VAR 0107 0001}\nto {VAR 0101 0000}?",
+        {
+            "text": "The Pokémon I've taken a shine to are\nthe ones you get from the professor!{VAR BE01}\nTo teach all of these Pokémon a\nspecial move, a battle combo move...{VAR BE00}\nThat's my pledge!",
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "flags": 224,
+    "entries": [
+        "Alder: Hello, {VAR 0100 0000}.\nThis way.{VAR BE01}",
+        "Ghetsis... What a liar.{VAR BE01}\nDesperately trying to con\neveryone with his speech.{VAR BE01}",
+        "That's correct!{VAR BE01}\nOur lord N has combined his power with\nthe legendary Dragon-type Pokémon{VAR BE00}\nand intends to create a new world.{VAR BE01}\nWe herald the return of the hero of\nUnova, founder of this region.",
+        {
+            "text": "Hero?",
+            "flags": 126
+        },
+        {
+            "text": "Dragon?",
+            "flags": 126
+        },
+        {
+            "text": "Legend!",
+            "flags": 126
+        },
+        "Pokémon are different from people.{VAR BE01}\nThey are living beings who contain\nunknown potential.{VAR BE01}",
+        "They are living beings from whom we\nhumans have much to learn.{VAR BE01}",
+        "They are beings whose greatness we\nshould acknowledge!{VAR BE01}\nBeings who should be freed\nfrom our oppression!",
+        {
+            "text": "Freed?",
+            "flags": 126
+        },
+        {
+            "text": "Pokémon?",
+            "flags": 126
+        },
+        "We, Team Plasma, invite you to join us!{VAR BE01}\nWe all want to create a new world where\npeople and Pokémon are both free!{VAR BE01}\nLadies and gentlemen, I ask you now...\nPlease, release your Pokémon.{VAR BE01}\nAnd so I end my plea to you today.{VAR BE01}\nThank you one and all for your attention.{VAR BE01}",
+        "Is it true?{VAR BE01}\nHave we been making Pokémon suffer?{VAR BE01}",
+        "Hmm...{VAR BE01}\nMaybe we should release our Pokémon\nlike Team Plasma says...{VAR BE01}",
+        "No way!{VAR BE01}\nWithout Pokémon, I'll be lonely and sad!{VAR BE01}",
+        "What was that about?\nThat speech was off-the-charts strange!{VAR BE01}",
+        "The cooperation of people and Pokémon is\nhow Unova came to exist to begin with.{VAR BE01}\nIf a Pokémon really didn't want\nanything to do with humans,{VAR BE00}\nit would simply leave...{VAR BE01}\nCapturing a Pokémon in a Poké Ball\ndoesn't mean you've captured its heart.{VAR BE01}",
+        "Alder: Let's go, {VAR 0100 0000}!{VAR BE01}",
+        "Alder: It's been a while, Iris\nand Drayden.{VAR BE01}",
+        "Iris: Oh! Mr. Alder!\n...And the guy who helped out that time.{VAR BE01}",
+        "Iris: Oh! Mr. Alder!\n...And the girl who helped out that time.{VAR BE01}",
+        "Drayden: What's wrong?{VAR BE01}\nWhat does the wandering Champion who\nleft the Pokémon League need from us?{VAR BE01}",
+        "Alder: Briefly, my request is this.{VAR BE01}\nTell us about the legendary\nDragon-type Pokémon!{VAR BE01}",
+        "Iris: Are you talking about Reshiram?\nOr Zekrom?{VAR BE00}\nWhat's the sudden interest?{VAR BE01}",
+        "Iris: Are you talking about Zekrom?\nOr Reshiram?{VAR BE00}\nWhat's the sudden interest?{VAR BE01}",
+        "Drayden: Moments ago, a troublemaker\nknown as Ghetsis was here.{VAR BE01}\nHe said a Trainer named N has\nreawakened Reshiram...{VAR BE01}",
+        "Drayden: Moments ago, a troublemaker\nknown as Ghetsis was here.{VAR BE01}\nHe said a Trainer named N has\nreawakened Zekrom...{VAR BE01}",
+        "Alder: Yes!{VAR BE01}\nThat Trainer called N apparently told\n{VAR 0100 0000} here to search for the{VAR BE00}\nother Dragon-type Pokémon!{VAR BE01}",
+        "Drayden: Let me check that I have\nthis straight.{VAR BE01}\nThis N, or what have you, presumes\nto set the two Dragon-type Pokémon{VAR BE00}\nagainst each other in battle{VAR BE00}\nto test his convictions?{VAR BE01}",
+        "Iris: Oh, no!{VAR BE01}\nThe Dragon-type Pokémon\nget along so well!{VAR BE01}",
+        "Alder: That's right, Iris.{VAR BE01}\nThe ones who make Pokémon battle\nare the Trainers...{VAR BE01}\nAnd it's so the Trainers and the Pokémon\ncan get to know each other better.{VAR BE01}",
+        "I'm going to the Pokémon League.{VAR BE01}\nNo, I guess in this case I should say I'm\n“returning\" to the Pokémon League!{VAR BE01}\nOf course, I'll defeat N!{VAR BE01}\nI'll teach him about the beauty of this\nworld, where Pokémon and Trainers{VAR BE00}\nlive together in harmony!{VAR BE01}\nAlso, {VAR 0100 0000}, I'll await your arrival.{VAR BE01}\nOnce you've obtained the Opelucid Badge,\ncome to the League!{VAR BE01}\nThe Opelucid Gym Leader is tough.\nTake care!{VAR BE01}",
+        "Farewell.\nI'm counting on you, Drayden and Iris!{VAR BE01}",
+        "Iris: Aww...\nHe's gone.{VAR BE01}\nIs he OK?\nHe looked kinda scary.{VAR BE01}",
+        "Drayden: Don't worry, Iris.{VAR BE01}\nHe is the strongest Trainer\nin all of Unova.{VAR BE01}",
+        "Well, {VAR 0100 0000}, is it?\nCome to my home.{VAR BE01}\nAs Alder asked, I'll tell you\neverything I can about the{VAR BE00}\nlegendary Dragon-type Pokémon.{VAR BE01}\nIris, child, please show the way.{VAR BE01}",
+        "Iris: You bet! If it's Opelucid City,\nI can take you anywhere.{VAR BE01}\nAs for the story of Reshiram and Zekrom,\nwe'll tell you all we know about it!{VAR BE01}\nThis way!{VAR BE01}",
+        "Iris: You bet! If it's Opelucid City,\nI can take you anywhere.{VAR BE01}\nAs for the story of Zekrom and Reshiram,\nwe'll tell you all we know about it!{VAR BE01}\nThis way!{VAR BE01}",
+        "Iris: That way!{VAR BE01}",
+        "Iris: Just a little farther!{VAR BE01}",
+        "Iris: This is it!{VAR BE01}",
+        "A challenger?{VAR BE01}\nI'm sorry, but currently,\nour Gym Leader is at home.",
+        "If all Pokémon are released, Trainers and\nGym Leaders will no longer exist.{VAR BE01}\nFor better or worse, the world\nwould surely change...",
+        "The memories of everyone who has lived\nin this city have built up over the years{VAR BE00}\nwithout changing much.",
+        "This city changes endlessly.{VAR BE01}\nAnd every change is engraved in the\nmemories of the people who live here.",
+        "I spent so many happy days training my\nPokémon as we grew stronger together...{VAR BE01}\nIf it will make my beloved Pokémon\na perfect being, however,{VAR BE00}\nI can't help but let it go.",
+        "Even if it is inconvenient, I think\nsome things shouldn't be changed.",
+        "Even if you love them, I think\nsome things have to be changed.",
+        "Hey hey! That person called N had the\nlegendary Pokémon with him, so he has{VAR BE00}\nto be the legendary hero, right?{VAR BE01}\nHe's going to change the world, isn't he?",
+        "I like older things better than new ones.\nThey're just more relaxing!",
+        "I like newer things better than old ones.\nThey're just so cool!",
+        "...No way! Without Pokémon, I'll be too\nlonely and sad!{VAR BE01}\nBut am I only using my Pokémon, then...?",
+        "The Gym Leader Iris is still a child, but\nthe mayor Drayden has recognized{VAR BE00}\nher power!",
+        "The Gym Leader Drayden is the mayor who\nleads Opelucid.{VAR BE01}\nHe is always training by wrestling\nwith Pokémon.",
+        "So, have we really been making\nour Pokémon suffer...?",
+        "Yes, I will keep moving forward together\nwith my Pokémon.{VAR BE01}\nEven if I were to part ways with my\nPokémon, it wouldn't be because someone{VAR BE00}\nelse said to, but because we decided to.",
+        "I'll definitely keep moving forward\ntogether with my Pokémon.{VAR BE01}\nI won't take their company for granted.\nI'll appreciate how amazing that is!",
+        "The legendary Pokémon is the symbol\nof Unova.{VAR BE01}\nDoes that mean Team Plasma is right?\n...I don't know.",
+        "Pursuing ideals is different from person\nto person and Pokémon to Pokémon.{VAR BE01}\nIn this city, it seems the ideal is\nto cherish the past.",
+        "The truth people pursue is different\nfrom person to person and{VAR BE00}\nPokémon to Pokémon.{VAR BE01}\nIn this city, it seems the truth is\nconstant change.",
+        "The hopes of an ancient people are put\ninto this melody...{VAR BE01}\nI will bring them back to us now.",
+        "Our hopes are put into this melody...\nI will send them to the future.",
+        "Professor Juniper: ...Hello!\nHow was Iris doing?{VAR BE01}",
+        "Professor Juniper: ...Hello!\nWas Drayden as tough as ever?{VAR BE01}",
+        "Oh, I came to report on how to\nresurrect the legendary Zekrom.{VAR BE01}\nI thought it would be better to tell you\nin person than over the Xtransceiver.{VAR BE01}\nAnd as for the conclusion...\nWell, I haven't figured it out yet.{VAR BE01}\nI'm sure the Pokémon will wake up\nwhen it deems someone worthy.{VAR BE01}",
+        "Oh, I came to report on how to\nresurrect the legendary Reshiram.{VAR BE01}\nI thought it would be better to tell you\nin person than over the Xtransceiver.{VAR BE01}\nAnd as for the conclusion...\nWell, I haven't figured it out yet.{VAR BE01}\nI'm sure the Pokémon will wake up\nwhen it deems someone worthy.{VAR BE01}",
+        "More importantly, aren't you amazing!{VAR BE01}\nYou have all eight of Unova's Gym Badges\nnow, right?{VAR BE01}\nYou've become so strong!{VAR BE01}\nYou probably don't even know it, but\nyou've changed a lot since you left{VAR BE00}\nNuvema Town.{VAR BE01}\nWell then, I'll show you where such a\nstrong Trainer should head next!{VAR BE01}",
+        "Professor Juniper: Pass through that\ngate, go down Route 10, and you'll arrive{VAR BE00}\nat the Badge Check Gates!{VAR BE01}\nOnce you get through Victory Road,\nwhich is past the gates, you're finally{VAR BE00}\nat the Pokémon League!{VAR BE01}",
+        "Oh, that just made me think of when I was\nshowing you around the Pokémon Center{VAR BE00}\nin Accumula Town.{VAR BE01}\n{VAR 0100 0000}? Do you regret setting out\non your Pokémon journey?",
+        "Professor Juniper: Oh! That's OK,\ndon't worry! You don't have to tell{VAR BE00}\nme everything.{VAR BE01}\nBut I'm very happy that you three\nchose to train Pokémon!{VAR BE01}\nBecause they create chances to meet\nmore wonderful people and Pokémon!{VAR BE01}",
+        "Professor Juniper: Thanks! That's the\ngreatest answer you could give!{VAR BE01}\nI was really happy to be able to give\nyou three those Pokémon as a present!{VAR BE01}\nBecause Pokémon create chances to meet\nmore wonderful people and Pokémon!{VAR BE01}",
+        "{VAR 0100 0000}, this is a present for you!{VAR BE01}",
+        "Professor Juniper: This Master Ball is\nthe most powerful kind of Poké Ball.{VAR BE01}\nIt can catch any Pokémon without fail.{VAR BE01}\nThis is the only way I can support you,\nexcept to say...{VAR BE00}\nBe true to yourself.{VAR BE01}\nNo matter what happens, stay strong\nand keep going with your Pokémon!{VAR BE01}\nSee you!{VAR BE01}",
+        {
+            "text": "Opelucid City\nTime's Dividing Line",
+            "flags": 207
+        },
+        {
+            "text": "Drayden's House",
+            "flags": 207
+        },
+        {
+            "text": "Battle House\nTriple Battle!",
+            "flags": 207
+        },
+        {
+            "text": "Battle House\nRotation Battle!",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nMayor Drayden will teach you if he\nrecognizes you as a strong Trainer.{VAR BE01}\nVisit his home to learn the\nmost powerful Dragon-type move!",
+            "flags": 207
+        },
+        {
+            "text": "Opelucid City Pokémon Gym\nLeader: Iris{VAR BE00}\nThe Girl Who Knows{VAR BE00}\nthe Hearts of Dragons",
+            "flags": 207
+        },
+        {
+            "text": "Opelucid City Pokémon Gym\nLeader: Drayden{VAR BE00}\nThe Spartan Mayor",
+            "flags": 207
+        }
+    ],
+    "pad": "b4b4"
+}

@@ -1,0 +1,560 @@
+{
+    "flags": 0,
+    "entries": [
+        "None",
+        "ON",
+        "OFF",
+        {
+            "text": "Pink Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Blue Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Red Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Blue Flower",
+            "flags": 128
+        },
+        {
+            "text": "Crimson Scarf",
+            "flags": 128
+        },
+        {
+            "text": "Red Flower",
+            "flags": 128
+        },
+        {
+            "text": "Big Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Headband",
+            "flags": 128
+        },
+        {
+            "text": "Square Glasses",
+            "flags": 128
+        },
+        {
+            "text": "Striped Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Small Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Decorative Ribbon",
+            "flags": 128
+        },
+        {
+            "text": "Purse",
+            "flags": 128
+        },
+        {
+            "text": "Necklace",
+            "flags": 128
+        },
+        {
+            "text": "Gorgeous Flower",
+            "flags": 128
+        },
+        {
+            "text": "Round Button",
+            "flags": 128
+        },
+        {
+            "text": "Green Barrette",
+            "flags": 128
+        },
+        {
+            "text": "Straw Hat",
+            "flags": 128
+        },
+        {
+            "text": "Snow Crystal",
+            "flags": 128
+        },
+        {
+            "text": "Lonely Flower",
+            "flags": 128
+        },
+        {
+            "text": "Paintbrush",
+            "flags": 128
+        },
+        {
+            "text": "Beret",
+            "flags": 128
+        },
+        {
+            "text": "Whisk",
+            "flags": 128
+        },
+        {
+            "text": "Ladle",
+            "flags": 128
+        },
+        {
+            "text": "Toy Cake",
+            "flags": 128
+        },
+        {
+            "text": "Chef's Hat",
+            "flags": 128
+        },
+        {
+            "text": "Frying Pan",
+            "flags": 128
+        },
+        {
+            "text": "Bib",
+            "flags": 128
+        },
+        {
+            "text": "Red Parasol",
+            "flags": 128
+        },
+        {
+            "text": "Germ Mask",
+            "flags": 128
+        },
+        {
+            "text": "Mallet",
+            "flags": 128
+        },
+        {
+            "text": "Colorful Parasol",
+            "flags": 128
+        },
+        {
+            "text": "Wrench",
+            "flags": 128
+        },
+        {
+            "text": "Lantern",
+            "flags": 128
+        },
+        {
+            "text": "Windup Key",
+            "flags": 128
+        },
+        {
+            "text": "Helmet",
+            "flags": 128
+        },
+        {
+            "text": "Frilly Apron",
+            "flags": 128
+        },
+        {
+            "text": "Dressy Tie",
+            "flags": 128
+        },
+        {
+            "text": "Lace Cap",
+            "flags": 128
+        },
+        {
+            "text": "Scarlet Cape",
+            "flags": 128
+        },
+        {
+            "text": "Toy Cutlass",
+            "flags": 128
+        },
+        {
+            "text": "Toy Sword",
+            "flags": 128
+        },
+        {
+            "text": "Pirate Hat",
+            "flags": 128
+        },
+        {
+            "text": "Cowboy Hat",
+            "flags": 128
+        },
+        {
+            "text": "Rigid Shield",
+            "flags": 128
+        },
+        {
+            "text": "Black Wings",
+            "flags": 128
+        },
+        {
+            "text": "Witchy Hat",
+            "flags": 128
+        },
+        {
+            "text": "White Wings",
+            "flags": 128
+        },
+        {
+            "text": "Umber Belt",
+            "flags": 128
+        },
+        {
+            "text": "Horned Helm",
+            "flags": 128
+        },
+        {
+            "text": "Trident",
+            "flags": 128
+        },
+        {
+            "text": "Magic Wand",
+            "flags": 128
+        },
+        {
+            "text": "Red Nose",
+            "flags": 128
+        },
+        {
+            "text": "Jester's Cap",
+            "flags": 128
+        },
+        {
+            "text": "Googly Specs",
+            "flags": 128
+        },
+        {
+            "text": "Crown",
+            "flags": 128
+        },
+        {
+            "text": "Black Tie",
+            "flags": 128
+        },
+        {
+            "text": "Black Cape",
+            "flags": 128
+        },
+        {
+            "text": "Gorgeous Specs",
+            "flags": 128
+        },
+        {
+            "text": "Top Hat",
+            "flags": 128
+        },
+        {
+            "text": "White Domino Mask",
+            "flags": 128
+        },
+        {
+            "text": "White Cape",
+            "flags": 128
+        },
+        {
+            "text": "Gentleman's Hat",
+            "flags": 128
+        },
+        {
+            "text": "Cane",
+            "flags": 128
+        },
+        {
+            "text": "Striped Tie",
+            "flags": 128
+        },
+        {
+            "text": "Pocket Watch",
+            "flags": 128
+        },
+        {
+            "text": "Bow Tie",
+            "flags": 128
+        },
+        {
+            "text": "Tiara",
+            "flags": 128
+        },
+        {
+            "text": "Rose",
+            "flags": 128
+        },
+        {
+            "text": "Monocle",
+            "flags": 128
+        },
+        {
+            "text": "Tie",
+            "flags": 128
+        },
+        {
+            "text": "Wig",
+            "flags": 128
+        },
+        {
+            "text": "Standing Mike",
+            "flags": 128
+        },
+        {
+            "text": "Tambourine",
+            "flags": 128
+        },
+        {
+            "text": "Fedora",
+            "flags": 128
+        },
+        {
+            "text": "Microphone",
+            "flags": 128
+        },
+        {
+            "text": "Maraca",
+            "flags": 128
+        },
+        {
+            "text": "Trumpet",
+            "flags": 128
+        },
+        {
+            "text": "Laurel Wreath",
+            "flags": 128
+        },
+        {
+            "text": "White Pompom",
+            "flags": 128
+        },
+        {
+            "text": "Pennant",
+            "flags": 128
+        },
+        {
+            "text": "Football",
+            "flags": 128
+        },
+        {
+            "text": "Winner's Belt",
+            "flags": 128
+        },
+        {
+            "text": "Racket",
+            "flags": 128
+        },
+        {
+            "text": "Electric Guitar",
+            "flags": 128
+        },
+        {
+            "text": "Toy Fishing Rod",
+            "flags": 128
+        },
+        {
+            "text": "Smiley-Face Mask",
+            "flags": 128
+        },
+        {
+            "text": "Fake Bellybutton",
+            "flags": 128
+        },
+        {
+            "text": "Professor Hat",
+            "flags": 128
+        },
+        {
+            "text": "Hula Skirt",
+            "flags": 128
+        },
+        {
+            "text": "Thick Book",
+            "flags": 128
+        },
+        {
+            "text": "Bouquet",
+            "flags": 128
+        },
+        {
+            "text": "Fake Bone",
+            "flags": 128
+        },
+        {
+            "text": "Round Mushroom",
+            "flags": 128
+        },
+        {
+            "text": "Shuriken",
+            "flags": 128
+        },
+        {
+            "text": "Scarlet Hat",
+            "flags": 128
+        },
+        {
+            "text": "Big Bag",
+            "flags": 128
+        },
+        {
+            "text": "Candy",
+            "flags": 128
+        },
+        {
+            "text": "Fluffy Beard",
+            "flags": 128
+        },
+        {
+            "text": "Gift Box",
+            "flags": 128
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

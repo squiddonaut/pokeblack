@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "I decided to find a new Pokémon partner\naround Route 13.",
+        "Marvelous Bridge is really mind boggling!\nSo I am taking a rest!",
+        "Did you know? Before Marvelous Bridge\nwas built, there was a girl who always{VAR BE00}\nplayed with Abra around here.{VAR BE01}\nShe was so full of energy...",
+        "What do people buy from the\nvending machine?{VAR BE01}\nTo keep checking on that...\nThis is my life.",
+        "Hey, you!\nDon't you want to try a Triple Battle?",
+        "Triple Battles are battles with\nthree Pokémon!{VAR BE01}\nPlease get three Pokémon ready\nfor battle!",
+        "You are a Trainer, yet you are not\nprepared to battle?",
+        "They say chance favors\nthe prepared mind.",
+        "I want to research an effective\nfighting method for Rotation Battles.{VAR BE01}\nWould you have a battle with me?",
+        "A Rotation Battle is a new kind of battle\nthat uses three Pokémon.{VAR BE01}\nPlease prepare at least three Pokémon\nfor battle!",
+        "If you're a Trainer, you should be\nmore aggressive.",
+        "Now you can have Rotation Battles with\nyour friends!"
+    ],
+    "pad": "3838"
+}

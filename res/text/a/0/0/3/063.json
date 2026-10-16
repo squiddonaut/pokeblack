@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am a Pokémon fanatic.\nI am famous in Castelia, too!{VAR BE01}\nOh, look!\nYou have a Pokédex!{VAR BE01}\nHow many Pokémon\nhave you found so far?{VAR BE01}\n...\n{VAR 0202 0000} Pokémon!{VAR BE01}\nIf you have 20 Pokémon or more,\nI'll give you something good!",
+        "I am a Pokémon fanatic.\nI am famous in Castelia, too!{VAR BE01}\nOh, look!\nYou have a Pokédex!{VAR BE01}\nWell, how many Pokémon\nhave you found so far?{VAR BE01}\n...\n{VAR 0202 0000} Pokémon!{VAR BE00}\nThis is quite a Pokédex!{VAR BE01}\nI am quite impressed, so\nI will give this to you!{VAR BE01}",
+        "Eviolite is great!{VAR BE01}\nBoth Defense and Special Defense\nof the Pokémon who holds it will increase!{VAR BE01}\nHowever, it's a peculiar stone because\nit's only effective on Pokémon that{VAR BE00}\ncan still evolve.",
+        "I've been thinking about starting\na new business...{VAR BE01}\nBut it's quite a chore.",
+        "Do you think it's a good idea to provide\na service to raise Pokémon for Trainers?{VAR BE01}\nWhat?\nThere's a Pokémon Day Care on Route 3?!",
+        "What kinds of Abilities do\nyour Pokémon have?",
+        "My Patrat's Ability is Keen Eye!{VAR BE01}\nEven SmokeScreen and Sand-Attack\ncannot lower its accuracy!",
+        "Skeeree!",
+        "Hmmm! Fantastic! Excellent!\nBurgh's paintings are magnificent!"
+    ]
+}

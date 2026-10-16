@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hello! If you cross the Skyarrow Bridge\nfrom here, you'll reach Castelia City.",
+        "In battles, striking first is essential!\nSo, here!{VAR BE01}",
+        "If you give it to a Pokémon to hold,\nmaybe it will let that Pokémon use its{VAR BE00}\nmove before its opponent can.{VAR BE01}\nThat's what I gave you.\nIt's called Quick Claw!",
+        "There are people who are obsessed with\ncertain items.{VAR BE01}\nThey'll even buy your items for a lot\nof money!{VAR BE01}\nYou might even be able to sell items you\ncan't use to these people, so maybe you{VAR BE00}\nshould hang on to them."
+    ],
+    "pad": "6e6e"
+}

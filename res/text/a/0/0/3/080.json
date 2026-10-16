@@ -1,0 +1,43 @@
+{
+    "flags": 224,
+    "entries": [
+        "Current winning streak: {VAR 0203 0000}!{VAR BE01}\nNext car: No. {VAR 0200 0001}.\nContinue to battle?",
+        {
+            "text": "CONTINUE",
+            "flags": 219
+        },
+        {
+            "text": "RECORD",
+            "flags": 219
+        },
+        {
+            "text": "REST",
+            "flags": 219
+        },
+        {
+            "text": "RETIRE",
+            "flags": 219
+        },
+        "Cancel your challenge?",
+        "Save and quit the game?",
+        "Saving...\nDon't turn off the power.",
+        "Delete your existing Battle Video and\nsave the last battle?",
+        "Awaiting your friend's selection.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You have chosen to retire from\nthis challenge.",
+        {
+            "text": "Saving your Battle Video...\nDon't turn off the power.",
+            "flags": 216
+        },
+        "{VAR 0100 0000}'s battle has been saved as a\nBattle Video.",
+        "Would you like to save the last battle as\nyour Battle Video?",
+        "Communicating. Please stand by...",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "flags": 224,
+    "entries": [
+        "...",
+        "'Cause he is alone and looks lonely,\nI was reading a book to him!{VAR BE00}\nI will read it to you, too!{VAR BE01}",
+        "'Cause he is alone and looks lonely,\nI was reading a book to him!{VAR BE00}\nI will read it to you, too!{VAR BE01}",
+        "Here, I'll keep reading!{VAR BE01}\n...\nZorua, who was left alone, wandered{VAR BE00}\naround looking for its mother...{VAR BE01}",
+        "Have you seen Zorua? See, it's\nthe Pokémon that looks like this!{VAR BE01}",
+        "They say Zorua has the power\nto bewitch people!{VAR BE01}\nIt would be scary if I were bewitched,\nbut I like Zorua!{VAR BE00}\n'Cause it's cute!{VAR BE01}\n...Huh?\nWhy are you blushing?",
+        "Castelia City is so big\nthat I feel dizzy.{VAR BE00}\nEven I can get lost!",
+        "This little boy got lost!\nHe looks lonely, so{VAR BE00}\nplease talk to him!",
+        "This little boy got lost!\nHe looks lonely, so {VAR BE00}\nplease talk to him!",
+        "Yip yap!",
+        "Lululalala!",
+        "Oh, that little boy was really Zorua!\nSo cooooool!{VAR BE01}",
+        "It looks like Zorua and Celebi are really\ngood friends!{VAR BE01}\nI'm sure Zorua wants to go with you\nand Celebi!{VAR BE01}",
+        "Will you add Zorua to your party?",
+        "Zorua joined your party!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "...Yip?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Zorua had been waiting for Celebi here!\nNow, I am relieved!{VAR BE01}",
+        "It looks like Zorua and Celebi are really\ngood friends!{VAR BE01}\nI'm sure Zorua wants to go with you\nand Celebi!{VAR BE01}\n...But do you have room for Zorua\nin your party?{VAR BE01}\nYou can't take more than six Pokémon\nwith you. Right?",
+        "It looks like Zorua and Celebi are really\ngood friends!{VAR BE01}\nI'm sure Zorua wants to go with you\nand Celebi!{VAR BE01}\n...But do you have room for Zorua\nin your party?{VAR BE01}\nYou can't take more than six Pokémon\nwith you. Right?",
+        "So you won't take Zorua with you...\nPoor thing. It looks lonely...{VAR BE01}",
+        "So you won't take Zorua with you...\nPoor thing. It looks lonely...",
+        "Zorua is waiting for you!",
+        "Trainer, do you have a Poké Ball?{VAR BE01}",
+        "Trainer, do you have a Poké Ball?{VAR BE01}",
+        "...Can't you take Zorua with you?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It looks like Zorua and Celebi are really\ngood friends!{VAR BE01}\nI'm sure Zorua wants to go with you\nand Celebi!{VAR BE01}\n...But do you have room for Zorua\nin your party?{VAR BE01}\nYou can't take more than six Pokémon\nwith you. Right?{VAR BE01}",
+        "It looks like Zorua and Celebi are really\ngood friends!{VAR BE01}\nI'm sure Zorua wants to go with you\nand Celebi!{VAR BE01}\n...But do you have room for Zorua\nin your party?{VAR BE01}\nYou can't take more than six Pokémon\nwith you. Right?{VAR BE01}",
+        "Would you like to give a nickname\nto the Zorua who joined your party?"
+    ]
+}

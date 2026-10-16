@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_FIGHTING" ],
     "catch_rate": 45,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_KINGS_ROCK"
+        "rare": "ITEM_KINGS_ROCK",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_WATER_1" ],
-    "abilities": [ "ABILITY_WATER_ABSORB", "ABILITY_DAMP" ],
-    "unk_1A": 33,
+    "abilities": [
+        "ABILITY_WATER_ABSORB",
+        "ABILITY_DAMP",
+        "ABILITY_SWIFT_SWIM"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": true,
-    "unk_22": 225,
+    "base_exp_reward": 225,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_BUBBLE_BEAM" ],
@@ -89,11 +92,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 540
     },
-    "offspring": "SPECIES_POLIWAG"
+    "offspring": "SPECIES_POLIWAG",
+    "text": {
+        "70": "Poliwrath",
+        "235": "With its extremely tough muscles,\nit can keep swimming in the Pacific\nOcean without resting.",
+        "236": "With its extremely tough muscles,\nit can keep swimming in the Pacific\nOcean without resting.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Tadpole Pokémon",
+        "268": "119.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Poliwrath",
+        "284": "POLIWRATH"
+    }
 }

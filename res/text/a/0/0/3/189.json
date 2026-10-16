@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Ryoku: I was planning to catch the\nPokémon called Volcarona that lives{VAR BE00}\nin this Relic Castle and present it{VAR BE00}\nto Ghetsis.{VAR BE01}\nBut the Shadow Triad said that Ghetsis\nhas gone somewhere, right?{VAR BE01}",
+        "The Seven Sages...{VAR BE01}\nWe always said we were complete when the\nseven of us were together.{VAR BE01}\nNow I don't know the meaning of those\nwords anymore.{VAR BE01}\nI guess I don't mind, even if we were\nbeing used, but the dream is over.{VAR BE01}",
+        "I no longer need this.{VAR BE01}\nGhetsis gave it to me, but I have no use\nfor it.{VAR BE01}",
+        "Ryoku: This Relic Castle and our own\ncastle are both crumbling...{VAR BE01}\nBut what's different is that this Relic\nCastle is the remains of a civilization.{VAR BE01}\nAnd our castle left nothing behind...{VAR BE01}",
+        "Looker: Regarding Team Plasma...{VAR BE01}\nI am an officer of the International\nPolice, and you must satisfy my request{VAR BE00}\nfor certain information!{VAR BE01}",
+        "Ryoku: Understood.{VAR BE01}\nBut we don't know much about Ghetsis or\nour lord N!{VAR BE01}\nWe haven't even figured out if they are\nfather and son...{VAR BE01}",
+        "Looker: Accept my thanks!{VAR BE01}\nNow, Ghetsis notwithstanding,\nthere yet remains but {VAR 0200 0000} of the{VAR BE00}\nSeven Sages still at large.{VAR BE01}\nThey are thinking--upon what topics?\nThey are hoping--upon what chances?{VAR BE01}\nThis is of the utmost urgency.\nAt once! On the way!{VAR BE01}",
+        "Looker: I thank you profoundly!{VAR BE01}\nCuriously, {VAR 0100 0000}...\nThere is a topic on which we must speak.{VAR BE01}\nA report has reached my ears of someone\nfar from here. Indeed, this someone has{VAR BE00}\nspotted a person like N and a...{VAR BE00}\ndragon Pokémon.{VAR BE01}\nI depart to validate the validity\nof this information.{VAR BE00}\nWe shall meet again, so until then, adieu.{VAR BE01}"
+    ]
+}

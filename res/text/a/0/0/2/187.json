@@ -1,0 +1,324 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "NAME",
+            "flags": 60
+        },
+        {
+            "text": "",
+            "flags": 112
+        },
+        {
+            "text": "NATURE",
+            "flags": 60
+        },
+        {
+            "text": "POKÉDEX",
+            "flags": 60
+        },
+        {
+            "text": "MONEY",
+            "flags": 60
+        },
+        {
+            "text": "ID No.",
+            "flags": 40
+        },
+        {
+            "text": "TIME",
+            "flags": 152
+        },
+        {
+            "text": "ADVENTURE STARTED",
+            "flags": 216
+        },
+        {
+            "text": "HALL OF FAME DEBUT",
+            "flags": 216
+        },
+        {
+            "text": "TIMES LINKED",
+            "flags": 152
+        },
+        {
+            "text": "LINK BATTLES",
+            "flags": 152
+        },
+        {
+            "text": "LINK BATTLE WINS",
+            "flags": 168
+        },
+        {
+            "text": "LINK BATTLE LOSSES",
+            "flags": 168
+        },
+        {
+            "text": "LINK TRADES",
+            "flags": 152
+        },
+        {
+            "text": "WILD POKÉMON ENCOUNTERS",
+            "flags": 170
+        },
+        {
+            "text": "TRAINERS BATTLED",
+            "flags": 170
+        },
+        {
+            "text": "PEOPLE PASSED BY",
+            "flags": 168
+        },
+        {
+            "text": "FEELING CHECKS",
+            "flags": 168
+        },
+        {
+            "text": "USABLE PASS POWERS",
+            "flags": 168
+        },
+        {
+            "text": "MUSICAL PERFORMANCES",
+            "flags": 168
+        },
+        {
+            "text": "Poké Transfer HIGH SCORE",
+            "flags": 168
+        },
+        {
+            "text": "Battle Test HIGH SCORE",
+            "flags": 168
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": ":",
+            "flags": 6
+        },
+        {
+            "text": "-- --, ---- --:--",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Hardy",
+            "flags": 60
+        },
+        {
+            "text": "Lonely",
+            "flags": 60
+        },
+        {
+            "text": "Brave",
+            "flags": 60
+        },
+        {
+            "text": "Adamant",
+            "flags": 60
+        },
+        {
+            "text": "Naughty",
+            "flags": 60
+        },
+        {
+            "text": "Bold",
+            "flags": 60
+        },
+        {
+            "text": "Docile",
+            "flags": 60
+        },
+        {
+            "text": "Relaxed",
+            "flags": 60
+        },
+        {
+            "text": "Impish",
+            "flags": 60
+        },
+        {
+            "text": "Lax",
+            "flags": 60
+        },
+        {
+            "text": "Timid",
+            "flags": 60
+        },
+        {
+            "text": "Hasty",
+            "flags": 60
+        },
+        {
+            "text": "Serious",
+            "flags": 60
+        },
+        {
+            "text": "Jolly",
+            "flags": 60
+        },
+        {
+            "text": "Naive",
+            "flags": 60
+        },
+        {
+            "text": "Modest",
+            "flags": 60
+        },
+        {
+            "text": "Mild",
+            "flags": 60
+        },
+        {
+            "text": "Quiet",
+            "flags": 60
+        },
+        {
+            "text": "Bashful",
+            "flags": 60
+        },
+        {
+            "text": "Rash",
+            "flags": 60
+        },
+        {
+            "text": "Calm",
+            "flags": 60
+        },
+        {
+            "text": "Gentle",
+            "flags": 60
+        },
+        {
+            "text": "Sassy",
+            "flags": 60
+        },
+        {
+            "text": "Careful",
+            "flags": 60
+        },
+        {
+            "text": "Quirky",
+            "flags": 60
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "${VAR 0206 0000}",
+            "flags": 72
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 208
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}   {VAR 0201 0003}:{VAR 0201 0004}",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 60
+        },
+        "Striaton City Gym Leaders\nChili, Cress, Cilan",
+        "Triple Trouble!",
+        "The fundamentals of Pokémon battling\nare type matchups! They're important!",
+        "Nacrene City Gym Leader\nLenora",
+        "An Archeologist with Backbone",
+        "Curiosity is the spice of life!\nWithout it, life is bland!",
+        "Castelia City Gym Leader\nBurgh",
+        "Premier Insect Artist",
+        "Umm... That's right. You!\nUse Bug-type Pokémon!",
+        "Nimbasa City Gym Leader\nElesa",
+        "The Shining Beauty",
+        "May you always continue to be a person\nwho brightens your surroundings.",
+        "Driftveil City Gym Leader\nClay",
+        "The Underground Boss",
+        "Ya always want to live honestly\nfer yerself and yer Pokémon.",
+        "Mistralton City Gym Leader\nSkyla",
+        "The High-Flying Girl",
+        "You’ll see smiles all around you,\nwith the brightest of skies above you.",
+        "Icirrus City Gym Leader\nBrycen",
+        "Ice Mask",
+        "Don't limit yourself to hot or cold, but\nuse them both to your best advantage.",
+        "Opelucid City Gym Leader\nDrayden",
+        "The Spartan Mayor",
+        "Sincere Trainer,\nkeep growing stronger!",
+        "Opelucid City Gym Leader\nIris",
+        "The Girl Who Knows the Hearts of Dragons",
+        "Know what? You were very strong!\nI'll never forget you, ever!",
+        "Trio Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 20 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Basic Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 30 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Insect Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 40 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Bolt Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 50 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Quake Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 60 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Jet Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 70 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Freeze Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "Traded Pokémon up to Lv. 80 will\nobey you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Legend Badge\nReceived: {VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+        "All traded Pokémon, regardless of level,\nwill obey you.",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

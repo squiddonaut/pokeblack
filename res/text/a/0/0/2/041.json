@@ -1,0 +1,33 @@
+{
+    "flags": 208,
+    "entries": [
+        {
+            "text": "Please stand by...",
+            "flags": 192
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 64
+        },
+        "{VAR 0100 0001} received\n{VAR 0100 0002}'s Egg!",
+        "Landed on a Bonus Area!\nReceived a free {VAR 0109 0000}!",
+        "Oh, no. The Bag is full...\nThe Berry had to be refused.",
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 192
+        },
+        "A member dropped out.\nThe Spin Trade will be canceled.",
+        "The leader had to drop out.\nThe Spin Trade will be canceled.",
+        "Communication error...\nThe Spin Trade will be canceled.",
+        "Time has run out.\nThe Spin Trade will be canceled.",
+        {
+            "text": "Communicating.\nPlease stand by...",
+            "flags": 192
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 192
+        },
+        "There is an Egg that can't be traded.\nSpin Trade will be canceled."
+    ]
+}

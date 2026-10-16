@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "No, no, a thousand times no!{VAR BE01}",
+        "Bianca: But, I'm...{VAR BE01}\nI'm a good Trainer who got\na Pokémon and everything!{VAR BE00}\nI can totally go on an adventure!{VAR BE01}",
+        "Bianca: Oh...\nIt's OK.{VAR BE01}\n...It's fine!{VAR BE01}\nI'll be waiting for you in front\nof the lab, OK?{VAR BE01}",
+        "Bianca's Dad: What nonsense is this?{VAR BE01}\nHow could my daughter, who knows\nnothing about the world,{VAR BE00}\nbe going on a journey with Pokémon?",
+        "Bianca's Mom: Don't mind my husband,\ndear. He's just being overprotective.{VAR BE01}\nAll children go on adventures\nwith Pokémon.{VAR BE00}\nIt's part of growing up.",
+        "Bianca's Dad: Well, then.\nI look forward to the stories Bianca will{VAR BE00}\nhave for us next time she comes home.",
+        "Bianca's Dad: Even if there are many\nthings you want to do,{VAR BE00}\nyou're only one person.{VAR BE01}\nIt's frustrating, isn't it?",
+        "Bianca's Mom: Choosing one thing means\nhaving to give up something else.{VAR BE01}\nSo, of course it's very hard to decide.",
+        "Bianca: I was just looking over\nmy Pokédex again and thinking...{VAR BE01}\nI sure have met a lot\nof different Pokémon."
+    ],
+    "pad": "1e1e"
+}

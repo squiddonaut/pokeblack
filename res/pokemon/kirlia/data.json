@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
     "catch_rate": 120,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_TRACE" ],
-    "unk_1A": 140,
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_TRACE",
+        "ABILITY_TELEPATHY"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 97,
+    "base_exp_reward": 97,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_GROWL" ],
@@ -98,7 +101,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -115,5 +118,16 @@
         "height": 8,
         "weight": 202
     },
-    "offspring": "SPECIES_RALTS"
+    "offspring": "SPECIES_RALTS",
+    "text": {
+        "70": "Kirlia",
+        "235": "If its Trainer becomes happy, it\noverflows with energy, dancing\njoyously while spinning about.",
+        "236": "If its Trainer becomes happy, it\noverflows with energy, dancing\njoyously while spinning about.",
+        "244": "",
+        "245": "2'07\"",
+        "260": "Emotion Pokémon",
+        "268": "44.5 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Kirlia",
+        "284": "KIRLIA"
+    }
 }

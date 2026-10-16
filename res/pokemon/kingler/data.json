@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_WATER_3", "EGG_GROUP_WATER_3" ],
-    "abilities": [ "ABILITY_HYPER_CUTTER", "ABILITY_SHELL_ARMOR" ],
-    "unk_1A": 125,
+    "abilities": [
+        "ABILITY_HYPER_CUTTER",
+        "ABILITY_SHELL_ARMOR",
+        "ABILITY_SHEER_FORCE"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": true,
-    "unk_22": 166,
+    "base_exp_reward": 166,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_WIDE_GUARD" ],
@@ -96,11 +99,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 600
     },
-    "offspring": "SPECIES_KRABBY"
+    "offspring": "SPECIES_KRABBY",
+    "text": {
+        "70": "Kingler",
+        "235": "The larger pincer has 10,000-\nhorsepower strength. However, it\nis so heavy, it is difficult to aim.",
+        "236": "The larger pincer has 10,000-\nhorsepower strength. However, it\nis so heavy, it is difficult to aim.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Pincer Pokémon",
+        "268": "132.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Kingler",
+        "284": "KINGLER"
+    }
 }

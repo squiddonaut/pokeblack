@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_POISON", "TYPE_POISON" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_BLACK_SLUDGE"
+        "rare": "ITEM_BLACK_SLUDGE",
+        "rare_2": "ITEM_NUGGET"
     },
-    "unk_10": 92,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_STENCH", "ABILITY_STICKY_HOLD" ],
-    "unk_1A": 106,
+    "abilities": [
+        "ABILITY_STENCH",
+        "ABILITY_STICKY_HOLD",
+        "ABILITY_AFTERMATH"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 66,
+    "base_exp_reward": 66,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POUND" ],
@@ -88,7 +91,7 @@
             "MOVE_SELFDESTRUCT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -100,5 +103,16 @@
         "height": 6,
         "weight": 310
     },
-    "offspring": "SPECIES_TRUBBISH"
+    "offspring": "SPECIES_TRUBBISH",
+    "text": {
+        "70": "Trubbish",
+        "235": "The combination of garbage bags and\nindustrial waste caused the chemical\nreaction that created this Pokémon.",
+        "236": "Inhaling the gas they belch will make\nyou sleep for a week. They prefer\nunsanitary places.",
+        "244": "",
+        "245": "2'00\"",
+        "260": "Trash Bag Pokémon",
+        "268": "68.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Trubbish",
+        "284": "TRUBBISH"
+    }
 }

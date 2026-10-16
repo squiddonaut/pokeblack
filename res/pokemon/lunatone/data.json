@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ROCK", "TYPE_PSYCHIC" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_MOON_STONE"
+        "rare": "ITEM_MOON_STONE",
+        "rare_2": "ITEM_COMET_SHARD"
     },
-    "unk_10": 583,
     "gender_ratio": "GENDER_RATIO_NO_GENDER",
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 154,
+    "base_exp_reward": 154,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -99,11 +102,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 10,
         "weight": 1680
     },
-    "offspring": "SPECIES_LUNATONE"
+    "offspring": "SPECIES_LUNATONE",
+    "text": {
+        "70": "Lunatone",
+        "235": "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "236": "Because it turns active on nights\nof the full moon, it is said to have\nsome link to the lunar phases.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Meteorite Pokémon",
+        "268": "370.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Lunatone",
+        "284": "LUNATONE"
+    }
 }

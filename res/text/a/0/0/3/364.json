@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "entries": [
+        "This is the Season Research Lab.{VAR BE01}\nTwist Mountain, just beyond Mistralton,\nhas snow, depending on the season.",
+        "Some Pokémon change their appearance\ndepending on the season.{VAR BE01}\nCould that also be considered\na type of evolution?",
+        "We research changes in nature that\noccur due to the seasons.{VAR BE01}\nConsider the Pokémon called {VAR 0101 0000},\nwhich lives in this forest.{VAR BE01}\nIts appearance is said to change\naccording to the season.{VAR BE01}\nThis characteristic is of great interest\nto us.{VAR BE01}\nWe want to research this Pokémon and\nobserve its seasonal changes.{VAR BE01}\nThat's why we developed a marvelous\nclimate-control system that transcends{VAR BE00}\nthe seasons and allows us to freely{VAR BE00}\nadjust temperature and humidity!{VAR BE01}",
+        "Up to this point, everything has been\nfine...but we are very busy, and we{VAR BE00}\nhaven't really had a chance to catch{VAR BE00}\nmany {VAR 0101 0000} to study.{VAR BE01}\nSo, this is what we would like to ask you.\nFirst, please capture a {VAR 0101 0000}.{VAR BE01}\nThen, when its appearance changes,\ncould you bring it back to the lab?{VAR BE01}\nThen, when we've confirmed the change to\nthe {VAR 0101 0000} you bring us, we will also{VAR BE00}\ngo search for that season's {VAR 0101 0000}.{VAR BE01}",
+        "How about it?{VAR BE01}\nIf you don't mind, would you please show\nus what {VAR 0101 0000} looks like now?",
+        "{VAR 0101 0000}'s Spring Form!{VAR BE01}\nThe luster of its body and its coloring is\nlike a flower field in the spring!{VAR BE01}\nThe scent emanating from it is also\nvery floral.{VAR BE01}\nThank you so much! I want to go catch\nmy own {VAR 0101 0000} right away!",
+        "{VAR 0101 0000}'s Summer Form!{VAR BE01}\nThe luster of its body and its coloring\nis like a thicket in summer!{VAR BE01}\nThe scent emanating from it is also\nvery fresh and green.{VAR BE01}\nThank you so much! I want to go catch\nmy own {VAR 0101 0000} right away!",
+        "{VAR 0101 0000}'s Autumn Form!{VAR BE01}\nThe luster of its body and its coloring\nis like a tree-lined road with falling{VAR BE00}\nleaves dancing down!{VAR BE01}\nThe scent emanating from it is also\nlike dry leaves.{VAR BE01}\nThank you so much! I want to go catch\nmy own {VAR 0101 0000} right away!",
+        "{VAR 0101 0000}'s Winter Form.{VAR BE01}\nThe luster of its body and its coloring\nis like the slope of a mountain!{VAR BE01}\nThe scent emanating from it\nis also like fresh snow.{VAR BE01}\nThank you so much! I want to go catch\nmy own {VAR 0101 0000} right away!",
+        "Thank you very much!{VAR BE01}\nBut we've already caught\nthat Form of {VAR 0101 0000}.",
+        "Oh, I see.{VAR BE01}\nWe would be really grateful if you could\nassist us with our research, but if{VAR BE00}\nyou're too busy...",
+        "Oh! It's you!{VAR BE01}\nThanks to you, we've caught all of\nthe Forms of {VAR 0101 0000}.{VAR BE01}\nNow we can thoroughly study the\nrelationship between Pokémon, seasons,{VAR BE00}\nand climate.{VAR BE01}\nThank you very much.\nIt isn't much, but please accept this.{VAR BE01}",
+        "This is the only place in the world where\nyou can see {VAR 0101 0000}'s four seasonal{VAR BE00}\nForms all at one time.{VAR BE01}\nThey've kind of become our mascots!",
+        "I hate to say this, but that Pokémon is\nnot the {VAR 0101 0000} we're looking for.",
+        "Dreee!",
+        "Dreee! Dree dree!",
+        "Dreen! Droooon!",
+        "Droon...",
+        "The temperature and humidity\ninside the case next to me{VAR BE00}\nare controlled by a machine.",
+        "The glass is slightly cold to the touch.{VAR BE01}\nThe plants inside the case\nhave grown some pretty Berries.",
+        "The glass is very cold to the touch.{VAR BE01}\nThe plants inside the case\nhave lost all their leaves.",
+        "The glass is slightly warm to the touch.{VAR BE01}\nThe plants inside the case\nhave grown small buds.",
+        "The glass is very warm to the touch.{VAR BE01}\nThe plants inside the case\nhave big, healthy leaves.",
+        "Route 6's temperature {VAR 0201 0000} °C",
+        "Route 6's temperature {VAR 0201 0000} °C",
+        "Route 6's temperature {VAR 0201 0000} °C",
+        "Route 6's temperature -{VAR 0200 0000} °C"
+    ],
+    "pad": "c8c8"
+}

@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "There are medicinal herbs that make\nPokémon healthy.{VAR BE01}",
+        "The medicinal herbs imported from\nanother region work very well!{VAR BE01}\nBut Pokémon don't seem to like them,\nbecause they taste a little bitter.",
+        "Welcome! This is straight from the farm!{VAR BE01}\nMoomoo Milk--one bottle for $500.\nWould you like some for your trip?",
+        "Here it is! Your Moomoo Milk!{VAR BE01}",
+        "Oh, my!\nYour Bag is full!",
+        "Oh, my!\nYou don't have enough money!",
+        "Please buy it next time!{VAR BE01}\nJust so you know, our Moomoo Milk\nis straight from the farm.{VAR BE01}\nIt's super fresh!",
+        "A dozen! That's 12 bottles.\nHere it is, your Moomoo Milk!{VAR BE01}",
+        {
+            "text": "One bottle",
+            "flags": 219
+        },
+        {
+            "text": "One dozen",
+            "flags": 219
+        },
+        {
+            "text": "No thanks!",
+            "flags": 219
+        },
+        "Oh, I'm sorry. I'm all sold out.{VAR BE01}\nThat Charles guy bought\neverything I had.",
+        "You! Glad you came!\nYou want something good?",
+        "Then, show me a Pokémon Lv. 30 or more!{VAR BE01}",
+        "Oh! Strong!{VAR BE01}\nYou, great!\nTake this!{VAR BE01}",
+        "Oh! You--not so good yet!{VAR BE01}\nAfter training Pokémon,\ncome back here again!",
+        "You, modest!\nYou should just want something good!",
+        "You! Glad you came!\nGet good at Expert Belts! {VAR BE01}\nIf a Pokémon has an Expert Belt, the\npower of its moves is slightly boosted{VAR BE00}\nwhen they are super effective!",
+        "There must be a convenient town where\neverything is imported and everything{VAR BE00}\nis available.",
+        "Somewhere, there's a laid-back town\nwhere people value the year's seasons.{VAR BE01}\nI heard we've imported a lot of goods\nfrom that town!",
+        "Looking at seasonal vegetables is fun.{VAR BE01}\nBecause when the seasons change,\nthe vegetables available change!",
+        "Whenever we come to the market,\nvegetables of all seasons are available.{VAR BE00}\nIsn't that a marvel?",
+        "Goods carried away from Driftveil arrive\nin a town somewhere else...{VAR BE01}\nYeah. The world is connected.",
+        "Goods carried away from a town\nsomewhere else arrive in Driftveil...{VAR BE01}\nYeah. The world is connected.",
+        "I used to be part of Team Plasma.\nI have various kinds of incense.{VAR BE01}"
+    ],
+    "pad": "5a5a"
+}

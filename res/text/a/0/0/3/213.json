@@ -1,0 +1,95 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cedric: That building serenely towering\nover everything is Dragonspiral Tower.{VAR BE01}\nFrom far in the past, before Unova was\nfounded, it still stands tall today.{VAR BE01}\nOn the top floor, so it's been told,\nthe legendary Pokémon is waiting for{VAR BE00}\na person seeking the truth to appear.",
+        "Cedric: That building serenely towering\nover everything is Dragonspiral Tower.{VAR BE01}\nFrom far in the past, before Unova was\nfounded, it still stands tall today.{VAR BE01}\nOn the top floor, so it's been told,\nthe legendary Pokémon is waiting for{VAR BE00}\na person pursuing ideals to appear.",
+        "Bianca: Hey, {VAR 0100 0000}!{VAR BE01}",
+        "Cedric: Oh, {VAR 0100 0000}!{VAR BE01}\nAnd you must be Bianca.{VAR BE01}\nI'm the other Professor Juniper.{VAR BE01}\nThe Professor Juniper who gave you\nthe Pokédex is my daughter.{VAR BE01}",
+        "Bianca: Nice to meet you, professor!{VAR BE01}\nThanks to Professor Juniper,\nI got to go on a journey and start{VAR BE00}\nfiguring out possibilities for my life.{VAR BE01}\nI'm very, very grateful to her!{VAR BE01}",
+        "Cedric: Is that right? Grand, grand.\nActually, we should chat later.{VAR BE01}\n{VAR 0100 0000}, Bianca,\nhere's the situation.{VAR BE01}\nSome members of Team Plasma--quite\na large group--broke through the{VAR BE00}\ntower wall and went inside.{VAR BE01}\nBrycen and that young man--\nI believe his name is Cheren--{VAR BE00}\nthe two of them went after{VAR BE00}\nTeam Plasma, but...{VAR BE01}",
+        "Bianca: Professor, what's the\nDragonspiral Tower?{VAR BE01}",
+        "Cedric: Ha! I guess you would be curious.\nWell, I'll explain briefly.{VAR BE01}\nDragonspiral Tower has stood tall since\nlong before Unova was founded.{VAR BE01}\nOn the top floor, the legendary\nDragon-type Pokémon waits for{VAR BE00}\na person seeking truth to appear...{VAR BE01}\nThat's what is said.{VAR BE01}",
+        "Cedric: Ha! I guess you would be curious.\nWell, I'll explain briefly.{VAR BE01}\nDragonspiral Tower has stood tall since\nlong before Unova was founded.{VAR BE01}\nOn the top floor, the legendary\nDragon-type Pokémon waits for{VAR BE00}\na person pursuing ideals to appear...{VAR BE01}\nThat's what is said.{VAR BE01}",
+        "Are you going to go after Team Plasma\nlike your friend did?{VAR BE01}\nIt's admirable of you to join the fight\nagainst Team Plasma, but it's risky, too.{VAR BE01}",
+        "Bianca: Don't worry!{VAR BE01}\n{VAR 0100 0000} and Cheren are both\nreally, really strong, and they've{VAR BE00}\nbeaten Team Plasma before.{VAR BE01}\nBut...I'm not all that strong, actually.\nI admit it. I'm not very strong, so{VAR BE00}\nI was thinking...{VAR BE01}\nIt would be nice if, maybe, I could...\nStay here and be your bodyguard?{VAR BE01}",
+        "Cedric: Why, thank you!\nThat makes me feel much safer!{VAR BE01}\nWell, {VAR 0100 0000}!\nIt's up to you! Climb the tower!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "This is all I can give you,\nbut it might help you rest!{VAR BE01}",
+        "Cedric: Still...\nWhat could Team Plasma be after?{VAR BE01}",
+        "Cedric: Still...\nWhat could Team Plasma be after?",
+        "Bianca: {VAR 0100 0000}...\nPlease don't do anything crazy.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cedric: Astounding...{VAR BE01}\nI never would have imagined the legendary\nDragon-type Pokémon would return now...{VAR BE01}",
+        "Cheren: That guy called N...{VAR BE01}\nTeam Plasma's boss apparently\nreawakened the legendary Pokémon.{VAR BE01}\nHe told {VAR 0100 0000} to look for the other\nlegendary Pokémon, then flew away...{VAR BE01}",
+        "Bianca: Huh?{VAR BE01}\nThere are two legendary\nDragon-type Pokémon?{VAR BE01}",
+        "???: Yes! Yes, there are!{VAR BE01}",
+        "Cedric: Why, if it isn't Alder!\nIt's been a while! Have you been well?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Alder: No time for chitchat!{VAR BE01}\nThat fearsome column of fire that\nshot from the tower...{VAR BE01}\nThat Pokémon has the power to\ndestroy the world!{VAR BE01}\nIf it's on Team Plasma's side, and\nTeam Plasma tells everyone{VAR BE00}\nto release their Pokémon...{VAR BE01}\nNo matter whether it comes from fear\nor admiration...{VAR BE01}\nThe world can't help but change.{VAR BE01}\nIt will become a world where we are\nseparated from Pokémon...{VAR BE01}",
+        "Alder: No time for chitchat!{VAR BE01}\nThose violent flashes of lightning\nthat shot from the tower...{VAR BE01}\nThat Pokémon has the power to\ndestroy the world!{VAR BE01}\nIf it's on Team Plasma's side, and\nTeam Plasma tells everyone{VAR BE00}\nto release their Pokémon...{VAR BE01}\nNo matter whether it comes from fear\nor admiration...{VAR BE01}\nThe world can't help but change.{VAR BE01}\nIt will become a world where we are\nseparated from Pokémon...{VAR BE01}",
+        "Cedric: Right...{VAR BE01}\nMoreover, the boss of Team Plasma,\nN, who reawakened Reshiram,{VAR BE00}\napparently said to look for the{VAR BE00}\nother Pokémon, Zekrom.{VAR BE01}",
+        "Cedric: Right...{VAR BE01}\nMoreover, the boss of Team Plasma,\nN, who reawakened Zekrom,{VAR BE00}\napparently said to look for the{VAR BE00}\nother Pokémon, Reshiram.{VAR BE01}",
+        "Alder: If I remember the myth,\nReshiram's fiery breath,{VAR BE00}\nalong with the other Pokémon,{VAR BE00}\ndevastated ancient Unova in an instant.{VAR BE01}\nEven knowing that, N is still\nwanting to awaken the other?!{VAR BE01}",
+        "Alder: If I remember the myth,\nZekrom's powerful electricity,{VAR BE00}\nalong with the other Pokémon,{VAR BE00}\ndevastated ancient Unova in an instant.{VAR BE01}\nEven knowing that, N is still\nwanting to awaken the other?!{VAR BE01}",
+        "Bianca: H-huh?!{VAR BE01}\nIsn't it dangerous to bring back\na Pokémon that powerful?{VAR BE01}",
+        "Alder: Miss, you are a very kind person.{VAR BE01}\nStill, I don't know if other Pokémon\nwill be able to stand up to it.{VAR BE01}\nBecause, no matter what,\nit is a legendary being...{VAR BE01}\nI don't like the idea of taking orders\nfrom N, but searching for the dragon--{VAR BE00}\nthe stone--might not be a bad plan.{VAR BE01}\nWe certainly can't let Team Plasma\nreawaken both of them!{VAR BE01}\nSince I've traveled all over Unova,\nI have an idea of where it might be.{VAR BE01}\nLet's head to the Relic Castle.\n{VAR 0100 0000}, everyone, I'm going!{VAR BE01}",
+        "Cedric: I see. We'll leave that to you.{VAR BE01}\nI'm going to investigate inside the tower.\nHopefully, I'll find something.{VAR BE01}",
+        "Brycen: Then, I will go with you.{VAR BE01}",
+        "Cheren: I think I understand better now.{VAR BE01}\nBeing able to do something for Pokémon--\nfor somebody at a time like this--is{VAR BE00}\nstrength... I'm sure of it.{VAR BE01}\nAnd my strength is something that is\ngiven to me by Pokémon.{VAR BE01}\nOK, Champion, let's hurry!{VAR BE01}",
+        "Bianca: {VAR 0100 0000},\nthis has turned into a big deal.{VAR BE01}\nSo confusing... I dunno what to do...{VAR BE01}\nAre you gonna go to the\nRelic Castle, {VAR 0100 0000}?{VAR BE01}\nPast Route 4, in the Desert Resort...\nI hear that's where the Relic Castle is...",
+        "Bianca: {VAR 0100 0000},\nlook for the Desert Resort past Route 4.{VAR BE00}\nI hear that's where the Relic Castle is..."
+    ]
+}

@@ -1,0 +1,1889 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "Have we met or not? I don't remember.\nWell, nice to meet you!",
+            "flags": 224
+        },
+        "Yahoo! Ya-hoooooo!\nI won again!",
+        "No way! Nooo way...\nI lost again...",
+        {
+            "text": "All right!\nI will show you my power!",
+            "flags": 224
+        },
+        "Amazed? Surprised?\nBy the power of my Pokémon?!",
+        "You are incredible!\nI am astonished and surprised!",
+        {
+            "text": "May... May I help you?!",
+            "flags": 224
+        },
+        "Oh! Oh!\nYes, we can?!",
+        "Un-un-unbelievable!",
+        {
+            "text": "Don't let your guard down,\nor you may cry when a kid beats you...",
+            "flags": 224
+        },
+        "I may be young, but I don't think\nI will lose, even against grown-ups.",
+        "Fweh! I am just a kid!\nYou are fighting for keeps!",
+        {
+            "text": "Let's have an awesome\nPokémon battle!",
+            "flags": 224
+        },
+        "Mmmph! Mmmmmph!\nYou see, it's fun to win!",
+        "You are pretty amazing!\nAnd you have totally exhausted me...",
+        {
+            "text": "Very serious from the very beginning.\nAre you ever really prepared for this?",
+            "flags": 224
+        },
+        "Seriously, winning a serious battle is\nseriously great!",
+        "Seriously, I lost. I am seriously depressed.\nBut you are seriously cool.",
+        {
+            "text": "Go easy on me!\nThis is my first battle...",
+            "flags": 224
+        },
+        "I can't believe I won my first battle!\nSay, did you go easy on me?",
+        "Ouch! That hurts!!\nBut... You are great...",
+        {
+            "text": "You... You know,\nthese Pokémon are my friends.",
+            "flags": 224
+        },
+        "I... I... I am sorry...\nI just wanted to introduce them to you.",
+        "Just being with these Pokémon\nmakes me happy...",
+        {
+            "text": "...Heehee. I'm confident in calculation\nand analysis.",
+            "flags": 224
+        },
+        "Heheh. Exactly as I planned...\nI don't feel like losing.",
+        "Ohhhh... Calculation and analysis\nare no match for coincidence...",
+        {
+            "text": "We're about to have a Pokémon battle.\nAt the very least, we say hello!",
+            "flags": 224
+        },
+        "That could have gone better,\nbut thank you very much.",
+        "I feel like crying in frustration,\nbut thank you very much.",
+        {
+            "text": "I am studying every single day...\nSo I am taking a break for a change.",
+            "flags": 224
+        },
+        "You see, playing with Pokémon is fun.\nI want to study Pokémon.",
+        "Ah, my Pokémon lost...\nI may be better at studying.",
+        {
+            "text": "I want to be a Pokémon research\nscientist when I grow up.",
+            "flags": 224
+        },
+        "I'm wondering if Pokémon research\nprojects require test subjects...",
+        "I must do my best to learn\nmore about Pokémon.",
+        {
+            "text": "Ah... You look strong...\nI hope I will be all right...",
+            "flags": 224
+        },
+        "Oops, you were not as strong\nas I expected... Looks can be deceiving.",
+        "I could tell you are a strong Trainer!\nWhat you see is what you get.",
+        {
+            "text": "I always get the best grades!\nI will try to be No. 1 for everything!",
+            "flags": 224
+        },
+        "I will keep winning, winning, winning...\nI will be No. 1!",
+        "If I lose at such an early stage,\nI cannot be No. 1.",
+        {
+            "text": "Wha--? You wanna fight with me?\nI suppoooose...",
+            "flags": 224
+        },
+        "Ah, I shoulda known.\nDon't blame me.",
+        "Oh, wow. I am no match for you.\nYour Pokémon are great.",
+        {
+            "text": "Mrrrrr... Mmrr grrr...\nGrrrrr... Mrrrrr...",
+            "flags": 224
+        },
+        "Grrrrr... Mmrrrr...\n...Oh? Did I win?",
+        "Grrrrmmm... Mrrr...\nOh? Is that it?",
+        {
+            "text": "Here I am, a master of the universe and\nthe mover and shaker of the future!",
+            "flags": 224
+        },
+        "The class differences always tell.\nI am worried about your future prospects.",
+        "I got carried away.\nI am worried about my future prospects.",
+        {
+            "text": "Are you my opponent?\nYou look kind of hungry.",
+            "flags": 224
+        },
+        "Have you eaten well?\nYou cannot do well on an empty stomach.",
+        "Are you really an ordinary person?\nWhat do you eat?",
+        {
+            "text": "I am a nouveau riche celebrity,\nso I am stingy with my money!",
+            "flags": 224
+        },
+        "Unfortunately, you lost.\nNow, give me your lunch money!",
+        "I lost, but I won't give you\nmy lunch money!",
+        {
+            "text": "My mom chose my Pokémon.\nI don't think I will lose.",
+            "flags": 224
+        },
+        "You see! I am fine as long as\nI listen to my mom.",
+        "Mommy! Mommy! Where are you?\nPlease come and hug me!",
+        {
+            "text": "A Trainer who looks gorgeous!\nI hope your battle is just as beautiful.",
+            "flags": 224
+        },
+        "Such a looker lost against me?!\nI am a little disappointed.",
+        "Oh my, the battle was also gorgeous.\nI find myself drawn to you.",
+        {
+            "text": "What kind of Pokémon do you like?\nHey, hey. Let me see!",
+            "flags": 224
+        },
+        "Your taste in Pokémon is excellent, \nbut you are a disappointment as a Trainer.",
+        "Your taste in Pokémon is truly awful,\nbut you are a first-class Trainer!",
+        {
+            "text": "I am sorry--I lied.\nI am not a rich girl.",
+            "flags": 224
+        },
+        "Everybody paid more attention to me\nwhen I pretended to be rich.",
+        "The truth is I am just the daughter\nof a Clerk ⑭.",
+        {
+            "text": "Ahaha...",
+            "flags": 224
+        },
+        "Ahahaha...",
+        "Argh...",
+        {
+            "text": "Preschooler gonna battle you!\nNice to meet you.",
+            "flags": 224
+        },
+        "Little baby is a winna!\nTank you! Tank you!",
+        "Da Preschooler lost!\nTank you anyways!",
+        {
+            "text": "I am a genius Preschooler!\nI am already prepping for college.",
+            "flags": 224
+        },
+        "You lost against a Preschooler...\nHow old are you again?",
+        "I am confident in studying, but\nI am just a beginner in Pokémon battles.",
+        {
+            "text": "I am a hero!\nI refuse to lose!",
+            "flags": 224
+        },
+        "I AM a hero!\nI beat the bad person!",
+        "A hero never loses.\nA hero never dies.",
+        {
+            "text": "I am very strong.\nI will never lose.",
+            "flags": 224
+        },
+        "Daddy gave me these Pokémon!\nThey've got to be strong!",
+        "AAAAAAAAAH!",
+        {
+            "text": "I thinks it are strange\nit complaining when they lose.",
+            "flags": 224
+        },
+        "When I win, I are glad!\nHip, hip, hurray!",
+        "Boo!! I did lost... I are frustrated,\nbut I guess things my own fault.",
+        {
+            "text": "Are you going to bully me?",
+            "flags": 224
+        },
+        "You didn't bully me. I like you!",
+        "You bullied me, but I like you\n'cause you are strong!",
+        {
+            "text": "Gmmmmm! Pokémon!\nGive it all you've got!",
+            "flags": 224
+        },
+        "Mmmmph! Yahoo! Yahoo!\nThank you very much, Pokémon!",
+        "Boooooo! Come on, Pokémon.\nTry harder!",
+        {
+            "text": "I am four years old! I will do my best!\nTrainer, do your best, too!",
+            "flags": 224
+        },
+        "I am four years old! I did my best!\nTrainer, you are weak.",
+        "I am four years old! I did my best!\nTrainer, you did your best, too!",
+        {
+            "text": "Lalalala... Lalalala...\nI am a loner...",
+            "flags": 224
+        },
+        "Lalalala... Lalalala...\nDrifting like clouds...",
+        "Lalalala... Lalalala...\nUntil I see you again...",
+        {
+            "text": "I am not an ordinary Backpacker,\n'cause I am a newlywed.",
+            "flags": 224
+        },
+        "'Cause my wife and I have no money,\nwe're hitchhiking on our honeymoon.",
+        "This trip is our honeymoon!\nBut I wandered off from my wife...",
+        {
+            "text": "I am in the middle of my penniless travel.\nIt has its own charm.",
+            "flags": 224
+        },
+        "Travel is best when you are poor\nand when you are young.",
+        "Aww... I am hungry...\nPlease spare something...",
+        {
+            "text": "Argh! My backpack is heavy!\nWhy is it so heavy?",
+            "flags": 224
+        },
+        "Why is this backpack so heavy?\nDid you put something in it?",
+        "Arrrgh! Why didn't you wait\nuntil I put down my bag?!",
+        {
+            "text": "I wanted a short trip to heal my broken\nheart, but it's been a few months now...",
+            "flags": 224
+        },
+        "A trip cannot heal my heartbreak...",
+        "I have no home to return to,\nso maybe I will live as a drifter...",
+        {
+            "text": "Hm. I wonder who you are.\nI wonder if you'll have a battle with me.",
+            "flags": 224
+        },
+        "You... You are weak.\nOr am I just strong?",
+        "You are strong.\nI wanna run away.",
+        {
+            "text": "Sometimes I need a little time to rest.\nI will relax here!",
+            "flags": 224
+        },
+        "That was a nice, refreshing time.\nI will work hard tomorrow!",
+        "That was supposed to be refreshing.\nNow I am more stressed out.",
+        {
+            "text": "I hope to work hard, save money,\nand have a quiet life.",
+            "flags": 224
+        },
+        "Everybody has a different dream.\nI just want to have a normal life.",
+        "I want to have security and happiness\nrather than chasing a big dream.",
+        {
+            "text": "Hey! Welcome! \nWe have very fresh ingredients!",
+            "flags": 224
+        },
+        "What do you think of my Pokémon?\nThey are fresh!",
+        "Thank you very much!\nHow were mine?",
+        {
+            "text": "Didn't you come here for\na Pokémon battle?",
+            "flags": 224
+        },
+        "Don't be scared, or\nyou will never win.",
+        "You are a strong Trainer.\nPlease forgive me.",
+        {
+            "text": "Hiya, honey! Welcome!\nHave you decided what you'll have?",
+            "flags": 224
+        },
+        "Order up! One humiliation\nin a Pokémon battle, over easy.",
+        "Order up! One glorious victory\nin a Pokémon battle, sunny side up.",
+        {
+            "text": "Meow, meow, it's a battle, meow.\n(That sounds stupid, doesn't it?)",
+            "flags": 224
+        },
+        "Yeah! Meow! I won, meow!\n(I seriously want to quit this job.)",
+        "Meowww... I lost, meowww.\n(Seriously, I am sooo embarrassed.)",
+        {
+            "text": "My love for Pokémon is stronger than\nanybody else's. Love can do anything.",
+            "flags": 224
+        },
+        "This victory proves\nmy true love for Pokémon.",
+        "Love should conquer all. Love should\nhelp me win, shouldn't it?",
+        {
+            "text": "Oh, do you want to see the Pokémon\nthat I am proudest of?",
+            "flags": 224
+        },
+        "What do you think about my \ndear Pokémon? Aren't they great?",
+        "Oh, my goodness!\nMy poor Pokémon...",
+        {
+            "text": "For the honor of the branch office!\nHere I go!",
+            "flags": 224
+        },
+        "I am the branch manager of the Pokéfan.\nI won!",
+        "Pfft. Good-bye for now, child!\nI'll remember this!",
+        {
+            "text": "I lost a lot of things because\nI love Pokémon too much...",
+            "flags": 224
+        },
+        "I've devoted my life to Pokémon. \nI see things differently than you do.",
+        "I cannot win even with my devotion.\nWhat shall I do?!",
+        {
+            "text": "Listen. I love love love Pokémon.",
+            "flags": 224
+        },
+        "I will be a Pokémon in my next life.",
+        "I love your Pokémon, too!\nPlease let me pet them!",
+        {
+            "text": "I am not good at battling, but\nthis is one of the duties of a Pokéfan.",
+            "flags": 224
+        },
+        "I kept the honor of the Pokéfan.\nHahaha.",
+        "Cheers, all you Pokéfans!!\nMay the Pokéfan last forever!",
+        {
+            "text": "I wanted to go hiking,\nbut I took the wrong train.",
+            "flags": 224
+        },
+        "Well, this place is also interesting.",
+        "Ah, mountains... The mountains are\ncalling me.",
+        {
+            "text": "I am no mere Hiker.\nCall me an alpinist.",
+            "flags": 224
+        },
+        "A mountain maniac like me\nis properly called an alpinist.",
+        "A specialist in mountainous matters.\nThat is an alpinist.",
+        {
+            "text": "I'm a Fisherman, so I have my rod here,\nbut this is cumbersome.",
+            "flags": 224
+        },
+        "I won the battle, but\nI did not need this rod at all.",
+        "Ah... This rod is so cumbersome!\nI will quit fishing!",
+        {
+            "text": "Oh, I kin tell yer rilly sumpthin'.",
+            "flags": 224
+        },
+        "I knew it. You rilly ARE sumpthin'.",
+        "Like always, the big one done got away.",
+        {
+            "text": "I won't be a Parasol Lady without\na parasol, so I must use it.",
+            "flags": 224
+        },
+        "I think it is strange to use\na parasol indoors, though.",
+        "My parasol... My parasol is broken!\nI will be just a Lady.",
+        {
+            "text": "My boyfriend left me on a rainy day.\nSo I will take it out on you.",
+            "flags": 224
+        },
+        "The rain is piercing my broken heart\nand washing it clean.",
+        "They say rainy days never stay,\nbut will the rain in my heart ever stop?",
+        {
+            "text": "I've been waiting for someone like you\nfor a long, long time.",
+            "flags": 224
+        },
+        "I know you are the best.\nI will never let you go.",
+        "I like you.\nPlease be my friend.",
+        {
+            "text": "I won't go easy on you just because\nyou're a kid. Bring it on!",
+            "flags": 224
+        },
+        "Heh. You cannot have a battle\nif you are afraid of losing.",
+        "Humph. I am still weak.\nI feel sorry for my Pokémon...",
+        {
+            "text": "I am bad and stupid, but\nI am very serious about Pokémon.",
+            "flags": 224
+        },
+        "I feel peaceful only when I am with Pokémon.",
+        "I hope you will find something\nyou can be serious about.",
+        {
+            "text": "My shiny bald head is my secret.",
+            "flags": 224
+        },
+        "The more I shave my head,\nthe stronger I can be.",
+        "You should have\na shiny bald head to be stronger.",
+        {
+            "text": "You must be laughing at me 'cause\nI rode this far on my motorbike.",
+            "flags": 224
+        },
+        "I've decided to live my life on my bike.",
+        "I am a coward who cannot even go out\nwithout my bike.",
+        {
+            "text": "I am roaring around on my bike\nand chasing my own dream.",
+            "flags": 224
+        },
+        "I feel I am getting one step closer\nto my dream.",
+        "You have to follow your own dream!",
+        {
+            "text": "I am a Biker.\nBut I've never ridden a bike.",
+            "flags": 224
+        },
+        "I am a Biker.\nI don't have any friends yet.",
+        "I am a Biker.\nI've never won yet.",
+        {
+            "text": "My Pokémon are on the rise! I raised\nthem with special yeast bread!",
+            "flags": 224
+        },
+        "You'll get well again if you\neat my special bread.",
+        "You are strong.\nAre you eating my special bread?",
+        {
+            "text": "One loaf, two loaves... No matter how\nmany times I count, one loaf is missing.",
+            "flags": 224
+        },
+        "One loaf of bread is missing...\nThe master will be angry...",
+        "Oh, I'm so resentful...\nWhere is the missing loaf of bread?",
+        {
+            "text": "Hey, you!\nDo you eat a good breakfast every day?",
+            "flags": 224
+        },
+        "I never miss breakfast,\nso I am healthy and plump!",
+        "The first step for healthy living is\nto eat a good breakfast.",
+        {
+            "text": "I am not loafing on the job!\nI am on patrol!",
+            "flags": 224
+        },
+        "This place is dangerous!\nThis is too much fun!",
+        "I know about trouble like you!\nI am keeping my eye on you!",
+        {
+            "text": "I am a Policeman!\nIn other words, I am justice!",
+            "flags": 224
+        },
+        "Justice always prevails!\nThat is why I won!",
+        "I... I am a Policeman!\nWhy did justice fail?",
+        {
+            "text": "I got scolded by my boss, and I lost\nmy motivation. I'll take it out on you!",
+            "flags": 224
+        },
+        "Hehehe. You see!\nI am brilliant here.",
+        "Oh, man! \nAm I useless here, too?",
+        {
+            "text": "I am young and fresh!\nI am nothing if not young!",
+            "flags": 224
+        },
+        "What do you think? What do you think?\nI am very strong, aren't I?",
+        "I am fine even when I lose a battle.\nI am lively, lively!",
+        {
+            "text": "I worked my way up to the top of the\ncomedians, and now I am a big shot.",
+            "flags": 224
+        },
+        "You have a good sense of humor.\nDo you want to be my assistant?",
+        "Looking at you reminds me of friends\nfrom when I was working my way up.",
+        {
+            "text": "I cannot do impressive stunts,\nso I will perform normally.",
+            "flags": 224
+        },
+        "I am sorry. I shouldn't have won.\nI am just a Harlequin.",
+        "I am a Harlequin, but I'm sorry I cannot\nplay the fool after I lose.",
+        {
+            "text": "I am smiling, though I am sad at heart.\nThis is the play of a lifetime!",
+            "flags": 224
+        },
+        "You! That's not in the script!\nYou ruined the play!",
+        "Ha ha ha! It is the destiny of a Harlequin\nto smile when he loses.",
+        {
+            "text": "Oh, no! I came to play\nwithout taking off my uniform.",
+            "flags": 224
+        },
+        "Wow! Seriously? I won!\nI cannot go home when I win.",
+        "Ahhhhh! And I lost!\nThis is not my day.",
+        {
+            "text": "You know, I am very popular,\nthanks to this costume.",
+            "flags": 224
+        },
+        "Being popular is simple...\nI like it that way.",
+        "I feel good 'cause I am popular, but\nsometimes I feel empty.",
+        {
+            "text": "Welcome back.\nYou must be tired from your work.",
+            "flags": 224
+        },
+        "You must be tired.\nPlease do rest awhile.",
+        "That was superb!\nYou are very strong indeed.",
+        {
+            "text": "I used to be so popular, but\nnow I am all washed up.",
+            "flags": 224
+        },
+        "I was overwhelmed by success, I took it\nfor granted, and I did not work hard.",
+        "As times change, values change.\nI realized it too late.",
+        {
+            "text": "Well, well, you strike impressive poses.\nIf you lose, I hope you'll model for me.",
+            "flags": 224
+        },
+        "I will do a sketch of you,\nfrustrated by failure. Please hold still.",
+        "Please wait. I can create a masterpiece\nif you are my model.",
+        {
+            "text": "Sensitivity is important for battles, too.\nYou! Feel it!",
+            "flags": 224
+        },
+        "You need to feel it more! More!\nOtherwise you cannot win!",
+        "Ahh! I sense it!\nI sense your hypersensitive sensitivity!",
+        {
+            "text": "Everybody grows bit by bit\nif somebody cherishes them.",
+            "flags": 224
+        },
+        "I have cherished these Pokémon\nsince they were small.",
+        "You are also here \nbecause someone cherished you.",
+        {
+            "text": "These days, when children fight,\ntheir parents fight on their behalf.",
+            "flags": 224
+        },
+        "Children of childish parents.\nWhat kind of adults will they become?",
+        "Childish fights among adults are\nworse than fights among kids.",
+        {
+            "text": "Iaaaa! You are cute!\nI want to take you home as my own!",
+            "flags": 224
+        },
+        "Your face is cute even when you've lost!\nI want to comfort you, little one!",
+        "Ooooh! You are really cute!\nI want to raise you as my own!",
+        {
+            "text": "I'll show you we can break you.\nWe've trained in the field!",
+            "flags": 224
+        },
+        "How were my Pokémon?\nThey're very powerful, aren't they?",
+        "That's strange! I wonder why...\nI shouldn't be outmuscled.",
+        {
+            "text": "Oh, you look very active!\nWhat say we battle?",
+            "flags": 224
+        },
+        "OK! It's done!\nHow are my partners?",
+        "Goood, you are young!\nMy partners were totally crushed!",
+        {
+            "text": "Pokémon battles after work\nare the one thing I truly enjoy.",
+            "flags": 224
+        },
+        "Ahhhhhhhhh!\nThat's why I cannot quit training Pokémon.",
+        "Urrrrrrrgh. It hurts.\nIt hurts for a single man like me.",
+        {
+            "text": "Pokémon are popular at work, too.\nOld guys can enjoy these battles!",
+            "flags": 224
+        },
+        "Am I good for a guy who just\nbattles during his lunch breaks?",
+        "Old guys and kids can both enjoy\nbattling with Pokémon.",
+        {
+            "text": "Keep pedaling even when your legs\ncrumble. This is the secret of Cyclists.",
+            "flags": 224
+        },
+        "A Pokémon trained by cycling\ncould never lose against a person like you.",
+        "My cycling has no limits.\nI will challenge you again someday.",
+        {
+            "text": "My steel-wheeled friend brought me here.\nIsn't it the greatest ever?",
+            "flags": 224
+        },
+        "This is my best friend forever!\nAlways reliable and true as steel!",
+        "I blundered, stumbled, and lost...\nWell, I still have my one and only.",
+        {
+            "text": "Fun time is over.\nTime to wake up!",
+            "flags": 224
+        },
+        "The end always comes as a shock.",
+        "You are greatly mistaken if you\nthink you can dream forever.",
+        {
+            "text": "I'm done! It's just not good enough.\nA Bicycle is not enough of a challenge.",
+            "flags": 224
+        },
+        "A Bicycle cannot satisfy me.\nI will join the Bikers!",
+        "Faster!! I want a speed that nobody\ncan beat!",
+        {
+            "text": "I won't surrender to you.\nYou are nothing but a young fellow!",
+            "flags": 224
+        },
+        "I won't lose against whippersnappers!\nI shall struggle on until the day I die!",
+        "Impressive! You are skillful for a\ngreen stripling, young fellow!",
+        {
+            "text": "Like a powerful foaming cleanser,\nI will remove you!",
+            "flags": 224
+        },
+        "Like a well-polished tile,\nthis is a sparkling victory!",
+        "Like a worn-out dust rag...",
+        {
+            "text": "I am doing this job because\nI love love love trains.",
+            "flags": 224
+        },
+        "You are happy if you choose something\nyou like as a job.",
+        "I love trains too much.\nIt's a sickness, really...",
+        {
+            "text": "Your journey will end here.\nI am your terminal.",
+            "flags": 224
+        },
+        "I praise you for coming up here.\nBut now, go home!",
+        "Ah... I didn't see it coming.\nI will rest over here...",
+        {
+            "text": "I need to prove I'm worthy.\nI cannot lose against a child.",
+            "flags": 224
+        },
+        "Am I childish? Adults do\nwhatever it takes to win.",
+        "My honor, my pride... I cannot show myself\nto my coworkers in such a miserable state.",
+        {
+            "text": "Hey, I've learned a few things in my time.\nLet me demonstrate!",
+            "flags": 224
+        },
+        "Not everyone likes me, but\nI am quite the Trainer, aren't I?",
+        "Your technique shows wisdom...\nAre you also an old man?",
+        {
+            "text": "They say a company with lively workers\nis a good company!",
+            "flags": 224
+        },
+        "I work hard all the time!\nI can battle 24/7!",
+        "Oh, look at the time!\nI have to get back to work!",
+        {
+            "text": "My boss is seriously annoying!\nI believe I'll take it out on you!",
+            "flags": 224
+        },
+        "Thank you for having a battle with me.\nI feel much better.",
+        "You should choose your company carefully,\nbecause you cannot choose your boss.",
+        {
+            "text": "Are you my next patient?\nGet over here!",
+            "flags": 224
+        },
+        "Good, good. I am glad\nthat you and your Pokémon are obedient.",
+        "Wait! You, wait!\nThe surgery has not started yet!",
+        {
+            "text": "When there is a patient, I will be there.\nThat is my job.",
+            "flags": 224
+        },
+        "Please put yourself at ease!\nYour Doctor is here.",
+        "If you are hurt, please call me.\nI'll be there for you.",
+        {
+            "text": "Please go easy on me.\nI just finished my night shift.",
+            "flags": 224
+        },
+        "After all that work, let's relax\nwith some Pokémon battles!",
+        "Yawn... I'm sleepy...\nI can't stay awake any longer...",
+        {
+            "text": "How are you and your Pokémon?",
+            "flags": 224
+        },
+        "I will inject you with my energy!",
+        "People can do so much\nas long as they have energy!",
+        {
+            "text": "A Gentleman should have\na liking for battles.",
+            "flags": 224
+        },
+        "A Gentleman should bask\nin the elegant glow of his victory.",
+        "A Gentleman should accept the result of\na battle with a stoic mind.",
+        {
+            "text": "I will evaluate your ability.",
+            "flags": 224
+        },
+        "Hm... As a Trainer, you are\nat the level of a Preschooler.",
+        "Hmm... As a Trainer, you are\nat the level of Pokéfans.",
+        {
+            "text": "You can learn a lot from mature women,\nsuch as wisdom and good manners.",
+            "flags": 224
+        },
+        "Woohoo! Were you knocked out by\nthe Socialite's charm?",
+        "Did you enjoy the battle with me?",
+        {
+            "text": "Oh-ho! Let's have a unique\nand elegant battle.",
+            "flags": 224
+        },
+        "Ah-ha! I was not confident, \nbut this is a delightful surprise.",
+        "Eeeeee! I'll remember this!",
+        {
+            "text": "Obedient Pokémon, selfish Pokémon...\nPokémon have unique characteristics.",
+            "flags": 224
+        },
+        "You should not get angry at your Pokémon,\neven when you lose.",
+        "It is important to nurture and train\neach Pokémon's characteristics.",
+        {
+            "text": "Do you discipline your Pokémon?\nPampering them too much is no good.",
+            "flags": 224
+        },
+        "You need to discipline Pokémon you\nlove when they are misbehaving.",
+        "Too much praise can spoil\nboth Pokémon and people.",
+        {
+            "text": "Pokémon never betray you.\nThey will return the love you give them.",
+            "flags": 224
+        },
+        "This proves my love has been received\nby my Pokémon.",
+        "It's about time for me to give someone\nmy affection, though.",
+        {
+            "text": "Shall I give you a tip for\ntraining good Pokémon?",
+            "flags": 224
+        },
+        "The tip for training good Pokémon is\nto catch good Pokémon.",
+        "You don't seem to need any tips\nfor training good Pokémon.",
+        {
+            "text": "Glad you made it! It won't be\nan easy job from here.",
+            "flags": 224
+        },
+        "Haha! You see!?\nYou are not ready yet.",
+        "Earlier I got a little carried away,\nbut what job was I talking about?",
+        {
+            "text": "Both my mom and dad are Ace Trainers.\nSo I am an Ace, too!",
+            "flags": 224
+        },
+        "I want to be an Ace Trainer like\nmy mom and dad.",
+        "Waaaa! I should have superior genes and\nbe able to ride on my parents' coattails...",
+        {
+            "text": "I don't mind your lack of focus, but you\nwill get no sympathy from me if you lose.",
+            "flags": 224
+        },
+        "Ah, you see! You did not focus\non the battle. That's why you lost.",
+        "That is quite enough. It's over.\nDon't stare at me!",
+        {
+            "text": "Dad... Mom...\nI'll have a battle. Look...",
+            "flags": 224
+        },
+        "Dad... Mom...\nDid you see me? I won... I won!",
+        "Dad... Mom...\nWhat shall I do?",
+        {
+            "text": "I came here to goof off.\nI don't want to cram for the big test...",
+            "flags": 224
+        },
+        "I cannot lose...\nI don't want to study anymore.",
+        "No! I don't want to go home!\nI don't want to study!",
+        {
+            "text": "I just want to be successful\nand grow rich someday.",
+            "flags": 224
+        },
+        "My dream is simply to be rich.",
+        "I will be rich someday and\nput you to shame.",
+        {
+            "text": "I don't care who you are\nor where you come from.",
+            "flags": 224
+        },
+        "How should we act?\nThat is all that matters, isn't it?",
+        "A label is not important, is it?\nAfter all, you are you, aren't you?",
+        {
+            "text": "Pokémon battles and study sessions\nare much the same. Let's be efficient!",
+            "flags": 224
+        },
+        "You are too inefficient.\nYou need to be more quick and responsive.",
+        "How did I lose against such a slacker?\nI cannot believe it!",
+        {
+            "text": "I have money to burn,\nso I don't want anything.",
+            "flags": 224
+        },
+        "The only thing I enjoy\nis a Pokémon battle...",
+        "Just because I am rich\ndoes not mean I am especially happy.",
+        {
+            "text": "Yes! I am a Rich Boy!",
+            "flags": 224
+        },
+        "Well, good-bye!\nYou have been beaten by a Rich Boy!",
+        "Thank you! Merci!\nYou defeated a Rich Boy!",
+        {
+            "text": "I just battle for fun,\nbut I'll do my best.",
+            "flags": 224
+        },
+        "Well, I only won by chance.\nPlease pay it no mind.",
+        "It's good when you battle for fun.\nIf it's too serious, you won't enjoy it...",
+        {
+            "text": "Yesterday was a party. Today is a\nbattle. I am rich. I always have fun!",
+            "flags": 224
+        },
+        "I do not have to work,\nbecause I am loaded with cash.",
+        "All play makes me a dull girl.\nDo you think I don't know that?",
+        {
+            "text": "I'm proud of these Pokémon!\nGo on, rush the enemy position!",
+            "flags": 224
+        },
+        "My Pokémon are mighty!\nI will carve my name in history!",
+        "I won't cry... I won't.\nSomeday, I will be able to win.",
+        {
+            "text": "I came here for my big brother\nwho always hides in his room.",
+            "flags": 224
+        },
+        "My big brother the hermit,\nI won for you! Come out and play!",
+        "I wish my brother would\ncome out of his room and play with me...",
+        {
+            "text": "Hello me old china,\ntime for the rhyma!",
+            "flags": 224
+        },
+        "Bit of a Pokémon read and write,\nTrainer, many clinks!",
+        "Even if you dipper, you'll be fine.\nBest of friar, Trainer!",
+        {
+            "text": "All Dad and Mom do is mumble\nat their computers! That's no fun!",
+            "flags": 224
+        },
+        "I don't like Dad, or Mom, or computers!\nAll I need are my Pokémon!",
+        "Instead of mumbling to computers,\nI wish they would talk to me...",
+        {
+            "text": "A globe-trotting young adventurer.\nThat's me!",
+            "flags": 224
+        },
+        "Seeing Pokémon all over the world is\nthe purpose of my journey.",
+        "Adventure is calling me.\nFarewell! See you again!",
+        {
+            "text": "Let's take it easy\nwith Pokémon and with life.",
+            "flags": 224
+        },
+        "It's OK to bust your tail. But you need\nto have some breathing room.",
+        "No problem. No problem.\nI will have another chance.",
+        {
+            "text": "I've traveled 3,000 miles searching\nfor a husband! A journey to nowhere.",
+            "flags": 224
+        },
+        "Please let me know if there is a rich,\nwealthy, or affluent gentleman!",
+        "My goal is a wedding band...\nBut is that really a utopia?",
+        {
+            "text": "A game is life,\nbut life is not a game.",
+            "flags": 224
+        },
+        "I am always serious. You cannot win\nif you think this is just a game.",
+        "I'll give up games forever and set out\non a journey... Just kidding!",
+        {
+            "text": "I'll always work part-time, because\nit lets me focus on what I really love.",
+            "flags": 224
+        },
+        "You have only one life to live.\nAre you doing what you want to do?",
+        "I want to play here forever\nwithout being tied down.",
+        {
+            "text": "I took this job 'cause I wanted to see\nsmiles on people's faces.",
+            "flags": 224
+        },
+        "Don't look at me like that.\nSmile! Smile!",
+        "It's very frustrating,\nbut I am glad I saw you smile.",
+        {
+            "text": "Let's start a battle already!\nWe are wasting time.",
+            "flags": 224
+        },
+        "What? Is it already over?\nWe still have lots of time.",
+        "We ran out of time.\nWe cannot go into overtime!",
+        {
+            "text": "I am battling here to promote\nthe café where I work.",
+            "flags": 224
+        },
+        "You are not that strong,\nso you are not really right for my café.",
+        "Yowza! What a strong Trainer!\nSee you at my café next time, OK?",
+        {
+            "text": "Join the Pokéfans.\nYour life will be happy!",
+            "flags": 224
+        },
+        "If you join the Pokéfans,\nyou'll be strong like me!",
+        "If you join the Pokéfans,\nyour life will be saved!",
+        {
+            "text": "I am not a regular Pokéfan.\nI am a major mega-Pokéfan!",
+            "flags": 224
+        },
+        "I love Pokémon.\nI love love Pokémon!",
+        "You'll remember this!\nI am a big Pokéfan!",
+        {
+            "text": "I think I am a Pokéfan,\ntherefore I am a Pokéfan.",
+            "flags": 224
+        },
+        "The Pokéfan is power.",
+        "You should remember this.\nI am a Pokéfan.",
+        {
+            "text": "There are young and beautiful people,\nbut youth is different from beauty.",
+            "flags": 224
+        },
+        "If I had known that when I was young,\nI would not have a hard time now...",
+        "Youth is just youth.\nI wish I had realized it back then.",
+        {
+            "text": "Ho there! You are a mountain standing\nin my way, aren't ya?",
+            "flags": 224
+        },
+        "Yahoooooo!! Yahoooooooo!\nHear my cry of triumph!",
+        "Grrr... My victory has disappeared\nin a crevasse...",
+        {
+            "text": "Hi! Sorry to keep you waiting!\nI am a Hiker. I have a cult following!",
+            "flags": 224
+        },
+        "Oh no? It's over already?\nHiker is bored!!",
+        "This is important, so remember this!\nDon't judge a book by its cover!",
+        {
+            "text": "Despite my appearance, I am the head\nof a certain outfit. Don't tell anyone.",
+            "flags": 224
+        },
+        "Don't tell anyone that I am playing here.",
+        "The boss does not have freedom.\nI feel like a captured Pokémon.",
+        {
+            "text": "The truth is, I want to have a quiet life\nfishing all day, every day.",
+            "flags": 224
+        },
+        "Ah... I don't want to do anything but fish.\nI am tired of winning and losing.",
+        "At my time of life, it doesn't matter\nif I win or lose.",
+        {
+            "text": "Hello? Me? What, now?\nI am about to have a battle.",
+            "flags": 224
+        },
+        "Hello? Can you hear me?\nI just won the battle.",
+        "Ah... Hello? Can you hear me?\nArgh! I lost...",
+        {
+            "text": "He told me that I was like a squall,\nbut what is a squall?",
+            "flags": 224
+        },
+        "W-wah! Wahhh!\nI am so happy that I am crying.",
+        "W-w-wahhhhh! Wahhhhh!\nWahhhhh! Wahhhhh!",
+        {
+            "text": "No need to chat with someone\nI'm about to battle.",
+            "flags": 224
+        },
+        "Life is over if you lose.\nThat's why I hold out.",
+        "Don't look at miserable me!\nGo away!",
+        {
+            "text": "You have your way.\nI have my way.",
+            "flags": 224
+        },
+        "I will go my way 'cause\nI don't have any other way.",
+        "Your way must be rocky.\nGood luck. I am behind you all the way.",
+        {
+            "text": "Hey, you! Don't mess with me,\nor I will destroy your Pokémon!",
+            "flags": 224
+        },
+        "Thought you might make trouble for me,\nbut what a wimpy attack!",
+        "How could I lose to such a wimpy move?\nGah, that bugs the snot out of me!",
+        {
+            "text": "My dad and mom are both Veterans,\nbut I am a loser...",
+            "flags": 224
+        },
+        "I wonder if my mom and dad will be sad\nif they see that I've become a Roughneck.",
+        "I cannot be like my mom and dad.\nSo I will live as a Roughneck.",
+        {
+            "text": "My partner has turned to dust,\nbut his Pokémon is my Pokémon now.",
+            "flags": 224
+        },
+        "Are you watching me, my long-lost partner?\nThat Pokémon of yours, we get along...",
+        "He was trash, but now he is eternal,\nlike the stars in the sky... Ah, my partner!",
+        {
+            "text": "I am no good at speaking...\nSo my bike speaks...",
+            "flags": 224
+        },
+        "Zooooom! Zoom whoosh!\nZooooom! Zoom zam!",
+        "Vroom! Vroom! Vroom!\nVrooooooooom! Vroom!",
+        {
+            "text": "All right! Are you ready?\nDon't mess with a Biker!",
+            "flags": 224
+        },
+        "I'm a Biker, so I'm more obsessed\nwith speed than anyone else!!",
+        "The truth is we are good guys.\nWe cannot do bad things at all!",
+        {
+            "text": "Like uncooked dough,\nmy Pokémon are sticky!",
+            "flags": 224
+        },
+        "Now you're stuck, aren't ya?",
+        "Well, your Pokémon are quite springy, too.",
+        {
+            "text": "As I bake bread, I will bake your\nPokémon, too.",
+            "flags": 224
+        },
+        "Oh my... Your Pokémon are like\nburned bread.",
+        "Ah, how frustrating and disappointing!\nYou burned me with that last move...",
+        {
+            "text": "Just as I knead the dough,\nI'll knead you into shape.",
+            "flags": 224
+        },
+        "Wanna be kneaded a little more?\nOr shall I sandwich you with bread?",
+        "Ooooo! I'll remember this!\nI'll turn you into a sandwich someday!",
+        {
+            "text": "Laughing makes people feel better.\nThere seems to be scientific proof!",
+            "flags": 224
+        },
+        "Haaa ha ha! Ha?\nWhat's wrong? Let's laugh!",
+        "Laugh at miserable me--I lost against\namazing you. Laugh and you'll feel better.",
+        {
+            "text": "You think you can win against me?\nIt might not go as smoothly as you think.",
+            "flags": 224
+        },
+        "Don't underestimate me just because\nI am a Harlequin.",
+        "No. This can't be happening.\nYou're not an ordinary person.",
+        {
+            "text": "Observe my beautiful Pokémon magic!\nPlease watch closely!",
+            "flags": 224
+        },
+        "I know a few gimmicks and tricks,\n'cause this is magic.",
+        "Tricks and magic are my bread and butter.\nAny Harlequin knows their worth!",
+        {
+            "text": "Tedious talk is unnecessary...\nI will just break you...",
+            "flags": 224
+        },
+        "What? Are you broken already?",
+        "Ugh, I'm broken...",
+        {
+            "text": "I have low self-esteem,\nso I like someone to give me orders.",
+            "flags": 224
+        },
+        "You are not my boss, so\nit doesn't matter even if you are weak.",
+        "Can I call you my boss?",
+        {
+            "text": "This outfit is not a uniform,\nit's what I like to wear. I made it myself.",
+            "flags": 224
+        },
+        "This is a uniform from an anime.\nDoesn't it look good on me?",
+        "I want to live in a world of games,\nanime, and comics forever.",
+        {
+            "text": "I'm not cut out for a regular job,\nso I live on art.",
+            "flags": 224
+        },
+        "I envy Pokémon, 'cause they are\ncarefree. I want to be a Pokémon.",
+        "Bah, if I can do a regular job,\nI will quit doing this stinking art.",
+        {
+            "text": "Every time a Pokémon uses a move,\nmy heart will tremble!",
+            "flags": 224
+        },
+        "Nothing stirs the soul\nmore than Pokémon moves.",
+        "Aha! Pokémon moves are so beautiful!\nI could almost faint!",
+        {
+            "text": "I will make you cry,\n'cause you just don't know when to quit.",
+            "flags": 224
+        },
+        "A state of deep sorrow and confusion\ncan also be art.",
+        "Someday, you will appreciate the value\nof defeat and sorrow.",
+        {
+            "text": "Our job is hard,\n'cause it's such physical work.",
+            "flags": 224
+        },
+        "My work gave me these great muscles.",
+        "Don't underestimate the power of kids.\nLike I did with you!",
+        {
+            "text": "Raising Pokémon and raising kids.\nBoth are very hard.",
+            "flags": 224
+        },
+        "When my Pokémon do well like this,\nI forget my everyday troubles.",
+        "Even I raise them with tender care,\nbecause I am their Trainer...",
+        {
+            "text": "Hey, you!\nI promise I will take it easy on you!",
+            "flags": 224
+        },
+        "Heheh... I will take it easy on you. Heh.",
+        "Sometimes even grown-ups want\nsomeone to take care of them.",
+        {
+            "text": "The job site is quite dangerous, but\nI'll have to keep working with Pokémon.",
+            "flags": 224
+        },
+        "I have trained my Pokémon well,\nand it's ready to go to the job site.",
+        "Ugh. I cannot make money tomorrow\n'cause I am injured.",
+        {
+            "text": "Welcome!",
+            "flags": 224
+        },
+        "Only the winner!\nOnly the winner can celebrate.",
+        "Enough... That's enough...",
+        {
+            "text": "I do menial work every single day.\nAm I just a cog in the machine?",
+            "flags": 224
+        },
+        "I am well broken in. No snags slow down\nthe smooth running of this machine!",
+        "I may be happier than a person who\ncannot even be a cog in the machine.",
+        {
+            "text": "Yo, kid! Are you new? I'm the Worker\nthat everybody is talking about.",
+            "flags": 224
+        },
+        "If you don't know me, you're bogus!\nGood-bye! The Worker is heading out.",
+        "Kid! Remember me! I am the Worker\neverybody's talking about.",
+        {
+            "text": "Well, let me introduce myself.\nThese are my little darlings.",
+            "flags": 224
+        },
+        "How was it? My little darlings are tough and\ncute, aren't they?",
+        "Phew! Your little darlings are awesome, too!",
+        {
+            "text": "Whir, whir, whir, whoooosh!",
+            "flags": 224
+        },
+        "Ring-ring! Ding-ding!",
+        "Bam!",
+        {
+            "text": "This is the very latest model,\na limited-edition, carbon-fiber Bicycle.",
+            "flags": 224
+        },
+        "When you have good tools,\nyou feel better about yourself.",
+        "Don't! Please don't touch my Bicycle.\nYou'll cover it with your filthy fingerprints.",
+        {
+            "text": "Speed is the key in a battle!\nDash! Dash! Dash!",
+            "flags": 224
+        },
+        "If I compare how I'm feeling right now to a\nrace, it is just like crossing the finish line!",
+        "I cannot take your nonsense anymore!\nI am moving back to my mother's place.",
+        {
+            "text": "Hey, you! Take out all the Pokémon\nyou have here!",
+            "flags": 224
+        },
+        "Huh? That's all you have?\nAren't you hiding a few more Pokémon?",
+        "I see. There seems to be nothing\nsuspicious about you or your Pokémon.",
+        {
+            "text": "I'll protect my peace by myself.",
+            "flags": 224
+        },
+        "My peace remains protected.",
+        "Please don't disturb my peace and quiet.",
+        {
+            "text": "I was born to work.\nThat is my destiny.",
+            "flags": 224
+        },
+        "I will work, work, and work some more.\nI am happy only when I am working.",
+        "As a matter of fact, having battles\nis my job, too.",
+        {
+            "text": "I'm-a lowest rank now, but\nI'm-a gonna be at the top someday!",
+            "flags": 224
+        },
+        "I'm-a gonna be the brightest star\nin the business! Top of the world, ma!",
+        "You work it like a shining star!\nI'm not gonna lose, I'm not gonna lose!",
+        {
+            "text": "I have an ambition!\nI will take over the company!",
+            "flags": 224
+        },
+        "All this serves my ambition!\nIt brings my sweet victory one step closer!",
+        "I was obsessed with the golden prize,\nwith my glittering ambition!",
+        {
+            "text": "I am treated as an idol at the office.\nEverybody pampers me.",
+            "flags": 224
+        },
+        "Everybody works for me,\nso I have nothing to do.",
+        "The truth is I don't like brushing my teeth\nor taking a bath, but don't tell anyone.",
+        {
+            "text": "You look dusty.\nI'll give you a good scrub!",
+            "flags": 224
+        },
+        "OK, you look a little bit cleaner now!",
+        "Hey! Don't run away!\nYou need to be scrubbed more!",
+        {
+            "text": "These fruits of stubbornness were raised\nstubbornly by a stubborn old man.",
+            "flags": 224
+        },
+        "This stubborn old man raised them.\nMy persistence is different from yours!",
+        "There's a fine line between persistence\nand stubbornness. I may retire soon.",
+        {
+            "text": "I'm good at driving, but\nI'm not good at dealing with Pokémon.",
+            "flags": 224
+        },
+        "Oh, it went unexpectedly well.\nBy any chance, am I a technician?",
+        "My train does what I need. It's harder to\nconvince living Pokémon to do things my way.",
+        {
+            "text": "I've never left this place even once\nsince I was born.",
+            "flags": 224
+        },
+        "I wonder if I will live here\nfor the rest of my life...",
+        "I wonder how long I will stay here...\nWhat is there outside this world?",
+        {
+            "text": "I say this as a Doctor.\nFirst of all, you must save money.",
+            "flags": 224
+        },
+        "Money cannot buy health.\nBut you cannot stay healthy if you're poor.",
+        "Because without money, you can neither\neat healthy food nor go to see a Doctor.",
+        {
+            "text": "As you can see, I am a Doctor,\nbut I've never examined a patient.",
+            "flags": 224
+        },
+        "I've studied to become a Doctor,\nbut I faint when I see blood.",
+        "I am a Sunday Doctor,\nrather like a Sunday driver.",
+        {
+            "text": "Can you understand\nwhat medical personnel need?",
+            "flags": 224
+        },
+        "What a Doctor needs is love--\nthe rush of unconditional love.",
+        "Medical service is love.\nCan you be a Doctor?",
+        {
+            "text": "I took this job because I wanted\nto be needed by someone.",
+            "flags": 224
+        },
+        "My job is hard,\nbut I am happy to help people.",
+        "When a patient leaves the hospital,\nI feel happy but a bit sad.",
+        {
+            "text": "Grown-ups have a lot of hobbies.\nActually, I am a uniform collector.",
+            "flags": 224
+        },
+        "I am not a Nurse.\nI wear this uniform just for fun.",
+        "You realized that I am a fake Nurse!\nYes, I am just a uniform collector.",
+        {
+            "text": "Even if you are injured, I will treat you.\nSo let's fight hard.",
+            "flags": 224
+        },
+        "Sorry! I went too far. Do you require\nimmediate hospitalization?",
+        "You went too far! I will bill you\nthe cost of my medical expenses!",
+        {
+            "text": "I raised these very special Pokémon\nusing a special method.",
+            "flags": 224
+        },
+        "Pokémon will be strong or weak\ndepending on how you raise them.",
+        "Ugh... It wasn't supposed to be like this.\nDid I blend the essence wrong?",
+        {
+            "text": "Shall I share an exclusive tip\nfor training great Pokémon?",
+            "flags": 224
+        },
+        "You'll be perfect if you buy my book\nof Pokémon training tips.",
+        "You'll be fine if you buy my DVD\nof Pokémon training tips.",
+        {
+            "text": "Pokémon are my family!\nSee the solidarity of my family!",
+            "flags": 224
+        },
+        "Well done, brothers and sisters!\nOur family solidarity is invincible!",
+        "NO! My family!\nWhat have you done?!",
+        {
+            "text": "What you like and what you're good at\nare different, or at least separate.",
+            "flags": 224
+        },
+        "I am good at battling,\nbut I don't enjoy it very much.",
+        "If you like what you do as a job,\nyou have a sense of fulfillment, don't you?",
+        {
+            "text": "In summary, you cannot win against me.",
+            "flags": 224
+        },
+        "You see, you cannot win, because\nyou are very weak.",
+        "Hummmm... You are good.\nYou are really pretty good.",
+        {
+            "text": "Don't underestimate me because I'm old.\nI'll show you my rejuvenating attack!",
+            "flags": 224
+        },
+        "I'm old but still going strong!\nI can take care of myself!",
+        "What a cruel way to treat a helpless\nold man! Shame on you!",
+        {
+            "text": "I would like to retire soon. But I have\nno one to carry on the family tradition...",
+            "flags": 224
+        },
+        "If I had a child like you,\nmy golden years would be carefree...",
+        "I wish my son were\nas mature as you are.",
+        {
+            "text": "I feel sad when I see a young and\nbright child like you.",
+            "flags": 224
+        },
+        "The first flush of youth...\nYou are too bright for me...",
+        "Sparkling eyes, firm skin...\nI won't get them back.",
+        {
+            "text": "Hey! It's me. It's me!\nI am the best Pilot in the world!",
+            "flags": 224
+        },
+        "How's that? Pwned!!",
+        "You! Who are you?!\nDo you know who I am?",
+        {
+            "text": "I'm at the top of the heap! I'm a man\nwho always wants to come in first.",
+            "flags": 224
+        },
+        "Remember this! My favorite words\nare \"top of the heap.\"",
+        "You. Well done!\nSee you! I'll remember this!",
+        {
+            "text": "I won't back down, lose, or fail!\nNo defeat for a Clerk ⑭.",
+            "flags": 224
+        },
+        "Uh-huh!",
+        "Uuugh... Well done...\nYou made me fall to my knees...",
+        {
+            "text": "I can do it! I can do anything!\nI will do it! I will do it!",
+            "flags": 224
+        },
+        "Yes! I did it! I can do it!\nI can do it! I can doooooooo it!",
+        "But I listened to my Teacher's advice.\nI can't lose! I can't!",
+        {
+            "text": "My research will lead this world\nto peace and happiness.",
+            "flags": 224
+        },
+        "I am a genius. I will control\nthe future of the world!",
+        "I am a genius... I am not supposed\nto lose against someone like you...",
+        {
+            "text": "Only research is left in my life.\nI abandoned my family and friends.",
+            "flags": 224
+        },
+        "It's not bad to devote my whole life\nto research, is it?",
+        "Dedicating yourself to something\ncan cause loneliness.",
+        {
+            "text": "Hyuck-yuck-yuck... Please lend me\na hand for my experiment.",
+            "flags": 224
+        },
+        "Hyuck-yuck-yuck... I did it.\nThe experiment was a huge success.",
+        "Ho-hum. This is not good...\nThis experiment was a failure...",
+        {
+            "text": "You must face off against\nmy extremely powered-up Pokémon!",
+            "flags": 224
+        },
+        "Well, this is a natural outcome.\nThe power of science is awesome.",
+        "Your Pokémon have even more awesome\nstrength than the power of science.",
+        {
+            "text": "If you lose, I'll have you help me\nin my latest experiment!",
+            "flags": 224
+        },
+        "Ho hi ho. You lost! You will help science\nas my new assistant.",
+        "Pah. I was sooo close to signing you up\nas my new assistant.",
+        {
+            "text": "Why do people compete and fight?\nThis is the subject of my research.",
+            "flags": 224
+        },
+        "Even if you win, you will hurt your\nopponent's feelings.",
+        "If you lose, you may resent your opponent.",
+        {
+            "text": "Hi! Focus!",
+            "flags": 224
+        },
+        "Foooooooooooo!",
+        "Eeek!",
+        {
+            "text": "Speech can be utter nonsense.\nPretty words only taint battles...",
+            "flags": 224
+        },
+        "Trainers who treat battles as a sport\nare the height of vileness...",
+        "Defeat is worth nothing.\nLosers don't need words...",
+        {
+            "text": "He-he-he. If you lose,\nI will turn you into a Pokémon.",
+            "flags": 224
+        },
+        "He-he-he. Well, from today on,\nyou are already a Pokémon.",
+        "Next time I see you, I will turn you\ninto a Pokémon with my power.",
+        {
+            "text": "Argh... I have a headache...\nI have such a headache...",
+            "flags": 224
+        },
+        "I don't need psychic powers.\nPlease stop this headache...",
+        "If I don't keep using my power for battles,\nmy headache won't go away...",
+        {
+            "text": "I claim that I am a Psychic,\nbut I cannot use psychic powers.",
+            "flags": 224
+        },
+        "I am camouflaging it\nwith my Psychic-ish costume.",
+        "I go to magic classes\nto look like a Psychic.",
+        {
+            "text": "...Grrr... Yeeek!!\nAn evil spirit! Go away!!",
+            "flags": 224
+        },
+        "OK! The evil spirit\nthat possessed you has disappeared.",
+        "Evil spirit!\nLeave the Trainer at once!",
+        {
+            "text": "I praise your courage for challenging me!\nI am the one with the strongest kick.",
+            "flags": 224
+        },
+        "Haha... I probably did not have to use\nmy strongest kick on you.",
+        "Oh... The Pokémon did the fighting.\nMy strong kick didn't help a bit.",
+        {
+            "text": "'Suuup! I'll give it all I've got!\nLet's do our best!!",
+            "flags": 224
+        },
+        "'Sup! That's enough!\nPlease value your life!",
+        "'Suuuuup! Good work. I tried everything\nI could, but I'm disappointed.",
+        {
+            "text": "Yo!",
+            "flags": 224
+        },
+        "Yo! Yo! Yo!",
+        "Yo!",
+        {
+            "text": "You don't have to impress me.\nYou can lose against me.",
+            "flags": 224
+        },
+        "Come. Sleep quietly in my arms...",
+        "It's sad to say good-bye,\nbut we're running out of time.",
+        {
+            "text": "Are you ready?\nI'll take the gloves off.",
+            "flags": 224
+        },
+        "Well, well... You're not even in my league.\nThis is like bullying.",
+        "Aww... I cannot believe I lost!\nWho are you?!",
+        {
+            "text": "I would like to do the fighting\ninstead of my Pokémon if I could.",
+            "flags": 224
+        },
+        "Pokémon battles are not enough of a\nchallenge. I want to make this personal.",
+        "Ah, I tingle with excitement.\nI would like to fight...",
+        {
+            "text": "Halt at once! You over there!\nLet us cross lances!",
+            "flags": 224
+        },
+        "Trainer, you are at my mercy!",
+        "Trainer, I yield! \nPlease spare me. Please!",
+        {
+            "text": "When I am surrounded by nature,\nmost other things cease to matter.",
+            "flags": 224
+        },
+        "I won. But victory is nothing,\ncompared to the vastness of nature...",
+        "It doesn't matter to the vastness\nof nature whether I win or lose...",
+        {
+            "text": "Despite my appearance, I am a city boy.\nSo I yearn for country life.",
+            "flags": 224
+        },
+        "Do you have a hometown?\nIf so, you should go back and visit there.",
+        "I don't have a hometown to go back to,\n'cause I was born and raised in the city.",
+        {
+            "text": "It's my mission to protect nature\nand all Pokémon living there!",
+            "flags": 224
+        },
+        "If villains disturb the natural order,\nI will put them all in jail!",
+        "Protect Mother Nature!\nOtherwise, I will put you in jail!",
+        {
+            "text": "We need a lot of money to protect\nMother Nature and her Pokémon.",
+            "flags": 224
+        },
+        "Please donate money for a rich natural\nenvironment and for the Pokémon.",
+        "We protect forests and Pokémon by\nsaving money and planting trees.",
+        {
+            "text": "Let me stop your winning streak here.",
+            "flags": 224
+        },
+        "Ah. You still have much to learn.\nLet me give you a crash course!",
+        "You didn't win alone. You couldn't have won\nwithout your Pokémon.",
+        {
+            "text": "You seem to be quite confident.\nI'll sink you straight away.",
+            "flags": 224
+        },
+        "I am devoting my body and soul\nto Pokémon battles!",
+        "AAAAAAAAH! I am sooooo scared!\nI will never do it again... Sorrrry!",
+        {
+            "text": "I'm working very hard, but\nthat doesn't mean I am strong.",
+            "flags": 224
+        },
+        "You're a strong Trainer,\nso I think I was just lucky this time.",
+        "Even I can lose?!\nBut I'm a battling genius!",
+        {
+            "text": "I started battling just to be cool, but\nI became an Ace before I knew it.",
+            "flags": 224
+        },
+        "People can become strong if they have\nclear goals. That's the way it goes.",
+        "I'm still not popular even though\nI've been recognized as an Ace.",
+        {
+            "text": "The lead character of this story...\nI'll tell you who it is!",
+            "flags": 224
+        },
+        "The lead character of the story is me!\nYou are just an extra!",
+        "Of course, you are the lead character!",
+        {
+            "text": "We would like to hold a Pokémon battle\nagainst the strongest foe.",
+            "flags": 224
+        },
+        "We cannot believe we spent time\non such a childish battle! Leave at once!",
+        "Ho-ho-ho! That is to our liking!\nWe find ourselves quite satisfied!",
+        {
+            "text": "A person who wants to fight, fight, and\nfight forever. That's the way of the Ace.",
+            "flags": 224
+        },
+        "However hard they battle, they won't be\nsatisfied. That is a real Trainer, isn't it?",
+        "Your fighting style suits you very well.\nYou can be an Ace Trainer.",
+        {
+            "text": "I can see despair in your eyes.\nBring it on!",
+            "flags": 224
+        },
+        "It was a waste of time, much as I suspected.\nYou should start training all over again.",
+        "Did I underestimate you as just a little kid?\nOr was this your true ability?",
+        {
+            "text": "Hey, you, young Trainer.\nI am utterly stylish, aren't I?",
+            "flags": 224
+        },
+        "I am so stylish,\nI hypnotize myself! Step back!",
+        "I'm a wreck. I'm adrift. It just kills me.\nIt is hard to be too stylish.",
+        {
+            "text": "I won't lose against a kid like you,\nwho doesn't know anything about battles.",
+            "flags": 224
+        },
+        "After all, you are an amateur. No sweat.\n(Whew... That was a little too close!)",
+        "What? This kid is a fast learner?\nHa ha ha... I had no idea!",
+        {
+            "text": "Argh. Cough, cough. I don't feel well.\nPlease show a little kindness.",
+            "flags": 224
+        },
+        "I lied when I said I didn't feel well!\nVeterans do anything to win!",
+        "You're very sharp!\nYou did not fall for my illness act.",
+        {
+            "text": "I will give you a taste\nof a Veteran's well-trained Pokémon.",
+            "flags": 224
+        },
+        "How were the Veteran's Pokémon?\nDefeat is bitter, isn't it?",
+        "You have served me a spicy defeat.\nAnd yet defeat is also part of life.",
+        {
+            "text": "Oh, you are so cute!\nCome, I promise to be nice in this battle.",
+            "flags": 224
+        },
+        "You are so cute, really...\nI want to see you again. I'll be waiting.",
+        "Your battle is a little too cute.\nLet's play again sometime.",
+        {
+            "text": "Oh, you are still a child.\nWho said you could come here?",
+            "flags": 224
+        },
+        "You're not bad, but you're immature.\nCome back when you've learned something.",
+        "I thought you were a child.\nHee hee... You are tough...",
+        {
+            "text": "Don't call me a Veteran!\nA woman's mind is always blooming.",
+            "flags": 224
+        },
+        "I'm not finished with love or Pokémon.\nI'll stay fit and ready all my life.",
+        "I have pains in my eyes, my shoulder, and\nmy back, but my heart is forever young.",
+        {
+            "text": "I am the strongest Backpacker.\nI have a lot of Pokémon in my Bag.",
+            "flags": 224
+        },
+        "Hahaha! I am as big as my backpack,\naren't I? Aren't I?",
+        "I have more Pokémon in my Bag!\nWait, my Bag has a hole...",
+        {
+            "text": "I am not traveling for freedom.",
+            "flags": 224
+        },
+        "You're carrying bulky luggage,\nbut do you really need it?",
+        "My Bag is as wide as the sky.\nIn other words, my Bag is empty.",
+        {
+            "text": "I haven't eaten anything for days.\nSpots are floating before my eyes...",
+            "flags": 224
+        },
+        "Those aren't spots floating before my eyes.\nThose are glorious glimmers of victory!",
+        "Ah, I'm sinking fast. All I can think about\nis where my next meal is coming from...",
+        {
+            "text": "Neither my husband nor I have money,\nso we are hitchhiking on our honeymoon.",
+            "flags": 224
+        },
+        "Newly married, and such a big trip...\nI'm worried about our future.",
+        "On top of that, I have lost track of him...\nWhere can he be wandering?",
+        {
+            "text": "Hey! Hey! \nPlease check out my cute Pokémon!",
+            "flags": 224
+        },
+        "How about that?\nI'm proud of these Pokémon.",
+        "Oh no, don't bother them like that!\nPlease leave my Pokémon alone.",
+        {
+            "text": "Being a Waiter is my disguise,\nand it helps me live quietly.",
+            "flags": 224
+        },
+        "On my days off, the real me is ready.\nI'm an Ace Trainer!",
+        "I'm struggling to make a living,\nso I've been in disguise a long time.",
+        {
+            "text": "My Pokémon are the strongest.\nI don't think I will lose.",
+            "flags": 224
+        },
+        "Do you think you can win against me\nwith such wimpy Pokémon?",
+        "Ah... It's hard.\nIt sure is frustrating to lose.",
+        {
+            "text": "Don't you think a restaurant\nfor Pokémon is a fun idea?",
+            "flags": 224
+        },
+        "I wonder if people will like\na full-course meal for Pokémon.",
+        "It's a restaurant for Pokémon,\nnot a restaurant of Pokémon!",
+        {
+            "text": "Harrumph! Haroooo!",
+            "flags": 224
+        },
+        "Harooo!",
+        "Harrumph!!",
+        {
+            "text": "I am the mountain range of your life!\nCross me if you can!",
+            "flags": 224
+        },
+        "Haha! I am the summit, and the road\nto reach me is still very steep!",
+        "Finally, someone has climbed the mountain!\nThis is my summit!",
+        {
+            "text": "If I lose, I'll spill the secret of fishing.\nIf I win, I'll tell you the essence.",
+            "flags": 224
+        },
+        "The essence of fishing is to pull\nand reel in the fish--nothing else.",
+        "The secret of fishing is to wait without\nthinking, as if you were dozing off.",
+        {
+            "text": "I always aim for a big fish!\nStay out of this if you are a small fish!",
+            "flags": 224
+        },
+        "Reeling you in was hard work.\nYou put up a good fight!",
+        "Oh! What a great hit!\nBoth my arms and heart are electrified!",
+        {
+            "text": "You look kind of mature.\nI like people like you.",
+            "flags": 224
+        },
+        "Still, you look mature for your age.\nAre you already an adult, or are you a kid?",
+        "A man with the heart of a boy\nis just a wheedling child.",
+        {
+            "text": "How much did this parasol cost?\nWhy, it is a cheap disposable.",
+            "flags": 224
+        },
+        "I am a Parasol Lady, but I cannot\nspend money for a parasol.",
+        "A parasol is just a tool. It’s fine\nas long as it protects me from the rain.",
+        {
+            "text": "I can really cut loose in Pokémon\nbattles without being scolded.",
+            "flags": 224
+        },
+        "Nobody scolds me. That's why\nPokémon battles are the best!",
+        "You like a big fight, don't ya?\nYou are my pal.",
+        {
+            "text": "My computer friends said I wouldn't be\ntaken lightly with this look.",
+            "flags": 224
+        },
+        "I won, but I was so scared...\nMaybe I am not cut out for this.",
+        "Eeek... I should have played\nwith my computer in my room.",
+        {
+            "text": "My ride and I\nare always together.",
+            "flags": 224
+        },
+        "My ride helps me show off who I am.",
+        "My motorbike makes me feel better\nwhen I lose.",
+        {
+            "text": "I don't have money to buy gas,\nso I have to push it with my feet.",
+            "flags": 224
+        },
+        "I'm one of the Bikers,\nso my bike is crucial.",
+        "Ah... Dad, Mom.\nIt's hard to be a Biker...",
+        {
+            "text": "Aah, I am so hungry that I am\ncompletely wiped out. What shall I do?",
+            "flags": 224
+        },
+        "I'm working at a bakery, 'cause I want to\neat bread anytime I want.",
+        "Aah! I crashed from my sugar high!\nSomeone give me a pastry!",
+        {
+            "text": "OK, I will do it! \nI am excited about this!",
+            "flags": 224
+        },
+        "Blast!",
+        "I'll remember this!",
+        {
+            "text": "I'll confuse you with my smooth moves.\nA-one, a-two, cha cha cha!",
+            "flags": 224
+        },
+        "You could not focus on the battle,\n'cause you were watching my smooth steps!",
+        "And one, and two, and twirl, and...\nAh, that didn't work at all! ",
+        {
+            "text": "Sorry to keep you waiting.\nYour idol, Harlequin, Harlequin.",
+            "flags": 224
+        },
+        "Thank you very much.\nIt was Harlequin, Harlequin.",
+        "It was Harlequin, Harlequin.\nThank you for your support.",
+        {
+            "text": "If you lose, you can be my servant.",
+            "flags": 224
+        },
+        "From now on, I am your employer.",
+        "I'll make you my servant someday.",
+        {
+            "text": "Ahhhh... So strange.\nI feel very, very tired.",
+            "flags": 224
+        },
+        "I still feel kind of blah.\nI'm all achy...",
+        "I really feel blah.\nWell, I will go home now.",
+        {
+            "text": "A child like you cannot understand\nthe beauty that I am pursuing.",
+            "flags": 224
+        },
+        "I am a servant of beauty.\nUgly defeat does not suit me.",
+        "Perhaps the beauty I've been looking for...\nis you?",
+        {
+            "text": "I paint pictures and live with Pokémon.\nI am enjoying my life!",
+            "flags": 224
+        },
+        "The sting of defeat will be a good\nmemory as you grow older.",
+        "Experience hardships when you are young,\n'cause old bodies cannot take them.",
+        {
+            "text": "My schoolkids are sleeping.\nI'm shooting for the top during nap time!",
+            "flags": 224
+        },
+        "Oh, no!\nLook at the time!",
+        "After nap time comes snack time.\nI have to go back to preschool soon.",
+        {
+            "text": "Life is full of so many farewells,\nso I will enjoy the present.",
+            "flags": 224
+        },
+        "I cannot see you again,\nso I will do my best.",
+        "This is a woman's life.\nCan a baby like you understand it?",
+        {
+            "text": "If you work diligently,\nyou will get results.",
+            "flags": 224
+        },
+        "You, keep trying.\nMaster the basics.",
+        "Well, even if you work diligently,\nthings don't always go well.",
+        {
+            "text": "I've arrived from a distant island.\nMay I please trouble you for a battle?",
+            "flags": 224
+        },
+        "I have won.",
+        "I was utterly inexperienced. I'd be \ngrateful if I could be your pupil.",
+        {
+            "text": "I am so obsessed with Pokémon\nthat my wife is as mad as a hornet.",
+            "flags": 224
+        },
+        "Pokémon battles are so much fun.\nNo way I can quit.",
+        "I don't want to go home, 'cause my wife\nis as scary as a legendary Pokémon.",
+        {
+            "text": "Our lives have plenty of ordinary days.\nI gotta have Pokémon!",
+            "flags": 224
+        },
+        "Only Pokémon rescue me\nfrom boring and monotonous days.",
+        "When I look at a special person like you,\nI just melt.",
+        {
+            "text": "I used to be like you.\nI was full of hopes and dreams.",
+            "flags": 224
+        },
+        "Dreams are important.\nBut if all you have is your dreamworld...",
+        "Just having hopes and dreams is not enough.\nWhat is important is... Never mind.",
+        {
+            "text": "I want to have an exhilarating battle.\nGot it?",
+            "flags": 224
+        },
+        "Thank you!\nA battle is extremely exhilarating!",
+        "OK, OK, I got it...\nLet's call it a day.",
+        {
+            "text": "It's OK if I have training wheels.\nIt’s OK if my Bike doesn't accelerate.",
+            "flags": 224
+        },
+        "It's OK if you go your own way.\nYou'll reach your goal someday.",
+        "It's OK if you lose.\nIt's OK, 'cause you have a Bicycle.",
+        {
+            "text": "You ain't never even gonna see\nmy Pokémon's moves.",
+            "flags": 224
+        },
+        "You're slow, ain't ya?",
+        "You're right quick! \nWho are ya, anyways?",
+        {
+            "text": "I just got married, and we'll be\nexpanding our family soon.",
+            "flags": 224
+        },
+        "You know what I need.\nCan you spare a few dollars?",
+        "Oh, I should really get home,\nbut Pokémon battles are so much fun...",
+        {
+            "text": "Take a good look\nat this Clerk ⑭'s sheer strength!",
+            "flags": 224
+        },
+        "You got me!\nYou have the best skills in the world!",
+        "I put on a smile when I'm crying inside.\nThat's a Clerk ⑭'s sad smile.",
+        {
+            "text": "I will show you the harsh side\nof Pokémon battles.",
+            "flags": 224
+        },
+        "That's not good.\nI was too generous today.",
+        "Did you burn the image of my Pokémon\ninto your mind?",
+        {
+            "text": "Who do you think I am?\nI am a mighty Policeman!",
+            "flags": 224
+        },
+        "That's for disobeying me!\nI am a big guy!",
+        "You won a battle against a Policeman...\nI will arrest you someday.",
+        {
+            "text": "It's embarrassing, but I wasn't\nwell behaved when I was young.",
+            "flags": 224
+        },
+        "You lack energy despite your youth.\nShall I train you?",
+        "Good, good. Misbehave while you're still\nyoung and you can get away with it.",
+        {
+            "text": "Squeak! Squeak, squeak, squeak...\nHm? What? Wanna fight?",
+            "flags": 224
+        },
+        "You're so impatient.\nI'm still in the middle of my work.",
+        "Ohh dear... You tracked dirt\non the floor I just finished cleaning...",
+        {
+            "text": "There are only two roads in life.\nThe one you like, and the one you hate.",
+            "flags": 224
+        },
+        "I'll choose the road I like,\neven though it is not the quickest route.",
+        "Actually, the road you hate\nmay be the shortcut to your goal.",
+        {
+            "text": "I am a train.\nI will just run on the tracks.",
+            "flags": 224
+        },
+        "You are a station where I don't stop.\nI will just pass you by.",
+        "I think the train is great, because it runs\nthe same route over and over.",
+        {
+            "text": "You're good at your job\nand very strong.",
+            "flags": 224
+        },
+        "I expected too much from you.\nYou are lucky that this is not business.",
+        "A person who can juggle\nwork and play is pretty cool.",
+        {
+            "text": "I've been with these Pokémon\nsince I was a child.",
+            "flags": 224
+        },
+        "Pokémon are like family to me.",
+        "I don't think I want to have children.\nI'd rather focus on my Pokémon family.",
+        {
+            "text": "Hi, I am a physician!\nHey! Let me give you a shot!",
+            "flags": 224
+        },
+        "Come now, let me give you a shot!\nDon’t worry. It won't hurt!",
+        "You have strong arms!\nSo let me give you a shot now!",
+        {
+            "text": "Cough! Cough, cough! How many\nmore people will I be able to save?",
+            "flags": 224
+        },
+        "Cough! I wanted to save more people.\nCough, cough!",
+        "Few physicians live well...\nCough! I can't go on any longer...",
+        {
+            "text": "Do you want a shot?\nOr an IV drip?",
+            "flags": 224
+        },
+        "You want both a shot and an IV.\nYou are greedy!",
+        "Argh. It's sickening!\nYou're such a drip.",
+        {
+            "text": "In this job,\nI've seen a lot of strange things.",
+            "flags": 224
+        },
+        "I don't know why, but Ghost-type \nPokémon seem attracted to me.",
+        "Ahhh, I lost... By the way,\nwho is that standing behind you?",
+        {
+            "text": "I have raised them too long.\nThey are beyond my control...",
+            "flags": 224
+        },
+        "It's over...\nNobody can stop them...",
+        "Finally, they calmed down...\nYou saved me. Thank you!",
+        {
+            "text": "I will test the Pokémon\nyou have been training.",
+            "flags": 224
+        },
+        "Bah! Is that the best you can do?\nI expected more from you...",
+        "Wow! You are awesome!\nWhat great Pokémon you've trained!",
+        {
+            "text": "Take a look at these Pokémon--I raised\n'em myself. They make me right proud.",
+            "flags": 224
+        },
+        "I am right proud of these Pokémon.\nThey're my friends and my treasures.",
+        "You are a strong one, sure enuff.\nBut I don't intend to lose next time!",
+        {
+            "text": "I am the top Breeder.\nI can tame any kind of Pokémon.",
+            "flags": 224
+        },
+        "You see? My Pokémon are very loyal, \naren't they?",
+        "They are too attached to me.\nThey are not fit for battling.",
+        {
+            "text": "Arghhhh! Who is gentle?!\nI will bring you down!",
+            "flags": 224
+        },
+        "Arghh! Arghh! \nI am NOT a Gentleman!",
+        "Arghh! You! You'll regret this!\nI will bring you down someday!",
+        {
+            "text": "My brother told me once...\nEyes! Aim for the eyes!",
+            "flags": 224
+        },
+        "What my brother told me was right...\nThanks... Bro...",
+        "I lost against a kid. Bro...\nI should have listened to you...",
+        {
+            "text": "I can't drop my luxurious lifestyle just\nbecause I'm older. Nothing can stop it.",
+            "flags": 224
+        },
+        "It may be a hard truth for a child,\nbut money makes the world go round.",
+        "I cannot drop the habits\nI learned when I was young.",
+        {
+            "text": "I am a late bloomer and a crazy bloomer.\nI'll bloom and dazzle you!",
+            "flags": 224
+        },
+        "Dance, bloom, and blossom!\nA woman who flowers and triumphs!",
+        "I want to blossom and fall\nrather than dying on the vine.",
+        {
+            "text": "Hey, it's me. It's me!\nI am the best Pilot in the world!",
+            "flags": 224
+        },
+        "No! That's no good!\nYou cannot reach the top that way.",
+        "Good. You're daring!\nI'll let you come fly on my plane.",
+        {
+            "text": "Hey! Yo! It's me.\nI am the best Pilot in the world.",
+            "flags": 224
+        },
+        "Listen! A Trainer should be No. 1.\nThat's it!",
+        "You're quite a Trainer!\nBe my apprentice!",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 224
+        },
+        "",
+        "",
+        {
+            "text": "Thank you for riding\nthe Battle Subway today.{VAR BE00}\nI am the Subway Boss Ingo.{VAR BE01}\nI will choose the next destination\nbased on your talent.{VAR BE01}\nDo you understand Pokémon well?\nCan you hold on to your principle?{VAR BE00}\nWill you go on to victory or defeat?{VAR BE01}\nAll aboard!",
+            "flags": 224
+        },
+        "Ah. Your battle was not bad at all.{VAR BE01}\nHowever, we seem to have done slightly\nbetter than you.{VAR BE01}\nWe would really like to battle with you again!{VAR BE01}\nPlease ride the Battle Subway again!",
+        "Bravo!!{VAR BE01}\nYour talent has brought you\nto the destination called Victory!{VAR BE01}\nHowever, your journey has just started.{VAR BE01}\nWhen you choose your next destination,\ngo full speed ahead!",
+        {
+            "text": "Welcome! I've been waiting for you!{VAR BE01}\nLet me introduce myself...\nI am the Subway Boss Ingo.{VAR BE01}\nWhat can I see after winning,\nwinning, and winning?{VAR BE01}\nWhere is my destination?{VAR BE01}\nI've kept thinking, and\nI've learned one thing.{VAR BE01}\nThat is, you cannot know what happens\nafter winning without winning.{VAR BE01}\nTherefore, I will exert every possible\neffort to battle with you.{VAR BE01}\nAll aboard!",
+            "flags": 224
+        },
+        "I have won this time, but\nyour talent is very strong!{VAR BE01}\nYour tactics...reading...\nYou have great skills.{VAR BE01}\nThat's right! I would like to\nbattle you again and again!{VAR BE01}\nPlease ride the Battle Subway again soon!",
+        "Bravo!\nExcellent!!{VAR BE01}\nI am glad that I fought so hard\nagainst a wonderful Trainer like you.{VAR BE01}\nThat's right!\nYou grow stronger by matching yourself{VAR BE00}\nagainst a strong opponent.{VAR BE01}\nPlease do your best and run\ntoward the destination,{VAR BE00}\nan even higher state.",
+        {
+            "text": "I am Emmet.{VAR BE01}\nI am a Subway Boss.{VAR BE01}\nI like Double Battles.{VAR BE01}\nI like combinations of\ntwo Pokémon.{VAR BE01}\nAnd I like winning\nmore than anything else.{VAR BE01}\nSo let's start a great battle\nin which every Pokémon uses{VAR BE00}\nvarious moves.",
+            "flags": 224
+        },
+        "I am Emmet.{VAR BE01}\nI won against you.{VAR BE01}\nBut I think I just got lucky.{VAR BE01}\nIn a Double Battle, if you misread one thing,\nthe rest will be totally different.{VAR BE01}\nYou know.\nPlease win 20 battles in a row, and{VAR BE00}\nfight with me!",
+        "I am Emmet.{VAR BE01}\nI lost against you.{VAR BE01}\nBecause you are the strongest Trainer\nI've fought lately.{VAR BE00}\nYou're a verrrrry strong Trainer!{VAR BE01}\nYup! It was fun!\nRide the trains some more!",
+        {
+            "text": "Hi, do you remember me?\nI am Emmet.{VAR BE01}\nI am a Subway Boss.{VAR BE01}\nI like Double Battles.{VAR BE01}\nI like combinations of \ntwo Pokémon.{VAR BE01}\nAnd I like winning\nmore than anything else.{VAR BE01}\nThis time, I am really serious.\nReally serious.{VAR BE01}\nBecause if a battle is not serious,\nit is not fun.",
+            "flags": 224
+        },
+        "I am Emmet.{VAR BE01}\nI won against you.\nBut this is not the end.{VAR BE01}\nI am sure you will show up\nhere again.{VAR BE01}\nI will wait for it and\nwin against you again.{VAR BE01}\nBecause I am a\nSubway Boss. I am Emmet.",
+        "I am Emmet.{VAR BE01}\nI am a Subway Boss,\nbut I lost against you again.{VAR BE01}\nBut I feel good.\nBecause it was very fun!{VAR BE01}\nYou want to win, and\nI don't want to lose.{VAR BE00}\nThat's real.{VAR BE01}\nWhen we clash in battles,\nI feel very excited!",
+        {
+            "text": "I am a Subway Boss, Ingo.{VAR BE01}\nThe fellow over to the side is\nalso a Subway Boss, Emmet.{VAR BE01}\nWill a Multi Battle help us cover\neach other's weakness?{VAR BE01}\nOr will you show your\noverwhelming power?{VAR BE01}\nI look forward to seeing\nhow well you fight. {VAR BE01}\nHowever, it is difficult to win\nunless you and your partner{VAR BE00}\nare in total sync.",
+            "flags": 224
+        },
+        "We make a good two-car train,\nIngo and Emmet.{VAR BE01}\nThis time, we worked together toward\na victory.{VAR BE01}\nHowever, your abilities are\nvery impressive.",
+        "Bravo!!{VAR BE01}\nWhat you showed us is\na spark as Trainers.{VAR BE01}\nHowever, let me say just one thing.{VAR BE01}\nWinning against us is a milestone\nin your life.{VAR BE01}\nYou can rack up more and more.{VAR BE01}\nPlease move on toward an even\ngreater goal!",
+        {
+            "text": "Follow the rules.\nSafe driving!{VAR BE01}\nFollow the schedule.\nEverybody smile!{VAR BE01}\nCheck safety.\nEverything's ready!{VAR BE01}\nAim for victory!\nAll aboard!",
+            "flags": 224
+        },
+        "I am Emmet.{VAR BE01}\nI won together with Ingo.{VAR BE01}\nBut if we fight again,\nwe won't know what to expect.{VAR BE01}\nThat's why we are waiting\nfor you to come back!",
+        "I am Emmet.{VAR BE01}\nI lost together with Ingo.{VAR BE01}\nYour combination is\nthe best, perfect!{VAR BE00}\nYou're verrrrry strong Trainers.{VAR BE01}\nYup! It was so much fun!",
+        {
+            "text": "Let me introduce myself again.\nI am a Subway Boss, Ingo!{VAR BE01}\nWell, there is nothing else to say\nfor the person who comes{VAR BE00}\nall the way here.{VAR BE01}\nLet's have the greatest battle,\nbetter than ever before.",
+            "flags": 224
+        },
+        "We, Ingo and Emmet, are a\ntwo-car train.{VAR BE01}\nThis time, we were able to work toward\na victory.{VAR BE01}\nWell, will you stop here?\nOr will you challenge us again?{VAR BE01}\nIt's up to you.\nBut let me say one thing.{VAR BE01}\nThere is no terminal called End\nin your life!",
+        "Bravo!!\nReally excellent!{VAR BE01}\nThe best combination of\nyou and your Pokémon.{VAR BE00}\nIt is incredible!{VAR BE01}\nWhen you and someone else combine,\nyour engine powers something special!{VAR BE01}\nIf you like, please challenge us\nwith a different combination.",
+        {
+            "text": "What I do. What I say.\nAlways the same.{VAR BE01}\nFollow the rules.\nSafe driving!{VAR BE01}\nFollow the schedules.\nEveryone smile!{VAR BE01}\nCheck safety.\nEverything's ready!{VAR BE01}\nAim for victory!\nAll aboard!",
+            "flags": 224
+        },
+        "I am Emmet.{VAR BE01}\nWe won, but\nI am not really satisfied.{VAR BE01}\nI can tell that you won't give up.\nBecause you will be much, much stronger.{VAR BE01}\nThat's why we are waiting\nfor you to come back!",
+        "I am Emmet.{VAR BE01}\nWe lost against you again.{VAR BE01}\nBut I am satisfied.\nYou are too strong!{VAR BE01}\nThe strength you have,\nyour trust in your Pokémon,{VAR BE00}\ntheir never-ending support!{VAR BE01}\nYep! It was the most fun battle ever!\nPlease come back soon!"
+    ]
+}

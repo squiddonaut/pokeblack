@@ -1,0 +1,129 @@
+{
+    "flags": 205,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} learned\n{VAR 0107 0001}!",
+        "{VAR 0102 0000} wants to learn the\nmove {VAR 0107 0001}.{VAR BE01}\nHowever, {VAR 0102 0000} already\nknows four moves.{VAR BE01}\nShould a move be deleted and\nreplaced with {VAR 0107 0001}?",
+        "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0005}{VAR BE01}\n{VAR 0102 0000} forgot how to\nuse {VAR 0107 0001}.{VAR BE01}\nAnd...{VAR BE01}",
+        "{VAR 0102 0000} learned how to use\n{VAR 0107 0001}!{VAR BE01}",
+        "Give up on learning the move\n{VAR 0107 0001}?",
+        "{VAR 0102 0000} did not learn\n{VAR 0107 0001}.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Which move should {VAR 0102 0000}\nremember?",
+            "flags": 224
+        },
+        "Should the move {VAR 0107 0001}\nbe remembered?",
+        "Give up trying to make\n{VAR 0102 0000} remember a move?",
+        "{VAR 0102 0000} remembered the move\n{VAR 0107 0001}.{VAR BE05 0004}{VAR BE05 0005}{VAR BE07}{VAR BE01}",
+        "{VAR 0102 0000} wants to remember\nthe move {VAR 0107 0001}.{VAR BE01}\nBut {VAR 0102 0000} can't learn more\nthan four moves.{VAR BE01}\nDelete an existing move to make\nroom for {VAR 0107 0001}?",
+        "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE06 0002}{VAR BE07}{VAR BE04}\n{VAR 0102 0000} forgot how to use{VAR BE01}\n{VAR 0107 0001}. And...{VAR BE01}",
+        "{VAR 0102 0000} remembered the move\n{VAR 0107 0001}.{VAR BE05 0004}{VAR BE05 0005}{VAR BE07}{VAR BE01}",
+        "Give up making the Pokémon\nremember {VAR 0107 0001}?",
+        "{VAR 0102 0000} did not remember\nthe move {VAR 0107 0001}.{VAR BE01}",
+        {
+            "text": "{VAR 0100 0000} handed over one\nHeart Scale in exchange.",
+            "flags": 224
+        },
+        "Is it OK to forget the\nmove {VAR 0107 0000}?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "POWER",
+            "flags": 44
+        },
+        {
+            "text": "ACCURACY",
+            "flags": 60
+        },
+        {
+            "text": "PP",
+            "flags": 21
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "---",
+            "flags": 24
+        },
+        {
+            "text": "QUIT",
+            "flags": 41
+        },
+        {
+            "text": "TEACH",
+            "flags": 54
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 72
+        },
+        {
+            "text": "Lv. {VAR 0202 0000}",
+            "flags": 45
+        },
+        {
+            "text": "LEARNED MOVES",
+            "flags": 160
+        },
+        {
+            "text": "YES",
+            "flags": 62
+        },
+        {
+            "text": "NO",
+            "flags": 62
+        }
+    ],
+    "pad": "7070"
+}

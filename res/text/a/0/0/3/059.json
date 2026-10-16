@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hello!{VAR BE01}\nIf you'd like, I will massage\nyour Pokémon.",
+        "Oh, I see.\nPlease see me if you change your mind.",
+        "All right! Let me get started.{VAR BE01}",
+        "Massage the Egg?\nIt may be a bit too early for that.",
+        "There. All done!{VAR BE01}\nThe massage has made your Pokémon\nmuch more friendly to you!",
+        "There. All done!{VAR BE01}\nThe massage has made your Pokémon\nmore friendly to you!",
+        "There. All done!{VAR BE01}\nThe massage has made your Pokémon\na little bit more friendly to you!",
+        "Sorry!\nI am exhausted from the massage earlier.{VAR BE01}\nPlease come back again tomorrow!",
+        "When Pokémon are happy, I am happy,\nand I laugh!{VAR BE01}\nWhen Pokémon see me laughing,\nthey will be happy, too!",
+        "Gahoohoo!",
+        "It's difficult to watch TV from here.\nIt's not your concern, though."
+    ],
+    "pad": "5858"
+}

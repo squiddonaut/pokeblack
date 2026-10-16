@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "entries": [
+        "N:{VAR BE09 0001} What do you think, {VAR 0100 0000}?{VAR BE01}\nHow do you like the beautiful form of the\nPokémon who appears before and fights{VAR BE00}\nbeside the hero that will lead the way to{VAR BE00}\na new world?{VAR BE09 0000}{VAR BE01}",
+        "N:{VAR BE09 0001} What do you think, {VAR 0100 0000}?{VAR BE01}\nHow do you like the powerful form of the\nPokémon who appears before and fights{VAR BE00}\nbeside the hero that will lead the way to{VAR BE00}\na new world?{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Now, Reshiram and I will head to the\nPokémon League and defeat the Champion!{VAR BE01}\nThis will be the last of the Pokémon\nbattles that hurt Pokémon so.{VAR BE01}\nA world for Pokémon alone...\nIt's finally going to be a reality.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Now, Zekrom and I will head to the\nPokémon League and defeat the Champion!{VAR BE01}\nThis will be the last of the Pokémon\nbattles that hurt Pokémon so.{VAR BE01}\nA world for Pokémon alone...\nIt's finally going to be a reality.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}If you want to stop me, you must become\na hero as well!{VAR BE01}\nThat's right! When Reshiram's\ncounterpart, Zekrom, recognizes you, we{VAR BE00}\nwill finally be even, and then you can try{VAR BE00}\nto stop us!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}If you want to stop me, you must become\na hero as well!{VAR BE01}\nThat's right! When Zekrom's\ncounterpart, Reshiram, recognizes you,{VAR BE00}\nwe will finally be even, and then you can{VAR BE00}\ntry to stop us!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Well, what will you do?{VAR BE01}\nMy prediction... If the future that I see\nis true, you will meet Zekrom.{VAR BE01}\nThe Pokémon with you believe in you so\nstrongly... Will you be the one{VAR BE00}\nwho interferes with my formula{VAR BE00}\nfor changing the world?{VAR BE01}\nIf you want to protect the bonds\nbetween Pokémon and people, you must{VAR BE00}\nsearch for Zekrom!{VAR BE01}\nI'm sure it is waiting for you in the form\nof the Dark Stone.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Well, what will you do?{VAR BE01}\nMy prediction... If the future that I see\nis true, you will meet Reshiram.{VAR BE01}\nThe Pokémon with you believe in you so\nstrongly... Will you be the one{VAR BE00}\nwho interferes with my formula{VAR BE00}\nfor changing the world?{VAR BE01}\nIf you want to protect the bonds\nbetween Pokémon and people, you must{VAR BE00}\nsearch for Reshiram!{VAR BE01}\nI'm sure it is waiting for you in the form\nof the Light Stone.{VAR BE09 0000}{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, did you see what\nflew off just now?{VAR BE01}",
+        "Brycen: How could this happen?{VAR BE01}",
+        "Cheren: Why? That was that guy N, right?\nWhy was he with the legendary Pokémon?{VAR BE01}\nHe couldn't really be the hero,\ncould he?!{VAR BE01}\nAlso, did I hear him tell you to search\nfor the other legendary Pokémon?{VAR BE01}",
+        "Brycen: Calm down! First, we go back!{VAR BE01}\nIt's more important to decide what to do\nnext than analyze what just happened.{VAR BE01}",
+        "Preeeeaah!",
+        "Reshiram went flying off somewhere...",
+        "Bazzazzazzash!",
+        "Zekrom went flying off somewhere..."
+    ],
+    "pad": "2626"
+}

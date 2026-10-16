@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_POISON", "TYPE_FLYING" ],
     "catch_rate": 90,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_INNER_FOCUS", "ABILITY_NONE" ],
-    "unk_1A": 151,
+    "abilities": [
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_NONE",
+        "ABILITY_INFILTRATOR"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PURPLE",
     "flip_sprite": false,
-    "unk_22": 159,
+    "base_exp_reward": 159,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCREECH" ],
@@ -86,7 +89,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_HAPPINESS", "SPECIES_CROBAT" ]
     ],
@@ -94,5 +97,16 @@
         "height": 16,
         "weight": 550
     },
-    "offspring": "SPECIES_ZUBAT"
+    "offspring": "SPECIES_ZUBAT",
+    "text": {
+        "70": "Golbat",
+        "235": "Its sharp fangs puncture the\ntoughest of hides and have small\nholes for greedily sucking blood.",
+        "236": "Its sharp fangs puncture the\ntoughest of hides and have small\nholes for greedily sucking blood.",
+        "244": "",
+        "245": "5'03\"",
+        "260": "Bat Pokémon",
+        "268": "121.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Golbat",
+        "284": "GOLBAT"
+    }
 }

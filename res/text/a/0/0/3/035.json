@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "entries": [
+        "Burgh: That way!{VAR BE01}\nM'hm. Toward the Gym?!{VAR BE01}",
+        "Hey, Trainer!{VAR BE01}\nShow me your paces!\nGive me a whirl!",
+        "All riiight!\nA fight is like a dance!{VAR BE01}",
+        "Come on, man!\nYou gotta go with the flow!",
+        "Hey hey, Trainer!{VAR BE01}\nShow me what you can do!\nTake me on for a second!",
+        "All riiight!\nLet's get down!{VAR BE01}",
+        "How 'bout that!\nThose were some smooth moves, no doubt!{VAR BE01}\nBut it'd be even tighter if I had a group.{VAR BE01}",
+        "Hey, you!\nWould you talk to the other Dancers?{VAR BE01}\nIf you invite both of them,\nthe three of us can groove as a team!",
+        "Same outfit as me!\nThat guy's a Dancer!{VAR BE01}",
+        "The word on the street is...{VAR BE01}\nWho's that dancin' in a lonely street?\nWho's that dancin' in a port?{VAR BE01}\nWho can you meet? Word on the street!{VAR BE01}",
+        "Thanks for talking to him!\nWe're checkin' out our moves!{VAR BE01}",
+        "Really? I'd sure show you some\nsweet moves if I had a team, though.",
+        "I've got what I needed to find my dance!\nA team! Fantastic!",
+        "Dancers dance!\nThe audience smiles!{VAR BE00}\nHearts beat with joy!{VAR BE00}\nEnough happiness to share!",
+        "Thanks, man!\nI've got the best team in the world here!{VAR BE00}\nThat's how I feel.{VAR BE01}",
+        "We communicate by dancing.{VAR BE01}\nIt's how we say happy things,\nsad things...{VAR BE00}\nHow we say the world shines brightly!{VAR BE01}",
+        "All riiight!\nLet's dance!{VAR BE01}",
+        "Landscapes with people...\nLandscapes with Pokémon...{VAR BE01}\nEach has power and beauty,\ncompelling me to draw them both.{VAR BE01}\nOh, my studio is down Mode Street a bit.",
+        {
+            "text": "Castelia City, Central Plaza\nAhead: Route 4",
+            "flags": 207
+        },
+        {
+            "text": "Ahead: Mode Street\nCasteliacones and Studio Castelia",
+            "flags": 207
+        }
+    ]
+}

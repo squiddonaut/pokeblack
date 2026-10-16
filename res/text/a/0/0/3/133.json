@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "This is just between you and me, OK?\nI used to be part of Team Plasma.{VAR BE01}\nBut it's strange when everyone around\nyou thinks the same way, isn't it?{VAR BE01}\nSo I left Team Plasma to think for myself\nabout what I want to do.{VAR BE01}\nDon't tell this story to the guy on the\nopposite side.", "This is just between you and me, OK?\nI'm really not very good as a Trainer.{VAR BE01}\nSo I think Team Plasma might have the\nright idea when they take Pokémon away{VAR BE00}\nfrom weak Trainers.{VAR BE01}\nI do feel sorry for the people who were\nrobbed, though.{VAR BE01}\nDon't tell this story to the guy on the\nopposite side." ],
+    "pad": "3a3a"
+}

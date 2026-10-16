@@ -1,0 +1,139 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "BATTLE",
+            "flags": 64
+        },
+        {
+            "text": "TRADE",
+            "flags": 72
+        },
+        {
+            "text": "QUIT",
+            "flags": 71
+        },
+        {
+            "text": "BATTLES FOR TWO",
+            "flags": 166
+        },
+        {
+            "text": "BATTLES FOR FOUR",
+            "flags": 166
+        },
+        {
+            "text": "SINGLE BATTLE",
+            "flags": 166
+        },
+        {
+            "text": "DOUBLE BATTLE",
+            "flags": 166
+        },
+        {
+            "text": "TRIPLE BATTLE",
+            "flags": 166
+        },
+        "Make an Infrared Connection\nwith your opponent(s).",
+        "Make an Infrared Connection\nwith your partner.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Make an Infrared Connection\nwith your opponents' leader.",
+        "Please wait a moment.",
+        {
+            "text": "FRIEND CODE",
+            "flags": 94
+        },
+        {
+            "text": "FEELING\nCHECK",
+            "flags": 80
+        },
+        "Will you quit?",
+        "Make an Infrared Connection\nwith your trade partner.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Please wait a moment.",
+        "You and your friend(s) did not select the\nsame thing. Returning to previous menu.",
+        {
+            "text": "Would you like to save the game?",
+            "flags": 240
+        },
+        {
+            "text": "YES",
+            "flags": 42
+        },
+        {
+            "text": "NO",
+            "flags": 42
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 224
+        },
+        "The trade will be started...\nPlease wait a moment.",
+        "The battle will be started...\nPlease wait a moment.",
+        {
+            "text": "ROTATION BATTLE",
+            "flags": 166
+        },
+        "Please make an Infrared Connection\nwith a friend to exchange Friend Codes.",
+        "Your Friend Roster is full.\nYou cannot register a new friend.",
+        {
+            "text": "{VAR BD02}Registered Friends\n{VAR BD02}{VAR 0201 0000}/32",
+            "flags": 144
+        },
+        {
+            "text": "CONFIRM",
+            "flags": 84
+        },
+        "Is the number of members OK?",
+        "Please make an Infrared Connection\nwith all of the participants.",
+        "Make an Infrared Connection with the\nleader who decided the show.",
+        {
+            "text": "Communicating with {VAR 0200 0000} people.\nCONFIRM: Proceed",
+            "flags": 184
+        },
+        {
+            "text": "BATTLE USING THE BATTLE BOX",
+            "flags": 166
+        },
+        {
+            "text": "BATTLE USING YOUR PARTY",
+            "flags": 166
+        },
+        "Your friend has been registered\nin the Friend Roster!",
+        "The Friend Roster has been updated!",
+        {
+            "text": "You need at least two Pokémon\nin your party if you want to trade!",
+            "flags": 240
+        },
+        {
+            "text": "There is already a saved game file.\nIt is impossible to save.{VAR BE01}\nPlease refer to the Instruction\nBooklet for details.{VAR BE01}\nPress Up + SELECT + B Button on\nthe title screen if you want to erase{VAR BE00}\nthe current saved game file.",
+            "flags": 229
+        },
+        "Please make an Infrared Connection\nwith the friend you want to play with."
+    ]
+}

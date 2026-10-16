@@ -1,0 +1,26 @@
+{
+    "flags": 205,
+    "entries": [
+        "Yo!\nI'm {VAR 011C 0000}.",
+        "Glad to meet you!\nI love {VAR 011C 0000}!",
+        "Do you like {VAR 011C 0000}?",
+        "Let's draw! I want to draw\n{VAR 011C 0000}!",
+        "Let's battle!\nI say {VAR 011C 0000}!",
+        "I'm a {VAR 011C 0000} Trainer!\nPlease battle me!",
+        "Let's have a chat!\nHow about {VAR 011C 0000}?",
+        "Please trade!\nI want a {VAR 011C 0000}!",
+        "Please trade!\nI'm offering {VAR 011C 0000}!",
+        "Want to trade {VAR 011C 0000}?\nHere's a hint: {VAR 011C 0001}!",
+        "Will you join me\nfor {VAR 011C 0000}? ",
+        "Anyone want to\n{VAR 011C 0000}?",
+        "I want to {VAR 011C 0000}\nwith {VAR 011C 0001}!",
+        "Let's go to {VAR 011C 0000}\nby {VAR 011C 0001}!",
+        "OK!",
+        "{VAR 011C 0000}?\nI got it!",
+        "{VAR 011C 0000}?\nHold on!",
+        "I don't want to\n{VAR 011C 0000}...",
+        "That was fun! I hope we can\n{VAR 011C 0000} again sometime.",
+        "See ya!\n{VAR 011C 0000}!"
+    ],
+    "pad": "9a9a"
+}

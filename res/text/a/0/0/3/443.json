@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "entries": [
+        "This is a Poké Ball I got in the past.\nI'm going to give it to you.{VAR BE01}",
+        "You can't catch a Pokémon\nif you don't have a Poké Ball!{VAR BE01}\nThere are many types of Poké Balls,\nso use the best one for the job.",
+        "Skree skree!",
+        "Hi, hi!\nLet's play Pokémon rock-paper-scissors!",
+        "Oh, that's no fun!",
+        "Here goes!\nPokémon rock-paper-scissors...",
+        "Your Pokémon is Fire type,\nand mine is Grass type...{VAR BE01}\nGrass type is weak against Fire type...\nso I lose.",
+        "Your Pokémon is Fire type,\nand mine is Water type...{VAR BE01}\nFire type is weak against Water type...\nso I win!",
+        "Your Pokémon is Water type,\nand mine is Fire type...{VAR BE01}\nFire type is weak against Water type...\nso I lose.",
+        "Your Pokémon is Water type,\nand mine is Grass type...{VAR BE01}\nWater type is weak against Grass type...\nso I win!",
+        "Your Pokémon is Grass type,\nand mine is Water type...{VAR BE01}\nWater type is weak against Grass type...\nso I lose.",
+        "Your Pokémon is Grass type,\nand mine is Fire type...{VAR BE01}\nGrass type is weak against Fire type...\nso I win!",
+        {
+            "text": "FIRE",
+            "flags": 126
+        },
+        {
+            "text": "GRASS",
+            "flags": 126
+        },
+        {
+            "text": "WATER",
+            "flags": 126
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_STEEL", "TYPE_ROCK" ],
     "catch_rate": 90,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_HARD_STONE"
+        "rare": "ITEM_HARD_STONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 35,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_MONSTER" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_ROCK_HEAD" ],
-    "unk_1A": 134,
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_ROCK_HEAD",
+        "ABILITY_HEAVY_METAL"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
-    "unk_22": 151,
+    "base_exp_reward": 151,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -91,7 +94,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -103,5 +106,16 @@
         "height": 9,
         "weight": 1200
     },
-    "offspring": "SPECIES_ARON"
+    "offspring": "SPECIES_ARON",
+    "text": {
+        "70": "Lairon",
+        "235": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory.",
+        "236": "For food, it digs up iron ore. It\nsmashes its steely body against\nothers to fight over territory.",
+        "244": "",
+        "245": "2'11\"",
+        "260": "Iron Armor Pokémon",
+        "268": "264.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Lairon",
+        "284": "LAIRON"
+    }
 }

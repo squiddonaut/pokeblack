@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GRASS", "TYPE_FIGHTING" ],
     "catch_rate": 3,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_NO_GENDER",
     "hatch_cycles": 80,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_JUSTIFIED", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_JUSTIFIED",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 261,
+    "base_exp_reward": 261,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_QUICK_ATTACK" ],
@@ -93,11 +96,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 20,
         "weight": 2000
     },
-    "offspring": "SPECIES_VIRIZION"
+    "offspring": "SPECIES_VIRIZION",
+    "text": {
+        "70": "Virizion",
+        "235": "Its head sprouts horns as sharp as\nblades. Using whirlwind-like movements,\nit confounds and swiftly cuts opponents.",
+        "236": "This Pokémon fought humans in order\nto protect its friends. Legends about it\ncontinue to be passed down.",
+        "244": "",
+        "245": "6'07\"",
+        "260": "Grassland Pokémon",
+        "268": "440.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Virizion",
+        "284": "VIRIZION"
+    }
 }

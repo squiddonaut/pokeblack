@@ -1,0 +1,21 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Hello! If you cross the Skyarrow Bridge\nfrom this side, you will reach{VAR BE00}\nPinwheel Forest and Nacrene City.",
+            "flags": 224
+        },
+        {
+            "text": "I walked so far! My legs are sore!\n...Um, you don't have to look.",
+            "flags": 224
+        }
+    ],
+    "pad": "3232"
+}

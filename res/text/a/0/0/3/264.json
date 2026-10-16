@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR 0100 0000} used the Pass Power\n“{VAR 011C 0002}!\"{VAR BE01}",
+        "The effect of “{VAR 011C 0002}\"\nwore off!",
+        "The effect of “{VAR 011C 0002}\"\nwore off!{VAR BE01}",
+        "Checking the status of Pass Power.{VAR BE01}",
+        {
+            "text": "{VAR FF00 0002}Registered Pass Power{VAR FF00 0000}",
+            "flags": 184
+        },
+        {
+            "text": "{VAR FF00 0002}Active Pass Power{VAR FF00 0000}",
+            "flags": 184
+        },
+        {
+            "text": "{VAR 011C 0000}",
+            "flags": 176
+        },
+        {
+            "text": "{VAR 011C 0000}{VAR BD03 0000}{VAR 0201 0001}: {VAR 0201 0002}",
+            "flags": 176
+        },
+        "{VAR 0100 0000}'s likelihood of\nencountering Pokémon increased!",
+        "{VAR 0100 0000}'s likelihood of\nencountering Pokémon decreased.",
+        "The likelihood for Pokémon\nto hatch from Eggs increased!",
+        "{VAR 0100 0000}'s rate of\nbefriending Pokémon increased!",
+        "Bargains at Poké Marts have started!",
+        "HP of {VAR 0100 0000}'s {VAR 0102 0001}\nwas restored!",
+        "PP of {VAR 0100 0000}'s {VAR 0102 0001}\nwas restored!",
+        "{VAR 0100 0000}'s Pokémon now\nreceive more Exp. Points!",
+        "{VAR 0100 0000}'s Pokémon now\nreceive fewer Exp. Points!",
+        "{VAR 0100 0000}'s likelihood of\nreceiving Prize Money increased!",
+        "{VAR 0100 0000}'s likelihood of \ncapturing Pokémon increased!",
+        "All {VAR 0100 0000}'s Pokémon\nare fully recovered!"
+    ],
+    "pad": "4e4e"
+}

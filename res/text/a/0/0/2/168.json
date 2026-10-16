@@ -1,0 +1,40 @@
+{
+    "flags": 120,
+    "entries": [
+        "{VAR 0100 0000}'s Data",
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "text": "{VAR 0201 0000}:{VAR 0201 0001}",
+            "flags": 40
+        },
+        "{VAR 0105 0000}",
+        {
+            "text": "Gym Badges: {VAR 0201 0000}",
+            "flags": 96
+        },
+        {
+            "text": "Pokédex: {VAR 0202 0000}",
+            "flags": 96
+        },
+        {
+            "text": "Time: {VAR 0202 0000}:{VAR 0201 0001}",
+            "flags": 128
+        },
+        {
+            "text": "{VAR BD02}Last saved on {VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000} at {VAR 0201 0003}:{VAR 0201 0004}",
+            "flags": 240
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        }
+    ],
+    "pad": "7070"
+}

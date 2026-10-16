@@ -1,0 +1,60 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh! Hey!\n{VAR 0100 0000}, right?{VAR BE01}",
+        "Let me see your Pokédex for a moment.{VAR BE01}\nWhat do we have here?{VAR BE01}\nSo, you've found {VAR 0202 0000} Pokémon, eh?{VAR BE01}",
+        "Staggering! You've seen a Klink!\nYou're becoming quite the Trainer.{VAR BE01}",
+        "Hmmm...\nYou haven't seen a Klink yet, eh?{VAR BE01}\nStill, that's a great Pokédex!{VAR BE01}",
+        "Excuse me! I was a little excited\nand forgot my manners.{VAR BE01}\nMy name is Juniper, too! Cedric Juniper.{VAR BE01}\nHeh! The professor who gave you\nthe Pokédex is my daughter!{VAR BE01}\nThat girl has told me a lot about you.{VAR BE01}\nIt really makes my day to meet you!{VAR BE01}",
+        "In honor of our meeting,\nI'm going to upgrade your Pokédex!{VAR BE01}",
+        "{VAR 0100 0000}'s Pokédex has\nbeen upgraded!",
+        "Cedric: Some Pokémon can change forms\neven when it's the same individual.{VAR BE01}\nIf you have already seen a form, you\ncan check it with this whenever you want.{VAR BE01}\nI also added a function to make\nsearching easier.{VAR BE01}",
+        "???: Professor, who's that Trainer?{VAR BE01}",
+        "Cedric: Oh! I forgot my introductions!\nSkyla, this is a friend of my daughter's.{VAR BE01}\n{VAR 0100 0000} is traveling around\nUnova to complete the Pokédex.{VAR BE01}",
+        "Skyla: Oh, I see! So that means you'll\nbe challenging the Gym!{VAR BE00}\nOh boy! I'm really looking forward to it!{VAR BE01}",
+        "Cedric: That's right, {VAR 0100 0000}.\nYou should challenge this Gym!{VAR BE01}\nIf nothing else, this Gym\nis really out there!{VAR BE01}",
+        "See you, Skyla. If something comes\nup again, I'll let you know!{VAR BE01}",
+        "Skyla: Professor, my plane\nis a cargo plane!{VAR BE01}\nIt carries cargo, not people!{VAR BE01}\nAnd you're talking as if places like Kanto\nand Sinnoh are right around the corner!{VAR BE01}",
+        "Cedric: Aww, Skyla.\nIf you keep frowning, your face might{VAR BE00}\nfreeze like that, and that'd be a shame.{VAR BE01}\nPeople and Pokémon, we all have\nto help each other out!{VAR BE01}\nSee you later!{VAR BE01}",
+        "Skyla: Sheesh!{VAR BE01}\nIt's hard to believe a happy-go-lucky\nguy like that could be a world-renowned{VAR BE00}\nPokémon professor.{VAR BE01}",
+        "Heads-up, {VAR 0100 0000}.{VAR BE01}\nAs a Gym Leader, I'd be happy to have\nyou challenge the Gym, but there's{VAR BE00}\nsomething I need to take care of first.{VAR BE01}",
+        "Heads-up, {VAR 0100 0000}.{VAR BE01}\nAs a Gym Leader, I'd be happy to have\nyou challenge the Gym, but there's{VAR BE00}\nsomething I need to take care of first.{VAR BE01}",
+        "Just now, as I was flying the\ncargo plane, I saw something{VAR BE00}\non top of the Celestial Tower.{VAR BE01}",
+        "I'm sure that it is a sick Pokémon!\nIf it is, I can't just leave it there!{VAR BE01}\nI have to look into this right away.{VAR BE01}\nI'm leaving for Route 7's Celestial Tower.\nYou can come along if you want.{VAR BE01}",
+        "Skyla completed her cargo-plane run.\nShe must have gone somewhere after.{VAR BE01}\nMaybe to the Celestial Tower on Route 7?",
+        "N: {VAR BE09 0001}They may say it is for understanding\none another better, but what Trainers{VAR BE00}\nreally use battles for is to compete...{VAR BE00}\nAnd they hurt each other's Pokémon!{VAR BE01}\nAm I the only one who finds this\nterribly painful?{VAR BE01}\nWhatever...\nI'm going to talk to your Pokémon.{VAR BE01}\nI've been living with Pokémon\nsince I was born, so it's easier for{VAR BE00}\nme to talk with them than with people.{VAR BE01}\n...Because Pokémon never tell lies.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Hey, {VAR 0101 0000}.{VAR BE01}\nWould you tell me what kind of Trainer\n{VAR 0100 0001} is?{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}OK, OK, got it.{VAR BE01}\nSo {VAR 0100 0001} was born in Nuvema Town,\nlives with Mom, and was given the Pokédex{VAR BE00}\nto start off a journey to see the world.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Still, this {VAR 0101 0001} trusts you\nfor some reason. That's good!{VAR BE01}\nIf every person and Pokémon cared about\none another like you two do,{VAR BE00}\nI could watch over the future of people{VAR BE00}\nand Pokémon without having to liberate{VAR BE00}\nPokémon from people who just use them.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Ghetsis is using Team Plasma\nto search for some special stones--{VAR BE01}\nthe Light Stone and the Dark Stone...{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}These stones hold the essence of two\nlegendary Pokémon. It is said that when{VAR BE00}\nthey lost their physical form, they fell{VAR BE00}\ninto a slumber and were transformed.{VAR BE01}\nNow, they wait for the hero's arrival...{VAR BE01}\nI shall resurrect a legendary\nDragon-type Pokémon from one of{VAR BE00}\nthese stones, and become its friend.{VAR BE01}\nThat will show the world that\nI am the new hero.{VAR BE00}\nEveryone will follow what I say!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}My vision is to change the world\nwithout using force.{VAR BE01}\nTrying to change the world by force\nwill just make others resist.{VAR BE01}\nIf people resist, the ones that will be\nhurt are the innocent Pokémon{VAR BE00}\nused by foolish Trainers.{VAR BE01}\nYou understand.{VAR BE01}\nPokémon are not just tools\nfor people to use!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}As a result...{VAR BE01}\nPokémon and Trainers who care about\none another, like you and your Pokémon,{VAR BE00}\nwill be separated.{VAR BE00}\nAnd that does break my heart a little. {VAR BE09 0000}{VAR BE01}",
+        "Planes! Their shapes!\nThey are perfectly designed to fly!{VAR BE01}\nThere is no excess in the\nmechanics for flying!",
+        "The only planes that fly out of\nMistralton Airport are cargo planes.{VAR BE01}\nIf Trainers want to fly, they can go\nwith a Pokémon that knows the move Fly.",
+        "Skyla's grandfather was\na legendary Pilot.{VAR BE01}\nSkyla is our city's Gym Leader.\nShe's a really nice person!",
+        "Pokémon and people worked together\nto open up desolate land and make{VAR BE00}\na place where everyone could live.{VAR BE01}\nI'm certain that this cooperative\nspirit will remain unchanged.",
+        "It's dangerous to play in a landing strip,\nbut you should be OK on ours.{VAR BE01}\nWe only have one cargo flight a day.",
+        "I hear many people have had their\nPokémon stolen by Team Plasma...",
+        "If you want to eat delicious vegetables,\nthe ones grown in the wild are the best.{VAR BE01}\nAs the weather and the seasons change,\nwild vegetables get more and more tasty.{VAR BE01}\nEven Pokémon like to eat wild vegetables!",
+        "Vegetables grown in a greenhouse\nare the best.{VAR BE01}\nThe temperature and their nutrients\nare all managed systematically.{VAR BE01}\nVegetables grown in a completely\nefficient way taste extra delicious!",
+        "Oh! You found our treasure!{VAR BE01}",
+        "Found it!{VAR BE01}",
+        "Just kidding.{VAR BE01}\nWe don't have a Pokémon, so we planned\nto hide this TM until we got one.{VAR BE01}\nBut that would be a waste, so--here!\nYou can use it!{VAR BE01}\nWe'll get another one from Skyla.{VAR BE01}",
+        "Just kidding.{VAR BE01}\nWe don't have a Pokémon, so we planned\nto hide this TM until we got one.{VAR BE01}\nBut that would be a waste, so--here!\nYou can use it!{VAR BE01}\nWe'll get another one from Skyla.{VAR BE01}",
+        "Yoooo-ooou can uuu-uuuuuse it!{VAR BE01}",
+        "See you! Bye-bye!{VAR BE01}",
+        {
+            "text": "Mistralton City\nStrewn with Windblown Leaves",
+            "flags": 207
+        },
+        {
+            "text": "Mistralton Cargo Service\nOur slogan is “Quick and Safe!\"",
+            "flags": 207
+        },
+        {
+            "text": "Mistralton City Pokémon Gym\nLeader: Skyla{VAR BE00}\nThe Highflying Girl",
+            "flags": 207
+        }
+    ]
+}

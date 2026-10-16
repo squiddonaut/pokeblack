@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "entries": [
+        "N: {VAR BE09 0001}You're looking for Team Plasma, right?{VAR BE01}\nThey ran into the amusement park.\nCome with me.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}They're not here.{VAR BE01}\nLet's ride the Ferris wheel\nand see if we can spot them.{VAR BE01}\nI love Ferris wheels.\nThe circular motion... The mechanics...{VAR BE01}\nThey're like collections of\nelegant formulas.{VAR BE09 0000}{VAR BE01}",
+        "Team Plasma: My lord N!{VAR BE01}",
+        "Team Plasma: You're safe, sire!{VAR BE01}",
+        "N: {VAR BE09 0001}There's no problem.{VAR BE01}\nYou're part of the people we brought in\nto help us save the Pokémon.{VAR BE00}\nSo, you're under my protection, as well.{VAR BE01}\nGo, quickly, and let my battle cover\nyour retreat.{VAR BE01}\n...Now then, {VAR 0100 0000},\ndo you follow my logic?{VAR BE09 0000}",
+        "{VAR BE09 0001}If true, your words please me.{VAR BE01}\nAh. Then...\nThe future I envision...{VAR BE01}\nPerhaps I can't beat you here and now,\nbut I'll battle you to buy time for these{VAR BE00}\nmembers of Team Plasma to get away!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}So that's how it is...\nThat's unfortunate.{VAR BE01}\nAh. Then...\nThe future I envision...{VAR BE01}\nPerhaps I can't beat you here and now,\nbut I'll battle you anyway to buy time{VAR BE00}\nfor these members of Team Plasma{VAR BE00}\nto flee.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}You're quite strong.{VAR BE01}\nBut I have a future that I must change.\nAnd, for that future...{VAR BE09 0000}{VAR BE01}",
+        "I'll defeat the Champion and become\nunbeatable, unlike any other!{VAR BE01}\nI'll make all Trainers free their Pokémon!\nJust try and stop me!{VAR BE01}\nIf you want to be together with Pokémon,\nyour only hope is to collect the Badges{VAR BE00}\nfrom each area and head for the{VAR BE00}\nPokémon League!{VAR BE00}\nTry and stop me there, if you dare!{VAR BE01}",
+        "{VAR BE09 0001}If your conviction is not strong enough,\nyou will never be able to defeat me.{VAR BE09 0000}{VAR BE01}",
+        "Whooshing, swooshing roller coaster!\nWhirltwirlwhirltwirl...whoa!",
+        "Spinning, spinning Ferris wheel!\nClimbing, climbing Ferris wheel!",
+        "No matter how old you get, amusement\nparks are always exciting, am I right?",
+        "Look! Look!\nIt's a clown!",
+        {
+            "text": "Nimbasa City Pokémon Gym\nLeader: Elesa{VAR BE00}\nThe Shining Beauty",
+            "flags": 207
+        }
+    ],
+    "pad": "7070"
+}

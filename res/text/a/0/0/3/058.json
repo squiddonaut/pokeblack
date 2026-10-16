@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "entries": [
+        "A beautiful melody makes people happy.\nA sad melody makes people sorrowful...{VAR BE00}\nThat's the power of melodies...",
+        "The scent you brought me reminded me of\na long-ago melody from the fringes of my{VAR BE00}\nsepia-toned memories.{VAR BE01}\nIt was a song my mother loved...\nIt makes me feel so nostalgic.{VAR BE01}\nWould you like to hear the melody?{VAR BE01}",
+        "My mother once told me of a Pokémon that\nplayed a melody and danced so lightly{VAR BE00}\nthat it filled people's hearts with joy.{VAR BE01}\nThen sorrow darkened the entire world,\nand the Pokémon lost the melody...{VAR BE01}\nAlso, at that time, some red shoes\nwere lost somewhere...{VAR BE01}",
+        "When you came through the door,\nI remembered the melody!{VAR BE01}\nAnd the Pokémon that had forgotten how\nto dance began to step lightly once more!{VAR BE01}\nYou are the inspiration.\nYou are a mysterious child...",
+        "Let it sing the Relic Song.{VAR BE01}\nAria Forme will become Pirouette Forme,\nand vice versa.",
+        "{VAR 0102 0000} remembered\nthe Relic Song it had forgotten!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "This is your first visit to this café.\nAm I correct?{VAR BE01}\nPlease...{VAR BE01}",
+        "Give this to your dear Pokémon.",
+        "You came all the way here.\nEnjoy...",
+        "After a tiring day of work, this café is a\nperfect spot to let your mind relax.",
+        "When I listen to his guitar, it reminds me\nof leaving home for the first time, and{VAR BE00}\nthe tears of farewell my mother cried..."
+    ],
+    "pad": "6464"
+}

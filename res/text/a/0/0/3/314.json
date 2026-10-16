@@ -1,0 +1,103 @@
+{
+    "flags": 224,
+    "entries": [
+        "{VAR 0100 0000} booted up the PC.{VAR BE01}",
+        "Which PC should be accessed?",
+        {
+            "text": "Someone's PC",
+            "flags": 219
+        },
+        {
+            "text": "Amanita's PC",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0100 0000}'s PC",
+            "flags": 219
+        },
+        {
+            "text": "Professor's PC",
+            "flags": 219
+        },
+        {
+            "text": "Records",
+            "flags": 219
+        },
+        {
+            "text": "Help",
+            "flags": 219
+        },
+        {
+            "text": "Switch off",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Your Hall of Fame data is corrupted.{VAR BE01}\nIt will be fixed if you enter the\nHall of Fame again.{VAR BE01}",
+        "Congratulations!{VAR BE01}\nMore wallpapers were added\nto commemorate your success.{VAR BE01}",
+        "Congratulations!{VAR BE01}\nWallpapers were added to commemorate\nyour victory against the Champion.{VAR BE01}",
+        "The Pokémon Storage System\nwas accessed.{VAR BE01}",
+        {
+            "text": "Deposit Pokémon",
+            "flags": 219
+        },
+        {
+            "text": "Withdraw Pokémon",
+            "flags": 219
+        },
+        {
+            "text": "Move Pokémon",
+            "flags": 219
+        },
+        {
+            "text": "Move items",
+            "flags": 219
+        },
+        {
+            "text": "No thanks!",
+            "flags": 219
+        },
+        {
+            "text": "Battle Box",
+            "flags": 219
+        },
+        "Pokémon in your party may be stored\nin the storage system's Boxes.",
+        "Pokémon stored in Boxes may be added\nto your party.",
+        "You may sort the Pokémon in Boxes\nand in your party.",
+        "You may sort the items held by your\nPokémon in Boxes and in your party.",
+        "Log out of the\nPokémon Storage System.",
+        "You can register Pokémon you will use in\nbattles against other players.",
+        "Accessed {VAR 0100 0000}'s PC.{VAR BE01}",
+        {
+            "text": "Mailbox",
+            "flags": 219
+        },
+        {
+            "text": "Log out",
+            "flags": 219
+        },
+        "Up to 20 pieces of Mail can be stored.",
+        "Log out of your PC.",
+        {
+            "text": "First game clear",
+            "flags": 219
+        },
+        {
+            "text": "Hall of Fame",
+            "flags": 219
+        },
+        {
+            "text": "Log out",
+            "flags": 219
+        },
+        "Accessed the Record System!{VAR BE01}",
+        "You can see the members at the time\nwhen you first finished the game.",
+        "You can see the members at the time\nwhen you entered the Hall of Fame.",
+        "Log out of the Record System.",
+        "Accessed Professor Juniper's PC.{VAR BE01}",
+        "Accessed the Help System.{VAR BE01}",
+        ""
+    ]
+}

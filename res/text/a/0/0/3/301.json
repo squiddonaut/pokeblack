@@ -1,0 +1,169 @@
+{
+    "flags": 224,
+    "entries": [
+        "N: {VAR BE09 0001}What I desire is a world for Pokémon,\nand Pokémon alone.{VAR BE01}\nI will separate Pokémon from people, so\nPokémon can regain their original power.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}It's time to settle this once and for all!{VAR BE01}\nMy determination is absolute!{VAR BE01}\nI will prove the value of my beliefs even\nif it means my Pokémon friends get hurt!{VAR BE01}\nSince you've come this far,\nI believe you are equally determined.{VAR BE01}\nIf that's so, prove it to me!\nShow me the depth of your determination!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}What I desire is a world for Pokémon,\nand Pokémon alone.{VAR BE01}\nI will separate Pokémon from people, so\nPokémon can regain their original power.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}It's time to settle this once and for all!{VAR BE01}\nMy determination is absolute!{VAR BE01}\nI will prove the value of my beliefs even\nif it means my Pokémon friends get hurt!{VAR BE01}\nSince you've come this far,\nI believe you are equally determined.{VAR BE01}\nIf that's so, prove it to me!\nShow me the depth of your determination!{VAR BE09 0000}{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "N: {VAR BE09 0001}You came all this way to battle me...\nBut Zekrom is not responding.{VAR BE01}\nYou haven't yet been recognized\nas the hero, have you?{VAR BE01}\nHow disappointing.{VAR BE01}\nI actually kind of liked you a little.{VAR BE01}\nThrough our many battles, I got the\nfeeling that you might be a Trainer{VAR BE00}\nwho truly cares for Pokémon!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}You came all this way to battle me...\nBut Reshiram is not responding.{VAR BE01}\nYou haven't yet been recognized\nas the hero, have you?{VAR BE01}\nHow disappointing.{VAR BE01}\nI actually kind of liked you a little.{VAR BE01}\nThrough our many battles, I got the\nfeeling that you might be a Trainer{VAR BE00}\nwho truly cares for Pokémon!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}But I was kidding myself.{VAR BE01}\nThe idea of Trainers getting to know\neach other through battles is ridiculous!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}You have two options.{VAR BE01}\nChallenge me to a fight you can't win,\nor leave this place and watch the birth{VAR BE00}\nof a new world where Pokémon{VAR BE00}\nare free of people!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}But I was kidding myself.{VAR BE01}\nThe idea of Trainers getting to know\neach other through battles is ridiculous!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}You have two options.{VAR BE01}\nChallenge me to a fight you can't win,\nor leave this place and watch the birth{VAR BE00}\nof a new world where Pokémon{VAR BE00}\nare free of people!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Reshiram! Come to me!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Zekrom! Come to me!{VAR BE09 0000}{VAR BE01}",
+        "The Dark Stone...\nIt's trembling inside the Bag!",
+        "The Light Stone...\nIt's trembling inside the Bag!",
+        "N: {VAR BE09 0001}Your Dark Stone is...{VAR BE01}\nI mean, Zekrom is...{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Your Light Stone is...{VAR BE01}\nI mean, Reshiram is...{VAR BE09 0000}{VAR BE01}",
+        "The Dark Stone draws in the aura of\nthe surroundings and converts it into{VAR BE00}\na powerful force, which is...now...{VAR BE01}\nBeing released!",
+        "The Light Stone draws in the aura of\nthe surroundings and converts it into{VAR BE00}\na powerful force, which is...now...{VAR BE01}\nBeing released!",
+        "N: {VAR BE09 0001}Reshiram and Zekrom...{VAR BE01}\nThey were once one life.\nOne Pokémon.{VAR BE01}\nComplete opposites, yet the same.{VAR BE01}\nReshiram and Zekrom are Pokémon that\nappear before the hero they recognize.{VAR BE01}\nAh... I see.\nYou really are a hero, too.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Zekrom and Reshiram...{VAR BE01}\nThey were once one life.\nOne Pokémon.{VAR BE01}\nComplete opposites, yet the same.{VAR BE01}\nZekrom and Reshiram are Pokémon that\nappear before the hero they recognize.{VAR BE01}\nAh... I see.\nYou really are a hero, too.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I'll tell you what that\nPokémon is saying to you.{VAR BE01}\n“I want to battle with you.\nTry to make me your friend and ally.\"{VAR BE01}\nIt plans to test you to see if you are\nreally pursuing ideals.{VAR BE01}\nI, also, am curious to see\nhow powerful you are.{VAR BE01}\nNow, catch Zekrom and make it your ally!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I'll tell you what that\nPokémon is saying to you.{VAR BE01}\n“I want to battle with you.\nTry to make me your friend and ally.\"{VAR BE01}\nIt plans to test you to see if you are\nreally pursuing truth.{VAR BE01}\nI, also, am curious to see\nhow powerful you are.{VAR BE01}\nNow, catch Reshiram\nand make it your ally!{VAR BE09 0000}{VAR BE01}",
+        "Bazzazzazzash!",
+        "Preeeeaah!",
+        "Zekrom is gazing at {VAR 0100 0000} as if\nto say, “Try to catch me!\"",
+        "Reshiram is gazing at {VAR 0100 0000} as if\nto say, “Try to catch me!\"",
+        "N: {VAR BE09 0001}Ah... I see.{VAR BE01}\nZekrom, who is said to lend its power\nto the hero who searches for ideals,{VAR BE00}\nhas recognized your power{VAR BE00}\nand now agrees to stand by your side...{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Ah... I see.{VAR BE01}\nReshiram, who is said to lend its power\nto the hero who searches for truth,{VAR BE00}\nhas recognized your power{VAR BE00}\nand now agrees to stand by your side... {VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Hold on. Your Pokémon are hurt.{VAR BE01}\nThere is no triumph to be gained in\nbattling a weakened opponent.{VAR BE09 0000}{VAR BE01}",
+        "N fully restored {VAR 0100 0000}'s Pokémon!",
+        "N: {VAR BE09 0001}Now, I will create the future I desire!{VAR BE01}\nI shall sweep you before me!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}...\n...{VAR BE01}\nReshiram and I were beaten.{VAR BE01}\nYour ideals... Your feelings...\nThey were stronger than mine, it seems...{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}...\n...{VAR BE01}\nZekrom and I were beaten.{VAR BE01}\nYour truth... Your feelings...\nThey were stronger than mine, it seems...{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Zekrom and Reshiram...{VAR BE01}\nEach of them choosing a different hero...\nIs that even possible?{VAR BE01}\nTwo heroes living at the same time--\none that pursues ideals and{VAR BE00}\none that pursues truth.{VAR BE00}\nCould...could they both be right?{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I don't know.{VAR BE01}\nIt's not by rejecting different ideas,\nbut by accepting different ideas that{VAR BE00}\nthe world creates a chemical reaction.{VAR BE01}\nThis is truly the formula\nfor changing the world.{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}Reshiram and Zekrom...{VAR BE01}\nEach of them choosing a different hero...\nIs that even possible?{VAR BE01}\nTwo heroes living at the same time--\none that pursues truth and{VAR BE00}\none that pursues ideals.{VAR BE00}\nCould... Could they both be right?{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I don't know.{VAR BE01}\nIt's not by rejecting different ideas,\nbut by accepting different ideas that{VAR BE00}\nthe world creates a chemical reaction.{VAR BE01}\nThis is truly the formula\nfor changing the world.{VAR BE09 0000}{VAR BE01}",
+        "Ghetsis: After all of that, do you think\nyou're still worthy of sharing the name{VAR BE00}\nHarmonia with me?{VAR BE01}\nYou good-for-nothing boy!{VAR BE01}",
+        "Ghetsis: To start with, I spurred N into\npursuing the truth. The reason we{VAR BE00}\nreawakened the legendary Pokémon now{VAR BE00}\nwas to give MY Team Plasma more power!{VAR BE01}\nPower to control the fearful masses!\nThat at least was well done.{VAR BE01}",
+        "Ghetsis: To start with, I spurred N into\npursuing ideals. The reason we{VAR BE00}\nreawakened the legendary Pokémon now{VAR BE00}\nwas to give MY Team Plasma more power!{VAR BE01}\nPower to control the fearful masses!\nThat at least was well done.{VAR BE01}",
+        "After saying you had to put your beliefs\non the line and battle to see which one{VAR BE00}\nchosen by the legendary Pokémon was{VAR BE00}\nthe true hero...{VAR BE01}\nYou lost to an ordinary Trainer!\nThere is such a thing as being too stupid!{VAR BE01}\nAdd it up, and you are nothing more\nthan a warped, defective boy{VAR BE00}\nwho knows nothing but Pokémon...{VAR BE01}",
+        "{VAR 0100 0000}! I never would have\nthought the legendary Pokémon{VAR BE00}\nwould choose a Trainer like you!{VAR BE00}\nIt caught me completely off guard.{VAR BE01}",
+        "This doesn't change my goal.\nMy plans have not been disturbed!{VAR BE01}\nIn order to rule this world utterly,\nin order to manipulate the hearts{VAR BE00}\nof people who know nothing,{VAR BE00}\nI will have N be the king of Team Plasma.{VAR BE01}\nBut, for that to work, you--\nsince you know the truth--{VAR BE00}\nYou must be eliminated!{VAR BE01}",
+        "Cheren: Rule the world??{VAR BE01}\nWasn't Team Plasma's goal to\nliberate Pokémon?{VAR BE01}",
+        "Ghetsis: That was just a convenient lie\nthat I needed to create Team Plasma.{VAR BE01}\nUse your head. What's to be gained from\nletting go of useful things like Pokémon?{VAR BE01}\nCertainly, manipulating Pokémon\nhelps people expand their possibilities.{VAR BE00}\nThat much, I can agree with.{VAR BE01}\nSo it naturally follows that only I should\nbe able to use Pokémon!{VAR BE01}",
+        "Alder: You fool!\nThat's a ridiculous idea!{VAR BE01}",
+        "Ghetsis: You can say whatever you want.{VAR BE01}\nA Pokémon, even if it's revered as a\ndeity, is still just a Pokémon.{VAR BE01}\n{VAR 0100 0000}, so what if it chose you!\nThat doesn't mean you're a threat.{VAR BE01}\nCome on! Now you'll face ME in battle!{VAR BE01}\nI can't wait to see the look on your face\nwhen you've lost all hope!{VAR BE01}",
+        "N: {VAR BE09 0001}{VAR 0100 0000}!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}{VAR 0100 0000}!{VAR BE09 0000}{VAR BE01}",
+        "Ghetsis: I won't allow anyone to stop me!\nNo matter who does what!{VAR BE01}",
+        "Cheren: I'll never forgive you.{VAR BE01}\nUsing power for your selfish purposes...\nYour selfish and evil purposes!",
+        "Alder: You've taken shameful advantage\nof N and his sincere, heartfelt beliefs.",
+        "N: {VAR BE09 0001}Was my formula incorrect?{VAR BE09 0000}",
+        "Bzaaah...",
+        "Pweesh...",
+        "Ghetsis: What?!{VAR BE01}\nI created Team Plasma with my own hands.\nI'm absolutely perfect! I AM PERFECTION!{VAR BE01}\nI am the perfect ruler of\na perfect new world!{VAR BE01}",
+        "Alder: Now, N...{VAR BE01}\nDo you still think Pokémon\nand people should be separated?{VAR BE01}",
+        "Ghetsis: Mwa ha ha!{VAR BE01}\nSince I couldn't become the hero and\nobtain the legendary Pokémon myself...{VAR BE01}\nI prepared someone for that purpose--N!{VAR BE01}\nHe's nothing more than a freak\nwithout a human heart.{VAR BE01}\nDo you think you're going to get\nthrough to a warped person like that?!{VAR BE01}",
+        "Cheren: Alder, it's a waste of valuable\ntime listening to him ramble on.{VAR BE01}\nHe is the one without a human heart!{VAR BE01}",
+        "Alder: You're right.\nHe's truly pitiful.{VAR BE01}",
+        "N...\nI'm sure you have much to think about.{VAR BE01}\nI know you were not pursuing the truth\nbecause of Ghetsis's manipulation, but{VAR BE00}\nbecause your heart was truly inspired.{VAR BE01}\nThat is why you were able to meet the\nlegendary Pokémon!{VAR BE01}",
+        "N...\nI'm sure you have much to think about.{VAR BE01}\nI know you were not pursuing ideals\nbecause of Ghetsis's manipulation, but{VAR BE00}\nbecause your heart was really inspired.{VAR BE01}\nThat is why you were able to meet the\nlegendary Pokémon!{VAR BE01}",
+        "N: {VAR BE09 0001}But...I have no right to be the hero!{VAR BE09 0000}{VAR BE01}",
+        "Alder: Is that so?{VAR BE01}\nWhat you and the legendary Pokémon\nare going to do from now on...{VAR BE00}\nThat's important, wouldn't you say?{VAR BE01}",
+        "N: {VAR BE09 0001}Acting like you understand...{VAR BE01}\nUp till now, we've been fighting each\nother over our beliefs!{VAR BE01}\nYet, despite that... Why?!{VAR BE09 0000}{VAR BE01}",
+        "Alder: N, even if we don't understand\neach other, that's not a reason{VAR BE00}\nto reject each other.{VAR BE01}\nThere are two sides to any argument.{VAR BE01}\nIs there one point of view that has all\nthe answers? Give it some thought.{VAR BE01}",
+        "N: {VAR BE09 0001}I want to talk to you about something.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}It's about when I first met\nyou in Accumula Town.{VAR BE01}\nI was shocked when I heard what\nyour Pokémon was saying.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I was shocked because that\nPokémon said it liked you.{VAR BE01}\nIt said it wanted to be with you.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}I couldn't understand it.{VAR BE01}\nI couldn't believe there were\nPokémon that liked people.{VAR BE01}\nBecause, up until that moment,\nI'd never known a Pokémon like that.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}The longer my journey continued,\nthe more unsure I became.{VAR BE01}\nAll I kept meeting were Pokémon and\npeople who communicated with one another{VAR BE00}\nand helped one another.{VAR BE01}\nThat was why I needed to confirm my\nbeliefs by battling with you.{VAR BE01}\nI wanted to confront you hero-to-hero.\nI needed that more than anything.{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}There's no way a person like me,\nsomeone who understands only Pokémon--{VAR BE01}\nNo, actually...\nI didn't understand them, either.{VAR BE01}\nNo way could I measure up to you,\nwhen you had met so many Pokémon{VAR BE00}\nand were surrounded by friends...{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}The Champion has forgiven me, and...{VAR BE01}\nWhat I should do now is something\nI'll have to decide for myself.{VAR BE09 0000}{VAR BE01}",
+        "{VAR 0100 0000}!{VAR BE01}",
+        "{VAR BE09 0001}You said you have a dream...\nThat dream... Make it come true!{VAR BE01}\nWonderful dreams and ideals give\nyou the power to change the world!{VAR BE00}\nIf anyone can, it's you!{VAR BE09 0000} {VAR 0100 0000}!{VAR BE01}",
+        "{VAR BE09 0001}Dream your dream!{VAR BE01}\nThen, pursue the ideals to make that\ndream a reality, and someday{VAR BE00}\nyou will achieve all that you dreamed of!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}You said you have a dream...\nThat dream... Make it come true!{VAR BE01}\nMake your wonderful dream a reality,\nand it will become your truth!{VAR BE00}\n{VAR 0100 0000}! If anyone can, it's you!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Dream your dream!{VAR BE01}\nFollow the path of truth to make that\ndream a reality, and someday{VAR BE00}\nyou will achieve all that you dreamed of!{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Well, then...{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Farewell!{VAR BE09 0000}{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "N: {VAR BE09 0001}Get ready! Go after it!{VAR BE01}\nZekrom will bare its fangs at people\nwho fail to follow their ideals.{VAR BE09 0000}",
+        "N: {VAR BE09 0001}Get ready! Go after it!{VAR BE01}\nReshiram will incinerate people who\nfail to keep truth in their heart.{VAR BE09 0000}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Add {VAR 0101 0001} to your party\nfrom the Box?",
+        "Not adding {VAR 0101 0001} to your party...\nIs that OK?",
+        "Send which Pokémon back to your Box?{VAR BE01}",
+        "Sending {VAR 0102 0002} back to your Box...\nIs that OK?",
+        "{VAR 0101 0001} was added to your party!"
+    ],
+    "pad": "0a0a"
+}

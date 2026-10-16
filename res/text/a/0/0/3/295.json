@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Skreeree...",
+        "This Pokémon has become attached to me.{VAR BE01}\nBut as far as I'm concerned, a Pokémon\nis just a simple tool.{VAR BE01}\nI don't understand...",
+        "Will you go to the Pokémon League?",
+        "Go!{VAR BE01}",
+        "I see.",
+        "I don't need an item to catch\nPokémon anymore...{VAR BE01}",
+        "Poké Balls...{VAR BE01}\nFrom my point of view, they are items\nthat keep Pokémon confined.{VAR BE01}\nBut for Trainers like you, they are a way\nto bond with Pokémon...{VAR BE01}\nIf you run out of Poké Balls,\ncome see me. I will give one to you.",
+        "You need a Poké Ball?\nOK. Take this.{VAR BE01}"
+    ],
+    "pad": "e6e6"
+}

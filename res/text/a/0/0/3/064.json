@@ -1,0 +1,57 @@
+{
+    "flags": 224,
+    "entries": [
+        "Me oh my, the Badges you can get in the\nUnova region! Want to hear about them?",
+        "Okey dokey. If you want to know\nabout them, please come back.",
+        "With the Trio Badge, Pokémon up to Lv. 20\nwill obey you without question.{VAR BE01}",
+        "With the Basic Badge, Pokémon up to\nLv. 30 will obey you without question.{VAR BE01}",
+        "With the Insect Badge, Pokémon up to\nLv. 40 will obey you without question.{VAR BE01}",
+        "With the Bolt Badge, Pokémon up to Lv. 50\nwill obey you without question.{VAR BE01}",
+        "With the Quake Badge, Pokémon up to\nLv. 60 will obey you without question.{VAR BE01}",
+        "With the Jet Badge, Pokémon up to Lv. 70\nwill obey you without question.{VAR BE01}",
+        "With the Freeze Badge, Pokémon up to\nLv. 80 will obey you without question.{VAR BE01}",
+        "With the Legend Badge, all Pokémon\nwill obey you without question.{VAR BE01}",
+        "Which Badge do you want to know about?",
+        {
+            "text": "Trio Badge",
+            "flags": 219
+        },
+        {
+            "text": "Basic Badge",
+            "flags": 219
+        },
+        {
+            "text": "Insect Badge",
+            "flags": 219
+        },
+        {
+            "text": "Bolt Badge",
+            "flags": 219
+        },
+        {
+            "text": "Quake Badge",
+            "flags": 219
+        },
+        {
+            "text": "Jet Badge",
+            "flags": 219
+        },
+        {
+            "text": "Freeze Badge",
+            "flags": 219
+        },
+        {
+            "text": "Legend Badge",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "When I gaze down at the city from a\ntall building, I tremble.{VAR BE01}\nBecause...\nI-I-I'm scared of heights...",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

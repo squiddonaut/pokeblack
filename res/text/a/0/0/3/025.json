@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi, Trainer! Do you know a Pokémon\ncalled Audino?{VAR BE01}\nIt's a Pokémon that I sometimes find\nwhen I'm walking.{VAR BE01}\nIt jumps out of rustling grass.\nI can get a lot of Exp. Points.{VAR BE01}\nIt's kind of a friendly Pokémon, isn't it?",
+        "I heard that the Fossils in the museum\nwere found in Twist Mountain.{VAR BE01}\nThen, a person called Clay apparently\ndonated them to the museum.",
+        "When you choose “HELP\"\nat the PC at a Pokémon Center,{VAR BE00}\nyou can learn many things. It's so cool!"
+    ],
+    "pad": "eaea"
+}

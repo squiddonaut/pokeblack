@@ -1,0 +1,48 @@
+{
+    "flags": 216,
+    "entries": [
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 60
+        },
+        {
+            "text": "ID {VAR 0204 0000}",
+            "flags": 58
+        },
+        "When the group is ready:\nA Button: Proceed   B Button: Cancel",
+        "Is this group OK?",
+        "Cancel the Spin Trade?",
+        "The Spin Trade will be canceled.",
+        "A member has dropped out.",
+        "There are no members.\nThe Spin Trade will be canceled.",
+        "Please wait.\nB Button: Cancel",
+        "A member dropped out.\nThe Spin Trade will be canceled.",
+        "Cancel the Spin Trade?",
+        "The Spin Trade will be canceled.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Spin Trade is done!\nYou will be returned to the Union Room.",
+        "If the leader drops out, the group will\nbe disbanded. Is that OK?",
+        "{VAR 0100 0000} has left.",
+        "{VAR 0100 0000}, the leader, has left.\nThe group will be disbanded.",
+        {
+            "text": "Seeking a Spin Trade!",
+            "flags": 208
+        },
+        {
+            "text": "Spin Trade in progress!",
+            "flags": 208
+        },
+        {
+            "text": "Yes",
+            "flags": 42
+        },
+        {
+            "text": "No",
+            "flags": 42
+        }
+    ],
+    "pad": "8c8c"
+}

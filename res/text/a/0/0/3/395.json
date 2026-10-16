@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Legend Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Legend Badge!{VAR BE01}\nPass through Victory Road,\nwhich lies beyond here, and head for{VAR BE00}\nthe Pokémon League.{VAR BE01}\nProve that you, too, can be a legend!",
+        "First, obtain the Legend Badge\nfrom the Opelucid Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "6060"
+}

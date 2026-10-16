@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 45,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 35,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_ADAPTABILITY" ],
-    "unk_1A": 107,
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_ADAPTABILITY",
+        "ABILITY_ANTICIPATION"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 65,
+    "base_exp_reward": 65,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TAIL_WHIP" ],
@@ -87,7 +90,7 @@
             "MOVE_SYNCHRONOISE"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_MOSS_ROCK", "SPECIES_LEAFEON" ],
         [ "EVO_LEVEL_ICE_ROCK", "SPECIES_GLACEON" ],
@@ -113,5 +116,16 @@
         "height": 3,
         "weight": 65
     },
-    "offspring": "SPECIES_EEVEE"
+    "offspring": "SPECIES_EEVEE",
+    "text": {
+        "70": "Eevee",
+        "235": "Because its genetic makeup is\nirregular, it quickly changes its\nform due to a variety of causes.",
+        "236": "Because its genetic makeup is\nirregular, it quickly changes its\nform due to a variety of causes.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Evolution Pokémon",
+        "268": "14.3 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Eevee",
+        "284": "EEVEE"
+    }
 }

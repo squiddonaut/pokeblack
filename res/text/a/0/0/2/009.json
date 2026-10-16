@@ -1,0 +1,304 @@
+{
+    "flags": 80,
+    "entries": [
+        {
+            "text": "{VAR 0101 0000}",
+            "flags": 64
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 64
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "BOX 1",
+            "flags": 96
+        },
+        {
+            "text": "BOX 2",
+            "flags": 96
+        },
+        {
+            "text": "BOX 3",
+            "flags": 96
+        },
+        {
+            "text": "BOX 4",
+            "flags": 96
+        },
+        {
+            "text": "BOX 5",
+            "flags": 96
+        },
+        {
+            "text": "BOX 6",
+            "flags": 96
+        },
+        {
+            "text": "BOX 7",
+            "flags": 96
+        },
+        {
+            "text": "BOX 8",
+            "flags": 96
+        },
+        {
+            "text": "BOX 9",
+            "flags": 96
+        },
+        {
+            "text": "BOX 10",
+            "flags": 96
+        },
+        {
+            "text": "BOX 11",
+            "flags": 96
+        },
+        {
+            "text": "BOX 12",
+            "flags": 96
+        },
+        {
+            "text": "BOX 13",
+            "flags": 96
+        },
+        {
+            "text": "BOX 14",
+            "flags": 96
+        },
+        {
+            "text": "BOX 15",
+            "flags": 96
+        },
+        {
+            "text": "BOX 16",
+            "flags": 96
+        },
+        {
+            "text": "BOX 17",
+            "flags": 96
+        },
+        {
+            "text": "BOX 18",
+            "flags": 96
+        },
+        {
+            "text": "BOX 19",
+            "flags": 96
+        },
+        {
+            "text": "BOX 20",
+            "flags": 96
+        },
+        {
+            "text": "BOX 21",
+            "flags": 96
+        },
+        {
+            "text": "BOX 22",
+            "flags": 96
+        },
+        {
+            "text": "BOX 23",
+            "flags": 96
+        },
+        {
+            "text": "BOX 24",
+            "flags": 96
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 16
+        },
+        "SWITCH BOX",
+        "WALLPAPER",
+        "NAME",
+        "CANCEL",
+        "SCENERY 1",
+        "SCENERY 2",
+        "SCENERY 3",
+        "MISC.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "FOREST",
+        "CITY",
+        "DESERT",
+        "SAVANNA",
+        "CRAG",
+        "VOLCANO",
+        "SNOW",
+        "CAVE",
+        "BEACH",
+        "SEAFLOOR",
+        "RIVER",
+        "SKY",
+        "POKÉ CENTER",
+        "MACHINE",
+        "CHECKS",
+        "SIMPLE",
+        "SPECIAL",
+        "RESHIRAM",
+        "ZEKROM",
+        "MONOCHROME",
+        "TEAM PLASMA",
+        "MUNNA",
+        "ZOROARK",
+        "SUBWAY",
+        "MUSICAL",
+        "BACK",
+        "PREVIOUS",
+        "NEXT",
+        {
+            "text": "PARTY ⒆⒇",
+            "flags": 88
+        },
+        {
+            "text": "BOX LIST",
+            "flags": 88
+        },
+        {
+            "text": "BATTLE BOX",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "SUMMARY",
+        "HELD ITEMS",
+        "MARKING",
+        "RELEASE",
+        "WITHDRAW",
+        "DEPOSIT",
+        {
+            "text": "CANCEL",
+            "flags": 46
+        },
+        "MOVE",
+        "MOVE",
+        "TUCK IN",
+        "CONFIRM",
+        "CANCEL",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "BAG",
+        "GIVE",
+        "MOVE",
+        {
+            "text": "⑭",
+            "flags": 7
+        },
+        {
+            "text": "⑮",
+            "flags": 7
+        },
+        {
+            "text": "{VAR 0106 0000}",
+            "flags": 88
+        },
+        {
+            "text": "{VAR 0108 0000}",
+            "flags": 64
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 96
+        },
+        {
+            "text": "NATURE",
+            "flags": 64
+        },
+        {
+            "text": "ABILITY",
+            "flags": 88
+        },
+        {
+            "text": "ITEM",
+            "flags": 96
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 27
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "None",
+            "flags": 96
+        },
+        {
+            "text": "???",
+            "flags": 64
+        },
+        {
+            "text": "Lv.",
+            "flags": 21
+        },
+        {
+            "text": "No.",
+            "flags": 21
+        },
+        {
+            "text": "MOVES LEARNED",
+            "flags": 88
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        }
+    ],
+    "pad": "d4d4"
+}

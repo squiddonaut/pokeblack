@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "CONFIRM",
+            "flags": 60
+        },
+        {
+            "text": "CANCEL",
+            "flags": 48
+        },
+        "Please enter a phrase or word.",
+        "Stop giving the Pokémon Mail?",
+        {
+            "text": "YES",
+            "flags": 44
+        },
+        {
+            "text": "NO",
+            "flags": 44
+        }
+    ],
+    "pad": "d4d4"
+}

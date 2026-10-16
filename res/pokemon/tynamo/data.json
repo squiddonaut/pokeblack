@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 55,
+    "base_exp_reward": 55,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -46,7 +49,7 @@
         "by_tm": [],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -58,5 +61,16 @@
         "height": 2,
         "weight": 3
     },
-    "offspring": "SPECIES_TYNAMO"
+    "offspring": "SPECIES_TYNAMO",
+    "text": {
+        "70": "Tynamo",
+        "235": "These Pokémon move in schools. They\nhave an electricity-generating organ, so\nthey discharge electricity if in danger.",
+        "236": "While one alone doesn't have much power,\na chain of many Tynamo can be as\npowerful as lightning.",
+        "244": "",
+        "245": "0'08\"",
+        "260": "EleFish Pokémon",
+        "268": "0.7 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Tynamo",
+        "284": "TYNAMO"
+    }
 }

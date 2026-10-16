@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 255,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_CHESTO_BERRY",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_75",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_TECHNICIAN" ],
-    "unk_1A": 92,
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_TECHNICIAN",
+        "ABILITY_SKILL_LINK"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
-    "unk_22": 60,
+    "base_exp_reward": 60,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POUND" ],
@@ -96,7 +99,7 @@
             "MOVE_FLAIL"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_USE_ITEM",
@@ -108,5 +111,16 @@
         "height": 4,
         "weight": 58
     },
-    "offspring": "SPECIES_MINCCINO"
+    "offspring": "SPECIES_MINCCINO",
+    "text": {
+        "70": "Minccino",
+        "235": "These Pokémon prefer a tidy habitat.\nThey are always sweeping and dusting,\nusing their tails as brooms.",
+        "236": "They greet one another by rubbing each\nother with their tails, which are always\nkept well groomed and clean.",
+        "244": "",
+        "245": "1'04\"",
+        "260": "Chinchilla Pokémon",
+        "268": "12.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Minccino",
+        "284": "MINCCINO"
+    }
 }

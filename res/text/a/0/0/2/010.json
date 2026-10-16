@@ -1,0 +1,109 @@
+{
+    "flags": 240,
+    "entries": [
+        "{VAR 0102 0000} is selected.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Release this Pokémon?",
+        "{VAR 0102 0000} was released.",
+        "Bye-bye, {VAR 0102 0000}!",
+        "Your party's full!",
+        "That's your last Pokémon!",
+        "What do you want to do?",
+        {
+            "text": "Jump to which Box?",
+            "flags": 144
+        },
+        "Please pick a theme.",
+        "Pick the wallpaper.",
+        "Continue Box operations?",
+        "The Box is full.",
+        "The Bag is full.",
+        "Took the {VAR 0109 0000}.",
+        "{VAR 0109 0000} is now being held.",
+        "Which one will you take?",
+        {
+            "text": "Place it in which Box?",
+            "flags": 152
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Take this {VAR 0109 0000}?",
+        "Mail can't be taken away.",
+        "{VAR 0109 0000} is selected.",
+        "Put away {VAR 0109 0000}?",
+        "Placed {VAR 0109 0000} in the Bag.",
+        "It can hold an item.",
+        "Please remove the Mail.",
+        "You can't release an Egg.",
+        "{VAR 0102 0000} came back!",
+        "Was it worried about you?",
+        "An Egg can't hold an item.",
+        "Touch the Mark!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "DEPOSIT POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "WITHDRAW POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "MOVE POKÉMON",
+            "flags": 144
+        },
+        {
+            "text": "MOVE ITEMS",
+            "flags": 144
+        },
+        {
+            "text": "BATTLE BOX",
+            "flags": 144
+        },
+        {
+            "text": "SELECT A SLEEPY POKÉMON",
+            "flags": 144
+        },
+        "Mail cannot be moved!",
+        "It cannot hold {VAR 0109 0000}!",
+        "It has Mail!",
+        "You're out of Pokémon that can fight!",
+        "Mail cannot be moved!",
+        "It cannot hold Mail here.",
+        "Eggs cannot be selected!",
+        "{VAR 0102 0000} will be tucked in.\nOK?",
+        "This Pokémon doesn't seem\nsleepy now.",
+        "Select another Pokémon?",
+        "Your Battle Box is locked.\nYou cannot move your Pokémon.",
+        "Your Battle Box is locked.\nItems cannot be given or taken."
+    ],
+    "pad": "b0b0"
+}

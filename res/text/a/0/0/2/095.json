@@ -1,0 +1,27 @@
+{
+    "flags": 205,
+    "entries": [
+        "Glad to meet you!\nI am {VAR 011C 0000}!",
+        "I'm a {VAR 011C 0000}-loving\n{VAR 011C 0001} Trainer.",
+        "Let's {VAR 011C 0000} sometime.\nKeep in touch!",
+        "{VAR 011C 0000} is the best!\nI love it!",
+        "It's great because it's\n{VAR 011C 0000}. Don't you agree?",
+        "Tell me your favorite\n{VAR 011C 0000}.",
+        "Hi!\nDo you know {VAR 011C 0000}?",
+        "It's very {VAR 011C 0000}\nand {VAR 011C 0001}!",
+        "Let's {VAR 011C 0000} soon!",
+        "Thank you for taking your time\nwith {VAR 011C 0000}.",
+        "It was so {VAR 011C 0000}.\nI was moved!",
+        "What do you think of\n{VAR 011C 0000}?",
+        "It's {VAR 011C 0000},\nif you ask me.",
+        "It bothers us, doesn't it?\nI'm talking about {VAR 011C 0000}.",
+        "Do you know what\nthey call {VAR 011C 0000}?",
+        "This {VAR 011C 0000} is\nsurprisingly {VAR 011C 0001}!",
+        "{VAR 011C 0000} sure is something.\nYou should try it!",
+        "Thank you for taking your time\nwith {VAR 011C 0000}.",
+        "{VAR 011C 0000} is\n{VAR 011C 0001}, don't you think?",
+        "That means {VAR 011C 0000}.\nThanks!",
+        "We should {VAR 011C 0000} together\nagain. {VAR 011C 0001}!"
+    ],
+    "pad": "b8b8"
+}

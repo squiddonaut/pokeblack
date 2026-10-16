@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "In Nimbasa City, where I work,\nI went to see a musical.{VAR BE01}\nHave you heard about it?\nThe Pokémon Musical?{VAR BE01}\nPokémon get all dressed up and\ndance to the music!",
+        "Pokémon Trainers on Route 4\nshow combinations with Pokémon{VAR BE00}\neven during road construction!",
+        {
+            "text": "Route 4 Ahead",
+            "flags": 207
+        }
+    ]
+}

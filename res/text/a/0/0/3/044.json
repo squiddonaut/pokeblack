@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to the Royal Unova!{VAR BE01}\nThe scenery is exhilarating,\nthe battles are exciting.{VAR BE01}\nThe ticket is $1,000.\nWould you like to get on board?",
+        "The Royal Unova leaves once a day,\nonly in the evening.{VAR BE00}\nIt is a cruiser-type passenger ship.{VAR BE01}",
+        "The Royal Unova operates only in\nthe evening.{VAR BE00}\nPlease come back again.",
+        "I'm sorry, you don't have enough money.\nPlease come back again.",
+        "The ticket is $1,000.\nWould you like to get on board?",
+        "The ship goes under a big bridge called\nSkyarrow Bridge in the Unova region,{VAR BE00}\nthen turns around at Marvelous Bridge{VAR BE00}\nand returns to Castelia City.{VAR BE01}\nWe'll let you know when it's time\nto leave by blowing a whistle five times.{VAR BE01}",
+        "From the deck of the world-famous Royal\nUnova, you can enjoy a spectacular view.{VAR BE01}\nAnd the passenger cabins are full of\nTrainers who love to battle.{VAR BE01}\nPlease enjoy both the view and\nthe battles!{VAR BE01}\nNote that as C-Gears may affect radio\nsignals or instruments in the ship,{VAR BE00}\nwe ask that you refrain from using them.{VAR BE00}\nThank you.{VAR BE01}",
+        "The power of the C-Gear will be turned\noff. Is that OK?",
+        "We are leaving the port shortly.\nBon voyage!{VAR BE01}",
+        "Certainly.\nPlease come back again.",
+        "Thank you for sailing with us on the\nRoyal Unova.{VAR BE01}\nHave a nice day!",
+        "We are closed for the day.\nPlease come again tomorrow.",
+        "Congratulations!{VAR BE01}\nYou've defeated all the Trainers\non the ship!{VAR BE01}\nPlease accept this prize.{VAR BE01}",
+        "The Royal Unova is now in preparation.{VAR BE01}\nWe are working very hard to ready the\nship for the best Pokémon Trainers.",
+        {
+            "text": "Get On Board",
+            "flags": 219
+        },
+        {
+            "text": "About the Ship",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        }
+    ]
+}

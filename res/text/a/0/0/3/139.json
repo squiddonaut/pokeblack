@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "The Battle House, where you can have\na Triple Battle, is next door.",
+        "The Battle House, where you can have\na Rotation Battle, is next door.",
+        "Whether or not you are troubled by the\nPokémon move Attract, take this!{VAR BE01}",
+        "When a Pokémon holding the Destiny Knot\nis affected by the move Attract, the{VAR BE00}\nopponent will also fall in love.{VAR BE01}\nIt's a bit difficult to use, but I hope it\nwill be useful!"
+    ]
+}

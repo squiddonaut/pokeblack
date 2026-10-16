@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
     "catch_rate": 45,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_TRACE" ],
-    "unk_1A": 140,
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_TRACE",
+        "ABILITY_TELEPATHY"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 233,
+    "base_exp_reward": 233,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_HEALING_WISH" ],
@@ -103,11 +106,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 16,
         "weight": 484
     },
-    "offspring": "SPECIES_RALTS"
+    "offspring": "SPECIES_RALTS",
+    "text": {
+        "70": "Gardevoir",
+        "235": "To protect its Trainer, it will\nexpend all its psychic power\nto create a small black hole.",
+        "236": "To protect its Trainer, it will\nexpend all its psychic power\nto create a small black hole.",
+        "244": "",
+        "245": "5'03\"",
+        "260": "Embrace Pokémon",
+        "268": "106.7 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Gardevoir",
+        "284": "GARDEVOIR"
+    }
 }

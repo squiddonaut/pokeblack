@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
     "catch_rate": 45,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_OVERGROW", "ABILITY_NONE" ],
-    "unk_1A": 102,
+    "abilities": [
+        "ABILITY_OVERGROW",
+        "ABILITY_NONE",
+        "ABILITY_LEAF_GUARD"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 64,
+    "base_exp_reward": 64,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -95,7 +98,7 @@
             "MOVE_HEAL_PULSE"
         ]
     },
-    "unk_38": 1,
+    "tutor_flags": 1,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -107,5 +110,16 @@
         "height": 9,
         "weight": 64
     },
-    "offspring": "SPECIES_CHIKORITA"
+    "offspring": "SPECIES_CHIKORITA",
+    "text": {
+        "70": "Chikorita",
+        "235": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe.",
+        "236": "It uses the leaf on its head to\ndetermine the temperature and\nhumidity. It loves to sunbathe.",
+        "244": "",
+        "245": "2'11\"",
+        "260": "Leaf Pokémon",
+        "268": "14.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Chikorita",
+        "284": "CHIKORITA"
+    }
 }

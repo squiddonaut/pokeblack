@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "People say the ruins of the Entralink\nhave existed since long before we{VAR BE00}\nstarted living with Pokémon.{VAR BE01}\nIt's unbelievable that this power has\nexisted for such a long time.",
+        "Huh? Where did everybody go?{VAR BE01}\nI came to the sea with other people, and\nI was playing with them...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "4c4c"
+}

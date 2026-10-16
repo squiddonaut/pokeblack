@@ -1,0 +1,101 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "{VAR 0201 0000} Ppl.",
+            "flags": 44
+        },
+        {
+            "text": "Total: {VAR 0204 0000} ",
+            "flags": 120
+        },
+        {
+            "text": "Who will you thank?",
+            "flags": 106
+        },
+        "You thanked {VAR 0100 0000}!",
+        "Will you use {VAR 0111 0001}?\n{VAR 0202 0002} needed/{VAR 0202 0003} held",
+        "Use the {VAR 0111 0001}\nthat {VAR 0100 0000} activated?",
+        "Special Pass Power activated!\nDo you want to use\n{VAR 0111 0001}?",
+        "Used {VAR 0111 0001}!",
+        "You do not have enough Pass Orbs\nto use this Pass Power.\n{VAR 0202 0002} needed/{VAR 0202 0003} held",
+        "Using {VAR 0111 0001}.\nSeconds remaining: {VAR 0201 0005}.",
+        "Using {VAR 0111 0001}.\nTime remaining: {VAR 0202 0004} min., {VAR 0201 0005} sec.",
+        "Said “{VAR 011C 0000}!\"",
+        {
+            "text": "CHECK",
+            "flags": 46
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        {
+            "text": "CHECK",
+            "flags": 46
+        },
+        {
+            "text": "CLOSE",
+            "flags": 46
+        },
+        {
+            "text": "Hiya!",
+            "flags": 96
+        },
+        "{VAR 0100 0000} is nearby.",
+        "{VAR 0100 0000} started battling\na wild {VAR 0101 0001}!",
+        "{VAR 0100 0000} won the battle\nwith the wild {VAR 0101 0001}!",
+        "{VAR 0100 0000} started battling\na special Pokémon!",
+        "{VAR 0100 0000} won the battle\nwith the special Pokémon!",
+        "{VAR 0100 0000} started a battle with\n{VAR 010E 0001} {VAR 0100 0002}!",
+        "{VAR 0100 0000} won the battle with\n{VAR 010E 0001} {VAR 0100 0002}!",
+        "{VAR 0100 0000} started a battle\nwith a Gym Leader!",
+        "{VAR 0100 0000} won the battle\nwith the Gym Leader!",
+        "{VAR 0100 0000} started a battle\nwith a special Trainer!",
+        "{VAR 0100 0000} won the battle\nwith a special Trainer!",
+        "{VAR 0100 0000} started a battle\nwith a special Trainer!",
+        "{VAR 0100 0000} won the battle\nwith a special Trainer!",
+        "{VAR 0100 0000} caught a\nwild {VAR 0101 0001}!",
+        "{VAR 0100 0000} caught\na special Pokémon!",
+        "{VAR 0100 0000}'s {VAR 0102 0002}'s\nlevel went up!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002} evolved\ninto {VAR 0101 0001}!",
+        "Dummy Message",
+        "{VAR 0100 0000} found\n{VAR 0109 0001}!",
+        "{VAR 0100 0000}'s playing time has\nexceeded {VAR 0202 0001} hours!",
+        "{VAR 0100 0000} completed the\nPokédex!",
+        "{VAR 0100 0000} has been thanked\nmore than {VAR 0202 0001} times!",
+        "{VAR 0100 0000} is in the reception\narea of the Union Room.",
+        "{VAR 0100 0000} thanked you!",
+        "{VAR 0101 0001} is currently\nbeing distributed!",
+        "The {VAR 0109 0001} is currently being\ndistributed!",
+        "A Mystery Gift is currently\nbeing distributed!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002}'s attack\nwas a critical hit!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002} took\na critical hit!",
+        "{VAR 0100 0000} escaped\nfrom the battle!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002}\nhas very low HP!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002}\nhas very low PP!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002}\nhas fainted!",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002}\nhas a status condition!",
+        "{VAR 0100 0000} used\n{VAR 0109 0001}!",
+        "{VAR 0100 0000} used\n{VAR 0107 0001}!",
+        "{VAR 0100 0000} received\nan Egg!",
+        "{VAR 0101 0001} hatched from\n{VAR 0100 0000}'s Egg!\n",
+        "{VAR 0100 0000} is\nshopping.",
+        "{VAR 0100 0000} is in a\nBattle Subway challenge.",
+        "{VAR 0100 0000} has\n{VAR 0200 0001} straight wins\nin the Battle Subway!",
+        "{VAR 0100 0000} won\na trophy in the Battle Subway!",
+        "{VAR 0100 0000} challenged\nthe Battle Institute.",
+        "{VAR 0100 0000} was certified as\n{VAR 0181 0001} in\nthe Battle Institute!",
+        "{VAR 0100 0000} got on\nthe Ferris wheel.",
+        "{VAR 0100 0000} entered\nthe Poké Transfer.",
+        "{VAR 0100 0000}'s\n{VAR 0102 0002} is currently\nparticipating in the Musical contest.",
+        "{VAR 0100 0000} used the received\n{VAR 0111 0001}!",
+        "{VAR 0100 0000} said\n“{VAR 011C 0001}.\"",
+        "dummy message"
+    ],
+    "pad": "8686"
+}

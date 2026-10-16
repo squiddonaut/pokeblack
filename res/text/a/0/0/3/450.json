@@ -1,0 +1,69 @@
+{
+    "flags": 224,
+    "entries": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 219
+        },
+        "There are a lot of people in the world,\nand there are just as many different{VAR BE00}\ncharacteristics and ideas.{VAR BE01}\nI think I'd be really happy if I could\nmeet a lot of people and see the{VAR BE00}\ndifferences for myself!",
+        "My mama says there's a scary monster\nwho comes out of the big hole at night,{VAR BE00}\nso we have to stay home and be good!{VAR BE01}\nBut that monster must be a Pokémon.\nRight? So I'm not scared at all!",
+        "Along the road ahead, there is a\ncoastline that fishing fans love.{VAR BE01}\nI'm busy, so I won't fish at night, but\nthere may be big fish!",
+        "My grandma loves to tell old stories,\nand she makes me listen to her long{VAR BE00}\nstories all the time.{VAR BE01}\nSometimes I just want to go out on my\nown and paint the town red!",
+        "Ever since I took a post here, I don't\nreally have anything to do.{VAR BE01}\nI'm so bored! I'm afraid all my policing\nmuscles will shrivel up because I don't{VAR BE00}\nuse them anymore.",
+        "My Pokémon always goes out\nto have fun without me.{VAR BE01}\nI wonder where it gets that attitude?",
+        "Gahoon! Gahoon!",
+        "My work keeps me very busy, and I only\ngo home once a week or so.{VAR BE01}\nI'm sorry to leave my wife lonely, but\nthat's the life of a powerful executive.{VAR BE01}\nOh, this is a souvenir from a business\ntrip, but she does not seem to need it,{VAR BE00}\nso I will give it to you.{VAR BE01}",
+        "I leave on a business trip\nagain tomorrow.{VAR BE01}\nI think of myself as a role model\nfor businesspeople."
+    ],
+    "pad": "0e0e"
+}

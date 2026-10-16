@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ICE", "TYPE_ICE" ],
     "catch_rate": 255,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_ICE_BODY", "ABILITY_NONE" ],
-    "unk_1A": 133,
+    "abilities": [
+        "ABILITY_ICE_BODY",
+        "ABILITY_NONE",
+        "ABILITY_WEAK_ARMOR"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 61,
+    "base_exp_reward": 61,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_ICICLE_SPEAR" ],
@@ -88,7 +91,7 @@
             "MOVE_POWDER_SNOW"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -100,5 +103,16 @@
         "height": 4,
         "weight": 57
     },
-    "offspring": "SPECIES_VANILLITE"
+    "offspring": "SPECIES_VANILLITE",
+    "text": {
+        "70": "Vanillite",
+        "235": "This Pokémon formed from icicles\nbathed in energy from the morning sun.\nIt sleeps buried in snow.",
+        "236": "The temperature of their breath\nis -58° F. They create snow crystals and\nmake snow fall in the areas around them.",
+        "244": "",
+        "245": "1'04\"",
+        "260": "Fresh Snow Pokémon",
+        "268": "12.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Vanillite ",
+        "284": "VANILLITE"
+    }
 }

@@ -1,0 +1,62 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Let {VAR 0100 0000} talk to you and\ngive “{VAR 0110 0001}\" in return!",
+        "Talk to {VAR 0100 0000} and\ngive “{VAR 0110 0001}\"!",
+        "Challenge {VAR 0100 0000} to a battle!\nFlat Battle: Lv. {VAR 0202 0001}, two Pokémon",
+        "Talk to {VAR 0100 0000} in a battle\nand give “HP Restoring Power.\"",
+        "Talk to {VAR 0100 0000} in a battle\nand give “HP Restoring Power.\"",
+        "Talk to {VAR 0100 0000} in a battle\nand give “HP Restoring Power.\"",
+        "Talk to {VAR 0100 0000} in a battle\nand give “HP Restoring Power.\"",
+        "Stash one {VAR 0109 0000} between\ntwo benches in Nimbasa City!",
+        "Stash one {VAR 0109 0000} in front of the\nhouse behind the market in Driftveil City!",
+        "Stash one {VAR 0109 0000} in front of the\nsecond airplane in Mistralton City!",
+        "Stash one {VAR 0109 0000} where they\nwere going round and round in Icirrus City!",
+        "Stash one {VAR 0109 0000} in front of the gate\nwhere you cannot warp in Opelucid City!",
+        "Stash one {VAR 0109 0000} in the manhole\nin Lacunosa Town!",
+        "Stash one {VAR 0109 0000} in front of the\nfountain in Undella Town!",
+        "Stash one {VAR 0109 0000} in front of\nwhere the Musician was on Route 5!",
+        "Stash one {VAR 0109 0000} in the middle of the\nnorthward bridge on Route 6!",
+        "Stash one {VAR 0109 0000} in front of\nCelestial Tower on Route 7!",
+        "Stash one {VAR 0109 0000} in front of the\nsign on Route 8!",
+        "Stash one {VAR 0109 0000} in front of the\ntrash can on Route 9!",
+        "Stash one {VAR 0109 0000} in front of\nthe camper on Route 11!",
+        "Stash one {VAR 0109 0000} at the sign\nin the middle of Route 12!",
+        "Stash one {VAR 0109 0000} under the tree\non the grassy island on Route 13!",
+        "Stash one {VAR 0109 0000} where the beach\nbegins on Route 14!",
+        "Stash one {VAR 0109 0000} in front of\nthe trash can on Route 15!",
+        "Stash one {VAR 0109 0000} by the\nmissing fence on Route 16!",
+        "Stash one {VAR 0109 0000} between\ntwo benches in Nimbasa City!",
+        "Stash one {VAR 0109 0000} in front of the\nhouse behind the market in Driftveil City!",
+        "Stash one {VAR 0109 0000} in front of the\nsecond airplane in Mistralton City!",
+        "Stash one {VAR 0109 0000} where they\nwere going round and round in Icirrus City!",
+        "Stash one {VAR 0109 0000} in front of the gate\nwhere you cannot warp in Opelucid City!",
+        "Stash one {VAR 0109 0000} in the manhole\nin Lacunosa Town!",
+        "Stash one {VAR 0109 0000} in front of the\nfountain in Undella Town!",
+        "Stash one {VAR 0109 0000} in front of\nwhere the Musician was on Route 5!",
+        "Stash one {VAR 0109 0000} in the middle of the\nnorthward bridge on Route 6!",
+        "Stash one {VAR 0109 0000} in front of\nCelestial Tower on Route 7!",
+        "Stash one {VAR 0109 0000} in front of the\nsign on Route 8!",
+        "Stash one {VAR 0109 0000} in front of the\ntrash can on Route 9!",
+        "Stash one {VAR 0109 0000} in front of\nthe camper on Route 11!",
+        "Stash one {VAR 0109 0000} at the sign\nin the middle of Route 12!",
+        "Stash one {VAR 0109 0000} under the tree\non the grassy island on Route 13!",
+        "Stash one {VAR 0109 0000} where the beach\nbegins on Route 14!",
+        "Stash one {VAR 0109 0000} in front of\nthe trash can on Route 15!",
+        "Stash one {VAR 0109 0000} by the\nmissing fence on Route 16!",
+        "Sell one {VAR 0109 0001} to {VAR 0100 0000}\nat a reasonable price!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "1c1c"
+}

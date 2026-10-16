@@ -1,0 +1,150 @@
+{
+    "flags": 195,
+    "entries": [
+        {
+            "text": "Please insert a Pokémon\nDiamond, Pearl, Platinum, HeartGold,\nor SoulSilver Version Game Card in the\nother DS system and turn it on. Then\nselect “Poké Transfer ID: {VAR 0204 0000}\"\nfrom “DS Download Play.\"",
+            "flags": 208
+        },
+        {
+            "text": "Sending data to\nthe other DS system.",
+            "flags": 192
+        },
+        {
+            "text": "Please select Pokémon\nin the other DS system.",
+            "flags": 208
+        },
+        {
+            "text": "Activating Poké Transfer...",
+            "flags": 208
+        },
+        {
+            "text": "Testing Poké Transfer...",
+            "flags": 208
+        },
+        {
+            "text": "Receiving test data...",
+            "flags": 208
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 192
+        },
+        "The game has been saved.{VAR BE02 003C}",
+        "Poké Transfer will end.{VAR BE02 003C}",
+        {
+            "text": "Will you cancel Poké Transfer?",
+            "flags": 240
+        },
+        "Unable to connect to the\nother DS system.{VAR BE01}",
+        {
+            "text": "Waiting for the other DS system's\ndecision.",
+            "flags": 208
+        },
+        {
+            "text": "Poké Transfer ID: {VAR 0204 0000}",
+            "flags": 186
+        },
+        {
+            "text": "Pokémon Black Version\nPoké Transfer Program",
+            "flags": 202
+        },
+        {
+            "text": "Pokémon White Version\nPoké Transfer Program",
+            "flags": 202
+        },
+        {
+            "text": "Relocator ID: {VAR 0204 0000}",
+            "flags": 186
+        },
+        {
+            "text": "Pokémon Black Version\nRelocator Program",
+            "flags": 202
+        },
+        {
+            "text": "Pokémon White Version\nRelocator Program",
+            "flags": 202
+        },
+        {
+            "text": "YES",
+            "flags": 42
+        },
+        {
+            "text": "NO",
+            "flags": 42
+        },
+        {
+            "text": "Please insert a Pokémon Diamond,\nPearl, Platinum, HeartGold, or\nSoulSilver Version Game Card in the\nother DS system and turn it on.\n\nThen select\n“Relocator ID: {VAR 0204 0000}\"\nfrom “DS Download Play.\"\n\nPress the B Button to cancel.",
+            "flags": 208
+        },
+        {
+            "text": "Activating Relocator...\nPlease stand by.",
+            "flags": 192
+        },
+        {
+            "text": "No. of specially distributed Pokémon: {VAR 0202 0000}\nWill you transfer these Pokémon{VAR BE01}\nto Pokémon Black Version?",
+            "flags": 229
+        },
+        {
+            "text": "No. of specially distributed Pokémon: {VAR 0202 0000}\nWill you transfer these Pokémon{VAR BE01}\nto Pokémon White Version?",
+            "flags": 229
+        },
+        {
+            "text": "There is no room left in the PC!\nPlease make some room.{VAR BE01}",
+            "flags": 229
+        },
+        {
+            "text": "Transferring Pokémon\nwith the Relocator.\nPlease stand by...",
+            "flags": 192
+        },
+        {
+            "text": "Held items will be put in\nthe Bag. Is that OK?",
+            "flags": 240
+        },
+        {
+            "text": "When the Bag is full of a certain item, you'll\nlose held items of that kind. Is that OK?",
+            "flags": 240
+        },
+        {
+            "text": "Will you cancel transferring Pokémon\nwith the Relocator?",
+            "flags": 240
+        },
+        {
+            "text": "Pokémon transfer\nwill be canceled.{VAR BE01}",
+            "flags": 229
+        },
+        {
+            "text": "No. of specially distributed Pokémon\nsafely transferred: {VAR 0202 0000}!{VAR BE01}\nThe machine has transferred\nthese Pokémon to the PC!{VAR BE01}",
+            "flags": 208
+        },
+        {
+            "text": "Found a Lock Capsule.\nWill you take the Lock Capsule?",
+            "flags": 240
+        },
+        {
+            "text": "The Lock Capsule is being transferred\nwith the Relocator.\nPlease wait a moment...",
+            "flags": 208
+        },
+        "The Lock Capsule was safely\ntransferred. It was put away\nin the Key Items Case.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Relocator is done.\nPlease turn the power off in the\nother DS system.{VAR BE01}",
+        "This Pokémon knows a hidden move.\nIt cannot transfer\nwith the Relocator.{VAR BE01}\nNo. of Pokémon with no HM: {VAR 0202 0000}!{VAR BE01}",
+        "You have already received\nthe Lock Capsule.{VAR BE01}",
+        "Save failed...\nThe Relocator will close.{VAR BE01}",
+        "The data has been saved.{VAR BE01}",
+        "Nothing was found to be\ntransferred.{VAR BE01}",
+        "The software inserted is incorrect.\nThe Relocator will close.{VAR BE01}",
+        {
+            "text": "Do you want to cancel\nthe Relocator?",
+            "flags": 240
+        },
+        {
+            "text": "DS Wireless Communications\nwill be launched.",
+            "flags": 240
+        },
+        "Error reading the save file.{VAR BE01}\nThere may not be a save file,\nor the save file may be corrupted.{VAR BE01}\nThe Relocator will close.{VAR BE01}"
+    ],
+    "pad": "7c7c"
+}

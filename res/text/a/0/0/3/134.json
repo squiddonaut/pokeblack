@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "The more this city develops, the more\nfuturistic it will become.{VAR BE01}\nI'm sure of this!\nI want to grow up quickly!",
+        "If I had cherished old things, they could\nhave reminded me of old days...{VAR BE01}\nI totally forgot what I was like when I\nwas a child.{VAR BE01}\nI think I was hoping to grow\nup quickly...",
+        "Your {VAR 0101 0000}...{VAR BE01}",
+        "put in a great effort!",
+        "looks like it can try a little harder."
+    ],
+    "pad": "bcbc"
+}

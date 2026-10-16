@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
     "catch_rate": 120,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 100,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_INTIMIDATE" ],
-    "unk_1A": 62,
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_INTIMIDATE",
+        "ABILITY_GUTS"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 127,
+    "base_exp_reward": 127,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -81,7 +84,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -93,5 +96,16 @@
         "height": 9,
         "weight": 305
     },
-    "offspring": "SPECIES_SHINX"
+    "offspring": "SPECIES_SHINX",
+    "text": {
+        "70": "Luxio",
+        "235": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes.",
+        "236": "Strong electricity courses through\nthe tips of its sharp claws. A light\nscratch causes fainting in foes.",
+        "244": "",
+        "245": "2'11\"",
+        "260": "Spark Pokémon",
+        "268": "67.2 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Luxio",
+        "284": "LUXIO"
+    }
 }

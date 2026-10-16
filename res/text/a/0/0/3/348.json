@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Good morning. You must be {VAR 0100 0000}.{VAR BE01}\nI've received a Mystery Gift for you.\nHere you go!{VAR BE01}",
+        "Good day. You must be {VAR 0100 0000}.{VAR BE01}\nI've received a Mystery Gift for you.\nHere you go!{VAR BE01}",
+        "Good evening. You must be {VAR 0100 0000}.{VAR BE01}\nI've received a Mystery Gift for you.\nHere you go!{VAR BE01}",
+        "I haven't received any other gifts\nfor you.{VAR BE01}\nWe look forward to your next visit.",
+        "We look forward to your next visit.",
+        "{VAR 0100 0000} received\n{VAR 0101 0001}!",
+        "Your party is full. Please make room\nto receive the gift.",
+        "{VAR 0100 0000} obtained\nthe {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!",
+        "Another {VAR 0109 0000}? You already\nhave too many to accept any more.",
+        "{VAR 0100 0000} received\n{VAR 0110 0001}!",
+        "{VAR 0100 0000} already\nknows {VAR 0110 0001}.",
+        "{VAR 0100 0000} obtained\na Pokémon Egg!"
+    ]
+}

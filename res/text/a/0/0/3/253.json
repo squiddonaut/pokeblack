@@ -1,0 +1,37 @@
+{
+    "flags": 215,
+    "entries": [
+        "TESPXTHOJL\nPUOFUTJM",
+        "IUVSUPUEBFM\nTFNJSQ",
+        "FWBSCTJHOJL",
+        "FQPITFTPMSFWFO\nHOJL",
+        "EOJLTJHOJL",
+        "NBFSEBTBIHOJL",
+        "TVPSVUOFWEB\nTJHOJL",
+        "MMBTUQFDDBHOJL",
+        "SFOSPDEO2TOSVU\nHOJL",
+        "SFOSPDES3TOSVU\nHOJL",
+        "SFOSPDIU5TOSVU\nHOJL",
+        "SFOSPDIU7TOSVU\nHOJL",
+        "HOJLGP\nUSBFIFIUFWBI",
+        "HOJLFTJBSQFXFSFI",
+        "TFOJITUIHJM\nTHOJL",
+        "FMQPFQTJITFWPN\nHOJL",
+        "FWPMIUJXTUDBHOJL",
+        "EFSUBIUIHVPGHOJL",
+        "UTPMTUFHHOJLPO",
+        {
+            "text": "HOJLFWBSCOPPH{VAR BE01}",
+            "flags": 207
+        },
+        {
+            "text": "The wall moved, and you can proceed now!",
+            "flags": 224
+        },
+        {
+            "text": "It looks like you can climb up here!{VAR BE01}\nWill you proceed to the upper floor?",
+            "flags": 224
+        }
+    ],
+    "pad": "c4c4"
+}

@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "entries": [
+        "The Xtransceiver is ringing.",
+        "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}",
+        "That raised walkway...{VAR BE01}\nIf you stand still, you'll fall off, so you\nhave to keep moving.",
+        "Oh! Bold enough to come talk to me,\nare you?{VAR BE01}\nYou're quite the Trainer. I like you!\nTake this TM!{VAR BE01}",
+        "When a Pokémon uses Charge Beam,\nsometimes its Sp. Atk goes up.{VAR BE01}\nIf you're lucky, the power will just\nkeep going up!",
+        "My, my...\nThat Pokémon has come again, too.{VAR BE01}",
+        "Now, now, child, don't you go heading into\nthe tall grass.{VAR BE00}\nThat Pokémon might be too much for you.{VAR BE01}",
+        "We'll catch cold standin' around talkin'\nin this wind and rain.{VAR BE01}\nIt's not much, but come stay\nin my home a spell.{VAR BE01}",
+        "Krrrkrrrkrrak!",
+        "Whhhwhhhwhhh!!",
+        "Whew, what a storm!{VAR BE01}\nApparently it's that Pokémon's doing!{VAR BE01}",
+        {
+            "text": "Route 7",
+            "flags": 207
+        },
+        {
+            "text": "Celestial Tower\nA place of rest for innocent spirits",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nThe number of Exp. Points you get\nafter a battle is based on levels.{VAR BE01}\nWhen your Pokémon is weaker than\nits opponent, it will get more.{VAR BE01}\nBut if your Pokémon is stronger,\nit won't get as many.",
+            "flags": 207
+        }
+    ],
+    "pad": "bcbc"
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_POISON", "TYPE_POISON" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_BLACK_SLUDGE",
-        "rare": "ITEM_NUGGET"
+        "rare": "ITEM_NUGGET",
+        "rare_2": "ITEM_BIG_NUGGET"
     },
-    "unk_10": 581,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_STENCH", "ABILITY_WEAK_ARMOR" ],
-    "unk_1A": 106,
+    "abilities": [
+        "ABILITY_STENCH",
+        "ABILITY_WEAK_ARMOR",
+        "ABILITY_AFTERMATH"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": true,
-    "unk_22": 166,
+    "base_exp_reward": 166,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POUND" ],
@@ -90,11 +93,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 19,
         "weight": 1073
     },
-    "offspring": "SPECIES_TRUBBISH"
+    "offspring": "SPECIES_TRUBBISH",
+    "text": {
+        "70": "Garbodor",
+        "235": "They absorb garbage and make it part\nof their bodies. They shoot a poisonous\nliquid from their right-hand fingertips.",
+        "236": "It clenches opponents with its left arm\nand finishes them off with foul-smelling\npoison gas belched from its mouth.",
+        "244": "",
+        "245": "6'03\"",
+        "260": "Trash Heap Pokémon",
+        "268": "236.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Garbodor",
+        "284": "GARBODOR"
+    }
 }

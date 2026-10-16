@@ -1,0 +1,15 @@
+{
+    "flags": 215,
+    "entries": [
+        "IRSPE③HIXEIJIH\nKRMO",
+        "CEHERM\nKRMOHIRMSN④",
+        "WKRMIF⑤HIPPEG\nKRMO",
+        "IVYXYJHREITSL\nWMKRMO",
+        "⑥KRMOXEIVKILX",
+        {
+            "text": "It looks like you can climb down here!{VAR BE01}\nWill you return to the lower floor?",
+            "flags": 224
+        }
+    ],
+    "pad": "eeee"
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_GRASS" ],
     "catch_rate": 75,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_TINYMUSHROOM",
-        "rare": "ITEM_BIG_MUSHROOM"
+        "rare": "ITEM_BIG_MUSHROOM",
+        "rare_2": "ITEM_BALM_MUSHROOM"
     },
-    "unk_10": 580,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_EFFECT_SPORE", "ABILITY_DRY_SKIN" ],
-    "unk_1A": 6,
+    "abilities": [
+        "ABILITY_EFFECT_SPORE",
+        "ABILITY_DRY_SKIN",
+        "ABILITY_DAMP"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 142,
+    "base_exp_reward": 142,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_CROSS_POISON" ],
@@ -92,11 +95,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 10,
         "weight": 295
     },
-    "offspring": "SPECIES_PARAS"
+    "offspring": "SPECIES_PARAS",
+    "text": {
+        "70": "Parasect",
+        "235": "A mushroom grown larger than the\nhost's body controls Parasect.\nIt scatters poisonous spores.",
+        "236": "A mushroom grown larger than the\nhost's body controls Parasect.\nIt scatters poisonous spores.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Mushroom Pokémon",
+        "268": "65.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Parasect",
+        "284": "PARASECT"
+    }
 }

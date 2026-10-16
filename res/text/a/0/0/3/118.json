@@ -1,0 +1,60 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cedric: Hello, {VAR 0100 0000}!\nHow is {VAR 0101 0001}?{VAR BE01}",
+        "Ah! This {VAR 0101 0001} has really taken\na shine to you.{VAR BE01}",
+        "I can tell you're paying a lot of\nattention to training {VAR 0101 0001}.{VAR BE00}\nCareful not to be too strict!{VAR BE01}",
+        "The Pokédex is important, but time spent\nhaving fun together is also important.{VAR BE01}\nSay, I just had a thought--\nhave you heard of Dragonspiral Tower?",
+        "Really?\nQuite impressive.{VAR BE01}",
+        "Eh... I'm not surprised you haven't\nheard of it.{VAR BE01}",
+        "OK. Give this story a listen.{VAR BE01}\nDragonspiral Tower is said to be\nthe Unova region's oldest building.{VAR BE01}\nStories say it's the place where\nlegendary Pokémon came to life or{VAR BE00}\nwhere they remain in deep slumber.{VAR BE01}",
+        "OK. Give this story a listen.{VAR BE01}\nDragonspiral Tower is said to be\nthe Unova region's oldest building.{VAR BE01}\nStories say it's the place where\nlegendary Pokémon came to life or{VAR BE00}\nwhere they remain in deep slumber.{VAR BE01}",
+        "I know it's just past Icirrus City,\nbut that's all I know about it.{VAR BE01}\nThat's all anyone knows,\nbecause no one has ever been inside.{VAR BE01}",
+        "My daughter has wanted to investigate\nthat tower for a long time.{VAR BE01}\n“What! There's something I don't know?!\"\nThat kind of feeling is pure adventure.{VAR BE01}\nAnd I'm not too old for some adventuring.\nAway I go to have a look at{VAR BE00}\nDragonspiral Tower!{VAR BE00}\nCatch you later!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, I've been talking\nwith Bianca, and I'm wondering...{VAR BE01}\nSince we left Nuvema Town, has\nsomething about me...changed?{VAR BE01}\nThinking about what I want to do...\nThinking about what I should do...{VAR BE01}\nIt felt like there was nothing...{VAR BE01}\nHave I really become stronger?\nOr is it just my Pokémon that have?{VAR BE01}\nI don't know anymore!{VAR BE01}",
+        "Bianca: Hey, hey. Cheer up, Cheren...\nIsn't it nice to see everyone?!{VAR BE01}\n{VAR 0100 0000}! Know what? This time,\nI'll go to the Pokémon Fan Club.{VAR BE01}\nI'm really searching...\nfor what I want to do and what I can do!{VAR BE01}",
+        "Brycen: Who are you?{VAR BE01}",
+        "Bianca: Who? Us?{VAR BE01}\nI'm Bianca, and this is Cheren...{VAR BE01}",
+        "Brycen: I know you are there!\nWhy don't you show yourselves?{VAR BE01}",
+        "... {VAR BE01}\nImpressive, Gym Leader of Icirrus City.{VAR BE01}\nWe, the Shadow Triad, are beings of the\nshadows...and not easily noticed.{VAR BE01}",
+        "Our mission was to speak only\nwith {VAR 0100 0000}, but so be it.{VAR BE01}\nGhetsis has a message for you:\ncome to Dragonspiral Tower.{VAR BE01}",
+        "It is there that our lord N\nwaits for you.{VAR BE01}\n...Now, our mission is complete.{VAR BE01}",
+        "Brycen: Dragonspiral Tower?!\nWhat's going on?{VAR BE01}\nHey! Tell me...{VAR BE01}",
+        "Brycen: Now, hang on.{VAR BE01}\nYoung man, if you're here for\na Gym challenge, hang on for a bit.{VAR BE01}\nI've got to head to Dragonspiral Tower!{VAR BE01}",
+        "Cheren: I'm going, too.{VAR BE01}\nDragonspiral Tower is to the north\nof here, right?{VAR BE01}",
+        "Bianca: Whoooooa! Whoa.\nWh-what should I do?{VAR BE01}\nF-for now, I have to go to\nDragonspiral Tower...{VAR BE00}\nOK! I'm heading north!{VAR BE01}",
+        "Bianca: Whoa, whoa, whoa!\nWh-what should I do?{VAR BE01}\nF-for now, I have to go to\nDragonspiral Tower...{VAR BE00}\nOK! I'm heading north!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The legendary Pokémon Reshiram\nshared its wisdom with the hero{VAR BE00}\nand defied foes with columns of fire.{VAR BE01}\nThe hero and that Pokémon were as\nclose as a parent and child.{VAR BE01}\nPeople were filled with awe and looked up\nto them, and that is said to be the{VAR BE00}\nbeginning of what became ancient Unova.",
+        "The legendary Pokémon Zekrom\nshared its wisdom with the hero{VAR BE00}\nand defied foes with fierce lightning.{VAR BE01}\nThe hero and that Pokémon were as\nclose as a parent and child.{VAR BE01}\nPeople were filled with awe and looked up\nto them, and that is said to be the{VAR BE00}\nbeginning of what became ancient Unova.",
+        "Always, the tower looms,\ndisdainful of the wind and snow.{VAR BE01}\nPerhaps its presence has\na special meaning for people.",
+        "The legendary Pokémon gave help to\nthe hero who sought truth.{VAR BE00}\nBecause of that, a region was created.{VAR BE01}\nThen, when its physical form was lost,\nthe Pokémon became the Light Stone,{VAR BE00}\nwaiting patiently for a new hero.{VAR BE01}\nI heard that story when I was little.",
+        "The legendary Pokémon gave help to\nthe hero who sought ideals.{VAR BE00}\nBecause of that, a region was created.{VAR BE01}\nThen, when its physical form was lost,\nthe Pokémon became the Dark Stone,{VAR BE00}\nwaiting patiently for a new hero.{VAR BE01}\nI've heard that story since I was little.",
+        "The Gym Leader Brycen\nis the strong and silent type.{VAR BE01}\nI can understand why some people\ncall him a fighting machine.",
+        "Dance, dance!\nTwo dragons!",
+        "Spin! ♪ Spin! ♪\nTurn and spin! ♪",
+        "Spin apart!\nMix and twirl!",
+        "Mix it up, day and night!\n'Cause today, everything's all right! ♪",
+        "If you walk in the wetlands, you might\nsurprise wild Pokémon into popping out!",
+        "When the wetlands freeze, it's slippery.\nI wonder how wetland Pokémon manage?",
+        {
+            "text": "Icirrus City\nSky Glittering with Flowers of Snow",
+            "flags": 207
+        },
+        {
+            "text": "Fans of Everything Pokémon\nThe Pokémon Fan Club",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Icirrus City Pokémon Gym\nLeader: Brycen{VAR BE00}\nIce Mask",
+            "flags": 207
+        }
+    ]
+}

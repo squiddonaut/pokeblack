@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "entries": [
+        "Rood: It smells of the sea here.{VAR BE01}\nThis place has the same ocean smell\nas where I was born...{VAR BE01}",
+        "Ghetsis wandered the lands of this world\nall over, collecting knowledge of all kinds{VAR BE00}\nwhile searching for like-minded people.{VAR BE01}\nFrom the moment we met, he\nunderstood what I desired.{VAR BE01}",
+        "The ability to understand the minds and\nthe needs of others...{VAR BE01}\nThis is an ability that everyone needs\nto survive.{VAR BE01}\nMy lord N is a kind and excellent person\nwho understands the hearts of Pokémon.{VAR BE01}\nBut, conversely, perhaps his ability to\nunderstand the hearts and feelings{VAR BE00}\nof people is not developed enough.{VAR BE01}",
+        "But... Even that was part of the\nperfection of Ghetsis's plan.{VAR BE01}\nWhen it comes to Ghetsis, I cannot\nseparate the truths from the lies.{VAR BE01}\nSee this? I received it from Ghetsis,\nbut I no longer need it.{VAR BE00}\nI hope you can put it to good use.{VAR BE01}",
+        "Rood: Someday, if my lord N develops the\nability to understand the feelings{VAR BE00}\nof people as well as Pokémon,{VAR BE00}\nI would like us to gather again.{VAR BE01}\nMore than anything, I want to see\nN confront Ghetsis.{VAR BE01}",
+        "Looker: Ah... And now,\nabout Team Plasma...{VAR BE01}\nI am an officer of the\nInternational Police, and there are so{VAR BE00}\nmany things you must tell me at once!{VAR BE01}",
+        "Rood: If that is what you desire...{VAR BE01}",
+        "Looker: Many thanks!{VAR BE01}\nNow, Ghetsis notwithstanding,\nthere yet remains but {VAR 0200 0000} of the{VAR BE00}\nSeven Sages still at large.{VAR BE01}\nWhat it is they are thinking,\nwhat it may be they are hoping,{VAR BE00}\nthis is the information I have need of.{VAR BE00}\nQuick and soon, say I!{VAR BE01}",
+        "Looker: Thank you a lot!{VAR BE01}\nEh, {VAR 0100 0000}...\nOn a topic I must speak to you.{VAR BE01}\nHaving received such a report, of\nsomeone far from here, who has seen{VAR BE00}\na person like N and...a dragon Pokémon.{VAR BE01}\nI am on my way to verify the veracity\nof this information.{VAR BE00}\nWe will meet again one day!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

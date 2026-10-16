@@ -1,0 +1,148 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to the Pokémon Musical!{VAR BE01}\nHere you can participate in\na musical alone.{VAR BE01}\nWould you like to participate?",
+        "Great! Please walk this way!{VAR BE01}",
+        "Please visit us again.",
+        "Which show would you like\nto participate in?",
+        "Please choose the Pokémon that\nwill participate.{VAR BE01}",
+        "Oh, {VAR 0100 0000}, {VAR 0100 0000}...{VAR BE01}\nI'm so very moved, I'm at a loss\nfor words...",
+        "Your Pokémon gleamed like a superstar!{VAR BE01}\nI want to follow in your\nstylish footsteps!",
+        "I'll come watch again, {VAR 0100 0000}.{VAR BE01}\nThat was so wonderful...\nIt may have changed my life.",
+        "{VAR 0100 0000}! That musical was the\nbest ever!{VAR BE01}\nIt made me feel so energetic! Please\ncome back and perform for us again!",
+        "Oh, that performance was so inspiring!{VAR BE01}\nIt was so full of hopes and dreams! It\nmade me feel like I could climb mountains!",
+        "{VAR 0100 0000}! Great show today!{VAR BE01}\nI'm moved no matter how many\ntimes I see your performance!",
+        "Everyone's talking about the musical\nat work, and it's all thanks to you!{VAR BE01}\nWe all love your innovative Dress Up.\nYou're like our fashion muse!",
+        "I'm so glad I got to see your Pokémon on\nstage. I'm overwhelmed with emotion!{VAR BE01}\nI'm not exaggerating!",
+        "Your performance... Before I knew what\nwas happening, I was drawn into it.{VAR BE01}\nIt's almost as if it had some\nstrange power...",
+        "Your performances are so very artistic!{VAR BE01}\nIf an artist like me tells you so, there's\nno mistaking it!",
+        "Oh, {VAR 0100 0000}, {VAR 0100 0000}...{VAR BE01}\nI'm so very moved, I'm at a loss\nfor words...{VAR BE01}\nPlease take this Prop\nas a token of my feelings!{VAR BE01}",
+        "Your Pokémon gleamed like a superstar!{VAR BE01}\nI want to follow in your\nstylish footsteps!{VAR BE01}\nPerhaps this Prop can enhance\nyour brilliance!{VAR BE01}",
+        "I'll come watch again, {VAR 0100 0000}.{VAR BE01}\nThat was so wonderful...\nIt may have changed my life.{VAR BE01}\nI hope you like this Prop...{VAR BE01}",
+        "{VAR 0100 0000}! That musical was the\nbest ever!{VAR BE01}\nIt made me feel so energetic! Please\ncome back and perform for us again!{VAR BE01}\nHey, maybe you can use this Prop\nnext time!{VAR BE01}",
+        "Oh, that performance was so inspiring!{VAR BE01}\nIt was so full of hopes and dreams! It\nmade me feel like I could climb mountains!{VAR BE01}\nHere, this is for you. Thank you for\nthe inspiration!{VAR BE01}",
+        "{VAR 0100 0000}! Great show today!{VAR BE01}\nI'm moved no matter how many\ntimes I see your performance!{VAR BE01}\nI'd love to see you use this on stage!{VAR BE01}",
+        "Everyone's talking about the musical\nat work, and it's all thanks to you!{VAR BE01}\nWe all love your innovative Dress Up.\nYou're like our fashion muse!{VAR BE01}\nMaybe you could work this Prop into one\nof your fabulous Dress Up designs!{VAR BE01}",
+        "I'm so glad I got to see your Pokémon on\nstage. I'm overwhelmed with emotion!{VAR BE01}\nI'm not exaggerating!{VAR BE01}\nHere, please take this small token of\nmy appreciation.{VAR BE01}",
+        "Your performance... Before I knew what\nwas happening, I was drawn into it.{VAR BE01}\nIt's almost as if it had some\nstrange power...{VAR BE01}\nI charmed this so that it will be useful.{VAR BE01}",
+        "Your performances are so very artistic!{VAR BE01}\nIf an artist like me tells you so, there's\nno mistaking it!{VAR BE01}\nHere's a new Prop to use in your art!{VAR BE01}",
+        "In fact, this person does not exist...",
+        "Received the {VAR FF00 0002}{VAR 010A 0001}{VAR FF00 0000}!",
+        "{VAR 0100 0000} put the {VAR 010A 0001}\nin the {VAR FF00 0002}Prop Case{VAR FF00 0000}!",
+        "{VAR 0100 0000} put the {VAR 010A 0001}\nin the {VAR FF00 0002}Prop Case{VAR FF00 0000}!{VAR BE01}",
+        {
+            "text": "Stardom",
+            "flags": 219
+        },
+        {
+            "text": "Forest Stroll",
+            "flags": 219
+        },
+        {
+            "text": "A Sweet Soirée",
+            "flags": 219
+        },
+        {
+            "text": "Exciting Nimbasa",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0122 0000}",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "Yes",
+            "flags": 219
+        },
+        {
+            "text": "No",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Become leader",
+            "flags": 219
+        },
+        {
+            "text": "Join group",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Welcome to the Pokémon Musical!{VAR BE01}\nHere you and your friends can\nperform together!{VAR BE01}\nWould you like to participate?",
+        "I'm sorry, but you don't have an\neligible Pokémon in your party.{VAR BE01}\nPlease come back again with\ndifferent Pokémon!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Would you like to use\nInfrared Communication or{VAR BE00}\nDS Wireless Communications?",
+        {
+            "text": "Infrared Communication",
+            "flags": 219
+        },
+        {
+            "text": "DS Wireless Communications",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Would you like to launch\nInfrared Communication and{VAR BE00}\nDS Wireless Communications?",
+        "One of you will become the leader.\nThat person will get to choose the show{VAR BE00}\nyou'll perform!{VAR BE01}\nThe other members should select\n“Join group.\"",
+        "Launch DS Wireless Communications?",
+        "Thank you for waiting.\nThis way, please!{VAR BE02 003C}",
+        "Participate in the musical?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Welcome to the Pokémon Musical!{VAR BE01}\nThis is a changing room for Dress Up only.\nWould you like to Dress Up your Pokémon?",
+        "This way, please!{VAR BE01}",
+        "Would you like to Dress Up your Pokémon?",
+        "What would you like me to explain?",
+        {
+            "text": "What's the Pokémon Musical?",
+            "flags": 219
+        },
+        "The Pokémon Musical is a show where\nPokémon wearing Props perform on stage.{VAR BE00}\nAnyone can participate!{VAR BE01}\nWe encourage all Trainers to show the\nworld how charming their Pokémon are!{VAR BE01}\nThe audience is looking forward to seeing\nhow you Dress Up your Pokémon, and how{VAR BE00}\nyour Pokémon perform!{VAR BE01}",
+        {
+            "text": "How to Participate",
+            "flags": 219
+        },
+        "You can join the musical from any of the\nthree reception areas.{VAR BE01}\nThe reception area in the center is for\nparticipating alone.{VAR BE01}\nWhen you participate alone, you will\nbe joined by other Trainers from around{VAR BE00}\nthe Unova region.{VAR BE01}\nIf you want to put on a musical with your\nfriends, go to the left reception area.{VAR BE01}\nYou'll be asked to pick a Leader who\nwill choose which show to perform,{VAR BE00}\nand the others will join the group.{VAR BE01}\nThe reception area to the right is where\nyou go to Dress Up only.{VAR BE01}",
+        {
+            "text": "Eligible Pokémon",
+            "flags": 219
+        },
+        "The Pokémon that will participate in the\nmusical are chosen from your party at{VAR BE00}\nthe reception area.{VAR BE01}\nBecause of their shape, some Pokémon\nhave a hard time wearing certain Props.{VAR BE01}\nYou might want to try Dress Up in the\nchanging room first if you're worried!{VAR BE01}",
+        {
+            "text": "Dress Up",
+            "flags": 219
+        },
+        "Oh, Dress Up is my favorite part! That's\nwhere you put the Props you've collected{VAR BE00}\non the Pokémon that will be performing.{VAR BE01}\nDepending on the Pokémon, you can put\nthe Props in different places.{VAR BE01}\nWhen you use Props that fit the theme of\nthe show you've chosen, the audience{VAR BE00}\nwill notice your Pokémon more!{VAR BE01}\nSometimes a Prop that doesn't fit the\ntheme will also make your Pokémon{VAR BE00}\nstand out.{VAR BE01}\nIf you want to get an idea of how it's\ndone, you can watch how other people{VAR BE00}\nDress Up and then try it yourself!{VAR BE01}",
+        {
+            "text": "Shows",
+            "flags": 219
+        },
+        "You can choose which show to perform\nwhen you participate in the musical.{VAR BE01}\nThere is no need for Trainers to give\ncommands, but if your Pokémon is carrying{VAR BE00}\na Prop in its arms, it can use that Prop{VAR BE00}\nto show off and appeal to the audience.{VAR BE01}\nDepending on how you Dress Up your\nPokémon, the reactions from the audience{VAR BE00}\nwill change!{VAR BE01}"
+    ],
+    "pad": "e6e6"
+}

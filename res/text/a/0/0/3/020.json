@@ -1,0 +1,71 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: When a Pokémon is poisoned,\nits HP decreases while it is battling.{VAR BE01}",
+        "Hey, {VAR 0100 0000}.{VAR BE01}\nHave you come looking for the\nGym Leader?",
+        "He was here talking about Pokémon\ntypes until just a few moments ago...{VAR BE01}\nMaybe you walked right past him?{VAR BE01}",
+        "Nothing improves your skill as a Trainer\nlike real battles.{VAR BE01}\nThat's why challenging Gym Leaders is\ngreat practice.{VAR BE01}",
+        "By the way, {VAR 0100 0000}, will you have a\nbattle with me?{VAR BE01}\nI want to test how important items are\nin battles.",
+        "Cheren: {VAR 0100 0000}, will you have a\nbattle with me?{VAR BE01}\nI want to test how important items are\nin battles.",
+        "Really? I really want to try out my\nitems, so I'll just wait here until you{VAR BE00}\ndecide you're ready.",
+        "Cheren: Well, let's see how effective\nmy items are...{VAR BE01}\nOr maybe I should test how well I can\nbattle without items...?{VAR BE01}\nAnyway, this is an indoor match, so let's\nbattle without getting too rough!{VAR BE01}",
+        "Cheren: So learning to use items well is\ndefinitely important, then.{VAR BE01}\nOh, here. {VAR 0100 0000}, I'll give you\nthese Berries.{VAR BE01}",
+        "Cheren: If you give a Pokémon this kind\nof Berry to hold, it will eat it to heal up{VAR BE00}\nwhen its HP goes down in battle.{VAR BE01}\nBut if you give Pokémon man-made items\nlike Potions to hold, they can't{VAR BE00}\nuse them.{VAR BE01}\nWell, good luck, then.{VAR BE01}",
+        "This Trainers' School exists to meet the\ndemands of Trainers who want to know{VAR BE00}\nmore about Pokémon because they{VAR BE00}\nlove them!",
+        "Pokémon have mysterious powers\ncalled Abilities.{VAR BE01}\nAbilities have a variety of effects, and\nmany of those effects are activated when{VAR BE00}\nPokémon are in battle!",
+        "There is a technique that lets you\ncancel evolution!{VAR BE01}\nI'll read the book about it to you.\nAre you ready?{VAR BE01}\n“You can surprise a Pokémon and stop its\nevolution by pressing the B Button when{VAR BE00}\na Pokémon is evolving.\"",
+        "Some moves can only be taught with TMs.{VAR BE01}\nTMs can be used over and over, so you\nmight want to use them a lot.{VAR BE01}\nIf you don't like the move you taught,\nyou can always use a different TM.",
+        "Would you like to take a quiz about\nstatus conditions?",
+        "So here is the question:{VAR BE01}\nWhich of the following items\ncures poison?",
+        {
+            "text": "Antidote",
+            "flags": 219
+        },
+        {
+            "text": "Parlyz Heal",
+            "flags": 219
+        },
+        {
+            "text": "Awakening",
+            "flags": 219
+        },
+        "Ding ding ding!{VAR BE01}\nRight answer!\nNow for the next question.{VAR BE01}",
+        "The item that cures paralysis is\nParlyz Heal, but...{VAR BE01}\nWhich of the following items\nwakes up a sleeping Pokémon?",
+        "Ding ding ding! We have a winner!\nFantastic answer!{VAR BE01}\nSince you know so much about status\nconditions, I'll give you this!{VAR BE01}",
+        "Full Heal does exactly what the name\nsuggests--it heals all status conditions!",
+        "Come talk to me if you want\nto take a quiz.",
+        "Buzzzzz!{VAR BE01}\nToo bad... That's incorrect.\nPlease try again sometime!",
+        "The blackboard explains Pokémon\nstatus changes in battle.{VAR BE01}",
+        "What do you want to read about?",
+        "If poisoned, a Pokémon steadily loses HP\nwhen battling.{VAR BE01}\nThe poison lingers after the battle.\nTo cure it, use an Antidote.{VAR BE01}",
+        "Paralysis reduces the Speed stat\nand may prevent movement.{VAR BE01}\nIt remains after battle, so use a\nParlyz Heal.{VAR BE01}",
+        "If a Pokémon falls asleep, it will be\nunable to attack.{VAR BE01}\nThe Pokémon may wake up on its own,\nbut if a battle ends while it is{VAR BE00}\nsleeping, it will stay asleep.{VAR BE01}\nWake it up using an Awakening.{VAR BE01}",
+        "A burn reduces the Attack stat and\nsteadily reduces the victim's HP.{VAR BE01}\nA burn lingers after battle.\nCure a burn using a Burn Heal.{VAR BE01}",
+        "If a Pokémon is frozen, it becomes\ncompletely helpless.{VAR BE01}\nThe Pokémon may thaw out on its own,\nbut if a battle ends while it is{VAR BE00}\nfrozen, it will stay frozen.{VAR BE01}\nThaw it out using an Ice Heal.{VAR BE01}",
+        {
+            "text": "Poison",
+            "flags": 219
+        },
+        {
+            "text": "Paralysis",
+            "flags": 219
+        },
+        {
+            "text": "Sleep",
+            "flags": 219
+        },
+        {
+            "text": "Burn",
+            "flags": 219
+        },
+        {
+            "text": "Frozen",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        }
+    ],
+    "pad": "5454"
+}

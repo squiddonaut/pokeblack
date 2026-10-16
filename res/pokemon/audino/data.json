@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 255,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 2,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_ORAN_BERRY",
-        "rare": "ITEM_SITRUS_BERRY"
+        "rare": "ITEM_SITRUS_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_HEALER", "ABILITY_REGENERATOR" ],
-    "unk_1A": 103,
+    "abilities": [
+        "ABILITY_HEALER",
+        "ABILITY_REGENERATOR",
+        "ABILITY_KLUTZ"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 390,
+    "base_exp_reward": 390,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POUND" ],
@@ -113,11 +116,22 @@
             "MOVE_AMNESIA"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 11,
         "weight": 310
     },
-    "offspring": "SPECIES_AUDINO"
+    "offspring": "SPECIES_AUDINO",
+    "text": {
+        "70": "Audino",
+        "235": "Its auditory sense is astounding. It has\na radarlike ability to understand its\nsurroundings through slight sounds.",
+        "236": "It touches others with the feelers on\nits ears, using the sound of their\nheartbeats to tell how they are feeling.",
+        "244": "",
+        "245": "3'07\"",
+        "260": "Hearing Pokémon",
+        "268": "68.3 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Audino",
+        "284": "AUDINO"
+    }
 }

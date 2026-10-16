@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 45,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 2,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_LAGGING_TAIL"
+        "rare": "ITEM_LAGGING_TAIL",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_MONSTER" ],
-    "abilities": [ "ABILITY_OWN_TEMPO", "ABILITY_OBLIVIOUS" ],
-    "unk_1A": 13,
+    "abilities": [
+        "ABILITY_OWN_TEMPO",
+        "ABILITY_OBLIVIOUS",
+        "ABILITY_CLOUD_NINE"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 77,
+    "base_exp_reward": 77,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_LICK" ],
@@ -114,7 +117,7 @@
             "MOVE_ZEN_HEADBUTT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL_KNOW_MOVE",
@@ -126,5 +129,16 @@
         "height": 12,
         "weight": 655
     },
-    "offspring": "SPECIES_LICKITUNG"
+    "offspring": "SPECIES_LICKITUNG",
+    "text": {
+        "70": "Lickitung",
+        "235": "When it extends its over-six-foot-\nlong tongue, its tail quivers. There\nis a possibility they are connected.",
+        "236": "When it extends its over-six-foot-\nlong tongue, its tail quivers. There\nis a possibility they are connected.",
+        "244": "",
+        "245": "3'11\"",
+        "260": "Licking Pokémon",
+        "268": "144.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Lickitung",
+        "284": "LICKITUNG"
+    }
 }

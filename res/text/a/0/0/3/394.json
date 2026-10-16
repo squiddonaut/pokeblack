@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Freeze Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Freeze Badge!\nShow the sharp edge of an icicle!",
+        "First, obtain the Freeze Badge\nfrom the Icirrus Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "9c9c"
+}

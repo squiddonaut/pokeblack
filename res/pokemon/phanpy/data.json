@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GROUND", "TYPE_GROUND" ],
     "catch_rate": 120,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 1,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_PASSHO_BERRY"
+        "rare": "ITEM_PASSHO_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_PICKUP", "ABILITY_NONE" ],
-    "unk_1A": 8,
+    "abilities": [
+        "ABILITY_PICKUP",
+        "ABILITY_NONE",
+        "ABILITY_SAND_VEIL"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 66,
+    "base_exp_reward": 66,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_ODOR_SLEUTH" ],
@@ -90,7 +93,7 @@
             "MOVE_HEAVY_SLAM"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -102,5 +105,16 @@
         "height": 5,
         "weight": 335
     },
-    "offspring": "SPECIES_PHANPY"
+    "offspring": "SPECIES_PHANPY",
+    "text": {
+        "70": "Phanpy",
+        "235": "It is strong despite its compact\nsize. It can easily pick up and\ncarry an adult human on its back.",
+        "236": "It is strong despite its compact\nsize. It can easily pick up and\ncarry an adult human on its back.",
+        "244": "",
+        "245": "1'08\"",
+        "260": "Long Nose Pokémon",
+        "268": "73.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Phanpy",
+        "284": "PHANPY"
+    }
 }

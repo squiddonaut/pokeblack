@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ICE", "TYPE_GHOST" ],
     "catch_rate": 75,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_BABIRI_BERRY"
+        "rare": "ITEM_BABIRI_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_ONLY",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_SNOW_CLOAK", "ABILITY_SNOW_CLOAK" ],
-    "unk_1A": 130,
+    "abilities": [
+        "ABILITY_SNOW_CLOAK",
+        "ABILITY_SNOW_CLOAK",
+        "ABILITY_CURSED_BODY"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": false,
-    "unk_22": 168,
+    "base_exp_reward": 168,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POWDER_SNOW" ],
@@ -93,11 +96,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 266
     },
-    "offspring": "SPECIES_SNORUNT"
+    "offspring": "SPECIES_SNORUNT",
+    "text": {
+        "70": "Froslass",
+        "235": "It freezes prey by blowing its -58\ndegrees F breath. It is said to\nthen secretly display its prey.",
+        "236": "It freezes prey by blowing its -58\ndegrees F breath. It is said to\nthen secretly display its prey.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Snow Land Pokémon",
+        "268": "58.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Froslass",
+        "284": "FROSLASS"
+    }
 }

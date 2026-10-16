@@ -1,0 +1,79 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "USE",
+            "flags": 86
+        },
+        {
+            "text": "CONFIRM",
+            "flags": 54
+        },
+        {
+            "text": "QUIT",
+            "flags": 41
+        },
+        {
+            "text": "EDIT",
+            "flags": 86
+        },
+        {
+            "text": "ADD NEW MESSAGES",
+            "flags": 200
+        },
+        {
+            "text": "SELECT",
+            "flags": 54
+        },
+        {
+            "text": "DELETE",
+            "flags": 54
+        },
+        {
+            "text": "QUIT",
+            "flags": 41
+        },
+        {
+            "text": "Registered message list:\nPlease select the message\nyou want to use.",
+            "flags": 206
+        },
+        {
+            "text": "Please choose a message type\nor the place you want\nyour word or phrase to go.",
+            "flags": 206
+        },
+        {
+            "text": "Please choose where you want\nyour word or phrase to be placed.",
+            "flags": 206
+        },
+        {
+            "text": "GROUP MODE:\nPlease choose a word or phrase\nfrom the group.",
+            "flags": 206
+        },
+        {
+            "text": "ABC MODE:\nPlease choose a letter to\nnarrow down your choices.",
+            "flags": 206
+        },
+        {
+            "text": "ABC MODE:\nPlease choose a word or phrase\nfrom the narrowed-down list.",
+            "flags": 206
+        },
+        {
+            "text": "GROUP MODE:\nPlease choose a group of words\nor phrases that'll go in that place.",
+            "flags": 206
+        }
+    ],
+    "pad": "9292"
+}

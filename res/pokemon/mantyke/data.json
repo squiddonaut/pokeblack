@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_FLYING" ],
     "catch_rate": 25,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_SWIFT_SWIM", "ABILITY_WATER_ABSORB" ],
-    "unk_1A": 41,
+    "abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_WATER_ABSORB",
+        "ABILITY_WATER_VEIL"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 69,
+    "base_exp_reward": 69,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -93,7 +96,7 @@
             "MOVE_AMNESIA"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL_SPECIES_IN_PARTY",
@@ -105,5 +108,16 @@
         "height": 10,
         "weight": 650
     },
-    "offspring": "SPECIES_MANTYKE"
+    "offspring": "SPECIES_MANTYKE",
+    "text": {
+        "70": "Mantyke",
+        "235": "People organize tours to see this\nPokémon frolic and skim the tops\nof waves with Remoraid.",
+        "236": "People organize tours to see this\nPokémon frolic and skim the tops\nof waves with Remoraid.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Kite Pokémon",
+        "268": "143.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Mantyke",
+        "284": "MANTYKE"
+    }
 }

@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh! Trainer!\nDo you have enough Poké Balls?{VAR BE01}\nDon't be shy.\nTake this with you!{VAR BE01}",
+        "You cannot have too many Poké Balls!{VAR BE01}\nMy advice is that when you use a better\nPoké Ball, it's easier to catch Pokémon!",
+        "The beginning of my relationship with\nmy wife was our Pokémon battles.{VAR BE01}\nI could not defeat her, even\nthough I tried many times!",
+        "My husband and I are compatible...\nbecause he cannot beat me in battle!"
+    ],
+    "pad": "c2c2"
+}

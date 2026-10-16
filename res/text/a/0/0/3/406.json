@@ -1,0 +1,28 @@
+{
+    "flags": 224,
+    "entries": [
+        "Giallo: Greetings to you, strong Pokémon\nTrainer who came to Dragonspiral Tower.{VAR BE01}",
+        "Are you and Zekrom building\na mutual understanding?{VAR BE01}",
+        "Are you not making friends\nwith Zekrom?{VAR BE01}",
+        "Are you and Reshiram building\na mutual understanding?{VAR BE01}",
+        "Are you not making friends with Reshiram?{VAR BE01}",
+        "There is a saying...{VAR BE01}\nIf somewhere in this world there is\nsomeone who understands you,{VAR BE00}\nit feels like that person is right beside{VAR BE00}\nyou, even if you’re as far apart as the{VAR BE00}\nend of the land and the top of the sky.{VAR BE01}\nAs my lord N and his Pokémon understand\none another, so, too, do you and your{VAR BE00}\nPokémon understand one another.{VAR BE01}\nWhich is my reason for giving you this...{VAR BE01}",
+        "Giallo: The legend of Unova is about\nPokémon and people working together{VAR BE00}\nto build a new world!{VAR BE01}\nThe message is that simple\nand that strong.{VAR BE01}\nIf changing the world makes you a hero,\nanyone can become a hero.{VAR BE01}\nAs each of us changes what is\nin our power to change, so the world{VAR BE00}\nitself changes.{VAR BE01}",
+        "Looker: Regarding Team Plasma...{VAR BE01}\nI am an officer of the International\nPolice, and you must supply the{VAR BE00}\ninformation I request!{VAR BE01}",
+        "Giallo: Indeed, I shall.{VAR BE01}\nTeam Plasma changed me, but it could not\nchange the world. I'm looking forward to{VAR BE00}\nseeing how you lot will do.{VAR BE01}",
+        "Looker: I beg you will accept my thanks!{VAR BE01}\nNow, Ghetsis notwithstanding,\nthere yet remains but {VAR 0200 0000} of the{VAR BE00}\nSeven Sages still at large.{VAR BE01}\nWhat do they think of?\nWhat do they hope for?{VAR BE01}\nI am intensely interested to know this.\nTo depart at once!{VAR BE01}",
+        "Looker: I thank you extremely!{VAR BE01}\nCuriously, {VAR 0100 0000}...\nThere is a topic on which we must speak.{VAR BE01}\nA report has reached my ears of someone\nfar from here. Indeed, this someone has{VAR BE00}\nspotted a person like N and a...{VAR BE00}\ndragon Pokémon.{VAR BE01}\nI depart to substantiate the substance\nof this information.{VAR BE00}\nUntil next time, I say cheers to you!{VAR BE01}",
+        {
+            "text": "Route 14",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nThe maximum number of Boxes is now 24!{VAR BE01}\nIn other words, you can store\n720 Pokémon!",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nChange your type on the Trainer Card\nto change how other players see you.{VAR BE01}\nYou'll look different to others in the\nUnion Room and the Tag Log!{VAR BE01}\nMatch it with your introduction or\ncharacter to show your individuality!",
+            "flags": 207
+        }
+    ]
+}

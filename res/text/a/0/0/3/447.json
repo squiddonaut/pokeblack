@@ -1,0 +1,40 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "My Pokémon is always running off\nto go play on its own.{VAR BE01}\nBut it always comes back before dark,\nso I guess it's OK.",
+            "flags": 224
+        },
+        {
+            "text": "Gahoohoo...",
+            "flags": 224
+        },
+        {
+            "text": "This is Lacunosa Town. Here, everyone\nlives according to the rules, from the{VAR BE00}\nmoment they awaken to the time they{VAR BE00}\ngo to sleep.",
+            "flags": 224
+        },
+        {
+            "text": "At night, a scary monster comes out of\nthe big hole, so you have to go home{VAR BE00}\nand be good!",
+            "flags": 224
+        }
+    ]
+}

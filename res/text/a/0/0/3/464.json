@@ -1,0 +1,28 @@
+{
+    "flags": 224,
+    "entries": [
+        "It's a vending machine.\nWhich drink would you like?",
+        "A {VAR 0109 0000} dropped down!{VAR BE01}",
+        "Bonus! Another {VAR 0109 0000}\ndropped down.{VAR BE01}",
+        "Not enough money...",
+        "Decided not to buy a drink.",
+        "Would you like to buy another one?",
+        {
+            "text": "Fresh Water{VAR BD03 0001}$200",
+            "flags": 219
+        },
+        {
+            "text": "Soda Pop{VAR BD03 0001}$300",
+            "flags": 219
+        },
+        {
+            "text": "Lemonade{VAR BD03 0001}$350",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        }
+    ],
+    "pad": "4848"
+}

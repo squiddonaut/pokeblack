@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_GRASS" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_TINYMUSHROOM",
-        "rare": "ITEM_BIG_MUSHROOM"
+        "rare": "ITEM_BIG_MUSHROOM",
+        "rare_2": "ITEM_BALM_MUSHROOM"
     },
-    "unk_10": 580,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_EFFECT_SPORE", "ABILITY_DRY_SKIN" ],
-    "unk_1A": 6,
+    "abilities": [
+        "ABILITY_EFFECT_SPORE",
+        "ABILITY_DRY_SKIN",
+        "ABILITY_DAMP"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 57,
+    "base_exp_reward": 57,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
@@ -100,7 +103,7 @@
             "MOVE_LEECH_SEED"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -112,5 +115,16 @@
         "height": 3,
         "weight": 54
     },
-    "offspring": "SPECIES_PARAS"
+    "offspring": "SPECIES_PARAS",
+    "text": {
+        "70": "Paras",
+        "235": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras.",
+        "236": "Mushrooms named tochukaso grow\non its back. They grow along\nwith the host Paras.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Mushroom Pokémon",
+        "268": "11.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Paras",
+        "284": "PARAS"
+    }
 }

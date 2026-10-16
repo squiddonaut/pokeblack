@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "SUCCESSIVE TRAINERS",
+            "flags": 192
+        },
+        {
+            "text": "Rank {VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "text": "Train Number {VAR 0202 0001}",
+            "flags": 136
+        },
+        "LOCATION",
+        "{VAR 0124 0002}",
+        "{VAR 0125 0003}",
+        {
+            "text": "TRAINER'S QUOTE",
+            "flags": 128
+        }
+    ],
+    "pad": "c2c2"
+}

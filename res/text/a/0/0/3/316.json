@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "My name is Loblolly.\nI'm a designer of Décor items.{VAR BE01}\nBut I'm stuck now... I just can't come\nup with a good design.{VAR BE01}\nI've been thinking about Décor\nso great that it will appear in a dream...",
+        "Loblolly: Hmmm... I still can't think of a\ngreat new Décor item.{VAR BE01}\nWill you come back again?",
+        "Loblolly: When I come up with some good\ndesigns, please help me again!",
+        "Loblolly: I finally came up with some new\ndesigns. I'm really proud of them!{VAR BE01}\nBut I'd like your opinion! Look at these\nDécor items and tell me which one you'd{VAR BE00}\ndream about!",
+        "I think I've finally designed Décor\nitems so great that people will dream{VAR BE00}\nabout them!{VAR BE01}\nHere! Which one would you dream about?",
+        "Loblolly: Oh, are you going to help me\nwith my dream Décor design?{VAR BE01}\nGreat! Which of these Décor items would\nyou dream about?",
+        "Well, if you'd like to give me your opinion\non my dream Décor, please come back!",
+        "Oh, you have impeccable taste!{VAR BE01}\nThat's it. This Décor is so great that\npeople will dream about it!{VAR BE01}\nYour advice was very helpful. Next time I\ncome up with great designs, I'd love to{VAR BE00}\nbounce my ideas off you again!",
+        "Everybody is talking about Décor\nthey dream about. Do you know it?",
+        "Hello! My name is Loblolly, and I'm\na Décor designer.{VAR BE01}\nI am trying to design Décor items that\neverybody loves and dreams about.{VAR BE01}\nTables and chairs so great you can't\nstop thinking about them, even in{VAR BE00}\nyour sleep...{VAR BE01}\nThat's the kind of Décor I'm\ntalking about.{VAR BE01}",
+        {
+            "text": "{VAR 0132 0000}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0132 0001}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0132 0002}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0132 0003}",
+            "flags": 219
+        },
+        {
+            "text": "{VAR 0132 0004}",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        }
+    ],
+    "pad": "e8e8"
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 50,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 3,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_75",
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_FAIRY" ],
-    "abilities": [ "ABILITY_CUTE_CHARM", "ABILITY_NONE" ],
-    "unk_1A": 119,
+    "abilities": [
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_NONE",
+        "ABILITY_FRISK"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 191,
+    "base_exp_reward": 191,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SING" ],
@@ -92,11 +95,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 10,
         "weight": 120
     },
-    "offspring": "SPECIES_IGGLYBUFF"
+    "offspring": "SPECIES_IGGLYBUFF",
+    "text": {
+        "70": "Wigglytuff",
+        "235": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air.",
+        "236": "Its fine fur feels sublime to the\ntouch. It can expand its body by\ninhaling air.",
+        "244": "",
+        "245": "3'03\"",
+        "260": "Balloon Pokémon",
+        "268": "26.5 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Wigglytuff",
+        "284": "WIGGLYTUFF"
+    }
 }

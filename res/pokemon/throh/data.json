@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_FIGHTING", "TYPE_FIGHTING" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 2,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_BLACK_BELT"
+        "rare": "ITEM_BLACK_BELT",
+        "rare_2": "ITEM_EXPERT_BELT"
     },
-    "unk_10": 268,
     "gender_ratio": "GENDER_RATIO_MALE_ONLY",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_GUTS", "ABILITY_INNER_FOCUS" ],
-    "unk_1A": 104,
+    "abilities": [
+        "ABILITY_GUTS",
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_MOLD_BREAKER"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 163,
+    "base_exp_reward": 163,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_BIND" ],
@@ -92,11 +95,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 555
     },
-    "offspring": "SPECIES_THROH"
+    "offspring": "SPECIES_THROH",
+    "text": {
+        "70": "Throh",
+        "235": "When they encounter foes bigger than\nthemselves, they try to throw them.\nThey always travel in packs of five.",
+        "236": "When it tightens its belt, it becomes\nstronger. Wild Throh use vines to weave\ntheir own belts.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Judo Pokémon",
+        "268": "122.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Throh",
+        "284": "THROH"
+    }
 }

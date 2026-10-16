@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Fun in summer...\nBeautiful girls playing in the water...{VAR BE01}\nHey! I'm just thinking out loud.\nPlease don't listen to me!",
+        "The best luxury is to enjoy\njust doing nothing.",
+        "Phew...{VAR BE01}\nI've been relaxing in Undella Town too\nlong, and I've gotten a little chubby.{VAR BE01}\nIf {VAR 0101 0000} is by my side, I can get\nsome exercise by training it, and{VAR BE00}\nthat'll help me lose weight.{VAR BE01}\nWould you trade my {VAR 0101 0001}\nwith {VAR 0101 0000}?",
+        "Phew! All right, let's trade!{VAR BE01}",
+        "Phew... Thanks.{VAR BE01}\nPlease take good care of {VAR 0101 0001}.\nIt spent a summer with me.{VAR BE01}\nI will work hard to train your {VAR 0101 0000}\nand get some exercise!",
+        "Phew... What I want is {VAR 0101 0000}.",
+        "Phew... That's disappointing.",
+        "Hello, there!\nYou kindly traded me that Pokémon, and{VAR BE00}\nnow you can hardly recognize me, eh?{VAR BE01}\nBecause {VAR 0101 0000} is by my side,\nI've trimmed down a little!"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "flags": 224,
+    "entries": [
+        "Currently, we exhibit works in the motif\nof legends in the Unova region.",
+        "If you want to see Burgh's paintings,\ngo to the Pokémon Gym!",
+        "Title “Ideals and Truth\"",
+        "Title “Soaring White Dragon\"",
+        "Title “White Flame\"",
+        "Title “Alighting Black Dragon\"",
+        "Title “Black Lightning Bolt\"",
+        "Title “Twin Heroes\"",
+        "I am not as good an artist as Burgh,\nbut I have a liking for paintings.{VAR BE01}\nLet me see. Today, I'd like to paint\n{VAR 0103 0000}-type Pokémon!{VAR BE01}\nWill you show me what kinds of Pokémon\nyou have?",
+        "Please show me a Pokémon that's\n{VAR 0103 0000} type!{VAR BE01}",
+        "Oh! You have that type!\nI'm inspired!{VAR BE01}\nThank you! As a token of my gratitude,\nwhich one would you like?",
+        {
+            "text": "Cheri Berry",
+            "flags": 219
+        },
+        {
+            "text": "Chesto Berry",
+            "flags": 219
+        },
+        {
+            "text": "Pecha Berry",
+            "flags": 219
+        },
+        {
+            "text": "Rawst Berry",
+            "flags": 219
+        },
+        {
+            "text": "Aspear Berry",
+            "flags": 219
+        },
+        "One {VAR 0109 0000}!\nIt's all yours now!{VAR BE01}",
+        "Aww. You are the best!\nPlease come back tomorrow, too!",
+        "As long as the artist enjoys creating\nan artwork, it doesn't matter if the{VAR BE00}\nresult is judged as bad or good.",
+        "If you catch a Pokémon that's\n{VAR 0103 0000} type, please show it to me!{VAR BE00}\nI'll give you a little something.",
+        "The Pokémon you chose is not the one\nI requested.{VAR BE01}\nWhat I want to paint is a Pokémon that's\n{VAR 0103 0000} type!",
+        "Oh!\nThe shape of this Egg...{VAR BE01}\nSuperb! It gives me chills!\nIt's electrifying! It makes me tremble!{VAR BE01}\nAlas, even I cannot tell what type\nan Egg is!"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "flags": 224,
+    "entries": [ "I work... ♪\nin the Cold Storage... ♪{VAR BE01}\nHm? The Cold Storage is in the\nsouthernmost part of the city.", "A terrific Trainer!\nLet me share a training tip with you.{VAR BE01}\nDuring a battle with a Trainer, even if\nyour Pokémon's items are taken away,{VAR BE00}\ndon't worry.{VAR BE01}\nThey will be returned to you safely\nafter the battle.{VAR BE01}\n...But disposable items seem\nto disappear." ],
+    "pad": "e0e0"
+}

@@ -1,0 +1,11 @@
+{
+    "flags": 224,
+    "entries": [
+        "I'm going to see the ruins, but I'm afraid\nI might get lost in the desert.{VAR BE01}\nIt's really big, and sometimes you run\ninto Pokémon.{VAR BE01}\nWill I be in trouble if I am not strong?",
+        "I hear you can find the newly discovered\nentrance of the ruins if you go through{VAR BE00}\nthe gate and just head straight.",
+        {
+            "text": "Desert Resort Ahead\nIt's nicer than the average desert!",
+            "flags": 207
+        }
+    ]
+}

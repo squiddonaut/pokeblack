@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "When a Pokémon learns the move\nHidden Power, somehow I can tell{VAR BE00}\nwhat type that move will be!{VAR BE01}\nShould I tell you what type of\nHidden Power your Pokémon will learn?",
+        "Now that I'm aware of my hidden power,\nI can tell you what type of Hidden Power{VAR BE00}\nyour Pokémon will learn!{VAR BE00}\nDo you want to know?",
+        "If this Pokémon were to learn\nHidden Power, the move's type{VAR BE00}\nwould be {VAR 0103 0000}!",
+        "The type of this Pokémon's\nHidden Power would be {VAR 0103 0000}!",
+        "If you want to know, ask me, and I'll\nactivate my hidden power for you!",
+        "It's not possible for an Egg to use\nHidden Power!",
+        "I'm sorry, but this Pokémon can't learn\nto use Hidden Power.",
+        "The Entree and Pass Power...\nWhat in the world is the Entralink?"
+    ],
+    "pad": "1414"
+}

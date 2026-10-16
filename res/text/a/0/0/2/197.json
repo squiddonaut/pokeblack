@@ -1,0 +1,5 @@
+{
+    "flags": 229,
+    "entries": [ "{VAR 0100 0000}!{VAR BE01}\nThis is your mom.\nHow are you doing?{VAR BE01}\nWow, you're already on Route 7?\nYou've gone quite far!{VAR BE01}\nSay, how are your Pokémon?\nYou can't get that far{VAR BE00}\nall by yourself, you know?{VAR BE01}\nIt's all thanks to your Pokémon.\nDon't forget to take care of them!{VAR BE01}\nAm I being too serious?\nWell, take care!{VAR BE01}\n“Senior Trainer Mom,\"\nsigning off!{VAR BE01}" ],
+    "pad": "0c0c"
+}

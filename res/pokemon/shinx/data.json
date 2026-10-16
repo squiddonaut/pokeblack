@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ELECTRIC", "TYPE_ELECTRIC" ],
     "catch_rate": 235,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_INTIMIDATE" ],
-    "unk_1A": 62,
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_INTIMIDATE",
+        "ABILITY_GUTS"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 53,
+    "base_exp_reward": 53,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -93,7 +96,7 @@
             "MOVE_HELPING_HAND"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -105,5 +108,16 @@
         "height": 5,
         "weight": 95
     },
-    "offspring": "SPECIES_SHINX"
+    "offspring": "SPECIES_SHINX",
+    "text": {
+        "70": "Shinx",
+        "235": "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "236": "The extension and contraction of\nits muscles generates electricity.\nIt glows when in trouble.",
+        "244": "",
+        "245": "1'08\"",
+        "260": "Flash Pokémon",
+        "268": "20.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Shinx",
+        "284": "SHINX"
+    }
 }

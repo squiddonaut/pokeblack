@@ -1,0 +1,147 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "My favorite thing to do nowadays\nis walking under the bridge!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "During the day, I sunbathe.\nDuring the night, I moonbathe...{VAR BE00}\nNature sinks into my body.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "I will cross all the bridges in Unova!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Derleth: Fweet fweet...\nFweeeeeet fweet fweet...",
+        "Derleth: What is piercing my mind is\na sad sound.{VAR BE01}\nWhat is piercing my heart is\na cold night wind.",
+        "Derleth: Fwee... Fwee...\nFffweeet fweet...",
+        "Derleth: The only things that come out\nof my mouth are my whistle tunes and{VAR BE00}\ncomplaints about my life.{VAR BE01}\nThis bridge is a meeting place for people\nlike me who like to complain.",
+        "Aickman: How about this? This sound!\nDoesn't it get to your heart? Your mind?",
+        "Aickman: I know my sound doesn't fit\nthis city, this town.{VAR BE01}\nBut I... I cannot change\nmy life, my style.",
+        "Aickman: This is my best friend, my pal.\nIt knows all my sorrow, all my tears.",
+        "Aickman: Y-you have great sparkles...\nSparkles in your eyes.{VAR BE01}\nPlease make our hopes, our dreams,\ncome true for us.{VAR BE01}\nGo grab the glory--go take on the world!",
+        "Russo: La la la la la...",
+        "Russo: Ahem, ahem!\nNow, something's not quite right.{VAR BE01}\nThis here microphone's all screwy.\nI can sing real good, promise!",
+        "Russo: Testing...\nCheck one, check two, check, check, yup.",
+        "Russo: Now, you're the first person in an\nawful long time who's hung around to{VAR BE00}\nlisten and hear what I was singin' about.{VAR BE01}\nMuch obliged!",
+        "Koontz: Singing gives life to my spirit.\nWill you listen to the voice of my spirit?",
+        "Koontz: Huh? Are you leaving already?\nI am always here.",
+        "Koontz: Oh, you want to listen to my song\nafter all! Yes!",
+        "Koontz: My song...\nDon't you like it?",
+        "Welcome!{VAR BE01}\nThank you for making a reservation\nfor a battle!{VAR BE01}",
+        "You are great!\nI want to hire you.{VAR BE01}\nWhat do you think?\nWill you work here as a Waitress?",
+        "You are great!\nI want to hire you.{VAR BE01}\nWhat do you think?\nWill you work here as a Waiter?",
+        "You should work here! What do you think?",
+        "Aww... That's too bad, but I understand!",
+        "That's great! I'm so glad!{VAR BE01}\nThat said, do you already know\nwhat you'll be doing?",
+        "This shop is a special sandwich shop.\nYou'll take orders from customers.{VAR BE01}\nThen, I'll make sandwiches to fill\ntheir orders.{VAR BE01}",
+        "You'll serve the sandwiches to the\ncustomers who ordered them.{VAR BE01}\nPlease be careful, and don't serve them\nto the wrong customers!{VAR BE01}",
+        "Thank you! I hope you'll do a great job!{VAR BE01}",
+        "Thank you! I hope you'll do a great job!",
+        "What kind of sandwich does customer\nnumber {VAR 0200 0000} want?",
+        "Well done! Thank you!\nGive me a second to make the sandwiches.{VAR BE01}",
+        "The sandwiches are ready! Please\nserve them to the correct customers.",
+        "I think you missed a couple of people.\nPlease take everyone's order!",
+        "Let me give you a review!\nYour work was...{VAR BE01}\nPerfect! The customers seem to\nbe satisfied, too.{VAR BE01}",
+        "I have a review for you.\nYour work was...{VAR BE01}\nWell, you still need some practice.\nBut you'll get used to it soon!{VAR BE01}",
+        "This is a thank-you gift.\nYou've worked really hard!{VAR BE01}",
+        "That's it for today. I would be happy if\nyou could come back again tomorrow!",
+        "You're quitting? Well, that's OK.\nToday is not busy, so it should be fine.",
+        "Oh! You're leaving the park.\nAre you going to quit your Waitress job?",
+        "Oh! You're leaving the park.\nAre you going to quit your Waiter job?",
+        "I'd like a {VAR 0109 0000} sandwich.\nThat's my Pokémon's favorite!",
+        "You can eat here with your Pokémon.\nIt's a really good sandwich shop!",
+        "Munch, munch...yummy!\nMy Pokémon is also happy.",
+        "Munch, munch...? Hmmm.\nIt tastes a little different this time...",
+        "We're really hungry today. So, a large\n{VAR 0109 0000} sandwich, please!",
+        "My Pokémon has a big appetite,\njust like me!",
+        "Gobble, gobble...delicious!\nThis is the highlight of my day!",
+        "Gobble, gobble...delicious! But I don't\nthink this is what I ordered...",
+        "My Pokémon has gourmet tastes.\nI'd like a {VAR 0109 0000} sandwich, please.",
+        "A Berry dish for people and Pokémon!\nThe chef can show off her skill with it.",
+        "Nibble, nibble...\nOh, the flavors are simply divine!",
+        "Nibble, nibble...{VAR BE01}\nOh dear. It's lovely, but this is not\nmy order.",
+        "Both my Pokémon and I are craving\na {VAR 0109 0000} sandwich! Please!",
+        "I'm happy to be able to eat with\nmy Pokémon.",
+        "Munch, munch. Open wide.\nSo happy!",
+        "Munch, munch... Huh?\nIt tastes different.",
+        "Myu myuweee.",
+        "Skwee weep...",
+        "Pikaaaa!",
+        "Kroooko!",
+        {
+            "text": "Cheri Berry",
+            "flags": 219
+        },
+        {
+            "text": "Persim Berry",
+            "flags": 219
+        },
+        {
+            "text": "Pecha Berry",
+            "flags": 219
+        },
+        {
+            "text": "Chesto Berry",
+            "flags": 219
+        },
+        "Will you serve the {VAR 0109 0000} sandwich\nto this customer?",
+        {
+            "text": "Village Bridge",
+            "flags": 207
+        },
+        {
+            "text": "Village Bridge Restaurant\nVillage Sandwiches are our specialty!",
+            "flags": 207
+        }
+    ],
+    "pad": "baba"
+}

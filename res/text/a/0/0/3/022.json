@@ -1,0 +1,49 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to the Nacrene Museum!",
+        "Those robbers... What in the world is\nTeam Plasma?",
+        "You can get to the Pokémon Gym by going\nto the back of the museum!",
+        "What do they plan to accomplish by\nstealing the Dragon Skull?",
+        "Wow! Whenever I look at this skeleton,\nI'm...fascinated.{VAR BE01}",
+        "Welcome! I'm Hawes, the\nassistant director.{VAR BE01}\nSince you were kind enough to visit,\nI'll give you a tour of the museum.{VAR BE01}",
+        "This skeleton is of a Dragon-type\nPokémon.{VAR BE01}\nThere's a theory that it had an accident\nwhile it was flying around the world, and{VAR BE00}\nso it became a Fossil.{VAR BE01}",
+        "This rock is amazing! It's a meteorite!{VAR BE01}\nIt contains some kind of energy\nfrom space.{VAR BE01}",
+        "Oh, this? It's an ordinary old stone.{VAR BE01}\nIt was found near the desert, but other\nthan the fact that it's old, it doesn't{VAR BE00}\nseem to have any value...{VAR BE01}\nWe only display it because it's rather\npretty to look at.{VAR BE01}",
+        "The Pokémon Gym is just beyond here.{VAR BE01}",
+        "At the end of the Gym, a very strong\nand kind Gym Leader is waiting.{VAR BE01}\nBy the way, the Gym Leader Lenora\nhappens to be my wife!{VAR BE01}",
+        "At the end of the Gym, a very strong\nand kind Gym Leader is waiting.{VAR BE01}\nBy the way, the Gym Leader Lenora\nhappens to be my wife!",
+        "Lenora: Now, you wait!\nEnough fooling around!{VAR BE01}",
+        "Team Plasma: So you've come, Gym Leader.{VAR BE01}\nWe, Team Plasma, claim this museum's\nDragon Skull in the name of{VAR BE00}\nPokémon liberation!{VAR BE01}",
+        "Team Plasma: To show you we're serious,\nwe'll steal it right before your eyes!{VAR BE01}",
+        "Team Plasma: Well, then, here's\nour smoke screen!{VAR BE01}",
+        {
+            "text": "Plasmaaaa!",
+            "flags": 126
+        },
+        {
+            "text": "Plasmaaaa!",
+            "flags": 126
+        },
+        "Lenora: What's going on?{VAR BE01}",
+        "Hawes: Oh! Oh! We have to go after them!{VAR BE01}",
+        "Hawes: Lenora loves that skull...",
+        "Bianca: I won't forgive those thieves!",
+        "Cheren: So I can't battle the Gym Leader\nbecause of Team Plasma, huh...{VAR BE01}\nWhat a bother.",
+        "Skeletal specimens are so mysterious...{VAR BE01}\nFrom the outside, you can't see their\nfunctional, efficient design.{VAR BE01}\nIt's almost as if it is an embodiment of\ntheir former essence... So fascinating!",
+        "Rare Pokémon from around the world...\nMuseums are packed with adventure!",
+        "My oh my oh my!",
+        "The Gym Leader here studies Fossils and\nancient artifacts.",
+        "Those thugs sure were bold...{VAR BE01}\nIt's almost as if they believe they are\ndoing the right thing.",
+        "Perhaps there is a Pokémon that came\nfrom space along with this meteorite.",
+        "What in the world could Team Plasma\nbe thinking?!",
+        "This is a skeletal specimen from a\nPokémon that flew around the world.",
+        "Part of the skeleton was stolen by\nTeam Plasma and is missing!",
+        "It's a Fossil of a Pokémon that was\nprotected by a very hard shell.",
+        "A meteor that has a space virus\nattached to it.",
+        "An ancient round stone that was buried\nin the desert.",
+        "A plate with an unknown script carved\ninto it.",
+        "A mask that ancient people used to wear\nat festivals.",
+        "Bones that were once carried as weapons\nby a certain kind of Pokémon."
+    ]
+}

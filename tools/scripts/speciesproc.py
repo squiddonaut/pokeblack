@@ -27,7 +27,7 @@ PERSONAL_668_NONE = 999
 LEARNSET_END = 0xFFFF
 
 STATS = ('hp', 'attack', 'defense', 'speed', 'special_attack', 'special_defense')
-HELD_ITEMS = ('common', 'rare')
+HELD_ITEMS = ('common', 'rare', 'rare_2')
 TMS = [f'TM{i:02d}' for i in range(1, NUM_TMS + 1)] + [f'HM{i:02d}' for i in range(1, NUM_HMS + 1)]
 
 EVO_PARAMS = {
@@ -122,21 +122,21 @@ def pack_personal(mon, c, form_base):
     stats = [mon['base_stats'][s] for s in STATS]
     evs = sum(mon['ev_yields'][s] << (i * 2) for i, s in enumerate(STATS))
     evs |= mon.get('unk_0A', 0)
-    items = [c['items'][mon['held_items'][k]] for k in HELD_ITEMS] + [mon['unk_10']]
+    items = [c['items'][mon['held_items'][k]] for k in HELD_ITEMS]
     color = c['pokemon_colors'][mon['body_color']] | mon['flip_sprite'] << 6 | mon.get('unk_21', 0)
     tms = sum(1 << TMS.index(tm) for tm in mon['learnset']['by_tm'])
     data = struct.pack('<6B2BBBH3HBBBB2B3BBHHBBHHH',
                        *stats,
                        *(c['pokemon_types'][t] for t in mon['types']),
-                       mon['catch_rate'], mon['unk_09'], evs, *items,
+                       mon['catch_rate'], mon['evolution_stage'], evs, *items,
                        c['gender_ratios'][mon['gender_ratio']], mon['hatch_cycles'],
                        mon['base_friendship'], c['exp_rates'][mon['exp_rate']],
                        *(c['egg_groups'][g] for g in mon['egg_groups']),
-                       *(c['abilities'][a] for a in mon['abilities']), mon['unk_1A'],
+                       *(c['abilities'][a] for a in mon['abilities']),
                        mon['unk_1B'], form_base, mon['unk_1E'], mon['form_count'],
-                       color, mon['unk_22'],
+                       color, mon['base_exp_reward'],
                        mon['pokedex_data']['height'], mon['pokedex_data']['weight'])
-    data += tms.to_bytes(16, 'little') + struct.pack('<I', mon['unk_38'])
+    data += tms.to_bytes(16, 'little') + struct.pack('<I', mon['tutor_flags'])
     return data[:mon.get('personal_size', PERSONAL_SIZE)]
 
 

@@ -1,0 +1,53 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome to Geonet, the high-tech\nglobe!{VAR BE01}",
+        "What would you like to do?",
+        "You can register your location.\nThat information may be provided{VAR BE00}\nto friends and strangers through{VAR BE00}\nDS Wireless Communications{VAR BE00}\nor over Nintendo Wi-Fi Connection.{VAR BE01}\nWould you like to register your\nlocation now?",
+        "Please select the location\nwhere you live.",
+        "Please select the area\nwhere you live.",
+        "You may not change your location data\nonce you have registered it.{VAR BE01}\nDo you wish to register this location?",
+        {
+            "text": "{VAR 0124 0000}",
+            "flags": 196
+        },
+        {
+            "text": "{VAR 0125 0000}",
+            "flags": 196
+        },
+        {
+            "text": "Yes",
+            "flags": 42
+        },
+        {
+            "text": "No",
+            "flags": 42
+        },
+        {
+            "text": "See list",
+            "flags": 92
+        },
+        {
+            "text": "Register",
+            "flags": 92
+        },
+        {
+            "text": "Cancel",
+            "flags": 92
+        },
+        {
+            "text": "VIEW",
+            "flags": 54
+        },
+        {
+            "text": "Your registered location:\n{VAR 0124 0000}\n{VAR 0125 0001}",
+            "flags": 196
+        },
+        "To display registered locations, line up\nthe cursor and press the X Button.",
+        {
+            "text": "QUIT",
+            "flags": 40
+        }
+    ],
+    "pad": "8888"
+}

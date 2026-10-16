@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Man oh man...\nWhat is going on today?{VAR BE01}\nChallengers coming one\nright after another.{VAR BE01}\nWell, no matter.{VAR BE01}\nI am Grimsley of the Elite Four, and I will\nfulfill my duty to be your opponent.{VAR BE01}",
+        "Whether or not you get to fight at full\nstrength, whether or not luck smiles{VAR BE00}\non you--none of that matters.{VAR BE01}\nOnly results matter. And a loss is a loss.{VAR BE01}\nSee, victory shines like a bright light.{VAR BE01}\nAnd right now, you and your Pokémon\nare shining brilliantly.",
+        "Now, I'm nothing more than\nthe guy who lost...{VAR BE01}\nNothing more, nothing less.\nSigh...{VAR BE01}\nYou should take that strength and test\nit against the rest of the Elite Four.",
+        "Astonishing!{VAR BE01}\nYou have defeated every member of\nthe Pokémon League's Elite Four.{VAR BE01}\nBut it isn't over yet.{VAR BE01}\nThere is one more opponent against whom\nyou must prove your strength.{VAR BE01}\nThe pinnacle of the Pokémon League,\nthe Champion, Alder...{VAR BE01}\nOr, perhaps, that man called N has\ndefeated him and taken his title.{VAR BE01}\nI don't know which one you will face, but\ncheck the statue in the central plaza,{VAR BE00}\nand continue to the final room.",
+        "Life is a serious battle, and you have\nto use the tools you're given.{VAR BE01}\nIt's more important to master the cards\nyou're holding than to complain about{VAR BE00}\nthe ones your opponents were dealt.{VAR BE01}\nLet us begin.\nAnd may the best Trainer win!{VAR BE01}\nContests like this are proof\nthat you are really living...{VAR BE01}",
+        "There are bad ways to win--\nand good ways to lose.{VAR BE01}\nWhat's interesting and troubling is that\nit's not always clear which is which.{VAR BE01}\nA flipped coin doesn't always land\nheads or tails.{VAR BE01}\nSometimes it may never land at all...",
+        "Excellent!{VAR BE01}\nThe nice thing about Pokémon battles is\nthey teach the loser something, as well.{VAR BE01}\nThat said...\nYou should take that strength and test{VAR BE00}\nit against the rest of the Elite Four!",
+        "Astonishing!{VAR BE01}\nYou have defeated every member of\nthe Pokémon League's Elite Four.{VAR BE01}\nBut it isn't over yet.{VAR BE01}\nThere is one more opponent against whom\nyou must prove your strength.{VAR BE01}\nCheck the statue in the central plaza,\nand continue to the final room."
+    ]
+}

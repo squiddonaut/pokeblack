@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh! I was looking for a Pass Orb, and I\nsomehow ended up here.{VAR BE01}\nThey are often found at the entrance of\na Pokémon Center, though.",
+        "Hey! When I looked at myself, I noticed\nI've become an Infielder!{VAR BE00}\nHow did this happen?!{VAR BE01}\nWhatever shall I do?\nI have to go to school soon!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

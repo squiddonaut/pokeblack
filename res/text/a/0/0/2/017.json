@@ -1,0 +1,163 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "HP/PP",
+            "flags": 96
+        },
+        {
+            "text": "RESTORE",
+            "flags": 96
+        },
+        {
+            "text": "STATUS",
+            "flags": 96
+        },
+        {
+            "text": "RESTORE",
+            "flags": 96
+        },
+        "",
+        "",
+        {
+            "text": "BATTLE ITEMS",
+            "flags": 96
+        },
+        {
+            "text": "POKÉ BALLS",
+            "flags": 96
+        },
+        {
+            "text": "LAST USED ITEM",
+            "flags": 144
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        "",
+        {
+            "text": "HP/PP",
+            "flags": 78
+        },
+        {
+            "text": "RESTORE",
+            "flags": 78
+        },
+        {
+            "text": "STATUS",
+            "flags": 78
+        },
+        {
+            "text": "RESTORE",
+            "flags": 78
+        },
+        {
+            "text": "POKÉ BALLS",
+            "flags": 78
+        },
+        {
+            "text": "BATTLE ITEMS",
+            "flags": 78
+        },
+        {
+            "text": "/",
+            "flags": 7
+        },
+        {
+            "text": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "text": "USE",
+            "flags": 80
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "It's no good! It's impossible to aim\nwhen there are two Pokémon!",
+            "flags": 240
+        },
+        {
+            "text": "There is no room left in the PC!",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "It's no good! It's impossible to aim\nat a Pokémon that's not in sight!",
+            "flags": 240
+        },
+        "",
+        {
+            "text": "It's not charged enough.",
+            "flags": 240
+        },
+        {
+            "text": "Juniper's words echoed...\nThere's a time and{VAR BE00}\nplace for everything! But not now.",
+            "flags": 240
+        },
+        {
+            "text": "It's impossible to aim\nwithout being focused!",
+            "flags": 240
+        }
+    ],
+    "pad": "8686"
+}

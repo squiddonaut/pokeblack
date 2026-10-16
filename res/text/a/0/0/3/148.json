@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Who are you?\nHow impudent you are to disturb my sleep.{VAR BE01}\nHmf...{VAR BE01}\nYou appear to possess a combination of\nstrength and kindness. Very well.{VAR BE01}\nMake your best effort not to bore me\nwith a yawn-inducing battle. Clear?{VAR BE01}",
+        "You haven't faced all of the members\nof the Elite Four yet, have you?{VAR BE01}\nDon't concern yourself about me.\nGo on ahead.",
+        "In the past, when I battled, the force\nof my emotions shook me greatly.{VAR BE01}\nWhen my power awoke, I came close to\ndestroying everything around me.{VAR BE01}\nThat weak person no longer exists...\nStill, sometimes, my determination fails.{VAR BE01}\nAlways, I aspire to wrap up a victory\nwith elegance and grace.{VAR BE01}\nI invite you to be my opponent\nagain in the future, if you wish.",
+        "Somehow, you managed to defeat the\nentire Elite Four of the Pokémon League.{VAR BE01}\nCheck the statue in the center of the\nplaza for the way to the Champion's room.",
+        "Who's there?\nWho is so uncouth as to disturb my sleep?{VAR BE01}\nHmf... It's you again.{VAR BE01}\nStill, you possess that combination of\nkindness and strength. Yet you seem{VAR BE00}\nstronger than before...{VAR BE01}\nDo be sure not to bore me with a\nsnooze-inducing battle, is that clear?{VAR BE01}",
+        "Alas! Even with the knowledge and skill\npassed down in my family of Trainers,{VAR BE00}\nI still can't win.{VAR BE01}\nThe reason I came here in the first place\nwas to encounter Trainers like you...",
+        "In the past, my untrained heart made my\npower run wild.{VAR BE00}\nI was forbidden to battle.{VAR BE01}\nAll I craved then was to experience the\npure excitement of battling like this.{VAR BE01}\nHee hee...\nAlthough I'm embarrassed, I can't help{VAR BE00}\nsmiling right now.",
+        "You have defeated the\nPokémon League's Elite Four.{VAR BE01}\nYou have earned the right to\nproceed to the Champion's room.{VAR BE01}\nMaking an entrance is not the point.{VAR BE01}\nOnce you're there, you'll need to\nunleash your power to the fullest!"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "W-what? We came here to watch\nthe airplanes.{VAR BE01}\nWhy did everyone disappear?\nYoo-hoo, anybody here?",
+        "Wow! I've become a Pilot!\nIt was my dream to be a Pilot!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

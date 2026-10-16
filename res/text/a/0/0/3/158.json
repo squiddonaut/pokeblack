@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "${VAR 0205 0002}",
+            "flags": 72
+        },
+        "Would you like to save the game?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 216
+        },
+        "{VAR 0100 0000} saved the game.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Save error.{VAR BE01}",
+        {
+            "text": "There is already a saved game file.\nIt is impossible to save.{VAR BE01}\nPlease refer to the Instruction\nBooklet for details.{VAR BE01}\nPress Up + SELECT + B Button on\nthe title screen if you want to erase{VAR BE00}\nthe current saved game file.",
+            "flags": 229
+        },
+        "There is already a saved game file.\nIt is impossible to save.{VAR BE01}\nPlease refer to the Instruction\nBooklet for details.{VAR BE01}\nPress Up + SELECT + B Button on\nthe title screen if you want to erase{VAR BE00}\nthe current saved game file.{VAR BE01}",
+        {
+            "text": "Saving a lot of data...\nDon't turn off the power.",
+            "flags": 216
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Can't save the game\nwhile you are in someone's world{VAR BE00}\nor while someone is in your world.",
+            "flags": 229
+        },
+        "It looks like you are connecting\nwith somebody. Is it OK to disconnect?",
+        "Ending communication.\nPlease wait.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "First, let's restore your Pokémon\nto full health.",
+        "Please visit a Pokémon Center when your\nPokémon's HP goes down.{VAR BE01}\nIf you're planning to travel any\ndistance, you should stock up on Potions{VAR BE00}\nat a Poké Mart.{VAR BE01}\nGood luck, Trainer!",
+        "There! All happy and healthy!{VAR BE01}\nGood luck and take care!",
+        "Wireless communications are turned OFF.\nTurn wireless communications ON{VAR BE00}\nin the System Settings.{VAR BE00}\nError code: 50699{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Juniper's words echoed...\n{VAR 0100 0000}! There's a time and place{VAR BE00}\nfor everything! But not now.",
+        "You can't dismount your Bike here.",
+        "There is no Pokémon\nwith a Ribbon in your party."
+    ]
+}

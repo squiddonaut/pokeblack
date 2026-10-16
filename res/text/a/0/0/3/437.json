@@ -1,0 +1,20 @@
+{
+    "flags": 224,
+    "entries": [
+        "Professor Juniper: This is a\nPokémon Center!{VAR BE01}\nDon't you feel better as soon as you\nstep through the door?{VAR BE01}\nOK, let's start your tour!{VAR BE01}",
+        "Bianca: Ooh, wait for me!{VAR BE01}",
+        "Professor Juniper: A Pokémon Center is a\ntruly incredible place!{VAR BE01}\nDo you know why?\nBecause your Pokémon can be healed!{VAR BE00}\nAnd, what's more, it's absolutely free!{VAR BE01}\nA Pokémon Center is a Trainer's\nbest friend!{VAR BE01}\nHere, {VAR 0100 0000}, give it a try.",
+        "Professor Juniper: Hey, {VAR 0100 0000}.\nWhere are you off to?{VAR BE01}\nHumor me and talk to the lady at the\ncounter. Let her take your Pokémon.{VAR BE01}",
+        "Professor Juniper: You should be talking\nto the lady at the counter, not to me...",
+        "Bianca: All you need to do is give her\nyour Pokémon, {VAR 0100 0000}.",
+        "Professor Juniper: OK. Now that your\nPokémon have rested, I'll show you how{VAR BE00}\nto use the PC at a Pokémon Center.{VAR BE01}",
+        "Professor Juniper: This is the PC.\nIt's free for any Trainer to use.{VAR BE01}\nYou can store Pokémon in your PC Boxes\nor select Pokémon stored in your{VAR BE00}\nPC Boxes to take along with you.{VAR BE01}\nIn addition, if you catch a new Pokémon\nwhile you have six Pokémon traveling{VAR BE00}\nwith you, the Pokémon you just caught is{VAR BE00}\nsent automatically to the PC network!{VAR BE01}\nSurprising, isn't it? Amazing, even.\nHere's something else that's cool.{VAR BE01}\nIf you select my PC, I'll evaluate the\nprogress you've made on your Pokédex!{VAR BE01}",
+        "Bianca: Professor...{VAR BE01}\nIt says “Someone's PC\"\non the screen. Who is Someone?{VAR BE01}",
+        "Professor Juniper: Very good, Bianca.\nThat's a great observation!{VAR BE01}\nGood question, and I'd like to say more,\nbut for now, just ignore that and{VAR BE00}\ngo ahead and use the PC.{VAR BE01}\n“Someone\" is the person who made the\nPokémon Storage System.{VAR BE01}\n...Someone I'm sure you'll meet someday!\nOK, let's move on!{VAR BE01}",
+        "Professor Juniper: Now, this is the\nPoké Mart.{VAR BE01}\nThis is the place to buy useful items and\nsell the ones you don't need anymore!{VAR BE01}\nThat gentleman over there will\nhelp you with a smile!{VAR BE01}",
+        "Professor Juniper: So, let's\nwrap this up.{VAR BE01}\nI've given you the basics of being\na Trainer!{VAR BE01}\nI'm going to head back to Nuvema Town.{VAR BE01}\nOne final thing...{VAR BE01}\nWhen you get to Striaton City, go and\nmeet an inventor named Fennel.{VAR BE01}\nShe's a friend of mine from long ago, and\nI'm sure she'll help you on your way!{VAR BE01}\nBest of luck! I hope that your journeys\nprove to be the adventure of a lifetime!{VAR BE01}",
+        "Bianca: Ooh! What should I buy?{VAR BE01}\nPotions and Poké Balls are definitely\nimportant. Ummm...thinking...{VAR BE01}",
+        "Be sure to save what's happened up\nto this point before you forget.{VAR BE00}\nThen you can take a break."
+    ],
+    "pad": "0e0e"
+}

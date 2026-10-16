@@ -1,0 +1,11 @@
+{
+    "flags": 96,
+    "entries": [
+        "ITEMS",
+        "MEDICINE",
+        "TMs & HMs",
+        "BERRIES",
+        "KEY ITEMS"
+    ],
+    "pad": "6e6e"
+}

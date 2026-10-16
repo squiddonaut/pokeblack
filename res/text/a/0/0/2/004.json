@@ -1,0 +1,48 @@
+{
+    "flags": 229,
+    "entries": [
+        "Welcome to Battle Competition!",
+        "There are two kinds of Battle Competition.\nOne is the Wi-Fi Competition, which is held{VAR BE00}\nvia Nintendo Wi-Fi Connection, and the{VAR BE00}\nother is the Live Competition, which is{VAR BE00}\nheld at certain events.{VAR BE01}\nOnly Pokémon registered in your\nBattle Box can participate.{VAR BE01}\nOnce registered, you cannot move\nyour Pokémon to and from your{VAR BE00}\nBattle Box.{VAR BE01}\nWhen you participate in a competition,\nyour Digital Player ID will be updated.{VAR BE00}\nPlease check it.{VAR BE01}",
+        {
+            "text": "To the Wi-Fi Competition",
+            "flags": 211
+        },
+        {
+            "text": "To the Live Competition",
+            "flags": 211
+        },
+        {
+            "text": "Check your Digital Player ID",
+            "flags": 211
+        },
+        {
+            "text": "Info",
+            "flags": 211
+        },
+        {
+            "text": "Back",
+            "flags": 211
+        },
+        {
+            "text": "Participate",
+            "flags": 211
+        },
+        "To participate in the Wi-Fi Competition,\nyou'll need to access the webpage{VAR BE00}\nof the Pokémon Global Link to register.{VAR BE00}\nhttp://www.pokemon-gl.com{VAR BE01}\nPlease check the Pokémon Global Link\nwebpage for the competition regulations,{VAR BE00}\nits duration, and other information.{VAR BE01}",
+        "Will you participate in\nthe Wi-Fi Competition?",
+        "",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Cancel participation",
+            "flags": 211
+        },
+        "Will you participate in\nthe Live Competition?",
+        "You can check the information\nregarding the Live Competition at the{VAR BE00}\nPokémon official website:{VAR BE00}\nhttp://www.pokemon.com.{VAR BE01}\nPlease check the Pokémon official website\nfor the competition regulations,{VAR BE00}\nits duration, and other information.{VAR BE01}"
+    ]
+}

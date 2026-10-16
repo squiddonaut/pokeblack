@@ -1,0 +1,12 @@
+{
+    "flags": 238,
+    "entries": [
+        "Let's Dress Up {VAR 0102 0000}\nwith Props!",
+        "Is this look OK?",
+        "Waiting for other participants\nto Dress Up.",
+        "{VAR 010A 0000}: A Prop that looks\nnice on the {VAR 0131 0001}.",
+        "Props that look nice on the {VAR 0131 0000}\nwere sorted at the beginning.",
+        "The order of Props was\nrestored to the original order.",
+        "You can pull out Props from the list\nand put them on your Pokémon."
+    ]
+}

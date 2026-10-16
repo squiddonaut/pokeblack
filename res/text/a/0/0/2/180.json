@@ -1,0 +1,24 @@
+{
+    "flags": 74,
+    "entries": [
+        "HP",
+        "Attack",
+        "Defense",
+        "Speed",
+        "Sp. Atk",
+        "Sp. Def",
+        {
+            "text": "",
+            "flags": 256
+        },
+        {
+            "text": "",
+            "flags": 256
+        },
+        {
+            "text": "",
+            "flags": 256
+        }
+    ],
+    "pad": "a0a0"
+}

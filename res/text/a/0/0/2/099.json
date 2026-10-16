@@ -1,0 +1,26 @@
+{
+    "flags": 205,
+    "entries": [
+        "I win!\n{VAR 011C 0000}!",
+        "I owe my victory\nto {VAR 011C 0000}!",
+        "{VAR 011C 0000} is strong,\nisn't it?",
+        "It's {VAR 011C 0000}\n{VAR 011C 0001} after all!",
+        "When it comes to {VAR 011C 0000},\nmy choice is always {VAR 011C 0001}!",
+        "Victory in a\n{VAR 011C 0000} battle!",
+        "Yay, {VAR 011C 0000}!\n{VAR 011C 0001}!",
+        "Sorry, it's {VAR 011C 0000}\n{VAR 011C 0001}.",
+        "{VAR 011C 0000}!\nThank you!",
+        "The way I feel now is\n{VAR 011C 0000}!",
+        "{VAR 011C 0000} sure is\n{VAR 011C 0001}!",
+        "It's all thanks to\n{VAR 011C 0000}.",
+        "{VAR 011C 0000} is the toughest!",
+        "{VAR 011C 0000}?\nWow, I'm so glad!",
+        "{VAR 011C 0000}?\nThat sounds good!",
+        "I have no trouble\ndealing with {VAR 011C 0000}.",
+        "{VAR 011C 0000} is so much fun.",
+        "Huh?\n{VAR 011C 0000}?!",
+        "The power of {VAR 011C 0000}\nis awesome!",
+        "Everyone!\n{VAR 011C 0000}!"
+    ],
+    "pad": "4646"
+}

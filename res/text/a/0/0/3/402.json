@@ -1,0 +1,41 @@
+{
+    "flags": 224,
+    "entries": [
+        "What am I doing?\nI'm hunting for TREASURE!{VAR BE01}\nTreasure hunting is fun. Sometimes things\nare buried in the sand dunes.{VAR BE01}\nActually, I just found something!{VAR BE01}\nBut it's the same one as I found before,\nso I will give this to you.{VAR BE01}",
+        "I just found a treasure.{VAR BE01}\nBut it's the same one as I found before,\nso I'll give you this one.{VAR BE01}",
+        "I'll be hunting for treasure here\ntomorrow, too.{VAR BE01}\nI may find something, so if you have\ntime, stop by.",
+        {
+            "text": "Route 13",
+            "flags": 207
+        },
+        {
+            "text": "Route 13",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nWhile you are using the Xtransceiver,\nif you press left, right, up, or down{VAR BE00}\non the +Control Pad, the appearance{VAR BE00}\nof the screen changes in varied ways!",
+            "flags": 207
+        },
+        "Wreek... Wree...",
+        "Wreek!",
+        "Wree wreek!",
+        "Wingull flew away looking happy!\n...Oh? Something is on the ground.{VAR BE01}",
+        "This Wingull looks like it lost three Grams\non Route 13. I wish I could help it...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, great! Could that be the Gram?\nLet's show it to Wingull!{VAR BE01}",
+        "Two more!\nWingull looks happy.",
+        "One more!\nWingull looks happy.",
+        "We've got them all!\nThis helps Wingull a lot!{VAR BE01}",
+        "Thank you, Trainer!{VAR BE01}\nWhen we see happy Pokémon faces,\nwe feel happy, don't we?",
+        "Eh? What's that?\nA letter fell from the sky?",
+        "Looking for a Gram, are you?{VAR BE01}\nWell, could this be it? It fell on my head\njust now.{VAR BE01}\nHere, give this to Wingull.{VAR BE01}",
+        "I see. That Wingull was working hard\nfor us, too!",
+        "Why did the letter I mailed\nfall from the sky...?",
+        "Why did the letter I mailed\nfall from the sky...?{VAR BE01}\n...I got it!\nWingull dropped it.{VAR BE01}\nHere it is! Please give this to Wingull!\nTell Wingull not to drop it this time!{VAR BE01}",
+        "I'm not so good at talking, so I write\nMail instead. I can write all about my trip{VAR BE00}\nand how it made me feel."
+    ],
+    "pad": "8484"
+}

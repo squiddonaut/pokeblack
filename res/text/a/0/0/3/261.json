@@ -1,0 +1,21 @@
+{
+    "flags": 219,
+    "entries": [
+        "Cancel",
+        "1F",
+        "2F",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "11F",
+        "22F",
+        "47F",
+        "55F",
+        {
+            "text": "Which floor would you like to go to?",
+            "flags": 224
+        }
+    ],
+    "pad": "8888"
+}

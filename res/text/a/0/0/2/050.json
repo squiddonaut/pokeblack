@@ -1,0 +1,33 @@
+{
+    "flags": 48,
+    "entries": [
+        {
+            "text": "{VAR 0100 0000}'S FEELING RANKING",
+            "flags": 202
+        },
+        "RANK",
+        {
+            "text": "NAME",
+            "flags": 40
+        },
+        "SCORE",
+        "COUNT",
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 13
+        },
+        {
+            "text": "{VAR 0100 0001}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0202 0002}",
+            "flags": 19
+        },
+        {
+            "text": "{VAR 0202 0003}",
+            "flags": 18
+        }
+    ],
+    "pad": "c4c4"
+}

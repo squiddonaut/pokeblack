@@ -1,0 +1,20 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        "",
+        "",
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 200
+        },
+        {
+            "text": "{VAR 0100 0000} saved the game.",
+            "flags": 216
+        },
+        {
+            "text": "There is already a saved game file.\nIt is impossible to save.",
+            "flags": 216
+        }
+    ]
+}

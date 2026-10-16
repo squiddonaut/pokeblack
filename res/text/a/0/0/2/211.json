@@ -1,0 +1,173 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "PAL PAD",
+            "flags": 106
+        },
+        {
+            "text": "CHECK FRIEND ROSTER",
+            "flags": 192
+        },
+        {
+            "text": "REGISTER FRIEND CODE",
+            "flags": 192
+        },
+        {
+            "text": "{VAR 0100 0000}'S FRIEND CODE",
+            "flags": 192
+        },
+        "",
+        {
+            "text": "FRIEND ROSTER",
+            "flags": 106
+        },
+        "",
+        "",
+        {
+            "text": "DETAILS",
+            "flags": 118
+        },
+        {
+            "text": "REWRITE NAME",
+            "flags": 118
+        },
+        {
+            "text": "DELETE",
+            "flags": 118
+        },
+        {
+            "text": "CANCEL",
+            "flags": 104
+        },
+        {
+            "text": "What would you like to do\nwith {VAR 0100 0000}'s data?",
+            "flags": 216
+        },
+        {
+            "text": "RECORD WITH {VAR 0100 0000}",
+            "flags": 146
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "BATTLE RECORD",
+            "flags": 112
+        },
+        {
+            "text": "WIN",
+            "flags": 31
+        },
+        {
+            "text": "LOSE",
+            "flags": 31
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 32
+        },
+        {
+            "text": "POKÉMON TRADES",
+            "flags": 96
+        },
+        {
+            "text": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 32
+        },
+        "",
+        "",
+        {
+            "text": "DATE LAST PLAYED",
+            "flags": 136
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 80
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0100 0000}'S FRIEND CODE",
+            "flags": 170
+        },
+        "",
+        {
+            "text": "",
+            "flags": 112
+        },
+        {
+            "text": "By exchanging Friend Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo Wi-Fi Connection.",
+            "flags": 216
+        },
+        {
+            "text": "To obtain your Friend Code,\nplease log on to Nintendo WFC.",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0203 0001} {VAR 0203 0002} {VAR 0203 0003}\n{VAR 0100 0000} will be registered.",
+            "flags": 216
+        },
+        {
+            "text": "The Friend Code is wrong.\n{VAR 0203 0001} {VAR 0203 0002} {VAR 0203 0003}",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0100 0000} will be deleted.\nAre you sure about this?",
+            "flags": 216
+        },
+        {
+            "text": "Your Friend Roster is full!",
+            "flags": 216
+        },
+        {
+            "text": "That Friend Code has already been\nregistered.",
+            "flags": 216
+        },
+        {
+            "text": "{VAR 0100 0000}'s Friend Code:\n{VAR 0203 0001} {VAR 0203 0002} {VAR 0203 0003}",
+            "flags": 216
+        },
+        {
+            "text": "CHECK FRIEND CODE",
+            "flags": 118
+        },
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        {
+            "text": "Please go to the Wi-Fi Club\nwith {VAR 0100 0000}.",
+            "flags": 216
+        }
+    ]
+}

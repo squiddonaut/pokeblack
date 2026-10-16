@@ -1,0 +1,14 @@
+{
+    "flags": 69,
+    "entries": [
+        "{VAR BD02}Mic Test",
+        {
+            "text": "Say something into\nthe microphone.\nThe Pokémon will start singing\nif it's working.",
+            "flags": 176
+        },
+        {
+            "text": "BACK",
+            "flags": 48
+        }
+    ]
+}

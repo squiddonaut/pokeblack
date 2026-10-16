@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Check places you are curious about!\nYou may find some hidden items there.{VAR BE01}\nIf you use the Town Map item, you may\nfind a new place to explore!{VAR BE01}\nTalk to a person you are curious about!\nIt may be a wonderful encounter.",
+        "People in the past said wise things.\n“A child who sleeps well grows well.\"{VAR BE01}\nYes, if a Pokémon uses the move Rest,\nthe Pokémon will fall asleep and recover!{VAR BE01}\nI already taught the move to my Pokémon,\nso I will give this to you!{VAR BE01}",
+        "Even if a Pokémon falls asleep, I heard\nthere is a Berry to wake it up instantly.{VAR BE01}\nIf a Pokémon holds that Berry and uses\nRest, the Pokémon will fall asleep{VAR BE00}\nand recover, then wake up instantly!{VAR BE01}\nIt's a great combination!"
+    ],
+    "pad": "a6a6"
+}

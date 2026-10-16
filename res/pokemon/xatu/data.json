@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_FLYING" ],
     "catch_rate": 75,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_EARLY_BIRD" ],
-    "unk_1A": 156,
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_EARLY_BIRD",
+        "ABILITY_MAGIC_BOUNCE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 165,
+    "base_exp_reward": 165,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_PECK" ],
@@ -96,11 +99,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 15,
         "weight": 150
     },
-    "offspring": "SPECIES_NATU"
+    "offspring": "SPECIES_NATU",
+    "text": {
+        "70": "Xatu",
+        "235": "This odd Pokémon can see both\nthe past and the future. It eyes\nthe sun's movement all day.",
+        "236": "This odd Pokémon can see both\nthe past and the future. It eyes\nthe sun's movement all day.",
+        "244": "",
+        "245": "4'11\"",
+        "260": "Mystic Pokémon",
+        "268": "33.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Xatu",
+        "284": "XATU"
+    }
 }

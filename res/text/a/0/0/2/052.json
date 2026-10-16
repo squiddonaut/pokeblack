@@ -1,0 +1,34 @@
+{
+    "flags": 239,
+    "entries": [
+        "Tap the Touch Screen ten times\nin any rhythm you like.",
+        "Check complete. Create an Infrared\nConnection with the other Trainer.",
+        "Checking...\nPlease maintain the Infrared Connection.",
+        "You've created an Infrared Connection!",
+        "The connection was interrupted.\nPlease realign your infrared Game Cards.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "RHYTHM CHECK",
+            "flags": 160
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

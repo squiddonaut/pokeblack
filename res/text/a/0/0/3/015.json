@@ -1,0 +1,97 @@
+{
+    "flags": 224,
+    "entries": [
+        "So like I said, I'm Fennel, and as you can\nsee, I'm a scientist.{VAR BE01}\nIn fact, the subject I'm researching\nis Trainers!{VAR BE01}\nProfessor Juniper is my friend\nfrom college.{VAR BE01}\nShe asked me to help you guys.{VAR BE01}",
+        "So!{VAR BE01}\nI'll give you something to help you.\nThis is a Hidden Machine for you!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "There are some moves that a Pokémon can\nuse even when it is not fighting!{VAR BE01}\nWith this Hidden Machine, you can teach\nyour Pokémon a move called Cut.{VAR BE00}\nIt can cut down a small tree.{VAR BE01}\nAnd you can use the Hidden Machine as\nmany times as you want, like a TM.{VAR BE00}\nIsn't that great?{VAR BE01}\nBut it's difficult to make a Pokémon\nforget a hidden move once it learns it.{VAR BE01}",
+        "And I'd like to ask you a favor, too!{VAR BE01}\nThere is a place called the Dreamyard\non the outskirts of Striaton City.{VAR BE01}\nI'd like some of the Dream Mist that a\nPokémon there called Munna gives off.{VAR BE01}\nWith that, I'll be able to use\n{VAR FF00 0002}Game Sync {VAR FF00 0000}to collect save files of{VAR BE00}\nvarious Trainers!",
+        "Fennel: Did Juniper ask you to complete\nthe Pokédex?{VAR BE01}\nIt is a challenge to update the Pokédex\nregularly, isn't it?{VAR BE01}\nOops! I got distracted! Please bring me\nsome of the Dream Mist that Munna{VAR BE00}\ngives off in the Dreamyard!",
+        "Fennel: Ta-da!{VAR BE01}\nThanks to you, I got some Dream Mist,\nand now I can collect save files of{VAR BE00}\nvarious Trainers!{VAR BE00}\nThank you very much!{VAR BE01}\nAs a token of my appreciation,\nI will give you this C-Gear to use!{VAR BE01}\nThe C-Gear is a device related to\ncommunications, such as{VAR BE00}\nInfrared Connection or{VAR BE00}\nNintendo Wi-Fi Connection.{VAR BE01}",
+        "{VAR 0100 0000} obtained the {VAR FF00 0002}C-Gear{VAR FF00 0000}!",
+        "Turn on the C-Gear and\nestablish communications?",
+        {
+            "text": "Yes",
+            "flags": 219
+        },
+        {
+            "text": "No",
+            "flags": 219
+        },
+        "Some functions of the C-Gear\nwill be restricted. Is that OK?",
+        "Wireless communications\nare turned OFF.{VAR BE01}\nTurn wireless communications\nON in the System Settings.{VAR BE00}\nError code: 50699{VAR BE01}",
+        "You see! The C-Gear was activated, and\nthat screen showed up!{VAR BE01}\nIf you touch the “?\" icon at the\nbottom-right of the screen, you can read{VAR BE00}\nabout the C-Gear.{VAR BE01}",
+        "If you want to turn on the C-Gear, touch\nthe Power symbol at the bottom right of{VAR BE00}\nthe screen.{VAR BE01}\nThen, after turning on the power, if you\ntouch the “?\" icon at the bottom right{VAR BE00}\nof the screen, you can read about{VAR BE00}\nthe C-Gear.{VAR BE01}",
+        "About {VAR FF00 0002}Game Sync{VAR FF00 0000}...{VAR BE01}\nI'd like to explain a little more about the\nsystem to collect Trainers' save files.{VAR BE01}\nDo you have time to learn more?",
+        "I am sorry!\nI am so happy, so I will explain about it!{VAR BE01}\nBecause, thanks to you, we can do a\ngreat thing!{VAR BE01}",
+        "Now {VAR FF00 0002}Game Sync {VAR FF00 0000}can retrieve memories\nof sleeping Pokémon using Dream Mist!{VAR BE01}\nThat's right! We can collect save files of\nTrainers from all over the world!{VAR BE01}",
+        "What's more, we learned that if you use\n{VAR FF00 0002}Game Sync{VAR FF00 0000} to make a Pokémon sleep,{VAR BE00}\nit will have dreams.{VAR BE01}\nThen, when you wake up that Pokémon,\nits dream becomes the reality in a{VAR BE00}\nspace called {VAR FF00 0001}Entralink {VAR FF00 0000}in the middle of{VAR BE00}\nthe Unova region.{VAR BE01}\nIsn't Game Sync interesting?\nIf you like, please send your save file.{VAR BE01}\nI've summed up the details in the PC, so\nplease check it if you get a chance!{VAR BE01}",
+        "Fennel: {VAR FF00 0002}Game Sync{VAR FF00 0000} is fascinating, I think.\nDo you think so, too?{VAR BE01}\nIf you get interested, please send your\nsave file.{VAR BE01}\nI've summed up the details in the PC\nat the back.{VAR BE00}\nSo, please check it, if you'd like!",
+        "Fennel: Oh, thank you! {VAR BE01}\nYou also sent your save file. I saw it\nwhile I was researching Trainers!{VAR BE01}\nIsn't {VAR FF00 0002}Game Sync{VAR FF00 0000} great?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Are you a Trainer?{VAR BE01}\nDo you use the PC at Pokémon Centers?{VAR BE01}\nI am Amanita. I maintain the Box system.\nDo you know about the Battle Box?",
+        "Amanita: Impressive!{VAR BE01}\nIf there's a Pokémon you often use in\nyour battles, you can register it in the{VAR BE00}\nBattle Box!",
+        "Amanita: Let me give you a quick how-to!{VAR BE01}\nIf there's a Pokémon you often use in\nyour battles, you can register it in the{VAR BE00}\nBattle Box!",
+        "Amanita: Please do use the Battle Box.{VAR BE01}\nYou can register Pokémon in the PC\nover there, too!",
+        "Amanita: Oh, Trainer! Thank you very\nmuch for helping Fennel!{VAR BE01}\nThis is from me. Please take it.\nDon't be shy.{VAR BE01}",
+        "You can register your friends in your\nPal Pad.{VAR BE01}\nAfter you register, you can link with\nthose friends over Nintendo Wi-Fi{VAR BE00}\nConnection to do all kinds of fun things!{VAR BE01}\nYou can trade Pokémon, challenge\nyour friends to a battle, and so on.{VAR BE01}\nLet me give you a quick how-to on\nregistering your friends.{VAR BE01}\nYou can either input your friend's code\ndirectly by using your Pal Pad...{VAR BE01}\nOr you can use the IR Connection\nfeature of the C-Gear.{VAR BE01}\nThen, you can register your friend!{VAR BE01}",
+        "Amanita: Is there something you'd like\nto ask me?",
+        "In the Battle Box, you can register up\nto six Pokémon that you often use{VAR BE00}\nin battles.{VAR BE01}\nWhen you battle using Infrared\nConnection, you can choose to battle{VAR BE00}\nwith either your party Pokémon or with{VAR BE00}\nthe Pokémon in the Battle Box!",
+        "In order to register your friend\nin your Pal Pad...{VAR BE01}\nYou can either input your friend's code\ndirectly by using your Pal Pad...{VAR BE01}\nOr you can use the IR Connection\nfeature of the C-Gear.{VAR BE01}\nThen, you can register your friend!",
+        "Catch a lot of Pokémon,\nand use the Box a lot!",
+        {
+            "text": "Battle Box",
+            "flags": 219
+        },
+        {
+            "text": "Pal Pad",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Trainer! Do you use the PC in a\nPokémon Center?{VAR BE01}\nI am the one who maintains the\nBox system.{VAR BE01}\nDo you know about the Battle Box?",
+        "C-Gear Help{VAR BE01}\nIf you have trouble using it, touch the\n“?\" icon on the screen!",
+        "What is the Pokémon Storage System?{VAR BE01}\nThe person who developed the\nPokémon Storage System for the PC{VAR BE00}\nconnection is Bill in the Kanto region.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The monitor of the PC does not\nshow anything...",
+        "Fennel's Memo{VAR BE01}",
+        "Read which topic?",
+        {
+            "text": "Game Sync",
+            "flags": 219
+        },
+        {
+            "text": "Pokémon Dreams",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Game Sync is a system to collect save\nfiles from Trainers all over the world{VAR BE00}\nthrough Nintendo Wi-Fi Connection{VAR BE00}\nby making Pokémon sleep and retrieving{VAR BE00}\ntheir dreams.{VAR BE01}\nTouch the Online button on the C-Gear\nscreen, and a button called{VAR BE00}\n{VAR FF00 0001}Game Sync {VAR FF00 0000}appears.{VAR BE01}\nChoose a Pokémon to send to sleep, then\nyou can send your save file through{VAR BE00}\nNintendo Wi-Fi Connection.{VAR BE01}\nYou should be able to make more Pokémon\nsleep as a result of the research.{VAR BE01}",
+        "Pokémon Dreams...{VAR BE01}\nIf you use Game Sync to make a\nPokémon sleep, it will have dreams.{VAR BE01}\nWhen you wake up the Pokémon with\nGame Sync, its dream becomes{VAR BE00}\nthe reality in a space called {VAR FF00 0001}Entralink{VAR BE00}\n{VAR FF00 0000}in the middle of the Unova region...{VAR BE01}"
+    ]
+}

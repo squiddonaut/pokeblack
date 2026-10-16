@@ -1,0 +1,77 @@
+{
+    "flags": 224,
+    "entries": [
+        "This tree looks like it can be\ncut down! Would you like to cut it?",
+        "{VAR 0102 0000} used Cut!{VAR BE01}",
+        "This tree looks like it can be\ncut down!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It's a big boulder, but a Pokémon\nmay be able to push it aside.{VAR BE01}\nWould you like to use Strength?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It's a big boulder, but a Pokémon\nmay be able to push it aside.",
+        "Strength made it possible to move\nboulders around.",
+        "{VAR 0102 0000} used Strength!{VAR BE01}",
+        "{VAR 0102 0000}'s Strength made it\npossible to move boulders around!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The water is a deep blue...\nWould you like to surf on it?",
+        "{VAR 0102 0000} used Surf!{VAR BE01}",
+        "Surf can't be used if you have\nsomeone with you.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It's a large waterfall.\nWould you like to use Waterfall?",
+        "{VAR 0102 0000} used Waterfall!{VAR BE01}",
+        "A wall of water is crashing down with\na mighty roar.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0102 0000} used Flash!{VAR BE01}",
+        "{VAR 0102 0000} used Teleport!{VAR BE01}",
+        "{VAR 0102 0000} used Dig!{VAR BE01}",
+        "It's a deep part of the sea, but a\nPokémon may be able to dive down.",
+        "It's a deep part of the sea.\nWould you like to use Dive?",
+        "{VAR 0102 0000} used Dive!{VAR BE01}"
+    ]
+}

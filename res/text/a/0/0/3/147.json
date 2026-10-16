@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Greetings, challenger.\nMy name is Marshal.{VAR BE01}\nIn order to master the art of fighting,\nI'm training under my mentor, Alder.{VAR BE01}\nMy mentor sees your potential as a\nTrainer and is taking an interest in you.{VAR BE01}\nIt is my intention to test you--to take\nyou to the limits of your strength. Kiai!{VAR BE01}",
+        "Whew! Well done!{VAR BE01}\nAs your battles continue,\naim for even greater heights!",
+        "Representing the Pokémon League in the\nabsence of the Champion has been my duty{VAR BE00}\nas Alder's student.{VAR BE01}\nHowever, there is nothing as empty as\nwords not backed up by strength.{VAR BE01}\nA word in your ear, strong challenger...\nThe other members of the Elite Four{VAR BE00}\nare far more powerful than I am.{VAR BE01}\nDo not underestimate them!",
+        "Now... You have become the strongest\nTrainer in this Pokémon League.{VAR BE01}\nThe statue in the central chamber will\ntake you to the Champion's room.{VAR BE01}\nWe, the Elite Four of Unova,\nare sworn to follow the Champion's order{VAR BE00}\nto be neutral.{VAR BE01}\nSo the rest is up to you!",
+        "I thank you deeply for the chance for\nanother round of combat against you.{VAR BE01}\nIn myself, I seek to develop\nthe strength of a fighter.{VAR BE01}\nAnd shatter any weakness in myself!{VAR BE01}\nPrevailing with the force of\nmy convictions!{VAR BE01}\nVictory, decisive victory, is my intention!\nChallenger, here I come!{VAR BE01}",
+        "There are still many strong Trainers\nin this Pokémon League.{VAR BE01}\nYou should deepen your bonds with\nyour Pokémon by battling with them.",
+        "In times past, I wandered all the regions\nof the world in pursuit of strength...{VAR BE01}\nOne day, I met my mentor and began to\ngrasp the wisdom of making strength{VAR BE00}\nan internal quality...{VAR BE01}\nAnd one day, I decided to become part of\nthe Elite Four of Unova...{VAR BE01}\nFor some reason, the battle we just had\nbrought those fateful times back to mind.",
+        "The strength shown by you and your\nPokémon has deeply impressed me...{VAR BE01}\nPlease, continue to the next room\nto face the strongest Trainer{VAR BE00}\nof the Unova region!"
+    ],
+    "pad": "bcbc"
+}

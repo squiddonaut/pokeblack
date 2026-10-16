@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Quake Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Quake Badge!\nMake your foes' hearts tremble!",
+        "First, obtain the Quake Badge\nfrom the Driftveil Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Gates are placed at the border of one\nspace and another space.{VAR BE01}\nIn other words, gates mean that the\nworld beyond here is a different world.{VAR BE01}\nIt does feel like every time you pass\nthrough a gate, you're going to a{VAR BE00}\ndifferent world.{VAR BE01}\nAnd you remember the Gym Leader who\ngave you the Badge at the same time...{VAR BE01}\nBut without the Quake Badge,\nyou cannot proceed."
+    ],
+    "pad": "a0a0"
+}

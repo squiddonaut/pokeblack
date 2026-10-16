@@ -1,0 +1,19 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome!\nWelcome to my party!{VAR BE01}\nPlease enjoy conversations\nwith everyone!",
+        "Ich habe mir nun ein Auto zugelegt!{VAR BE01}\nDamit ist die nächste Stadt auch\nganz ohne Orden zum Greifen nah!{VAR BE01}\nEs sei denn, ich rassele durch\nmeine Führerscheinprüfung...",
+        "Hello. Have you tried a Casteliacone yet?{VAR BE01}\nI managed to buy one on Tuesday, but\nit's very difficult to get!",
+        "Hey, Trainer!\nCheck out my moves!{VAR BE01}\nHave you gone to the next city yet?\nI learned this move at the{VAR BE00}\nmusical over there.{VAR BE00}\nPretty cool, isn't it?",
+        "Ohhhh! Your Pokémon are so charming!{VAR BE01}\nI want cute Pokémon, too, so I can\nuse this!{VAR BE01}",
+        "This move makes your Pokémon\nunbearably charming!{VAR BE01}\nAll Pokémon of the opposite gender\nwill fall in love!",
+        "Did you see the dress that the\nsupermodel, Elesa, was wearing?{VAR BE01}",
+        "Whatever Elesa wears is beautiful.\nA stunning ensemble!",
+        "My boyfriend isn't good at getting out of\nbed in the morning...{VAR BE01}\nIn fact, he's so slow getting out of bed\nthat I asked his Pokémon to use{VAR BE00}\nWake-Up Slap on him!",
+        "Ciao!\nTi stai divertendo?{VAR BE01}\nNon sentirti in imbarazzo.\nParla pure con chi vuoi.",
+        "It's hard to get up the morning after\na fun day like today.",
+        "I've asked my Pokémon to use Sing\ninstead of setting an alarm clock.{VAR BE01}\nBut I cannot get up at all.\nI don't know why.",
+        "¡Es la primera vez que vengo aquí!{VAR BE01}\n¡Pero este precioso paisaje hace\nque me sienta como en casa!{VAR BE01}\n¡La próxima vez traeré a mis amigos!"
+    ],
+    "pad": "2020"
+}

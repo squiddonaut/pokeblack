@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_FLYING" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_WONDER_SKIN", "ABILITY_MAGIC_GUARD" ],
-    "unk_1A": 110,
+    "abilities": [
+        "ABILITY_WONDER_SKIN",
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_TINTED_LENS"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLACK",
     "flip_sprite": false,
-    "unk_22": 172,
+    "base_exp_reward": 172,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_GUST" ],
@@ -104,11 +107,22 @@
             "MOVE_SKILL_SWAP"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 14,
         "weight": 140
     },
-    "offspring": "SPECIES_SIGILYPH"
+    "offspring": "SPECIES_SIGILYPH",
+    "text": {
+        "70": "Sigilyph",
+        "235": "The guardians of an ancient city, they\nuse their psychic power to attack\nenemies that invade their territory.",
+        "236": "They never vary the route they fly,\nbecause their memories of guarding\nan ancient city remain steadfast.",
+        "244": "",
+        "245": "4'07\"",
+        "260": "Avianoid Pokémon",
+        "268": "30.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Sigilyph",
+        "284": "SIGILYPH"
+    }
 }

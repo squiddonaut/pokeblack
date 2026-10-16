@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "entries": [
+        "Burgh: Come on! This way!{VAR BE01}",
+        "Burgh: Team Plasma...\nThey took this young lady's Pokémon.{VAR BE01}",
+        "Bianca: {VAR 0100 0000}, is there\nanything we can do? My Munna...{VAR BE01}\nTeam Plasma took it...{VAR BE01}",
+        "???: I heard this lady's scream and\nran after the thief as fast as I could.{VAR BE01}\nBut this city is so big and so crowded...\nI'm afraid I lost them.{VAR BE01}",
+        "Burgh: Iris...\nYou did everything you could.{VAR BE01}",
+        "Iris: But that's so bad!{VAR BE01}\nTaking people's Pokémon is really bad!{VAR BE01}\n'Cause it's really nice when\npeople and Pokémon are together!{VAR BE01}\nThey each have something the other\ndoesn't, and they help each other!{VAR BE01}",
+        "Bianca: Iris...{VAR BE01}",
+        "Burgh: Agreed!\nNo fear--we will get that Pokémon back.{VAR BE01}",
+        "Right, {VAR 0100 0000}?{VAR BE01}",
+        "Right, {VAR 0100 0000}?{VAR BE01}",
+        "Having said that, finding a person or a\nPokémon here in Castelia City will be{VAR BE00}\nlike finding a needle in a haystack.{VAR BE01}",
+        "Team Plasma: I spy a Gym Leader?!{VAR BE01}\nLast time went so well, I thought\nI'd grab another Pokémon...{VAR BE00}\nRethinking...{VAR BE00}\nI need to get out of here!{VAR BE01}",
+        "Burgh: {VAR 0100 0000}, let's go!{VAR BE01}\nIris! You stay by that young lady's side.{VAR BE01}",
+        "Burgh: {VAR 0100 0000}, let's go!{VAR BE01}\nIris! You stay by that young lady's side.{VAR BE01}",
+        "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\nSo you go after those bad guys, OK?{VAR BE01}",
+        "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\nSo you go after those bad guys, OK?",
+        "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\nSo you go after those bad guys, OK?{VAR BE01}",
+        "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\nSo you go after those bad guys, OK?",
+        "Bianca: Oh, Munna, I can't believe it.{VAR BE01}\nHere I am, a Trainer, and I can't even\nprotect my own Pokémon... I'm sorry...",
+        "When someone is getting under your skin\nand you want to yell at them,{VAR BE00}\nscream at the ocean!{VAR BE01}\n...When you're alone, of course.",
+        "That black boat...\nWhat could it be?"
+    ],
+    "pad": "b4b4"
+}

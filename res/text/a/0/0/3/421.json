@@ -1,0 +1,52 @@
+{
+    "flags": 224,
+    "entries": [
+        "It's full of cardboard boxes with\nelectrical appliances in them.",
+        "It's full of cardboard boxes with\nelectrical appliances in them.{VAR BE01}\nOh? Rotom would like to investigate the\nmotors of the electrical appliances...{VAR BE01}\nIs that OK?",
+        "Rotom reluctantly gave up\non entering a motor...",
+        "Which Rotom will you allow\nto enter a motor?{VAR BE01}",
+        "That Pokémon can't enter a motor.",
+        "An Egg can't enter a motor.",
+        "Which appliance's motor will you\nallow {VAR 0102 0000} to enter?",
+        {
+            "text": "Microwave oven",
+            "flags": 219
+        },
+        {
+            "text": "Washing machine",
+            "flags": 219
+        },
+        {
+            "text": "Electric fan",
+            "flags": 219
+        },
+        {
+            "text": "Refrigerator",
+            "flags": 219
+        },
+        {
+            "text": "Lawnmower",
+            "flags": 219
+        },
+        {
+            "text": "Recall",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "{VAR 0102 0000} entered the motor.",
+        "{VAR 0102 0000} is trying to\nlearn {VAR 0107 0001}.{VAR BE01}\nBut {VAR 0102 0000} can't learn\nmore than four moves.{VAR BE01}\nDelete a move to make\nroom for {VAR 0107 0001}?",
+        "Give up on learning the\nmove {VAR 0107 0001}?",
+        "{VAR 0102 0000} did not learn\n{VAR 0107 0001}.{VAR BE01}\n{VAR 0102 0000} emerged from the motor.",
+        "Is it OK to forget\nthe move {VAR 0107 0001}?",
+        "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n{VAR 0102 0000} forgot how to\nuse {VAR 0107 0001}.{VAR BE01}\nAnd...{VAR BE01}",
+        "{VAR 0102 0000} learned {VAR 0107 0002}!",
+        "{VAR 0102 0000} forgot {VAR 0107 0002}...{VAR BE01}",
+        "{VAR 0102 0000} has already entered\nthe appliance motor.{VAR BE01}",
+        "{VAR 0102 0000} emerged from the motor.",
+        "{VAR 0102 0000} hasn't entered a motor.{VAR BE01}",
+        "{VAR 0102 0000} reluctantly gave up on\nentering a motor..."
+    ]
+}

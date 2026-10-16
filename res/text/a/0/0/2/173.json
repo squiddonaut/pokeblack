@@ -1,0 +1,31 @@
+{
+    "flags": 227,
+    "entries": [
+        "{VAR FF00 0002}Bicycle{VAR FF00 0000}",
+        "{VAR FF00 0002}Town Map{VAR FF00 0000}",
+        "{VAR FF00 0002}Vs. Recorder{VAR FF00 0000}",
+        "{VAR FF00 0002}Pal Pad{VAR FF00 0000}",
+        "{VAR FF00 0002}Super Rod{VAR FF00 0000}",
+        "{VAR FF00 0002}Dowsing MCHN{VAR FF00 0000}",
+        "{VAR FF00 0002}Gracidea{VAR FF00 0000}",
+        "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Status",
+        "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Skills",
+        "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Ribbons",
+        "Bag{VAR FF00 0001}>{VAR FF00 0000}Items",
+        "Bag{VAR FF00 0001}>{VAR FF00 0000}Medicine",
+        "Bag{VAR FF00 0001}>{VAR FF00 0000}TMs & HMs",
+        "Bag{VAR FF00 0001}>{VAR FF00 0000}Berries",
+        "Bag{VAR FF00 0001}>{VAR FF00 0000}Key Items",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}List",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Search",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Info",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Area",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Cry",
+        "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Forms",
+        "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Front",
+        "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Back",
+        "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Badges",
+        "Options"
+    ],
+    "pad": "e2e2"
+}

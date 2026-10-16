@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "If you go straight, it doesn't take long.\nBut if you go the wrong way, it's a maze.{VAR BE01}\nIs Pinwheel Forest a\npath or a maze for you?",
+        "Burgh: This leads to Pinwheel Forest.{VAR BE01}\nIf they manage to scuttle off into the\nforest, we might have trouble.{VAR BE01}",
+        "Yo! Traveling Trainer!\nAre your Pokémon getting stronger?{VAR BE00}\nHere! This might come in handy!{VAR BE01}",
+        "Rock Smash is a move that sometimes\nreduces your foe's Defense stat.{VAR BE01}\nIt is super effective against Normal-type\nPokémon, which Gym Leader Lenora likes!",
+        "It's a challenge rock.{VAR BE01}\nWould you like to have {VAR 0102 0000}\nsmash the rock?",
+        "{VAR 0102 0000} tried to smash the\nchallenge rock.{VAR BE01}\nA piece of the rock broke away!{VAR BE01}",
+        "It's a challenge rock.",
+        {
+            "text": "Pinwheel Forest\nDid you remember to pack an Antidote?",
+            "flags": 207
+        }
+    ],
+    "pad": "7a7a"
+}

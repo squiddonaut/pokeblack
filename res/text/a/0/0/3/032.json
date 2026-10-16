@@ -1,0 +1,35 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hello, Trainer!\nI think Potions are important for a trip!",
+        "I should have bought more Poké Balls!{VAR BE01}\nA Pokémon I wanted to catch\njust came out, and I missed it!",
+        "Hi! I have some questions for you!{VAR BE01}\nIf you want to play, which do you prefer:\noutside or at home?",
+        "I see, I see!{VAR BE01}\nThen, which one are you interested in:\nthe thing everybody knows{VAR BE00}\nor the thing nobody knows?",
+        "Oh, really?{VAR BE01}",
+        "In my view, you are a person with\ncommon sense!",
+        "I'd say you are quite active!",
+        "I'd say you are very curious!",
+        "I'd say you are quite composed!",
+        "I'd say you are quite relaxed!",
+        {
+            "text": "Outside",
+            "flags": 219
+        },
+        {
+            "text": "At home",
+            "flags": 219
+        },
+        {
+            "text": "Neither",
+            "flags": 219
+        },
+        {
+            "text": "The thing everybody knows",
+            "flags": 219
+        },
+        {
+            "text": "The thing nobody knows",
+            "flags": 219
+        }
+    ]
+}

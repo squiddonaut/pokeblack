@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_DRAGON", "TYPE_DRAGON" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_DRAGON_SCALE"
+        "rare": "ITEM_DRAGON_SCALE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 40,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_WATER_1", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_SHED_SKIN", "ABILITY_NONE" ],
-    "unk_1A": 63,
+    "abilities": [
+        "ABILITY_SHED_SKIN",
+        "ABILITY_NONE",
+        "ABILITY_MARVEL_SCALE"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 147,
+    "base_exp_reward": 147,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_WRAP" ],
@@ -88,7 +91,7 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 64,
+    "tutor_flags": 64,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -100,5 +103,16 @@
         "height": 40,
         "weight": 165
     },
-    "offspring": "SPECIES_DRATINI"
+    "offspring": "SPECIES_DRATINI",
+    "text": {
+        "70": "Dragonair",
+        "235": "If its body takes on an aura, the\nweather changes instantly. It is\nsaid to live in seas and lakes.",
+        "236": "If its body takes on an aura, the\nweather changes instantly. It is\nsaid to live in seas and lakes.",
+        "244": "",
+        "245": "13'01\"",
+        "260": "Dragon Pokémon",
+        "268": "36.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Dragonair",
+        "284": "DRAGONAIR"
+    }
 }

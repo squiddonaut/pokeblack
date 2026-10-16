@@ -1,0 +1,83 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hrmph! So yer the Trainers Elesa was\ntalkin' about, huh.{VAR BE01}\nI'm Clay. I'm the Gym Leader 'round\nthese parts.{VAR BE01}\nDon't be expectin' no welcome, now.{VAR BE01}\n'Cause when we lowered that bridge,\nthe Team Plasma guys we'd caught{VAR BE00}\ndone escaped in all the ruckus!{VAR BE01}",
+        "Cheren: What a bother.{VAR BE01}\nWe're grateful that you lowered the\nbridge, but how is it our fault that{VAR BE00}\nthey escaped?{VAR BE01}",
+        "Clay: Ya can say whatever ya want.{VAR BE01}\nBut what's important is y'all showed up,\nand then Team Plasma escaped.{VAR BE01}\nMaybe it's a little heavy-handed, but\nyou oughtta start lookin' for{VAR BE00}\nTeam Plasma, too.{VAR BE01}\nYer both talented Trainers, aren't ya?{VAR BE01}",
+        "Tell ya what...{VAR BE01}\nIf ya find Team Plasma, I'll let ya\nchallenge my Gym!{VAR BE01}\nLife's all about give and take!{VAR BE01}",
+        "Cheren: Well, I suppose that's fair.{VAR BE01}\nBut really, we would have looked\nfor Team Plasma even if he hadn't asked.{VAR BE01}\nI can get stronger while beating that\nbothersome bunch...{VAR BE01}",
+        "{VAR 0100 0000}!\nI'll go on ahead.{VAR BE01}",
+        "Ghetsis: Clay.\nIt's a pleasure to meet you.{VAR BE01}\nI am Ghetsis, of Team Plasma.{VAR BE01}\nI've come to pick up my associates\nwho are in your care.{VAR BE01}",
+        "Clay: I don't need no thanks, now.{VAR BE01}\nYer buddies were tryin' to steal\nsome folks' Pokémon.{VAR BE01}",
+        "Ghetsis: What's this? It seems as if\nthere has been some misunderstanding.{VAR BE01}\nWe only free Pokémon from wicked people.{VAR BE01}",
+        "Clay: Well, that sounds real nice,\nif it's true.{VAR BE01}\nI may not talk purty, but at least\nI'm an honest man.{VAR BE01}\nYou talk real nice, but what yer sayin'\nkinda sounds like lyin'.{VAR BE01}\nSo tell me plain, what are ya tryin'\nto say?{VAR BE01}",
+        "Ghetsis: Team Plasma also has an interest\nin Driftveil City.{VAR BE01}\nAnd we have many, many more members\nbesides those who are here...{VAR BE01}",
+        "Clay: ...Well, I can't tell if yer lyin' or\nnot, but I reckon you've won this{VAR BE00}\nwithout a fight.{VAR BE01}\nHrrmph. Fine. Take 'em and git!{VAR BE01}",
+        "Ghetsis: A decision worthy of a\nbusinessman called the Miner King.{VAR BE01}\nYour grasp of the situation\nis outstanding.{VAR BE01}\nWell then, we will be taking\nour colleagues off your hands...{VAR BE01}",
+        "Zinzolin: Ghetsis...\nThank you very much...{VAR BE01}",
+        "Ghetsis: Don't worry, my fellow servant\nof the king...{VAR BE01}\nWe are two of the Seven Sages,\nare we not?{VAR BE01}\nWell then, everyone, I expect that we\nwill meet again somewhere.{VAR BE01}",
+        "Clay: Sorry to let Team Plasma go after\nyou tracked 'em down, fellas.{VAR BE01}\nSay, why don't we cheer ourselves up\nwith a Pokémon battle?{VAR BE01}\nDon't keep me waitin'!{VAR BE01}",
+        "Cheren: Well, we avoided a fight in\nthe middle of the city, anyway.{VAR BE01}\nStill, I can't help but think Ghetsis isn't\njust an ordinary person.{VAR BE01}\nI'm off to go make my Pokémon stronger.{VAR BE01}\nI really don't want to lose\nto that Clay guy.{VAR BE01}\nActually, I'm going to win my\nGym Badge in a flawless victory!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Our Gym Leader, Clay, is in the\nmiddle of something right now.{VAR BE00}\nPlease come again later.",
+        "Bianca: Oh, hi, {VAR 0100 0000}!{VAR BE01}",
+        "Bianca: {VAR 0100 0000}!!\nGuess what, guess what?{VAR BE01}",
+        "Hey, were you at the Gym just now?{VAR BE01}\nOh, hey! That's Driftveil's Gym Badge!\nOh, that's totally cool. That's amazing.{VAR BE01}",
+        "No, no, no! I can't get distracted being\nall impressed with your shiny new Badge!{VAR BE01}\nI'm also a Trainer!\nAt times like this you battle, right?{VAR BE01}",
+        "Bianca: I haven't had a Pokémon battle\nwith you in a while, {VAR 0100 0000}.{VAR BE01}\nYou've become totally strong, huh?{VAR BE01}\nI'm not that strong, so I don't know\nhow to say it, but I think you're way{VAR BE00}\ntuned in to how your Pokémon feel!{VAR BE01}\nOh, you know what! I want to share this\nHM with you, {VAR 0100 0000}!{VAR BE01}",
+        "Bianca: My papa gave it to me after\nhe tried to take me home that time.{VAR BE01}\nI'm sure it's so I can come home anytime\nhe wants, though...{VAR BE01}\nOh, hey, I have to share this with\nCheren, too...{VAR BE01}\nSee you, {VAR 0100 0000}! Buh-bye!{VAR BE01}",
+        "So how about this city's pride and joy,\nthe drawbridge?{VAR BE01}\nWe also call it the Charizard Bridge\ndue to its elegant form!",
+        "Hey there, Trainer!{VAR BE01}\nHave you ever battled the Elite Four\nof the Pokémon League?{VAR BE01}\nYou can't battle them unless you\nhave eight Gym Badges, right?",
+        "Oh, ocean...{VAR BE01}\nI wonder if the tears I've cried\nwill flow all the way to Olivine City.",
+        "Those Team Plasma meanies forced me\nto battle them.{VAR BE01}\nAnd when I lost, they stole my Pokémon!",
+        "When I win, it's because of my Pokémon.\nWhen I lose, it's because of me.{VAR BE01}\nThat's how I always think. If you get\nconceited, you get sloppy fast.",
+        "The reason I'm hangin' around is\nbecause I want to hang around!{VAR BE01}\nAww! If my Pokémon just knew the move\nSurf, I could go on top of the water!",
+        "Some kids are catching and training\nPokémon close to the Cold Storage.",
+        "The Pokémon of lightning and the Pokémon\nof wind are both known to come and go{VAR BE00}\nas they please.",
+        "On the other side of the ocean, there\nare a lot of different people and a lot of{VAR BE00}\ndifferent Pokémon, aren't there?",
+        "The old guy on Route 6 is searching for\nlegendary Pokémon.{VAR BE01}\nIf you're interested, go talk to him!",
+        "Bridges are amazing. 'Cause they are a\nsymbol of connecting the world.{VAR BE01}\nBut the guy on Route 5 is saying the\nsame thing, isn't he?",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI wanted to get the attention of a girl\nI like, so I learned a new style of{VAR BE00}\nPokémon battling.{VAR BE01}\nIts name... Triple Battle!\nWant to learn about it?",
+        "Oh, man! Getting someone's attention is\nreally hard.",
+        "In Triple Battles, you send out three\nPokémon at a time and battle!{VAR BE01}\nThe rules are simple: just make all of\nyour opponent's Pokémon faint.{VAR BE01}\nAnd that's a rough explanation\nof Triple Battles.{VAR BE01}",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nHey! If you're a Trainer, how about a\nTriple Battle?",
+        "You've got a good attitude, don't you!{VAR BE01}\nI'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI'm always at full throttle.{VAR BE01}",
+        "I hate to burst your bubble when you're\nall fired up, but...{VAR BE01}\nIn Triple Battles, you need three or\nmore Pokémon to battle.",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI have some advice for you.\nChallenge is the essence of life!",
+        "Sheesh. That's embarrassing. Getting\nschooled when I was planning to teach.{VAR BE01}\nStill, you have potential!{VAR BE01}\nYou have to understand your Pokémon\nto win in a Triple Battle.{VAR BE01}\nIf you want more Triple Battles, you\nshould go to Opelucid City.",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nRiding a bike and becoming the wind fits\na bad boy like me.",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI wanted to get the attention of a girl\nI like, so I learned a new style of{VAR BE00}\nPokémon battling.{VAR BE01}\nIts name... Rotation Battle!\nWant to learn about it?",
+        "Oh, man! Getting someone's attention is\nreally hard.",
+        "In Rotation Battles, you send out three\nPokémon at a time and battle!{VAR BE01}\nOne Pokémon takes the lead position,\nand the other two stand on each side.{VAR BE01}\nThe trick is, each turn you can change\ntheir positions...{VAR BE01}\nAnd that's a rough explanation\nof Rotation Battles.{VAR BE01}",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nHey! If you're a Trainer, how about a\nRotation Battle?",
+        "You've got a good attitude, don't you!{VAR BE01}\nI'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI'm always at full throttle.{VAR BE01}",
+        "I hate to burst your bubble when you're\nall fired up, but...{VAR BE01}\nIn Rotation Battles, you need three or\nmore Pokémon to battle.",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nI have some advice for you.{VAR BE01}\nChallenge is the essence of life!",
+        "Sheesh. That's embarrassing. Getting\nschooled when I was planning to teach.{VAR BE01}\nStill, you have potential!{VAR BE01}\nYou have to understand your Pokémon\nto win in a Rotation Battle.{VAR BE01}\nIf you want to have more\nRotation Battles, go to Opelucid City.",
+        "I'm a heartbreaker...\nMy name... Charles.{VAR BE01}\nRiding a bike and becoming the wind fits a\nbad boy like me.",
+        {
+            "text": "Driftveil Drawbridge",
+            "flags": 207
+        },
+        {
+            "text": "Welcome to Driftveil City!",
+            "flags": 207
+        },
+        {
+            "text": "Driftveil City\nA City of Billowing Sails",
+            "flags": 207
+        },
+        {
+            "text": "Driftveil Market",
+            "flags": 207
+        },
+        {
+            "text": "Driftveil City Pokémon Gym\nLeader: Clay{VAR BE00}\nThe Underground Boss",
+            "flags": 207
+        }
+    ],
+    "pad": "8a8a"
+}

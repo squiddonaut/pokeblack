@@ -1,0 +1,78 @@
+{
+    "flags": 184,
+    "entries": [
+        "About “Infrared\"",
+        "About “Online\"",
+        "About “Online\"",
+        "About “Wireless\"",
+        "About “Wireless\"",
+        "About “Wireless\"",
+        "About “Wireless\"",
+        "About “Wireless\"",
+        "About “Tag Log\"",
+        "About “Survey Radar\"",
+        "About “Customization\"",
+        "About “ON/OFF\"",
+        {
+            "text": "Using infrared, you can battle and trade\nwith a friend in front of you.\nYou can also use the Feeling Check which\ntells you how compatible you and your\nfriend are, and exchange Friend Codes.",
+            "flags": 224
+        },
+        {
+            "text": "By pressing the Game Sync button,\nyou can select a Pokémon to make sleep\nand then send your saved data over\nNintendo Wi-Fi Connection.",
+            "flags": 224
+        },
+        {
+            "text": "You cannot connect to Nintendo Wi-Fi\nConnection without the proper\nsystem settings, even when you are\nable to receive a signal for \nNintendo Wi-Fi Connection.",
+            "flags": 224
+        },
+        {
+            "text": "DS Wireless Communications\nallow you to use the features below\nwith your nearby friends.\n-Xtransceiver\n-Entralink",
+            "flags": 224
+        },
+        {
+            "text": "The Xtransceiver allows you to connect\nwith friends you've played with in the\nWi-Fi Club or those you've exchanged\nFriend Codes with using the C-Gear.",
+            "flags": 224
+        },
+        {
+            "text": "Press the button, and you will be\nsent to the Entralink instantly.",
+            "flags": 224
+        },
+        {
+            "text": "You can tell how many people\nare in the Union Room around you\nand if wireless distributions\nare available nearby.",
+            "flags": 224
+        },
+        {
+            "text": "You can also tell who has\nthe C-Gear turned on around you.\nWhen people are nearby,\nit is easier to receive signals for\nthe Tag Log and Survey Radar.",
+            "flags": 224
+        },
+        {
+            "text": "It displays what people\naround you are doing in real time.\nBy selecting it, you can find out\nmore about them and send\nthem messages.",
+            "flags": 224
+        },
+        {
+            "text": "You can do surveys on people\naround you.\n\nChoose what you want to find out,\nand you can see the daily results,\nas well as the cumulative results.",
+            "flags": 224
+        },
+        {
+            "text": "Touch the Customization icon, and it will\nstart blinking. Touch other buttons as it\nblinks, and they will appear differently.\n\nYou can even make patterns with buttons\nof different colors.",
+            "flags": 224
+        },
+        {
+            "text": "Touch this button to turn\nwireless communications on or off.\n\nOnce you turn it off, the touch panel\nturns dark, and wireless communications\nwill be turned off.",
+            "flags": 224
+        },
+        {
+            "text": "NEXT",
+            "flags": 70
+        },
+        {
+            "text": "QUIT",
+            "flags": 48
+        },
+        {
+            "text": "PREVIOUS",
+            "flags": 70
+        }
+    ],
+    "pad": "e0e0"
+}

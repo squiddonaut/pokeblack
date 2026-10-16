@@ -1,0 +1,127 @@
+{
+    "flags": 199,
+    "entries": [
+        {
+            "text": "Would you like to save the last battle\nas your Battle Video?",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "The last battle will not be saved.\nOK?",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Is it OK to overwrite your existing\nBattle Video?",
+            "flags": 240
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Saving your Battle Video...\nDon't turn off the power.",
+            "flags": 224
+        },
+        {
+            "text": "The Battle Video has been saved.",
+            "flags": 240
+        },
+        {
+            "text": "There was an error.\nThe Battle Video couldn't be saved.",
+            "flags": 240
+        },
+        {
+            "text": "Awaiting your friend's decision...\nPlease wait.",
+            "flags": 224
+        },
+        {
+            "text": "You cannot record videos\nwith this Trainer... Please wait.",
+            "flags": 224
+        },
+        {
+            "text": "You cannot record videos\nwith this Trainer.",
+            "flags": 240
+        },
+        {
+            "text": "The last battle cannot be recorded.",
+            "flags": 224
+        },
+        {
+            "text": "Time Limit:",
+            "flags": 84
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0201 0001}",
+            "flags": 18
+        },
+        {
+            "text": "PREVIOUS RECORD",
+            "flags": 99
+        },
+        "Colosseum Single,\nNo Restrictions",
+        "Colosseum Single,\nFlat",
+        "Colosseum Single,\nNo Restrictions, Launcher On",
+        "Colosseum Single,\nFlat, Launcher On",
+        "Colosseum Double,\nNo Restrictions",
+        "Colosseum Double,\nFlat",
+        "Colosseum Double,\nNo Restrictions, Launcher On",
+        "Colosseum Double,\nFlat, Launcher On",
+        "Colosseum Triple,\nNo Restrictions",
+        "Colosseum Triple,\nFlat",
+        "Colosseum Triple,\nNo Restrictions, Launcher On",
+        "Colosseum Triple,\nFlat, Launcher On",
+        "Colosseum Rotation,\nNo Restrictions",
+        "Colosseum Rotation,\nFlat",
+        "Colosseum Rotation,\nNo Restrictions, Launcher On",
+        "Colosseum Rotation,\nFlat, Launcher On",
+        "Colosseum Multi,\nNo Restrictions",
+        "Colosseum Multi,\nFlat",
+        "Colosseum Multi,\nNo Restrictions, Launcher On",
+        "Colosseum Multi,\nFlat, Launcher On",
+        "Battle Subway,\nSingle",
+        "Battle Subway,\nDouble",
+        "Battle Subway,\nMulti",
+        "Random Matchup, Free\nSingle",
+        "Random Matchup, Free\nDouble",
+        "Random Matchup, Free\nTriple",
+        "Random Matchup, Free\nRotation",
+        "Random Matchup, Free\nLauncher Battle",
+        "Random Matchup, Rating\nSingle",
+        "Random Matchup, Rating\nDouble",
+        "Random Matchup, Rating\nTriple",
+        "Random Matchup, Rating\nRotation",
+        "Random Matchup, Rating\nLauncher Battle",
+        "Competition, Single\nLauncher Off",
+        "Competition, Single\nLauncher On",
+        "Competition, Double\nLauncher Off",
+        "Competition, Double\nLauncher On",
+        "Competition, Triple\nLauncher Off",
+        "Competition, Triple\nLauncher On",
+        "Competition, Rotation\nLauncher Off",
+        "Competition, Rotation\nLauncher On"
+    ],
+    "pad": "3a3a"
+}

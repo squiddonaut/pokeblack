@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi! Do you have a Pokémon called\n{VAR 0101 0000}?{VAR BE01}\nWould you like to trade your {VAR 0101 0000}\nfor my {VAR 0101 0001}?",
+        "Wow. Thanks!\nThen, let's trade!{VAR BE01}",
+        "Yay! Please take good care of\nmy {VAR 0101 0001}!{VAR BE01}\nI will take good care of your {VAR 0101 0000}!",
+        "I'd like to trade for a {VAR 0101 0000}...",
+        "It's OK if you don't want to...{VAR BE01}\nBut if you change your mind, let's\ntrade Pokémon!",
+        "Thanks to our Pokémon, you and I\nbecame friends!",
+        "The {VAR 0102 0000} that I got from you has\ngrown up and become very strong!{VAR BE01}\nLet's have a battle!",
+        "Yay! I'll show off how I trained\nthis Pokémon!{VAR BE01}",
+        "I want to show you how {VAR 0102 0000}\nhas grown up...",
+        "I had a great time!{VAR BE01}\nI traded my Pokémon with yours, and\non top of that, we had a great battle.{VAR BE01}\nI'm so happy to be with Pokémon!",
+        "Oh my, what a lovely Trainer!\nWhat kind of Pokémon do you have?{VAR BE01}\nOh, your {VAR 0101 0000}...{VAR BE01}",
+        "It's very friendly toward you!\nIt must be happy with you.",
+        "It's a little bit friendly to you...\nSomething like that.",
+        "Hmmm...\nIt may still take some time.",
+        "Fwish fwish!",
+        "Pwoof...",
+        "Pokémon you get through trades\ngrow up fast. But be careful!{VAR BE01}\nIf a traded Pokémon grows up too much,\nit won't listen to you.{VAR BE01}\nBut if you have a lot of Badges, you'll\nbe OK."
+    ],
+    "pad": "f4f4"
+}

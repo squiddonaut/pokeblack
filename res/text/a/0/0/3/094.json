@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "A sports game, like baseball or football,\nstarts at a certain time every day.{VAR BE01}\nThat's in Big Stadium!",
+        "In the Small Court, you can find games of\nbasketball and tennis.",
+        "Oh...?{VAR BE01}\nOh, my!{VAR BE01}\nYour {VAR 0101 0000} seems to like you!{VAR BE01}\nThat's so nice to see. Makes me want\nto give you this!{VAR BE01}",
+        "If a Pokémon holds a Soothe Bell, it will\nbecome more friendly to you.",
+        "Oh...?{VAR BE01}\nOh, my!{VAR BE01}\nYour {VAR 0101 0000}'s feelings\ntoward you seem to be neutral.{VAR BE01}\nIf you can win its friendship,\nI will give you something nice!"
+    ]
+}

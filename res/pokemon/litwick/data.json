@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GHOST", "TYPE_FIRE" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_AMORPHOUS", "EGG_GROUP_AMORPHOUS" ],
-    "abilities": [ "ABILITY_FLASH_FIRE", "ABILITY_FLAME_BODY" ],
-    "unk_1A": 23,
+    "abilities": [
+        "ABILITY_FLASH_FIRE",
+        "ABILITY_FLAME_BODY",
+        "ABILITY_SHADOW_TAG"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_WHITE",
     "flip_sprite": true,
-    "unk_22": 55,
+    "base_exp_reward": 55,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_EMBER" ],
@@ -102,7 +105,7 @@
             "MOVE_CLEAR_SMOG"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -114,5 +117,16 @@
         "height": 3,
         "weight": 31
     },
-    "offspring": "SPECIES_LITWICK"
+    "offspring": "SPECIES_LITWICK",
+    "text": {
+        "70": "Litwick",
+        "235": "While shining a light and pretending\nto be a guide, it leeches off the life\nforce of any who follow it.",
+        "236": "Litwick shines a light that absorbs the\nlife energy of people and Pokémon,\nwhich becomes the fuel that it burns.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Candle Pokémon",
+        "268": "6.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Litwick",
+        "284": "LITWICK"
+    }
 }

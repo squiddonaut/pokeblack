@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Repel's effect wore off...",
+        "There appears to be nothing here...",
+        "The sweet scent faded for\nsome reason...",
+        "Landed a Pokémon!{VAR BE01}",
+        "Not even a nibble...{VAR BE01}",
+        "Reeled it in too quickly!{VAR BE01}",
+        "Reeled it in too late!{VAR BE01}",
+        "{VAR 0100 0000} warped to the Entralink!{VAR BE01}",
+        "You can't warp to the Entralink here!",
+        "You can't warp because there is a\nmission going on at the Entralink.",
+        "You can't warp to the Entralink because\nyou are connecting with someone.",
+        "Participating in an ongoing mission\nat the Entralink!{VAR BE00}\nYou'll return here after the mission.{VAR BE01}\nYou will warp to another person's \nEntralink to participate in the mission!{VAR BE01}",
+        "The connection has been lost."
+    ]
+}

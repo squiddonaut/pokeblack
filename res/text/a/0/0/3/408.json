@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "entries": [
+        "If you wreck Great Landorus's little\nshrine, it'll cause a bad bad storm!{VAR BE01}",
+        "That's not true!{VAR BE01}\nThe Pokémon that brings bad\nthunderstorms is a different Pokémon!{VAR BE01}",
+        "That's not true!{VAR BE01}\nThe Pokémon that brings bad windstorms\nis a different Pokémon!{VAR BE01}",
+        "No, silly, you've got it wrong!{VAR BE01}",
+        "This is a shrine for Great Landorus. It\npunished a Pokémon that did a bad thing!{VAR BE01}\nIf you wreck the shrine, it can't punish\nthat stormy Pokémon if it comes back!{VAR BE01}",
+        "But that doesn't make any sense!{VAR BE01}\nIf a Pokémon does a bad thing,\nGreat Landorus will come to help us,{VAR BE00}\nwhether it has a shrine or not!{VAR BE01}\nYou're the silly one!{VAR BE01}",
+        "No, YOU'RE silly! Hey, wait!{VAR BE01}",
+        "This little shrine is dedicated to a\nPokémon called Landorus.{VAR BE01}\nThey say that when Tornadus and\nThundurus were whipping up storms that{VAR BE00}\ndamaged houses and fields all over the{VAR BE00}\nUnova region, Landorus made them stop.{VAR BE01}",
+        "That's a story from way long ago, when\nmy grandpa was a little boy.{VAR BE01}",
+        "So if Tornadus and Thundurus come here\nagain, Great Landorus may come back.{VAR BE01}",
+        "That's what my grandpa told me!",
+        "It's a small, weathered shrine.",
+        "It's a small, weathered shrine.{VAR BE01}",
+        "Tornadus and Thundurus are struggling\ninside their Poké Balls!{VAR BE01}",
+        "Karamukukuk!",
+        "Landorus flew far away into the sky..."
+    ]
+}

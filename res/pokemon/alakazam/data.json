@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_PSYCHIC" ],
     "catch_rate": 50,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_TWISTEDSPOON"
+        "rare": "ITEM_TWISTEDSPOON",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_25",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_SYNCHRONIZE", "ABILITY_INNER_FOCUS" ],
-    "unk_1A": 98,
+    "abilities": [
+        "ABILITY_SYNCHRONIZE",
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_MAGIC_GUARD"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 221,
+    "base_exp_reward": 221,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TELEPORT" ],
@@ -98,11 +101,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 15,
         "weight": 480
     },
-    "offspring": "SPECIES_ABRA"
+    "offspring": "SPECIES_ABRA",
+    "text": {
+        "70": "Alakazam",
+        "235": "The spoons clutched in its hands\nare said to have been created by\nits psychic powers.",
+        "236": "The spoons clutched in its hands\nare said to have been created by\nits psychic powers.",
+        "244": "",
+        "245": "4'11\"",
+        "260": "Psi Pokémon",
+        "268": "105.8 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Alakazam",
+        "284": "ALAKAZAM"
+    }
 }

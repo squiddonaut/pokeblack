@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "entries": [
+        "You can call me the Judge.{VAR BE01}\nHeh heh, that's actually not my real\nname, but it's what everyone calls me.{VAR BE01}\nIt's because of this weird power I have.\nIt's a gift, really.{VAR BE01}\nI can discern--judge, you might say--the\noverall potential of individual Pokémon.{VAR BE01}\nIf you'd like, I could judge the\nintriguing potential of your Pokémon.{VAR BE01}",
+        "If you'd like, I could judge the\nintriguing potential of your Pokémon.{VAR BE01}",
+        "...Oh?\nYou don't need me to judge. I get it.",
+        "Judge an Egg?!\nThat's a tall order even for me!",
+        "I see, I see...{VAR BE01}\nThis Pokémon's potential is\ndecent all around.{VAR BE01}\nThat's my determination, and it's final.{VAR BE01}",
+        "I see, I see...{VAR BE01}\nThis Pokémon's potential is\nabove average overall.{VAR BE01}\nThat's my determination, and it's final.{VAR BE01}",
+        "I see, I see...{VAR BE01}\nThis Pokémon has\nrelatively superior potential overall.{VAR BE01}\nThat's my determination, and it's final.{VAR BE01}",
+        "I see, I see...{VAR BE01}\nThis Pokémon has\noutstanding potential overall.{VAR BE01}\nThat's my determination, and it's final.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its HP.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its Attack stat.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its Defense stat.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its Sp. Atk stat.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its Sp. Def stat.{VAR BE01}",
+        "Incidentally, I would say the best\npotential lies in its Speed stat.{VAR BE01}",
+        "And its Attack stat\nis also good.{VAR BE01}",
+        "I see. Its Defense stat\nis also good.{VAR BE01}",
+        "Its Sp. Atk stat\nis equally good.{VAR BE01}",
+        "Its Sp. Def stat\nis good as well.{VAR BE01}",
+        "Well, its Speed stat\nis also good.{VAR BE01}",
+        "It's rather decent in that regard.\nThat's how I judged it.",
+        "It's very good in that regard.\nThat's how I judged it.",
+        "It's fantastic in that regard.\nThat's how I judged it.",
+        "It can't be better in that regard.\nThat's how I judged it."
+    ],
+    "pad": "7474"
+}

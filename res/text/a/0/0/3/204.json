@@ -1,0 +1,12 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi! We're the Nugget brothers.\nI am the big brother.{VAR BE01}",
+        "And I am the little brother\nof the Nugget brothers!{VAR BE01}",
+        "Glad you showed up!\nI want to give you this.{VAR BE01}",
+        "I want to give you this, too.{VAR BE01}",
+        "That's a Nugget!{VAR BE01}\nHow'd it get so golden without\ndeep-frying? Trade secret!",
+        "Nuggetaboutit!"
+    ],
+    "pad": "5050"
+}

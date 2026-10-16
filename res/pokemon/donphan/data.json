@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GROUND", "TYPE_GROUND" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_PASSHO_BERRY"
+        "rare": "ITEM_PASSHO_BERRY",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_NONE" ],
-    "unk_1A": 8,
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_NONE",
+        "ABILITY_SAND_VEIL"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
-    "unk_22": 175,
+    "base_exp_reward": 175,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_FIRE_FANG" ],
@@ -87,11 +90,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 11,
         "weight": 1200
     },
-    "offspring": "SPECIES_PHANPY"
+    "offspring": "SPECIES_PHANPY",
+    "text": {
+        "70": "Donphan",
+        "235": "It attacks by curling up, then\nrolling into its foe. It can blow\napart a house in one hit.",
+        "236": "It attacks by curling up, then\nrolling into its foe. It can blow\napart a house in one hit.",
+        "244": "",
+        "245": "3'07\"",
+        "260": "Armor Pokémon",
+        "268": "264.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Donphan",
+        "284": "DONPHAN"
+    }
 }

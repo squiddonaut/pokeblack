@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "You know, there are people in the world\nwith many different values.{VAR BE01}",
+        "Some people enjoy things you might not\nthink are fun...{VAR BE01}\nHaving a lot of different values in the\nworld makes it a richer place.{VAR BE00}\nThat's what I think, anyway.{VAR BE01}",
+        "I really enjoy traveling around the world\nand talking with different people, but{VAR BE00}\nthe woman who lives here seems to think{VAR BE00}\nliving quietly by herself is important.{VAR BE01}",
+        "Growwwwf!",
+        "So this was Zoroark's home, then!{VAR BE01}",
+        "Zoroark was using its illusion to\ntrick people and Pokémon. It{VAR BE00}\nwanted to keep people away from its lair.{VAR BE01}\nI heard this place was suspicious, so I\ncame to have a look, but it looks like I{VAR BE00}\nwas tricked as well.{VAR BE01}",
+        "Zoroark really reacted strongly to the\nPokémon you have with you...{VAR BE01}\nThere must be some history there.\nA quarrel, or something.{VAR BE01}",
+        "Such a beautiful field, in a place\nlike this...{VAR BE01}\nIt's almost as if this lovely scenery is\nthe illusion!{VAR BE01}",
+        "The suspicious woman attacked!{VAR BE01}",
+        "The Pokémon vanished deep into\nthe forest..."
+    ],
+    "pad": "bcbc"
+}

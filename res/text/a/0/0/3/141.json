@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "The Pokémon League is a place where you\nboth pursue strength and express it.{VAR BE01}\nThe way to express it is simple...{VAR BE01}\nYou just have to beat the Elite Four and\nthe Champion!{VAR BE01}\nYou can start your challenge by battling\nany of the Elite Four, and if you defeat{VAR BE00}\nthem all, you can challenge the Champion!{VAR BE01}\nHowever! I warn you, once you start\nyour challenge, there's no turning back.{VAR BE01}\nYou must keep battling until you defeat\nthem all...or are defeated yourself.{VAR BE01}\nDo you want to go in?",
+        "Once you start your challenge,\nyou cannot leave until you win against all{VAR BE00}\nor lose! Do you want to go in?",
+        "Then, proceed!{VAR BE01}",
+        "Don't neglect preparation!{VAR BE01}\nGo through the entrance there, and\nprepare as much as possible. Make sure{VAR BE00}\nyour Pokémon are fully recovered!{VAR BE01}",
+        "The Pokémon League is a place where you\nboth pursue strength and express it.{VAR BE01}\nThe way to express it is simple...{VAR BE01}\nYou just have to beat the Elite Four and\nthe Champion!{VAR BE01}\nYou can start your challenge by battling\nany of the Elite Four, and if you defeat{VAR BE00}\nthem all, you can challenge the Champion!{VAR BE01}\nHowever! I warn you, once you start\nyour challenge, there's no turning back.{VAR BE01}\nIf you enter, you must keep battling\nuntil you defeat them all...{VAR BE00}\nor are defeated yourself.",
+        "The Pokémon League is every Trainer's\ngreatest challenge!{VAR BE01}",
+        "You might want to prepare here.{VAR BE01}\nBecause if you lose even once,\nyou have to start all over again!{VAR BE01}",
+        "My apologies, young Trainer.{VAR BE01}\nBut you may not enter the\nPokémon League at this time.{VAR BE01}"
+    ],
+    "pad": "3a3a"
+}

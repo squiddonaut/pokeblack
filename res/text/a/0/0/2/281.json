@@ -1,0 +1,5 @@
+{
+    "flags": 256,
+    "pad": "3232",
+    "tail": [ "{VAR BD01}an {VAR FF00 00FF}Egg", "{VAR BD01}an {VAR FF00 00FF}Egg" ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_FIGHTING", "TYPE_FIGHTING" ],
     "catch_rate": 45,
-    "unk_09": 3,
+    "evolution_stage": 3,
     "ev_yields": {
         "hp": 0,
         "attack": 3,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_25",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_HUMAN_LIKE", "EGG_GROUP_HUMAN_LIKE" ],
-    "abilities": [ "ABILITY_GUTS", "ABILITY_SHEER_FORCE" ],
-    "unk_1A": 89,
+    "abilities": [
+        "ABILITY_GUTS",
+        "ABILITY_SHEER_FORCE",
+        "ABILITY_IRON_FIST"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 227,
+    "base_exp_reward": 227,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POUND" ],
@@ -97,11 +100,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 14,
         "weight": 870
     },
-    "offspring": "SPECIES_TIMBURR"
+    "offspring": "SPECIES_TIMBURR",
+    "text": {
+        "70": "Conkeldurr",
+        "235": "They use concrete pillars as walking\ncanes. They know moves that enable them\nto swing the pillars freely in battle.",
+        "236": "It is thought that Conkeldurr taught\nhumans how to make concrete more\nthan 2,000 years ago.",
+        "244": "",
+        "245": "4'07\"",
+        "260": "Muscular Pokémon",
+        "268": "191.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Conkeldurr",
+        "284": "CONKELDURR"
+    }
 }

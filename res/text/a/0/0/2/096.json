@@ -1,0 +1,26 @@
+{
+    "flags": 205,
+    "entries": [
+        "Please!\n{VAR 011C 0000}",
+        "Go! {VAR 011C 0000}!",
+        "I'll battle with\n{VAR 011C 0000}!",
+        "{VAR 011C 0000} is\n{VAR 011C 0001}, right?",
+        "{VAR 011C 0000}, I'm going\nwith {VAR 011C 0001}!",
+        "In comes {VAR 011C 0000}.",
+        "Watch my {VAR 011C 0000} power\ntake care of {VAR 011C 0001}!",
+        "Now {VAR 011C 0000}\nbegins!",
+        "I'll show you my\n{VAR 011C 0000} strategy!",
+        "I'll shock you with\n{VAR 011C 0000}!",
+        "{VAR 011C 0000}, I see...\nGo, {VAR 011C 0001}!",
+        "Ta-da!\nHere comes {VAR 011C 0000}!",
+        "I don't think I'll\never lose to {VAR 011C 0000}!",
+        "{VAR 011C 0000}!\n{VAR 011C 0001} is here!",
+        "Good luck,\n{VAR 011C 0000}!",
+        "Behold my {VAR 011C 0000}\n{VAR 011C 0001}!",
+        "The power of {VAR 011C 0000}!\nLet me show you!",
+        "You'll choose {VAR 011C 0000} \nif I choose {VAR 011C 0001}, right?",
+        "I beg you, {VAR 011C 0000}.\nPlease go with {VAR 011C 0001}!",
+        "May {VAR 011C 0000} safely\nland on {VAR 011C 0001}!"
+    ],
+    "pad": "7272"
+}

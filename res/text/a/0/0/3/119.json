@@ -1,0 +1,19 @@
+{
+    "flags": 224,
+    "entries": [
+        "You appear ready to face a Gym Leader.\nThen...{VAR BE01}\nBring it!{VAR BE01}",
+        "In honor of your stout heart,\nI will give you this.{VAR BE01}",
+        "{VAR 0100 0000} received\nthe Freeze Badge from Brycen!{VAR BE01}",
+        "You have seven Badges.{VAR BE01}\nThat means Pokémon up to Lv. 80\nwill obey you.{VAR BE01}\nThis TM will convey my regard\nfor your accomplishments.{VAR BE01}",
+        "A move that always results in\na critical hit: Frost Breath.",
+        "No matter how many battles I fight,\nI don't know what strength is.{VAR BE01}\nPerhaps you can find the answer.",
+        "Only those who are weak need to\nflaunt their strength.",
+        "Brycen: In the past, when I was hurt and\ndepressed, Alder shared this with me...{VAR BE01}\nThere is strength in being with other\npeople and Pokémon. Receiving their{VAR BE00}\nsupport makes you stronger.{VAR BE01}\nThe young man named Cheren\nalso seems to understand this now.",
+        "Please take this Fresh Water!{VAR BE01}",
+        "Ice can be melted with Fire\nor shattered with Fighting.{VAR BE01}\nOr you might want to smash it\ninto dust with Rock or Steel.",
+        "From Brycen, I've learned how to\nsay more with fewer words.",
+        "Icirrus Pokémon Gym{VAR BE01}\nGym Leader: Brycen\nCertified Trainers:",
+        "Icirrus Pokémon Gym{VAR BE01}\nGym Leader: Brycen\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Icirrus Pokémon Gym{VAR BE01}\nGym Leader: Brycen\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca"
+    ]
+}

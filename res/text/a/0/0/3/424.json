@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome!\nMay I help you?",
+        "Welcome to the Technical Machine\ndepartment! May I help you?",
+        "Is there anything else I may do\nfor you?",
+        "Please come again!",
+        "Hello!{VAR BE01}",
+        {
+            "text": "Buy",
+            "flags": 219
+        },
+        {
+            "text": "Sell",
+            "flags": 219
+        },
+        {
+            "text": "No thanks!",
+            "flags": 219
+        },
+        "Welcome to the\nExchange Service Corner!{VAR BE01}\nWould you like to trade in your BP\nfor some fabulous prizes?",
+        "Please save some BP\nand come see us again."
+    ],
+    "pad": "8484"
+}

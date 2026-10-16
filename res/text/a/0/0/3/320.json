@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Back home, I'm a boy.\nBut when I looked at a mirror earlier...{VAR BE01}\nWhy? Why did I become like this?!\nIs this also a power of the Entralink?",
+        "Hmmm. I came back here again.\nI was fast asleep until a while ago.{VAR BE01}\nMaybe this is a dream world.\nA dream world is always black and white.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "5454"
+}

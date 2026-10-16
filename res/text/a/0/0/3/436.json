@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "entries": [
+        "Professor Juniper: Ah, {VAR 0100 0000}!\nThere you are!{VAR BE01}\nTraveling with your Pokémon is truly one\nof the joys of being a Trainer!{VAR BE01}\nPlease follow me.{VAR BE01}\nI'd like to show you the most important\nplace for a Trainer to know!{VAR BE01}",
+        "Please listen, everyone.{VAR BE01}\nWe have something important to talk\nto you about. Wait here for a moment.",
+        "Please excuse me...\nWe are still preparing.{VAR BE01}\nIf you could continue to be patient...",
+        "Please excuse me...\nWe are still preparing.{VAR BE01}\nIf you could continue to be patient...{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cheren: Wasn't that the professor\nwaiting in front of the Pokémon Center?{VAR BE01}\nI know about the Pokémon Center\nalready. Anyway, I want to battle soon!{VAR BE01}\nReal battles are the best way to become\nstronger, you know!",
+        "Sounds like something's going\non in the plaza!{VAR BE01}",
+        "Well, let's have a little look-see.{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, come here a sec.{VAR BE01}",
+        "My name is Ghetsis.{VAR BE01}\nI am here representing Team Plasma.{VAR BE01}\nToday, ladies and gentlemen, I would like\nto talk to you about Pokémon liberation.",
+        {
+            "text": "Huh?",
+            "flags": 126
+        },
+        {
+            "text": "What?",
+            "flags": 126
+        },
+        "Ghetsis: I'm sure most of you believe\nthat we humans and Pokémon are partners{VAR BE00}\nthat have come to live together because{VAR BE00}\nwe want and need each other.{VAR BE01}\nHowever...\nIs that really the truth?{VAR BE01}\nHave you ever considered that perhaps\nwe humans...{VAR BE00}\nonly assume that this is the truth?{VAR BE01}",
+        "Pokémon are subject to the selfish\ncommands of Trainers...{VAR BE01}\nThey get pushed around when they are\nour “partners\" at work...{VAR BE01}\nCan anyone say with confidence that\nthere is no truth in what I'm saying?",
+        {
+            "text": "Yikes!",
+            "flags": 126
+        },
+        {
+            "text": "No way.",
+            "flags": 126
+        },
+        {
+            "text": "I don't know...",
+            "flags": 126
+        },
+        "Ghetsis: Now, ladies and gentlemen,\nPokémon are different from humans.{VAR BE01}\nThey are living beings that contain\nunknown potential.{VAR BE01}\nThey are living beings from whom we\nhumans have much to learn.{VAR BE01}\nTell me, what is our responsibility toward\nthese wonderful beings called Pokémon?",
+        {
+            "text": "What could it be?",
+            "flags": 126
+        },
+        {
+            "text": "Liberation?",
+            "flags": 126
+        },
+        "Ghetsis: That's right!\nWe must liberate the Pokémon!{VAR BE01}\nThen, and only then, will humans\nand Pokémon truly be equals.{VAR BE01}\nEveryone, I end my words here today by\nimploring you to consider the relationship{VAR BE00}\nbetween people and Pokémon...{VAR BE00}\nand the correct way to proceed.{VAR BE01}\nWe sincerely appreciate your attention.{VAR BE01}",
+        "Older Man: About that speech...\nWhat do you think we should do?{VAR BE01}",
+        "Younger Man: Liberate Pokémon?\nThat's not even possible!{VAR BE01}",
+        "???: {VAR BE09 0001}Your Pokémon...{VAR BE01}\nJust now, it was saying...{VAR BE09 0000}{VAR BE01}",
+        "Cheren: Slow down. You talk too fast.{VAR BE01}\nAnd what's this about Pokémon...talking?\nThat's an odd thing to say.{VAR BE01}",
+        "???: {VAR BE09 0001}Yes, they're talking.{VAR BE01}\nOh.\nThen, you two can't hear it, either...{VAR BE00}\nHow sad.{VAR BE01}\nMy name is N.{VAR BE09 0001}{VAR BE01}",
+        "Cheren: My name is Cheren,\nand this is {VAR 0100 0000}.{VAR BE01}\nWe were asked to complete the Pokédex,\nand we just left on our journey.{VAR BE01}\nMy main goal is to become the\nChampion, though.{VAR BE01}",
+        "N: {VAR BE09 0001}The Pokédex, eh?{VAR BE01}\nSo... You're going to confine many, many\nPokémon in Poké Balls for that, then.{VAR BE01}\nI'm a Trainer, too,\nbut I can't help wondering...{VAR BE01}\nAre Pokémon really happy that way?{VAR BE09 0000}{VAR BE01}",
+        "{VAR BE09 0001}Well, {VAR 0100 0000}, is it?\nLet me hear your Pokémon's voice again!{VAR BE09 0000}{VAR BE01}",
+        "N: {VAR BE09 0001}As long as Pokémon are confined\nin Poké Balls...{VAR BE01}\nPokémon will never become\nperfect beings.{VAR BE01}\nI have to change the world for\nPokémon, because they're my friends.{VAR BE09 0000}{VAR BE01}",
+        "Cheren: Huh... Strange guy.{VAR BE01}\nBut I'm not going to worry about it.{VAR BE01}\nTrainers and Pokémon help\neach other out!{VAR BE01}\nListen, I'm going on ahead.{VAR BE01}\nI want to battle the Gym Leader\nin the next town--Striaton City.{VAR BE01}\nAim to battle Gym Leader after\nGym Leader. The best way for a Trainer{VAR BE00}\nto become stronger is to challenge{VAR BE00}\nthe Gym Leaders in each area.{VAR BE01}",
+        "What's this?{VAR BE01}\nYou and your Pokémon\nsomehow resemble each other!",
+        "Let me give you the benefit of\nmy experience.{VAR BE01}\nYou listening? The number of Pokémon\nyou can take with you at one time is six!",
+        "Pokémon do everything in\ntheir power for people.{VAR BE01}\nPeople treat these Pokémon\nwith love and affection.{VAR BE01}\nThat's what I think our\nmutual relationship is.",
+        "Beautiful scenery and relaxing sounds...{VAR BE01}\nOh, man. I sure do loooove this place.\nSure makes me feel happy.",
+        "Some wild Pokémon jump out of the\ntall grass and attack...{VAR BE01}\nBut you can make friends with those\nPokémon if you reach out to them!",
+        {
+            "text": "Accumula Town\nThe Fast-Growing Town!",
+            "flags": 207
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "b8b8"
+}

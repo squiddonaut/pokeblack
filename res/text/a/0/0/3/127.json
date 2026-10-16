@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "The slow passage of time in\nOpelucid City...{VAR BE00}\nIt fits an old woman like me perfectly.",
+        "In Opelucid City, you can spend your\ndays in leisure and opulence...",
+        "Sometimes, I think this...{VAR BE01}\nThere could be another world, where\na person who looks just like me{VAR BE00}\nlives in a completely different way...",
+        "I imagine that even the exact same\nperson would change a lot by living in a{VAR BE00}\ndifferent world."
+    ],
+    "pad": "7676"
+}

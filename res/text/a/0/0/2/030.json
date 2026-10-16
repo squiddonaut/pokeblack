@@ -1,0 +1,79 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0200 0000} more needed.",
+            "flags": 144
+        },
+        {
+            "text": "Up to {VAR 0200 0000} more allowed.",
+            "flags": 144
+        },
+        {
+            "text": "Seeking Multi Battle participants!",
+            "flags": 224
+        },
+        {
+            "text": "Seeking Musical participants!",
+            "flags": 224
+        },
+        {
+            "text": "Seeking Battle Subway participants!",
+            "flags": 224
+        },
+        {
+            "text": "{VAR 0100 0000}{VAR BD05 0046}ID: {VAR 0204 0001}",
+            "flags": 144
+        },
+        "Awaiting participating members...\nB Button: Cancel",
+        "When the group is ready:\nA Button: Proceed   B Button: Cancel",
+        "{VAR 0100 0000} has contacted you.\nAdd to your group?",
+        "Is this group OK?",
+        "Will you cancel Multi Battle?",
+        "Will you cancel the Musical?",
+        "Will you cancel Battle Subway?",
+        "If the leader drops out, the group will\nbe disbanded. Is that OK?",
+        "Multi Battle will be\ncanceled.",
+        "The Musical will be\ncanceled.",
+        "Battle Subway will be\ncanceled.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "There are no members.\nMulti Battle will be canceled.",
+        "Please wait.\nB Button: Cancel",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "There appears to be a problem.\nMulti Battle will be canceled.{VAR BE02 003C}",
+        "There appears to be a problem.\nThe Musical will be canceled.{VAR BE02 003C}",
+        "There appears to be a problem.\nBattle Subway will be canceled.{VAR BE02 003C}",
+        {
+            "text": "{VAR 0201 0000}:",
+            "flags": 163
+        },
+        {
+            "text": "{VAR 0201 0000}:{VAR 0100 0001}{VAR BD05 006A}ID: {VAR 0204 0002}",
+            "flags": 163
+        },
+        "Choose the Musical you would\nlike to join.",
+        "Choose the Battle Subway you would\nlike to join.",
+        "The members have gathered.\nPlease enter the room.",
+        "{VAR 0100 0000} refused...{VAR BE02 003C}",
+        "Awaiting {VAR 0100 0000}'s response...\nB Button: Cancel",
+        "{VAR 0100 0000} replied, “OK.\"",
+        "Please wait.\nB Button: Cancel",
+        "Do you want to leave the group?",
+        "There appears to be a problem...{VAR BE02 003C}"
+    ],
+    "pad": "7070"
+}

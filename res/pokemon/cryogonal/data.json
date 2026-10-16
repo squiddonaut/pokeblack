@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ICE", "TYPE_ICE" ],
     "catch_rate": 25,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NEVERMELTICE"
+        "rare": "ITEM_NEVERMELTICE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_NO_GENDER",
     "hatch_cycles": 25,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_LEVITATE", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 170,
+    "base_exp_reward": 170,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_BIND" ],
@@ -86,11 +89,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 11,
         "weight": 1480
     },
-    "offspring": "SPECIES_CRYOGONAL"
+    "offspring": "SPECIES_CRYOGONAL",
+    "text": {
+        "70": "Cryogonal",
+        "235": "They are born in snow clouds.\nThey use chains made of\nice crystals to capture prey.",
+        "236": "When its body temperature goes up, it\nturns into steam and vanishes. When its\ntemperature lowers, it returns to ice.",
+        "244": "",
+        "245": "3'07\"",
+        "260": "Crystallizing Pokémon",
+        "268": "326.3 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Cryogonal",
+        "284": "CRYOGONAL"
+    }
 }

@@ -1,0 +1,25 @@
+{
+    "flags": 205,
+    "entries": [
+        "Hello!\n{VAR 011C 0000}!",
+        "I am {VAR 011C 0000}!\nI'm pleased to meet you.",
+        "I love {VAR 011C 0000}!\nI love {VAR 011C 0001}, too!",
+        "My favorite {VAR 011C 0000} is\n{VAR 011C 0001}!",
+        "What's your favorite\n{VAR 011C 0000}?",
+        "I can do anything for\n{VAR 011C 0000}!",
+        "Is {VAR 011C 0000}\n{VAR 011C 0001}?",
+        "What do you think of\n{VAR 011C 0000}?",
+        "Do you think {VAR 011C 0000}\ncan {VAR 011C 0001}?",
+        "{VAR 011C 0000} is so\n{VAR 011C 0001}!",
+        "{VAR 011C 0000} bothers me.",
+        "After all, it's {VAR 011C 0000},\nisn't it?",
+        "{VAR 011C 0000} is the real\n{VAR 011C 0001}!",
+        "Did you know that {VAR 011C 0000}\nis {VAR 011C 0001}?",
+        "{VAR 011C 0000} is the reason\nfor {VAR 011C 0001}.",
+        "Have you heard of\n{VAR 011C 0000}?",
+        "{VAR 011C 0000} is actually\n{VAR 011C 0001}.",
+        "Recently, {VAR 011C 0000}\nseems {VAR 011C 0001}.",
+        "I wonder if\n{VAR 011C 0000} is yummy...",
+        "I never miss {VAR 011C 0000}.\nIt's part of what I do every day."
+    ]
+}

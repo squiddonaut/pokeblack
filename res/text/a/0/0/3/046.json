@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Your favorite is {VAR 0101 0000}, isn't it?",
+        "Your favorite is that Egg, isn't it?",
+        "Yes, I was right! I thought so!",
+        "What? Your favorite isn't {VAR 0101 0000}?!",
+        "...Oh? Your favorite really is that Egg,\nisn't it?",
+        "I want to know\neveryone's favorite kind of Pokémon!",
+        "When you're tired, take a rest!\nIt's the same for people and Pokémon.",
+        "Wanna recover Pokémon?\nOh, soooooorry!{VAR BE01}",
+        "Do you know Geonet?",
+        "You! You, using Geonet! Great!\nI tell you this in confidence.{VAR BE01}\nWith the latest technology, we can trade\nPokémon with people far away!{VAR BE01}\n...I know it sounds crazy,\nbut give it a try. You'll be surprised!",
+        "Oh! You know Geonet!\nGreat, great!{VAR BE01}\nThis is even greater, lemme tell ya!{VAR BE01}\nIf you try Geonet, you can register\nthe place where you live!",
+        "You see the globe on the second floor\nof this Pokémon Center?{VAR BE01}\nThat is Geonet.{VAR BE01}\nIf you check on Geonet, you can register\nthe place where you live!"
+    ],
+    "pad": "fcfc"
+}

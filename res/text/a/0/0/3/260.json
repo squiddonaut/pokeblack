@@ -1,0 +1,12 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "Oh?{VAR BE01}",
+            "flags": 224
+        },
+        "{VAR 0101 0000} hatched from the Egg!",
+        "Would you like to give a nickname to the\nnewly hatched {VAR 0101 0000}?"
+    ],
+    "pad": "6060"
+}

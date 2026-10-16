@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_NORMAL" ],
     "catch_rate": 150,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 1,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_75",
     "hatch_cycles": 10,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_FAST",
     "egg_groups": [ "EGG_GROUP_UNDISCOVERED", "EGG_GROUP_UNDISCOVERED" ],
-    "abilities": [ "ABILITY_THICK_FAT", "ABILITY_HUGE_POWER" ],
-    "unk_1A": 157,
+    "abilities": [
+        "ABILITY_THICK_FAT",
+        "ABILITY_HUGE_POWER",
+        "ABILITY_SAP_SIPPER"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 38,
+    "base_exp_reward": 38,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SPLASH" ],
@@ -81,7 +84,7 @@
             "MOVE_MUDDY_WATER"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_HAPPINESS", "SPECIES_MARILL" ]
     ],
@@ -89,5 +92,16 @@
         "height": 2,
         "weight": 20
     },
-    "offspring": "SPECIES_AZURILL"
+    "offspring": "SPECIES_AZURILL",
+    "text": {
+        "70": "Azurill",
+        "235": "Its tail bounces like a rubber ball.\nIt flings that tail around to fight\nopponents bigger than itself.",
+        "236": "Its tail bounces like a rubber ball.\nIt flings that tail around to fight\nopponents bigger than itself.",
+        "244": "",
+        "245": "0'08\"",
+        "260": "Polka Dot Pokémon",
+        "268": "4.4 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Azurill",
+        "284": "AZURILL"
+    }
 }

@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: Stop!{VAR BE01}\n{VAR 0100 0000}!{VAR BE01}",
+        "Drayden and Professor Juniper told me.\nYou're heading for the{VAR BE00}\nPokémon League, right?",
+        "Cheren: Since it's Alder...\nSince it's the Champion,{VAR BE00}\nI think it will be all right.{VAR BE01}\nWorst-case scenario...\nyou'll be battling Team Plasma's boss, N.{VAR BE01}\nI need to know if you can handle it!{VAR BE01}",
+        "Cheren: Now is not the time for modesty.{VAR BE01}\nWorst-case scenario, you'll be battling\nTeam Plasma's boss, N!{VAR BE01}\nI need proof you can handle it!{VAR BE01}",
+        "Cheren: Yep, you are something else.\nAnd I mean that sincerely.{VAR BE01}\nRight. Now, I have to make\nyour Pokémon healthy.{VAR BE01}",
+        "Cheren fully healed\n{VAR 0100 0000}'s Pokémon!",
+        "Cheren: Right now, there's no way\nI can compete with you, {VAR 0100 0000}.{VAR BE01}\nIf there is anything I can do to help in\nthe battle with N, just say so...{VAR BE01}",
+        "Bianca: {VAR 0100 0000}...{VAR BE01}\nThere's not much I can do to help you,\nbut I want you to have these!{VAR BE01}",
+        "Bianca: Still, it's kind of funny.\nEveryone's so different.{VAR BE01}",
+        "Cheren: Funny?\nAt a time like this...{VAR BE01}",
+        "Bianca: Come on, Cheren.\nCould you smile just for once?{VAR BE01}\nTaking everything so seriously all the\ntime isn't going to change anything.{VAR BE01}\nYou know... Since we've met our Pokémon\nand walked the same roads together,{VAR BE00}\na lot has happened...{VAR BE00}\nWe've all changed a lot!{VAR BE01}\nWe found out that the things we want\nto do and the things we can do{VAR BE00}\nare different for each of us, right?{VAR BE01}\nThat's what's made our journey\nso worth it.{VAR BE00}\nSomehow, all this just makes me happy.{VAR BE01}",
+        "Cheren: ...So that's what you mean.{VAR BE01}\n...You are right that we're all different\nand we should do the things{VAR BE00}\nthat we can do.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cheren: There are as many\ntruths and ideals as there{VAR BE00}\nare people and Pokémon.{VAR BE01}\nThe most important thing is\nthat we help one another out.{VAR BE01}\nThat's why people and Pokémon\nare always by each other's side.{VAR BE00}\nThat's what I've come to think lately...{VAR BE01}\n{VAR 0100 0000}!\nIf anything happens to you or Alder,{VAR BE00}\nI will do everything I can to help you.{VAR BE01}\nThat's why I have to keep training and\ngetting stronger.{VAR BE00}\nJust...don't be reckless, OK?{VAR BE01}",
+        "Bianca: He's gone.{VAR BE01}",
+        "{VAR 0100 0000}!{VAR BE01}\nMe, too! I'll do my best to help if I can!{VAR BE01}\nSo...\nUmm...{VAR BE01}\nI wish I could say something, like,\ntotally inspiring, you know?{VAR BE01}\nUmm...\nOK... Best foot forward!{VAR BE01}",
+        "You made it this far. Well done.\nThat's an impressive accomplishment.{VAR BE01}\nTo show the respect I feel for you,\nI would like to present you with this gift.{VAR BE01}",
+        "It's a Dusk Stone.\nThis item makes certain Pokémon evolve.{VAR BE01}\nI used one to evolve a Lampent\nfrom the Celestial Tower.",
+        {
+            "text": "Route 10",
+            "flags": 207
+        },
+        {
+            "text": "Badge Check Gates\nOpen the gates and change history!",
+            "flags": 207
+        }
+    ]
+}

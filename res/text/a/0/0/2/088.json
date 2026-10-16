@@ -1,0 +1,29 @@
+{
+    "flags": 232,
+    "entries": [
+        "It will forget the saying it knows\nnow. Is that OK?",
+        "Press the A Button, then speak\ninto the microphone.{VAR BE01}",
+        "{VAR 0102 0000} learned a new saying!{VAR BE01}",
+        "{VAR 0102 0000} failed to learn a\nnew saying.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Preparing microphone...",
+            "flags": 224
+        },
+        {
+            "text": "YES",
+            "flags": 42
+        },
+        {
+            "text": "NO",
+            "flags": 42
+        }
+    ]
+}

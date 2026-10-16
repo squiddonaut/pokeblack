@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "There must be a reason why the\nlandscape of Unova forms a circle!{VAR BE01}\nI was researching each area thinking\nabout that, and I ended up here.{VAR BE01}\nWhere am I?",
+        "People say the Entree Forest was much\nbigger in the past, and people were able{VAR BE00}\nto use various Pass Powers.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

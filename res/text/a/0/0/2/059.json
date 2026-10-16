@@ -1,0 +1,55 @@
+{
+    "flags": 216,
+    "entries": [
+        {
+            "text": "MAILBOX",
+            "flags": 104
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "READ",
+            "flags": 76
+        },
+        {
+            "text": "ERASE",
+            "flags": 76
+        },
+        {
+            "text": "GIVE",
+            "flags": 76
+        },
+        {
+            "text": "CANCEL",
+            "flags": 64
+        },
+        "What would you like to do with\n{VAR 0100 0000}'s Mail?",
+        "The message will be lost.\nIs that OK?",
+        "The message was erased.",
+        "Let a Pokémon hold this Mail?",
+        "The Mail's message was erased,\nand it was put in the Bag.",
+        "Your Bag is full...\nThe Mail was discarded.",
+        {
+            "text": "YES",
+            "flags": 60
+        },
+        {
+            "text": "NO",
+            "flags": 60
+        }
+    ]
+}

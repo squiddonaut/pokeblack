@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Return to Castelia City?",
+        "Well then, please board the ship!{VAR BE01}",
+        "Please board the ship\nat your convenience."
+    ],
+    "pad": "9898"
+}

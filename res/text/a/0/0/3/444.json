@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "Shall I play my favorite tune?",
+        "Hee hee! Please listen to my music.{VAR BE01}",
+        "Oh, sadness.\nWhen you feel like it, please let me know.",
+        "She is concentrating on her performance!",
+        "Do you want to listen to my drum?",
+        "My! Heart!\nAs long as my heart beats!{VAR BE00}\nI will keep! On! Drumming!!{VAR BE01}",
+        "...I thought so.",
+        "He is concentrating on his performance!",
+        "Chip kwip!"
+    ],
+    "pad": "e0e0"
+}

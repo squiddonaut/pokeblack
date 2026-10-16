@@ -1,0 +1,13 @@
+{
+    "flags": 230,
+    "entries": [
+        "What?\n{VAR 0102 0000} is evolving!",
+        "Huh? {VAR 0102 0000}\nstopped evolving!",
+        "Congratulations! Your {VAR 0102 0000}\nevolved into {VAR 0101 0001}!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "e8e8"
+}

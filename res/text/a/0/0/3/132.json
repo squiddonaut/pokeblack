@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Know what? I am a huge musical fan! ♪{VAR BE01}\nOh, you have a Prop Case! You must be\na huge musical fan, too! ♪{VAR BE01}\nWould you like a new Prop to use\nin the musical?",
+        "I am so glad! ♪ You are also a huge\nmusical fan! ♪{VAR BE01}\nYou should try putting various Props\non your Pokémon! That would be fun. ♪{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "What?{VAR BE01}\nDon't you know how cute Pokémon\nwith Props are?!",
+        "You know what? I'm a huge musical fan! ♪{VAR BE01}\nIf you come see me again tomorrow,\nI'll give you a different Prop! ♪",
+        "You know what? I'm a huge musical fan! ♪{VAR BE01}\nI want people all over the world\nto enjoy musicals. ♪",
+        "If you have a lot of Props, it makes you\nwant to put them on Pokémon.{VAR BE01}\nIf you put Props on Pokémon, it makes\nyou want to participate in a musical!{VAR BE01}\nDon't you agree?",
+        "63... 64...{VAR BE01}\nOh, I was counting all the kinds of Props\nfor musicals.{VAR BE01}\nI think there are about 100\ndifferent kinds!"
+    ]
+}

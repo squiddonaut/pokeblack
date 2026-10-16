@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Something that looks like a Pokémon nest\nis blocking the entrance.",
+        "Clay: Thanks fer waitin'.{VAR BE01}",
+        "Looks like th' nest of an Electric-type\nPokémon called Galvantula.{VAR BE01}\nDon't know why there's a nest here, but\nif there are folks havin' problems, th'{VAR BE00}\nGym Leader's th' one ta fix it.{VAR BE01}",
+        "Krokorok! Take it out!{VAR BE01}",
+        "And this here TM's yours. It's my\nfavorite TM, so ya can teach it ta all of{VAR BE00}\nyer Pokémon!{VAR BE01}",
+        "It's called Bulldoze. This move does\ndamage and lowers the Speed of any{VAR BE00}\nPokémon it hits.{VAR BE01}\nSome Ground-type Pokémon move a little\nslower than ya'd like.{VAR BE01}\nIf ya use Bulldoze right, ya can cover\nthat weakness!{VAR BE01}",
+        "I don't know how good you really are,\nbut if ya think ya can go, go wherever,{VAR BE00}\nand if ya think ya can do somethin',{VAR BE00}\nkeep doin' it.{VAR BE01}\nDo things how ya want!\nDecide yer own limits.{VAR BE01}",
+        {
+            "text": "Chargestone Cave\nA shocking experience!",
+            "flags": 207
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
     "catch_rate": 45,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_STICK"
+        "rare": "ITEM_STICK",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_KEEN_EYE", "ABILITY_INNER_FOCUS" ],
-    "unk_1A": 128,
+    "abilities": [
+        "ABILITY_KEEN_EYE",
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_DEFIANT"
+    ],
     "unk_1B": 120,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 123,
+    "base_exp_reward": 123,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POISON_JAB" ],
@@ -103,11 +106,22 @@
             "MOVE_TRUMP_CARD"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 8,
         "weight": 150
     },
-    "offspring": "SPECIES_FARFETCHD"
+    "offspring": "SPECIES_FARFETCHD",
+    "text": {
+        "70": "Farfetch'd",
+        "235": "It can't live without the stalk it\nholds. That's why it defends the\nstalk from attackers with its life.",
+        "236": "It can't live without the stalk it\nholds. That's why it defends the\nstalk from attackers with its life.",
+        "244": "",
+        "245": "2'07\"",
+        "260": "Wild Duck Pokémon",
+        "268": "33.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Farfetch'd",
+        "284": "FARFETCH'D"
+    }
 }

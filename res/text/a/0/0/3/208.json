@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: Oh... {VAR 0100 0000}!{VAR BE01}",
+        "Clay: What a surprise. Seein' ya here\nwhile I was inspectin' Twist Mountain.{VAR BE01}\nTh' two of ya seem a bit more rugged\nthan the last time I saw ya.{VAR BE01}\nA li'l bit, anyway...{VAR BE01}",
+        "Cheren: Is that so.{VAR BE01}",
+        "Clay: By th' by... You folks seen that\nTeam Plasma crowd lately?{VAR BE01}\nAfter all the trouble, we Gym Leaders\nmet up and had a chat.{VAR BE01}\nBut we've got no clue where they are.\nIt's like they're hidin' under a rock.{VAR BE01}\nWell, not much to do but wait for 'em\nto move.{VAR BE01}\nAnyhow, this's none o' yer concern.{VAR BE01}\nSquirts like the two of ya should just\nenjoy travelin' with yer Pokémon.{VAR BE01}",
+        "Twist Mountain's a fine place\nto explore!{VAR BE01}\nYou'll have some fun if you just leave\nthis here path...{VAR BE01}\nWeeell... Better ya just see it yerself,\n'stead o' listenin' to me yammer.{VAR BE01}",
+        "Be seein' ya, sprouts!{VAR BE01}\nFeel free to train yerselves on my\nmountain fer as long's ya like.{VAR BE01}",
+        "Cheren: I thought he was going to get us\ninvolved in all that bother again, so I{VAR BE00}\nwas bracing myself before I knew it.{VAR BE01}\nI'm going in first, but I'll be seeing you.{VAR BE01}"
+    ],
+    "pad": "1414"
+}

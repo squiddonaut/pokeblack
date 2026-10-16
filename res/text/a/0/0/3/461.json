@@ -1,0 +1,119 @@
+{
+    "flags": 224,
+    "entries": [
+        "I will judge your battles in a\nBattle Test!{VAR BE01}\nWhat would you like to do?",
+        "The master returns! Would you like to\nchallenge a Battle Test?",
+        "I am sorry...{VAR BE01}\nIt may be too early for you to challenge\na Battle Test.{VAR BE01}\nPlease come back after you finish\nyour journey and build your strength.",
+        "See you again.",
+        "Which challenge would you like,\nSingle or Double?",
+        "Then, let's begin.{VAR BE01}\nPlease bear in mind that once you start\nthe challenge, you will face five battles{VAR BE00}\nwithout a break.{VAR BE01}\nNow, please choose the Pokémon you would\nlike to battle with.{VAR BE01}",
+        "Saving...\nDon't turn off the power.",
+        "Now, the Battle Test begins!\nPlease go inside!{VAR BE01}",
+        "All right.{VAR BE01}\nI will tell you the result of your\nBattle Test.{VAR BE01}\nThe test result is...{VAR BE01}",
+        "Master Rank! Wonderful!\nPlease let me be your apprentice.",
+        "The result is Elite Rank!\nThat's something you can brag about!",
+        "The result is Hyper Rank!\nYou must be doing a lot of practice.",
+        "The result is Super Rank.\nYou are quite strong.",
+        "The result is Normal Rank.\nYour strength is average.",
+        "The result is Novice Rank.\nYou could try a little bit harder.",
+        "The result is Beginner Rank.\nMaybe you should learn the basics first.",
+        "I've been waiting for you!{VAR BE01}\nWould you like to challenge\nthe downloaded Single Battle Test?",
+        "Would you like to download\na special Battle Test?",
+        "Hmm... I don't see anything\nto download...{VAR BE01}\nWhat would you like to do?",
+        "I downloaded a special\nSingle Battle Test!{VAR BE01}\nYou only have one chance to challenge,\nso please battle until the end{VAR BE00}\nwithout turning off the power.{VAR BE01}",
+        "I downloaded a special \nDouble Battle Test!{VAR BE01}\nYou only have one chance to challenge,\nso please battle until the end{VAR BE00}\nwithout turning off the power.{VAR BE01}",
+        "Would you like to challenge right away?",
+        "OK. See you later.\nI've been waiting for you!",
+        "You will take a Battle Test using\nthree Pokémon for Single Battles{VAR BE00}\nand four Pokémon for Double Battles.{VAR BE01}\nYou may not use duplicate Pokémon or\nheld items.{VAR BE01}\nFor these battles, all Pokémon will be\nset to Lv. 50.{VAR BE01}\nYou will battle against five Trainers in a\nrow, and I will be your judge.{VAR BE01}\nWhat would you like to do?",
+        "You will be facing opponent No. {VAR 0200 0000}.\nGood luck!{VAR BE01}",
+        "I've been waiting for you.{VAR BE01}\nWould you like to challenge\nthe downloaded Double Battle Test?",
+        "You seem to have taken all of the\ncurrent Battle Tests already.{VAR BE01}\nWhat would you like to do?",
+        "There is no test result to display now.",
+        "Which test result would you like to see?",
+        {
+            "text": "Communicating... Don't turn off the\npower. Press the B Button to cancel.",
+            "flags": 216
+        },
+        {
+            "text": "Challenge",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        {
+            "text": "Single",
+            "flags": 219
+        },
+        {
+            "text": "Double",
+            "flags": 219
+        },
+        {
+            "text": "Download",
+            "flags": 219
+        },
+        {
+            "text": "Normal",
+            "flags": 219
+        },
+        {
+            "text": "Special",
+            "flags": 219
+        },
+        {
+            "text": "SINGLE BATTLE",
+            "flags": 84
+        },
+        {
+            "text": "DOUBLE BATTLE",
+            "flags": 84
+        },
+        {
+            "text": "TEST RESULT",
+            "flags": 92
+        },
+        {
+            "text": "POINTS",
+            "flags": 68
+        },
+        {
+            "text": "{VAR 0203 0000}",
+            "flags": 24
+        },
+        {
+            "text": "BEGINNER RANK",
+            "flags": 192
+        },
+        {
+            "text": "NOVICE RANK",
+            "flags": 192
+        },
+        {
+            "text": "NORMAL RANK",
+            "flags": 192
+        },
+        {
+            "text": "SUPER RANK",
+            "flags": 192
+        },
+        {
+            "text": "HYPER RANK",
+            "flags": 192
+        },
+        {
+            "text": "ELITE RANK",
+            "flags": 192
+        },
+        {
+            "text": "MASTER RANK",
+            "flags": 192
+        },
+        "The download was canceled."
+    ]
+}

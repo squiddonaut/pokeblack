@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_SHARP_BEAK"
+        "rare": "ITEM_SHARP_BEAK",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_RUN_AWAY", "ABILITY_EARLY_BIRD" ],
-    "unk_1A": 77,
+    "abilities": [
+        "ABILITY_RUN_AWAY",
+        "ABILITY_EARLY_BIRD",
+        "ABILITY_TANGLED_FEET"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 62,
+    "base_exp_reward": 62,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_PECK" ],
@@ -86,7 +89,7 @@
             "MOVE_ASSURANCE"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -98,5 +101,16 @@
         "height": 14,
         "weight": 392
     },
-    "offspring": "SPECIES_DODUO"
+    "offspring": "SPECIES_DODUO",
+    "text": {
+        "70": "Doduo",
+        "235": "The brains in its two heads appear\nto communicate emotions to each\nother with a telepathic power.",
+        "236": "The brains in its two heads appear\nto communicate emotions to each\nother with a telepathic power.",
+        "244": "",
+        "245": "4'07\"",
+        "260": "Twin Bird Pokémon",
+        "268": "86.4 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Doduo",
+        "284": "DODUO"
+    }
 }

@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "entries": [
+        "When you use the move Fly, you can\nreturn to a Pokémon Center{VAR BE00}\nyou've already visited.{VAR BE01}\nBut if Pokémon don't know their\ndestinations, they cannot fly there!",
+        "Because I know a lot about planes,\nI can maintain them!{VAR BE01}\nBecause I know a lot about Pokémon,\nI can be strong!",
+        "For the places that I cannot reach,\nI ask Flying- or Psychic-type Pokémon{VAR BE00}\nfor help sometimes.{VAR BE01}\nI cannot even imagine everyday life\nwithout Pokémon.",
+        "Chulululuwa!",
+        "Because of this control tower, planes\ncan fly safely in the sky where there{VAR BE00}\nare no roads.{VAR BE01}\nFrom that, I take this lesson:\nIf Trainers lead Pokémon correctly,{VAR BE00}\nPokémon will feel safe and fight well.",
+        "My dream was to become a Pilot and\nfly away, far away...{VAR BE00}\nI still have that dream in my heart.",
+        "Welcome to the sky city, Mistralton!\nTake this as a keepsake!{VAR BE01}",
+        "If a Pokémon holds an item called\nSharp Beak, its Flying-type{VAR BE00}\nmoves will be powered up!",
+        "Hello!{VAR BE01}\nDeliver a lot of cargo quickly!\nThis is Mistralton Cargo Service.",
+        "Sweets, lovely Sweet Heart! ♪\nCheck feelings between two people.{VAR BE01}\nIf you are a great match, you can\nget sweet on Sweet Heart! ♪{VAR BE00}\nMeltingly sweet Sweet Heart! ♪{VAR BE01}",
+        "Oh, uh, you?\nYou have Sweet Heart!{VAR BE01}\nWill you trade ten pieces of your\nSweet Heart for my Heart Scale?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "If you bring a lot of Sweet Heart pieces,\nI will trade you for something happy!",
+        "Yaaaay!\nI have a lot of your heart!{VAR BE01}",
+        "Oh... What a pity.\nWhat a great pity!{VAR BE01}\nYou must have a lot of\nHeart Scales already.",
+        "OK...\nAww...that's too bad.",
+        "Gave the Sweet Hearts and received\na {VAR 0109 0000} in return.{VAR BE01}"
+    ]
+}

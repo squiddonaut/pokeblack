@@ -1,0 +1,42 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "The Hall of Fame!",
+            "flags": 160
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 104
+        },
+        {
+            "text": "Lv.",
+            "flags": 22
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "League Champion! Congratulations!",
+            "flags": 256
+        },
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 84
+        },
+        {
+            "text": "ID No. {VAR 0204 0000}",
+            "flags": 108
+        },
+        {
+            "text": "{VAR 0202 0000}:{VAR 0201 0001}",
+            "flags": 56
+        },
+        "{FF2E}{FF4F}　{VAR 0202 0000}　{FF26}{FF4F}{FF52}{FF4D}　{VAR 0202 0001}",
+        "♂",
+        "♀",
+        "{FF2E}{FF25}{FF38}{FF34}　{VAR 0202 0000}"
+    ],
+    "pad": "4a4a"
+}

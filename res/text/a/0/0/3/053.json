@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hi there!\nI am the Game Director.{VAR BE01}\nOh! You are working on your Pokédex!\nIf you fill it up a lot, please let me see!",
+        "Hi there!\nI am the Game Director.{VAR BE01}\nOh! You've caught every kind of\nPokémon in Unova!{VAR BE01}\nWow! Excellent!\nWe'll give you an award!!{VAR BE01}",
+        "I will send this award certificate\nto your house!",
+        "Hi there!\nI am the Game Director.{VAR BE01}\nOh! Excellent! You've finally collected\nall the Pokémon and completed{VAR BE00}\nyour Pokédex!{VAR BE01}\nTo honor the efforts you have made in\ncompleting this Pokédex...{VAR BE01}\nAllow me to present you with this award!{VAR BE01}",
+        "How did you meet all the Pokémon\nto fill up your Pokédex?{VAR BE01}\nDid you work long and hard to catch\nand raise them?{VAR BE01}\nDid you receive them as gifts from\nfriends?{VAR BE01}\nMaybe you got some in trades from\naround the world?{VAR BE01}\nThough everyone's Pokédex may look the\nsame, the stories they contain are{VAR BE00}\nall unique!",
+        "I will send this award certificate\nto your house, too!",
+        "Beware of spoilers! What I'm working on\nis the ending of the game.{VAR BE01}\nDon't look at it here! You'll have\nto play it for yourself.",
+        "I am the Graphic Designer. I am devoting\nall my energy to every dot!{VAR BE01}\nHup! I should put one dot here as if I'm\nmaking this part hollow!",
+        "A tip for getting strong\nin Pokémon battles...{VAR BE01}\nLet me see.\nI guess the most important thing is...{VAR BE00}\nhaving a lot of battles!{VAR BE01}\nIf you become very strong, come back\nand have a Pokémon battle with me!",
+        "Oh! You've become strong! I can tell.\nDo you want to have a battle with me?",
+        "Well, let's begin!{VAR BE01}",
+        "You think about battles very thoroughly.{VAR BE01}\nI lost, but I learned a lot from you.\nBesides, it was fun!{VAR BE01}\nCome back again tomorrow.",
+        "No?{VAR BE01}\nI've been raising Pokémon, thinking about\ntheir Abilities and just the right{VAR BE00}\ncombination of held items.{VAR BE01}\nWhat a pity...\n",
+        "I'm Snorlax.{VAR BE01}\nNo, no. I'm the Planner!{VAR BE01}\nI don't mean to butt in, but the\nLeftovers item is important, isn't it?",
+        "I am the Sound Designer!{VAR BE01}\nI put in a lot of wonderful mechanisms\nto change the game's music!{VAR BE01}\nHow many of them have you noticed?",
+        "I can tell you take the sound seriously,\nso here's a treat for you!{VAR BE01}\nWhat do you think about this\ndramatic sound?{VAR BE01}",
+        "Were you surprised?{VAR BE01}\nWell, for a strong Trainer like you,\nwinning against Team Rocket{VAR BE00}\nwould be a piece of cake!"
+    ]
+}

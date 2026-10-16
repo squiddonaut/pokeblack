@@ -1,0 +1,35 @@
+{
+    "flags": 224,
+    "entries": [
+        "The Xtransceiver is ringing.",
+        "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}",
+        "Mom: {VAR 0100 0000}?{VAR BE01}",
+        "I finally caught up with you...\nAnd look how far you've come already!{VAR BE01}\nProfessor Juniper said that you were\nprobably headed for Striaton City by now.{VAR BE01}\nI have another present for you.\n{VAR 0100 0000}! Try these on!{VAR BE01}",
+        "{VAR 0100 0000} received a pair of\n{VAR FF00 0002}Running Shoes{VAR FF00 0000}!",
+        "When you're wearing the Running Shoes,\nyou can go anywhere in a flash!{VAR BE01}\nLet me read you the instructions...{VAR BE01}\n“Hold the B Button to run faster than\nnormal. Put on the Running Shoes and{VAR BE00}\ntear around to your heart's content!\"{VAR BE01}\nThat's what it says.{VAR BE01}\nI bought these a long time ago\nand stashed them away somewhere.{VAR BE01}\nI found them when I was cleaning up.\nGuess it's good to clean occasionally!{VAR BE01}",
+        "{VAR 0100 0000}, you understand that\nyou're never really alone, right?{VAR BE01}\nYou're with Pokémon, you have friends,\nand you're always in my thoughts.{VAR BE01}\nThat's all right, then. Enjoy your trip!{VAR BE01}",
+        "Bianca: Ohhhhh! Hi, {VAR 0100 0000}!{VAR BE01}",
+        "Bianca: {VAR 0100 0000}! C'mon, {VAR 0100 0000}!{VAR BE01}",
+        "Bianca: Hey, listen!\nLet's have a Pokémon battle!{VAR BE01}\nPleeeease? The Pokémon I caught\nhave become a little stronger!{VAR BE01}\nReady or not, here I come!{VAR BE01}",
+        "Bianca: Woo-hoo!{VAR BE01}\nYou are a tough cookie, {VAR 0100 0000}.{VAR BE01}\nI'm gonna work hard on training my\nPokémon so we won't lose anymore!{VAR BE00}\nOK, bye-bye!{VAR BE01}",
+        "Hey, you!{VAR BE01}\nI'm gonna do something amazing!\nWanna watch?",
+        "OK! Wait one second!{VAR BE01}",
+        "Wooo!",
+        "Hey! Were you watching?{VAR BE01}\nYou can take a shortcut by\njumping off ledges! Amazing, eh?",
+        "No need to be shy!",
+        "When your Pokémon don't have\nenough energy to fight...{VAR BE00}\nJust walk on the road!{VAR BE01}\nPokémon only appear in the tall grass!",
+        "Battles between Pokémon Trainers\nare serious affairs you can't run from!",
+        {
+            "text": "Route 2",
+            "flags": 207
+        },
+        {
+            "text": "Route 2",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nPokémon that participate in battle\nreceive Exp. Points.{VAR BE01}\nHave your Pokémon battle often,\nand make them stronger and stronger!",
+            "flags": 207
+        }
+    ]
+}

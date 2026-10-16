@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hello, hello!\nI am the official Name Rater!{VAR BE01}\nWant me to rate the nicknames\nof your Pokémon?",
+        "Which Pokémon's nickname\nshould I critique?{VAR BE01}",
+        "Hmmm. {VAR 0102 0000}, is it?{VAR BE01}\nThat sounds good! It's a very “you\"\nsort of name.{VAR BE01}\nBut if you'd like to change it, I can help\nyou do that. How about it?",
+        "Excellent! What would you like\nthe new nickname to be?{VAR BE01}",
+        "Done! From now on, this Pokémon\nshall be known as {VAR 0102 0000}!{VAR BE01}\nYou're right, that does seem to fit it\nbetter. Nicely done!",
+        "OK! Come see me again if you\nchange your mind.",
+        "Done! From now on, this Pokémon\nshall be known as {VAR 0102 0000}!{VAR BE01}\nIt looks no different from before, but we\nboth know this name is vastly superior!{VAR BE00}\nHow fortunate for you!",
+        "Hmmm. {VAR 0102 0000}!\nThat is a truly impeccable nickname!{VAR BE01}\nTake good care of {VAR 0102 0000}!",
+        "Now, now...\nThat is merely an Egg!"
+    ]
+}

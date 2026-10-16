@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "Professor Juniper: Hello, {VAR 0100 0000}!{VAR BE01}",
+        "Cheren: Come here.{VAR BE01}",
+        "Professor Juniper: Elesa called and was\nasking me all about Electric-type{VAR BE00}\nPokémon, and I thought about you guys.{VAR BE01}\nThat's why I wanted to see you.\nTa-da! Freebies for you!{VAR BE01}",
+        "Here, Cheren!{VAR BE01}",
+        "You, too, {VAR 0100 0000}.{VAR BE01}",
+        "If you see a Pokémon that\nyou want to have join you,{VAR BE00}\nbe sure to use a good type of Poké Ball.{VAR BE01}\nBecause this could be the\nfirst and last time you see that Pokémon!{VAR BE01}",
+        "I know it might seem strange for me\nto say this, since I'm the one who asked{VAR BE00}\nyou to complete the Pokédex, but please,{VAR BE00}\nremember to enjoy your journey!{VAR BE01}",
+        "Of course, I'm not saying you can just\nneglect the Pokédex. But you know that!{VAR BE01}\nNow, if you'll please excuse me,\nI have to go meet Bianca.{VAR BE01}",
+        "Cheren: It seems the Professor\ngave us the Pokédex as a reason{VAR BE00}\nto send us on a journey.{VAR BE01}\nAt least, that's what my mom told me.{VAR BE01}\nThey wanted us to go out and see the\nworld, so my mom, Bianca's mom, and your{VAR BE00}\nmom made a request to Professor Juniper.{VAR BE01}",
+        "{VAR 0100 0000}, what should we do now?{VAR BE01}\nI think I'd like to show the professor my\nthanks by going to Route 4 and catching{VAR BE00}\nsome Pokémon I haven't yet caught.{VAR BE01}",
+        "If you've come from Route 4,\nNimbasa City is ahead.{VAR BE01}\nNext! If you've come from Nimbasa City,\nRoute 4 is ahead!",
+        "Look at the electric bulletin board to\nsee what's happening in Nimbasa City!"
+    ],
+    "pad": "5858"
+}

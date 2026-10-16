@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "entries": [
+        "Skyla: Oh, you came. Thank you!{VAR BE01}\nI was right.\nWhat I saw was a hurt Pokémon.{VAR BE01}\nDon't worry, though!\nIt's fine now!{VAR BE01}\nI gave it a Max Revive,\nthen it felt better and flew away!{VAR BE01}",
+        "Hee hee!\nDon't I have great eyesight?{VAR BE01}\nNo matter how far away things are,\na Pilot's eyes can see them!{VAR BE01}",
+        "Oh, that's right! Since you've come\nthis far, why don't you ring the bell?{VAR BE01}\nCelestial Tower's bell is for soothing\nthe spirits of Pokémon.{VAR BE01}\nAlso, the character of the person ringing\nthe bell is reflected in its sound.{VAR BE01}",
+        "Skyla: Come on, don't be shy!",
+        "What a pretty sound.{VAR BE01}\n{VAR 0100 0000}, you are\na kind and strong person.{VAR BE00}\nIt's that kind of sound.{VAR BE01}",
+        "What a pretty sound.{VAR BE01}\n{VAR 0100 0000}, you are\na kind and strong person.{VAR BE00}\nIt's that kind of sound.{VAR BE01}",
+        "I'd like to introduce myself again!{VAR BE01}\nI'm Skyla, the Leader of\nMistralton's Pokémon Gym.{VAR BE00}\nI use Flying-type Pokémon.{VAR BE01}\nWhen you are ready, please\ncome to the Gym.{VAR BE00}\nI'll give you a big welcome!{VAR BE01}",
+        "It's the Celestial Tower bell...\nWill you ring the bell?",
+        "{VAR 0100 0000} rang the bell...",
+        "The sound of the bell\nreverberates through the area...",
+        "The sound of the bell\nreverberates through the area...{VAR BE01}",
+        "The bell was left untouched...",
+        "Alder: ...{VAR BE01}",
+        "My old partner is resting\nhere in the Celestial Tower.{VAR BE01}\nIt was the first Pokémon\nI received when I became a Trainer.{VAR BE01}\nI come here to ring the bell\nand comfort its spirit.{VAR BE01}",
+        "It was a strong Pokémon.\nIt was courageous, noble, and kind...{VAR BE01}\nTogether, we madly pursued strength...\nWithout even knowing the meaning{VAR BE00}\nof strength.{VAR BE01}",
+        "But, in the same way that all stories\nhave a beginning and an end,{VAR BE00}\nall lives have an end, as well...{VAR BE01}\nIt was then that I understood that\nstrength isn't something that{VAR BE00}\nremains unchanged forever.{VAR BE01}",
+        "However, the joy one feels in being with\nPokémon--that is the real thing.{VAR BE01}\nIn order to spread the word, I left\nthe Pokémon League and kept traveling...{VAR BE01}\nThat's right! Traveling is wonderful.{VAR BE01}\nI've met many different Pokémon,\nmany different Trainers,{VAR BE00}\nand now I've met all of you.{VAR BE01}",
+        "There are many more Trainers and\nPokémon to encounter in the world!{VAR BE01}\n{VAR 0100 0000}! Go out and meet\nas many of them as you can!{VAR BE01}",
+        "Well, {VAR 0100 0000}, I'll be waiting\nfor you at the Pokémon League!{VAR BE01}"
+    ]
+}

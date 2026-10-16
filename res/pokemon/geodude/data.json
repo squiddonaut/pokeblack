@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_ROCK", "TYPE_GROUND" ],
     "catch_rate": 255,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_EVERSTONE"
+        "rare": "ITEM_EVERSTONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_MINERAL", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_ROCK_HEAD", "ABILITY_STURDY" ],
-    "unk_1A": 8,
+    "abilities": [
+        "ABILITY_ROCK_HEAD",
+        "ABILITY_STURDY",
+        "ABILITY_SAND_VEIL"
+    ],
     "unk_1B": 90,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BROWN",
     "flip_sprite": false,
-    "unk_22": 60,
+    "base_exp_reward": 60,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -100,7 +103,7 @@
             "MOVE_AUTOTOMIZE"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -112,5 +115,16 @@
         "height": 4,
         "weight": 200
     },
-    "offspring": "SPECIES_GEODUDE"
+    "offspring": "SPECIES_GEODUDE",
+    "text": {
+        "70": "Geodude",
+        "235": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily.",
+        "236": "At rest, it looks just like a rock.\nCarelessly stepping on it will make\nit swing its fists angrily.",
+        "244": "",
+        "245": "1'04\"",
+        "260": "Rock Pokémon",
+        "268": "44.1 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Geodude",
+        "284": "GEODUDE"
+    }
 }

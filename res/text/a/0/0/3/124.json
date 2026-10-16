@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "entries": [
+        "Ahem!{VAR BE01}\nI am the chairman who loves Pokémon the\nmost among Pokéfans in the entire world!{VAR BE01}",
+        "If you are a Trainer, will you show me\nhow you are raising your Pokémon{VAR BE00}\nwith loving care?",
+        "Oh, I understand!\nYou are a shy Trainer!",
+        "Oh!\nWhich Pokémon will you show me?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "...Hmmm.\nIt's hard to tell...",
+        "Well...it's a bit hard to tell how much\nthat Egg has grown.",
+        "Oh! This {VAR 0101 0000} was level {VAR 0202 0001}\nwhen you met, but now it's level {VAR 0202 0002}!{VAR BE01}",
+        "You've raised it very well.\nIt's received a lot of love from you.{VAR BE01}",
+        "You've raised it quite well.\nI feel your love for this Pokémon.{VAR BE01}",
+        "You've raised it well.\nYou must be affectionate.{VAR BE01}",
+        "I see! Although it's just a smidgen,\nI can feel your love for your Pokémon.{VAR BE01}",
+        "That is a token of gratitude for showing\nme your great love for your Pokémon!",
+        "Well, you showed me good stuff!{VAR BE01}\nPlease keep raising your Pokémon\nwith loving care!",
+        "What? It has not grown at all.{VAR BE01}\nStill, if you travel with your Pokémon\nfrom now on, I am sure it will grow!",
+        "Welcome to the Pokémon Fan Club.{VAR BE01}\nShall I check how friendly your Pokémon\nis toward you?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "I can't tell whether or not you and\nthe Egg are close friends.",
+        "Oh, my. Your {VAR 0101 0000}...{VAR BE01}",
+        "It is super friendly to you!\nI'm a bit jealous!",
+        "It is quite friendly to you!\nYou must be a kind person!",
+        "It is friendly to you.\nIt must be happy with you.",
+        "It is a little friendly to you...\nThat's what I'm getting.",
+        "The relationship is neither good\nnor bad... It looks neutral.",
+        "Hmmm...\nIt may not like you very much.",
+        "By any chance, you...{VAR BE01}\nAre you a very strict person?\nI feel that it really doesn't like you...",
+        "Oh, you are so shy! Come on,\ndon't hide your Pokémon from me.",
+        "Muuun!",
+        "Glibalugga!"
+    ]
+}

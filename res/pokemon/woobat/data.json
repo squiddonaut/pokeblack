@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_PSYCHIC", "TYPE_FLYING" ],
     "catch_rate": 190,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_UNAWARE", "ABILITY_KLUTZ" ],
-    "unk_1A": 86,
+    "abilities": [
+        "ABILITY_UNAWARE",
+        "ABILITY_KLUTZ",
+        "ABILITY_SIMPLE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_BLUE",
     "flip_sprite": false,
-    "unk_22": 63,
+    "base_exp_reward": 63,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_CONFUSION" ],
@@ -105,7 +108,7 @@
             "MOVE_HELPING_HAND"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [ "EVO_LEVEL_HAPPINESS", "SPECIES_SWOOBAT" ]
     ],
@@ -113,5 +116,16 @@
         "height": 4,
         "weight": 21
     },
-    "offspring": "SPECIES_WOOBAT"
+    "offspring": "SPECIES_WOOBAT",
+    "text": {
+        "70": "Woobat",
+        "235": "Suction from its nostrils enables it to\nstick to cave walls during sleep. It\nleaves a heart-shaped mark behind.",
+        "236": "Its habitat is dark forests and caves.\nIt emits ultrasonic waves from its\nnose to learn about its surroundings.",
+        "244": "",
+        "245": "1'04\"",
+        "260": "Bat Pokémon",
+        "268": "4.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Woobat",
+        "284": "WOOBAT"
+    }
 }

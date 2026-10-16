@@ -1,0 +1,144 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}!{VAR BE01}\nI heard from Professor Juniper.\nWe can have a Pokémon?{VAR BE01}",
+        "...\n...{VAR BE01}\nWhat's keeping Bianca?{VAR BE01}",
+        "Bianca: Am I a little late again?\nSo-oooo-orry!{VAR BE01}",
+        "Cheren: Bianca...{VAR BE01}\nI've known for ten years that you\nhave no sense of time, but...seriously...{VAR BE01}\nToday's the day we can get a\nPokémon from Professor Juniper!{VAR BE01}",
+        "Bianca: I know. Sorry, {VAR 0100 0000}.\nSorry, Cheren.{VAR BE01}",
+        "Bianca: So, where are the Pokémon?{VAR BE01}\nThey were delivered to {VAR 0100 0000}'s\nhouse, so {VAR 0100 0000} gets first pick.{VAR BE01}",
+        "Cheren: Naturally.{VAR BE01}",
+        "The Pokémon are waiting for us\ninside that gift box.{VAR BE01}\nOK, {VAR 0100 0000}, you go first and take\na peek at the gift box.{VAR BE01}\nI want to meet the Pokémon right now!",
+        "Cheren: Aren't you going to check\nout the gift box? Where are you going?{VAR BE01}",
+        "Cheren: Would you get a move on\nand open the gift box already?{VAR BE01}\nI'm sure the Pokémon are just as\nexcited to meet us!",
+        "Bianca: Ooh!\nWhat kind of Pokémon could they be?",
+        "{VAR 0100 0000} opened the gift box!{VAR BE01}",
+        {
+            "text": "I've brought three Pokémon,\none for you and one for each\nof your friends. Please settle\nyour choices politely.\nEnjoy your Pokémon!\n                --Professor Juniper",
+            "flags": 178
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR BD02}The Water-type Pokémon\n{VAR BD02}{VAR 0101 0001}",
+            "flags": 240
+        },
+        {
+            "text": "{VAR BD02}The Fire-type Pokémon\n{VAR BD02}{VAR 0101 0001}",
+            "flags": 240
+        },
+        {
+            "text": "{VAR BD02}The Grass-type Pokémon\n{VAR BD02}{VAR 0101 0001}",
+            "flags": 240
+        },
+        {
+            "text": "Choose a Pokémon.",
+            "flags": 240
+        },
+        {
+            "text": "Is this the Pokémon you want?",
+            "flags": 240
+        },
+        {
+            "text": "Pick this one!",
+            "flags": 96
+        },
+        {
+            "text": "YES",
+            "flags": 40
+        },
+        {
+            "text": "NO",
+            "flags": 40
+        },
+        "{VAR 0100 0000} chose\n{VAR 0101 0001}!",
+        "Bianca: OK, I'll take this Pokémon!\nCheren, that one's yours!{VAR BE01}",
+        "Cheren: Hey, how come you get to pick\nout my Pokémon?{VAR BE01}\nOh, never mind. I wanted {VAR 0101 0001}\nfrom the start, anyway.{VAR BE01}",
+        "Bianca: Everyone has chosen a Pokémon!\n...So that's that!{VAR BE01}\nHey, I know!\nLet's have a Pokémon battle!{VAR BE01}",
+        "Cheren: Honestly, Bianca...{VAR BE01}\nEven though they're still weak Pokémon,\nyou shouldn't have Pokémon battles{VAR BE00}\ninside a house.{VAR BE01}",
+        "Bianca: Don't be a worrywart!\nThese little ones are weak, like you said.{VAR BE01}\nWe have to let them battle so they'll get\nstronger. It's settled, {VAR 0100 0000}!{VAR BE00}\nGet ready for a Pokémon battle!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "...The box is empty.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Bianca: Wow...{VAR BE01}\n{VAR 0100 0000}, you're gonna be\nan awesome Trainer someday, I can tell!{VAR BE01}\nNo doubt!{VAR BE01}",
+        "Bianca: Wha...?{VAR BE01}\nI got so absorbed in having my Pokémon\nuse moves, I won before even realizing...{VAR BE01}",
+        "Cheren: Uh...\n...{VAR BE01}\nBianca, would you take a look around?{VAR BE01}",
+        "Bianca: Wh-whoa!\nWhat happened?!{VAR BE01}",
+        "Wow! Pokémon are amaaaaazing!!\nSo little, but so strong!{VAR BE01}\nI'm so glad that I get to have a Pokémon!{VAR BE01}\n...Oh.\nUm, sorry about your room, {VAR 0100 0000}.{VAR BE01}",
+        "Cheren: You...are completely hopeless.{VAR BE01}\nHere!\nI'll restore your Pokémon for you.{VAR BE01}",
+        "Cheren healed Bianca's Pokémon!",
+        "{VAR 0100 0000}'s Pokémon needs\nto be fixed up, too.{VAR BE01}",
+        "Cheren healed {VAR 0100 0000}'s Pokémon!",
+        "Cheren: It's amazing that you won\nwithout your Pokémon's losing any{VAR BE00}\nenergy, which is called HP.{VAR BE01}\nBut you used some of the moves'\nPower Points, or PP, though.{VAR BE01}",
+        "Bianca: Hey, Cheren!\nHow about you battle, too?{VAR BE01}\nWith all you know, I'm sure you can\nbattle without turning the room into{VAR BE00}\na disaster area like I did!{VAR BE01}",
+        "Cheren: I believe you're right!{VAR BE01}\nIt'll be no problem for me to keep\nthe room from getting any messier.{VAR BE01}\nBesides, it's not fair if you two are the\nonly ones who get to have fun battling!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "It's decided. You'll be my opponent...\nin our first Pokémon battle!{VAR BE01}\nLet's see what you can do, {VAR 0101 0001}!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cheren: I made a strange blunder\nin my first battle, but{VAR BE00}\nthis feeling I have...{VAR BE00}\n...I'm finally a Trainer.{VAR BE01}\nBut first, we'd better go apologize to\nyour mother about this messed-up room.{VAR BE01}",
+        "Cheren: This feeling...\nFinally, I'm a Trainer.{VAR BE01}\nOn top of that, we'd better go apologize\nto your mother about this room.{VAR BE01}",
+        "Bianca: Oh!\nI'd better come, too!{VAR BE01}",
+        "It's a Wii console!\nIt has a Wii Remote!",
+        "It's a Wii console!{VAR BE01}\nIt's not even scratched!",
+        "It's a flat-screen television\nthat Dad bought!",
+        "It's a bed.{VAR BE01}\nThe sheets smell great because\nMom just washed them!",
+        "The bed's a mess!",
+        "{VAR 0100 0000} checked the PC.{VAR BE01}\nPokémon Basics...{VAR BE01}\nPeople live alongside Pokémon in\nthis world.{VAR BE01}\nThe people who battle with Pokémon\nare called Pokémon Trainers.",
+        "It's an award for completing\nthe Unova Pokédex!{VAR BE01}",
+        "It's an award for completing\nthe National Mode Pokédex!{VAR BE01}",
+        "It's a trophy proving you defeated\nthe Single Master in the Battle Subway!",
+        "It's a trophy proving you defeated\nthe Double Master in the Battle Subway!",
+        "It's a trophy proving you defeated\nthe Multi Master in the Battle Subway!"
+    ],
+    "pad": "caca"
+}

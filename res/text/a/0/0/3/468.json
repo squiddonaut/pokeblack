@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "entries": [
+        "Ho! Hoo!\nWelcome to White Forest!{VAR BE01}\nIn White Forest, people live\nin harmony with nature and with Pokémon.{VAR BE01}\nPlease listen to the voice of the forest.{VAR BE01}\nIt's saying “Bienvenue!\"\nHo! Hoo! Hoo!{VAR BE01}",
+        "I do research into the Pokémon\nthat live in this forest.{VAR BE01}\nIn theory, you should find {VAR 0101 0000}\nliving in this forest.{VAR BE01}",
+        "Hoo!\nThat's {VAR 0101 0000}!{VAR BE01}\nSo it lives in this forest, too!{VAR BE01}",
+        "What's more, you caught it today!\nHo hoo!{VAR BE01}\nThis means there are {VAR 0101 0000}\nin White Forest.{VAR BE01}\nFor you, my skilled Pokémon catcher--\nthis small trifle. Hoo!{VAR BE01}",
+        "If you return here tomorrow, I'm sure\nthe forest will say “Bienvenue\" again!",
+        "Thank you very much for today.\nSee you again tomorrow!{VAR BE01}\nThe forest is murmuring, “À très vite!\"{VAR BE01}",
+        "I'm researching the Pokémon\nthat live in this forest. Hoo!{VAR BE01}\nBut there haven't been any Pokémon\nrecently, and the forest is forlorn.",
+        "If you see {VAR 0101 0000} in this forest,\nplease let me know.{VAR BE01}\nThat will be proof that Pokémon\nare living in this forest.",
+        "But--that {VAR 0101 0000} wasn't caught\ntoday, was it? Hoo!{VAR BE01}\nWhat I want to know is whether\n{VAR 0101 0000} is still living in the forest.{VAR BE01}\nThe forest itself wants to know, too!",
+        "Did you notice the sky's beauty today?\nTomorrow will be fine, too!",
+        "Let's go Berry picking together!",
+        "I need Berries for tomorrow's dinner,\nso go pick some, OK?",
+        "Let's have a Triple Battle with the\nPokémon I have worked so hard to raise!",
+        "A Triple Battle is a new style of battle\nin which you use three Pokémon!{VAR BE01}\nPlease get three Pokémon together\nto use in battle!",
+        "Oh... I wanted to see\nthe Pokémon you've raised.",
+        "I'll work even harder raising my Pokémon!",
+        "I have always lived with these Pokémon.{VAR BE01}\nHmm. How would you like to try a\nTriple Battle with me?",
+        "In order to have a Triple Battle,\nyou need to have at least three{VAR BE00}\nPokémon able to battle.",
+        "Oh...\nI hope I'll get to see them another time!",
+        "There are so many things to consider,\nbut that is part of the fun of{VAR BE00}\nTriple Battles!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ],
+    "pad": "9090"
+}

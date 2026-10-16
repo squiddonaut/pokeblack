@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Bronius: When I saw you in Castelia,\nI did not care about your existence.{VAR BE01}\nHere in the Chargestone Cave,\nGhetsis tested your ability...{VAR BE01}\nOnce more, we will test you to learn\nwhat it is you are.{VAR BE01}\nTeam Plasma, come out!{VAR BE01}",
+        "Team Plasma: Bronius of the Seven Sages,\nI will bring this kid down!{VAR BE01}",
+        "Team Plasma: This kid is the real thing!{VAR BE01}",
+        "Team Plasma: Because of you,\nI'm now ex-Team Plasma.{VAR BE01}\nBeing an ex doesn't sound cool, does it?\nHow are you going to make it up to me?{VAR BE01}",
+        "Team Plasma: An ex-Team Plasma member\nbecomes an ordinary Pokémon Trainer...{VAR BE00}\nThis was that moment.{VAR BE01}",
+        "Bronius: The Pokémon of our Team Plasma\nare also fighting for their Trainers.{VAR BE01}\nIt was so obvious that I overlooked it...\nThank you for reminding me of that.{VAR BE01}\nHere, I'd like you to take this.{VAR BE01}",
+        "Bronius: Pokémon do their best for their\nTrainers even when they are injured.{VAR BE01}\nI wonder whether my lord N understands\nwhat that means?{VAR BE01}",
+        "Looker: On the topic of Team Plasma...{VAR BE01}\nI am an officer of the\nInternational Police,{VAR BE00}\nso you would be wise{VAR BE00}\nto share all you know.{VAR BE01}",
+        "Bronius: Those who left Team Plasma and\nare behaving with respect and{VAR BE00}\nunderstanding toward Pokémon...{VAR BE01}\nThem, please forgive!\nHowever, those who won't interact with{VAR BE00}\nPokémon in a kind and honest way...{VAR BE00}\nEven I will never forgive them!{VAR BE01}",
+        "Looker: Truly, I thank you!{VAR BE01}\nNow, Ghetsis notwithstanding,\nthere yet remains but {VAR 0200 0000} of the{VAR BE00}\nSeven Sages still at large.{VAR BE01}\nTheir innermost thoughts,\ntheir uttermost hopes...{VAR BE00}\nThese I must and shall discover!{VAR BE00}\nOnce more, a brief farewell!{VAR BE01}",
+        "Looker: Thank you!{VAR BE01}\n{VAR 0100 0000}, there is something\nof which we must speak.{VAR BE01}\nA report has been received. By me.\nFar from here, a sighting occurred of a{VAR BE00}\nperson like N and--a dragon Pokémon.{VAR BE01}\nI must instantly go to confirm the\ncomplete confirmation of this report.{VAR BE00}\nI will see you again, and soon!{VAR BE01}"
+    ],
+    "pad": "9090"
+}

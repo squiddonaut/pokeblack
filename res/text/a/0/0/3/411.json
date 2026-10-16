@@ -1,0 +1,12 @@
+{
+    "flags": 224,
+    "entries": [
+        "If you want to enjoy the slow life, visit\nWhite Forest.",
+        "If you want to enjoy vibrant city life,\nvisit Black City.",
+        "People who yearn for nature often move\ninto White Forest.",
+        "People who yearn for hustle and bustle\noften move into Black City.",
+        "As the residents change, the forest\nalso changes.{VAR BE01}\nLooking at the changes, I feel that\npeople and the forest are made of the{VAR BE00}\nsame living matter.",
+        "As the residents change, the city\nalso changes.{VAR BE01}\nWhen I look at the changes for a while,\nthe city looks like a gigantic creature."
+    ],
+    "pad": "3e3e"
+}

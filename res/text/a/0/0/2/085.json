@@ -1,0 +1,57 @@
+{
+    "flags": 88,
+    "entries": [
+        {
+            "text": "COMPLETED FIRST ADVENTURE:",
+            "flags": 160
+        },
+        {
+            "text": "HALL OF FAME No. {VAR BD00 0005 0006 0000}{VAR 0203 0000}{VAR BD00 0001 0002 0000}",
+            "flags": 160
+        },
+        {
+            "text": "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "text": "/",
+            "flags": 6
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0101 0000}",
+            "flags": 64
+        },
+        {
+            "text": "⑭",
+            "flags": 8
+        },
+        {
+            "text": "⑮",
+            "flags": 8
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "NAME: {VAR 0102 0000}",
+            "flags": 192
+        },
+        {
+            "text": "OT/{VAR 0100 0000}",
+            "flags": 192
+        },
+        {
+            "text": "L",
+            "flags": 14
+        },
+        "{VAR 0107 0000}",
+        "{VAR 0107 0000}",
+        "{VAR 0107 0000}",
+        "{VAR 0107 0000}"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "Welcome! Glad to see you here at the\nTriple Battle House. As the name{VAR BE00}\nsuggests, if you want to enjoy Triple{VAR BE00}\nBattles, you've come to the right spot.{VAR BE01}\nMay I explain how Triple Battles work?",
+        "May I explain how Triple Battles work?",
+        "Triple Battle is a battle format in which\neach side uses three Pokémon.{VAR BE01}\nA Trainer who makes all of the opponent's\nPokémon faint will win.",
+        "This doesn't intrigue you? It's fun.\nPlease allow me to explain how it works.",
+        "Welcome! Glad to see you here at the\nRotation Battle House.{VAR BE01}\nAs the name suggests, this is the place\nto enjoy Rotation Battles.{VAR BE01}\nMay I explain how Rotation Battles work?",
+        "May I explain how Rotation Battles work?",
+        "Rotation Battle is a battle format in\nwhich each side uses three Pokémon.{VAR BE01}\nOne Pokémon takes the lead position, and\nthe other two stand off to the sides.{VAR BE01}\nBut this position will change every turn!",
+        "Don't you want to know more? It's fun.\nPlease allow me to explain how it works."
+    ]
+}

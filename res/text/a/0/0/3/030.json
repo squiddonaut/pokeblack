@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "entries": [
+        "Burgh used this warehouse until\ntwo years ago!{VAR BE01}\nWhen Burgh gets artist's block,\nhe comes back here to Nacrene City!",
+        "Burgh is an artist, and also the\nGym Leader in Castelia City.{VAR BE00}\nWe want to be like him!",
+        "That thing you have is a Pokédex,\nisn't it?{VAR BE01}\nWow! Coooooool! You collect Pokémon!\nOK! I'll help you.{VAR BE01}\nWhich Pokémon did you choose at the\nbeginning of your journey?",
+        "You have Snivy! Then I will give you this!{VAR BE01}\nWhen you let your Pokémon hold it, it can\nraise the power of Grass-type moves!{VAR BE01}",
+        "You have Oshawott! Then I will give\nyou this!{VAR BE01}\nWhen you let your Pokémon hold it, it can\nraise the power of Water-type moves!{VAR BE01}",
+        "You have Tepig! Then I will give you this!{VAR BE01}\nWhen you let your Pokémon hold it, it can\nraise the power of Fire-type moves!{VAR BE01}",
+        "A lot of items have effects when Pokémon\nhold them, so try to find them!{VAR BE01}\nWell, work hard to fill up your Pokédex!\nGood luck!",
+        {
+            "text": "Snivy",
+            "flags": 219
+        },
+        {
+            "text": "Oshawott",
+            "flags": 219
+        },
+        {
+            "text": "Tepig",
+            "flags": 219
+        },
+        {
+            "text": "Quit",
+            "flags": 219
+        },
+        "Do you have Snivy?",
+        "Do you have Oshawott?",
+        "Do you have Tepig?",
+        "Then, what is the Pokémon you chose\nat the beginning of your journey?",
+        "If you want to tell me, please speak\nto me!"
+    ]
+}

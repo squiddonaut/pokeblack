@@ -1,0 +1,36 @@
+{
+    "flags": 136,
+    "entries": [
+        "UNOVA POKÉDEX",
+        "NATIONAL POKÉDEX",
+        {
+            "text": "SEEN",
+            "flags": 72
+        },
+        {
+            "text": "OBTAINED",
+            "flags": 88
+        },
+        {
+            "text": "SEARCH RESULTS",
+            "flags": 88
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "?????",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        }
+    ],
+    "pad": "dcdc"
+}

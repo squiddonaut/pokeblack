@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_NORMAL", "TYPE_FLYING" ],
     "catch_rate": 255,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FLYING", "EGG_GROUP_FLYING" ],
-    "abilities": [ "ABILITY_BIG_PECKS", "ABILITY_SUPER_LUCK" ],
-    "unk_1A": 79,
+    "abilities": [
+        "ABILITY_BIG_PECKS",
+        "ABILITY_SUPER_LUCK",
+        "ABILITY_RIVALRY"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GRAY",
     "flip_sprite": false,
-    "unk_22": 53,
+    "base_exp_reward": 53,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_GUST" ],
@@ -87,7 +90,7 @@
             "MOVE_LUCKY_CHANT"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -99,5 +102,16 @@
         "height": 3,
         "weight": 21
     },
-    "offspring": "SPECIES_PIDOVE"
+    "offspring": "SPECIES_PIDOVE",
+    "text": {
+        "70": "Pidove",
+        "235": "These Pokémon live in cities. They are\naccustomed to people. Flocks often\ngather in parks and plazas.",
+        "236": "Each follows its Trainer's orders as\nbest it can, but they sometimes fail to\nunderstand complicated commands.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Tiny Pigeon Pokémon",
+        "268": "4.6 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Pidove",
+        "284": "PIDOVE"
+    }
 }

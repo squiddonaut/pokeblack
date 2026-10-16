@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "entries": [
+        "Only strong Pokémon live in this cave!{VAR BE01}\nThe Champion occasionally\ngoes in for training, but you aren't{VAR BE00}\nready for this challenge.",
+        "Huh! You're quite the Trainer,\naren't you?{VAR BE01}\nEnter the cave, and strengthen both\nyourself and your Pokémon!",
+        "The pitcher throws his first pitch!{VAR BE01}",
+        "What I just threw was TM56 Fling!{VAR BE01}\nYou throw an item to do damage to the\ntarget, and the damage changes{VAR BE00}\ndepending on what you throw!",
+        {
+            "text": "Route 9",
+            "flags": 207
+        },
+        {
+            "text": "Shopping Mall Nine\nColorful and wonderful!",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nTry pressing SELECT while\norganizing your PC Box.{VAR BE01}\nIt'll let you move your Pokémon\naround more easily!",
+            "flags": 207
+        },
+        {
+            "text": "Tubeline Bridge\nUnova's famous railway bridge",
+            "flags": 207
+        }
+    ]
+}

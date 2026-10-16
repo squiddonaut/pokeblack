@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Halt! The key to open this gate\nis the Jet Badge!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, holder of the Jet Badge!\nBlast ahead with tremendous force!",
+        "First, obtain the Jet Badge\nfrom the Mistralton Pokémon Gym!",
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

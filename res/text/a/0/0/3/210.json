@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "entries": [
+        "Team Plasma: Huh. Pretty strong...{VAR BE01}\nBut you're only strong because you\nTrainers are controlling Pokémon!{VAR BE01}",
+        "Cheren: So if you want to set\nPokémon free...{VAR BE01}\nIf that's what you want, you should\nstart with your own.{VAR BE01}\nBut taking people's Pokémon by force\nis not right.{VAR BE01}\nThat is not real strength!{VAR BE01}",
+        "Team Plasma: Hey, there you are!{VAR BE01}\nWe found that thing we were looking for.\nWe should head for the tower now!{VAR BE01}",
+        "Get this! Team Plasma has obtained\nthe power to change this world{VAR BE00}\nand end people's control over Pokémon.{VAR BE01}",
+        "Team Plasma: That's right!{VAR BE01}\nWe must use force in order to right\nthe wrongs of the world.{VAR BE01}\nNow, let's gather around our king.\nOur lord N!{VAR BE01}",
+        "Cheren: Those guys... I don't know what\nthey've found, but they go the extra{VAR BE00}\nmile to gain power and cause trouble.{VAR BE00}\nWhat a bothersome bunch...{VAR BE01}",
+        "{VAR 0100 0000}... I'm going to stay here\nfor a while.{VAR BE01}\nI want to think a little bit about what\nthe Champion asked me...{VAR BE01}\nWhat do I want to do with my power\nafter I get strong?{VAR BE01}\nAnd why do I want to be strong in the\nfirst place?{VAR BE01}",
+        "{VAR 0100 0000}... I'm going to stay here\nfor a while.{VAR BE01}\nI want to think a little bit about what\nthe Champion asked me...{VAR BE01}\nWhat do I want to do with my power\nafter I get strong?{VAR BE01}\nAnd why do I want to be strong in the\nfirst place?",
+        "If you look for something in an empty\nplace like this, you can discover things!",
+        "If you look for something in an empty\nplace like this, you can discover things!{VAR BE01}\nLike this Fossil I just found! Take this!{VAR BE01}",
+        "If you come again tomorrow, you might be\nable to find a Fossil of your own.{VAR BE00}\nSo come on out and play if ya want!"
+    ],
+    "pad": "f0f0"
+}

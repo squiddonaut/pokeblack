@@ -1,0 +1,286 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "USE",
+            "flags": 86
+        },
+        {
+            "text": "TRASH",
+            "flags": 86
+        },
+        {
+            "text": "REGISTER",
+            "flags": 86
+        },
+        {
+            "text": "GIVE",
+            "flags": 86
+        },
+        "",
+        {
+            "text": "CONFIRM",
+            "flags": 86
+        },
+        {
+            "text": "WALK",
+            "flags": 86
+        },
+        "",
+        {
+            "text": "CANCEL",
+            "flags": 73
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "CHECK",
+            "flags": 86
+        },
+        "",
+        {
+            "text": "DESELECT",
+            "flags": 86
+        },
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "--",
+            "flags": 24
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0109 0000} is selected.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        {
+            "text": "The {VAR 0109 0000} can't be held.",
+            "flags": 240
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "Throw away how many\n{VAR 0109 0000}?",
+            "flags": 240
+        },
+        {
+            "text": "Threw away {VAR 0202 0001} {VAR 0109 0000}.",
+            "flags": 240
+        },
+        {
+            "text": "Is it OK to throw away\n{VAR 0202 0001} {VAR 0109 0000}?",
+            "flags": 240
+        },
+        {
+            "text": "Juniper's words echoed...\n{VAR 0100 0000}! There's a time and{VAR BE00}\nplace for everything! But not now.",
+            "flags": 232
+        },
+        {
+            "text": "You can't dismount your Bike here.",
+            "flags": 232
+        },
+        {
+            "text": "Juniper's words echoed...\n{VAR 0100 0000}! There's a time and{VAR BE00}\nplace for everything! But not now.",
+            "flags": 232
+        },
+        "",
+        {
+            "text": "Booted up a TM.",
+            "flags": 240
+        },
+        {
+            "text": "Booted up an HM.",
+            "flags": 240
+        },
+        {
+            "text": "It contained\n{VAR 0107 0000}.{VAR BE01}\nTeach {VAR 0107 0000}\nto a Pokémon?",
+            "flags": 232
+        },
+        {
+            "text": "{VAR 0100 0000} used the\n{VAR 0109 0001}.",
+            "flags": 232
+        },
+        {
+            "text": "Since a Repel's effects still linger,\nyou can't use this now.",
+            "flags": 232
+        },
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR BD02}No. {VAR 0201 0000}　{VAR 0107 0001}",
+            "flags": 144
+        },
+        "",
+        {
+            "text": "{VAR BD02}Hidden {VAR 0201 0000}　{VAR 0107 0001}",
+            "flags": 144
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0109 0000}? Oh, no.\nI can't buy that.",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0109 0000}? \nHow many will you sell?",
+            "flags": 240
+        },
+        {
+            "text": "I can pay ${VAR 0206 0000}.\nWould that be OK?",
+            "flags": 240
+        },
+        {
+            "text": "Turned over the {VAR 0109 0000}\nand received ${VAR 0206 0001}.",
+            "flags": 240
+        },
+        {
+            "text": "Money",
+            "flags": 64
+        },
+        {
+            "text": "${VAR 0206 0000}",
+            "flags": 69
+        },
+        "",
+        {
+            "text": "+${VAR 0206 0000}",
+            "flags": 88
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "PP",
+            "flags": 20
+        },
+        {
+            "text": "POWER",
+            "flags": 60
+        },
+        {
+            "text": "ACCURACY",
+            "flags": 60
+        },
+        {
+            "text": "CATEGORY",
+            "flags": 54
+        },
+        {
+            "text": "{VAR 0201 0000}",
+            "flags": 16
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "TYPE",
+            "flags": 52
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 96
+        },
+        {
+            "text": "x{VAR 0202 0000}",
+            "flags": 48
+        },
+        {
+            "text": "YES",
+            "flags": 47
+        },
+        {
+            "text": "NO",
+            "flags": 47
+        },
+        {
+            "text": "{VAR BD02}{VAR 0109 0000}",
+            "flags": 144
+        },
+        {
+            "text": "It's empty.",
+            "flags": 96
+        },
+        "",
+        "",
+        {
+            "text": "Items have been sorted!",
+            "flags": 240
+        },
+        {
+            "text": "{VAR 0112 0000}",
+            "flags": 96
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am grateful that you came all this way!\nAre you a Trainer?{VAR BE01}\nOoh, you have a Pokédex!\nIt's so marvelous!{VAR BE01}\nI wonder if you'd please do me a favor.",
+        "Oh, Trainer. I'm so pleased that you\ncame all the way here!{VAR BE01}\nI'm wondering if you would do me a favor\ntoday, too.",
+        "I would like to see a Pokémon that has\nlearned a move called {VAR 0107 0000}.{VAR BE01}\nTo be clear, that's {VAR 0107 0000}.\nPlease show it to me today.",
+        "I would like to see a Pokémon that\nlearned a move called {VAR 0107 0000}.{VAR BE01}\nTo be clear, that's {VAR 0107 0000}.\nPlease show it to me today.{VAR BE01}\nOh, my, my, my!{VAR BE01}\nYour {VAR 0101 0001} can\nuse {VAR 0107 0000}!{VAR BE01}\nDid you go to the trouble of teaching it\nto your Pokémon? Marvelous!{VAR BE01}\nThis is a small token of my appreciation.\nPlease don't hesitate to accept this.{VAR BE01}",
+        "I'm touched that you came all the way\nhere, yet you are being so unkind.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, my goodness. Your {VAR 0101 0001} can\nuse {VAR 0107 0000}!{VAR BE01}\nYou went to all the trouble of teaching\nit to your Pokémon? That's so touching!{VAR BE01}\nThis is a small token of my appreciation.\nPlease don't hesitate to accept this.{VAR BE01}",
+        "I wonder what {VAR 0107 0000} looks like\nwhen it is actually used.{VAR BE01}\nI am sure you can use it skillfully!",
+        "You know there are many kinds\nof Pokémon?{VAR BE01}\nDifferent kinds of Pokémon can learn\ndifferent kinds of moves."
+    ],
+    "pad": "dada"
+}

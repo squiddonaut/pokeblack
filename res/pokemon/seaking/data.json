@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_WATER", "TYPE_WATER" ],
     "catch_rate": 60,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 2,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_WATER_2", "EGG_GROUP_WATER_2" ],
-    "abilities": [ "ABILITY_SWIFT_SWIM", "ABILITY_WATER_VEIL" ],
-    "unk_1A": 31,
+    "abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_WATER_VEIL",
+        "ABILITY_LIGHTNING_ROD"
+    ],
     "unk_1B": 60,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 158,
+    "base_exp_reward": 158,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_POISON_JAB" ],
@@ -82,11 +85,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 13,
         "weight": 390
     },
-    "offspring": "SPECIES_GOLDEEN"
+    "offspring": "SPECIES_GOLDEEN",
+    "text": {
+        "70": "Seaking",
+        "235": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors.",
+        "236": "In autumn, its body becomes more\nfatty in preparing to propose to a\nmate. It takes on beautiful colors.",
+        "244": "",
+        "245": "4'03\"",
+        "260": "Goldfish Pokémon",
+        "268": "86.0 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Seaking",
+        "284": "SEAKING"
+    }
 }

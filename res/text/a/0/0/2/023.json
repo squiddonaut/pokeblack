@@ -1,0 +1,56 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "ENTRALINK",
+            "flags": 72
+        },
+        {
+            "text": "XTRANSCEIVER",
+            "flags": 77
+        },
+        {
+            "text": "Union Room",
+            "flags": 127
+        },
+        {
+            "text": "{VAR 0201 0000} Ppl",
+            "flags": 32
+        },
+        {
+            "text": "Wireless Distribution",
+            "flags": 127
+        },
+        {
+            "text": "YES",
+            "flags": 32
+        },
+        {
+            "text": "NO",
+            "flags": 32
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        {
+            "text": "C-Gear Detected",
+            "flags": 127
+        },
+        "",
+        "",
+        {
+            "text": "CONNECTING\nENTRALINK...",
+            "flags": 72
+        },
+        {
+            "text": "ENTRALINK\nGUESTS: {VAR 0200 0000}",
+            "flags": 72
+        },
+        {
+            "text": "ENTRALINK\nMISSION",
+            "flags": 72
+        }
+    ]
+}

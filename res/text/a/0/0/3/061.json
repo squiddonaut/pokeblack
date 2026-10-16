@@ -1,0 +1,65 @@
+{
+    "flags": 224,
+    "entries": [
+        "Ghetsis: My word, if it isn't\nthe Gym Leader, Burgh.{VAR BE01}",
+        "Burgh: So, what would you say is the\nguiding principle of Team Plasma, anyway?{VAR BE01}\n“Take what you want from people\"?{VAR BE01}",
+        "Bronius: I thought it would be amusing\nto prepare a hideout right in front of a{VAR BE00}\nPokémon Gym, but we were detected{VAR BE00}\nmore quickly than I imagined.{VAR BE01}",
+        "Ghetsis: Indeed...{VAR BE01}\nNo matter. We already have an\nexceptional base of operations.{VAR BE01}\nIs everyone familiar with the legend\nof the founding of the Unova region?{VAR BE01}",
+        "Iris: I am! It's the white\nDragon-type Pokémon, right?{VAR BE01}",
+        "Iris: I am! It's the black\nDragon-type Pokémon, right?{VAR BE01}",
+        "Ghetsis: The truth is this...{VAR BE01}\nThe white dragon appeared before a hero\nwho sought the true way to knit together{VAR BE00}\na world full of many warring people.{VAR BE01}\nThis white Dragon-type Pokémon shared\nits knowledge--and bared its fangs{VAR BE00}\nat those who stood against it.{VAR BE01}\nTogether, the power of this Pokémon and\nthe hero brought unity to the hearts of{VAR BE00}\neveryone in the land,{VAR BE00}\nand that is how Unova was created.{VAR BE01}",
+        "Ghetsis: The truth is this...{VAR BE01}\nThe black dragon appeared before a hero\nwho sought the ideal way to knit{VAR BE00}\ntogether a world full of warring people.{VAR BE01}\nThis black Dragon-type Pokémon shared\nits knowledge--and bared its fangs{VAR BE00}\nat those who stood against it.{VAR BE01}\nTogether, the power of this Pokémon and\nthe hero brought unity to the hearts of{VAR BE00}\neveryone in the land,{VAR BE00}\nand that is how Unova was created.{VAR BE01}",
+        "We shall bring back the hero and\nthat Pokémon to Unova once again!{VAR BE01}\nIf we can win people's hearts and minds,\nwe can easily create the world that{VAR BE00}\nI--I mean, Team Plasma--desires!{VAR BE01}",
+        "Burgh: Here in Castelia, we have\na lot of different kinds of people.{VAR BE01}\nEveryone's ways of thinking and\nlifestyles are very different.{VAR BE01}\nHonestly, there's something about what\nyou're saying I don't quite understand.",
+        {
+            "text": "Yes?",
+            "flags": 126
+        },
+        {
+            "text": "What is it?",
+            "flags": 126
+        },
+        "Burgh: One thing we all have in\ncommon is that we all care a lot{VAR BE00}\nabout Pokémon.{VAR BE01}\nEven people meeting for the first time\ncan talk about Pokémon.{VAR BE00}\nTalk or battle or trade...{VAR BE01}",
+        "Remember your speech at Accumula Town?{VAR BE01}\nYou were responsible for leading me to\nrethink my relationship with Pokémon.{VAR BE00}\nFor that, I thank you.{VAR BE01}\nAt that time, I made a promise...{VAR BE01}\nI swore to myself that I would dedicate\nmyself to Pokémon even more strongly!{VAR BE01}\nWhat you guys are doing... Aren't you\ngoing to strengthen the bond between{VAR BE00}\npeople and Pokémon even more?{VAR BE01}",
+        "Ghetsis: Myah-ha-ha-ha!{VAR BE01}\nYou are quite hard to figure out--a little\nmore intelligent than I'd expected.{VAR BE01}\nI am fond of intelligent people, you see.\nYou'll enjoy hearing about this...{VAR BE01}\nFrom every corner of the world,\nI have gathered knowledgeable people{VAR BE00}\nfor our king's benefit.{VAR BE01}\nYou could call them the Seven Sages.{VAR BE01}\nVery well! We will submit to your\nopinion and be on our way.{VAR BE01}",
+        "That girl over there...\nReturn her Pokémon!{VAR BE01}",
+        "Bianca: Th-thank you!{VAR BE01}\nMunny, I'm so glad to see you again!{VAR BE01}",
+        "Iris: Bianca!{VAR BE01}\nWhy are you thanking them?\nThey take people's precious Pokémon!{VAR BE01}",
+        "Bianca: It's just... I'm...I'm so happy\nthat my Munna is safe.{VAR BE01}",
+        "Ghetsis: The friendship between Pokémon\nand people can be very touching.{VAR BE01}\nBut, in order to liberate Pokémon from\nfoolish people, we will revive the legend{VAR BE00}\nof Unova--and win the hearts and minds{VAR BE00}\nof everyone. Farewell...{VAR BE01}",
+        "Iris: What are you doing?\nWhy are you letting them get away?!{VAR BE01}",
+        "Burgh: Gah!{VAR BE01}\nWhat do we do if anything's happened\nto the other stolen Pokémon?{VAR BE01}",
+        "Bianca: It's OK. Thank you, Iris!{VAR BE01}\nNo one was hurt. More than anything,\nI got my darling Pokémon back again!{VAR BE01}",
+        "Iris: OK, if you're happy...{VAR BE01}",
+        "Burgh: What is everyone\nplanning to do now?{VAR BE01}",
+        "Bianca: Oh, it would be sensational to\nlook around Castelia City, but...{VAR BE01}",
+        "Iris: Don't worry!\nI'll keep on being your bodyguard!{VAR BE01}",
+        "Bianca: Iris...{VAR BE01}",
+        "Burgh: Uh-hm. That's great!{VAR BE01}\nIris is a dazzling Pokémon Trainer,\nbut maybe not at home in the{VAR BE00}\nbig city yet.{VAR BE01}\nSo, a little give-and-take, hm! People and\nPokémon need to help each other out!{VAR BE01}",
+        "Iris: Also, thanks for looking\nfor the Pokémon!{VAR BE01}\nHere, this is for you!{VAR BE01}",
+        "Iris: Also, thanks for looking\nfor the Pokémon!{VAR BE01}\nHere, this is for you!{VAR BE01}",
+        "Iris: See you!{VAR BE01}",
+        {
+            "text": "Wha...",
+            "flags": 126
+        },
+        {
+            "text": "Waaait!",
+            "flags": 126
+        },
+        "Burgh: Well, then, {VAR 0100 0000}.\nI'll be waiting in the Gym.{VAR BE01}",
+        "Burgh: Well, then, {VAR 0100 0000}.\nI'll be waiting in the Gym.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "flags": 240,
+    "entries": [
+        {
+            "text": "OPTIONS",
+            "flags": 120
+        },
+        {
+            "text": "TEXT SPEED",
+            "flags": 96
+        },
+        {
+            "text": "BATTLE SCENE",
+            "flags": 80
+        },
+        {
+            "text": "BATTLE STYLE",
+            "flags": 96
+        },
+        {
+            "text": "SOUND",
+            "flags": 48
+        },
+        {
+            "text": "CHARACTERS",
+            "flags": 64
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "SAVE BEFORE IR",
+            "flags": 80
+        },
+        {
+            "text": "CONFIRM",
+            "flags": 56
+        },
+        {
+            "text": "QUIT",
+            "flags": 40
+        },
+        {
+            "text": "SLOW",
+            "flags": 38
+        },
+        {
+            "text": "MID",
+            "flags": 40
+        },
+        {
+            "text": "FAST",
+            "flags": 36
+        },
+        {
+            "text": "ON",
+            "flags": 32
+        },
+        {
+            "text": "OFF",
+            "flags": 48
+        },
+        {
+            "text": "SHIFT",
+            "flags": 64
+        },
+        {
+            "text": "SET",
+            "flags": 56
+        },
+        {
+            "text": "STEREO",
+            "flags": 48
+        },
+        {
+            "text": "MONO",
+            "flags": 48
+        },
+        {
+            "text": "",
+            "flags": 64
+        },
+        {
+            "text": "",
+            "flags": 56
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "SAVE",
+            "flags": 48
+        },
+        {
+            "text": "NO SAVE",
+            "flags": 56
+        },
+        "You can choose from three different\ntext-scrolling speeds.",
+        "You can choose whether to view\nmove animations.",
+        "You can choose to switch Pokémon\nwhen an opponent's Pokémon faints.",
+        "You can choose the way the game sounds.",
+        "",
+        "",
+        "You can choose to save the game\nbefore C-Gear launches infrared.",
+        "You have saved data already.\nYou cannot change this option.{VAR BE01}",
+        "Would you like to make these changes?",
+        {
+            "text": "YES",
+            "flags": 88
+        },
+        {
+            "text": "NO",
+            "flags": 88
+        },
+        {
+            "text": "",
+            "flags": 0
+        }
+    ]
+}

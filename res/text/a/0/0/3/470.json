@@ -1,0 +1,72 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "Welcome to the Pokémon Wi-Fi Club!{VAR BE01}\nWould you like to use\nNintendo Wi-Fi Connection?",
+            "flags": 224
+        },
+        {
+            "text": "Please do visit again.",
+            "flags": 224
+        },
+        {
+            "text": "Would you like to launch\nNintendo WFC?",
+            "flags": 224
+        },
+        {
+            "text": "Right this way, please.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "...Oh?{VAR BE01}\nI'm sorry, but you don't have any\nfriends registered in your Pal Pad.{VAR BE01}\nThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.{VAR BE01}\nWould you like to get your own\nFriend Code at least?{VAR 0200 0000}",
+            "flags": 224
+        },
+        {
+            "text": "...Oh?{VAR BE01}\nI'm sorry, but you don't have any\nfriends registered in your Pal Pad.{VAR BE01}\nThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.{VAR BE01}\nPlease register friends in your\nPal Pad, and then come back.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "At any Wi-Fi Club, you may play using\nNintendo Wi-Fi Connection.{VAR BE01}\nBy doing so, you may trade or battle with\nfriends you have registered in your{VAR BE00}\nPal Pad.{VAR BE01}\nCheck the monitor inside the room to find\nother people to play with.{VAR BE01}\nOr you may play with your friends\nby talking to them directly.{VAR BE01}\nWould you like to use\nNintendo Wi-Fi Connection?",
+            "flags": 224
+        },
+        {
+            "text": "Sorry, we're getting things ready.\nPlease come back later.",
+            "flags": 224
+        },
+        {
+            "text": "You have at least one Pokémon\nthat can't be taken.",
+            "flags": 224
+        },
+        {
+            "text": "Communication error.",
+            "flags": 224
+        },
+        {
+            "text": "Go to Wi-Fi Club",
+            "flags": 219
+        },
+        {
+            "text": "Info",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "pad": "9c9c"
+}

@@ -1,0 +1,10 @@
+{
+    "flags": 229,
+    "entries": [
+        "Hello there!{VAR BE01}\n{VAR 0100 0000},\ndo you have a second?{VAR BE01}",
+        "Professor Juniper,\ndo you need something?{VAR BE01}",
+        "I called Bianca too, but I guess\nshe didn't hear the call.{VAR BE01}\nI wonder what she's caught up in.\nWell, I suppose I'll just have{VAR BE00}\nto call her again later.{VAR BE01}\nOK! I'll be waiting for you two\nin front of the gate to Nimbasa City!{VAR BE01}",
+        "...Um, hello?!{VAR BE01}"
+    ],
+    "pad": "aaaa"
+}

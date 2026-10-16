@@ -1,0 +1,896 @@
+{
+    "flags": 230,
+    "entries": [
+        {
+            "text": "Greet",
+            "flags": 91
+        },
+        {
+            "text": "Draw",
+            "flags": 91
+        },
+        {
+            "text": "Battle",
+            "flags": 91
+        },
+        {
+            "text": "Trade",
+            "flags": 91
+        },
+        {
+            "text": "Cancel",
+            "flags": 91
+        },
+        {
+            "text": "Spin",
+            "flags": 91
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\n{VAR 0100 0000}\nhas contacted you.{VAR BE02 000F}",
+        "The chat has been dropped.",
+        "Awaiting a response from\n{VAR 0100 0000}...{VAR BE02 000F}",
+        "The chat was ended.",
+        "You have an offer to see\n{VAR 0100 0000}'s Trainer Card.{VAR BE01}\nWould you like to show your\nTrainer Card?",
+        "This is the Trainer Card of\n{VAR 0100 0000}, who lives in{VAR BE00}\n{VAR 0125 0004},{VAR BE00}\n{VAR 0124 0003}.{VAR BE02 003C}",
+        "This is the Trainer Card of\n{VAR 0100 0000}, who lives in{VAR BE00}\n{VAR 0124 0003}.{VAR BE02 003C}",
+        "This is the Trainer Card of\n{VAR 0100 0000}, who lives in{VAR BE00}\n{VAR 0125 0004}.{VAR BE02 003C}",
+        "This is {VAR 0100 0000}'s\nTrainer Card.{VAR BE02 003C}",
+        "Waiting for the other player to finish.",
+        "You declined the offer.",
+        "{VAR 0100 0000} has invited you to draw\nsomething.{VAR BE01}\nWould you like to join the other\nplayer and draw?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You declined the offer.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Single Battle\nwith no restrictions?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Single Battle\nwith Flat Battle rules?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Double Battle\nwith no restrictions?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Double Battle\nwith Flat Battle rules?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Triple Battle\nwith no restrictions?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Triple Battle\nwith Flat Battle rules?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Rotation Battle\nwith no restrictions?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Rotation Battle\nwith Flat Battle rules?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Multi Battle\nwith no restrictions?{VAR BE01}",
+        "{VAR 0100 0000} proposed\na battle.{VAR BE01}\nWill you accept a Multi Battle\nwith Flat Battle rules?{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You declined the offer.",
+        "{VAR 0100 0000} has offered to\nmake a trade.{VAR BE01}\nWill you accept this trade offer?",
+        "The trade will be started!{VAR BE02 003C}",
+        "You declined the offer.",
+        "You need at least two Pokémon\nin your party if you want to trade!",
+        "{VAR 0100 0000} has invited you to\nmix records.{VAR BE01}\nWould you like to mix records\nwith the other player?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "{VAR 0100 0000} has invited you to join\na Spin Trade session.{VAR BE01}\nWould you like to take part\nin the Spin Trade?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You declined the offer.",
+        "You don't have an Egg.\nThe invitation was turned down.",
+        "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\nThis is {VAR 0100 0000}! Is there\nsomething you wanted to do?",
+        "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\nHello, it's {VAR 0100 0000}!\nWould you like to do something?",
+        "Whoops! Sorry, but I have to do\nsomething else.{VAR BE00}\nAnother time, OK?",
+        "Whoops! Sorry, but I have to do\nsomething else.{VAR BE00}\nAnother time, OK?",
+        "What would you like to do?",
+        "What would you like to do?",
+        "...\nThe Trainer appears to be busy...",
+        "... ...\nThe Trainer appears to be busy...",
+        "{VAR 0100 0000} did not reply...",
+        "{VAR 0100 0000} did not reply...",
+        "Sure thing! Let me show you\nmy Trainer Card.",
+        "Hi, let me introduce myself\nby showing you my Trainer Card.",
+        "Huh? My Trainer Card...\nWhere'd it go now?{VAR BE01}\nSorry! I'll show you another time!",
+        "Huh? My Trainer Card...\nWhere'd it go now?{VAR BE01}\nSorry! I'll show you another time!",
+        "I'm just showing my Trainer Card\nas my way of a greeting.",
+        "We're showing each other our\nTrainer Cards to get acquainted.",
+        "I hope I get to know you better!",
+        "Glad to meet you.\nPlease don't be a stranger!",
+        "Oh, did you want to draw with me?\nSure thing, but hang on just a second.",
+        "You want to draw with me?\nSure! Just give me a second...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, sorry! I can't now.\nLet's draw another time.",
+        "Oh, I'm sorry!\nLet's draw another time!",
+        "{VAR 0100 0000}: We're drawing right\nnow.{VAR BE01}\nOh, I know! {VAR 0100 0001}, would\nyou like to draw with us?",
+        "{VAR 0100 0000}: We're drawing right\nnow.{VAR BE01}\nOh, I know! {VAR 0100 0001}, would\nyou like to draw with us?",
+        "Oh, all right.\nCome see me anytime, OK?",
+        "Oh...\nPlease come by anytime.",
+        "OK! Just give me a second!",
+        "OK! Just give me a second!",
+        "OK! Let's do some drawing\ntogether!{VAR BE02 003C}",
+        "OK! Thanks for waiting!\nLet's get drawing!{VAR BE02 003C}",
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nLet's draw some other time, OK?",
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nLet's draw some other time, OK?",
+        "The last letter of what you draw has\nto be the first letter of what I draw?",
+        "Wow!\nYou're really good!",
+        "Stop drawing funny faces!\nIt hurts to laugh so much!",
+        "Ahaha!\nWhat is that?!",
+        "Wow, you're good!\nI'll try to imitate you!",
+        "I love drawing!\nI can draw and draw!",
+        "...Uh-huh... What is that?\nIs that supposed to be me?",
+        "Oops!\nI can't stay inside the lines!",
+        "A battle? Of course, but I need\ntime to get ready.",
+        "A battle? Of course, but I need\ntime to get ready.",
+        "Thanks for waiting!\nLet's get our battle started!{VAR BE02 003C}",
+        "Sorry I made you wait!\nLet's get started!{VAR BE02 003C}",
+        "Sorry! My Pokémon don't seem to\nbe feeling too well right now.{VAR BE00}\nLet me battle you another time.",
+        "I'm terribly sorry, but my Pokémon\naren't feeling well...{VAR BE01}\nLet's battle another time.",
+        "{VAR 0100 0000}: We're about to have a\nMulti Battle.{VAR BE01}\nOh! {VAR 0100 0001}, would you\njoin us in the Multi Battle?",
+        "{VAR 0100 0000}: We're about to have a\nMulti Battle.{VAR BE01}\nOh! {VAR 0100 0001}, would you\njoin us in the Multi Battle?",
+        "Oh, all right.\nCome see me anytime, OK?",
+        "Oh...\nPlease come by anytime.",
+        "OK! Just give me a second!",
+        "OK! Just give me a second!",
+        "Sorry to make you wait! OK then,\nlet's have a Multi Battle!{VAR BE02 003C}",
+        "Sorry to keep you waiting! OK then,\nlet's have a Multi Battle!{VAR BE02 003C}",
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nAnother time, OK?",
+        "Oh, sorry!\nLet's do this another time!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Whoa!\nI can tell you're pretty tough!",
+        "That Pokémon...\nIt's been raised really well!",
+        "You used that move?\nThat's good strategy!",
+        "That's it!\nThis is the right move now!",
+        "Way to go!\nThat was an eye-opener!",
+        "That's awesome!\nI've never seen that battle style!",
+        "Oh! How could you use that\nPokémon in that situation?",
+        "You have exquisite timing for\nswitching Pokémon!",
+        "You want to trade, huh?\nSure, hold on just a second.",
+        "A trade? Of course, but I need\ntime to get ready.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Sorry! I don't have a Pokémon\nthat I can trade right now.{VAR BE01}\nLet's trade some other time.",
+        "I'm sorry, but I don't have any\nPokémon that I can trade now...{VAR BE01}\nLet's trade some other time!",
+        "Oh yeah!\nI really wanted this Pokémon!",
+        "I'm trading Pokémon right now.",
+        "Finally, I got that Pokémon\nI've wanted for so long.",
+        "I finally got that Pokémon\nI wanted in a trade!",
+        "You can't trade if you have only one\nPokémon with you.{VAR BE01}",
+        "You can't trade if you have only\none Pokémon with you.{VAR BE01}",
+        "If you want to do something\nwith me, just give me a shout!",
+        "If you want to do something\nwith me, don't be shy. Just ask!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nAnother time, OK?",
+        "Oh, sorry!\nLet's do this another time!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Spin Trade? Sure!\nOK, just hold on a second!",
+        "Spin Trade? Of course!\nOK, can you just wait a moment?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nAnother time, OK?",
+        "Oh, sorry!\nLet's do this another time!",
+        "You need an Egg if you want to take\npart in a Spin Trade.{VAR BE01}",
+        "You need an Egg if you want to\ntake part in a Spin Trade.{VAR BE01}",
+        "{VAR 0100 0000}: We're going to do a Spin\nTrade now.{VAR BE01}\nHey, {VAR 0100 0001}! Do you want to join\nus for a Spin Trade, too?",
+        "{VAR 0100 0000}: We were doing Spin Trades\njust now.{VAR BE01}\n{VAR 0100 0001}, do you want to join us\nand do some Spin Trades, too?",
+        "Oh, all right.\nCome see me anytime, OK?",
+        "Oh...\nPlease come by anytime.",
+        "OK! Just give me a second!",
+        "OK! Just give me a second!",
+        "OK!\nLet's do a Spin Trade together!{VAR BE02 003C}",
+        "OK!\nLet's do a Spin Trade together!{VAR BE02 003C}",
+        "What's this?\nIt looks like you don't have an Egg.{VAR BE01}\nWhen you have an Egg, please come back!",
+        "What's this?\nIt looks like you don't have an Egg.{VAR BE01}\nWhen you bring an Egg,\nlet's do this again!",
+        "Oh, I'm sorry.\nI have too much to do right now.{VAR BE00}\nAnother time, OK?",
+        "Oh, sorry!\nLet's do this another time!",
+        "There is an Egg that cannot be traded\nin your party.",
+        "There is an Egg that cannot be traded\nin your party.",
+        "There is an Egg that cannot be traded\nin your party.{VAR BE01}",
+        "There is an Egg that cannot be traded\nin your party.{VAR BE01}",
+        "Spin Trades are so much fun!",
+        "We're doing Spin Trades!",
+        "There!\nStop there!",
+        "Wah!\nIt moved again!",
+        "My Egg's awesome!",
+        "There goes the Egg I wanted...",
+        "Yes!\nI got the Egg I wanted!",
+        "If it stopped there,\nI would've gotten a Berry.",
+        {
+            "text": "Welcome to the Union Room.{VAR BE01}\nIf there is anything you need help with,\nplease let me know!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Which topic would you\nlike me to explain?",
+            "flags": 224
+        },
+        {
+            "text": "There are five Battle Formats.{VAR BE01}\nSingle Battle is for two Trainers\nwith one or more Pokémon each.{VAR BE01}\nEach Trainer can have one Pokémon\nin battle at a time.{VAR BE01}\nDouble Battle is for two Trainers\nwith two or more Pokémon each.{VAR BE01}\nEach Trainer will send out two\nPokémon to battle at a time.{VAR BE01}\nTriple Battle is for two Trainers\nwith three or more Pokémon each.{VAR BE01}\nEach Trainer puts three Pokémon\ninto battle at one time.{VAR BE01}\nRotation Battle is for two Trainers.\nEach Trainer sends three Pokémon{VAR BE00}\ninto battle, with one Pokémon in front{VAR BE00}\nand the other two in back.{VAR BE01}\nMulti Battle is for four Trainers\nwith one or more Pokémon each.{VAR BE01}\nEach Trainer can have one Pokémon\nin battle at a time.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "You may trade your Pokémon with\nother players.{VAR BE01}\nMeeting new people could be a\nshortcut to meeting rare Pokémon!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "In a Spin Trade, each participant brings\nan Egg to trade with others.{VAR BE01}\nWhich Egg will you end up with?\nWhat kind of Pokémon is in that Egg?{VAR BE00}\nIt's quite exciting and fun!{VAR BE01}\nUp to five players can take part,\nso try it with your friends!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "You may get together with others\nand draw.{VAR BE01}\nYou all work on one sheet\nof paper at the same time.{VAR BE01}\nI'm sure a drawing made by friends\nwill be a memorable masterpiece!{VAR BE01}\nUp to five players can take part,\nso try it with your friends!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "You can chat with other people\nby selecting “CHAT\" in the menu.{VAR BE01}\nGo out and meet other players in\nthe Union Room!{VAR BE01}\nLet people know what you're like\nand what you'd like to do.{VAR BE01}\nMingle, chat, and add to your\ncircle of friends!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Battle",
+            "flags": 219
+        },
+        {
+            "text": "Trade",
+            "flags": 219
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Spin",
+            "flags": 219
+        },
+        {
+            "text": "Draw",
+            "flags": 219
+        },
+        {
+            "text": "Chat",
+            "flags": 219
+        },
+        {
+            "text": "Cancel",
+            "flags": 219
+        },
+        "Talking to {VAR 0100 0000}...",
+        "Whoops! Sorry, but I have to do\nsomething else.{VAR BE00}\nAnother time, OK?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "こんにちは{FF01}",
+        "Hello!",
+        "Bonjour!",
+        "Ciao!",
+        "Hallo!",
+        "Hola!",
+        "H-e-l-l-o-!",
+        "안녕하세요",
+        {
+            "text": "Battles for two",
+            "flags": 139
+        },
+        {
+            "text": "Battles for four",
+            "flags": 139
+        },
+        {
+            "text": "Cancel",
+            "flags": 139
+        },
+        {
+            "text": "Single Battle",
+            "flags": 139
+        },
+        {
+            "text": "Double Battle",
+            "flags": 139
+        },
+        {
+            "text": "Triple Battle",
+            "flags": 139
+        },
+        {
+            "text": "Rotation Battle",
+            "flags": 139
+        },
+        {
+            "text": "Confirm",
+            "flags": 227
+        },
+        {
+            "text": "Rules",
+            "flags": 227
+        },
+        {
+            "text": "Cancel",
+            "flags": 139
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "No Restrictions",
+            "flags": 139
+        },
+        {
+            "text": "Flat Battle",
+            "flags": 139
+        },
+        {
+            "text": "Wonder Launcher on",
+            "flags": 139
+        },
+        {
+            "text": "Wonder Launcher off",
+            "flags": 139
+        },
+        {
+            "text": "Cancel",
+            "flags": 139
+        },
+        {
+            "text": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Single Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Double Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Triple Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Rotation Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Battle Format{VAR BD05 0073}: Multi Battle",
+            "flags": 240
+        },
+        {
+            "text": "Battle Rules{VAR BD05 0073}: {VAR FF00 0002}No Restrictions{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Battle Rules{VAR BD05 0073}: {VAR FF00 0002}Flat Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Wonder Launcher{VAR BD05 0073}: {VAR FF00 0002}On{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "Wonder Launcher{VAR BD05 0073}: {VAR FF00 0002}Off{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You don't meet the conditions,\nso you cannot participate.",
+        "Please wait a moment...\nPress the B Button to cancel.",
+        "Please choose the Pokémon\nthat will participate.{VAR BE02 003C}",
+        "Please select the three Pokémon\nthat will participate.{VAR BE02 003C}",
+        "Please select the four Pokémon\nthat will participate.{VAR BE02 003C}",
+        "Please select the six Pokémon\nthat will participate.{VAR BE02 003C}",
+        "Please select up to three Pokémon\nthat will participate.{VAR BE02 003C}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "I don't know this game, so I won't play!",
+        "I don't meet the conditions, so I\ncan't battle!",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Ending communication.\nPlease wait...{VAR BE02 003C}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Communication will end.\nIs that OK?",
+        {
+            "text": "Party",
+            "flags": 208
+        },
+        {
+            "text": "Battle Box",
+            "flags": 208
+        },
+        "... ...\nThe Trainer appears to be busy...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Normal Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Bronze Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Copper Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Silver Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Gold Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a White Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Black Card!",
+        "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n...It's a Card you haven't seen before!"
+    ],
+    "pad": "baba"
+}

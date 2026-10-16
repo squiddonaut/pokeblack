@@ -1,0 +1,47 @@
+{
+    "flags": 96,
+    "entries": [
+        {
+            "text": "No. of Pokémon",
+            "flags": 108
+        },
+        {
+            "text": "Pokémon level",
+            "flags": 108
+        },
+        {
+            "text": "Special Pokémon",
+            "flags": 108
+        },
+        {
+            "text": "Same Pokémon",
+            "flags": 108
+        },
+        {
+            "text": "Same items",
+            "flags": 108
+        },
+        {
+            "text": "Wonder Launcher",
+            "flags": 108
+        },
+        ": No Restrictions",
+        ": {VAR 0200 0000}",
+        ": {VAR 0200 0000} or more",
+        ": {VAR 0200 0000} to {VAR 0200 0001}",
+        ": No Restrictions",
+        ": Becomes {VAR 0202 0000}",
+        ": Up to {VAR 0202 0000}",
+        ": {VAR 0202 0000} and up",
+        ": Becomes {VAR 0202 0000}-",
+        ": Becomes {VAR 0202 0000}+",
+        ": Permitted",
+        ": Banned",
+        ": Permitted",
+        ": Banned",
+        ": Permitted",
+        ": Banned",
+        ": On",
+        ": Off"
+    ]
+}

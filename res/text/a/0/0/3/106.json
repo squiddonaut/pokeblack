@@ -1,0 +1,19 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hoo ha!\nYou have a Pokédex.{VAR BE01}\nHow many Pokémon have you found?{VAR BE01}\nIf you find 50 or more, I'll give you\nsomething sure to delight!",
+        "Ha hoo!\nYou have a Pokédex.{VAR BE01}\nHow many Pokémon have you found?{VAR BE01}\nHoo ha! You've found 50 or more!\nNow we're talking! This is for you!{VAR BE01}",
+        "A Pokémon holding a Shell Bell recovers\nits HP a little bit if it inflicts damage{VAR BE00}\nduring a battle.{VAR BE01}\nBut what's more important is this. Have\nyou shown the Pokédex to a professor?",
+        "Hey, hey! Let's jump on this! We'll trade\nmy {VAR 0101 0001} with your {VAR 0101 0000}!",
+        "Let's start the Pokémon trade!{VAR BE01}",
+        "Please take good care of my {VAR 0101 0001}!",
+        "What I want is {VAR 0101 0000}.",
+        "Oh...\nYou must love your Pokémon.{VAR BE01}\nWell, if you ever change your mind,\nlet's trade!",
+        "I'll raise the Pokémon you traded me!{VAR BE01}\nIf you become extra strong, I just might\nlet you have a battle with me!",
+        "Hey, hey! Let's jump on this! \nMy {VAR 0102 0000} and your Pokémon battle!",
+        "I trained and trained the {VAR 0102 0000}\nthat you traded me! Don't be surprised{VAR BE00}\nif it's too strong for you to handle!{VAR BE01}",
+        "Oh... You don't feel like having a battle?{VAR BE01}\nWell, if you ever change your mind, come\nback and battle me!",
+        "When I train {VAR 0102 0000}, it reminds me\nof you...{VAR BE01}\nThanks for the trade!"
+    ],
+    "pad": "f6f6"
+}

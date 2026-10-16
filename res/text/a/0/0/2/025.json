@@ -1,0 +1,18 @@
+{
+    "flags": 216,
+    "entries": [
+        "Please enter the Friend Code.",
+        "Enter\nTrain Number (01-{VAR 0201 0000})",
+        "Enter\nRank (01-{VAR 0201 0000})",
+        {
+            "text": "BACK",
+            "flags": 80
+        },
+        {
+            "text": "OK",
+            "flags": 80
+        },
+        "There is no such Train Number.\nPlease enter a number up to {VAR 0201 0000}.",
+        "There is no such Rank.\nPlease enter a number up to {VAR 0201 0000}."
+    ]
+}

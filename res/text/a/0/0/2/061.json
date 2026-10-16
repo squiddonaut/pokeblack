@@ -1,0 +1,29 @@
+{
+    "flags": 0,
+    "entries": [
+        {
+            "text": "VIEW CATEGORIES",
+            "flags": 222
+        },
+        {
+            "text": "SHOW ALL",
+            "flags": 222
+        },
+        {
+            "text": "Please select a category.",
+            "flags": 208
+        },
+        {
+            "text": "Please select what you want to read.",
+            "flags": 208
+        },
+        {
+            "text": "{VAR 0200 0000}/{VAR 0200 0001}",
+            "flags": 23
+        },
+        "",
+        "",
+        ""
+    ],
+    "pad": "0c0c"
+}

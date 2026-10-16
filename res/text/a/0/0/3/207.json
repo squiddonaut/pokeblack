@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "entries": [
+        "In winter, the appearance of\nTwist Mountain changes.{VAR BE01}\nWhen I see that, I feel a sense of relief.",
+        "Snow is so amazing...\nIt's like a clean slate for the world.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "When I can stand firm, even though the\nground beneath me is slanted, it makes me{VAR BE00}\nfeel even more alive!"
+    ],
+    "pad": "6666"
+}

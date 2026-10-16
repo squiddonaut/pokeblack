@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Well...{VAR BE01}\nThink it's about time to see fer myself\nwhat it is about yer skills that made a{VAR BE00}\nGym Leader like Elesa take such a{VAR BE00}\nshine to ya.{VAR BE01}",
+        "Mrrrmph. I see. But I sure don't like it!{VAR BE01}\nFer such a young 'un, ya have an imposin'\nbattle style.{VAR BE01}\nI know ya got people who can dig up\nyer potential.{VAR BE01}\nMrmph.\nHere! Take this!{VAR BE01}",
+        "{VAR 0100 0000} received the Quake Badge\nfrom Clay!{VAR BE01}",
+        "So this is yer fifth Badge, huh?{VAR BE01}\nIf that's so, Pokémon up to Lv. 60\nwill obey ya.{VAR BE01}\nAlso, I'll give ya this TM.{VAR BE01}\n...Well, that was the plan, but I just\nremembered there's somethin' I want.{VAR BE01}\nWait in front of the cave at the end of\nRoute 6, wouldja?",
+        "Clay: What's the problem?{VAR BE01}\nGo wait in front of the cave at the end\nof Route 6!",
+        "I don't know how much potential ya got,\nbut if ya think ya can go, go wherever,{VAR BE00}\nand if ya think ya can do somethin',{VAR BE00}\nkeep doin' it.{VAR BE01}\nDo things how ya want!\nDecide yer own limits.",
+        "Clay: Mrrmph! You, huh?\nRemember what I done told ya?{VAR BE01}\nIf ya think ya can go, go wherever,\nand if ya think ya can do somethin',{VAR BE00}\nkeep doin' it.{VAR BE01}\nDo things how ya want!\nDecide yer own limits.",
+        "This elevator can't go any higher!",
+        "This elevator can't go any lower!"
+    ]
+}

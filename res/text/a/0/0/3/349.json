@@ -1,0 +1,58 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Cheren: Professor Juniper, I'm sorry\nto have kept you waiting.{VAR BE01}",
+        "Professor Juniper: Now that everyone's\nhere, I'll explain.{VAR BE01}\nThe Pokédex's pages update automatically\nwhenever you meet a Pokémon!{VAR BE01}\nMoreover, it's set up so that\nyou obtain even more information{VAR BE00}\nwhen you catch a Pokémon!{VAR BE01}\nTo make this clear, I'm going to\ndemonstrate how to catch a Pokémon!{VAR BE01}",
+        "Professor Juniper: Did you see that,\njust now?{VAR BE01}\nHere's how it goes, step by step.\nFirst, reduce the Pokémon's HP!{VAR BE01}\nPokémon that still have all of\ntheir energy are difficult to catch.{VAR BE01}\nIf you can, use your Pokémon's moves to\nmake the Pokémon you want to catch{VAR BE00}\nfall asleep. Or paralyze it!{VAR BE01}\nAnd to wrap this up in the best way,\nI have a gift for you--some Poké Balls!{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Professor Juniper: Poké Balls are used\nfor catching Pokémon and for carrying{VAR BE00}\nthe Pokémon you catch!{VAR BE01}\nI'm going on ahead.\nI'll be waiting for you in Accumula Town!{VAR BE01}",
+        "Cheren: She forgot to say that Pokémon\njump out at you in the tall grass.{VAR BE01}",
+        "I'm heading to Accumula Town, too.{VAR BE01}",
+        "Bianca: I think I'll go, too.{VAR BE01}\nI'm looking forward to the next town\nso I can go shopping for Poké Balls!{VAR BE01}",
+        "Bianca: Wait a minute!{VAR BE01}\nHey, listen!\n{VAR 0100 0000}, Cheren,{VAR BE00}\nI thought of something fun!{VAR BE01}",
+        "Cheren: But we need to get going!\nI'd imagine the professor's waiting, too.{VAR BE01}",
+        "Bianca: Would you just listen a sec?\nSeriously!{VAR BE01}\nWhy don't we see who can catch\nthe most Pokémon?{VAR BE01}\nThe person carrying the most Pokémon,\nincluding the one received from{VAR BE00}\nProfessor Juniper, is the winner!{VAR BE01}",
+        "Cheren: Huh.\nActually, that sounds interesting.{VAR BE01}\nIt will fill up Pokédex pages, so I'm\nsure it will please the professor, too.{VAR BE01}\nOK, then. Until we reach Accumula Town,\ntake care of healing your Pokémon{VAR BE00}\nat your own house.{VAR BE01}",
+        "Bianca: Me and {VAR 0101 0000}\nwill do the best for sure!{VAR BE01}",
+        "Cheren: {VAR 0100 0000}, are you going to\ncompare yourself with Bianca?{VAR BE01}\nBoth Bianca and I have two Pokémon\nwith us.",
+        "Bianca: How about it, {VAR 0100 0000}?{VAR BE01}\nDo you want to compare which one\nof us has the most Pokémon with them?",
+        "Bianca: Hmm...\nGuess I'll be waiting here, then.{VAR BE01}",
+        "Bianca: Wow, {VAR 0200 0000}?! That's awesome!{VAR BE01}\nAre you excited to have that many\nPokémon with you?{VAR BE01}",
+        "Bianca: Seems the number of Pokémon\n{VAR 0100 0000} has is...{VAR BE01}\nTwo!\nWe all have the same number, then!{VAR BE01}",
+        "Bianca: What? What? What?\nYou only have {VAR 0101 0000}?!{VAR BE01}\nIf you don't catch any Pokémon, won't\n{VAR 0101 0000} get lonely?{VAR BE01}",
+        "Cheren: Incidentally, if you check your\nPokédex, you'll see how many Pokémon{VAR BE00}\nyou've found and how many{VAR BE00}\nyou've caught.{VAR BE01}\nI'm off to Accumula Town!\nThe professor is waiting.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Xtransceiver is ringing.",
+        "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}",
+        "Cheren: Well, I'm going on ahead.{VAR BE01}",
+        "Is your Pokémon's HP all right?{VAR BE01}\nWhen your Pokémon's HP decreases while\nyou're on the road, it can be{VAR BE00}\na big problem, so I'll give you this.{VAR BE01}\nPut it in your Bag's Medicine Case.{VAR BE01}",
+        "When your Pokémon's HP decreases,\nthey no longer have the energy to fight.{VAR BE01}\nSo, don't push your Pokémon too hard,\nand let them rest often.",
+        "Wild Pokémon are hiding in the tall grass.\nWhat does this mean for you?{VAR BE01}\nIt means when you want to battle\nor capture wild Pokémon,{VAR BE00}\nyou should go walk in the tall grass.",
+        {
+            "text": "Route 1",
+            "flags": 207
+        },
+        {
+            "text": "Route 1",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nMake an effort to talk to all the\npeople you meet during your journey!{VAR BE01}\nChances are they will have something\nuseful to tell you.",
+            "flags": 207
+        }
+    ]
+}

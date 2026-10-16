@@ -1,0 +1,30 @@
+{
+    "flags": 224,
+    "entries": [
+        "I want to know the future!\nI am very worried...{VAR BE01}\nI wonder how my child, Thyme, will spend\nthe future.{VAR BE01}\nI'm making a machine that connects the\nfuture and the present, but electricity{VAR BE00}\nis desperately short.{VAR BE01}",
+        "I've heard that in another world,\nthere's another Opelucid City that looks{VAR BE00}\nvery futuristic.{VAR BE01}\nIf there is a Pokémon from that world\nthat knows the move Charge, the machine{VAR BE00}\nmay work.{VAR BE01}\nIf you're able, would you be willing to\nlend me a Pokémon like that?",
+        "I...I see. What a pity.\nIf you change your mind, please return.",
+        "Th-thank you!\nNow my machine will work!{VAR BE01}",
+        "I appreciate the thought, but...you\ndon't have a Pokémon that meets the{VAR BE00}\nconditions I need.",
+        "I appreciate the thought, but although\nyour Pokémon knows Charge, it's not from{VAR BE00}\nthat other world...",
+        "Now, please show me the future!{VAR BE01}",
+        "Whirrr, whirrr, whirrr...{VAR BE01}",
+        "Oh! So that's what the future is like!{VAR BE01}\nMy precious Thyme is growing up as such\na good kid!{VAR BE01}",
+        "Oh, it returned to normal...{VAR BE01}\nBut what an experience!\nI can't stop trembling!{VAR BE01}\nAnd even though I know the future,\nI guess my present time won't change.{VAR BE01}",
+        "I will return your Pokémon to you.\nThis is my thank-you gift.{VAR BE01}",
+        "Rather than worrying about the future,\nit is important to live in the present,{VAR BE00}\nwhich connects to the future, as best{VAR BE00}\nyou can.{VAR BE01}\nOK, Thyme! Let's go out later!\nToday, let's play as hard as we can!",
+        "Thyme: I, I...\nWhat will I be when I grow up?",
+        "I want to return to the past!\nI want to do many things over again!{VAR BE01}\nMy father, Bach, created a machine to\nsee the future.{VAR BE01}\nI am making a machine to connect with\nthe past.{VAR BE01}\n...But I don't have enough electricity.{VAR BE01}",
+        "I've heard that in another world,\nthere's another Opelucid City that looks{VAR BE00}\nvery old-timey.{VAR BE01}\nIf there is a Pokémon from that world\nthat knows the move Charge, the machine{VAR BE00}\nmay work.{VAR BE01}\nIf you're able, would you be willing to\nlend me a Pokémon like that?",
+        "Ah... What a pity.\nThere is no other way...",
+        "Yes!\nNow, the machine will work.{VAR BE01}",
+        "You're nice to offer, but I'm afraid you\ndon't have a Pokémon that meets the{VAR BE00}\nconditions I need.",
+        "That's nice of you, but although your\nPokémon knows Charge, it's not from{VAR BE00}\nthat other world...",
+        "Now, we can connect with the past!{VAR BE01}",
+        "We connected with the past!{VAR BE01}\nFather! It's me, Thyme!\nI owe you an apology...{VAR BE01}",
+        "It returned to normal...\nIt seems to have run out of electricity.{VAR BE01}\nI connected with the past...but I guess\nmy present time won't change.{VAR BE01}",
+        "Oh!\nI will return your Pokémon to you.{VAR BE01}\nThank you.\nThis is my thank-you gift.{VAR BE01}",
+        "Rather than regretting the past...\nit is important to live in the present,{VAR BE00}\nwhich connects from the past,{VAR BE00}\nas best as you can.{VAR BE01}\nOK!\nI'll live positively!",
+        "I heard that my father had a fight with\nmy Grandpa Bach a long, long time ago!"
+    ]
+}

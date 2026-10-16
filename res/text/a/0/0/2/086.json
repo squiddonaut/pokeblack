@@ -1,0 +1,11 @@
+{
+    "flags": 240,
+    "entries": [
+        "The {VAR 0102 0000} your Pokémon saw in the\ndream appeared!",
+        "Come here, {VAR 0102 0000}!",
+        "Yes!\n{VAR 0102 0000} has joined your party!",
+        "What will {VAR 0100 0000} do?",
+        "{VAR 0100 0000} left..."
+    ],
+    "pad": "1818"
+}

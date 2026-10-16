@@ -1,0 +1,43 @@
+{
+    "flags": 224,
+    "entries": [
+        "Hey there!\nI'm Fennel.{VAR BE01}\nProfessor Juniper asked me\nto give you something.{VAR BE00}\nPlease, follow me!{VAR BE01}",
+        "Are you looking for the Gym Leader?{VAR BE01}\nHe is not here.\nHe could be in the Trainers' School.{VAR BE01}\nIf you want to challenge him,\nplease go find him.{VAR BE01}\nThe Trainers' School is not far from\nthis Gym.",
+        "Yes? Yes, I am a Gym Leader of this town.\nYou are...?{VAR BE01}\nRight. You want to challenge the Gym.{VAR BE01}\nIn that case...\nWhat was the first Pokémon you chose?{VAR BE01}\n{VAR 0101 0000}... I see. It's weak against\n{VAR 0103 0001}-type Pokémon.{VAR BE01}\nI think you need to prepare to face\nthat type.{VAR BE01}\nI'll be waiting for you inside.{VAR BE01}",
+        "Yes? Yes, I am a Gym Leader\nof this town.{VAR BE00}\nYou are...?{VAR BE01}\nRight. You want to challenge the Gym.{VAR BE01}\nIn that case...\nWhat was the first Pokémon you chose?{VAR BE01}\n{VAR 0101 0000}... I see. It's weak against\n{VAR 0103 0001}-type Pokémon.{VAR BE01}\nI think you need to prepare to face\nthat type.{VAR BE01}\nFor example, try training your Pokémon\nin the Dreamyard.{VAR BE01}\nPlease excuse me now.{VAR BE01}",
+        "You don't seem to have any Gym Badges,\nso I can't let you by.{VAR BE01}\nWith your lack of training, you'll have\na hard job making any progress.{VAR BE01}\nLet me give you some friendly advice.{VAR BE01}\nChallenge a Gym Leader in this town,\nand test your ability!",
+        "You don't seem to have\nany Gym Badges.{VAR BE01}\nWith your lack of experience,\nyou'll have a hard time in the future.{VAR BE01}\nHere's some friendly advice.\nChallenge a Gym Leader in this town,{VAR BE00}\nand test your ability!{VAR BE01}",
+        "The scientist Fennel was looking for you\na little while ago!",
+        "The scientist Fennel was looking for you\na little while ago!{VAR BE01}",
+        "Wow!\nIt's a shiny Gym Badge!{VAR BE01}\nGetting that Badge proved you have skill\nenough to handle whatever comes next!",
+        "The Striaton City Gym Leader.{VAR BE01}\nNo matter how often I challenge him,\nhe always uses Pokémon{VAR BE00}\nthat I don't like...",
+        "If a Pokémon type and a move type are\nthe same, the move's power will increase!{VAR BE00}\nThe Gym Leader told me!",
+        "At the site of an old factory,\nat a place we call the Dreamyard,{VAR BE00}\nthere's an unusual Pokémon{VAR BE00}\nthat can make dreams appear!",
+        "I too studied at the Trainers' School\nwhen I was a beginner.",
+        "Do you know how Technical Machines work?{VAR BE01}\nA TM can instantly teach a move to a\nPokémon. You can use it over and over{VAR BE00}\nwith different Pokémon. How cool is that?",
+        "Er... Um...{VAR BE01}\nGrass-type Pokémon are\nweak against Fire-type moves.{VAR BE01}\nI know more stuff!",
+        "Er... Um...{VAR BE01}\nWater-type Pokémon are\nweak against Grass-type moves.{VAR BE01}\nI know more stuff!",
+        "Um... Er...{VAR BE01}\nFire-type Pokémon are\nweak against Water-type moves.{VAR BE01}\nI know more stuff!",
+        "Some Trainers train themselves and\ntheir Pokémon in the Dreamyard.{VAR BE01}\nYou might think about going there...\nCould be you'll find something...",
+        "I'm so glad you came.\nI'd like to give you this!{VAR BE01}",
+        "To live quietly and do a lot of fishing...\nI truly live my ideal existence!",
+        "Pokémon can be found in dark places, too.\nThat's when a Dusk Ball can do the trick!{VAR BE00}\nHere's one for you.{VAR BE01}",
+        "A Dusk Ball works well at night\nor in a cave.{VAR BE01}\nPlus, its name is excellent!\nThe Dusk Ball. Dusk!",
+        {
+            "text": "Striaton City\nThree Stand Together as One!",
+            "flags": 207
+        },
+        {
+            "text": "Dreamyard ahead.\nA place for novice Trainers.",
+            "flags": 207
+        },
+        {
+            "text": "Trainers' School\nBrush up on Pokémon knowledge!",
+            "flags": 207
+        },
+        {
+            "text": "Striaton City Pokémon Gym\nLeader: ---{VAR BE00}\nTriple Trouble!",
+            "flags": 207
+        }
+    ]
+}

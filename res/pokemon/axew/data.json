@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_DRAGON", "TYPE_DRAGON" ],
     "catch_rate": 75,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 1,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 40,
     "base_friendship": 35,
     "exp_rate": "EXP_RATE_SLOW",
     "egg_groups": [ "EGG_GROUP_MONSTER", "EGG_GROUP_DRAGON" ],
-    "abilities": [ "ABILITY_RIVALRY", "ABILITY_MOLD_BREAKER" ],
-    "unk_1A": 127,
+    "abilities": [
+        "ABILITY_RIVALRY",
+        "ABILITY_MOLD_BREAKER",
+        "ABILITY_UNNERVE"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_GREEN",
     "flip_sprite": false,
-    "unk_22": 64,
+    "base_exp_reward": 64,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SCRATCH" ],
@@ -102,7 +105,7 @@
             "MOVE_HARDEN"
         ]
     },
-    "unk_38": 64,
+    "tutor_flags": 64,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -114,5 +117,16 @@
         "height": 6,
         "weight": 180
     },
-    "offspring": "SPECIES_AXEW"
+    "offspring": "SPECIES_AXEW",
+    "text": {
+        "70": "Axew",
+        "235": "They mark their territory by leaving\ngashes in trees with their tusks. If a\ntusk breaks, a new one grows in quickly.",
+        "236": "They use their tusks to crush the\nberries they eat. Repeated regrowth\nmakes their tusks strong and sharp.",
+        "244": "",
+        "245": "2'00\"",
+        "260": "Tusk Pokémon",
+        "268": "39.7 lbs.",
+        "281": "{VAR BD01}an {VAR FF00 00FF}Axew",
+        "284": "AXEW"
+    }
 }

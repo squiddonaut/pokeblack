@@ -1,0 +1,9 @@
+{
+    "flags": 224,
+    "entries": [
+        "Do your Pokémon have nicknames?{VAR BE01}\nWhen we give a Pokémon a nickname,\nwe grow attached to it. Don't you agree?",
+        "I went abroad to have Pokémon battles!",
+        "Hi, traveling Trainer!{VAR BE01}\nYour family must be talking about you\nright now!"
+    ],
+    "pad": "4848"
+}

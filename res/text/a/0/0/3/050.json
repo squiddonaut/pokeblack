@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "I am in charge of development!{VAR BE01}\nI'm going to give you this, because you\ncame here for a company tour!{VAR BE01}",
+        "If a Pokémon holds a Scope Lens, it has\na better chance to make a critical hit!",
+        "Oh! A company tour?\nOr some Pokémon practice?{VAR BE01}\nEither way, I'm glad you came.\nI'm happy, so I'll give you these!{VAR BE01}",
+        "I'm very happy, so I will give you\nanother present!{VAR BE01}",
+        "A Quick Ball makes it easier to catch a\nPokémon if you use it at the very{VAR BE00}\nbeginning of a battle.{VAR BE01}\nAnd a Timer Ball makes it easier to catch\na Pokémon you've been battling{VAR BE00}\nfor a long time!"
+    ]
+}

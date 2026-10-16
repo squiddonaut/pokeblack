@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "People who work in this building have\nPokémon battles, not opinion battles.{VAR BE01}\nYou appear to be strong, but if you go\nupstairs, please be extra careful.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Welcome!{VAR BE01}\nIf you use the elevator, please use the\nbuttons on the door or next to the door.",
+        "Every morning, my Pokémon wakes me\nwith Wake-Up Slap, so I always look like{VAR BE00}\na wreck.{VAR BE01}\nBut I appreciate its good intentions, so\nI'll work my hardest to provide for it{VAR BE00}\ntoday, as always.",
+        "This is Battle Company.\nResearch and Development of Items!",
+        "Burgh's signature is scrawled in the\ncorner of the painting."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "flags": 229,
+    "entries": [
+        "Hello!\nHow is everybody doing?{VAR BE01}\nYou and your Pokémon are getting\nalong great now, right?{VAR BE01}",
+        "Oh! Professor!{VAR BE01}",
+        "Right now, I'm in front of Accumula Town's\nPokémon Center!{VAR BE01}\nI'd like to show you around, \nso hurry on over, everyone!{VAR BE01}",
+        "OK!\nThe Pokémon Center, right!{VAR BE01}",
+        "OK!\nSee you!{VAR BE01}"
+    ],
+    "pad": "4646"
+}

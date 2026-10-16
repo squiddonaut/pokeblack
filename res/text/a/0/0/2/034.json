@@ -1,0 +1,52 @@
+{
+    "flags": 0,
+    "entries": [
+        "",
+        {
+            "text": "POKÉDEX",
+            "flags": 62
+        },
+        {
+            "text": "POKÉMON",
+            "flags": 62
+        },
+        {
+            "text": "BAG",
+            "flags": 62
+        },
+        {
+            "text": "",
+            "flags": 62
+        },
+        {
+            "text": "SAVE",
+            "flags": 62
+        },
+        {
+            "text": "OPTIONS",
+            "flags": 62
+        },
+        {
+            "text": "",
+            "flags": 62
+        },
+        {
+            "text": "",
+            "flags": 62
+        },
+        {
+            "text": "",
+            "flags": 62
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "pad": "f8f8"
+}

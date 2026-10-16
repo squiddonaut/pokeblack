@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_GRASS" ],
     "catch_rate": 255,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_MENTAL_HERB"
+        "rare": "ITEM_MENTAL_HERB",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 15,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_BUG" ],
-    "abilities": [ "ABILITY_SWARM", "ABILITY_CHLOROPHYLL" ],
-    "unk_1A": 142,
+    "abilities": [
+        "ABILITY_SWARM",
+        "ABILITY_CHLOROPHYLL",
+        "ABILITY_OVERCOAT"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_YELLOW",
     "flip_sprite": false,
-    "unk_22": 62,
+    "base_exp_reward": 62,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -85,7 +88,7 @@
             "MOVE_AIR_SLASH"
         ]
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -97,5 +100,16 @@
         "height": 3,
         "weight": 25
     },
-    "offspring": "SPECIES_SEWADDLE"
+    "offspring": "SPECIES_SEWADDLE",
+    "text": {
+        "70": "Sewaddle",
+        "235": "This Pokémon makes clothes for itself.\nIt chews up leaves and sews them with\nsticky thread extruded from its mouth.",
+        "236": "Leavanny dress it in clothes they made\nfor it when it hatched. It hides its head\nin its hood while it is sleeping.",
+        "244": "",
+        "245": "1'00\"",
+        "260": "Sewing Pokémon",
+        "268": "5.5 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Sewaddle",
+        "284": "SEWADDLE"
+    }
 }

@@ -1,0 +1,60 @@
+{
+    "flags": 240,
+    "entries": [
+        "Enter the Train Number (01-{VAR 0201 0000}).{VAR BE01}",
+        {
+            "text": "Receiving data for Rank {VAR 0201 0001},\nTrain Number {VAR 0201 0000}...",
+            "flags": 224
+        },
+        "You may not challenge that Train\nuntil the next update.{VAR BE01}",
+        "Data has been received.{VAR BE01}",
+        "Cancel your challenge?",
+        "Enter the Rank of the Train\n(01-10) to check your records.{VAR BE01}",
+        "Enter the Train Number (01-{VAR 0201 0000}).{VAR BE01}",
+        {
+            "text": "Sending your record data...\nDon't turn off the power.",
+            "flags": 224
+        },
+        "Your data has been sent.{VAR BE01}",
+        "Would you like to cancel your data\ndownload?",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The Wi-Fi Train is currently undergoing\nmaintenance. Please try again later.{VAR BE01}\nError code: 13281{VAR BE01}",
+        "The Wi-Fi Train is very crowded.\nPlease try again later.{VAR BE01}\nError code: 13282{VAR BE01}",
+        "The Wi-Fi Train is very crowded.\nPlease try again later.{VAR BE01}\nError code: 13261{VAR BE01}",
+        "Unable to connect to the Wi-Fi Train.\nReturning to the reception counter.{VAR BE01}\nError code: 13262{VAR BE01}",
+        "Unable to connect to the Wi-Fi\nTrain.{VAR BE01}\nReturning to the reception counter.{VAR BE01}\nError code: 13266{VAR BE01}",
+        "You were disconnected from the Wi-Fi Train.\nReturning to the reception counter.{VAR BE01}\nError code: 13264{VAR BE01}",
+        "You were disconnected from the Wi-Fi Train.\nReturning to the reception counter.{VAR BE01}\nError code: 13267{VAR BE01}",
+        "That number cannot be specified\nfor the Wi-Fi Train.{VAR BE01}\nError code: 13263{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Communication error.{VAR BE01}\nError code: 13267{VAR BE01}",
+        "There appears to be a problem\nwith your Pokémon.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Communicating. Please stand by...",
+            "flags": 224
+        }
+    ],
+    "pad": "cece"
+}

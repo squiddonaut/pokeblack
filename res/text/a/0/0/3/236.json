@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "entries": [
+        "Cheren: {VAR 0100 0000}, it's difficult,\nisn't it?{VAR BE01}\nWhen you confront yourself, you have\nto notice things about yourself that{VAR BE00}\naren't too flattering...{VAR BE01}",
+        "???: Of course!\nAnd no one can get away from themselves.{VAR BE01}",
+        "Cheren: ...Marshal?{VAR BE01}",
+        "Marshal: My mentor told me you were\nhere, so I came to see.{VAR BE01}\nListen. Even if you lose in battle, if you\nsurpass what you've done before, you{VAR BE00}\nhave bested yourself.{VAR BE01}\nTake the opportunity of a battle to\nlook at your opponent,{VAR BE00}\nlook at the Pokémon involved,{VAR BE00}\nand look at yourself!{VAR BE01}",
+        "Cheren: Are those Alder's words?{VAR BE01}",
+        "Marshal: Maybe. But I'm borrowing them.{VAR BE01}\nWhat I want are battles with Trainers\nwho believe in themselves like that...{VAR BE01}\nWhen I mix it up with a Trainer like\nthat, both my Pokémon and I{VAR BE00}\nget even stronger.{VAR BE01}\nWell then, I'll be waiting for your\nchallenge in the Pokémon League.{VAR BE01}",
+        "Cheren: I guess that's that.{VAR BE01}\nOK, {VAR 0100 0000}!\nAccept this Pokémon battle!{VAR BE01}",
+        "Cheren: I'll keep battling many Trainers\nand Pokémon like this, and if I can learn{VAR BE00}\nwhat kind of person I am, it will open up{VAR BE00}\nmy path.{VAR BE01}\nI'm sure this path will lead me to become\nthe person I'm meant to be.{VAR BE01}\nPokémon will always be with you and me as\nwe go down our own paths.{VAR BE01}\nOur important friends, Pokémon...",
+        "Cheren: Oh, you showed up, {VAR 0100 0000}.{VAR BE01}\nIn order to surpass myself up to this\npoint, and to beat a purely strong{VAR BE00}\nPokémon Trainer such as yourself, I'm{VAR BE00}\nchallenging you to a Pokémon battle!{VAR BE01}",
+        "Cheren: I'll keep battling many Trainers\nand Pokémon like this, and if I can learn{VAR BE00}\nwhat kind of person I am, it will open up{VAR BE00}\nmy path.{VAR BE01}\nI'm sure this path will lead me to become\nthe person I'm meant to be.{VAR BE01}\nPokémon will always be with you and me as\nwe go down our own paths.{VAR BE01}\nOur important friends, Pokémon..."
+    ],
+    "pad": "8080"
+}

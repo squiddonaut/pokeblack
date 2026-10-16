@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "entries": [
+        "I play the guitar and have\nPokémon battles every day.{VAR BE01}\nI keep doing that 'cause I enjoy it!",
+        "Even the same kind of Pokémon can have\ndifferent natures!",
+        "I am a poet...\nI write poems.{VAR BE01}\nEvery day, I stretch my imagination and\ndevote myself to my creative activity.{VAR BE01}\nPeople dream when sleeping, but if a\nPokémon dreams...{VAR BE01}\nI cannot even imagine how it is...",
+        "I am a poet...\nI write poems.{VAR BE01}\nEvery day, I stretch my imagination and\ndevote myself to my creative activity.{VAR BE01}\nPeople dream when sleeping, but\nif a Pokémon dreams...{VAR BE01}\nJust thinking about it fuels\nmy imagination.{VAR BE01}\nPokémon probably enjoy sleeping, too!"
+    ],
+    "pad": "f4f4"
+}

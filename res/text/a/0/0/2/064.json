@@ -1,0 +1,43 @@
+{
+    "flags": 208,
+    "entries": [
+        {
+            "text": "Loading...\nPlease wait a moment.",
+            "flags": 192
+        },
+        "The game inserted is not compatible.\nTurn off the power, insert a\ncompatible Game Card, and try again.{VAR BE01}",
+        {
+            "text": "Saving...\nDon't turn off the power.",
+            "flags": 192
+        },
+        "The game has been saved. {VAR BE02 003C}",
+        "The Relocator will close.\nPlease turn off the power.",
+        "The saved data could not be accessed.\nThe Relocator will close.{VAR BE01}",
+        {
+            "text": "Unable to connect to the\nother DS system.{VAR BE01}",
+            "flags": 195
+        },
+        {
+            "text": "Save failed...\nThe Relocator will close.{VAR BE01}",
+            "flags": 195
+        },
+        "The Relocator is activated.\nSearching for Pokémon...\n\nPlease wait a moment.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "YES",
+            "flags": 46
+        },
+        {
+            "text": "NO",
+            "flags": 46
+        },
+        "デバッグROM\nDP　Y\nPT　X\nGS　A"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "CONTINUE",
+            "flags": 144
+        },
+        {
+            "text": "NEW GAME",
+            "flags": 136
+        },
+        {
+            "text": "MYSTERY GIFT",
+            "flags": 136
+        },
+        {
+            "text": "NINTENDO WFC SETTINGS",
+            "flags": 152
+        },
+        {
+            "text": "BATTLE COMPETITION",
+            "flags": 136
+        },
+        {
+            "text": "GAME SYNC SETTINGS",
+            "flags": 136
+        },
+        {
+            "text": "RELOCATOR",
+            "flags": 136
+        },
+        {
+            "text": "MIC TEST",
+            "flags": 136
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Time: {VAR 0202 0000}:{VAR 0201 0001}",
+            "flags": 144
+        },
+        {
+            "text": "Pokédex: {VAR 0202 0000}",
+            "flags": 104
+        },
+        {
+            "text": "Badges: {VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 64
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0105 0000}",
+            "flags": 120
+        },
+        "Wireless communications are turned OFF.\nTurn wireless communications ON{VAR BE00}\nin the System Settings.{VAR BE00}\nError code: 50699",
+        "Communication restrictions\nusing Parental Controls",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Warning!",
+        "You can enjoy this game to its fullest when\nwireless communications are available.\nWhere it's prohibited to use wireless\ncommunications, such as airplanes and\nhospitals, please set wireless\ncommunications to OFF.\nYou can also change this setting\nusing the C-Gear while playing the game.",
+        "Warning!",
+        "There's already a saved\ngame file. If you start an adventure now,\nyou won't be able to save it.\nAre you sure you want to start anyway?",
+        "A Button: Begin adventure",
+        "B Button: Return to the menu",
+        "Launch C-Gear communications?",
+        "Some functions of the C-Gear\nwill be restricted. Is that OK?",
+        "The save file will be erased\ndue to corruption or damage.",
+        "A Battle Video appears to have been\nerased.",
+        "The Skin data for C-Gear\nhas been erased.",
+        "The special data for Battle Test\nhas been erased.",
+        "The Musical music data\nhas been erased.",
+        "The Skin data for Pokédex\nhas been erased.",
+        "Your Hall of Fame data\nhas been erased.",
+        "Your Mystery Gift data\nhas been erased."
+    ]
+}

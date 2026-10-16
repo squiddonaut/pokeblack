@@ -1,0 +1,28 @@
+{
+    "flags": 224,
+    "entries": [
+        "I'm making a delicious soup with\nwell-stewed vegetables.",
+        "Since her yammering stops while she's\ncooking, it's another bonus for me.",
+        "Even a young 'un like yourself will catch\ncold if you get soaked by that cold rain.{VAR BE01}\nSit right down and have some soup,\nwhy don't you?",
+        "That's nice. A young 'un like you\nshouldn't be shy.{VAR BE01}",
+        "Come now, just have a little.\nIt's good for you.{VAR BE01}\nWould you listen to an old lady's story\nfor a moment?{VAR BE01}",
+        "In the Unova region, you see, there is a\nPokémon called Thundurus{VAR BE00}\nthat creates thunderstorms.{VAR BE01}\nIt flies around the region and sets loose\nwild winds and crashing lightning.{VAR BE01}",
+        "In the Unova region, you see, there is a\nPokémon called Tornadus that{VAR BE00}\ncauses windstorms.{VAR BE01}\nIt flies around the region while letting\nloose wild winds and pounding rain.{VAR BE01}",
+        "Have some soup now, dear.\nIt'll warm you up.{VAR BE01}",
+        "A soup jam-packed with healthy\nvegetables. It's delicious!{VAR BE01}",
+        "The heavy rain is ruining the crops\nI've worked so hard to raise!{VAR BE01}\nWhat a troublesome Pokémon!{VAR BE01}",
+        "I thought I would try to catch it, but it\nflies around so fast that even when I{VAR BE00}\nthought I'd found it, it just flew away.{VAR BE01}",
+        "In one day, it can make a lap around the\nentire Unova region.{VAR BE01}\nIn the mornings, it's in the south,\nand in the evenings, it's in the north.{VAR BE01}\nIt shows up here in the evenings!",
+        "It seems like someone somewhere\ntaught that stormy Pokémon a lesson.{VAR BE01}\nI wonder if it was...?",
+        "Long ago, I was a sharp-lookin' young\nman, and my wife was a fiiine-lookin' girl.{VAR BE00}\nThis is a story from way back then.{VAR BE01}\nRight around here, a certain Pokémon\ntaught a lesson to Thundurus, who had{VAR BE00}\nbeen causin' trouble dropping lightning.{VAR BE01}\nFor around 30 years after that,\nThundurus kept calm, and it hid{VAR BE00}\nsomewhere around here.",
+        "Long ago, I was a sharp-lookin' young\nman, and my wife was a fiiine-lookin' girl.{VAR BE00}\nThis is a story from way back then.{VAR BE01}\nRight around here, a certain Pokémon\ntaught a lesson to Tornadus, who had{VAR BE00}\nbeen causin' trouble brewing storms.{VAR BE01}\nFor around 30 years after that,\nTornadus kept calm, and it hid{VAR BE00}\nsomewhere around here.",
+        "If you go in the tall grass during\na storm, it might pop out.",
+        "There is a Pokémon that\nquieted Thundurus.{VAR BE01}\nI remember hearing that there is a\nshrine built to honor that Pokémon{VAR BE00}\nsomewhere on Route 14.",
+        "There is a Pokémon that\nquieted Tornadus.{VAR BE01}\nI remember hearing that there is a\nshrine built to honor that Pokémon{VAR BE00}\nsomewhere on Route 14.",
+        "Oh my. Your Pokémon team...{VAR BE01}\nIt seems all worn out.\nRest for just a moment now!{VAR BE01}",
+        "Walking on the raised walkways\nis more tiring than you think, right?",
+        "Granny's meals are always\nnothing but vegetables!",
+        "Know the electric bulletin boards?{VAR BE01}\nThey'll tell you when lightning is\ncrashing down somewhere!",
+        "Know the electric bulletin boards?{VAR BE01}\nThey'll tell you when wind is\nblowing fiercely somewhere!"
+    ]
+}

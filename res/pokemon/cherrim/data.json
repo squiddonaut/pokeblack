@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_GRASS", "TYPE_GRASS" ],
     "catch_rate": 75,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_MIRACLE_SEED"
+        "rare": "ITEM_MIRACLE_SEED",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_FAIRY", "EGG_GROUP_GRASS" ],
-    "abilities": [ "ABILITY_FLOWER_GIFT", "ABILITY_NONE" ],
-    "unk_1A": 0,
+    "abilities": [
+        "ABILITY_FLOWER_GIFT",
+        "ABILITY_NONE",
+        "ABILITY_NONE"
+    ],
     "unk_1B": 0,
     "unk_1E": 37,
     "form_count": 2,
     "body_color": "MON_COLOR_PINK",
     "flip_sprite": false,
-    "unk_22": 158,
+    "base_exp_reward": 158,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_MORNING_SUN" ],
@@ -77,11 +80,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 5,
         "weight": 93
     },
-    "offspring": "SPECIES_CHERUBI"
+    "offspring": "SPECIES_CHERUBI",
+    "text": {
+        "70": "Cherrim",
+        "235": "If it senses strong sunlight, it\nopens its folded petals to absorb\nthe sun's rays with its whole body.",
+        "236": "If it senses strong sunlight, it\nopens its folded petals to absorb\nthe sun's rays with its whole body.",
+        "244": "Overcast Form",
+        "245": "1'08\"",
+        "260": "Blossom Pokémon",
+        "268": "20.5 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Cherrim",
+        "284": "CHERRIM"
+    }
 }

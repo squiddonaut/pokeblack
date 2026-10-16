@@ -1,0 +1,8 @@
+{
+    "flags": 224,
+    "entries": [
+        "Did you talk to Driftveil's famous\nheartbreaker?",
+        "Have you tried this kind of Poké Ball?{VAR BE01}",
+        "Repeat Balls make it easier to catch the\nsame kind of Pokémon you've already{VAR BE00}\ncaught before!"
+    ]
+}

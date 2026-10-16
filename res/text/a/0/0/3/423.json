@@ -1,0 +1,96 @@
+{
+    "flags": 232,
+    "entries": [
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "You don't have enough money.{VAR BE01}",
+        "{VAR 0109 0000}? Certainly.\nHow many would you like?",
+        "{VAR 0109 0000}, and you want {VAR 0201 0001}. \nThat will be ${VAR 0206 0002}. OK?",
+        "{VAR 0109 0000} will cost {VAR 0203 0002} BP.\nIs that OK?",
+        "No. {VAR 0201 0000}, {VAR 0107 0001}?\nThat will be ${VAR 0204 0002}. OK?",
+        "No. {VAR 0201 0000}, {VAR 0107 0001}?\nThat will be {VAR 0203 0002} BP. OK?",
+        "Here you are!\nThank you!{VAR BE05 0001}{VAR BE01}\nYou put away the {VAR 0109 0000}\nin the {VAR 0112 0001} Case.{VAR BE01}",
+        "You can't take any more of this item.{VAR BE01}",
+        {
+            "text": "Cancel",
+            "flags": 152
+        },
+        {
+            "text": "${VAR 0204 0001}",
+            "flags": 53
+        },
+        {
+            "text": "{VAR 0201 0001} BP",
+            "flags": 53
+        },
+        {
+            "text": "---",
+            "flags": 53
+        },
+        "You also get a Premier Ball as\nan added bonus.{VAR BE01}",
+        "You don't have enough BP.{VAR BE01}",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "Money",
+            "flags": 72
+        },
+        {
+            "text": "${VAR 0206 0000}",
+            "flags": 72
+        },
+        {
+            "text": "{VAR 0203 0000} BP",
+            "flags": 72
+        },
+        {
+            "text": "In Bag: {VAR 0202 0000}",
+            "flags": 120
+        },
+        {
+            "text": "x {VAR 0201 0000}",
+            "flags": 32
+        },
+        {
+            "text": "${VAR 0206 0000}",
+            "flags": 69
+        },
+        {
+            "text": "{VAR 0205 0000} BP",
+            "flags": 69
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0107 0001}",
+            "flags": 96
+        }
+    ],
+    "pad": "0c0c"
+}

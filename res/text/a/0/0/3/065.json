@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "Do you want to go up?",
+        "I need to check you.{VAR BE01}\nFrisk, frisk...\nFrisk, frisk... And one more frisk...{VAR BE01}",
+        "You don't seem to have\nanything suspicious.{VAR BE01}\nOK! You can go.{VAR BE01}",
+        "OK! You can go.",
+        "...OK. That's fine, then.",
+        "...OK. That's fine, then.{VAR BE01}",
+        "I'm invited to a party, but the person\nin front of the elevator wants{VAR BE00}\nto pat me down.{VAR BE01}\nOr is it just my imagination?",
+        "I talked with a lot of people upstairs.\nIt was fun!",
+        "Where are you from?{VAR BE01}\nReally? You're from Nuvema Town?\nIt's a great place!"
+    ]
+}

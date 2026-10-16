@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_FIRE", "TYPE_FIRE" ],
     "catch_rate": 45,
-    "unk_09": 1,
+    "evolution_stage": 1,
     "ev_yields": {
         "hp": 1,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_NONE"
+        "rare": "ITEM_NONE",
+        "rare_2": "ITEM_NONE"
     },
-    "unk_10": 0,
     "gender_ratio": "GENDER_RATIO_FEMALE_12_5",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_SLOW",
     "egg_groups": [ "EGG_GROUP_FIELD", "EGG_GROUP_FIELD" ],
-    "abilities": [ "ABILITY_BLAZE", "ABILITY_BLAZE" ],
-    "unk_1A": 47,
+    "abilities": [
+        "ABILITY_BLAZE",
+        "ABILITY_BLAZE",
+        "ABILITY_THICK_FAT"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 28,
+    "base_exp_reward": 28,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_TACKLE" ],
@@ -98,7 +101,7 @@
             "MOVE_HEAVY_SLAM"
         ]
     },
-    "unk_38": 2,
+    "tutor_flags": 2,
     "evolutions": [
         [
             "EVO_LEVEL",
@@ -110,5 +113,16 @@
         "height": 5,
         "weight": 99
     },
-    "offspring": "SPECIES_TEPIG"
+    "offspring": "SPECIES_TEPIG",
+    "text": {
+        "70": "Tepig",
+        "235": "It blows fire through its nose.\nWhen it catches a cold, the fire\nbecomes pitch-black smoke instead.",
+        "236": "It can deftly dodge its foe's attacks\nwhile shooting fireballs from its nose.\nIt roasts berries before it eats them.",
+        "244": "",
+        "245": "1'08\"",
+        "260": "Fire Pig Pokémon",
+        "268": "21.8 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Tepig",
+        "284": "TEPIG"
+    }
 }

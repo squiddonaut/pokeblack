@@ -1,0 +1,513 @@
+{
+    "flags": 224,
+    "entries": [
+        {
+            "text": "OFFER",
+            "flags": 86
+        },
+        {
+            "text": "QUIT",
+            "flags": 86
+        },
+        {
+            "text": "SHOW",
+            "flags": 86
+        },
+        {
+            "text": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "text": "TRADE",
+            "flags": 86
+        },
+        {
+            "text": "CANCEL",
+            "flags": 72
+        },
+        "Communicating. Please stand by...",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "IN PARTY",
+            "flags": 84
+        },
+        "Trade {VAR 0102 0000} in return for\n{VAR 0102 0001}?",
+        {
+            "text": "Lv. {VAR 0202 0000}",
+            "flags": 46
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "YES",
+            "flags": 84
+        },
+        {
+            "text": "NO",
+            "flags": 84
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "No. {VAR 0202 0001}",
+            "flags": 56
+        },
+        {
+            "text": "{VAR 0101 0000}",
+            "flags": 60
+        },
+        {
+            "text": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "text": "HP",
+            "flags": 56
+        },
+        {
+            "text": "Attack",
+            "flags": 64
+        },
+        {
+            "text": "Defense",
+            "flags": 64
+        },
+        {
+            "text": "Sp. Atk",
+            "flags": 64
+        },
+        {
+            "text": "Sp. Def",
+            "flags": 64
+        },
+        {
+            "text": "Speed",
+            "flags": 64
+        },
+        {
+            "text": "Nature",
+            "flags": 48
+        },
+        {
+            "text": "Ability",
+            "flags": 48
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0202 0000}/{VAR 0202 0001}",
+            "flags": 56
+        },
+        {
+            "text": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "text": "{VAR 0108 0000}",
+            "flags": 84
+        },
+        {
+            "text": "{VAR 0106 0000}",
+            "flags": 84
+        },
+        {
+            "text": "{VAR 0109 0000}",
+            "flags": 100
+        },
+        {
+            "text": "MOVES LEARNED",
+            "flags": 94
+        },
+        {
+            "text": "{VAR 0107 0000}",
+            "flags": 94
+        },
+        {
+            "text": "⑭",
+            "flags": 9
+        },
+        {
+            "text": "⑮",
+            "flags": 9
+        },
+        "{VAR 0100 0000} sent over\n{VAR 0102 0001}.",
+        "Take good care of {VAR 0102 0001}!",
+        "Stopping communications...\nPlease wait.",
+        {
+            "text": "Select the first letter in the name of\nthe Pokémon you want to find.",
+            "flags": 232
+        },
+        {
+            "text": "No Pokémon with the selected\nletter was found.",
+            "flags": 232
+        },
+        {
+            "text": "{VAR BD02}A",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}B",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}C",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}D",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}E",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}F",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}G",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}H",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}I",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}J",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}K",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}L",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}M",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}N",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}O",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}P",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}Q",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}R",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}S",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}T",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}U",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}V",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}W",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}X",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}Y",
+            "flags": 16
+        },
+        {
+            "text": "{VAR BD02}Z",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        {
+            "text": "",
+            "flags": 16
+        },
+        "The trade has been canceled.",
+        "You need that Pokémon to\nget through your adventure!",
+        "There is a Pokémon that cannot be\ntraded in the other Trainer's party.",
+        "There is a Pokémon that cannot be\ntraded in your party.",
+        "It has learned an HM move.\nYou cannot let it leave your party.",
+        "The other Trainer apparently wants to\ntrade Pokémon with you.",
+        "Cancel trading?",
+        "Waiting for the other player to finish...",
+        {
+            "text": "Egg",
+            "flags": 60
+        },
+        "The Mail held by the Pokémon\nwas sent to your PC.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        "The other Trainer cannot\nreceive Mail. The trade will be canceled.",
+        {
+            "text": "",
+            "flags": 0
+        },
+        "Please choose your Pokémon to offer.\nYou can select up to three Pokémon.",
+        {
+            "text": "{VAR BD03 0000}Selecting...",
+            "flags": 96
+        },
+        {
+            "text": "{VAR BD03 0000}Selected",
+            "flags": 96
+        },
+        {
+            "text": "{VAR BD03 0000}Waiting...",
+            "flags": 96
+        },
+        {
+            "text": "The Pokémon that\n{VAR 0100 0000} wants",
+            "flags": 108
+        },
+        {
+            "text": "Any Pokémon",
+            "flags": 104
+        },
+        {
+            "text": "Cool Pokémon",
+            "flags": 104
+        },
+        {
+            "text": "Cute Pokémon",
+            "flags": 104
+        },
+        {
+            "text": "Scary Pokémon",
+            "flags": 104
+        },
+        {
+            "text": "Strange Pokémon",
+            "flags": 104
+        },
+        {
+            "text": "Any",
+            "flags": 104
+        },
+        {
+            "text": "Lv. 1 through 49",
+            "flags": 104
+        },
+        {
+            "text": "Lv. 50",
+            "flags": 104
+        },
+        {
+            "text": "Lv. 51 through 100",
+            "flags": 104
+        },
+        {
+            "text": "",
+            "flags": 0
+        },
+        {
+            "text": "{VAR 0100 0000}",
+            "flags": 108
+        },
+        "Sending {VAR 0102 0000} to {VAR 0100 0001}.\nGood-bye, {VAR 0102 0000}!",
+        "Returning {VAR 0102 0000} to {VAR 0100 0001}.\nGood-bye, {VAR 0102 0000}!",
+        "{VAR 0102 0001} came back\nfrom {VAR 0100 0000}!",
+        "Welcome back, {VAR 0102 0001}!",
+        {
+            "text": "TRADE WANTED",
+            "flags": 120
+        },
+        "Please choose your Pokémon to offer.\nYou can select up to three Pokémon.",
+        "Are you OK with your selection?",
+        "Awaiting your friend's decision.\nPlease wait...",
+        "Is it OK to select one each\nfrom the chosen Pokémon?",
+        "The other Trainer canceled the trade.",
+        "The other Trainer apparently\nwants to trade Pokémon.",
+        "The trade will be ended.\nIs that OK?",
+        "The trade has ended.",
+        "You cannot choose that Pokémon.",
+        "There is one or more party Pokémon\nthat cannot be traded. Select again.",
+        "The other Trainer has a Pokémon\nthat cannot be traded. Select again.",
+        "Please select a Pokémon out of\nthe Pokémon offered for trade.",
+        "Is it OK to trade {VAR 0102 0000}\nfor your {VAR 0102 0001}?",
+        "The other Trainer canceled\nthe trade. Please select again.",
+        "Will you reselect the Pokémon you want\nto offer?",
+        "The trade was canceled.\nPlease select again.",
+        "The trade was canceled.\nPlease reselect one Pokémon again.",
+        "The other Trainer canceled the trade.\nPlease select a Pokémon again.",
+        "{VAR 0102 0000} will be offered.",
+        "{VAR 0102 0001} was taken out.",
+        {
+            "text": "LOG OUT",
+            "flags": 112
+        },
+        "{VAR 0102 0000} will be\nsent to {VAR 0100 0001}.",
+        "{VAR 0100 0000} sent over\n{VAR 0102 0001}.",
+        "Communication failed.",
+        "Communication error.\n(Error Code: 13280)",
+        "Communication error.\n(Error Code: 13281)",
+        "Communication error.\n(Error Code: 13282)",
+        "Communication error.\n(Error Code: 13283)",
+        {
+            "text": "???",
+            "flags": 56
+        }
+    ]
+}

@@ -9,7 +9,7 @@
     },
     "types": [ "TYPE_BUG", "TYPE_ROCK" ],
     "catch_rate": 75,
-    "unk_09": 2,
+    "evolution_stage": 2,
     "ev_yields": {
         "hp": 0,
         "attack": 0,
@@ -20,22 +20,25 @@
     },
     "held_items": {
         "common": "ITEM_NONE",
-        "rare": "ITEM_HARD_STONE"
+        "rare": "ITEM_HARD_STONE",
+        "rare_2": "ITEM_RARE_BONE"
     },
-    "unk_10": 106,
     "gender_ratio": "GENDER_RATIO_FEMALE_50",
     "hatch_cycles": 20,
     "base_friendship": 70,
     "exp_rate": "EXP_RATE_MEDIUM_FAST",
     "egg_groups": [ "EGG_GROUP_BUG", "EGG_GROUP_MINERAL" ],
-    "abilities": [ "ABILITY_STURDY", "ABILITY_SHELL_ARMOR" ],
-    "unk_1A": 133,
+    "abilities": [
+        "ABILITY_STURDY",
+        "ABILITY_SHELL_ARMOR",
+        "ABILITY_WEAK_ARMOR"
+    ],
     "unk_1B": 0,
     "unk_1E": 0,
     "form_count": 1,
     "body_color": "MON_COLOR_RED",
     "flip_sprite": false,
-    "unk_22": 166,
+    "base_exp_reward": 166,
     "learnset": {
         "by_level": [
             [ 1, "MOVE_SHELL_SMASH" ],
@@ -95,11 +98,22 @@
         ],
         "egg_moves": []
     },
-    "unk_38": 0,
+    "tutor_flags": 0,
     "evolutions": [],
     "pokedex_data": {
         "height": 14,
         "weight": 2000
     },
-    "offspring": "SPECIES_DWEBBLE"
+    "offspring": "SPECIES_DWEBBLE",
+    "text": {
+        "70": "Crustle",
+        "235": "It possesses legs of enormous strength,\nenabling it to carry heavy slabs for many\ndays, even when crossing arid land.",
+        "236": "Competing for territory, Crustle\nfight viciously. The one whose boulder\nis broken is the loser of the battle.",
+        "244": "",
+        "245": "4'07\"",
+        "260": "Stone Home Pokémon",
+        "268": "440.9 lbs.",
+        "281": "{VAR BD01}a {VAR FF00 00FF}Crustle",
+        "284": "CRUSTLE"
+    }
 }

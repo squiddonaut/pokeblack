@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "entries": [
+        "It's a basketball that looks like\nit's been used a lot.{VAR BE00}\nIt says Harmonia on it...",
+        "It's a home-style basketball hoop...",
+        "This toy box is full of new toys...",
+        "A skateboard is resting on\na pile of wheels.",
+        "A halfpipe for skateboards...{VAR BE01}\nIt has Pokémon scratch marks\non it here and there...",
+        "An art panel with a\nprinted geometric pattern.",
+        "This panel has a dart stuck in it.",
+        "It's a set of trains and tracks.\nHas it been played with recently?",
+        "This toy box contains\npieces of a train set."
+    ],
+    "pad": "b8b8"
+}

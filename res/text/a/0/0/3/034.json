@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "entries": [
+        "Thanks again for your help.{VAR BE01}\nMy bug Pokémon are scurrying with\nexcitement about getting to battle you.{VAR BE01}\nLet's get straight to it!{VAR BE01}",
+        "Aww...\nI lost.{VAR BE01}\nWhatever! Losing to you doesn't bug me\nbecause you are a-MAZ-ingly strong!{VAR BE01}\nThis is the Gym Badge!\nYou beat me, so it's yours!{VAR BE01}",
+        "{VAR 0100 0000} received the\nInsect Badge from Burgh.{VAR BE01}",
+        "It's the Insect Badge!\nIt's insectible--I mean, incredible!{VAR BE01}\nIf you have three Badges,\nPokémon up to Lv. 40 will obey you,{VAR BE00}\nincluding traded Pokémon.{VAR BE01}\nBecause I'm a generous guy,\nI'll also give you this.{VAR BE01}",
+        "Struggle Bug also lowers the\nSp. Atk of the target that was damaged.{VAR BE01}\nI'm the best guy to tell you,\nit's the little things that count!",
+        "How many discoveries have you made\nsince you started your adventure?{VAR BE01}\nWhen I was a kid, my innocent heart was\ncaptured by the beauty of bug Pokémon.{VAR BE01}\nI drew with them and battled with them,\nand after all this time, I continue{VAR BE00}\nto discover new things.{VAR BE01}\nA world shared with Pokémon is a world\nswarming with mysteries.",
+        "Burgh: Heya!\nThis is what I do.{VAR BE01}\nI keep raising Pokémon and drawing\npictures inspired by the Pokémon I raise.{VAR BE01}\nIt's what I love to do. My life hums\nwith energy. What could be better?",
+        "When you step on the switch,\nthe one that pops out is--moi!{VAR BE01}\nOn that note, have a battle with moi!{VAR BE01}",
+        "Hiding makes battle instincts dull,\nyou know.",
+        "Now. Come. On.{VAR BE01}\nStep on this switch, and what happens?\nMoi!",
+        "Yeeeeeeeeah! Thank you for going\nto the trouble of calling me out!{VAR BE01}\nI'll channel my gratitude into my\nPokémon's moves and...{VAR BE00}\nmake sure it gets to you!{VAR BE01}",
+        "If you hadn't stepped on that switch,\nI'd still be stuck hidden away.{VAR BE01}\nThat's right! Bug Gym Trainers like to\nbe bugged!",
+        "Hiding beneath the floor, I understand\nhow a Bug-type Pokémon feels.",
+        "What do you think of Castelia City?{VAR BE01}\nI bet, with all of the bustling people,\nyou started feeling worn down on your{VAR BE00}\nway to the Gym!{VAR BE01}\nNever mind! This will help. Take it!{VAR BE01}",
+        "The theme of this Gym is\nwalking through walls.{VAR BE01}\nAt first glance, these funny honey walls\nmay look impassable or even impossible.{VAR BE00}\nIf you try hard, it'll work out. So I say.{VAR BE01}\nBut...if it doesn't, here's a sweet tip:\nstep on the switches on the floor!",
+        "Wow! That's amazing!{VAR BE01}\nYou swatted aside our Gym Leader\nBurgh's tricky attacks...{VAR BE01}\nI can barely imagine how much\nstronger you're going to get!",
+        "The Gym Leader said he was going to\nPrime Pier and left for a little bit.{VAR BE01}\nYou're welcome to go track him down.",
+        "The Gym Leader said he was going to\nPrime Pier and left for a little bit.{VAR BE00}\nYou're welcome to go track him down.{VAR BE01}",
+        "Castelia Pokémon Gym{VAR BE01}\nGym Leader: Burgh\nCertified Trainers:{VAR BE00}\nCheren",
+        "Castelia Pokémon Gym{VAR BE01}\nGym Leader: Burgh\nCertified Trainers:{VAR BE00}\nCheren{VAR BE00}\n{VAR 0100 0000}",
+        "Castelia Pokémon Gym{VAR BE01}\nGym Leader: Burgh\nCertified Trainers:{VAR BE00}\nCheren{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nBianca"
+    ]
+}

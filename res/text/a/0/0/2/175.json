@@ -1,0 +1,17 @@
+{
+    "flags": 0,
+    "entries": [
+        "{FF22}{FF27}{FF2D}",
+        "{FF2D}{FF25}",
+        "{FF33}{FF25}",
+        "{FF30}{FF36}",
+        "{FF33}{FF2F}{FF35}{FF2E}{FF24}　{FF34}{FF25}{FF33}{FF34}",
+        "{FF21}　{FF30}{FF2C}{FF21}{FF39}",
+        "{FF22}　{FF33}{FF34}{FF2F}{FF30}",
+        "{FF38}　{FF25}{FF2E}{FF24}",
+        "{FF39}　{FF29}{FF2E}{FF29}{FF34}",
+        "{FF30}{FF2C}{FF21}{FF39}{FF25}{FF32}",
+        "{FF2B}{FF25}{FF39}",
+        "{FF34}{FF2D}{FF30}"
+    ]
+}

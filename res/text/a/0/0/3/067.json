@@ -1,0 +1,89 @@
+{
+    "flags": 224,
+    "entries": [
+        "Team Plasma: Gramps! We know you run\nthe Day Care!{VAR BE01}\nHow do we know?\nBecause we're Team Plasma!{VAR BE01}",
+        "Team Plasma: We are taking Pokémon away\nfrom people.{VAR BE01}\nSince you work at the Day Care, we figure\nyou must have a lot of Pokémon!{VAR BE00}\nHand 'em over!{VAR BE01}",
+        "Day-Care Man: What kind of\nnonsense is this?!{VAR BE01}",
+        "Oh! A strong-looking Trainer!\nPlease help me!{VAR BE01}",
+        "Team Plasma: If you're going to get in\nour way, we'll take your Pokémon, too!{VAR BE01}",
+        "Team Plasma: !!{VAR BE01}",
+        "Team Plasma: This went downhill fast!\nSo I think... We'd better... Ruuuun!{VAR BE01}\nLet's hide out at the amusement park!{VAR BE01}",
+        "Day-Care Man: Thank you so much!{VAR BE01}\nPlease take this as a token\nof my gratitude.{VAR BE01}\nIt's a brand-new Bike.\nI'd always planned on riding around{VAR BE00}\nNimbasa City...{VAR BE00}\nBut I never ended up riding it.{VAR BE01}",
+        "Day-Care Man: I have a Day Care\non Route 3!{VAR BE01}\nIf you have any Pokémon you want\nme to raise, please drop them off!{VAR BE01}\nI just came to sightsee, but\nI got in a lot of trouble!{VAR BE01}",
+        "Bianca: Hey, {VAR 0100 0000}! Yoo-hoo!{VAR BE01}",
+        "Bianca: {VAR 0100 0000}! Know what?{VAR BE01}",
+        "The professor told me Nimbasa City\nhas a lot of things to see and do--{VAR BE01}\nthe amusement park, Big Stadium,\nSmall Court, and the Battle Subway!{VAR BE01}",
+        "I'm going to go see the Pokémon Musical!\nSee you later!{VAR BE01}",
+        "Bianca: Yoo-hoo, {VAR 0100 0000}!{VAR BE01}",
+        "Bianca: {VAR 0100 0000}! Know what?{VAR BE01}",
+        "I just had a look at the Musical Theater.\nIt's sooo cool!{VAR BE01}\nSince you're here, come on, {VAR 0100 0000}!{VAR BE01}\nCome with me!\nOver here, over here!{VAR BE01}",
+        "OK, we're here! Let's go in!{VAR BE01}",
+        "Bianca: Ooh, {VAR 0100 0000}!{VAR BE01}\nAre you interested in musicals?\nThen, let's go in together!{VAR BE01}",
+        "Bianca: Daddy?!\nWhat are you doing here?{VAR BE01}",
+        "Bianca's Dad: I've come to take you\nback home, of course!{VAR BE01}\nYour mother told me that you'd\nmade it all the way out here.{VAR BE01}\nHaven't you gone far enough?{VAR BE01}",
+        "Bianca: No way!{VAR BE01}\nI'm going to keep traveling\nwith {VAR 0100 0000} and my Pokémon!{VAR BE01}",
+        "Bianca's Dad: Absolutely not! Others do\nthings their way, and we do things ours!{VAR BE01}",
+        "Bianca: Is that so?{VAR BE01}\nThen, how about you do things your way,\nand I'll do things mine!{VAR BE01}",
+        "Sweetie, you keep going on your travels.{VAR BE01}",
+        "Bianca's Dad: Hey! Who do you think\nyou are? This is a family matter!{VAR BE01}",
+        "My name is Elesa.{VAR BE01}\nI'm this town's Gym Leader.\nI also happen to be a model.{VAR BE01}",
+        "You know, there are many people\nin this world.{VAR BE01}\nThere are people whose way of thinking\nmay be completely different from yours.{VAR BE00}\nSometimes, this means you may get hurt.{VAR BE01}",
+        "Bianca's Dad: Of course!{VAR BE01}\nThat's exactly right!\nIt's because I'm worried about that...{VAR BE01}",
+        "Elesa: But it's important to keep trying,\nto learn about the differences between{VAR BE00}\nyourself and others...{VAR BE01}\nTo learn that being different is OK.{VAR BE01}\nAnd you shouldn't worry.{VAR BE01}\nTrainers always have Pokémon\nat their side.{VAR BE01}\nPokémon are wonderful. It's not only how\ncute they can be, but also how much you{VAR BE00}\ncan depend on them...{VAR BE01}",
+        "Bianca: Please!{VAR BE01}\nI know there's gonna be painful stuff\nlike you're worrying about!{VAR BE00}\nI know! Really, I get it!{VAR BE01}\nBut, like, listen...\nThere'll be tons of nice people, too.{VAR BE01}\nKnow what else? Since I've been\ntraveling with Pokémon, I've already{VAR BE00}\ngotten tougher, I can totally tell.{VAR BE01}\nSo...please?{VAR BE01}",
+        "Bianca's Dad: Hmm...\nI guess.{VAR BE01}\nIf wanting to continue your journey\nis selfishness on your part,{VAR BE00}\nwanting to stop you is{VAR BE00}\nselfishness on mine.{VAR BE01}\nI'm surprised to find I'm the one\nbeing childish--at my age!{VAR BE01}",
+        "This Gym Leader's comments helped me\nwake up.{VAR BE01}\nBianca, I'm sure it's better that you\ntake the path you want to take now.{VAR BE01}\nI hope that your journey will be fun.\nBon voyage!{VAR BE01}",
+        "{VAR 0100 0000}, please...\nTake care of my little girl, OK?{VAR BE01}",
+        "Bianca: Papa, I'll come home after\nI find out what I really want to do!{VAR BE01}",
+        "Elesa: I'm sure he traveled\nas a Trainer himself, in the past...{VAR BE00}\nBeing a parent must be hard.{VAR BE01}",
+        "Did I meddle unnecessarily?{VAR BE01}\nYou looked troubled, so\nI decided to chime in.{VAR BE01}",
+        "By the way, if you're Trainers, please\nstop by the Pokémon Gym.{VAR BE01}\nI'll teach you a little something about\nhow tough a journey can get.{VAR BE01}",
+        "I'm sorry, {VAR 0100 0000}.\nI'll be waiting on Route 5.{VAR BE01}",
+        "Bianca: She's so cool! Hah!\nI want to be a totally cool woman{VAR BE00}\nlike Elesa!{VAR BE01}\nMm. I wonder how I'll get there.{VAR BE01}\nWell, before that, I guess I need to\ndiscover what I really want to do!{VAR BE00}\nSee you later, {VAR 0100 0000}!{VAR BE01}",
+        "We athletes and our Pokémon\nshow excellent teamwork!{VAR BE01}\nYou can see it at Big Stadium and\nSmall Court, so please stop by!",
+        "As it happens, Nimbasa City is a major\ndestination for Pokémon battles.{VAR BE01}\nThere are Pokémon Trainers in\nlots of these buildings.",
+        "Leisurely trips by train...{VAR BE01}\nRiding from Gear Station to\nAnville Town feels a bit like a dream.",
+        "Coming to flashy Nimbasa City makes\nme feel light and happy, as if I were{VAR BE00}\nholding an Air Balloon.",
+        "There are performers\ncrowding around Route 5.{VAR BE01}\nSeeing all the fun the Pokémon and\nTrainers are having fills me with energy!",
+        "I was a good girl, so I got to\ngo to the amusement park!",
+        "Ferris wheel! Ferris wheel!\nI love Ferris wheels!",
+        "Nimbasa's Pokémon Gym is\nin the amusement park!{VAR BE01}\nNo doubt it has a surprising gimmick!",
+        "I won!\nThen I lost...{VAR BE01}",
+        "Gear Station has trains where\nyou can battle other Trainers.{VAR BE00}\nThe Battle Subway!{VAR BE01}",
+        "You're a Trainer, aren't you?\nPlease just accept this without a word!{VAR BE01}",
+        "If you have a Vs. Recorder, you can\nrecord battles with friends or on the{VAR BE00}\nBattle Subway!{VAR BE01}\nAnyway, this woman of mystery will\ngo somewhere... That's right!{VAR BE00}\nShe'll go to the Battle Institute!{VAR BE01}",
+        {
+            "text": "Nimbasa City\nLit by the Flash of Lightning!",
+            "flags": 207
+        },
+        {
+            "text": "Big Stadium\nBaseball, Football, and Soccer",
+            "flags": 207
+        },
+        {
+            "text": "Small Court\nTennis and Basketball",
+            "flags": 207
+        },
+        {
+            "text": "Battle Subway\nBattle and Ride!",
+            "flags": 207
+        },
+        {
+            "text": "Musical Theater",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nGames occur at specific times in\nBig Stadium and Small Court!{VAR BE01}\nYou might be able to have a Pokémon\nbattle with your favorite athlete!",
+            "flags": 207
+        },
+        {
+            "text": "Trainer Tips!{VAR BE01}\n\nThe Musical Theater is always\nlooking for participants!{VAR BE01}\nYou might get more wonderful Props\nif you participate repeatedly!",
+            "flags": 207
+        },
+        {
+            "text": "Battle Institute!\nTest your Trainer Skills!",
+            "flags": 207
+        }
+    ],
+    "pad": "2e2e"
+}

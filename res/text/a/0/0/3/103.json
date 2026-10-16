@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "entries": [
+        "I'm sure it was tough dealing with all\nthat right after you arrived here.{VAR BE01}\nFor now, I'll just give you this!{VAR BE01}",
+        "The Gym Leader Clay uses\nGround-type Pokémon!{VAR BE01}\nWell, just between you and me,\nGround-type Pokémon aren't good against{VAR BE00}\nWater-type attacks.{VAR BE01}\nKinda makes me wonder why Clay is living\nnext to water.",
+        "Every now and again, I hope you look at\nthe Gym Badge you won here and{VAR BE00}\nremember the battle!",
+        "Welcome to the Driftveil Pokémon Gym!{VAR BE01}\nIn this Gym, elevators are provided for\nyour use.",
+        "This elevator can't go any higher!",
+        "Driftveil Pokémon Gym{VAR BE01}\nGym Leader: Clay\nCertified Trainers:",
+        "Driftveil Pokémon Gym{VAR BE01}\nGym Leader: Clay\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}",
+        "Driftveil Pokémon Gym{VAR BE01}\nGym Leader: Clay\nCertified Trainers:{VAR BE00}\n{VAR 0100 0000}{VAR BE00}\nCheren{VAR BE00}\nBianca"
+    ],
+    "pad": "7e7e"
+}

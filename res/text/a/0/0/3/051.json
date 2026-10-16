@@ -1,0 +1,8 @@
+{
+    "flags": 224,
+    "entries": [
+        "Oh! You are the Pokémon Trainer\nI met at the entrance!{VAR BE01}\nYou've come this far. That means\nyou must be quite strong.{VAR BE01}\nAre you prepared to face the strongest\nperson in this building?{VAR BE01}\nAre you prepared to face the chairman?{VAR BE01}\nThen, the time has come. I am the one!\nI accept your challenge!{VAR BE01}",
+        "I disguise myself as a janitor because\nI like to know what kinds of Trainers{VAR BE00}\ncome here.{VAR BE01}\nI had a good time battling you.{VAR BE01}\nThis is a token of my esteem.\nPlease accept this!{VAR BE01}",
+        "A Pokémon holding an Exp. Share gets\nsome of the Exp. Points from every{VAR BE00}\nbattle, even if it's not involved.{VAR BE01}\nThat's right! It may be useful\nfor raising weak Pokémon."
+    ]
+}

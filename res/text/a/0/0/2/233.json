@@ -1,0 +1,17 @@
+{
+    "flags": 208,
+    "entries": [
+        {
+            "text": "YES",
+            "flags": 42
+        },
+        {
+            "text": "NO",
+            "flags": 42
+        },
+        "FORGET",
+        "KEEP OLD MOVES!",
+        "Give up on {VAR 0107 0000}!",
+        "Don't give up on {VAR 0107 0000}!"
+    ]
+}
