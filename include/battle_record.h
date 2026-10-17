@@ -76,7 +76,7 @@ void BattleRecordReader_Init(BattleRecordReader *reader, const void *recordData,
 void BattleRecordReader_Reset(BattleRecordReader *reader);
 BOOL FUN_overlay_d_93__021ee688(BattleRecordReader *reader, u8 clientID);
 const UNK_021D845C *FUN_overlay_d_93__021ee6b8(BattleRecordReader *reader, u8 clientID, u8 *numEntries, u8 *tagFlag);
-u32 FUN_overlay_d_93__021ee830(const BattleRecordReader *reader);
+u32 BattleRecordReader_GetCurrentChapterCount(const BattleRecordReader *reader);
 BOOL BattleRecordReader_IsAtEnd(const BattleRecordReader *reader, u8 clientID);
 
 // Building the payload that goes out to the clients.

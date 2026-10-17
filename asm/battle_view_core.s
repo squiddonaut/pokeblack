@@ -307,7 +307,7 @@
 	.extern FUN_0220F3E8
 	.extern BattleMon_Get
 	.extern FUN_overlay_d_93__021b9a24
-	.extern FUN_overlay_d_93__021b9b94
+	.extern BattleParty_GetMemberCount
 	.extern FUN_overlay_d_93__021b9c00
 	.extern FUN_overlay_d_93__021c7cf4
 	.extern FUN_overlay_d_93__021c7d00
@@ -325,7 +325,7 @@
 	.extern FUN_overlay_d_93__021c8860
 	.extern FUN_overlay_d_93__021c88a4
 	.extern FUN_overlay_d_93__021c88c8
-	.extern FUN_overlay_d_93__021d3d70
+	.extern BattleClient_GetOwnIdx
 	.extern BattleMon_GetBattleSlot
 	.extern BattleMon_GetSpecies
 	.extern BattleMon_GetMoveCount
@@ -353,8 +353,8 @@
 	.extern FUN_overlay_d_93__021d7b10
 	.extern BattleMon_DivideMaxHPZeroCheck
 	.extern FUN_overlay_d_93__021d7dc0
-	.extern FUN_overlay_d_93__021eaf7c
-	.extern FUN_overlay_d_93__021eec78
+	.extern BattleViewScreenUp_Create
+	.extern MainModule_LoadGlobalBattleString
 	.extern thunk_FUN_overlay_d_93__021b8d08
 	.extern ADDR_02018790
 	.extern ADDR_02018820
@@ -3832,7 +3832,7 @@ FUN_overlay_d_93__021e60a8: ; 0x021E60A8
 	add r5, r2, #0
 	bl FUN_overlay_d_93__021c7fcc
 	str r0, [sp, #8]
-	bl FUN_overlay_d_93__021b9b94
+	bl BattleParty_GetMemberCount
 	str r0, [sp, #4]
 	cmp r5, r0
 	blo _021E60C6
@@ -5676,8 +5676,8 @@ FUN_overlay_d_93__021e8f08: ; 0x021E8F08
 	pop {r3, pc}
 	thumb_func_end FUN_overlay_d_93__021e8f08
 
-	thumb_func_start FUN_overlay_d_93__021e8f20
-FUN_overlay_d_93__021e8f20: ; 0x021E8F20
+	thumb_func_start BattleViewCore_Create
+BattleViewCore_Create: ; 0x021E8F20
 	push {r3, r4, r5, r6, r7, lr}
 	sub sp, #0x20
 	ldr r7, _021E901C ; =0x0000012D
@@ -5699,7 +5699,7 @@ FUN_overlay_d_93__021e8f20: ; 0x021E8F20
 	ldr r0, [sp, #0x14]
 	str r0, [r4, #4]
 	str r6, [r4, #8]
-	bl FUN_overlay_d_93__021d3d70
+	bl BattleClient_GetOwnIdx
 	strb r0, [r4, #0xc]
 	mov r1, #4
 	add r0, r7, #0
@@ -5757,7 +5757,7 @@ FUN_overlay_d_93__021e8f20: ; 0x021E8F20
 	ldr r1, [r4]
 	ldr r3, [r4, r3]
 	add r0, r4, #0
-	bl FUN_overlay_d_93__021eaf7c
+	bl BattleViewScreenUp_Create
 	mov r1, #0x80
 	add r1, #0xfc
 	str r0, [r4, r1]
@@ -5791,12 +5791,12 @@ FUN_overlay_d_93__021e8f20: ; 0x021E8F20
 	ldr r0, [sp, #0x10]
 	add r2, r6, #0
 	add r3, r5, #0
-	bl FUN_overlay_d_93__021eec78
+	bl MainModule_LoadGlobalBattleString
 	add r0, r4, #0
 	add sp, #0x20
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-	thumb_func_end FUN_overlay_d_93__021e8f20
+	thumb_func_end BattleViewCore_Create
 _021E901C: .word 0x0000012D
 _021E9020: .word _021F3AC4
 

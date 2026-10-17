@@ -310,8 +310,8 @@
 
 	.text
 
-	thumb_func_start FUN_overlay_d_93__021ee5e4
-FUN_overlay_d_93__021ee5e4: ; 0x021EE5E4
+	thumb_func_start BattleRecord_New
+BattleRecord_New: ; 0x021EE5E4
 	push {r3, lr}
 	mov r1, #0x6b
 	str r1, [sp]
@@ -321,7 +321,7 @@ FUN_overlay_d_93__021ee5e4: ; 0x021EE5E4
 	blx FUN_02030734
 	pop {r3, pc}
 	nop
-	thumb_func_end FUN_overlay_d_93__021ee5e4
+	thumb_func_end BattleRecord_New
 _021EE5F8: .word 0x00000C08
 _021EE5FC: .word 0x021F3ADC
 
@@ -594,8 +594,8 @@ _021EE802:
 	.balign 4, 0
 _021EE82C: .word 0x7FFFFFFF
 
-	thumb_func_start FUN_overlay_d_93__021ee830
-FUN_overlay_d_93__021ee830: ; 0x021EE830
+	thumb_func_start BattleRecordReader_GetCurrentChapterCount
+BattleRecordReader_GetCurrentChapterCount: ; 0x021EE830
 	push {r4, r5, r6, r7}
 	ldr r2, [r0, #4]
 	mov r1, #0
@@ -604,7 +604,7 @@ FUN_overlay_d_93__021ee830: ; 0x021EE830
 	lsr r2, r2, #1
 	beq _021EE88E
 	ldr r3, [r0]
-	thumb_func_end FUN_overlay_d_93__021ee830
+	thumb_func_end BattleRecordReader_GetCurrentChapterCount
 _021EE840:
 	ldrb r4, [r3, r1]
 	mov r0, #0xf

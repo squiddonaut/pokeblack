@@ -305,7 +305,7 @@
 	.extern FUN_021F8B28
 	.extern FUN_0220C834
 	.extern FUN_0220F3E8
-	.extern FUN_overlay_d_93__021b9940
+	.extern PokemonContainer_GetBattleMonConst
 	.extern FUN_overlay_d_93__021b9a24
 	.extern BattleMon_GetBattleSlot
 	.extern BattleMon_HasMove
@@ -1085,7 +1085,7 @@ _021EFC3A:
 	bne _021EFC6A
 	ldr r0, [sp]
 	add r1, r4, #0
-	bl FUN_overlay_d_93__021b9940
+	bl PokemonContainer_GetBattleMonConst
 	ldr r1, [sp, #4]
 	bl BattleMon_HasMove
 	cmp r0, #0

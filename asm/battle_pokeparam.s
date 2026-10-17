@@ -5212,13 +5212,13 @@ _021D6EA0:
 	.byte 0x00, 0x68, 0x01, 0x4B, 0x18, 0x47, 0xC0, 0x46
 	.word ADDR_020185C4 + 1
 
-	thumb_func_start FUN_overlay_d_93__021d6eac
-FUN_overlay_d_93__021d6eac: ; 0x021D6EAC
+	thumb_func_start BattleEvent_InitSystem
+BattleEvent_InitSystem: ; 0x021D6EAC
 	push {r3, r4, r5, r6, r7, lr}
 	ldr r6, _021D6EDC ; =0x021F4470
 	ldr r7, _021D6EE0 ; =0x021F3CBC
 	mov r4, #0
-	thumb_func_end FUN_overlay_d_93__021d6eac
+	thumb_func_end BattleEvent_InitSystem
 _021D6EB4:
 	mov r0, #0x3c
 	mul r0, r4

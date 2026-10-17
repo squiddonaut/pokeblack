@@ -172,7 +172,7 @@ const UNK_021D845C *FUN_overlay_d_93__021ee6b8(BattleRecordReader *reader, u8 cl
     }
 }
 
-u32 FUN_overlay_d_93__021ee830(const BattleRecordReader *reader)
+u32 BattleRecordReader_GetCurrentChapterCount(const BattleRecordReader *reader)
 {
     u32 p = 0;
     u32 flagCount = 0;

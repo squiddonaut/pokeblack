@@ -316,7 +316,7 @@
 	.extern FUN_overlay_d_93__021b9a24
 	.extern FUN_overlay_d_93__021b9a40
 	.extern FUN_overlay_d_93__021b9a5c
-	.extern FUN_overlay_d_93__021b9b94
+	.extern BattleParty_GetMemberCount
 	.extern FUN_overlay_d_93__021b9c00
 	.extern FUN_overlay_d_93__021c7cf4
 	.extern FUN_overlay_d_93__021c8010
@@ -2320,8 +2320,8 @@ _021D783A:
 	pop {r4, r5}
 	bx lr
 
-	thumb_func_start FUN_overlay_d_93__021d7840
-FUN_overlay_d_93__021d7840: ; 0x021D7840
+	thumb_func_start GlobalBattleCalc_Create
+GlobalBattleCalc_Create: ; 0x021D7840
 	push {r3, r4, lr}
 	sub sp, #4
 	add r4, r0, #0
@@ -2345,7 +2345,7 @@ FUN_overlay_d_93__021d7840: ; 0x021D7840
 	add sp, #4
 	pop {r3, r4, pc}
 	nop
-	thumb_func_end FUN_overlay_d_93__021d7840
+	thumb_func_end GlobalBattleCalc_Create
 _021D7870: .word _021F3AB8
 _021D7874:
 	.word ADDR_021F6360
@@ -3356,8 +3356,8 @@ _021D7F7E:
 _021D7F86:
 	pop {r4, pc}
 
-	thumb_func_start FUN_overlay_d_93__021d7f88
-FUN_overlay_d_93__021d7f88: ; 0x021D7F88
+	thumb_func_start BattleSetup_GetWinMoney
+BattleSetup_GetWinMoney: ; 0x021D7F88
 	push {r3, r4, r5, lr}
 	add r5, r0, #0
 	ldr r0, [r5]
@@ -3370,9 +3370,9 @@ FUN_overlay_d_93__021d7f88: ; 0x021D7F88
 	ldr r1, [r5, #0x28]
 	cmp r1, #0
 	beq _021D7FA6
-	bl FUN_overlay_d_93__021d7fbc
+	bl TrainerBattleSetup_GetWinMoney
 	add r4, r4, r0
-	thumb_func_end FUN_overlay_d_93__021d7f88
+	thumb_func_end BattleSetup_GetWinMoney
 _021D7FA6:
 	ldr r0, [r5, #0x54]
 	cmp r0, #0
@@ -3380,14 +3380,14 @@ _021D7FA6:
 	ldr r1, [r5, #0x30]
 	cmp r1, #0
 	beq _021D7FB8
-	bl FUN_overlay_d_93__021d7fbc
+	bl TrainerBattleSetup_GetWinMoney
 	add r4, r4, r0
 _021D7FB8:
 	add r0, r4, #0
 	pop {r3, r4, r5, pc}
 
-	thumb_func_start FUN_overlay_d_93__021d7fbc
-FUN_overlay_d_93__021d7fbc: ; 0x021D7FBC
+	thumb_func_start TrainerBattleSetup_GetWinMoney
+TrainerBattleSetup_GetWinMoney: ; 0x021D7FBC
 	push {r3, r4, r5, lr}
 	add r5, r0, #0
 	add r4, r1, #0
@@ -3412,7 +3412,7 @@ FUN_overlay_d_93__021d7fbc: ; 0x021D7FBC
 	mul r0, r5
 	lsl r0, r0, #2
 	pop {r3, r4, r5, pc}
-	thumb_func_end FUN_overlay_d_93__021d7fbc
+	thumb_func_end TrainerBattleSetup_GetWinMoney
 _021D7FF4:
 	mov r0, #0
 	pop {r3, r4, r5, pc}
@@ -3423,7 +3423,7 @@ FUN_overlay_d_93__021d7ff8: ; 0x021D7FF8
 	add r7, r1, #0
 	str r0, [sp]
 	add r0, r7, #0
-	bl FUN_overlay_d_93__021b9b94
+	bl BattleParty_GetMemberCount
 	add r6, r0, #0
 	ldr r4, _021D8040 ; =0x00000001
 	ldr r5, _021D8044 ; =0x00000000
@@ -3462,13 +3462,13 @@ _021D8044: .word 0x00000000
 _021D8048:
 	.word ADDR_021F042C + 1
 
-	thumb_func_start FUN_overlay_d_93__021d804c
-FUN_overlay_d_93__021d804c: ; 0x021D804C
+	thumb_func_start GlobalBattleCalc_SetHeap
+GlobalBattleCalc_SetHeap: ; 0x021D804C
 	ldr r1, _021D8054 ; =0x021F6360
 	strh r0, [r1]
 	bx lr
 	nop
-	thumb_func_end FUN_overlay_d_93__021d804c
+	thumb_func_end GlobalBattleCalc_SetHeap
 _021D8054:
 	.word ADDR_021F6360
 
@@ -3746,11 +3746,11 @@ FUN_overlay_d_93__021d81f8: ; 0x021D81F8
 _021D822C:
 	.word ADDR_021F6368
 
-	thumb_func_start FUN_overlay_d_93__021d8230
-FUN_overlay_d_93__021d8230: ; 0x021D8230
+	thumb_func_start EscapeInfo_Clear
+EscapeInfo_Clear: ; 0x021D8230
 	mov r3, #0
 	mov r2, #4
-	thumb_func_end FUN_overlay_d_93__021d8230
+	thumb_func_end EscapeInfo_Clear
 _021D8234:
 	add r1, r0, r3
 	add r3, r3, #1
