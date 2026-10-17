@@ -11,7 +11,7 @@ OPTFLAGS       := -O4,p
 include config.mk
 
 ASM_SUBDIR     := asm asm/arm9
-LINKED_C_SRCS  := unk_02008574.c battle_record.c
+LINKED_C_SRCS  := unk_02008574.c battle_record.c battle_adapter_c.c
 SYM_GLOBS      := 'asm/unk_*.s' 'asm/overlay_*.s' 'asm/battle_*.s' 'asm/arm9/*.s'
 LDSEARCH       := -search -l . -l src -l asm
 CRT0_OBJ       := asm/crt0.o

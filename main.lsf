@@ -667,6 +667,8 @@ Overlay OVY_93
 	Object		asm/battle_view_scu.o
 	Object		src/battle_record.o
 	Object		asm/battle_adapter.o
+	Object		src/battle_adapter_c.o
+	Object		asm/battle_adapter_2.o
 	Object		asm/battle_field.o
 	Object		asm/battle_unattributed.o
 }
