@@ -184,6 +184,21 @@ def merge(paths):
     return bank
 
 
+def bank_files(directory):
+    names = sorted(n for n in os.listdir(directory) if n.endswith('.json'))
+    if [int(n[:-len('.json')]) for n in names] != list(range(len(names))):
+        raise ValueError(f"{directory}: bank numbering is not contiguous from 0")
+    return [os.path.join(directory, n) for n in names]
+
+
+def pack(directory, prepend):
+    banks = [[path] for path in bank_files(directory)]
+    for spec in prepend:
+        index, _, path = spec.partition(':')
+        banks[int(index)].insert(0, path)
+    return write_narc([encode(merge(paths)) for paths in banks])
+
+
 def bank_prefix(arc, index):
     return 'a' + ''.join(arc.split('/')[1:]) + f'_{index:03d}'
 
@@ -225,7 +240,9 @@ def main():
     p.add_argument('json', nargs='+', help="files whose messages are joined in order")
     p.add_argument('-o', '--output', required=True)
     p = sub.add_parser('pack', help="json banks to a message NARC")
-    p.add_argument('banks', nargs='+', metavar='BANK', help="one json per bank, or A.json+B.json to join several")
+    p.add_argument('dir', help="directory of banks named 000.json, 001.json, ...")
+    p.add_argument('--prepend', action='append', default=[], metavar='INDEX:FILE',
+                   help="put the messages of FILE before those of bank INDEX")
     p.add_argument('-o', '--output', required=True)
     p = sub.add_parser('verify', help="re-encode every bank and compare byte for byte")
     p.add_argument('arcs', nargs='*', help="default a/0/0/2 and a/0/0/3")
@@ -246,9 +263,9 @@ def main():
             with open(args.output, 'wb') as f:
                 f.write(encode(merge(args.json)))
         elif args.command == 'pack':
-            members = [encode(merge(spec.split('+'))) for spec in args.banks]
+            data = pack(args.dir, args.prepend)
             with open(args.output, 'wb') as f:
-                f.write(write_narc(members))
+                f.write(data)
         else:
             arcs = args.arcs or [os.path.join(ROOT, arc) for arc in VERIFY_ARCS]
             if verify(arcs):
