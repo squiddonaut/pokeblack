@@ -1,0 +1,51 @@
+{
+    "flags": 224,
+    "pad": "8484",
+    "messages": [
+        {
+            "id": "a003_433_0000",
+            "en_US": [
+                "Cheren's Dad: Hey, {VAR 0100 0000}!{VAR BE01}\n",
+                "I heard it from the professor!\n",
+                "So, you're getting a Pokémon, eh?{VAR BE01}\n",
+                "Oh, you've already got it!\n",
+                "Hm, that sure is a cute Pokémon.{VAR BE01}\n",
+                "And you're all finally\n",
+                "starting your journeys as Trainers?{VAR BE01}\n",
+                "Well, let me read you a passage from\n",
+                "a book called “Adventure Rules.\"{VAR BE01}\n",
+                "“The X Button is vitally important\n",
+                "for Trainers.\" Never forget that."
+            ]
+        },
+        {
+            "id": "a003_433_0001",
+            "en_US": [
+                "Cheren's Mom: That Cheren.\n",
+                "I'm sure he's at the laboratory. {VAR BE01}\n",
+                "He's so... How should I put it?\n",
+                "Diligent or, better, conscientious."
+            ]
+        },
+        {
+            "id": "a003_433_0002",
+            "en_US": [
+                "Cheren's Dad: Traveling is great!{VAR BE01}\n",
+                "You encounter so many things you've\n",
+                "never seen and things you don't yet{VAR BE00}\n",
+                "understand. Wherever you go, you'll{VAR BE00}\n",
+                "learn something new and grow up a little."
+            ]
+        },
+        {
+            "id": "a003_433_0003",
+            "en_US": [
+                "Cheren's Mom: Why, {VAR 0100 0000}.{VAR BE01}\n",
+                "I hear the professor asked you to\n",
+                "complete the Pokédex.{VAR BE01}\n",
+                "Don't worry!\n",
+                "You'll always have Pokémon by your side."
+            ]
+        }
+    ]
+}

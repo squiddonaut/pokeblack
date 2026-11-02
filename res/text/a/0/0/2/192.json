@@ -1,0 +1,42 @@
+{
+    "flags": 229,
+    "pad": "4646",
+    "messages": [
+        {
+            "id": "a002_192_0000",
+            "en_US": [
+                "Hello!\n",
+                "How is everybody doing?{VAR BE01}\n",
+                "You and your Pokémon are getting\n",
+                "along great now, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_192_0001",
+            "en_US": "Oh! Professor!{VAR BE01}"
+        },
+        {
+            "id": "a002_192_0002",
+            "en_US": [
+                "Right now, I'm in front of Accumula Town's\n",
+                "Pokémon Center!{VAR BE01}\n",
+                "I'd like to show you around, \n",
+                "so hurry on over, everyone!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_192_0003",
+            "en_US": [
+                "OK!\n",
+                "The Pokémon Center, right!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_192_0004",
+            "en_US": [
+                "OK!\n",
+                "See you!{VAR BE01}"
+            ]
+        }
+    ]
+}

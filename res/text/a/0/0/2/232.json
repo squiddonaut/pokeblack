@@ -1,0 +1,696 @@
+{
+    "flags": 240,
+    "messages": [
+        {
+            "id": "a002_232_0000",
+            "en_US": [
+                "Unable to connect to Nintendo\n",
+                "Wi-Fi Connection.\n",
+                "\n",
+                "For help, check the software\n",
+                "Instruction Booklet or visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0001",
+            "en_US": [
+                "Either Nintendo Wi-Fi Connection\n",
+                "is experiencing high traffic\n",
+                "volumes or the service is down.\n",
+                "Please try again later. \n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0002",
+            "en_US": [
+                "This Nintendo Wi-Fi Connection ID\n",
+                "was removed because it was\n",
+                "inactive for a long time. \n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0003",
+            "en_US": [
+                "Nintendo Wi-Fi Connection service\n",
+                "for this software has been discontinued.\n",
+                "\n",
+                "Visit support.nintendo.com for a list \n",
+                "of current Nintendo Wi-Fi \n",
+                "Connection-compatible software. \n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0004",
+            "en_US": [
+                "The access point is busy.\n",
+                "Unable to connect.\n",
+                "Please try again later.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0005",
+            "en_US": [
+                "No access point in range.\n",
+                "Please try again when closer to\n",
+                "an access point.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0006",
+            "en_US": [
+                "No compatible access point in\n",
+                "range. Check your connection \n",
+                "settings and try again. \n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0007",
+            "en_US": [
+                "Unable to connect to the Nintendo\n",
+                "Wi-Fi USB Connector. Check your\n",
+                "connection settings in the\n",
+                "Nintendo Wi-Fi Connection setup.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0008",
+            "en_US": [
+                "Unable to connect to Nintendo \n",
+                "Wi-Fi Connection. Check \n",
+                "your connection settings and \n",
+                "try again.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0009",
+            "en_US": [
+                "There is no response.\n",
+                "\n",
+                "Either the player has been\n",
+                "disconnected or you have\n",
+                "been removed from the\n",
+                "player's Pal Pad.\n",
+                "\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0010",
+            "en_US": [
+                "Communication error.\n",
+                "You have been disconnected from\n",
+                "Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0011",
+            "en_US": [
+                "Communication error.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0012",
+            "en_US": [
+                "Download failed.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com.\n",
+                "\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0013",
+            "en_US": [
+                "Communication error.\n",
+                "You have been disconnected from\n",
+                "Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0014",
+            "en_US": "Communication error..."
+        },
+        {
+            "id": "a002_232_0015",
+            "en_US": [
+                "Nintendo Wi-Fi Connection cannot be\n",
+                "used because an error has occurred.\n",
+                "Turn off the power and try again.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0016",
+            "en_US": [
+                "Your Wi-Fi User Information may have been\n",
+                "erased.\n",
+                "\n",
+                "Check your connection settings with the\n",
+                "Nintendo Wi-Fi Connection setup.\n",
+                "\n",
+                "For help, visit support.nintendo.com."
+            ]
+        },
+        {
+            "id": "a002_232_0017",
+            "en_US": "Connect to Nintendo Wi-Fi Connection?"
+        },
+        {
+            "id": "a002_232_0018",
+            "en_US": [
+                "Nintendo Wi-Fi Connection treats your\n",
+                "Nintendo DS Game Card and the system\n",
+                "as a set.\n",
+                "\n",
+                "Save this system's Wi-Fi User Information\n",
+                "to this Game Card and connect\n",
+                "to Nintendo Wi-Fi Connection?"
+            ]
+        },
+        {
+            "id": "a002_232_0019",
+            "en_US": [
+                "Wi-Fi User Information for this\n",
+                "system has been saved to the Game Card.\n",
+                "\n",
+                "From now on, please use this system\n",
+                "to connect to Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0020",
+            "en_US": [
+                "Unable to connect to\n",
+                "Nintendo Wi-Fi Connection\n",
+                "because the Wi-Fi User\n",
+                "Information from the system \n",
+                "and the Game Card do not match."
+            ]
+        },
+        {
+            "id": "a002_232_0021",
+            "en_US": [
+                "Update Wi-Fi User Information\n",
+                "saved in the save data?\n",
+                "When you update your\n",
+                "Wi-Fi User Information, you will\n",
+                "lose all data that was used to\n",
+                "connect to Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0022",
+            "en_US": [
+                "Connect to Nintendo Wi-Fi Connection\n",
+                "to update Wi-Fi User Information?\n",
+                "\n",
+                "Warning:\n",
+                "All of the friends registered in your\n",
+                "Pal Pad and the Rating Mode results\n",
+                "for Random Matchup will be deleted."
+            ]
+        },
+        {
+            "id": "a002_232_0023",
+            "en_US": [
+                "Connecting to Nintendo Wi-Fi\n",
+                "Connection... Please wait a moment..."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_232_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_232_0025",
+            "en_US": [
+                "OK to disconnect from\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_232_0026",
+            "en_US": [
+                "Disconnecting from\n",
+                "Nintendo Wi-Fi Connection."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_232_0027",
+            "en_US": [
+                "You have been disconnected\n",
+                "from Nintendo Wi-Fi Connection.{VAR BE02 0064}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_232_0028",
+            "en_US": "Yes",
+            "flags": 86
+        },
+        {
+            "id": "a002_232_0029",
+            "en_US": "No",
+            "flags": 86
+        },
+        {
+            "id": "a002_232_0030",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_232_0031",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_232_0032",
+            "en_US": [
+                "Please configure your connection settings\n",
+                "under the Internet option\n",
+                "in the System Settings.\n",
+                "\n",
+                "For help, visit support.nintendo.com."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_232_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_232_0034",
+            "en_US": [
+                "To use this feature, you must accept\n",
+                "the terms of the Nintendo DSi\n",
+                "Network Services Agreement\n",
+                "in the System Settings.\n",
+                "\n",
+                "Error code: 50599"
+            ]
+        },
+        {
+            "id": "a002_232_0035",
+            "en_US": "{VAR BD02}Connect to Nintendo WFC",
+            "flags": 192
+        },
+        {
+            "id": "a002_232_0036",
+            "en_US": "{VAR BD02}Disconnect from Nintendo WFC",
+            "flags": 192
+        },
+        {
+            "id": "a002_232_0037",
+            "en_US": [
+                "Disconnected from Nintendo Wi-Fi Connection\n",
+                "due to communication error.\n",
+                "\n",
+                "Would you like to reconnect to\n",
+                "Nintendo Wi-Fi Connection?"
+            ]
+        },
+        {
+            "id": "a002_232_0038",
+            "en_US": [
+                "Are you sure you want to update\n",
+                "Wi-Fi User Information?\n",
+                "\n",
+                "Warning:\n",
+                "You will be unregistered from the\n",
+                "Wi-Fi Competition you've registered."
+            ]
+        },
+        {
+            "id": "a002_232_0039",
+            "en_US": [
+                "Wireless communications\n",
+                "are turned OFF. Turn \n",
+                "wireless communications\n",
+                "ON in the System Settings.\n",
+                "\n",
+                "Error code: 50699"
+            ]
+        },
+        {
+            "id": "a002_232_0040",
+            "en_US": [
+                "The connection with the other person\n",
+                "has been lost."
+            ]
+        },
+        {
+            "id": "a002_232_0041",
+            "en_US": [
+                "Communication error.\n",
+                "Please turn off the power."
+            ]
+        },
+        {
+            "id": "a002_232_0042",
+            "en_US": [
+                "Your Wi-Fi User Information\n",
+                "may have been erased.\n",
+                "Check your connection settings\n",
+                "under the Internet option in the\n",
+                "System Settings.\n",
+                "\n",
+                "For help, visit\n",
+                "support.nintendo.com."
+            ]
+        },
+        {
+            "id": "a002_232_0043",
+            "en_US": [
+                "Nintendo Wi-Fi Connection treats your\n",
+                "save data and Nintendo DSi system\n",
+                "as a set.\n",
+                "Save this Nintendo DSi system's\n",
+                "Wi-Fi User Information to this save data\n",
+                "and connect to Nintendo Wi-Fi Connection?"
+            ]
+        },
+        {
+            "id": "a002_232_0044",
+            "en_US": [
+                "Wi-Fi User Information for this\n",
+                "Nintendo DSi system has been\n",
+                "saved to the save data.\n",
+                "From now on, please use this\n",
+                "Nintendo DSi system to connect to\n",
+                "Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0045",
+            "en_US": [
+                "Unable to connect to\n",
+                "Nintendo Wi-Fi Connection\n",
+                "because the Wi-Fi User Information\n",
+                "from the Nintendo DSi system and\n",
+                "the save data do not match. "
+            ]
+        },
+        {
+            "id": "a002_232_0046",
+            "en_US": [
+                "Update Wi-Fi User Information\n",
+                "saved in the save data?\n",
+                "When you update your\n",
+                "Wi-Fi User Information, you will\n",
+                "lose all data that was used to\n",
+                "connect to Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0047",
+            "en_US": [
+                "Unable to connect to\n",
+                "Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "For details, check the\n",
+                "Nintendo DSi Operations Manual\n",
+                "or visit support.nintendo.com.\n",
+                "\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0048",
+            "en_US": [
+                "This Nintendo Wi-Fi Connection ID \n",
+                "was removed because it was\n",
+                "inactive for a long time.\n",
+                "\n",
+                "For help, check the Nintendo DSi \n",
+                "Operations Manual or \n",
+                "visit support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0049",
+            "en_US": [
+                "No compatible access point in range. \n",
+                "\n",
+                "Check your connection settings \n",
+                "under the Internet option \n",
+                "in the System Settings and try again.\n",
+                "\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0050",
+            "en_US": [
+                "Unable to connect \n",
+                "to Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "Check your settings under the Internet \n",
+                "option in the System Settings and try again.\n",
+                "\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0051",
+            "en_US": [
+                "Nintendo Wi-Fi Connection cannot be used\n",
+                "because an error has occurred.\n",
+                "Reset the system and try again.\n",
+                "Error code: {VAR 0204 0000}"
+            ]
+        },
+        {
+            "id": "a002_232_0052",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13201"
+            ]
+        },
+        {
+            "id": "a002_232_0053",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13202"
+            ]
+        },
+        {
+            "id": "a002_232_0054",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13203"
+            ]
+        },
+        {
+            "id": "a002_232_0055",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13204"
+            ]
+        },
+        {
+            "id": "a002_232_0056",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13205"
+            ]
+        },
+        {
+            "id": "a002_232_0057",
+            "en_US": [
+                "This service has been discontinued.\n",
+                "\n",
+                "Error Code: 13206"
+            ]
+        },
+        {
+            "id": "a002_232_0058",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13207"
+            ]
+        },
+        {
+            "id": "a002_232_0059",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13208"
+            ]
+        },
+        {
+            "id": "a002_232_0060",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13209"
+            ]
+        },
+        {
+            "id": "a002_232_0061",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_232_0062",
+            "en_US": [
+                "The server is experiencing high\n",
+                "traffic volumes.\n",
+                "Unable to connect.\n",
+                "Please wait a little while and try again.\n",
+                "\n",
+                "Error Code: 13211"
+            ]
+        },
+        {
+            "id": "a002_232_0063",
+            "en_US": [
+                "The server is undergoing maintenance.\n",
+                "You can review the details at the\n",
+                "Pokémon Global Link website.\n",
+                "http://www.pokemon-gl.com\n",
+                "\n",
+                "Error Code: 13212"
+            ]
+        },
+        {
+            "id": "a002_232_0064",
+            "en_US": [
+                "Communication error.\n",
+                "\n",
+                "Disconnecting from \n",
+                "Nintendo Wi-Fi Connection."
+            ]
+        },
+        {
+            "id": "a002_232_0065",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: 13280"
+            ]
+        },
+        {
+            "id": "a002_232_0066",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: 13281"
+            ]
+        },
+        {
+            "id": "a002_232_0067",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: 13282"
+            ]
+        },
+        {
+            "id": "a002_232_0068",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.\n",
+                "Error code: 13283"
+            ]
+        }
+    ]
+}

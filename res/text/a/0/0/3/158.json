@@ -1,0 +1,184 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_158_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0001",
+            "en_US": "${VAR 0205 0002}",
+            "flags": 72
+        },
+        {
+            "id": "a003_158_0002",
+            "en_US": "Would you like to save the game?"
+        },
+        {
+            "id": "a003_158_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0004",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a003_158_0005",
+            "en_US": "{VAR 0100 0000} saved the game."
+        },
+        {
+            "id": "a003_158_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0007",
+            "en_US": "Save error.{VAR BE01}"
+        },
+        {
+            "id": "a003_158_0008",
+            "en_US": [
+                "There is already a saved game file.\n",
+                "It is impossible to save.{VAR BE01}\n",
+                "Please refer to the Instruction\n",
+                "Booklet for details.{VAR BE01}\n",
+                "Press Up + SELECT + B Button on\n",
+                "the title screen if you want to erase{VAR BE00}\n",
+                "the current saved game file."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a003_158_0009",
+            "en_US": [
+                "There is already a saved game file.\n",
+                "It is impossible to save.{VAR BE01}\n",
+                "Please refer to the Instruction\n",
+                "Booklet for details.{VAR BE01}\n",
+                "Press Up + SELECT + B Button on\n",
+                "the title screen if you want to erase{VAR BE00}\n",
+                "the current saved game file.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_158_0010",
+            "en_US": [
+                "Saving a lot of data...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a003_158_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0014",
+            "en_US": [
+                "Can't save the game\n",
+                "while you are in someone's world{VAR BE00}\n",
+                "or while someone is in your world."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a003_158_0015",
+            "en_US": [
+                "It looks like you are connecting\n",
+                "with somebody. Is it OK to disconnect?"
+            ]
+        },
+        {
+            "id": "a003_158_0016",
+            "en_US": [
+                "Ending communication.\n",
+                "Please wait."
+            ]
+        },
+        {
+            "id": "a003_158_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0019",
+            "en_US": [
+                "First, let's restore your Pokémon\n",
+                "to full health."
+            ]
+        },
+        {
+            "id": "a003_158_0020",
+            "en_US": [
+                "Please visit a Pokémon Center when your\n",
+                "Pokémon's HP goes down.{VAR BE01}\n",
+                "If you're planning to travel any\n",
+                "distance, you should stock up on Potions{VAR BE00}\n",
+                "at a Poké Mart.{VAR BE01}\n",
+                "Good luck, Trainer!"
+            ]
+        },
+        {
+            "id": "a003_158_0021",
+            "en_US": [
+                "There! All happy and healthy!{VAR BE01}\n",
+                "Good luck and take care!"
+            ]
+        },
+        {
+            "id": "a003_158_0022",
+            "en_US": [
+                "Wireless communications are turned OFF.\n",
+                "Turn wireless communications ON{VAR BE00}\n",
+                "in the System Settings.{VAR BE00}\n",
+                "Error code: 50699{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_158_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_158_0024",
+            "en_US": [
+                "Juniper's words echoed...\n",
+                "{VAR 0100 0000}! There's a time and place{VAR BE00}\n",
+                "for everything! But not now."
+            ]
+        },
+        {
+            "id": "a003_158_0025",
+            "en_US": "You can't dismount your Bike here."
+        },
+        {
+            "id": "a003_158_0026",
+            "en_US": [
+                "There is no Pokémon\n",
+                "with a Ribbon in your party."
+            ]
+        }
+    ]
+}

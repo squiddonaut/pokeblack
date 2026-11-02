@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "pad": "1818",
+    "messages": [
+        {
+            "id": "a003_138_0000",
+            "en_US": [
+                "Trainer who came to Opelucid City! Hello!{VAR BE01}\n",
+                "Trainer who is going to Route 11!\n",
+                "Please come again!"
+            ]
+        },
+        {
+            "id": "a003_138_0001",
+            "en_US": [
+                "Trainer who came to Opelucid City! Hello!{VAR BE01}\n",
+                "Trainer who is going to Route 11!\n",
+                "Please come again!"
+            ]
+        },
+        {
+            "id": "a003_138_0002",
+            "en_US": [
+                "There is something ahead, and\n",
+                "the road is closed now."
+            ]
+        },
+        {
+            "id": "a003_138_0003",
+            "en_US": [
+                "There is something ahead, and\n",
+                "the road is closed now.{VAR BE01}"
+            ]
+        }
+    ]
+}

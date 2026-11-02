@@ -1,0 +1,38 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_036_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a002_036_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a002_036_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a002_036_0003",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 200
+        },
+        {
+            "id": "a002_036_0004",
+            "en_US": "{VAR 0100 0000} saved the game.",
+            "flags": 216
+        },
+        {
+            "id": "a002_036_0005",
+            "en_US": [
+                "There is already a saved game file.\n",
+                "It is impossible to save."
+            ],
+            "flags": 216
+        }
+    ]
+}

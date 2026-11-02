@@ -1,0 +1,305 @@
+{
+    "flags": 224,
+    "pad": "5454",
+    "messages": [
+        {
+            "id": "a003_020_0000",
+            "en_US": [
+                "Cheren: When a Pokémon is poisoned,\n",
+                "its HP decreases while it is battling.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0001",
+            "en_US": [
+                "Hey, {VAR 0100 0000}.{VAR BE01}\n",
+                "Have you come looking for the\n",
+                "Gym Leader?"
+            ]
+        },
+        {
+            "id": "a003_020_0002",
+            "en_US": [
+                "He was here talking about Pokémon\n",
+                "types until just a few moments ago...{VAR BE01}\n",
+                "Maybe you walked right past him?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0003",
+            "en_US": [
+                "Nothing improves your skill as a Trainer\n",
+                "like real battles.{VAR BE01}\n",
+                "That's why challenging Gym Leaders is\n",
+                "great practice.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0004",
+            "en_US": [
+                "By the way, {VAR 0100 0000}, will you have a\n",
+                "battle with me?{VAR BE01}\n",
+                "I want to test how important items are\n",
+                "in battles."
+            ]
+        },
+        {
+            "id": "a003_020_0005",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, will you have a\n",
+                "battle with me?{VAR BE01}\n",
+                "I want to test how important items are\n",
+                "in battles."
+            ]
+        },
+        {
+            "id": "a003_020_0006",
+            "en_US": [
+                "Really? I really want to try out my\n",
+                "items, so I'll just wait here until you{VAR BE00}\n",
+                "decide you're ready."
+            ]
+        },
+        {
+            "id": "a003_020_0007",
+            "en_US": [
+                "Cheren: Well, let's see how effective\n",
+                "my items are...{VAR BE01}\n",
+                "Or maybe I should test how well I can\n",
+                "battle without items...?{VAR BE01}\n",
+                "Anyway, this is an indoor match, so let's\n",
+                "battle without getting too rough!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0008",
+            "en_US": [
+                "Cheren: So learning to use items well is\n",
+                "definitely important, then.{VAR BE01}\n",
+                "Oh, here. {VAR 0100 0000}, I'll give you\n",
+                "these Berries.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0009",
+            "en_US": [
+                "Cheren: If you give a Pokémon this kind\n",
+                "of Berry to hold, it will eat it to heal up{VAR BE00}\n",
+                "when its HP goes down in battle.{VAR BE01}\n",
+                "But if you give Pokémon man-made items\n",
+                "like Potions to hold, they can't{VAR BE00}\n",
+                "use them.{VAR BE01}\n",
+                "Well, good luck, then.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0010",
+            "en_US": [
+                "This Trainers' School exists to meet the\n",
+                "demands of Trainers who want to know{VAR BE00}\n",
+                "more about Pokémon because they{VAR BE00}\n",
+                "love them!"
+            ]
+        },
+        {
+            "id": "a003_020_0011",
+            "en_US": [
+                "Pokémon have mysterious powers\n",
+                "called Abilities.{VAR BE01}\n",
+                "Abilities have a variety of effects, and\n",
+                "many of those effects are activated when{VAR BE00}\n",
+                "Pokémon are in battle!"
+            ]
+        },
+        {
+            "id": "a003_020_0012",
+            "en_US": [
+                "There is a technique that lets you\n",
+                "cancel evolution!{VAR BE01}\n",
+                "I'll read the book about it to you.\n",
+                "Are you ready?{VAR BE01}\n",
+                "“You can surprise a Pokémon and stop its\n",
+                "evolution by pressing the B Button when{VAR BE00}\n",
+                "a Pokémon is evolving.\""
+            ]
+        },
+        {
+            "id": "a003_020_0013",
+            "en_US": [
+                "Some moves can only be taught with TMs.{VAR BE01}\n",
+                "TMs can be used over and over, so you\n",
+                "might want to use them a lot.{VAR BE01}\n",
+                "If you don't like the move you taught,\n",
+                "you can always use a different TM."
+            ]
+        },
+        {
+            "id": "a003_020_0014",
+            "en_US": [
+                "Would you like to take a quiz about\n",
+                "status conditions?"
+            ]
+        },
+        {
+            "id": "a003_020_0015",
+            "en_US": [
+                "So here is the question:{VAR BE01}\n",
+                "Which of the following items\n",
+                "cures poison?"
+            ]
+        },
+        {
+            "id": "a003_020_0016",
+            "en_US": "Antidote",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0017",
+            "en_US": "Parlyz Heal",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0018",
+            "en_US": "Awakening",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0019",
+            "en_US": [
+                "Ding ding ding!{VAR BE01}\n",
+                "Right answer!\n",
+                "Now for the next question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0020",
+            "en_US": [
+                "The item that cures paralysis is\n",
+                "Parlyz Heal, but...{VAR BE01}\n",
+                "Which of the following items\n",
+                "wakes up a sleeping Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_020_0021",
+            "en_US": [
+                "Ding ding ding! We have a winner!\n",
+                "Fantastic answer!{VAR BE01}\n",
+                "Since you know so much about status\n",
+                "conditions, I'll give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0022",
+            "en_US": [
+                "Full Heal does exactly what the name\n",
+                "suggests--it heals all status conditions!"
+            ]
+        },
+        {
+            "id": "a003_020_0023",
+            "en_US": [
+                "Come talk to me if you want\n",
+                "to take a quiz."
+            ]
+        },
+        {
+            "id": "a003_020_0024",
+            "en_US": [
+                "Buzzzzz!{VAR BE01}\n",
+                "Too bad... That's incorrect.\n",
+                "Please try again sometime!"
+            ]
+        },
+        {
+            "id": "a003_020_0025",
+            "en_US": [
+                "The blackboard explains Pokémon\n",
+                "status changes in battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0026",
+            "en_US": "What do you want to read about?"
+        },
+        {
+            "id": "a003_020_0027",
+            "en_US": [
+                "If poisoned, a Pokémon steadily loses HP\n",
+                "when battling.{VAR BE01}\n",
+                "The poison lingers after the battle.\n",
+                "To cure it, use an Antidote.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0028",
+            "en_US": [
+                "Paralysis reduces the Speed stat\n",
+                "and may prevent movement.{VAR BE01}\n",
+                "It remains after battle, so use a\n",
+                "Parlyz Heal.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0029",
+            "en_US": [
+                "If a Pokémon falls asleep, it will be\n",
+                "unable to attack.{VAR BE01}\n",
+                "The Pokémon may wake up on its own,\n",
+                "but if a battle ends while it is{VAR BE00}\n",
+                "sleeping, it will stay asleep.{VAR BE01}\n",
+                "Wake it up using an Awakening.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0030",
+            "en_US": [
+                "A burn reduces the Attack stat and\n",
+                "steadily reduces the victim's HP.{VAR BE01}\n",
+                "A burn lingers after battle.\n",
+                "Cure a burn using a Burn Heal.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0031",
+            "en_US": [
+                "If a Pokémon is frozen, it becomes\n",
+                "completely helpless.{VAR BE01}\n",
+                "The Pokémon may thaw out on its own,\n",
+                "but if a battle ends while it is{VAR BE00}\n",
+                "frozen, it will stay frozen.{VAR BE01}\n",
+                "Thaw it out using an Ice Heal.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_020_0032",
+            "en_US": "Poison",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0033",
+            "en_US": "Paralysis",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0034",
+            "en_US": "Sleep",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0035",
+            "en_US": "Burn",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0036",
+            "en_US": "Frozen",
+            "flags": 219
+        },
+        {
+            "id": "a003_020_0037",
+            "en_US": "Cancel",
+            "flags": 219
+        }
+    ]
+}

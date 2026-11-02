@@ -1,0 +1,849 @@
+{
+    "flags": 1024,
+    "messages": [
+        {
+            "id": "a002_038_0000",
+            "en_US": "{VAR 0180 0000} {VAR 0201 0001}, 20{VAR 0201 0002}"
+        },
+        {
+            "id": "a002_038_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0003",
+            "en_US": "◇ A Trainer from Nuvema Town challenged one of the Striaton Gym Leaders--Cilan, Chili, and Cress--and was victorious!"
+        },
+        {
+            "id": "a002_038_0004",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Lenora, the Nacrene Gym Leader!"
+        },
+        {
+            "id": "a002_038_0005",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Burgh, the Castelia Gym Leader!"
+        },
+        {
+            "id": "a002_038_0006",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Elesa, the Nimbasa Gym Leader!"
+        },
+        {
+            "id": "a002_038_0007",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Clay, the Driftveil Gym Leader!"
+        },
+        {
+            "id": "a002_038_0008",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Skyla, the Mistralton Gym Leader!"
+        },
+        {
+            "id": "a002_038_0009",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Brycen, the Icirrus Gym Leader!"
+        },
+        {
+            "id": "a002_038_0010",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Iris, the Opelucid Gym Leader!"
+        },
+        {
+            "id": "a002_038_0011",
+            "en_US": "◇ A Trainer from Nuvema Town challenged and successfully beat Drayden, the Opelucid Gym Leader!"
+        },
+        {
+            "id": "a002_038_0012",
+            "en_US": "◇ “Tender loving care! They grow in no time!\" Day Care on Route 3"
+        },
+        {
+            "id": "a002_038_0013",
+            "en_US": "◇ “Names will bring you wonderful relationships!\" Name Rater in Castelia City"
+        },
+        {
+            "id": "a002_038_0014",
+            "en_US": "◇ “Wondering what others are doing? Let's interview them!\" Passerby Analytics in Castelia City"
+        },
+        {
+            "id": "a002_038_0015",
+            "en_US": "◇ “Run and battle! Trains never stop!\" Battle Subway in Nimbasa City"
+        },
+        {
+            "id": "a002_038_0016",
+            "en_US": "◇ “Take your first step to stardom.\" Musical in Nimbasa City"
+        },
+        {
+            "id": "a002_038_0017",
+            "en_US": "◇ “We deliver to you what winds and waves have brought to us.\" Driftveil Market"
+        },
+        {
+            "id": "a002_038_0018",
+            "en_US": "◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!\" Shopping Mall Nine"
+        },
+        {
+            "id": "a002_038_0019",
+            "en_US": "◇ Striaton City is nestled in the forest, and the breeze smells like trees."
+        },
+        {
+            "id": "a002_038_0020",
+            "en_US": "◇ The stairs at the entrance help with heavy snow."
+        },
+        {
+            "id": "a002_038_0021",
+            "en_US": "◇ Striaton Gym is a restaurant where meals--and battles--are served."
+        },
+        {
+            "id": "a002_038_0022",
+            "en_US": "◇ The garden full of green makes you feel warm inside."
+        },
+        {
+            "id": "a002_038_0023",
+            "en_US": "◇ Next to the city is a Day Care, which many Trainers visit."
+        },
+        {
+            "id": "a002_038_0024",
+            "en_US": "◇ You can learn the basics of Pokémon at the Trainers' School."
+        },
+        {
+            "id": "a002_038_0025",
+            "en_US": "◇ Striaton City is nestled in the forest, and the breeze smells like trees."
+        },
+        {
+            "id": "a002_038_0026",
+            "en_US": "◇ The stairs at the entrance help with heavy snow."
+        },
+        {
+            "id": "a002_038_0027",
+            "en_US": "◇ Striaton Gym is a restaurant where meals are served. And so are battles!"
+        },
+        {
+            "id": "a002_038_0028",
+            "en_US": "◇ Nacrene City is characterized by its stone pavement and warehouses."
+        },
+        {
+            "id": "a002_038_0029",
+            "en_US": "◇ Pokémon research at the museum starts with their bones."
+        },
+        {
+            "id": "a002_038_0030",
+            "en_US": "◇ Nacrene Gym is a museum where battles and knowledge are pursued."
+        },
+        {
+            "id": "a002_038_0031",
+            "en_US": "◇ Many young artists use the warehouses as their studios."
+        },
+        {
+            "id": "a002_038_0032",
+            "en_US": "◇ Tourists come for the warehouses and the museum."
+        },
+        {
+            "id": "a002_038_0033",
+            "en_US": "◇ You can still see the rail tracks."
+        },
+        {
+            "id": "a002_038_0034",
+            "en_US": "◇ This is a place for people drawn to the arts."
+        },
+        {
+            "id": "a002_038_0035",
+            "en_US": "◇ The theme of the museum is the comparison between culture and nature."
+        },
+        {
+            "id": "a002_038_0036",
+            "en_US": "◇ Nacrene City has produced many famous artists."
+        },
+        {
+            "id": "a002_038_0037",
+            "en_US": "◇ Until recently, Casteliacones were a local secret. Now, they're everyone's favorite!"
+        },
+        {
+            "id": "a002_038_0038",
+            "en_US": "◇ The ships that depart the piers of Castelia City go to different places."
+        },
+        {
+            "id": "a002_038_0039",
+            "en_US": "◇ Castelia City is an exciting place, and its Gym is no exception!"
+        },
+        {
+            "id": "a002_038_0040",
+            "en_US": "◇ The fountain in the center of town is said to be the hub that connects people."
+        },
+        {
+            "id": "a002_038_0041",
+            "en_US": "◇ Artists from all over the world come to Castelia City to open their art galleries."
+        },
+        {
+            "id": "a002_038_0042",
+            "en_US": "◇ When it comes to buildings, shops, and people, Castelia City is number one in the Unova region."
+        },
+        {
+            "id": "a002_038_0043",
+            "en_US": "◇ Castelia City's skyline looks totally different at night."
+        },
+        {
+            "id": "a002_038_0044",
+            "en_US": "◇ Castelia City offers many cultures and foods from other regions."
+        },
+        {
+            "id": "a002_038_0045",
+            "en_US": "◇ There is a place where passersby answer survey questions."
+        },
+        {
+            "id": "a002_038_0046",
+            "en_US": "◇ Nimbasa City is a place of feverish excitement. Some say that's why it hosts so many battles."
+        },
+        {
+            "id": "a002_038_0047",
+            "en_US": "◇ Heated tennis matches! Glowing basketball matches! The excitement awaits you at Small Court!"
+        },
+        {
+            "id": "a002_038_0048",
+            "en_US": "◇ They say someone who loved battles also happened to be a railway maniac, and that's why we now have the Battle Subway."
+        },
+        {
+            "id": "a002_038_0049",
+            "en_US": "◇ Sometimes, scouts spot potentially popular Pokémon at the Musical Theater."
+        },
+        {
+            "id": "a002_038_0050",
+            "en_US": "◇ Star players are here at the stadium today! You might spot your favorite players."
+        },
+        {
+            "id": "a002_038_0051",
+            "en_US": "◇ The famous roller coaster is where you least expect it."
+        },
+        {
+            "id": "a002_038_0052",
+            "en_US": "◇ Enjoy wonderful views, exciting heights, and heart-pounding encounters at the Rondez-View Ferris Wheel!"
+        },
+        {
+            "id": "a002_038_0053",
+            "en_US": "◇ You can go to Anville Town from Gear Station."
+        },
+        {
+            "id": "a002_038_0054",
+            "en_US": "◇ Welcome to Nimbasa City, voted as the #1 must-see city on everyone's lifetime list!"
+        },
+        {
+            "id": "a002_038_0055",
+            "en_US": "◇ Driftveil City is a major ocean port."
+        },
+        {
+            "id": "a002_038_0056",
+            "en_US": "◇ At one time, the ocean around Driftveil City was thronged with sailboats that took advantage of the wind currents."
+        },
+        {
+            "id": "a002_038_0057",
+            "en_US": "◇ Driftveil has developed as a port of freight and fishery."
+        },
+        {
+            "id": "a002_038_0058",
+            "en_US": "◇ The market is loaded with products from all over the world."
+        },
+        {
+            "id": "a002_038_0059",
+            "en_US": "◇ The city's orange roofs enhance the beauty of sunset."
+        },
+        {
+            "id": "a002_038_0060",
+            "en_US": "◇ The spectacular view of the soaring Charizard Bridge is a must-see."
+        },
+        {
+            "id": "a002_038_0061",
+            "en_US": "◇ The port features a huge Cold Storage area full of refrigerated containers."
+        },
+        {
+            "id": "a002_038_0062",
+            "en_US": "◇ Pokémon can be found in the Cold Storage area."
+        },
+        {
+            "id": "a002_038_0063",
+            "en_US": "◇ Driftveil City is a major ocean port."
+        },
+        {
+            "id": "a002_038_0064",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0065",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0066",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0067",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0068",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0069",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0070",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0071",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0072",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0073",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0074",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0075",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0076",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0077",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0078",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0079",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0080",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0081",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0082",
+            "en_US": "◇ The building decorations took experts a hundred years to create."
+        },
+        {
+            "id": "a002_038_0083",
+            "en_US": "◇ It is believed that Opelucid City has the longest history in the world."
+        },
+        {
+            "id": "a002_038_0084",
+            "en_US": "◇ Opelucid City still makes good use of old technologies."
+        },
+        {
+            "id": "a002_038_0085",
+            "en_US": "◇ The city produces many archeologists every year."
+        },
+        {
+            "id": "a002_038_0086",
+            "en_US": "◇ Here, you can enjoy old music that dates back several hundred years."
+        },
+        {
+            "id": "a002_038_0087",
+            "en_US": "◇ The building decorations took craftsmen a hundred years to create."
+        },
+        {
+            "id": "a002_038_0088",
+            "en_US": "◇ It is believed that Opelucid City has the longest history in the world."
+        },
+        {
+            "id": "a002_038_0089",
+            "en_US": "◇ Opelucid City still makes good use of old technologies."
+        },
+        {
+            "id": "a002_038_0090",
+            "en_US": "◇ The city produces many archeologists every year."
+        },
+        {
+            "id": "a002_038_0091",
+            "en_US": "◇ The buildings here are said to be able to withstand the weight of a hundred weighty Pokémon."
+        },
+        {
+            "id": "a002_038_0092",
+            "en_US": "◇ Opelucid City is where the latest Poké Balls are developed."
+        },
+        {
+            "id": "a002_038_0093",
+            "en_US": "◇ The buildings use state-of-the-art materials."
+        },
+        {
+            "id": "a002_038_0094",
+            "en_US": "◇ Opelucid City is famous for its solid security."
+        },
+        {
+            "id": "a002_038_0095",
+            "en_US": "◇ The latest communication network makes life pleasant."
+        },
+        {
+            "id": "a002_038_0096",
+            "en_US": "◇ The buildings here are said to be able to withstand the weight of a hundred weighty Pokémon."
+        },
+        {
+            "id": "a002_038_0097",
+            "en_US": "◇ Opelucid City is where the latest Poké Balls are developed."
+        },
+        {
+            "id": "a002_038_0098",
+            "en_US": "◇ The buildings use state-of-the-art materials."
+        },
+        {
+            "id": "a002_038_0099",
+            "en_US": "◇ Opelucid City is famous for its solid security."
+        },
+        {
+            "id": "a002_038_0100",
+            "en_US": "◇ People have no sense of time in Lacunosa Town. They don't even have clocks at home."
+        },
+        {
+            "id": "a002_038_0101",
+            "en_US": "◇ People in Lacunosa Town finish work when the sun sets."
+        },
+        {
+            "id": "a002_038_0102",
+            "en_US": "◇ The whole city can be seen from the huge bridge."
+        },
+        {
+            "id": "a002_038_0103",
+            "en_US": "◇ People have spotted a mysterious Pokémon in the nearby forest."
+        },
+        {
+            "id": "a002_038_0104",
+            "en_US": "◇ All the roads and buildings in Lacunosa Town are made of stone."
+        },
+        {
+            "id": "a002_038_0105",
+            "en_US": "◇ Lacunosa Town perks up in the afternoon."
+        },
+        {
+            "id": "a002_038_0106",
+            "en_US": "◇ Many people sunbathe on a sunny day."
+        },
+        {
+            "id": "a002_038_0107",
+            "en_US": "◇ People have no sense of time in Lacunosa Town. They don't even have clocks at home."
+        },
+        {
+            "id": "a002_038_0108",
+            "en_US": "◇ People in Lacunosa Town finish work when the sun sets."
+        },
+        {
+            "id": "a002_038_0109",
+            "en_US": "◇ The sand on the beach is so fine that you'll leave clear footprints."
+        },
+        {
+            "id": "a002_038_0110",
+            "en_US": "◇ People dream about having a vacation house in Undella Town."
+        },
+        {
+            "id": "a002_038_0111",
+            "en_US": "◇ The lapping waves at Undella Town make a sound that people treasure."
+        },
+        {
+            "id": "a002_038_0112",
+            "en_US": "◇ In the summer, many tourists come to swim in the clear ocean."
+        },
+        {
+            "id": "a002_038_0113",
+            "en_US": "◇ Its big cliffs define Undella Town."
+        },
+        {
+            "id": "a002_038_0114",
+            "en_US": "◇ The waves are gentle around here, and houses are built close to the ocean."
+        },
+        {
+            "id": "a002_038_0115",
+            "en_US": "◇ Water sports are very popular in Undella Town."
+        },
+        {
+            "id": "a002_038_0116",
+            "en_US": "◇ The ocean off Undella Town often casts valuable treasures ashore."
+        },
+        {
+            "id": "a002_038_0117",
+            "en_US": "◇ The sand on the beach is so fine that you'll leave clear footprints."
+        },
+        {
+            "id": "a002_038_0118",
+            "en_US": "◇ White Forest is a place full of nature."
+        },
+        {
+            "id": "a002_038_0119",
+            "en_US": "◇ The people love nature and live enmeshed with it."
+        },
+        {
+            "id": "a002_038_0120",
+            "en_US": "◇ The people plant trees to help the forest grow."
+        },
+        {
+            "id": "a002_038_0121",
+            "en_US": "◇ Nature-loving Pokémon Breeders gather here."
+        },
+        {
+            "id": "a002_038_0122",
+            "en_US": "◇ Some Pokémon rarely seen elsewhere can be found here, thanks to nature's bounty."
+        },
+        {
+            "id": "a002_038_0123",
+            "en_US": "◇ The things Pokémon drop here are considered the gifts of nature."
+        },
+        {
+            "id": "a002_038_0124",
+            "en_US": "◇ Many people would like to live in the city, and the population is constantly changing."
+        },
+        {
+            "id": "a002_038_0125",
+            "en_US": "◇ White Forest is a place full of wide stretches of natural growth."
+        },
+        {
+            "id": "a002_038_0126",
+            "en_US": "◇ The people love nature and live in complete harmony with it."
+        },
+        {
+            "id": "a002_038_0127",
+            "en_US": "◇ Black City is a place full of tall buildings and civilization."
+        },
+        {
+            "id": "a002_038_0128",
+            "en_US": "◇ This place strives to be the most advanced city in the Unova region."
+        },
+        {
+            "id": "a002_038_0129",
+            "en_US": "◇ People gather to constantly develop and expand Black City."
+        },
+        {
+            "id": "a002_038_0130",
+            "en_US": "◇ Many of the city's Trainers are highly competitive."
+        },
+        {
+            "id": "a002_038_0131",
+            "en_US": "◇ An ongoing project is developing a huge market in the city."
+        },
+        {
+            "id": "a002_038_0132",
+            "en_US": "◇ Immigration to Black City changes the logistics and the products available."
+        },
+        {
+            "id": "a002_038_0133",
+            "en_US": "◇ Many people would like to live in the city, and the population is constantly changing."
+        },
+        {
+            "id": "a002_038_0134",
+            "en_US": "◇ Black City is a place full of tall buildings and civilization."
+        },
+        {
+            "id": "a002_038_0135",
+            "en_US": "◇ This place strives to be the most advanced city in the Unova region."
+        },
+        {
+            "id": "a002_038_0136",
+            "en_US": "◇ This is a prime sightseeing spot for tourists who love ruins."
+        },
+        {
+            "id": "a002_038_0137",
+            "en_US": "◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it."
+        },
+        {
+            "id": "a002_038_0138",
+            "en_US": "◇ Beware! Vast sandstorms can cover the entire desert."
+        },
+        {
+            "id": "a002_038_0139",
+            "en_US": "◇ The researchers are investigating when the ruins were formed."
+        },
+        {
+            "id": "a002_038_0140",
+            "en_US": "◇ No one knows how the ancient nation fell into ruin."
+        },
+        {
+            "id": "a002_038_0141",
+            "en_US": "◇ Inside the Relic Castle, sand trickles and whispers even now."
+        },
+        {
+            "id": "a002_038_0142",
+            "en_US": "◇ This is a prime sightseeing spot for tourists who love ruins."
+        },
+        {
+            "id": "a002_038_0143",
+            "en_US": "◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it."
+        },
+        {
+            "id": "a002_038_0144",
+            "en_US": "◇ Beware! Vast sandstorms can cover the entire desert."
+        },
+        {
+            "id": "a002_038_0145",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0146",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0147",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0148",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0149",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0150",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0151",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0152",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0153",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0154",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0155",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0156",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0157",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0158",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0159",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0160",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0161",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0162",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0163",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0164",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0165",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0166",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0167",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0168",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0169",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0170",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0171",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0172",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0173",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0174",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0175",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0176",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0177",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0178",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0179",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0180",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0181",
+            "en_US": "Sunny"
+        },
+        {
+            "id": "a002_038_0182",
+            "en_US": "Snowy"
+        },
+        {
+            "id": "a002_038_0183",
+            "en_US": "Rainy"
+        },
+        {
+            "id": "a002_038_0184",
+            "en_US": "Sandstorm"
+        },
+        {
+            "id": "a002_038_0185",
+            "en_US": "Sandstorm"
+        },
+        {
+            "id": "a002_038_0186",
+            "en_US": "Blizzard"
+        },
+        {
+            "id": "a002_038_0187",
+            "en_US": "Hail"
+        },
+        {
+            "id": "a002_038_0188",
+            "en_US": "Misty"
+        },
+        {
+            "id": "a002_038_0189",
+            "en_US": "A very unusual diamond dust is happening!"
+        },
+        {
+            "id": "a002_038_0190",
+            "en_US": "A very unusual thunderstorm is happening!"
+        },
+        {
+            "id": "a002_038_0191",
+            "en_US": "A very unusual strong storm is happening!"
+        },
+        {
+            "id": "a002_038_0192",
+            "en_US": "{VAR 0105 0000}: {VAR 0100 0001}"
+        },
+        {
+            "id": "a002_038_0193",
+            "en_US": "{VAR 0100 0000}"
+        },
+        {
+            "id": "a002_038_0194",
+            "en_US": "{VAR 0100 0000}  {VAR 0100 0001}"
+        },
+        {
+            "id": "a002_038_0195",
+            "en_US": "{VAR 0100 0000}  {VAR 0100 0001}  {VAR 0100 0002}"
+        },
+        {
+            "id": "a002_038_0196",
+            "en_US": "{VAR 0100 0000}  {VAR 0100 0001}  {VAR 0100 0002}  {VAR 0100 0003}"
+        },
+        {
+            "id": "a002_038_0197",
+            "en_US": "◆ A Pokémon outbreak at {VAR 0105 0000}!"
+        },
+        {
+            "id": "a002_038_0198",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0199",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0200",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0201",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0202",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0203",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0204",
+            "en_US": ""
+        },
+        {
+            "id": "a002_038_0205",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000}!"
+        },
+        {
+            "id": "a002_038_0206",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000} and {VAR 0101 0001}!"
+        },
+        {
+            "id": "a002_038_0207",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000}, {VAR 0101 0001}, and {VAR 0101 0002}!"
+        },
+        {
+            "id": "a002_038_0208",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000}, {VAR 0101 0001}, {VAR 0101 0002}, and {VAR 0101 0003}!"
+        },
+        {
+            "id": "a002_038_0209",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000}, {VAR 0101 0001}, {VAR 0101 0002}, {VAR 0101 0003}, and {VAR 0101 0004}!"
+        },
+        {
+            "id": "a002_038_0210",
+            "en_US": "◆ Welcome to the Hall of Fame! {VAR 0100 0006} won a victory with {VAR 0101 0000}, {VAR 0101 0001}, {VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004}, and {VAR 0101 0005}!"
+        }
+    ]
+}

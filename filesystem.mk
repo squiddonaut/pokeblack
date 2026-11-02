@@ -236,14 +236,17 @@ NITROFS_FILES := \
 	files/a/2/3/4
 
 define arc_strip_name
-$(2): $(1)
+$(BUILD_DIR)/$(2): $(1)
 SRC_ARCS  += $(1)
-DIFF_ARCS += $(2)
+DIFF_ARCS += $(BUILD_DIR)/$(2)
 endef
 
+$(eval $(call arc_strip_name,$(BUILD_DIR)/res/text/a002.narc,files/a/0/0/2))
+$(eval $(call arc_strip_name,$(BUILD_DIR)/res/text/a003.narc,files/a/0/0/3))
 $(eval $(call arc_strip_name,$(BUILD_DIR)/res/moves/moves.narc,files/a/0/2/1))
 
 $(DIFF_ARCS):
+	@mkdir -p $(@D)
 	cp $< $@
 
 NARCS := $(filter %.narc,$(NITROFS_FILES) $(SRC_ARCS))
@@ -252,10 +255,11 @@ NAIXS := $(NARCS:%.narc=%.naix)
 RES_DIR := res
 
 include res/moves.mk
+include res/text.mk
 
 .PHONY: filesystem clean-filesystem clean-fs
-filesystem: $(NITROFS_FILES)
+filesystem: $(filter-out $(DIFF_ARCS:$(BUILD_DIR)/%=%),$(NITROFS_FILES)) $(DIFF_ARCS)
 
-clean-fs: clean-filesystem clean-moves
+clean-fs: clean-filesystem clean-moves clean-text
 clean-filesystem:
 	$(RM) $(DIFF_ARCS) $(NAIXS)

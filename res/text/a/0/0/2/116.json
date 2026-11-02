@@ -1,0 +1,38 @@
+{
+    "flags": 0,
+    "pad": "cccc",
+    "messages": [
+        {
+            "id": "a002_116_0000",
+            "en_US": "QUAGSIRE"
+        },
+        {
+            "id": "a002_116_0001",
+            "en_US": "QUASH"
+        },
+        {
+            "id": "a002_116_0002",
+            "en_US": "QUICKATTACK"
+        },
+        {
+            "id": "a002_116_0003",
+            "en_US": "QUICKFEET"
+        },
+        {
+            "id": "a002_116_0004",
+            "en_US": "QUICKGUARD"
+        },
+        {
+            "id": "a002_116_0005",
+            "en_US": "QUILAVA"
+        },
+        {
+            "id": "a002_116_0006",
+            "en_US": "QUIVERDANCE"
+        },
+        {
+            "id": "a002_116_0007",
+            "en_US": "QWILFISH"
+        }
+    ]
+}

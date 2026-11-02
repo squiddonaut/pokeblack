@@ -1,0 +1,52 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_414_0000",
+            "en_US": [
+                "By any chance, have you caught a\n",
+                "Pokémon called {VAR 0101 0000}?{VAR BE01}\n",
+                "I would be very happy if you would trade\n",
+                "my {VAR 0101 0001} for your {VAR 0101 0000}."
+            ]
+        },
+        {
+            "id": "a003_414_0001",
+            "en_US": [
+                "My heart is beating so fast!\n",
+                "OK, let's trade!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_414_0002",
+            "en_US": [
+                "Thank you very much! Please treat my\n",
+                "{VAR 0101 0001} with love!{VAR BE01}\n",
+                "I will also take good care of the\n",
+                "{VAR 0101 0000} that you traded to me!"
+            ]
+        },
+        {
+            "id": "a003_414_0003",
+            "en_US": "I'd like to trade for a {VAR 0101 0000}..."
+        },
+        {
+            "id": "a003_414_0004",
+            "en_US": [
+                "Well, if you don't want to, I understand.{VAR BE01}\n",
+                "But if you ever change your mind, please\n",
+                "trade Pokémon with me!"
+            ]
+        },
+        {
+            "id": "a003_414_0005",
+            "en_US": [
+                "I am so grateful that you traded Pokémon\n",
+                "with me!{VAR BE01}\n",
+                "My research is making progress, and\n",
+                "above all, I'm happy because it is{VAR BE00}\n",
+                "friendly to me."
+            ]
+        }
+    ]
+}

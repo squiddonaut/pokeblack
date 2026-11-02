@@ -1,0 +1,106 @@
+{
+    "flags": 224,
+    "pad": "c2c2",
+    "messages": [
+        {
+            "id": "a003_040_0000",
+            "en_US": "Where did I put those sunglasses?{VAR BE01}"
+        },
+        {
+            "id": "a003_040_0001",
+            "en_US": [
+                "Ah, I found them.{VAR BE01}\n",
+                "And you’ve really got to have more\n",
+                "light to see your way by. {VAR BE01}\n",
+                "Take this--it’ll help you see in\n",
+                "dark places.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_040_0002",
+            "en_US": [
+                "Meow!\n",
+                "How did you find me?!{VAR BE01}\n",
+                "You are something else!\n",
+                "So, I'm going to give you something. This!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_040_0003",
+            "en_US": [
+                "If you use the move Flash, the accuracy\n",
+                "of the opponent's moves goes down.{VAR BE01}\n",
+                "When you use it twice, the rate to get\n",
+                "hit by a move will be about half.{VAR BE01}\n",
+                "'Cause it means more light!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_040_0004",
+            "en_US": [
+                "If you use the move Flash, the accuracy\n",
+                "of the opponent's moves goes down.{VAR BE01}\n",
+                "When you use it twice, the rate to get\n",
+                "hit by a move will be about half.{VAR BE01}\n",
+                "'Cause it means more light!"
+            ]
+        },
+        {
+            "id": "a003_040_0005",
+            "en_US": "Smirk!"
+        },
+        {
+            "id": "a003_040_0006",
+            "en_US": "Ehehehe..."
+        },
+        {
+            "id": "a003_040_0007",
+            "en_US": [
+                "There's not a lot you can do alone.\n",
+                "There are more things two people can do.{VAR BE01}\n",
+                "There are even more things three people\n",
+                "can do!{VAR BE01}\n",
+                "That's right... I think what's missing\n",
+                "from my dance is company."
+            ]
+        },
+        {
+            "id": "a003_040_0008",
+            "en_US": [
+                "Do you need something?{VAR BE01}\n",
+                "What...?\n",
+                "You're looking for Dancers for a team?{VAR BE01}\n",
+                "It sounds very interesting, but I don't\n",
+                "want to do a favor for someone who isn't{VAR BE00}\n",
+                "stronger than me.{VAR BE01}\n",
+                "Hey!\n",
+                "Let's have a battle!"
+            ]
+        },
+        {
+            "id": "a003_040_0009",
+            "en_US": [
+                "OK!\n",
+                "Let's begin!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_040_0010",
+            "en_US": "Hmmmm..."
+        },
+        {
+            "id": "a003_040_0011",
+            "en_US": [
+                "You're going to create a dance team,\n",
+                "aren't you?{VAR BE01}\n",
+                "It sounds very interesting.\n",
+                "I'd like to join up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_040_0012",
+            "en_US": "Café Sonata",
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "flags": 224,
+    "pad": "1212",
+    "messages": [
+        {
+            "id": "a003_435_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_435_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_435_0002",
+            "en_US": [
+                "Hi there!\n",
+                "I've been waiting for you young people!{VAR BE01}\n",
+                "Let me introduce myself again.\n",
+                "My name is...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0003",
+            "en_US": [
+                "Cheren: Professor Juniper?\n",
+                "We know your name.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0004",
+            "en_US": [
+                "Professor Juniper: Come, come, Cheren!\n",
+                "This is not a time to take things lightly.{VAR BE01}\n",
+                "Today is a day to remember always, so\n",
+                "it's best to behave with some formality.{VAR BE01}\n",
+                "That being so, once again, my name is\n",
+                "Professor Juniper, and I am researching{VAR BE00}\n",
+                "when and how the creatures called{VAR BE00}\n",
+                "Pokémon came into existence.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0005",
+            "en_US": [
+                "Oh, that's unusual!\n",
+                "You've already had a Pokémon battle!{VAR BE01}\n",
+                "So maybe that's why...{VAR BE01}\n",
+                "It feels as though your Pokémon have\n",
+                "already begun to trust you!{VAR BE01}\n",
+                "By the way, would you like to give your\n",
+                "Pokémon a nickname?"
+            ]
+        },
+        {
+            "id": "a003_435_0006",
+            "en_US": [
+                "Professor Juniper: Uh-huh, I see.\n",
+                "Are you OK with the nickname {VAR 0102 0000}?"
+            ]
+        },
+        {
+            "id": "a003_435_0007",
+            "en_US": [
+                "Professor Juniper: {VAR 0102 0000} is its\n",
+                "name. That is such a great name!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0008",
+            "en_US": [
+                "Professor Juniper: You aren't planning\n",
+                "to use a nickname? Well, that's fine, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0009",
+            "en_US": [
+                "Professor Juniper: As for why I gave all\n",
+                "of you Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0010",
+            "en_US": "Cheren: It's for the Pokédex, right?{VAR BE01}"
+        },
+        {
+            "id": "a003_435_0011",
+            "en_US": "Bianca: Pokédex?{VAR BE01}"
+        },
+        {
+            "id": "a003_435_0012",
+            "en_US": [
+                "Professor Juniper: I am astonished.\n",
+                "Nice work, Cheren!{VAR BE01}\n",
+                "You have already studied Pokémon\n",
+                "extensively, haven't you?{VAR BE01}\n",
+                "Still, let me explain everything from the\n",
+                "beginning, for everyone's sake.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0013",
+            "en_US": [
+                "The Pokédex is a high-tech device that\n",
+                "automatically records the Pokémon{VAR BE00}\n",
+                "you encounter!{VAR BE01}\n",
+                "So, I want you three to visit many\n",
+                "places and meet all of the Pokémon{VAR BE00}\n",
+                "in the Unova region!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0014",
+            "en_US": [
+                "This is my request.{VAR BE01}\n",
+                "{VAR 0100 0000}!\n",
+                "Cheren! Bianca!{VAR BE01}\n",
+                "You'll go on an adventure to\n",
+                "complete the Pokédex, will you not?"
+            ]
+        },
+        {
+            "id": "a003_435_0015",
+            "en_US": [
+                "Professor Juniper: Here is what I need\n",
+                "from you!{VAR BE01}\n",
+                "What I want to hear are the courageous\n",
+                "words of people who will blaze new{VAR BE00}\n",
+                "paths around the world!{VAR BE01}\n",
+                "I want you three to travel to many\n",
+                "distant places and meet all of the{VAR BE00}\n",
+                "Pokémon in the Unova region!"
+            ]
+        },
+        {
+            "id": "a003_435_0016",
+            "en_US": [
+                "Bianca: OK!{VAR BE01}\n",
+                "I mean... Yes, professor!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0017",
+            "en_US": [
+                "Cheren: Thank you very much.{VAR BE01}\n",
+                "Because of you, I can become a Pokémon\n",
+                "Trainer, exactly as I've always wished.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0018",
+            "en_US": [
+                "Professor Juniper: All of you, thanks!{VAR BE01}\n",
+                "You have given me the best\n",
+                "possible answer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0019",
+            "en_US": "{VAR 0100 0000} obtained the {VAR FF00 0002}Pokédex{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_435_0020",
+            "en_US": [
+                "Professor Juniper: Next, I need to teach\n",
+                "you how to meet Pokémon.{VAR BE01}\n",
+                "Please meet me at Route 1, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0021",
+            "en_US": [
+                "Bianca: S-since the professor asked us,\n",
+                "it's OK to go on an adventure, right?{VAR BE01}\n",
+                "I can explore and maybe find out what\n",
+                "I want to do in life. I think I'd like that.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0022",
+            "en_US": [
+                "Cheren: Of course.{VAR BE01}\n",
+                "We can travel however we want\n",
+                "while we complete the Pokédex."
+            ]
+        },
+        {
+            "id": "a003_435_0023",
+            "en_US": [
+                "Bianca: For some reason,\n",
+                "my heart is pounding, {VAR 0100 0000}.{VAR BE01}\n",
+                "What are you and {VAR 0101 0001} going to do?"
+            ]
+        },
+        {
+            "id": "a003_435_0024",
+            "en_US": [
+                "Cheren: Finally, I can become\n",
+                "a Pokémon Trainer.{VAR BE01}\n",
+                "I'll have real battles with other\n",
+                "Trainers and get stronger. Wait and see!"
+            ]
+        },
+        {
+            "id": "a003_435_0025",
+            "en_US": [
+                "Professor Juniper: Why, hello,\n",
+                "{VAR 0100 0000}! How have you been lately?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0026",
+            "en_US": [
+                "Cedric: Hey, {VAR 0100 0000}!\n",
+                "Are you meeting lots of Pokémon?{VAR BE01}\n",
+                "There really are lots of Pokémon\n",
+                "in the Unova region and the{VAR BE00}\n",
+                "rest of the world!"
+            ]
+        },
+        {
+            "id": "a003_435_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_435_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_435_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_435_0030",
+            "en_US": "Cedric: Hey, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_435_0031",
+            "en_US": "Skreet! Skreet!"
+        },
+        {
+            "id": "a003_435_0032",
+            "en_US": [
+                "Bianca: Professor Juniper is\n",
+                "letting me help out.{VAR BE01}\n",
+                "When I was looking at my Pokédex,\n",
+                "I realized something...{VAR BE01}\n",
+                "I met so many Pokémon during my journey.{VAR BE01}\n",
+                "I just want to learn more and more\n",
+                "and more about the little darlings!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0033",
+            "en_US": [
+                "Oh yeah! That's right.{VAR BE01}\n",
+                "{VAR 0100 0000}, do you know\n",
+                "about massive outbreaks of Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_435_0034",
+            "en_US": [
+                "Bianca: I knew you'd know, {VAR 0100 0000}!{VAR BE01}\n",
+                "I'm sure you also know that lots of a\n",
+                "certain Pokémon appear in the grass all{VAR BE00}\n",
+                "over, and that if you look at the electric{VAR BE00}\n",
+                "signs in the Route gates, you can see{VAR BE00}\n",
+                "where the mass outbreaks are happening{VAR BE00}\n",
+                "in the Unova region!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0035",
+            "en_US": [
+                "Bianca: Tee-hee!\n",
+                "OK, then, I'll tell you about it.{VAR BE01}\n",
+                "First of all, lots of a certain Pokémon\n",
+                "appear in the grass all over.{VAR BE01}\n",
+                "If you look at the electric signs in the\n",
+                "Route gates, you can see where the{VAR BE00}\n",
+                "mass outbreaks are happening in the{VAR BE00}\n",
+                "Unova region! Isn't that amazing!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0036",
+            "en_US": [
+                "I have to study lots of Pokémon\n",
+                "research, but I don't mind. This is{VAR BE00}\n",
+                "the answer I found during my adventure!{VAR BE00}\n",
+                "It's actually a lot of fun!{VAR BE01}\n",
+                "And I have an idea! Every now and then,\n",
+                "come have a Pokémon battle with me, OK?{VAR BE01}\n",
+                "'Cause by doing that, I'll learn\n",
+                "a lot more about Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_435_0037",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\n",
+                "If you give a Pokémon called Feebas\n",
+                "a Prism Scale and trade it with someone,{VAR BE00}\n",
+                "apparently it evolves.{VAR BE01}\n",
+                "Isn't that amazing?{VAR BE01}\n",
+                "Pokémon sure are mysterious beings,\n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a003_435_0038",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\n",
+                "In Pinwheel Forest, there is a rock\n",
+                "that's covered in moss.{VAR BE01}\n",
+                "It might be related to the rock, I dunno,\n",
+                "but there is a Pokémon that evolves{VAR BE00}\n",
+                "when it levels up in Pinwheel Forest!{VAR BE01}\n",
+                "Pokémon sure are mysterious beings,\n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a003_435_0039",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\n",
+                "Deep in Twist Mountain,\n",
+                "there's an ice-covered rock.{VAR BE01}\n",
+                "There is a Pokémon that evolves\n",
+                "when it levels up near that rock.{VAR BE01}\n",
+                "Pokémon sure are mysterious beings,\n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a003_435_0040",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\n",
+                "There are Pokémon that evolve when they\n",
+                "level up knowing a certain move!{VAR BE01}\n",
+                "Pokémon sure are mysterious beings,\n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a003_435_0041",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, did you know this?{VAR BE01}\n",
+                "There are Pokémon that evolve when\n",
+                "you give them a certain item and they{VAR BE00}\n",
+                "level up at night!{VAR BE01}\n",
+                "Pokémon sure are mysterious beings,\n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a003_435_0042",
+            "en_US": [
+                "Bianca: Oh, {VAR 0100 0000}!{VAR BE01}\n",
+                "Would you have a Pokémon\n",
+                "battle with me today?"
+            ]
+        },
+        {
+            "id": "a003_435_0043",
+            "en_US": [
+                "Bianca: Great! {VAR 0100 0000}!{VAR BE01}\n",
+                "We're battling indoors, so\n",
+                "don't get too worked up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_435_0044",
+            "en_US": [
+                "Bianca: Whaaaaat!{VAR BE01}\n",
+                "Wait...\n",
+                "No, I'm pretty disappointed..."
+            ]
+        },
+        {
+            "id": "a003_435_0045",
+            "en_US": [
+                "Bianca: Oh, so you will have a\n",
+                "Pokémon battle with me, then?"
+            ]
+        },
+        {
+            "id": "a003_435_0046",
+            "en_US": [
+                "Bianca: Phew!\n",
+                "I'm totally sure, {VAR 0100 0000}.{VAR BE01}\n",
+                "You're really a strong Trainer.{VAR BE01}\n",
+                "I love your style of Pokémon\n",
+                "battling, {VAR 0100 0000}.{VAR BE01}\n",
+                "Somehow your Pokémon look like\n",
+                "they're having so much fun!"
+            ]
+        },
+        {
+            "id": "a003_435_0047",
+            "en_US": [
+                "Who is this with Professor Juniper?\n",
+                "There's a smiling man in the picture."
+            ]
+        },
+        {
+            "id": "a003_435_0048",
+            "en_US": [
+                "Father and daughter...{VAR BE01}\n",
+                "It's a picture of the two\n",
+                "Professor Junipers."
+            ]
+        },
+        {
+            "id": "a003_435_0049",
+            "en_US": [
+                "Adventure Rule No. 1\n",
+                "The X Button opens the menu."
+            ]
+        },
+        {
+            "id": "a003_435_0050",
+            "en_US": [
+                "Adventure Rule No. 2\n",
+                "Record your progress with SAVE."
+            ]
+        },
+        {
+            "id": "a003_435_0051",
+            "en_US": "There are lots of books about Pokémon!"
+        },
+        {
+            "id": "a003_435_0052",
+            "en_US": [
+                "There are lots of materials and\n",
+                "research reports about Pokémon!"
+            ]
+        }
+    ]
+}

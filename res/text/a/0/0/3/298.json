@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_298_0000",
+            "en_US": [
+                "Somewhere far from here, Team Galactic\n",
+                "and Team Rocket drew too much attention{VAR BE00}\n",
+                "to themselves.{VAR BE01}\n",
+                "That's why their plans were thwarted."
+            ]
+        }
+    ]
+}

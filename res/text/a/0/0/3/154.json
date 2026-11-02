@@ -1,0 +1,2094 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_154_0000",
+            "en_US": [
+                "{VAR 0202 0002}F. This is the floor for\n",
+                "{VAR 0124 0000}."
+            ]
+        },
+        {
+            "id": "a003_154_0001",
+            "en_US": [
+                "{VAR 0202 0002}F. This is the floor for\n",
+                "{VAR 0124 0000}."
+            ]
+        },
+        {
+            "id": "a003_154_0002",
+            "en_US": [
+                "{VAR 0202 0002}F. This is the floor for\n",
+                "{VAR 0124 0000}.{VAR BE01}\n",
+                "The guests have already gone home."
+            ]
+        },
+        {
+            "id": "a003_154_0003",
+            "en_US": [
+                "{VAR 0202 0002}F. This is the floor for\n",
+                "{VAR 0124 0000}.{VAR BE01}\n",
+                "The guests have already gone home."
+            ]
+        },
+        {
+            "id": "a003_154_0004",
+            "en_US": [
+                "???: Hey, {VAR 0100 0003}!\n",
+                "Remember me?{VAR BE01}\n",
+                "It's {VAR 0100 0007}, from\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "in {VAR 0124 0000}!{VAR BE01}\n",
+                "How's {VAR 0102 0009}?{VAR BE01}\n",
+                "The {VAR 0102 0005} you gave me is\n",
+                "doing great!{VAR BE01}\n",
+                "If you want, let's trade Pokémon\n",
+                "again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0005",
+            "en_US": [
+                "{VAR 0100 0007}: I like {VAR 0128 000A}\n",
+                "as a hobby! What do you like to do?{VAR BE01}\n",
+                "I've traded Pokémon with people in\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "I like the feeling of being connected\n",
+                "to the world when I trade Pokémon."
+            ]
+        },
+        {
+            "id": "a003_154_0006",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}!{VAR BE01}\n",
+                "I've traded Pokémon with people in\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "By trading with people around the world,\n",
+                "you come to understand that people in{VAR BE00}\n",
+                "different places have different hobbies.{VAR BE01}\n",
+                "For example, my hobby\n",
+                "is {VAR 0128 000A}!{VAR BE01}\n",
+                "Do you think you might someday visit\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "I'm sure you'd have fun."
+            ]
+        },
+        {
+            "id": "a003_154_0007",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Have you traded Pokémon with people from\n",
+                "lots of different places?{VAR BE00}\n",
+                "My grand total is {VAR 0202 0008}!{VAR BE01}\n",
+                "One day I would like to visit\n",
+                "those places in person!{VAR BE01}\n",
+                "Someday, you should totally come to\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Then we can enjoy\n",
+                "{VAR 0128 000A} together!"
+            ]
+        },
+        {
+            "id": "a003_154_0008",
+            "en_US": [
+                "{VAR 0100 0007}: {VAR 0100 0003}, listen to this!{VAR BE01}\n",
+                "Recently, I've been hooked\n",
+                "on {VAR 0128 000A}.{VAR BE01}\n",
+                "And I've also traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It seems like a lot of people\n",
+                "enjoy {VAR 0128 000A}!{VAR BE01}\n",
+                "{VAR 0100 0003}, if you ever come to\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "where I live, let's play for sure, OK?"
+            ]
+        },
+        {
+            "id": "a003_154_0009",
+            "en_US": [
+                "{VAR 0100 0007}: In the past, when\n",
+                "{VAR 0102 0009} was in{VAR BE00}\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "we often enjoyed{VAR BE00}\n",
+                "{VAR 0128 000A} together.{VAR BE01}\n",
+                "{VAR 0100 0003}, if you don't mind, would you\n",
+                "enjoy {VAR 0128 000A} with it{VAR BE00}\n",
+                "sometimes? That will remind it of me!{VAR BE01}\n",
+                "By the way, are you trading Pokémon\n",
+                "with a lot of different people?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE00}\n",
+                "Let's trade again sometime, OK?"
+            ]
+        },
+        {
+            "id": "a003_154_0010",
+            "en_US": [
+                "???: Oh, {VAR 0100 0003}?\n",
+                "It is {VAR 0100 0003}, right?{VAR BE01}\n",
+                "How've you been?\n",
+                "It's {VAR 0100 0007}! Remember me? From{VAR BE00}\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "in {VAR 0124 0000}.{VAR BE01}\n",
+                "Thank you for giving me {VAR 0102 0005}\n",
+                "that time! It's doing great!{VAR BE01}\n",
+                "How is {VAR 0102 0009} doing?{VAR BE01}\n",
+                "Well, since it's with you, {VAR 0100 0003},\n",
+                "I'm sure there's nothing to worry about!"
+            ]
+        },
+        {
+            "id": "a003_154_0011",
+            "en_US": [
+                "{VAR 0100 0007}: I've traded with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "And even though we live in different\n",
+                "places, I found other people{VAR BE00}\n",
+                "enjoy {VAR 0128 000A} as much{VAR BE00}\n",
+                "as I do!{VAR BE01}\n",
+                "Hee hee! It's a little amazing that\n",
+                "people who could be clear across the{VAR BE00}\n",
+                "ocean could enjoy the same things as me."
+            ]
+        },
+        {
+            "id": "a003_154_0012",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003},\n",
+                "have you ever been to where I live,{VAR BE00}\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "If you come visit, let's enjoy\n",
+                "{VAR 0128 000A} together!{VAR BE01}\n",
+                "I'm sure it will be fun!"
+            ]
+        },
+        {
+            "id": "a003_154_0013",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Have you been trading Pokémon with\n",
+                "people from lots of different places?{VAR BE01}\n",
+                "I've traded Pokémon with people from\n",
+                "this many places: {VAR 0202 0008}! And some people{VAR BE00}\n",
+                "like {VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "It somehow makes me happy that people in\n",
+                "other places like the same things I do.{VAR BE01}\n",
+                "I hope you meet people with the same\n",
+                "hobbies, too, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0014",
+            "en_US": [
+                "{VAR 0100 0007}: What's your\n",
+                "hobby, {VAR 0100 0003}?{VAR BE01}\n",
+                "I like {VAR 0128 000A}, but I wonder\n",
+                "what other people in the world like to do.{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "I want to trade more and learn about\n",
+                "many more people's hobbies."
+            ]
+        },
+        {
+            "id": "a003_154_0015",
+            "en_US": [
+                "{VAR 0100 0007}: My hobby?\n",
+                "It's {VAR 0128 000A}.{VAR BE01}\n",
+                "I've traded Pokémon with people from\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Seems like people's hobbies vary greatly.\n",
+                "{VAR 0100 0003}, have you traded Pokémon{VAR BE00}\n",
+                "with people from many different places?{VAR BE01}\n",
+                "Do you think hobbies vary according to\n",
+                "where people live?"
+            ]
+        },
+        {
+            "id": "a003_154_0016",
+            "en_US": [
+                "???: Hey there, {VAR 0100 0003}!\n",
+                "You remember me, eh?{VAR BE01}\n",
+                "{VAR 0100 0007}! You know, {VAR 0100 0007}, the\n",
+                "guy who came from{VAR BE00}\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "in {VAR 0124 0000}.{VAR BE01}\n",
+                "Thanks for giving me {VAR 0102 0005}!\n",
+                "It's really awesome!"
+            ]
+        },
+        {
+            "id": "a003_154_0017",
+            "en_US": [
+                "{VAR 0100 0007}: 'Sup, {VAR 0100 0003}!{VAR BE01}\n",
+                "Trading Pokémon with folks from lots of\n",
+                "different places?{VAR BE01}\n",
+                "I've already traded with folks from\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Some even liked\n",
+                "{VAR 0128 000A}, too.{VAR BE01}\n",
+                "Even though they were raised in different\n",
+                "places, we have the same hobby.{VAR BE00}\n",
+                "Kinda awesome!"
+            ]
+        },
+        {
+            "id": "a003_154_0018",
+            "en_US": [
+                "{VAR 0100 0007}: My hobby?\n",
+                "{VAR 0128 000A}, but why?{VAR BE01}\n",
+                "Are hobbies different in\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "and the place where you live?{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "But I want to trade more and ask a lot of\n",
+                "people about their hobbies!"
+            ]
+        },
+        {
+            "id": "a003_154_0019",
+            "en_US": [
+                "{VAR 0100 0007}: Heeey, {VAR 0100 0003}!{VAR BE01}\n",
+                "Know what? I've traded Pokémon with\n",
+                "people from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Trading sure is fun!{VAR BE01}\n",
+                "Did you know that in the world, people\n",
+                "have many different hobbies?{VAR BE01}\n",
+                "What? My hobby? It's\n",
+                "{VAR 0128 000A}, of course!{VAR BE01}\n",
+                "That said, make my {VAR 0102 0009} stronger!\n",
+                "I'm counting on you!"
+            ]
+        },
+        {
+            "id": "a003_154_0020",
+            "en_US": [
+                "{VAR 0100 0007}: You've traded Pokémon with\n",
+                "folks from how many places?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "The trade I like best of all is the\n",
+                "{VAR 0102 0005} that you traded me!{VAR BE01}\n",
+                "Thanks, yo!{VAR BE01}\n",
+                "Every once in a while, {VAR 0102 0009}\n",
+                "and I enjoyed {VAR 0128 000A}.{VAR BE01}\n",
+                "I hope you'll enjoy {VAR 0128 000A}\n",
+                "with {VAR 0102 0009} sometimes. All right?"
+            ]
+        },
+        {
+            "id": "a003_154_0021",
+            "en_US": [
+                "{VAR 0100 0007}: Know what? I've traded\n",
+                "Pokémon with people in this{VAR BE00}\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "When you get to know people from faraway\n",
+                "places, you want to visit far away!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}, have you been to\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's awesome, so try to visit sometime.\n",
+                "{VAR 0128 000A} there is great!"
+            ]
+        },
+        {
+            "id": "a003_154_0022",
+            "en_US": [
+                "???: Hello, {VAR 0100 0003}. Remember me?{VAR BE01}\n",
+                "It's me, it's me! {VAR 0100 0007}! From\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "We traded {VAR 0102 0005} and {VAR 0102 0009},\n",
+                "right? I want to say thanks again!{VAR BE01}\n",
+                "I really adore {VAR 0102 0005}!"
+            ]
+        },
+        {
+            "id": "a003_154_0023",
+            "en_US": [
+                "{VAR 0100 0007}: {VAR 0100 0003}, I'll bet you've\n",
+                "traded with people in a lot of places, eh?{VAR BE01}\n",
+                "Hee hee, you know what? I've traded with\n",
+                "people in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It was really fun. Quite a few of them\n",
+                "liked {VAR 0128 000A}, too!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}! You should come to\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "sometime soon!{VAR BE00}\n",
+                "It would definitely be a blast!"
+            ]
+        },
+        {
+            "id": "a003_154_0024",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, listen!{VAR BE01}\n",
+                "I've traded Pokémon with people from\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It feels really strange to trade with\n",
+                "people so far away!{VAR BE01}\n",
+                "By the way, {VAR 0100 0003}, what's\n",
+                "your hobby?{VAR BE01}\n",
+                "Mine's {VAR 0128 000A}!{VAR BE01}\n",
+                "I want to trade more and ask people all\n",
+                "over the world about their hobbies!"
+            ]
+        },
+        {
+            "id": "a003_154_0025",
+            "en_US": [
+                "{VAR 0100 0007}: Yoo hoo, {VAR 0100 0003}!\n",
+                "I've traded with people from this{VAR BE00}\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It was inspiring to meet people with so\n",
+                "many hobbies.{VAR BE01}\n",
+                "Hm? My hobby? {VAR 0128 000A}!\n",
+                "Hee hee. Fits me well, doesn't it?{VAR BE01}\n",
+                "{VAR 0100 0003}, if you have time, come visit\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "It's a wonderful place, and I'm sure\n",
+                "you'll like it!"
+            ]
+        },
+        {
+            "id": "a003_154_0026",
+            "en_US": [
+                "{VAR 0100 0007}: Guess what!\n",
+                "I've traded with people from this{VAR BE00}\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "But people's hobbies are way different!{VAR BE01}\n",
+                "My hobby is {VAR 0128 000A}, and\n",
+                "knowing that someone clear on the other{VAR BE00}\n",
+                "side of the world has the same hobby as{VAR BE00}\n",
+                "me gets me psyched!{VAR BE01}\n",
+                "Someday, I'll really go to all these\n",
+                "different places!{VAR BE01}\n",
+                "Come to\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "sometime, OK, {VAR 0100 0003}?{VAR BE01}\n",
+                "It's a super place!"
+            ]
+        },
+        {
+            "id": "a003_154_0027",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, if it isn't {VAR 0100 0003}!\n",
+                "How are you?{VAR BE01}\n",
+                "I didn't think there were many people who\n",
+                "liked {VAR 0128 000A}.{VAR BE01}\n",
+                "I found several people with the same\n",
+                "hobby after trading with Trainers from{VAR BE00}\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "{VAR 0125 0001}\n",
+                "didn't have so many.{VAR BE01}\n",
+                "Hmm. I guess the rest of the\n",
+                "world is definitely a little different!"
+            ]
+        },
+        {
+            "id": "a003_154_0028",
+            "en_US": [
+                "???: Y-y-you! {VAR 0100 0003}!{VAR BE01}\n",
+                "Meeting you in a place like this, what\n",
+                "a surprise!{VAR BE01}\n",
+                "...Huh? Don't you remember me?\n",
+                "{VAR 0100 0007}! From{VAR BE00}\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Come on! We traded your {VAR 0102 0005} and\n",
+                "my {VAR 0102 0009}, you know?{VAR BE00}\n",
+                "Boy, oh boy! {VAR 0102 0005} is really great!{VAR BE01}\n",
+                "It's great that we met up again! Let's\n",
+                "trade again sometime, if you don't mind!"
+            ]
+        },
+        {
+            "id": "a003_154_0029",
+            "en_US": [
+                "{VAR 0100 0007}: How many places are the\n",
+                "people you've traded with from?{VAR BE01}\n",
+                "Amazingly, I've traded with people from\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "What did you ask? My hobby?\n",
+                "It's {VAR 0128 000A}!{VAR BE01}\n",
+                "It's so much fun! Anyway, if you come to\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "one day, we should definitely meet up!{VAR BE01}\n",
+                "Until then, later!"
+            ]
+        },
+        {
+            "id": "a003_154_0030",
+            "en_US": [
+                "{VAR 0100 0007}: The world is wide! It's\n",
+                "absolutely huge!{VAR BE01}\n",
+                "But whatever ocean you cross, there are\n",
+                "people who enjoy {VAR 0128 000A}.{VAR BE00}\n",
+                "Like me! Is it some kind of miracle?{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "But I want to trade more and more and\n",
+                "get to know lots of people who like{VAR BE00}\n",
+                "{VAR 0128 000A} and {VAR 0102 0005}!{VAR BE01}\n",
+                "We should trade again someday, my friend!"
+            ]
+        },
+        {
+            "id": "a003_154_0031",
+            "en_US": [
+                "{VAR 0100 0007}: Do you like\n",
+                "{VAR 0128 000A}?! I love it!{VAR BE01}\n",
+                "Where I live, in\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "many people share my hobby, but I never{VAR BE00}\n",
+                "would have suspected{VAR BE00}\n",
+                "{VAR 0128 000A} fans could be found{VAR BE00}\n",
+                "in so many places.{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "And if I trade more, I'll bet there will be\n",
+                "plenty more people with the same hobby!{VAR BE01}\n",
+                "Yeeeaaah! That gets me pumped!"
+            ]
+        },
+        {
+            "id": "a003_154_0032",
+            "en_US": [
+                "{VAR 0100 0007}: The {VAR 0102 0005} I got\n",
+                "from you!{VAR BE01}\n",
+                "...It's awesome! Thank you!{VAR BE01}\n",
+                "I've traded Pokémon with people in\n",
+                "this many places: {VAR 0202 0008}! But {VAR 0102 0005}{VAR BE00}\n",
+                "is special!{VAR BE01}\n",
+                "{VAR 0100 0003}! Someday, we should enjoy\n",
+                "{VAR 0128 000A} together in{VAR BE00}\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Until we meet again, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0033",
+            "en_US": [
+                "{VAR 0100 0007}: Get a load of\n",
+                "this, {VAR 0100 0003}!{VAR BE01}\n",
+                "I've traded Pokémon with amazing\n",
+                "Trainers in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "And many of them also like\n",
+                "{VAR 0128 000A} and {VAR 0102 0005}!{VAR BE01}\n",
+                "We may live in different places, but we\n",
+                "like the same things! And...{VAR BE01}\n",
+                "We may have been raised in different\n",
+                "places, but we like the same things!{VAR BE01}\n",
+                "That's astonishing, don't you think?\n",
+                "The world's a magical place!{VAR BE00}\n",
+                "Our meeting is also magical!{VAR BE01}\n",
+                "Let's trade again sometime, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0034",
+            "en_US": [
+                "???: Hey! I remember you!\n",
+                "You're {VAR 0100 0003}, right?{VAR BE01}\n",
+                "Do you remember me?\n",
+                "It's {VAR 0100 0007}! Hee hee!{VAR BE01}\n",
+                "Remember? I'm from\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Thanks for trading me\n",
+                "{VAR 0102 0005} that time!{VAR BE01}\n",
+                "Is {VAR 0102 0009} doing well?\n",
+                "Trading Pokémon with you{VAR BE00}\n",
+                "was really inspiring!{VAR BE01}\n",
+                "It's really nice to see you again,\n",
+                "{VAR 0100 0003}! Let's trade again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0035",
+            "en_US": [
+                "{VAR 0100 0007}: Oh!\n",
+                "Hi, {VAR 0100 0003}!{VAR BE01}\n",
+                "Hee hee. Know what?!\n",
+                "I've traded with people in{VAR BE00}\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Isn't it awesome? Great? Hee hee!\n",
+                "Oh! Oh!{VAR BE01}\n",
+                "Some of the people I traded with\n",
+                "like {VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "{VAR 0100 0003}, how many people\n",
+                "like {VAR 0128 000A}{VAR BE00}\n",
+                "where you live?{VAR BE01}\n",
+                "{VAR 0125 0001}\n",
+                "has quite a few.{VAR BE01}\n",
+                "Well, I'll see you later, {VAR 0100 0003}!\n",
+                "See you when we trade next!"
+            ]
+        },
+        {
+            "id": "a003_154_0036",
+            "en_US": [
+                "{VAR 0100 0007}: Hee hee!\n",
+                "I've traded with people{VAR BE00}\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}!\n",
+                "What's your hobby?{VAR BE01}\n",
+                "Mine is {VAR 0128 000A}!\n",
+                "Hee hee, what do you think about that?{VAR BE01}\n",
+                "Oh! {VAR 0100 0003}!{VAR BE01}\n",
+                "Have you ever been to\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's a really cool place,\n",
+                "so come visit!"
+            ]
+        },
+        {
+            "id": "a003_154_0037",
+            "en_US": [
+                "{VAR 0100 0007}: Hello, {VAR 0100 0003}!{VAR BE01}\n",
+                "Where do the people you've traded\n",
+                "with come from?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Connecting with people in other places\n",
+                "without stepping out of{VAR BE00}\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "is amazing!{VAR BE01}\n",
+                "That's technology for you!{VAR BE01}\n",
+                "By the way, {VAR 0100 0003},\n",
+                "what is your hobby?{VAR BE01}\n",
+                "Mine is\n",
+                "{VAR 0128 000A}! Hee hee!{VAR BE01}\n",
+                "I hope we can share our\n",
+                "hobbies with people all over the world!{VAR BE01}\n",
+                "Aah! I've gotten myself all worked up!\n",
+                "Let's trade again sometime, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0038",
+            "en_US": [
+                "{VAR 0100 0007}: Know what? I thought this\n",
+                "after trading with people from{VAR BE00}\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It's normal for people to be different!{VAR BE01}\n",
+                "If the things you like are different,\n",
+                "your hobbies will be different, too!{VAR BE01}\n",
+                "There's no reason for everyone\n",
+                "to like {VAR 0128 000A}.{VAR BE01}\n",
+                "I think that's interesting!{VAR BE01}\n",
+                "Because when you do something different,\n",
+                "doesn't it feel like your world{VAR BE00}\n",
+                "has become larger somehow?{VAR BE01}\n",
+                "Stepping out of\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "sometime will be good for sure!"
+            ]
+        },
+        {
+            "id": "a003_154_0039",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}. Have you\n",
+                "ever been to{VAR BE00}\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "You can enjoy {VAR 0128 000A}\n",
+                "there, and it's a pretty nice place.{VAR BE01}\n",
+                "But I thought this after I tried trading\n",
+                "with people from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "I'm sure there are just as many\n",
+                "nice things in other places.{VAR BE01}\n",
+                "Don't you get super excited\n",
+                "when you think about that?{VAR BE01}\n",
+                "OK, I'll see you later, {VAR 0100 0003}!\n",
+                "Let's trade again, OK!"
+            ]
+        },
+        {
+            "id": "a003_154_0040",
+            "en_US": [
+                "???: Y-you, you're, um,\n",
+                "{VAR 0100 0003}, right?{VAR BE00}\n",
+                "...Do I remember you?{VAR BE01}\n",
+                "What? M-me?\n",
+                "I'm {VAR 0100 0007} from{VAR BE00}\n",
+                "{VAR 0125 0001}.{VAR BE01}\n",
+                "Th-thank you very much for trading\n",
+                "{VAR 0102 0005} that one time.{VAR BE00}\n",
+                "Your Pokémon... It's really nice.{VAR BE01}\n",
+                "...{VAR 0102 0009} is pretty nice, right?{VAR BE01}\n",
+                "I'm surprised to see you here!\n",
+                "...But I'm happy, too... A-hyuk hyuk!"
+            ]
+        },
+        {
+            "id": "a003_154_0041",
+            "en_US": [
+                "{VAR 0100 0007}: Ah hyuk hyuk!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Everyone has different hobbies.\n",
+                "It's really interesting...{VAR BE01}\n",
+                "Wha--? My hobby?\n",
+                "It's {VAR 0128 000A}. Ah yup!{VAR BE01}\n",
+                "If you ever feel like coming\n",
+                "to my home,{VAR BE00}\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "you should!{VAR BE01}\n",
+                "I'm sure it'll be a fun trip for you."
+            ]
+        },
+        {
+            "id": "a003_154_0042",
+            "en_US": [
+                "{VAR 0100 0007}: M-my hobby is\n",
+                "{VAR 0128 000A}...but have you met{VAR BE00}\n",
+                "other people through trading who like it?{VAR BE01}\n",
+                "I've traded with people from {VAR 0202 0008} places,\n",
+                "but everyone has different hobbies.{VAR BE01}\n",
+                "If you live somewhere different,\n",
+                "your hobbies must be different, too.{VAR BE01}\n",
+                "...Well, anyway. That's good, too."
+            ]
+        },
+        {
+            "id": "a003_154_0043",
+            "en_US": [
+                "{VAR 0100 0007}: M-my hobby is\n",
+                "{VAR 0128 000A}, but...{VAR BE00}\n",
+                "What about you?{VAR BE01}\n",
+                "...Phew.{VAR BE01}\n",
+                "T-truth is, I'm not very comfortable\n",
+                "talking with people.{VAR BE01}\n",
+                "Despite that, I've traded with people\n",
+                "from this many places: {VAR 0202 0008}...{VAR BE01}\n",
+                "And I also got your {VAR 0102 0005}...\n",
+                "Hyuk hyuk.{VAR BE01}\n",
+                "I-I think I want to trade some more.\n",
+                "Thank you.{VAR BE01}\n",
+                "Hope we can trade again sometime."
+            ]
+        },
+        {
+            "id": "a003_154_0044",
+            "en_US": [
+                "{VAR 0100 0007}: I-I've traded with\n",
+                "people from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "And some of them liked\n",
+                "{VAR 0128 000A}, too...{VAR BE01}\n",
+                "Even on the other side of the world, some\n",
+                "people have the same hobby as me...{VAR BE01}\n",
+                "By the way, have you ever been to\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's a fun place, so I think you\n",
+                "might like to visit..."
+            ]
+        },
+        {
+            "id": "a003_154_0045",
+            "en_US": [
+                "{VAR 0100 0007}: H-have you traded\n",
+                "Pokémon with people from a lot of places?{VAR BE01}\n",
+                "F-for me, I've traded with people\n",
+                "from this many places: {VAR 0202 0008}...{VAR BE01}\n",
+                "Um, err...\n",
+                "Have you ever been to where I live,{VAR BE00}\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "Th-there are people\n",
+                "who like {VAR 0128 000A}.{VAR BE01}\n",
+                "Oh, of course I like that, too!{VAR BE01}\n",
+                "I-it's a very nice place,\n",
+                "so come visit sometime..."
+            ]
+        },
+        {
+            "id": "a003_154_0046",
+            "en_US": [
+                "???: You... You're...\n",
+                "{VAR 0100 0003}, right?{VAR BE01}\n",
+                "It's me! You know, {VAR 0100 0007} from\n",
+                "{VAR 0124 0000} in{VAR BE00}\n",
+                "{VAR 0125 0001}!{VAR BE00}\n",
+                "...Do you remember me? Tee hee!{VAR BE00}\n",
+                "I'm happy to see you again.{VAR BE01}\n",
+                "Thanks for giving me {VAR 0102 0005}\n",
+                "that time.{VAR BE01}\n",
+                "Is {VAR 0102 0009} doing well?{VAR BE01}\n",
+                "Meeting again must be fate! Tee hee!\n",
+                "Looking forward to seeing you again!"
+            ]
+        },
+        {
+            "id": "a003_154_0047",
+            "en_US": [
+                "{VAR 0100 0007}: Come on, how many places\n",
+                "are the people you've{VAR BE00}\n",
+                "traded Pokémon with from?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It's a little scary trading\n",
+                "with strangers...{VAR BE00}\n",
+                "...But it also makes my heart race a bit.{VAR BE01}\n",
+                "Sometimes I meet people\n",
+                "who love {VAR 0128 000A}, too!{VAR BE00}\n",
+                "..Tee hee!{VAR BE01}\n",
+                "Trading has become a little more\n",
+                "fun, hasn't it?"
+            ]
+        },
+        {
+            "id": "a003_154_0048",
+            "en_US": [
+                "{VAR 0100 0007}: Umm...\n",
+                "How is {VAR 0102 0009}?{VAR BE01}\n",
+                "No, if they're fine,\n",
+                "that's all that matters.{VAR BE01}\n",
+                "{VAR 0102 0005} is doing great...\n",
+                "Very good... Yes.{VAR BE01}\n",
+                "Would you come to\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "sometime soon?{VAR BE01}\n",
+                "It's a nice place where you can\n",
+                "enjoy {VAR 0128 000A}.{VAR BE00}\n",
+                "...{VAR BE00}\n",
+                "...Come for sure, OK! Tee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0049",
+            "en_US": [
+                "{VAR 0100 0007}: Tee hee! Hey, {VAR 0100 0003}.\n",
+                "What is your hobby?{VAR BE01}\n",
+                "Mine is {VAR 0128 000A}.\n",
+                "...What do you think?{VAR BE01}\n",
+                "How many places have the people\n",
+                "you traded with come from?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "I'm going to trade more and more,\n",
+                "so I can find people who like{VAR BE00}\n",
+                "{VAR 0102 0005}... Tee hee hee.{VAR BE01}\n",
+                "Well, I'll see you again, {VAR 0100 0003}.\n",
+                "Let's trade again sometime..."
+            ]
+        },
+        {
+            "id": "a003_154_0050",
+            "en_US": [
+                "{VAR 0100 0007}: Have you ever been to\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "It's a lovely place.\n",
+                "I hope you come sometime.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE00}\n",
+                "I've worked hard...huh?{VAR BE01}\n",
+                "You can learn about the hobbies\n",
+                "of the Trainers you trade with.{VAR BE00}\n",
+                "Kind of fun, isn't it?{VAR BE01}\n",
+                "...Me?\n",
+                "I like {VAR 0128 000A}.{VAR BE00}\n",
+                "Expecting something different? Tee hee."
+            ]
+        },
+        {
+            "id": "a003_154_0051",
+            "en_US": [
+                "{VAR 0100 0007}: Tee hee.\n",
+                "How many places are the people{VAR BE00}\n",
+                "you've traded Pokémon with from?{VAR BE01}\n",
+                "Right now for me it's this\n",
+                "many places: {VAR 0202 0008}...{VAR BE00}\n",
+                "But, I want to trade more and more...{VAR BE01}\n",
+                "Because if I do, I might meet\n",
+                "someone who likes {VAR 0128 000A}{VAR BE00}\n",
+                "and {VAR 0102 0005}, too!{VAR BE00}\n",
+                "...It feels like destiny! Tee hee.{VAR BE01}\n",
+                "And someday, I'll have them come visit\n",
+                "{VAR 0125 0001}...{VAR BE00}\n",
+                "It's a very nice place... Tee hee.{VAR BE01}\n",
+                "...Oh, sorry!\n",
+                "My imagination was running wild.{VAR BE01}\n",
+                "...Let's trade again sometime,\n",
+                "{VAR 0100 0003}... Hee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0052",
+            "en_US": [
+                "???: Oh!{VAR BE01}\n",
+                "{VAR 0100 0003}, isn't it?\n",
+                "I'm {VAR 0100 0007}.{VAR BE01}\n",
+                "Hey, do you remember me?\n",
+                "I'm the one from{VAR BE00}\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Recently we traded your {VAR 0102 0005}\n",
+                "and my {VAR 0102 0009}, right!{VAR BE01}\n",
+                "Hey, well, I'm happy to see you!\n",
+                "If you'd like, let's have a nice{VAR BE00}\n",
+                "chat one of these days!"
+            ]
+        },
+        {
+            "id": "a003_154_0053",
+            "en_US": [
+                "{VAR 0100 0007}: Hey there, {VAR 0100 0003}.{VAR BE01}\n",
+                "Lately, I've gotten hooked\n",
+                "on {VAR 0128 000A}.{VAR BE01}\n",
+                "It's just so much fun. Come to\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "sometime, and let's hang out!{VAR BE01}\n",
+                "By the way, how many places are the\n",
+                "people you've traded Pokémon with from?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Yeah, I'd sure like to trade\n",
+                "with people from even more places."
+            ]
+        },
+        {
+            "id": "a003_154_0054",
+            "en_US": [
+                "{VAR 0100 0007}: Hey there, {VAR 0100 0003}.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}. And{VAR BE00}\n",
+                "man, everyone has a lot{VAR BE00}\n",
+                "of different hobbies.{VAR BE01}\n",
+                "What? My hobby?\n",
+                "It's {VAR 0128 000A}, I suppose.{VAR BE00}\n",
+                "I enjoy it for some reason.{VAR BE01}\n",
+                "Do a lot of people near you\n",
+                "like {VAR 0128 000A}?{VAR BE01}\n",
+                "In {VAR 0125 0001},\n",
+                "where I live, there are a few.{VAR BE01}\n",
+                "Well, at any rate, {VAR 0100 0003},\n",
+                "let's trade again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0055",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}!{VAR BE01}\n",
+                "How many places are the people you've\n",
+                "traded Pokémon with from?{VAR BE01}\n",
+                "I've traded with people\n",
+                "from this many places: {VAR 0202 0008}! And{VAR BE00}\n",
+                "there were some people who like{VAR BE00}\n",
+                "{VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "Somehow trading with people\n",
+                "in a lot of different places{VAR BE00}\n",
+                "makes even the other side{VAR BE00}\n",
+                "of the world feel closer.{VAR BE01}\n",
+                "Sometime, come to\n",
+                "{VAR 0125 0001}!{VAR BE00}\n",
+                "It's a pretty nice place!"
+            ]
+        },
+        {
+            "id": "a003_154_0056",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, {VAR 0100 0003}!\n",
+                "Nice to see you again!{VAR BE00}\n",
+                "How are you doing?{VAR BE01}\n",
+                "Well, I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Heh heh. It's fun, and you can learn\n",
+                "about your trading partner's hobbies.{VAR BE01}\n",
+                "What, me?\n",
+                "I enjoy {VAR 0128 000A}.{VAR BE01}\n",
+                "By the way, have you ever been to\n",
+                "{VAR 0125 0001}?{VAR BE01}\n",
+                "It's a pretty nice place.\n",
+                "Come visit sometime."
+            ]
+        },
+        {
+            "id": "a003_154_0057",
+            "en_US": [
+                "{VAR 0100 0007}: You know, when I'm\n",
+                "enjoying {VAR 0128 000A}{VAR BE00}\n",
+                "I lose track of time.{VAR BE01}\n",
+                "...But I guess that's what hobbies\n",
+                "are all about.{VAR BE01}\n",
+                "How many places are the people you've\n",
+                "traded with from? I've traded with{VAR BE00}\n",
+                "people in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "When I'm trading, I often lose track\n",
+                "of time, like with a hobby.{VAR BE01}\n",
+                "Thanks to that, I'm late for everything.\n",
+                "...Well, I suppose fun things{VAR BE00}\n",
+                "are always like that.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}. Come to\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "all right?{VAR BE01}\n",
+                "We'll have so much fun,\n",
+                "you'll lose track of time!"
+            ]
+        },
+        {
+            "id": "a003_154_0058",
+            "en_US": [
+                "???: So we meet again, {VAR 0100 0003}.\n",
+                "Do you remember me?{VAR BE01}\n",
+                "I'm {VAR 0100 0007} from\n",
+                "{VAR 0124 0000} in{VAR BE00}\n",
+                "{VAR 0125 0001}!{VAR BE01}\n",
+                "Come on now. We traded your\n",
+                "{VAR 0102 0005} and{VAR BE00}\n",
+                "my {VAR 0102 0009}{VAR BE00}\n",
+                "recently, right!{VAR BE01}\n",
+                "I'm really happy to meet\n",
+                "you again!"
+            ]
+        },
+        {
+            "id": "a003_154_0059",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, it's {VAR 0100 0003}!{VAR BE01}\n",
+                "Know what? I've traded with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "There were a lot of people\n",
+                "who also like {VAR 0128 000A}{VAR BE00}\n",
+                "and live in different places.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003},\n",
+                "if you'd like, come to{VAR BE00}\n",
+                "{VAR 0125 0001}{VAR BE00}\n",
+                "someday, hee hee."
+            ]
+        },
+        {
+            "id": "a003_154_0060",
+            "en_US": [
+                "{VAR 0100 0007}: Oh! {VAR 0100 0003}! Hi!\n",
+                "Hey, listen to this!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Some other people liked\n",
+                "{VAR 0102 0005}, and{VAR BE00}\n",
+                "I was pretty happy about that.{VAR BE01}\n",
+                "...Hey, {VAR 0100 0003},\n",
+                "if you have a chance, come to{VAR BE00}\n",
+                "{VAR 0125 0001},{VAR BE00}\n",
+                "and we can enjoy {VAR 0128 000A}{VAR BE00}\n",
+                "together. I'm sure it will be fun!"
+            ]
+        },
+        {
+            "id": "a003_154_0061",
+            "en_US": [
+                "{VAR 0100 0007}: ...{VAR BE01}\n",
+                "...{VAR BE01}\n",
+                "Huh? What?\n",
+                "I'm sorry, I was spacing out.{VAR BE01}\n",
+                "My hobby.\n",
+                "Weeeelll.{VAR BE00}\n",
+                "...{VAR 0128 000A}, I guess?{VAR BE00}\n",
+                "How about you, {VAR 0100 0003}?{VAR BE01}\n",
+                "Speaking of hobbies,\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "from this many places: {VAR 0202 0008}. I finally{VAR BE00}\n",
+                "found a person with the same hobby.{VAR BE01}\n",
+                "Ha ha!\n",
+                "Those things make me happy.{VAR BE00}\n",
+                "I want to trade again, soon.{VAR BE01}\n",
+                "{VAR 0100 0003}, let's trade again\n",
+                "sometime if you want!"
+            ]
+        },
+        {
+            "id": "a003_154_0062",
+            "en_US": [
+                "{VAR 0100 0007}: Why, {VAR 0100 0003}!\n",
+                "Hello!{VAR BE01}\n",
+                "Are you here because you've\n",
+                "traded Pokémon with{VAR BE00}\n",
+                "people living far away?{VAR BE01}\n",
+                "Hee hee!\n",
+                "My Pokémon are cute, but{VAR BE00}\n",
+                "Pokémon you've received from{VAR BE00}\n",
+                "other people have a special cuteness.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "I want to start trading with{VAR BE00}\n",
+                "more and more people.{VAR BE01}\n",
+                "You see, lots of people\n",
+                "like {VAR 0128 000A}, too.{VAR BE01}\n",
+                "Talking to Trainers is\n",
+                "quite a bit of fun.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Let's trade again sometime, OK!\n",
+                "Promise!?"
+            ]
+        },
+        {
+            "id": "a003_154_0063",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, hi, {VAR 0100 0003}!{VAR BE01}\n",
+                "You know what!? You know what!?\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE00}\n",
+                "Not bad, eh? Hee hee!{VAR BE00}\n",
+                "And I'm going to keep trading!{VAR BE01}\n",
+                "Hm? My hobby?\n",
+                "Well...{VAR BE00}\n",
+                "Ummm...{VAR BE01}\n",
+                "{VAR 0128 000A}, I guess! It's fun!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}.\n",
+                "Take care of {VAR 0102 0009}.{VAR BE01}\n",
+                "It's a very sweet Pokémon,\n",
+                "so be sure to give it extra care!"
+            ]
+        },
+        {
+            "id": "a003_154_0064",
+            "en_US": "Return to the entrance?"
+        },
+        {
+            "id": "a003_154_0065",
+            "en_US": "Return to the Entrance",
+            "flags": 219
+        },
+        {
+            "id": "a003_154_0066",
+            "en_US": "Go to a Different Floor",
+            "flags": 219
+        },
+        {
+            "id": "a003_154_0067",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_154_0068",
+            "en_US": [
+                "???: Hey, {VAR 0100 0003}!\n",
+                "Remember me?{VAR BE01}\n",
+                "It's {VAR 0100 0007}, from\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "How's {VAR 0102 0009}?{VAR BE01}\n",
+                "{VAR 0102 0005} is doing great!{VAR BE01}\n",
+                "If you want, let's trade Pokémon\n",
+                "again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0069",
+            "en_US": [
+                "{VAR 0100 0007}: I like {VAR 0128 000A}\n",
+                "as a hobby! What do you like to do?{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "I like that feeling of being connected\n",
+                "to the world when you trade Pokémon."
+            ]
+        },
+        {
+            "id": "a003_154_0070",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "By trading with people around the world,\n",
+                "you come to understand that people in{VAR BE00}\n",
+                "different places have different hobbies.{VAR BE01}\n",
+                "For example, my hobby\n",
+                "is {VAR 0128 000A}!{VAR BE01}\n",
+                "You should come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime! I'm sure you'd have fun."
+            ]
+        },
+        {
+            "id": "a003_154_0071",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Have you traded Pokémon with people\n",
+                "from lots of different places?{VAR BE00}\n",
+                "My grand total is {VAR 0202 0008}!{VAR BE01}\n",
+                "One day, I would like to visit a lot of\n",
+                "those places in person!{VAR BE01}\n",
+                "You should totally come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime, and then we can enjoy{VAR BE00}\n",
+                "{VAR 0128 000A} together!"
+            ]
+        },
+        {
+            "id": "a003_154_0072",
+            "en_US": [
+                "{VAR 0100 0007}: {VAR 0100 0003}, listen to this!\n",
+                "I'm all about {VAR 0128 000A} now.{VAR BE01}\n",
+                "I've also traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It seems like a lot of people\n",
+                "enjoy {VAR 0128 000A}!{VAR BE01}\n",
+                "{VAR 0100 0003}, if you come to\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "where I live, let's play, OK?"
+            ]
+        },
+        {
+            "id": "a003_154_0073",
+            "en_US": [
+                "{VAR 0100 0007}: In the past, when\n",
+                "{VAR 0102 0009} was in{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "we often enjoyed{VAR BE00}\n",
+                "{VAR 0128 000A} together.{VAR BE01}\n",
+                "{VAR 0100 0003}, if you could, please\n",
+                "enjoy {VAR 0128 000A} with it.{VAR BE00}\n",
+                "It will really like that!{VAR BE01}\n",
+                "Are you trading Pokémon\n",
+                "with a lot of different people?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}!{VAR BE00}\n",
+                "Let's trade again sometime, OK?"
+            ]
+        },
+        {
+            "id": "a003_154_0074",
+            "en_US": [
+                "???: Oh, {VAR 0100 0003}?\n",
+                "It is {VAR 0100 0003}, right?{VAR BE01}\n",
+                "How've you been?\n",
+                "It's {VAR 0100 0007}! Remember me?{VAR BE01}\n",
+                "I'm from\n",
+                "{VAR 0124 0000}.{VAR BE01}\n",
+                "Thank you for giving me {VAR 0102 0005}\n",
+                "that time! It's doing great!{VAR BE01}\n",
+                "How is {VAR 0102 0009}?{VAR BE01}\n",
+                "Well, since it's with you, {VAR 0100 0003},\n",
+                "I'm sure there's nothing to worry about!"
+            ]
+        },
+        {
+            "id": "a003_154_0075",
+            "en_US": [
+                "{VAR 0100 0007}: I've traded with people\n",
+                "from this many places: {VAR 0202 0008}! And{VAR BE00}\n",
+                "even though we live in different places,{VAR BE00}\n",
+                "I found other people enjoy{VAR BE00}\n",
+                "{VAR 0128 000A} as much as I do!{VAR BE01}\n",
+                "Hee hee!\n",
+                "It's a little amazing that people who{VAR BE00}\n",
+                "could be clear across the ocean{VAR BE00}\n",
+                "enjoy the same things as me."
+            ]
+        },
+        {
+            "id": "a003_154_0076",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003},\n",
+                "have you ever been to{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "If you come visit,\n",
+                "let's enjoy {VAR 0128 000A}{VAR BE00}\n",
+                "together!{VAR BE00}\n",
+                "I'm sure it will be fun!"
+            ]
+        },
+        {
+            "id": "a003_154_0077",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}.\n",
+                "Have you been trading Pokémon{VAR BE00}\n",
+                "with people from lots of different places?{VAR BE01}\n",
+                "I've traded Pokémon with people from\n",
+                "this many places: {VAR 0202 0008}! Some people{VAR BE00}\n",
+                "like {VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "It makes me happy somehow that\n",
+                "people in different countries like the{VAR BE00}\n",
+                "same things as I do.{VAR BE01}\n",
+                "I hope you meet people with the same\n",
+                "hobbies too, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0078",
+            "en_US": [
+                "{VAR 0100 0007}: What's your hobby,\n",
+                "{VAR 0100 0003}?{VAR BE01}\n",
+                "I like {VAR 0128 000A}, but I wonder\n",
+                "what people all over the world{VAR BE00}\n",
+                "like to do...{VAR BE01}\n",
+                "I've traded with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "I want to trade more and learn\n",
+                "about many more people's hobbies."
+            ]
+        },
+        {
+            "id": "a003_154_0079",
+            "en_US": [
+                "{VAR 0100 0007}: My hobby?\n",
+                "It's {VAR 0128 000A}.{VAR BE01}\n",
+                "I've traded Pokémon with\n",
+                "people from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Seems like hobbies vary greatly\n",
+                "from person to person.{VAR BE01}\n",
+                "{VAR 0100 0003}, have you\n",
+                "traded Pokémon with people {VAR BE00}\n",
+                "from a lot of different places?{VAR BE01}\n",
+                "Do you think hobbies vary by\n",
+                "where people live?"
+            ]
+        },
+        {
+            "id": "a003_154_0080",
+            "en_US": [
+                "???: Hey there, {VAR 0100 0003}!\n",
+                "You remember me, right?{VAR BE01}\n",
+                "{VAR 0100 0007}!{VAR BE01}\n",
+                "You know, {VAR 0100 0007}, the guy\n",
+                "from {VAR 0124 0000}.{VAR BE01}\n",
+                "Thanks for giving me {VAR 0102 0005}!\n",
+                "It's really awesome!"
+            ]
+        },
+        {
+            "id": "a003_154_0081",
+            "en_US": [
+                "{VAR 0100 0007}: 'Sup, {VAR 0100 0003}!{VAR BE01}\n",
+                "You trading Pokémon with folks\n",
+                "from all over?{VAR BE01}\n",
+                "I've already traded\n",
+                "with folks from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Some even liked\n",
+                "{VAR 0128 000A}, too.{VAR BE01}\n",
+                "Even though they were raised in different\n",
+                "places, we have the same hobby.{VAR BE00}\n",
+                "Kinda awesome!"
+            ]
+        },
+        {
+            "id": "a003_154_0082",
+            "en_US": [
+                "{VAR 0100 0007}: My hobby?\n",
+                "Sure, it's {VAR 0128 000A}, but why?{VAR BE01}\n",
+                "Are hobbies different in\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "and the place where you live?{VAR BE01}\n",
+                "I've traded with people from\n",
+                "this many places: {VAR 0202 0008}. But{VAR BE00}\n",
+                "I want to trade more and{VAR BE00}\n",
+                "ask a lot of people about their hobbies!"
+            ]
+        },
+        {
+            "id": "a003_154_0083",
+            "en_US": [
+                "{VAR 0100 0007}: Heeey, {VAR 0100 0003}!{VAR BE01}\n",
+                "You know what?\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "Trading sure is fun!{VAR BE01}\n",
+                "Did you know that people have\n",
+                "many different hobbies?{VAR BE01}\n",
+                "What? Me?\n",
+                "It's {VAR 0128 000A}, of course!{VAR BE01}\n",
+                "Well, keep\n",
+                "my {VAR 0102 0009} strong!{VAR BE00}\n",
+                "I'm counting on you!"
+            ]
+        },
+        {
+            "id": "a003_154_0084",
+            "en_US": [
+                "{VAR 0100 0007}: Have you traded Pokémon\n",
+                "with people from a lot of places?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Of those trades, I really like\n",
+                "{VAR 0102 0005},{VAR BE00}\n",
+                "which you traded to me!{VAR BE00}\n",
+                "Thanks, yo!{VAR BE01}\n",
+                "Every once in a while, {VAR 0102 0009} and\n",
+                "I enjoyed {VAR 0128 000A}.{VAR BE01}\n",
+                "Enjoy {VAR 0128 000A} with\n",
+                "{VAR 0102 0009} sometime, all right?"
+            ]
+        },
+        {
+            "id": "a003_154_0085",
+            "en_US": [
+                "{VAR 0100 0007}: Know what?!\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "in this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "When you chat with people\n",
+                "from different places,{VAR BE00}\n",
+                "you want to actually go there!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003},\n",
+                "have you been to{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's awesome, so be sure\n",
+                "to come 'round sometime.{VAR BE00}\n",
+                "{VAR 0128 000A} there is great!"
+            ]
+        },
+        {
+            "id": "a003_154_0086",
+            "en_US": [
+                "???: What's up, {VAR 0100 0003}!\n",
+                "Remember me?{VAR BE01}\n",
+                "It's me! {VAR 0100 0007}!\n",
+                "I'm from{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "We traded {VAR 0102 0005} and {VAR 0102 0009}\n",
+                "recently, right! Thanks!{VAR BE01}\n",
+                "I absolutely adore {VAR 0102 0005}!"
+            ]
+        },
+        {
+            "id": "a003_154_0087",
+            "en_US": [
+                "{VAR 0100 0007}: How many different places\n",
+                "are the people you've traded with from,{VAR BE00}\n",
+                "{VAR 0100 0003}?{VAR BE01}\n",
+                "Hee hee! Guess what? I've traded\n",
+                "with people in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It's interesting because many of them\n",
+                "also enjoy {VAR 0128 000A}!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}, you should\n",
+                "come to{VAR BE00}\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime soon!{VAR BE00}\n",
+                "It would definitely be fun!"
+            ]
+        },
+        {
+            "id": "a003_154_0088",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, listen!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "It feels really strange to trade\n",
+                "with people so far away!{VAR BE01}\n",
+                "By the way, {VAR 0100 0003},\n",
+                "what's your hobby?{VAR BE01}\n",
+                "Mine's {VAR 0128 000A}!{VAR BE01}\n",
+                "I want to trade more and more\n",
+                "and ask people all over the world{VAR BE00}\n",
+                "about their hobbies!"
+            ]
+        },
+        {
+            "id": "a003_154_0089",
+            "en_US": [
+                "{VAR 0100 0007}: Yoo hoo, {VAR 0100 0003}!\n",
+                "I've traded with people from this{VAR BE00}\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "It was inspiring to meet people\n",
+                "with so many hobbies.{VAR BE01}\n",
+                "Hm? My hobby?\n",
+                "{VAR 0128 000A}!{VAR BE01}\n",
+                "Hee hee. Fits me well, doesn't it?{VAR BE01}\n",
+                "{VAR 0100 0003}, if you ever have a chance,\n",
+                "come visit{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "I'm sure you'll love it,\n",
+                "because it's a fantastic place!"
+            ]
+        },
+        {
+            "id": "a003_154_0090",
+            "en_US": [
+                "{VAR 0100 0007}: Guess what!{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "But people's hobbies are way different!{VAR BE01}\n",
+                "My hobby is {VAR 0128 000A}, and\n",
+                "knowing that someone clear{VAR BE00}\n",
+                "on the other side of the world{VAR BE00}\n",
+                "has the same hobby as me,{VAR BE00}\n",
+                "that gets me psyched!{VAR BE01}\n",
+                "Someday, I'll actually go to\n",
+                "all these different places!{VAR BE01}\n",
+                "Come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime, OK, {VAR 0100 0003}?{VAR BE01}\n",
+                "It's a super place!"
+            ]
+        },
+        {
+            "id": "a003_154_0091",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, if it isn't\n",
+                "{VAR 0100 0003}. How are you?{VAR BE01}\n",
+                "I didn't think there were many\n",
+                "people who liked {VAR 0128 000A}.{VAR BE01}\n",
+                "But after trading with Trainers\n",
+                "from this many places: {VAR 0202 0008},{VAR BE00}\n",
+                "I found several people{VAR BE00}\n",
+                "with the same hobby!{VAR BE01}\n",
+                "{VAR 0124 0000}\n",
+                "didn't have so many.{VAR BE01}\n",
+                "Hmm. I guess the rest of the\n",
+                "world is definitely a little different!"
+            ]
+        },
+        {
+            "id": "a003_154_0092",
+            "en_US": [
+                "???: Y-y-you!!\n",
+                "Why, if it isn't {VAR 0100 0003}!{VAR BE01}\n",
+                "Meeting you in a place like this!\n",
+                "What a miracle!{VAR BE01}\n",
+                "...Huh? Me? Don't you remember?\n",
+                "{VAR 0100 0007}!{VAR BE00}\n",
+                "I'm from{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "Come on! We traded your\n",
+                "{VAR 0102 0005} and my {VAR 0102 0009}, right?{VAR BE01}\n",
+                "Boy, oh boy!\n",
+                "{VAR 0102 0005} is really great!{VAR BE01}\n",
+                "I'm sure there is some reason for\n",
+                "our reunion here!{VAR BE01}\n",
+                "Let's definitely trade again one day, OK?"
+            ]
+        },
+        {
+            "id": "a003_154_0093",
+            "en_US": [
+                "{VAR 0100 0007}: How many places are\n",
+                "the people you've traded with from?{VAR BE01}\n",
+                "Amazingly, I've traded with\n",
+                "people from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "What did you ask? My hobby?\n",
+                "It's {VAR 0128 000A}!{VAR BE01}\n",
+                "It's so much fun!{VAR BE01}\n",
+                "Anyway, if you come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "one day, we should{VAR BE00}\n",
+                "definitely meet up!{VAR BE01}\n",
+                "Mwa ha ha! Until then, adieu!"
+            ]
+        },
+        {
+            "id": "a003_154_0094",
+            "en_US": [
+                "{VAR 0100 0007}: The world is wide!\n",
+                "It's absolutely huge!{VAR BE01}\n",
+                "But whatever ocean you cross,\n",
+                "people enjoy {VAR 0128 000A}.{VAR BE01}\n",
+                "Like me. Is it some kind of miracle?{VAR BE01}\n",
+                "I've traded with people from this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "But I want to trade more and more and\n",
+                "get to know lots of people who like{VAR BE00}\n",
+                "{VAR 0128 000A} and {VAR 0102 0005}!{VAR BE01}\n",
+                "We should trade again someday, my friend!"
+            ]
+        },
+        {
+            "id": "a003_154_0095",
+            "en_US": [
+                "{VAR 0100 0007}: Do you like\n",
+                "{VAR 0128 000A}?!{VAR BE01}\n",
+                "I love {VAR 0128 000A}!{VAR BE01}\n",
+                "Where I live in\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "many people share my hobby, but I never{VAR BE00}\n",
+                "would have suspected{VAR BE00}\n",
+                "{VAR 0128 000A} fans could be found{VAR BE00}\n",
+                "in so many places.{VAR BE01}\n",
+                "I've traded with people from\n",
+                "this many places: {VAR 0202 0008}. And{VAR BE00}\n",
+                "if I trade more, I'll bet I find plenty of{VAR BE00}\n",
+                "people with the same hobby!{VAR BE01}\n",
+                "Yeeeaaah! That gets me pumped!"
+            ]
+        },
+        {
+            "id": "a003_154_0096",
+            "en_US": [
+                "{VAR 0100 0007}: The {VAR 0102 0005}\n",
+                "I got from you!{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "It's awesome!\n",
+                "Thank you!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}. But{VAR BE00}\n",
+                "{VAR 0102 0005} is special!{VAR BE01}\n",
+                "{VAR 0100 0003}!\n",
+                "Someday, in{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "we should enjoy {VAR 0128 000A}{VAR BE00}\n",
+                "together!{VAR BE01}\n",
+                "Until we meet again, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0097",
+            "en_US": [
+                "{VAR 0100 0007}: Would you get a load of this,\n",
+                "{VAR 0100 0003}!{VAR BE01}\n",
+                "I've traded Pokémon with amazing\n",
+                "Trainers in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Among them, many people\n",
+                "also like {VAR 0128 000A} and{VAR BE00}\n",
+                "{VAR 0102 0005}!{VAR BE01}\n",
+                "We were raised in different places,\n",
+                "but we like the same things! And...{VAR BE01}\n",
+                "That's astonishing, don't you agree?\n",
+                "The world's a magical place!{VAR BE00}\n",
+                "Our meeting is also magical!{VAR BE01}\n",
+                "Let's trade again sometime, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0098",
+            "en_US": [
+                "???: Hey! I remember you!\n",
+                "You're {VAR 0100 0003}, right!{VAR BE01}\n",
+                "Do you remember me?\n",
+                "It's {VAR 0100 0007}! Hee hee!{VAR BE00}\n",
+                "I'm from{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "Thanks for trading me\n",
+                "{VAR 0102 0005} that time!{VAR BE01}\n",
+                "Is {VAR 0102 0009} doing well?\n",
+                "Trading Pokémon with you{VAR BE00}\n",
+                "was really inspiring!{VAR BE01}\n",
+                "It's really nice to see you again,\n",
+                "{VAR 0100 0003}! Let's trade again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0099",
+            "en_US": [
+                "{VAR 0100 0007}: Oh!\n",
+                "{VAR 0100 0003}! Hi, {VAR 0100 0003}!{VAR BE01}\n",
+                "Hee hee. Know what?!\n",
+                "I've traded with people{VAR BE00}\n",
+                "in this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Isn't it awesome? Great? Hee hee!\n",
+                "Oh! Oh!{VAR BE01}\n",
+                "Some of the people I traded with\n",
+                "like {VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "{VAR 0100 0003}, how many people\n",
+                "like {VAR 0128 000A}{VAR BE00}\n",
+                "where you live?{VAR BE01}\n",
+                "{VAR 0124 0000}\n",
+                "has quite a few.{VAR BE01}\n",
+                "Well, I'll see you later, {VAR 0100 0003}!\n",
+                "See you when we trade next!"
+            ]
+        },
+        {
+            "id": "a003_154_0100",
+            "en_US": [
+                "{VAR 0100 0007}: Hee hee!\n",
+                "I've traded with people from{VAR BE00}\n",
+                "this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}!\n",
+                "What's your hobby?{VAR BE01}\n",
+                "Mine is {VAR 0128 000A}!\n",
+                "Hee hee, what do you think about that!{VAR BE01}\n",
+                "Oh! {VAR 0100 0003}!\n",
+                "Have you ever been to{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's a really cool place,\n",
+                "so come visit!"
+            ]
+        },
+        {
+            "id": "a003_154_0101",
+            "en_US": [
+                "{VAR 0100 0007}: Hello, {VAR 0100 0003}!{VAR BE01}\n",
+                "Have you traded with people\n",
+                "from many different places?{VAR BE01}\n",
+                "I've traded with Trainers\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Being able to connect with\n",
+                "people in other places without{VAR BE00}\n",
+                "stepping out of{VAR BE00}\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "is amazing!{VAR BE00}\n",
+                "That's technology for you!{VAR BE01}\n",
+                "By the way, {VAR 0100 0003},\n",
+                "what is your hobby?{VAR BE01}\n",
+                "Mine is\n",
+                "{VAR 0128 000A}! Hee hee!{VAR BE01}\n",
+                "I hope we can enjoy our hobbies\n",
+                "with people all over the world!{VAR BE00}\n",
+                "Aah! I've gotten myself all worked up!{VAR BE00}\n",
+                "Let's trade again sometime, {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a003_154_0102",
+            "en_US": [
+                "{VAR 0100 0007}: You know what?\n",
+                "I thought this up after trading{VAR BE00}\n",
+                "with people from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "It's normal for people to be different!{VAR BE01}\n",
+                "If the things you like are different,\n",
+                "your hobbies will be, too!{VAR BE01}\n",
+                "There's no reason for everyone\n",
+                "to like {VAR 0128 000A}.{VAR BE01}\n",
+                "I think that's interesting!{VAR BE01}\n",
+                "Because when you are doing something\n",
+                "different, doesn't it feel like your world{VAR BE00}\n",
+                "has become larger?{VAR BE01}\n",
+                "Stepping out of\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometimes is good for sure!"
+            ]
+        },
+        {
+            "id": "a003_154_0103",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}.\n",
+                "Have you ever been to where I live{VAR BE00}\n",
+                "in {VAR 0124 0000}?{VAR BE01}\n",
+                "You can enjoy {VAR 0128 000A} here,\n",
+                "and it's a pretty nice place.{VAR BE01}\n",
+                "At least I think so, after I tried trading\n",
+                "with people from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "I'm sure there are just as many\n",
+                "nice things in other places.{VAR BE01}\n",
+                "Don't you get super worked up\n",
+                "when you think about that?{VAR BE01}\n",
+                "OK, I'll see you later, {VAR 0100 0003}!\n",
+                "Let's trade again, OK!"
+            ]
+        },
+        {
+            "id": "a003_154_0104",
+            "en_US": [
+                "???: Y-you're, um, {VAR 0100 0003}, right?\n",
+                "...I remember you?{VAR BE01}\n",
+                "What? M-me?\n",
+                "I'm {VAR 0100 0007} from{VAR BE00}\n",
+                "{VAR 0124 0000}.{VAR BE01}\n",
+                "Th-thank you very much\n",
+                "for trading me {VAR 0102 0005} that time.{VAR BE00}\n",
+                "Your Pokémon... It's nice.{VAR BE01}\n",
+                "...{VAR 0102 0009} is pretty nice, right?{VAR BE01}\n",
+                "I'm surprised to see you here!\n",
+                "But I'm happy, too... Hyuk hyuk."
+            ]
+        },
+        {
+            "id": "a003_154_0105",
+            "en_US": [
+                "{VAR 0100 0007}: Ah hyuk hyuk!\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "in this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "Everyone has different hobbies.\n",
+                "It's really interesting...{VAR BE01}\n",
+                "Wha--? My hobby?{VAR BE01}\n",
+                "It's {VAR 0128 000A}. Ah hyuk!{VAR BE01}\n",
+                "If you ever feel like coming\n",
+                "to my home,{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "you should!{VAR BE01}\n",
+                "I'm sure it'll be a fun\n",
+                "trip for you. Hyuk hyuk..."
+            ]
+        },
+        {
+            "id": "a003_154_0106",
+            "en_US": [
+                "{VAR 0100 0007}: M-my hobby is\n",
+                "{VAR 0128 000A}, but have you met{VAR BE00}\n",
+                "anyone through trading who likes{VAR BE00}\n",
+                "{VAR 0128 000A}? I've traded with{VAR BE00}\n",
+                "people from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "And everyone has different hobbies.{VAR BE01}\n",
+                "If you live somewhere different,\n",
+                "your hobbies must be different, too.{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "Uh, whatever.\n",
+                "That's good, too."
+            ]
+        },
+        {
+            "id": "a003_154_0107",
+            "en_US": [
+                "{VAR 0100 0007}: M-my hobby is\n",
+                "{VAR 0128 000A}, but...{VAR BE00}\n",
+                "What about you?{VAR BE01}\n",
+                "...Phew.{VAR BE01}\n",
+                "T-truth is, I'm not very comfortable\n",
+                "talking with people.{VAR BE01}\n",
+                "Despite that, I've traded with people\n",
+                "from this many places: {VAR 0202 0008}...{VAR BE01}\n",
+                "And I also got your {VAR 0102 0005}...\n",
+                "Hyuk hyuk.{VAR BE01}\n",
+                "I-I think I want to trade some more.\n",
+                "Thank you.{VAR BE01}\n",
+                "Hope we can trade again sometime."
+            ]
+        },
+        {
+            "id": "a003_154_0108",
+            "en_US": [
+                "{VAR 0100 0007}: I-I've traded with \n",
+                "people from this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "And then, some of those people\n",
+                "liked {VAR 0128 000A}, too...{VAR BE01}\n",
+                "Even on the other side of the world,\n",
+                "there are people who share my hobby...{VAR BE01}\n",
+                "By the way, have you ever been to\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "where I live?{VAR BE01}\n",
+                "It's a fun place, so I think you\n",
+                "might like to come... Hyuk hyuk."
+            ]
+        },
+        {
+            "id": "a003_154_0109",
+            "en_US": [
+                "{VAR 0100 0007}: H-how many different\n",
+                "places are the people you've traded{VAR BE00}\n",
+                "Pokémon with from?{VAR BE00}\n",
+                "F-for me, it's this many places: {VAR 0202 0008}...{VAR BE01}\n",
+                "Um, err... Have you ever been to\n",
+                "where I live,{VAR BE00}\n",
+                "{VAR 0124 0000}?{VAR BE01}\n",
+                "Th-there are people who like\n",
+                "{VAR 0128 000A}.{VAR BE01}\n",
+                "Oh, of course I like that, too!{VAR BE01}\n",
+                "I-it's a very nice place,\n",
+                "so come visit sometime..."
+            ]
+        },
+        {
+            "id": "a003_154_0110",
+            "en_US": [
+                "???: You... You're...\n",
+                "{VAR 0100 0003}, right?{VAR BE01}\n",
+                "It's me! You know,\n",
+                "{VAR 0100 0007} from{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "Do you remember me? Tee hee!\n",
+                "I'm happy to see you again.{VAR BE01}\n",
+                "Thanks for giving me {VAR 0102 0005}\n",
+                "that time.{VAR BE01}\n",
+                "Is {VAR 0102 0009} doing well?{VAR BE01}\n",
+                "Meeting here again must be fate! Tee hee!\n",
+                "Looking forward to seeing you again!"
+            ]
+        },
+        {
+            "id": "a003_154_0111",
+            "en_US": [
+                "{VAR 0100 0007}: What's that?\n",
+                "How many places have you{VAR BE00}\n",
+                "traded Pokémon with?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "It's a little scary trading\n",
+                "with strangers...{VAR BE00}\n",
+                "...But it also makes my heart race a bit.{VAR BE01}\n",
+                "Sometimes I meet people\n",
+                "whose hobby is {VAR 0128 000A}, too!{VAR BE00}\n",
+                "...Tee hee!{VAR BE01}\n",
+                "Trading has become a little more\n",
+                "fun, hasn't it?"
+            ]
+        },
+        {
+            "id": "a003_154_0112",
+            "en_US": [
+                "{VAR 0100 0007}: Umm...\n",
+                "How is {VAR 0102 0009}?{VAR BE01}\n",
+                "No, um, if it's fine,\n",
+                "that's all that matters.{VAR BE01}\n",
+                "{VAR 0102 0005} is doing great.\n",
+                "Very good... Yes.{VAR BE01}\n",
+                "Any chance you might come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime?{VAR BE01}\n",
+                "It's a nice place where you can\n",
+                "enjoy {VAR 0128 000A}.{VAR BE01}\n",
+                "...\n",
+                "...Come for sure, OK! Tee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0113",
+            "en_US": [
+                "{VAR 0100 0007}: Tee hee! Hey, {VAR 0100 0003}.\n",
+                "What is your hobby?{VAR BE01}\n",
+                "Mine is {VAR 0128 000A}.\n",
+                "...What do you think?{VAR BE01}\n",
+                "How many places have the people\n",
+                "you traded with come from?{VAR BE01}\n",
+                "As for me... Tee hee!{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "I'm going to trade more and more,\n",
+                "so I can find people who like{VAR BE00}\n",
+                "{VAR 0102 0005}... Tee hee hee!{VAR BE01}\n",
+                "Well, I'll see you again, {VAR 0100 0003}.\n",
+                "Let's trade again sometime..."
+            ]
+        },
+        {
+            "id": "a003_154_0114",
+            "en_US": [
+                "{VAR 0100 0007}: Have you ever been\n",
+                "to {VAR 0124 0000}?{VAR BE01}\n",
+                "It's a lovely place.\n",
+                "I hope you come sometime.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "I've worked hard...huh?{VAR BE01}\n",
+                "You can learn about the hobbies\n",
+                "of Trainers you trade with.{VAR BE00}\n",
+                "Kind of fun, isn't it?{VAR BE01}\n",
+                "...Me?\n",
+                "I like {VAR 0128 000A}.{VAR BE00}\n",
+                "Expecting something different? Tee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0115",
+            "en_US": [
+                "{VAR 0100 0007}: Tee hee!\n",
+                "How many places do they come from,{VAR BE00}\n",
+                "these people you've traded with?{VAR BE01}\n",
+                "For me, it's this many places: {VAR 0202 0008}...\n",
+                "But, I want to trade more and more...{VAR BE01}\n",
+                "Because if I do, I might meet\n",
+                "someone who likes {VAR 0128 000A}{VAR BE00}\n",
+                "and {VAR 0102 0005}, too!{VAR BE00}\n",
+                "...It feels like destiny! Tee hee!{VAR BE01}\n",
+                "And someday, I'll have them come visit\n",
+                "{VAR 0124 0000}...{VAR BE00}\n",
+                "It's a very nice place... Tee hee!{VAR BE01}\n",
+                "Oh, sorry!\n",
+                "My imagination was running wild.{VAR BE01}\n",
+                "Let's trade again sometime,\n",
+                "{VAR 0100 0003}... Hee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0116",
+            "en_US": [
+                "???: Oh!{VAR BE01}\n",
+                "{VAR 0100 0003}, isn't it?\n",
+                "I'm {VAR 0100 0007}.{VAR BE01}\n",
+                "Hey, do you remember me?\n",
+                "The one from{VAR BE00}\n",
+                "{VAR 0124 0000}!{VAR BE01}\n",
+                "Recently we traded your {VAR 0102 0005}\n",
+                "and my {VAR 0102 0009}, remember?{VAR BE01}\n",
+                "Hey, well, I'm happy to see you!\n",
+                "If you'd like, let's have a nice{VAR BE00}\n",
+                "chat one of these days!"
+            ]
+        },
+        {
+            "id": "a003_154_0117",
+            "en_US": [
+                "{VAR 0100 0007}: Hey there, {VAR 0100 0003}.{VAR BE01}\n",
+                "Recently, I've gotten quite hooked\n",
+                "on {VAR 0128 000A}.{VAR BE01}\n",
+                "It's just so much fun! Come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime, and let's hang out!{VAR BE01}\n",
+                "By the way, how many places\n",
+                "are your traded Pokémon from?{VAR BE01}\n",
+                "I've traded with people in this\n",
+                "many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Yeah... I'd sure like to trade\n",
+                "with a lot more places."
+            ]
+        },
+        {
+            "id": "a003_154_0118",
+            "en_US": [
+                "{VAR 0100 0007}: Hey there, {VAR 0100 0003}.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "Whoa, people sure do have a lot{VAR BE00}\n",
+                "of different hobbies!{VAR BE01}\n",
+                "What? My hobby?\n",
+                "It's {VAR 0128 000A}, I suppose.{VAR BE00}\n",
+                "I enjoy it for some reason.{VAR BE01}\n",
+                "Are there a lot of people near you\n",
+                "who like {VAR 0128 000A}?{VAR BE01}\n",
+                "In {VAR 0124 0000},\n",
+                "where I live,{VAR BE00}\n",
+                "I suppose there are a few.{VAR BE01}\n",
+                "Well, {VAR 0100 0003},\n",
+                "let's trade again sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0119",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}!{VAR BE01}\n",
+                "How many places are the people you've\n",
+                "traded Pokémon with from?{VAR BE01}\n",
+                "I've traded with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "Some people among them{VAR BE00}\n",
+                "like {VAR 0128 000A}, just like me!{VAR BE01}\n",
+                "Somehow, trading with people in a lot of\n",
+                "different places makes even the far side{VAR BE00}\n",
+                "of the world feel closer.{VAR BE01}\n",
+                "Come to\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "sometime, if you want to!{VAR BE00}\n",
+                "It's a pretty nice place!"
+            ]
+        },
+        {
+            "id": "a003_154_0120",
+            "en_US": [
+                "{VAR 0100 0007}: Hey, {VAR 0100 0003}!\n",
+                "Nice to see you again!{VAR BE00}\n",
+                "How are you doing?{VAR BE01}\n",
+                "Well, I've traded Pokémon\n",
+                "with people in this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Heh heh. It's fun, and you can learn\n",
+                "about your trading partner's hobbies.{VAR BE01}\n",
+                "What, me?\n",
+                "I guess I enjoy {VAR 0128 000A}.{VAR BE01}\n",
+                "By the way, have you ever been\n",
+                "to{VAR 0124 0000}?{VAR BE01}\n",
+                "It's a pretty nice place.\n",
+                "Come visit sometime."
+            ]
+        },
+        {
+            "id": "a003_154_0121",
+            "en_US": [
+                "{VAR 0100 0007}: You know,\n",
+                "when I'm enjoying {VAR 0128 000A},{VAR BE00}\n",
+                "I lose track of time.{VAR BE01}\n",
+                "But I guess that's what hobbies\n",
+                "are all about.{VAR BE01}\n",
+                "How many places are the people you've\n",
+                "traded with from? I've traded with{VAR BE00}\n",
+                "people from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "When you're trading, you lose track\n",
+                "of time, just like with a hobby.{VAR BE01}\n",
+                "That's why I'm late for everything.\n",
+                "You believe me, right?{VAR BE01}\n",
+                "Aw, I suppose fun things\n",
+                "are always like that.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}. Come to\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "all right!?{VAR BE01}\n",
+                "We'll have so much fun, you'll lose\n",
+                "track of time!"
+            ]
+        },
+        {
+            "id": "a003_154_0122",
+            "en_US": [
+                "???: So we meet again, {VAR 0100 0003}.\n",
+                "Do you remember me?{VAR BE01}\n",
+                "I'm {VAR 0100 0007}\n",
+                "from {VAR 0124 0000}!{VAR BE01}\n",
+                "Come on, now. We traded your\n",
+                "{VAR 0102 0005} and{VAR BE00}\n",
+                "my {VAR 0102 0009}{VAR BE00}\n",
+                "recently, right?{VAR BE01}\n",
+                "I'm really happy to meet you again!"
+            ]
+        },
+        {
+            "id": "a003_154_0123",
+            "en_US": [
+                "{VAR 0100 0007}: Oh, it's {VAR 0100 0003}!{VAR BE01}\n",
+                "You know what? I've traded with people\n",
+                "from this many places: {VAR 0202 0008}!{VAR BE01}\n",
+                "And a lot of people who also like\n",
+                "{VAR 0128 000A} live all over{VAR BE00}\n",
+                "the world.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003},\n",
+                "if you'd like, come to{VAR BE00}\n",
+                "{VAR 0124 0000}{VAR BE00}\n",
+                "someday, hee hee!"
+            ]
+        },
+        {
+            "id": "a003_154_0124",
+            "en_US": [
+                "{VAR 0100 0007}: Oh! {VAR 0100 0003}! Hi!\n",
+                "Hey, listen to this!{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "in this many places: {VAR 0202 0008}.{VAR BE01}\n",
+                "Some other people liked {VAR 0102 0005},\n",
+                "and I was pretty happy about that.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}, if you\n",
+                "have a chance to come to{VAR BE00}\n",
+                "{VAR 0124 0000},{VAR BE00}\n",
+                "let's enjoy {VAR 0128 000A}{VAR BE00}\n",
+                "together. I'm sure it will be fun!"
+            ]
+        },
+        {
+            "id": "a003_154_0125",
+            "en_US": [
+                "{VAR 0100 0007}: ...{VAR BE01}\n",
+                "...{VAR BE01}\n",
+                "Huh? What?\n",
+                "Sorry, I was spacing out.{VAR BE01}\n",
+                "My hobby. Weeeelll.\n",
+                "...{VAR 0128 000A}, I guess?{VAR BE00}\n",
+                "How about you, {VAR 0100 0003}?{VAR BE01}\n",
+                "Speaking of hobbies,\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "from this many places: {VAR 0202 0008}. And I finally{VAR BE01}\n",
+                "found a person with the same hobby.\n",
+                "Ha ha!{VAR BE00}\n",
+                "Those things make me happy.{VAR BE00}\n",
+                "I want to trade again, now.{VAR BE01}\n",
+                "{VAR 0100 0003}, let's trade again\n",
+                "sometime!"
+            ]
+        },
+        {
+            "id": "a003_154_0126",
+            "en_US": [
+                "{VAR 0100 0007}: Why, {VAR 0100 0003}!\n",
+                "Hello!{VAR BE01}\n",
+                "Are you here because you've\n",
+                "traded Pokémon with{VAR BE00}\n",
+                "people living far away?{VAR BE01}\n",
+                "Hee hee!\n",
+                "My Pokémon are cute, but there is a{VAR BE00}\n",
+                "special cuteness about Pokémon{VAR BE00}\n",
+                "you've traded with other people.{VAR BE01}\n",
+                "I've traded Pokémon with people\n",
+                "from this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "I want to trade with still more people.{VAR BE01}\n",
+                "You see, there are lots of people\n",
+                "who like {VAR 0128 000A}, too.{VAR BE01}\n",
+                "Talking to Trainers has become\n",
+                "quite a bit of fun.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Let's trade again sometime, OK?\n",
+                "Promise!"
+            ]
+        },
+        {
+            "id": "a003_154_0127",
+            "en_US": [
+                "{VAR 0100 0007}: Oh! {VAR 0100 0003}! Hi!{VAR BE01}\n",
+                "Know what?! Know what?!\n",
+                "I've traded Pokémon with people{VAR BE00}\n",
+                "in this many places: {VAR 0202 0008}.{VAR BE00}\n",
+                "Not bad, eh? Hee hee!{VAR BE00}\n",
+                "And I'm going to keep trading!{VAR BE01}\n",
+                "Hm? My hobby?\n",
+                "Well...{VAR BE00}\n",
+                "Ummm...{VAR BE01}\n",
+                "{VAR 0128 000A}, I guess! It's fun!{VAR BE01}\n",
+                "Hey, {VAR 0100 0003},\n",
+                "take care of {VAR 0102 0009}.{VAR BE01}\n",
+                "It's very sweet, so be sure\n",
+                "to take extra good care of it!"
+            ]
+        }
+    ]
+}

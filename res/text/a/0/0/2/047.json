@@ -1,0 +1,110 @@
+{
+    "flags": 239,
+    "messages": [
+        {
+            "id": "a002_047_0000",
+            "en_US": [
+                "Place your left thumb in the\n",
+                "outline gently."
+            ]
+        },
+        {
+            "id": "a002_047_0001",
+            "en_US": [
+                "Checking how synchronized\n",
+                "you are with {VAR 0100 0000}..."
+            ]
+        },
+        {
+            "id": "a002_047_0002",
+            "en_US": [
+                "Keep your left thumb steady,\n",
+                "and put your right thumb on the outline."
+            ]
+        },
+        {
+            "id": "a002_047_0003",
+            "en_US": [
+                "Check complete. Create an Infrared\n",
+                "Connection with the other Trainer."
+            ]
+        },
+        {
+            "id": "a002_047_0004",
+            "en_US": [
+                "Checking...\n",
+                "Please maintain the Infrared Connection."
+            ]
+        },
+        {
+            "id": "a002_047_0005",
+            "en_US": "You've created an Infrared Connection!"
+        },
+        {
+            "id": "a002_047_0006",
+            "en_US": [
+                "The connection was interrupted.\n",
+                "Please create a new Infrared Connection."
+            ]
+        },
+        {
+            "id": "a002_047_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0011",
+            "en_US": [
+                "If nothing happens, place your thumb\n",
+                "on the outline again."
+            ]
+        },
+        {
+            "id": "a002_047_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_047_0016",
+            "en_US": "SYNC CHECK",
+            "flags": 160
+        },
+        {
+            "id": "a002_047_0017",
+            "en_US": [
+                "Please remove both your thumbs from the\n",
+                "screen, and start again with the left thumb."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_408_0000",
+            "en_US": [
+                "If you wreck Great Landorus's little\n",
+                "shrine, it'll cause a bad bad storm!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0001",
+            "en_US": [
+                "That's not true!{VAR BE01}\n",
+                "The Pokémon that brings bad\n",
+                "thunderstorms is a different Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0002",
+            "en_US": [
+                "That's not true!{VAR BE01}\n",
+                "The Pokémon that brings bad windstorms\n",
+                "is a different Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0003",
+            "en_US": "No, silly, you've got it wrong!{VAR BE01}"
+        },
+        {
+            "id": "a003_408_0004",
+            "en_US": [
+                "This is a shrine for Great Landorus. It\n",
+                "punished a Pokémon that did a bad thing!{VAR BE01}\n",
+                "If you wreck the shrine, it can't punish\n",
+                "that stormy Pokémon if it comes back!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0005",
+            "en_US": [
+                "But that doesn't make any sense!{VAR BE01}\n",
+                "If a Pokémon does a bad thing,\n",
+                "Great Landorus will come to help us,{VAR BE00}\n",
+                "whether it has a shrine or not!{VAR BE01}\n",
+                "You're the silly one!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0006",
+            "en_US": "No, YOU'RE silly! Hey, wait!{VAR BE01}"
+        },
+        {
+            "id": "a003_408_0007",
+            "en_US": [
+                "This little shrine is dedicated to a\n",
+                "Pokémon called Landorus.{VAR BE01}\n",
+                "They say that when Tornadus and\n",
+                "Thundurus were whipping up storms that{VAR BE00}\n",
+                "damaged houses and fields all over the{VAR BE00}\n",
+                "Unova region, Landorus made them stop.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0008",
+            "en_US": [
+                "That's a story from way long ago, when\n",
+                "my grandpa was a little boy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0009",
+            "en_US": [
+                "So if Tornadus and Thundurus come here\n",
+                "again, Great Landorus may come back.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0010",
+            "en_US": "That's what my grandpa told me!"
+        },
+        {
+            "id": "a003_408_0011",
+            "en_US": "It's a small, weathered shrine."
+        },
+        {
+            "id": "a003_408_0012",
+            "en_US": "It's a small, weathered shrine.{VAR BE01}"
+        },
+        {
+            "id": "a003_408_0013",
+            "en_US": [
+                "Tornadus and Thundurus are struggling\n",
+                "inside their Poké Balls!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_408_0014",
+            "en_US": "Karamukukuk!"
+        },
+        {
+            "id": "a003_408_0015",
+            "en_US": "Landorus flew far away into the sky..."
+        }
+    ]
+}

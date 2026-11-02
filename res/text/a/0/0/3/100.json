@@ -1,0 +1,48 @@
+{
+    "flags": 224,
+    "pad": "6c6c",
+    "messages": [
+        {
+            "id": "a003_100_0000",
+            "en_US": [
+                "If I compared the glow of Nimbasa to\n",
+                "something, it would be the sun!{VAR BE01}\n",
+                "Yes, the sun!\n",
+                "It inspires me to give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_100_0001",
+            "en_US": [
+                "Sun Stones are stones that make certain\n",
+                "Pokémon evolve!{VAR BE01}\n",
+                "I gave it to Petilil as a present!"
+            ]
+        },
+        {
+            "id": "a003_100_0002",
+            "en_US": [
+                "Sun Stones are stones that make certain\n",
+                "Pokémon evolve!{VAR BE01}\n",
+                "I gave it to Cottonee as a present!"
+            ]
+        },
+        {
+            "id": "a003_100_0003",
+            "en_US": [
+                "If you love your Pokémon, even if it\n",
+                "changes its appearance, you'll stay{VAR BE00}\n",
+                "connected with your Pokémon."
+            ]
+        },
+        {
+            "id": "a003_100_0004",
+            "en_US": [
+                "When a Pokémon evolves, it gets stronger\n",
+                "and its appearance changes significantly.{VAR BE01}\n",
+                "A Pokémon that you keep from evolving\n",
+                "will learn moves more quickly!"
+            ]
+        }
+    ]
+}

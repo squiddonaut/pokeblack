@@ -1,0 +1,137 @@
+{
+    "flags": 224,
+    "pad": "7070",
+    "messages": [
+        {
+            "id": "a003_069_0000",
+            "en_US": [
+                "N: {VAR BE09 0001}You're looking for Team Plasma, right?{VAR BE01}\n",
+                "They ran into the amusement park.\n",
+                "Come with me.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0001",
+            "en_US": [
+                "N: {VAR BE09 0001}They're not here.{VAR BE01}\n",
+                "Let's ride the Ferris wheel\n",
+                "and see if we can spot them.{VAR BE01}\n",
+                "I love Ferris wheels.\n",
+                "The circular motion... The mechanics...{VAR BE01}\n",
+                "They're like collections of\n",
+                "elegant formulas.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0002",
+            "en_US": "Team Plasma: My lord N!{VAR BE01}"
+        },
+        {
+            "id": "a003_069_0003",
+            "en_US": "Team Plasma: You're safe, sire!{VAR BE01}"
+        },
+        {
+            "id": "a003_069_0004",
+            "en_US": [
+                "N: {VAR BE09 0001}There's no problem.{VAR BE01}\n",
+                "You're part of the people we brought in\n",
+                "to help us save the Pokémon.{VAR BE00}\n",
+                "So, you're under my protection, as well.{VAR BE01}\n",
+                "Go, quickly, and let my battle cover\n",
+                "your retreat.{VAR BE01}\n",
+                "...Now then, {VAR 0100 0000},\n",
+                "do you follow my logic?{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_069_0005",
+            "en_US": [
+                "{VAR BE09 0001}If true, your words please me.{VAR BE01}\n",
+                "Ah. Then...\n",
+                "The future I envision...{VAR BE01}\n",
+                "Perhaps I can't beat you here and now,\n",
+                "but I'll battle you to buy time for these{VAR BE00}\n",
+                "members of Team Plasma to get away!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0006",
+            "en_US": [
+                "{VAR BE09 0001}So that's how it is...\n",
+                "That's unfortunate.{VAR BE01}\n",
+                "Ah. Then...\n",
+                "The future I envision...{VAR BE01}\n",
+                "Perhaps I can't beat you here and now,\n",
+                "but I'll battle you anyway to buy time{VAR BE00}\n",
+                "for these members of Team Plasma{VAR BE00}\n",
+                "to flee.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0007",
+            "en_US": [
+                "N: {VAR BE09 0001}You're quite strong.{VAR BE01}\n",
+                "But I have a future that I must change.\n",
+                "And, for that future...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0008",
+            "en_US": [
+                "I'll defeat the Champion and become\n",
+                "unbeatable, unlike any other!{VAR BE01}\n",
+                "I'll make all Trainers free their Pokémon!\n",
+                "Just try and stop me!{VAR BE01}\n",
+                "If you want to be together with Pokémon,\n",
+                "your only hope is to collect the Badges{VAR BE00}\n",
+                "from each area and head for the{VAR BE00}\n",
+                "Pokémon League!{VAR BE00}\n",
+                "Try and stop me there, if you dare!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0009",
+            "en_US": [
+                "{VAR BE09 0001}If your conviction is not strong enough,\n",
+                "you will never be able to defeat me.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_069_0010",
+            "en_US": [
+                "Whooshing, swooshing roller coaster!\n",
+                "Whirltwirlwhirltwirl...whoa!"
+            ]
+        },
+        {
+            "id": "a003_069_0011",
+            "en_US": [
+                "Spinning, spinning Ferris wheel!\n",
+                "Climbing, climbing Ferris wheel!"
+            ]
+        },
+        {
+            "id": "a003_069_0012",
+            "en_US": [
+                "No matter how old you get, amusement\n",
+                "parks are always exciting, am I right?"
+            ]
+        },
+        {
+            "id": "a003_069_0013",
+            "en_US": [
+                "Look! Look!\n",
+                "It's a clown!"
+            ]
+        },
+        {
+            "id": "a003_069_0014",
+            "en_US": [
+                "Nimbasa City Pokémon Gym\n",
+                "Leader: Elesa{VAR BE00}\n",
+                "The Shining Beauty"
+            ],
+            "flags": 207
+        }
+    ]
+}

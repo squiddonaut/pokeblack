@@ -1,0 +1,53 @@
+{
+    "flags": 160,
+    "messages": [
+        {
+            "id": "a003_001_0000",
+            "en_US": "{VAR BD02}PLAYER: {VAR 0100 0000}",
+            "flags": 144
+        },
+        {
+            "id": "a003_001_0001",
+            "en_US": [
+                "{VAR BD02}This document certifies that\n",
+                "{VAR BD02}you have made the great\n",
+                "{VAR BD02}achievement of catching all\n",
+                "{VAR BD02}the Pokémon in the Unova region."
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a003_001_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_001_0003",
+            "en_US": [
+                "{VAR BD02}GAME FREAK\n",
+                "{VAR BD02}All the staff"
+            ],
+            "flags": 96
+        },
+        {
+            "id": "a003_001_0004",
+            "en_US": "PLAYER: {VAR 0100 0000}"
+        },
+        {
+            "id": "a003_001_0005",
+            "en_US": [
+                "{VAR BD03 0000}GAME FREAK\n",
+                "{VAR BD03 0000}All the staff"
+            ]
+        },
+        {
+            "id": "a003_001_0006",
+            "en_US": [
+                "This document certifies\n",
+                "that you have successfully\n",
+                "completed your\n",
+                "National Pokédex."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1098 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_466_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_466_0001",
+            "en_US": "It feels so peaceful here. I love it!"
+        },
+        {
+            "id": "a003_466_0002",
+            "en_US": [
+                "When you're surrounded by trees,\n",
+                "you feel like your entire being{VAR BE00}\n",
+                "has become one with nature."
+            ]
+        },
+        {
+            "id": "a003_466_0003",
+            "en_US": [
+                "City life seems like it would be\n",
+                "really nerve racking..."
+            ]
+        },
+        {
+            "id": "a003_466_0004",
+            "en_US": [
+                "Fresh air!\n",
+                "A comfortable breeze.{VAR BE00}\n",
+                "Mmmm... This place has everything."
+            ]
+        },
+        {
+            "id": "a003_466_0005",
+            "en_US": [
+                "No surprises, no stress--\n",
+                "that is the secret of a good life!"
+            ]
+        },
+        {
+            "id": "a003_466_0006",
+            "en_US": [
+                "Pokémon are the same! They prefer to\n",
+                "live in a natural setting, too."
+            ]
+        },
+        {
+            "id": "a003_466_0007",
+            "en_US": [
+                "Here, everyone is pleasant and kind\n",
+                "to everyone else.{VAR BE01}\n",
+                "I want to work with everyone\n",
+                "for the sake of this incredible forest!"
+            ]
+        },
+        {
+            "id": "a003_466_0008",
+            "en_US": [
+                "The force of nature commands\n",
+                "our respect.{VAR BE01}\n",
+                "The force of nature is what supports\n",
+                "all life. Nature's bounty brings us{VAR BE00}\n",
+                "so much goodness.{VAR BE01}\n",
+                "Nature's power surpasses imitation!"
+            ]
+        },
+        {
+            "id": "a003_466_0009",
+            "en_US": [
+                "Leo: Hello there! Ah... Doesn't it feel\n",
+                "terrific to enjoy the beauties of nature?{VAR BE01}\n",
+                "I'm Leo. I come from the Black City\n",
+                "{VAR 0100 0000} visited.{VAR BE01}\n",
+                "Nice to meet you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0010",
+            "en_US": [
+                "Leo: Hello there!{VAR BE01}\n",
+                "Today, I woke up to the pleasant rustling\n",
+                "of leaves in the wind.{VAR BE00}\n",
+                "This place is so relaxing!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0011",
+            "en_US": [
+                "Recently, I've been feeling a certain...\n",
+                "Hm, I don't know...{VAR BE00}\n",
+                "...Maybe I'm craving the city lights."
+            ]
+        },
+        {
+            "id": "a003_466_0012",
+            "en_US": [
+                "Guess what?\n",
+                "Check this out!{VAR BE01}\n",
+                "A Pidgey was eating food\n",
+                "in the grass right over there!"
+            ]
+        },
+        {
+            "id": "a003_466_0013",
+            "en_US": [
+                "Silvia: Why, hello!{VAR BE01}\n",
+                "Isn't this place sublime?\n",
+                "The air is so fresh. It's all so tranquil.{VAR BE01}\n",
+                "I'm Silvia. I'm from the Black City\n",
+                "{VAR 0100 0000} visited.{VAR BE00}\n",
+                "It's a pleasure to meet you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0014",
+            "en_US": [
+                "Silvia: Even if I take off my glasses,\n",
+                "I'll know exactly where I am.{VAR BE01}\n",
+                "What tells me is the lush greenery\n",
+                "all around.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0015",
+            "en_US": [
+                "You know, the time I spend here is lovely,\n",
+                "but something's missing...{VAR BE01}\n",
+                "That's how I feel."
+            ]
+        },
+        {
+            "id": "a003_466_0016",
+            "en_US": [
+                "If my triple-strength glasses don't lie,\n",
+                "I met a little Wurmple-kins in a spot{VAR BE00}\n",
+                "just ahead of here!{VAR BE01}\n",
+                "This is a special place... So serene!"
+            ]
+        },
+        {
+            "id": "a003_466_0017",
+            "en_US": [
+                "Dave: 'Sup! Call me Dave!{VAR BE01}\n",
+                "I used to mix it up a lot with\n",
+                "{VAR 0100 0000} in Black City!{VAR BE01}\n",
+                "Nice meetin' ya!{VAR BE01}\n",
+                "I feel like this place is bold enough to\n",
+                "take in a tough guy like me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0018",
+            "en_US": [
+                "Dave: 'Sup!\n",
+                "I've got it goin' on today!{VAR BE01}\n",
+                "Listen up! I'm gonna spread the word\n",
+                "about all the awesome things about{VAR BE00}\n",
+                "nature! With a fierceness!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0019",
+            "en_US": [
+                "What can I say?\n",
+                "White Forest is too dull.{VAR BE01}\n",
+                "It doesn't have enough hustle and bustle\n",
+                "to keep a guy like me interested."
+            ]
+        },
+        {
+            "id": "a003_466_0020",
+            "en_US": [
+                "Aaaaaaaeeeeeeeek!\n",
+                "Is that a Gastly over there?{VAR BE01}\n",
+                "Oh, whew. It's just your shadow.\n",
+                "But I have seen a Gastly recently."
+            ]
+        },
+        {
+            "id": "a003_466_0021",
+            "en_US": [
+                "Britney: I'm {VAR 0100 0000}'s friend Britney.{VAR BE01}\n",
+                "I'm used to living on the edge\n",
+                "in Black City!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0022",
+            "en_US": [
+                "Britney: We're up to our ears in nature\n",
+                "here. It sure winds you down.{VAR BE01}\n",
+                "Couldn't be more different from\n",
+                "the freewheelin' life in Black City!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0023",
+            "en_US": [
+                "Hmm.{VAR BE01}\n",
+                "Now that I've started to think about it,\n",
+                "I miss being wild and free in Black City."
+            ]
+        },
+        {
+            "id": "a003_466_0024",
+            "en_US": [
+                "Are you searching for Hoppip?\n",
+                "No problem! I saw one!{VAR BE00}\n",
+                "Run through the tall grass and catch it!"
+            ]
+        },
+        {
+            "id": "a003_466_0025",
+            "en_US": [
+                "Robbie: I'm Robbie from Black City,\n",
+                "where {VAR 0100 0000} passed through!{VAR BE00}\n",
+                "Nice to meet you!{VAR BE01}\n",
+                "You know what? I'd never imagined\n",
+                "a place like this really existed.{VAR BE01}\n",
+                "It's nothing but green as far as\n",
+                "the eye can see! I'm shocked!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0026",
+            "en_US": [
+                "Robbie: I was in Black City because I'm\n",
+                "fascinated by architecture, but being{VAR BE00}\n",
+                "in a forest is pretty nice, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0027",
+            "en_US": [
+                "Ohhhhhhh, am I bored! So bored!\n",
+                "I want to go back to Black City!"
+            ]
+        },
+        {
+            "id": "a003_466_0028",
+            "en_US": [
+                "Oh! You'll never guess!{VAR BE01}\n",
+                "Elekid! I saw an Elekid\n",
+                "running off that way!{VAR BE01}\n",
+                "Maybe I should chase it!"
+            ]
+        },
+        {
+            "id": "a003_466_0029",
+            "en_US": [
+                "Miki: Hello!\n",
+                "My name's Miki! Nice to meet you!{VAR BE01}\n",
+                "I battled {VAR 0100 0000} in Black City!\n",
+                "Super tough!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0030",
+            "en_US": [
+                "Miki: Ahhh, mmm... This place is soothing.\n",
+                "I read somewhere that the scent of{VAR BE00}\n",
+                "trees and grass makes you feel calm,{VAR BE00}\n",
+                "in an aromatherapy kind of way.{VAR BE00}\n",
+                "This place seems to have the same effect!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0031",
+            "en_US": [
+                "Gosh. Maybe I've become too calm...\n",
+                "'Cause I'm bored now!{VAR BE01}\n",
+                "But that's worth feeling, too,\n",
+                "from time to time."
+            ]
+        },
+        {
+            "id": "a003_466_0032",
+            "en_US": [
+                "Wait, what?\n",
+                "A Togepi just ran behind you right now!"
+            ]
+        },
+        {
+            "id": "a003_466_0033",
+            "en_US": [
+                "Ryder: Take a deep breath!\n",
+                "The air here is so pure and wonderful!{VAR BE01}\n",
+                "I'm Ryder. I'm from the Black City, where\n",
+                "{VAR 0100 0000} visited. Good to meet you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0034",
+            "en_US": [
+                "Ryder: Hyah! Hyah! Hyah!{VAR BE01}\n",
+                "When the air is this fresh,\n",
+                "it gives you extra power for training!{VAR BE01}\n",
+                "But it is a bit of a problem not to have\n",
+                "a sparring partner!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0035",
+            "en_US": [
+                "Hyah... Hyah? Hyah?{VAR BE01}\n",
+                "I've been having trouble lately\n",
+                "getting into my training...{VAR BE01}\n",
+                "Maybe Black City suits me better...\n"
+            ]
+        },
+        {
+            "id": "a003_466_0036",
+            "en_US": [
+                "When I was practicing forehand strikes\n",
+                "with my Pokémon, a Machop was watching{VAR BE00}\n",
+                "us in envy. Why don't you go look for it?"
+            ]
+        },
+        {
+            "id": "a003_466_0037",
+            "en_US": [
+                "Karenna: I got here from Black City\n",
+                "as fast as I could!{VAR BE01}\n",
+                "I'm impressed by how {VAR 0100 0000} fights,\n",
+                "and I know I still have a long way to go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0038",
+            "en_US": [
+                "Karenna: Keep going! Yeah!\n",
+                "My Pokémon and I are running!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0039",
+            "en_US": [
+                "Phew... I'm tired of running!{VAR BE01}\n",
+                "Time for another battle!\n",
+                "For that, back to Black City!"
+            ]
+        },
+        {
+            "id": "a003_466_0040",
+            "en_US": [
+                "Oh. Are you going to run with me?{VAR BE01}\n",
+                "I just saw a wild Slakoth.\n",
+                "If we go running, maybe you'll meet it."
+            ]
+        },
+        {
+            "id": "a003_466_0041",
+            "en_US": [
+                "Doug: Hello, hello! I'm Doug!!\n",
+                "I came from Black City.{VAR BE00}\n",
+                "I'm an acquaintance of {VAR 0100 0000}.{VAR BE01}\n",
+                "Now, there's someone who has furious\n",
+                "Pokémon battles!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0042",
+            "en_US": [
+                "Doug: When I'm surrounded\n",
+                "by nature, I work!{VAR BE00}\n",
+                "It's coming along pretty well!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0043",
+            "en_US": [
+                "So, I've had a lot of fresh air,\n",
+                "and I think I'm well refreshed!{VAR BE01}\n",
+                "I have a lot of other work to do,\n",
+                "so I want to go to Black City."
+            ]
+        },
+        {
+            "id": "a003_466_0044",
+            "en_US": [
+                "Recently, I saw a Shinx in this area!\n",
+                "Yes, just being here refreshes me!"
+            ]
+        },
+        {
+            "id": "a003_466_0045",
+            "en_US": [
+                "Vincent: Hey, how are you?{VAR BE01}\n",
+                "In Black City, I was {VAR 0100 0000}'s\n",
+                "sparring partner.{VAR BE01}\n",
+                "Not too bad of a Trainer, I'd say,\n",
+                "but not as strong as I am.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0046",
+            "en_US": [
+                "Vincent: The vastness of nature\n",
+                "spices up my life!{VAR BE01}\n",
+                "Yeah, I really have taken a liking to\n",
+                "this place.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0047",
+            "en_US": [
+                "Well, you know, I was born and raised in\n",
+                "the city, so maybe I should go home soon."
+            ]
+        },
+        {
+            "id": "a003_466_0048",
+            "en_US": [
+                "Recently a Magby was staring at me from\n",
+                "over there!{VAR BE01}\n",
+                "It ran as soon as our gazes met.\n",
+                "If it likes me, it should let me know!"
+            ]
+        },
+        {
+            "id": "a003_466_0049",
+            "en_US": [
+                "Marie: The oxygen is so rich!\n",
+                "Just like {VAR 0100 0000} said!{VAR BE01}\n",
+                "In a place like this, I'm sure I can focus\n",
+                "and write my paper!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0050",
+            "en_US": [
+                "Marie: Fresh air and a good paper...\n",
+                "Once I write it, I'll present it in{VAR BE00}\n",
+                "Black City!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0051",
+            "en_US": [
+                "I'm good and refreshed, so I\n",
+                "want to go back to Black City."
+            ]
+        },
+        {
+            "id": "a003_466_0052",
+            "en_US": [
+                "A few seconds ago, when I was doing some\n",
+                "deep-breathing exercises, I saw a{VAR BE00}\n",
+                "Magnemite imitating me! It made me laugh."
+            ]
+        },
+        {
+            "id": "a003_466_0053",
+            "en_US": [
+                "Lena: {VAR 0100 0000}...?\n",
+                "Sorry. You look like someone I know...{VAR BE01}\n",
+                "A person I met in Black City and had a\n",
+                "Pokémon battle with...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0054",
+            "en_US": [
+                "Lena: The plants grow thick and green\n",
+                "with the blessing of the soil.{VAR BE00}\n",
+                "I want to be thankful for this as I walk.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0055",
+            "en_US": [
+                "People are drawn to man-made things.\n",
+                "I miss Black City..."
+            ]
+        },
+        {
+            "id": "a003_466_0056",
+            "en_US": [
+                "It's so peaceful here. I love listening to\n",
+                "the Grass-type Pokémon breathing and{VAR BE00}\n",
+                "the bird Pokémon chirping...{VAR BE01}\n",
+                "Did you notice? A Ralts just ran past\n",
+                "right behind you."
+            ]
+        },
+        {
+            "id": "a003_466_0057",
+            "en_US": [
+                "Carlos: Oh! Hello!\n",
+                "There is so much to see here!{VAR BE01}\n",
+                "I just came from Black City, where I met\n",
+                "a Trainer named {VAR 0100 0000}{VAR BE00}\n",
+                "who was very strong. It was fun!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0058",
+            "en_US": [
+                "Carlos: Oh! Hello!{VAR BE01}\n",
+                "I've traveled in many places, but places\n",
+                "this close to nature are very rare!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0059",
+            "en_US": [
+                "But, hmmm... I think it's about time\n",
+                "to head somewhere else."
+            ]
+        },
+        {
+            "id": "a003_466_0060",
+            "en_US": [
+                "Starly!{VAR BE01}\n",
+                "Starly was just there!\n",
+                "Why don't you go look for it?"
+            ]
+        },
+        {
+            "id": "a003_466_0061",
+            "en_US": [
+                "Molly: So this is White Forest!\n",
+                "It's very different from Black City!{VAR BE01}\n",
+                "Hey, do you know a Trainer named\n",
+                "{VAR 0100 0000} who is really strong?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0062",
+            "en_US": [
+                "Molly: I've been traveling, and I've seen\n",
+                "a lot of places, but I have never seen{VAR BE00}\n",
+                "a place this pretty before!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0063",
+            "en_US": [
+                "This is a pretty place, but maybe\n",
+                "a little boring..."
+            ]
+        },
+        {
+            "id": "a003_466_0064",
+            "en_US": [
+                "Oh, that's right! An Azurill was running\n",
+                "happily toward the grass!{VAR BE01}\n",
+                "Maybe I should run with the Pokémon\n",
+                "in the grass!"
+            ]
+        },
+        {
+            "id": "a003_466_0065",
+            "en_US": [
+                "Frederic: {VAR 0100 0000}?!{VAR BE01}\n",
+                "...Oh! My mistake!{VAR BE01}\n",
+                "I'm very frustrated at losing our\n",
+                "Pokémon battle, so I want a rematch{VAR BE00}\n",
+                "the next time I see that Trainer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0066",
+            "en_US": [
+                "Frederic: Oh... Have a look at this!\n",
+                "My Pokémon is so happy!{VAR BE01}\n",
+                "Pokémon love nature, but...\n",
+                "I'm the complete opposite!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0067",
+            "en_US": [
+                "Well, my Pokémon is having fun, but\n",
+                "I'm starving for some excitement."
+            ]
+        },
+        {
+            "id": "a003_466_0068",
+            "en_US": [
+                "Just a second ago, my Pokémon was\n",
+                "playing with a wild Budew.{VAR BE01}\n",
+                "It ran away when it saw me, but\n",
+                "it really looked like it was having fun!"
+            ]
+        },
+        {
+            "id": "a003_466_0069",
+            "en_US": [
+                "Lynette: How are you?{VAR BE01}\n",
+                "I was in Black City, and I got to battle\n",
+                "{VAR 0100 0000}, who was really strong!{VAR BE01}\n",
+                "It was wonderful.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0070",
+            "en_US": [
+                "Lynette: This environment with\n",
+                "nothing but nature is nice, too.{VAR BE00}\n",
+                "It's soothing.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0071",
+            "en_US": [
+                "But I'm a little tired of being out in\n",
+                "the countryside.{VAR BE01}\n",
+                "I want to spend time in a place where\n",
+                "there is more stuff."
+            ]
+        },
+        {
+            "id": "a003_466_0072",
+            "en_US": [
+                "I saw an Oddish today!{VAR BE01}\n",
+                "I haven't really seen one before,\n",
+                "so I was fascinated!"
+            ]
+        },
+        {
+            "id": "a003_466_0073",
+            "en_US": [
+                "Pierce: Until recently, I was in\n",
+                "Black City. I also battled with{VAR BE00}\n",
+                "{VAR 0100 0000} there.{VAR BE01}\n",
+                "I suspect {VAR 0100 0000} likes White\n",
+                "Forest more than you might suspect.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0074",
+            "en_US": [
+                "Pierce: Living simply among\n",
+                "nature and enjoying your own life...{VAR BE01}\n",
+                "I think that is not a bad way to live.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0075",
+            "en_US": [
+                "Hmmm...{VAR BE01}\n",
+                "But I might be getting tired of\n",
+                "the slow life..."
+            ]
+        },
+        {
+            "id": "a003_466_0076",
+            "en_US": [
+                "Today, I saw a Mareep!{VAR BE01}\n",
+                "That's something you could\n",
+                "only see in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_466_0077",
+            "en_US": [
+                "Gene: Nature is great! But I remember\n",
+                "Black City sometimes.{VAR BE01}\n",
+                "My battle with {VAR 0100 0000} is an\n",
+                "important memory!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0078",
+            "en_US": [
+                "Gene: My hobby is meeting Pokémon\n",
+                "in their natural habitat!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0079",
+            "en_US": [
+                "But recently, I've been thinking I want\n",
+                "to test the strength of the Pokémon{VAR BE00}\n",
+                "I've met."
+            ]
+        },
+        {
+            "id": "a003_466_0080",
+            "en_US": [
+                "I met an Aron today! It was really lucky!{VAR BE01}\n",
+                "White Forest definitely fits me\n",
+                "like a glove!"
+            ]
+        },
+        {
+            "id": "a003_466_0081",
+            "en_US": [
+                "Piper: The natural surroundings here are\n",
+                "very comfortable.{VAR BE01}\n",
+                "Until recently, I was in Black City, and\n",
+                "{VAR 0100 0000}'s battling style was{VAR BE00}\n",
+                "fairly efficient.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0082",
+            "en_US": [
+                "Piper: Leisurely time passed together\n",
+                "with Pokémon...{VAR BE00}\n",
+                "Things like that are important.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0083",
+            "en_US": [
+                "But recently, for some reason, leisurely\n",
+                "passing time like this makes me feel{VAR BE00}\n",
+                "a little impatient."
+            ]
+        },
+        {
+            "id": "a003_466_0084",
+            "en_US": [
+                "I spent today with a Bellsprout!\n",
+                "It was a precious experience!"
+            ]
+        },
+        {
+            "id": "a003_466_0085",
+            "en_US": [
+                "Miho: Pokémon in White Forest\n",
+                "are so adorable!{VAR BE01}\n",
+                "But {VAR 0100 0000}, who I met in\n",
+                "Black City, was pretty cute too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0086",
+            "en_US": [
+                "Miho: Pokémon and this expansive nature!{VAR BE01}\n",
+                "Everyone is in their natural state,\n",
+                "and I think it's wonderful!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0087",
+            "en_US": [
+                "But I might need a little more\n",
+                "than just nature.{VAR BE00}\n",
+                "I have to find more things I want to do!"
+            ]
+        },
+        {
+            "id": "a003_466_0088",
+            "en_US": [
+                "In nature, Seedot and people can\n",
+                "become friends...{VAR BE00}\n",
+                "That sure is a wonderful thing, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_466_0089",
+            "en_US": [
+                "Shane: Everyone is very honest\n",
+                "in White Forest.{VAR BE01}\n",
+                "I wonder if {VAR 0100 0000}, who I just met\n",
+                "in Black City, will like White Forest more{VAR BE00}\n",
+                "than you might expect.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0090",
+            "en_US": [
+                "Shane: Here both Pokémon and\n",
+                "people can just be themselves.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0091",
+            "en_US": [
+                "But I'm worried about how this\n",
+                "more honest me will be seen."
+            ]
+        },
+        {
+            "id": "a003_466_0092",
+            "en_US": [
+                "I just saw a Rhyhorn over there!\n",
+                "A Rhyhorn in its natural state... Wow!"
+            ]
+        },
+        {
+            "id": "a003_466_0093",
+            "en_US": [
+                "Ralph: In White Forest, it's fun how\n",
+                "people and Pokémon can deal with{VAR BE00}\n",
+                "one another directly.{VAR BE01}\n",
+                "Before, in Black City, I battled\n",
+                "{VAR 0100 0000}, and we were able to show{VAR BE00}\n",
+                "each other how we felt!{VAR BE01}\n",
+                "That was fun, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0094",
+            "en_US": [
+                "Ralph: I want Pokémon and people to be\n",
+                "able to face each other directly and{VAR BE00}\n",
+                "understand one another.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0095",
+            "en_US": [
+                "But I also think I want to promptly\n",
+                "be able to show people how I feel!"
+            ]
+        },
+        {
+            "id": "a003_466_0096",
+            "en_US": [
+                "I met a Lotad over there today!{VAR BE01}\n",
+                "We communicated our feelings to each\n",
+                "other, and I'm still awed by the memory."
+            ]
+        },
+        {
+            "id": "a003_466_0097",
+            "en_US": [
+                "Eliza: A lifestyle where you encounter\n",
+                "nature is fulfilling.{VAR BE01}\n",
+                "But when I had a Pokémon battle with\n",
+                "{VAR 0100 0000} in Black City, something{VAR BE00}\n",
+                "about that made me feel fulfilled, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0098",
+            "en_US": [
+                "Eliza: When you encounter nature,\n",
+                "your heart becomes that much richer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0099",
+            "en_US": [
+                "But...{VAR BE01}\n",
+                "Just looking at nature doesn't fulfill\n",
+                "your spirit.{VAR BE01}\n",
+                "That's what I've been thinking recently."
+            ]
+        },
+        {
+            "id": "a003_466_0100",
+            "en_US": [
+                "I saw a Trapinch, and it made\n",
+                "my heart happy."
+            ]
+        },
+        {
+            "id": "a003_466_0101",
+            "en_US": [
+                "Collin: My success story begins here!{VAR BE01}\n",
+                "In Black City, I had a rival named\n",
+                "{VAR 0100 0000}, but I don't have one here!{VAR BE01}\n",
+                "I'm going to make a fortune!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0102",
+            "en_US": [
+                "Collin: I like how everyone here looks\n",
+                "so happy!{VAR BE01}\n",
+                "I want to make them even happier with\n",
+                "my business!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0103",
+            "en_US": [
+                "Business opportunities don't just come\n",
+                "rolling at you so easily.{VAR BE01}\n",
+                "Ahh... I feel like Black City may be a\n",
+                "better fit for me..."
+            ]
+        },
+        {
+            "id": "a003_466_0104",
+            "en_US": [
+                "Successful people are always looking up!{VAR BE01}\n",
+                "So I was looking up while I was walking,\n",
+                "and I accidentally walked into an Abra.{VAR BE00}\n",
+                "Sorry, Abra!"
+            ]
+        },
+        {
+            "id": "a003_466_0105",
+            "en_US": [
+                "Ken: I feel that I've grown as a Trainer\n",
+                "who can look at Pokémon with a{VAR BE00}\n",
+                "broad mindset.{VAR BE01}\n",
+                "I wonder how {VAR 0100 0000}, who I met in\n",
+                "Black City, is doing these days.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0106",
+            "en_US": [
+                "Ken: Studying many different Pokémon and\n",
+                "gaining a lot of far-reaching knowledge{VAR BE00}\n",
+                "widens your world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0107",
+            "en_US": [
+                "But now I'm thinking I'd rather think\n",
+                "about just one thing very deeply."
+            ]
+        },
+        {
+            "id": "a003_466_0108",
+            "en_US": [
+                "When you have a broad mindset, you\n",
+                "notice things about nature and yourself{VAR BE00}\n",
+                "and about yourself and Pokémon.{VAR BE01}\n",
+                "I thought that when I saw a Nidoran⑭\n",
+                "over there recently."
+            ]
+        },
+        {
+            "id": "a003_466_0109",
+            "en_US": [
+                "Jacques: When you see how many different\n",
+                "Pokémon there are in the world, you{VAR BE00}\n",
+                "understand there are lots of different{VAR BE00}\n",
+                "answers to problems, too.{VAR BE01}\n",
+                "When I met {VAR 0100 0000} in Black City, I\n",
+                "felt that Trainer’s way of thinking was{VAR BE00}\n",
+                "one of those answers.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0110",
+            "en_US": [
+                "Jacques: Several different answers\n",
+                "exist for each problem.{VAR BE01}\n",
+                "Watching different Pokémon makes me feel\n",
+                "that way.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0111",
+            "en_US": [
+                "But I want to study something\n",
+                "with a more clear, definite answer..."
+            ]
+        },
+        {
+            "id": "a003_466_0112",
+            "en_US": [
+                "A variety of Pokémon,\n",
+                "a variety of answers.{VAR BE00}\n",
+                "All of them equally valid.{VAR BE01}\n",
+                "I thought that when I saw a\n",
+                "Nidoran⑮ over there recently."
+            ]
+        },
+        {
+            "id": "a003_466_0113",
+            "en_US": [
+                "Rosa: Here, you can feel growth from\n",
+                "day to day.{VAR BE01}\n",
+                "Before, in Black City, when I battled\n",
+                "{VAR 0100 0000}, I thought I hadn't grown{VAR BE00}\n",
+                "at all.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0114",
+            "en_US": [
+                "Rosa: Watching the growth of nature lets\n",
+                "you feel some kind of growth every day.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0115",
+            "en_US": [
+                "Well, that may be true, but just watching\n",
+                "nature gets boring sometimes.{VAR BE01}\n",
+                "I don't have anything to do."
+            ]
+        },
+        {
+            "id": "a003_466_0116",
+            "en_US": [
+                "Every day of being alive means many small\n",
+                "changes that give the day meaning.{VAR BE01}\n",
+                "I thought that when I saw\n",
+                "a Whismur recently."
+            ]
+        },
+        {
+            "id": "a003_466_0117",
+            "en_US": [
+                "Herman: I've settled in here now, but\n",
+                "before, when I lived in Black City...{VAR BE01}\n",
+                "Pokémon battles with {VAR 0100 0000}\n",
+                "sure were fun!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0118",
+            "en_US": [
+                "Herman: Living here, surrounded by\n",
+                "nature, is very calming.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0119",
+            "en_US": [
+                "But it's not like me to stay\n",
+                "in one place forever."
+            ]
+        },
+        {
+            "id": "a003_466_0120",
+            "en_US": [
+                "Oh yeah... I just saw a Porygon!{VAR BE01}\n",
+                "So strange to see one here... It must\n",
+                "have taken a liking to the forest.{VAR BE01}\n",
+                "I want to live the slow life here, too!"
+            ]
+        },
+        {
+            "id": "a003_466_0121",
+            "en_US": [
+                "Emi: Right now, I'm on a leisurely\n",
+                "journey, but before that, I had a goal:{VAR BE00}\n",
+                "to win against {VAR 0100 0000} in Black City.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0122",
+            "en_US": [
+                "Emi: It's fun to travel as you like, with\n",
+                "no particular goal in mind.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0123",
+            "en_US": [
+                "But maybe it's better to have at least\n",
+                "some idea of where you're going?"
+            ]
+        },
+        {
+            "id": "a003_466_0124",
+            "en_US": [
+                "In my travels through this forest, I met\n",
+                "a Happiny! I was so happy!"
+            ]
+        },
+        {
+            "id": "a003_466_0125",
+            "en_US": [
+                "Grace: The beauty of the Pokémon battle\n",
+                "I had with {VAR 0100 0000} in Black City{VAR BE00}\n",
+                "can stand up to the beauty of nature!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0126",
+            "en_US": [
+                "Grace: The beauty created by nature...\n",
+                "Its grandness exceeds human imagination.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_466_0127",
+            "en_US": [
+                "The beauty I want to see right now is the\n",
+                "artistry of human hands.{VAR BE00}\n",
+                "I can't satisfy that craving here."
+            ]
+        },
+        {
+            "id": "a003_466_0128",
+            "en_US": [
+                "The beauty of the Bagon I just saw was\n",
+                "natural and good..."
+            ]
+        },
+        {
+            "id": "a003_466_0129",
+            "en_US": [
+                "White Forest\n",
+                "People and Nature in Harmony"
+            ],
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_350_0000",
+            "en_US": [
+                "There is nothing of interest beyond here,\n",
+                "and the electric bulletin board has gone{VAR BE00}\n",
+                "pitch black.{VAR BE01}\n",
+                "Kind of refreshing, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_350_0001",
+            "en_US": [
+                "Wasting money is bad, but wasting time\n",
+                "is even worse!{VAR BE01}\n",
+                "Because there are some things that can\n",
+                "only be done now!"
+            ]
+        }
+    ]
+}

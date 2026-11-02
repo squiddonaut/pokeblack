@@ -1,0 +1,150 @@
+{
+    "flags": 224,
+    "pad": "2626",
+    "messages": [
+        {
+            "id": "a003_221_0000",
+            "en_US": [
+                "N:{VAR BE09 0001} What do you think, {VAR 0100 0000}?{VAR BE01}\n",
+                "How do you like the beautiful form of the\n",
+                "Pokémon who appears before and fights{VAR BE00}\n",
+                "beside the hero that will lead the way to{VAR BE00}\n",
+                "a new world?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0001",
+            "en_US": [
+                "N:{VAR BE09 0001} What do you think, {VAR 0100 0000}?{VAR BE01}\n",
+                "How do you like the powerful form of the\n",
+                "Pokémon who appears before and fights{VAR BE00}\n",
+                "beside the hero that will lead the way to{VAR BE00}\n",
+                "a new world?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0002",
+            "en_US": [
+                "{VAR BE09 0001}Now, Reshiram and I will head to the\n",
+                "Pokémon League and defeat the Champion!{VAR BE01}\n",
+                "This will be the last of the Pokémon\n",
+                "battles that hurt Pokémon so.{VAR BE01}\n",
+                "A world for Pokémon alone...\n",
+                "It's finally going to be a reality.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0003",
+            "en_US": [
+                "{VAR BE09 0001}Now, Zekrom and I will head to the\n",
+                "Pokémon League and defeat the Champion!{VAR BE01}\n",
+                "This will be the last of the Pokémon\n",
+                "battles that hurt Pokémon so.{VAR BE01}\n",
+                "A world for Pokémon alone...\n",
+                "It's finally going to be a reality.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0004",
+            "en_US": [
+                "{VAR BE09 0001}If you want to stop me, you must become\n",
+                "a hero as well!{VAR BE01}\n",
+                "That's right! When Reshiram's\n",
+                "counterpart, Zekrom, recognizes you, we{VAR BE00}\n",
+                "will finally be even, and then you can try{VAR BE00}\n",
+                "to stop us!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0005",
+            "en_US": [
+                "{VAR BE09 0001}If you want to stop me, you must become\n",
+                "a hero as well!{VAR BE01}\n",
+                "That's right! When Zekrom's\n",
+                "counterpart, Reshiram, recognizes you,{VAR BE00}\n",
+                "we will finally be even, and then you can{VAR BE00}\n",
+                "try to stop us!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0006",
+            "en_US": [
+                "{VAR BE09 0001}Well, what will you do?{VAR BE01}\n",
+                "My prediction... If the future that I see\n",
+                "is true, you will meet Zekrom.{VAR BE01}\n",
+                "The Pokémon with you believe in you so\n",
+                "strongly... Will you be the one{VAR BE00}\n",
+                "who interferes with my formula{VAR BE00}\n",
+                "for changing the world?{VAR BE01}\n",
+                "If you want to protect the bonds\n",
+                "between Pokémon and people, you must{VAR BE00}\n",
+                "search for Zekrom!{VAR BE01}\n",
+                "I'm sure it is waiting for you in the form\n",
+                "of the Dark Stone.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0007",
+            "en_US": [
+                "{VAR BE09 0001}Well, what will you do?{VAR BE01}\n",
+                "My prediction... If the future that I see\n",
+                "is true, you will meet Reshiram.{VAR BE01}\n",
+                "The Pokémon with you believe in you so\n",
+                "strongly... Will you be the one{VAR BE00}\n",
+                "who interferes with my formula{VAR BE00}\n",
+                "for changing the world?{VAR BE01}\n",
+                "If you want to protect the bonds\n",
+                "between Pokémon and people, you must{VAR BE00}\n",
+                "search for Reshiram!{VAR BE01}\n",
+                "I'm sure it is waiting for you in the form\n",
+                "of the Light Stone.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0008",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, did you see what\n",
+                "flew off just now?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0009",
+            "en_US": "Brycen: How could this happen?{VAR BE01}"
+        },
+        {
+            "id": "a003_221_0010",
+            "en_US": [
+                "Cheren: Why? That was that guy N, right?\n",
+                "Why was he with the legendary Pokémon?{VAR BE01}\n",
+                "He couldn't really be the hero,\n",
+                "could he?!{VAR BE01}\n",
+                "Also, did I hear him tell you to search\n",
+                "for the other legendary Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0011",
+            "en_US": [
+                "Brycen: Calm down! First, we go back!{VAR BE01}\n",
+                "It's more important to decide what to do\n",
+                "next than analyze what just happened.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_221_0012",
+            "en_US": "Preeeeaah!"
+        },
+        {
+            "id": "a003_221_0013",
+            "en_US": "Reshiram went flying off somewhere..."
+        },
+        {
+            "id": "a003_221_0014",
+            "en_US": "Bazzazzazzash!"
+        },
+        {
+            "id": "a003_221_0015",
+            "en_US": "Zekrom went flying off somewhere..."
+        }
+    ]
+}

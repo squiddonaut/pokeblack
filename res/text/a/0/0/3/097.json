@@ -1,0 +1,48 @@
+{
+    "flags": 224,
+    "pad": "f2f2",
+    "messages": [
+        {
+            "id": "a003_097_0000",
+            "en_US": [
+                "This way leads to Route 16\n",
+                "and Marvelous Bridge!"
+            ]
+        },
+        {
+            "id": "a003_097_0001",
+            "en_US": [
+                "A camper has been parked in\n",
+                "Lostlorn Forest on Route 16.{VAR BE01}\n",
+                "I wonder how long it's been there."
+            ]
+        },
+        {
+            "id": "a003_097_0002",
+            "en_US": [
+                "Zoroark bewitched everyone and was\n",
+                "hiding itself and its habitat."
+            ]
+        },
+        {
+            "id": "a003_097_0003",
+            "en_US": [
+                "Let's train Pokémon vigorously!{VAR BE01}\n",
+                "You, who like training, and you, who\n",
+                "don't like training!{VAR BE01}\n",
+                "Let's train our Pokémon by giving\n",
+                "them these!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_097_0004",
+            "en_US": [
+                "A Pokémon's Speed decreases when it\n",
+                "holds a Macho Brace, but it{VAR BE00}\n",
+                "grows stronger!{VAR BE01}\n",
+                "It's a tool that is a bit difficult to use,\n",
+                "but that's the way it goes!"
+            ]
+        }
+    ]
+}

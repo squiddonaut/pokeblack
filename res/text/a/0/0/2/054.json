@@ -1,0 +1,2513 @@
+{
+    "flags": 96,
+    "messages": [
+        {
+            "id": "a002_054_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_054_0001",
+            "en_US": "Master Ball"
+        },
+        {
+            "id": "a002_054_0002",
+            "en_US": "Ultra Ball"
+        },
+        {
+            "id": "a002_054_0003",
+            "en_US": "Great Ball"
+        },
+        {
+            "id": "a002_054_0004",
+            "en_US": "Poké Ball"
+        },
+        {
+            "id": "a002_054_0005",
+            "en_US": "Safari Ball"
+        },
+        {
+            "id": "a002_054_0006",
+            "en_US": "Net Ball"
+        },
+        {
+            "id": "a002_054_0007",
+            "en_US": "Dive Ball"
+        },
+        {
+            "id": "a002_054_0008",
+            "en_US": "Nest Ball"
+        },
+        {
+            "id": "a002_054_0009",
+            "en_US": "Repeat Ball"
+        },
+        {
+            "id": "a002_054_0010",
+            "en_US": "Timer Ball"
+        },
+        {
+            "id": "a002_054_0011",
+            "en_US": "Luxury Ball"
+        },
+        {
+            "id": "a002_054_0012",
+            "en_US": "Premier Ball"
+        },
+        {
+            "id": "a002_054_0013",
+            "en_US": "Dusk Ball"
+        },
+        {
+            "id": "a002_054_0014",
+            "en_US": "Heal Ball"
+        },
+        {
+            "id": "a002_054_0015",
+            "en_US": "Quick Ball"
+        },
+        {
+            "id": "a002_054_0016",
+            "en_US": "Cherish Ball"
+        },
+        {
+            "id": "a002_054_0017",
+            "en_US": "Potion"
+        },
+        {
+            "id": "a002_054_0018",
+            "en_US": "Antidote"
+        },
+        {
+            "id": "a002_054_0019",
+            "en_US": "Burn Heal"
+        },
+        {
+            "id": "a002_054_0020",
+            "en_US": "Ice Heal"
+        },
+        {
+            "id": "a002_054_0021",
+            "en_US": "Awakening"
+        },
+        {
+            "id": "a002_054_0022",
+            "en_US": "Parlyz Heal"
+        },
+        {
+            "id": "a002_054_0023",
+            "en_US": "Full Restore"
+        },
+        {
+            "id": "a002_054_0024",
+            "en_US": "Max Potion"
+        },
+        {
+            "id": "a002_054_0025",
+            "en_US": "Hyper Potion"
+        },
+        {
+            "id": "a002_054_0026",
+            "en_US": "Super Potion"
+        },
+        {
+            "id": "a002_054_0027",
+            "en_US": "Full Heal"
+        },
+        {
+            "id": "a002_054_0028",
+            "en_US": "Revive"
+        },
+        {
+            "id": "a002_054_0029",
+            "en_US": "Max Revive"
+        },
+        {
+            "id": "a002_054_0030",
+            "en_US": "Fresh Water"
+        },
+        {
+            "id": "a002_054_0031",
+            "en_US": "Soda Pop"
+        },
+        {
+            "id": "a002_054_0032",
+            "en_US": "Lemonade"
+        },
+        {
+            "id": "a002_054_0033",
+            "en_US": "Moomoo Milk"
+        },
+        {
+            "id": "a002_054_0034",
+            "en_US": "EnergyPowder"
+        },
+        {
+            "id": "a002_054_0035",
+            "en_US": "Energy Root"
+        },
+        {
+            "id": "a002_054_0036",
+            "en_US": "Heal Powder"
+        },
+        {
+            "id": "a002_054_0037",
+            "en_US": "Revival Herb"
+        },
+        {
+            "id": "a002_054_0038",
+            "en_US": "Ether"
+        },
+        {
+            "id": "a002_054_0039",
+            "en_US": "Max Ether"
+        },
+        {
+            "id": "a002_054_0040",
+            "en_US": "Elixir"
+        },
+        {
+            "id": "a002_054_0041",
+            "en_US": "Max Elixir"
+        },
+        {
+            "id": "a002_054_0042",
+            "en_US": "Lava Cookie"
+        },
+        {
+            "id": "a002_054_0043",
+            "en_US": "Berry Juice"
+        },
+        {
+            "id": "a002_054_0044",
+            "en_US": "Sacred Ash"
+        },
+        {
+            "id": "a002_054_0045",
+            "en_US": "HP Up"
+        },
+        {
+            "id": "a002_054_0046",
+            "en_US": "Protein"
+        },
+        {
+            "id": "a002_054_0047",
+            "en_US": "Iron"
+        },
+        {
+            "id": "a002_054_0048",
+            "en_US": "Carbos"
+        },
+        {
+            "id": "a002_054_0049",
+            "en_US": "Calcium"
+        },
+        {
+            "id": "a002_054_0050",
+            "en_US": "Rare Candy"
+        },
+        {
+            "id": "a002_054_0051",
+            "en_US": "PP Up"
+        },
+        {
+            "id": "a002_054_0052",
+            "en_US": "Zinc"
+        },
+        {
+            "id": "a002_054_0053",
+            "en_US": "PP Max"
+        },
+        {
+            "id": "a002_054_0054",
+            "en_US": "Old Gateau"
+        },
+        {
+            "id": "a002_054_0055",
+            "en_US": "Guard Spec."
+        },
+        {
+            "id": "a002_054_0056",
+            "en_US": "Dire Hit"
+        },
+        {
+            "id": "a002_054_0057",
+            "en_US": "X Attack"
+        },
+        {
+            "id": "a002_054_0058",
+            "en_US": "X Defend"
+        },
+        {
+            "id": "a002_054_0059",
+            "en_US": "X Speed"
+        },
+        {
+            "id": "a002_054_0060",
+            "en_US": "X Accuracy"
+        },
+        {
+            "id": "a002_054_0061",
+            "en_US": "X Special"
+        },
+        {
+            "id": "a002_054_0062",
+            "en_US": "X Sp. Def"
+        },
+        {
+            "id": "a002_054_0063",
+            "en_US": "Poké Doll"
+        },
+        {
+            "id": "a002_054_0064",
+            "en_US": "Fluffy Tail"
+        },
+        {
+            "id": "a002_054_0065",
+            "en_US": "Blue Flute"
+        },
+        {
+            "id": "a002_054_0066",
+            "en_US": "Yellow Flute"
+        },
+        {
+            "id": "a002_054_0067",
+            "en_US": "Red Flute"
+        },
+        {
+            "id": "a002_054_0068",
+            "en_US": "Black Flute"
+        },
+        {
+            "id": "a002_054_0069",
+            "en_US": "White Flute"
+        },
+        {
+            "id": "a002_054_0070",
+            "en_US": "Shoal Salt"
+        },
+        {
+            "id": "a002_054_0071",
+            "en_US": "Shoal Shell"
+        },
+        {
+            "id": "a002_054_0072",
+            "en_US": "Red Shard"
+        },
+        {
+            "id": "a002_054_0073",
+            "en_US": "Blue Shard"
+        },
+        {
+            "id": "a002_054_0074",
+            "en_US": "Yellow Shard"
+        },
+        {
+            "id": "a002_054_0075",
+            "en_US": "Green Shard"
+        },
+        {
+            "id": "a002_054_0076",
+            "en_US": "Super Repel"
+        },
+        {
+            "id": "a002_054_0077",
+            "en_US": "Max Repel"
+        },
+        {
+            "id": "a002_054_0078",
+            "en_US": "Escape Rope"
+        },
+        {
+            "id": "a002_054_0079",
+            "en_US": "Repel"
+        },
+        {
+            "id": "a002_054_0080",
+            "en_US": "Sun Stone"
+        },
+        {
+            "id": "a002_054_0081",
+            "en_US": "Moon Stone"
+        },
+        {
+            "id": "a002_054_0082",
+            "en_US": "Fire Stone"
+        },
+        {
+            "id": "a002_054_0083",
+            "en_US": "Thunderstone"
+        },
+        {
+            "id": "a002_054_0084",
+            "en_US": "Water Stone"
+        },
+        {
+            "id": "a002_054_0085",
+            "en_US": "Leaf Stone"
+        },
+        {
+            "id": "a002_054_0086",
+            "en_US": "TinyMushroom"
+        },
+        {
+            "id": "a002_054_0087",
+            "en_US": "Big Mushroom"
+        },
+        {
+            "id": "a002_054_0088",
+            "en_US": "Pearl"
+        },
+        {
+            "id": "a002_054_0089",
+            "en_US": "Big Pearl"
+        },
+        {
+            "id": "a002_054_0090",
+            "en_US": "Stardust"
+        },
+        {
+            "id": "a002_054_0091",
+            "en_US": "Star Piece"
+        },
+        {
+            "id": "a002_054_0092",
+            "en_US": "Nugget"
+        },
+        {
+            "id": "a002_054_0093",
+            "en_US": "Heart Scale"
+        },
+        {
+            "id": "a002_054_0094",
+            "en_US": "Honey"
+        },
+        {
+            "id": "a002_054_0095",
+            "en_US": "Growth Mulch"
+        },
+        {
+            "id": "a002_054_0096",
+            "en_US": "Damp Mulch"
+        },
+        {
+            "id": "a002_054_0097",
+            "en_US": "Stable Mulch"
+        },
+        {
+            "id": "a002_054_0098",
+            "en_US": "Gooey Mulch"
+        },
+        {
+            "id": "a002_054_0099",
+            "en_US": "Root Fossil"
+        },
+        {
+            "id": "a002_054_0100",
+            "en_US": "Claw Fossil"
+        },
+        {
+            "id": "a002_054_0101",
+            "en_US": "Helix Fossil"
+        },
+        {
+            "id": "a002_054_0102",
+            "en_US": "Dome Fossil"
+        },
+        {
+            "id": "a002_054_0103",
+            "en_US": "Old Amber"
+        },
+        {
+            "id": "a002_054_0104",
+            "en_US": "Armor Fossil"
+        },
+        {
+            "id": "a002_054_0105",
+            "en_US": "Skull Fossil"
+        },
+        {
+            "id": "a002_054_0106",
+            "en_US": "Rare Bone"
+        },
+        {
+            "id": "a002_054_0107",
+            "en_US": "Shiny Stone"
+        },
+        {
+            "id": "a002_054_0108",
+            "en_US": "Dusk Stone"
+        },
+        {
+            "id": "a002_054_0109",
+            "en_US": "Dawn Stone"
+        },
+        {
+            "id": "a002_054_0110",
+            "en_US": "Oval Stone"
+        },
+        {
+            "id": "a002_054_0111",
+            "en_US": "Odd Keystone"
+        },
+        {
+            "id": "a002_054_0112",
+            "en_US": "Griseous Orb"
+        },
+        {
+            "id": "a002_054_0113",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0114",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0115",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0116",
+            "en_US": "Douse Drive"
+        },
+        {
+            "id": "a002_054_0117",
+            "en_US": "Shock Drive"
+        },
+        {
+            "id": "a002_054_0118",
+            "en_US": "Burn Drive"
+        },
+        {
+            "id": "a002_054_0119",
+            "en_US": "Chill Drive"
+        },
+        {
+            "id": "a002_054_0120",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0121",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0122",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0123",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0124",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0125",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0126",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0127",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0128",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0129",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0130",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0131",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0132",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0133",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0134",
+            "en_US": "Sweet Heart"
+        },
+        {
+            "id": "a002_054_0135",
+            "en_US": "Adamant Orb"
+        },
+        {
+            "id": "a002_054_0136",
+            "en_US": "Lustrous Orb"
+        },
+        {
+            "id": "a002_054_0137",
+            "en_US": "Greet Mail"
+        },
+        {
+            "id": "a002_054_0138",
+            "en_US": "Favored Mail"
+        },
+        {
+            "id": "a002_054_0139",
+            "en_US": "RSVP Mail"
+        },
+        {
+            "id": "a002_054_0140",
+            "en_US": "Thanks Mail"
+        },
+        {
+            "id": "a002_054_0141",
+            "en_US": "Inquiry Mail"
+        },
+        {
+            "id": "a002_054_0142",
+            "en_US": "Like Mail"
+        },
+        {
+            "id": "a002_054_0143",
+            "en_US": "Reply Mail"
+        },
+        {
+            "id": "a002_054_0144",
+            "en_US": "BridgeMail S"
+        },
+        {
+            "id": "a002_054_0145",
+            "en_US": "BridgeMail D"
+        },
+        {
+            "id": "a002_054_0146",
+            "en_US": "BridgeMail T"
+        },
+        {
+            "id": "a002_054_0147",
+            "en_US": "BridgeMail V"
+        },
+        {
+            "id": "a002_054_0148",
+            "en_US": "BridgeMail M"
+        },
+        {
+            "id": "a002_054_0149",
+            "en_US": "Cheri Berry"
+        },
+        {
+            "id": "a002_054_0150",
+            "en_US": "Chesto Berry"
+        },
+        {
+            "id": "a002_054_0151",
+            "en_US": "Pecha Berry"
+        },
+        {
+            "id": "a002_054_0152",
+            "en_US": "Rawst Berry"
+        },
+        {
+            "id": "a002_054_0153",
+            "en_US": "Aspear Berry"
+        },
+        {
+            "id": "a002_054_0154",
+            "en_US": "Leppa Berry"
+        },
+        {
+            "id": "a002_054_0155",
+            "en_US": "Oran Berry"
+        },
+        {
+            "id": "a002_054_0156",
+            "en_US": "Persim Berry"
+        },
+        {
+            "id": "a002_054_0157",
+            "en_US": "Lum Berry"
+        },
+        {
+            "id": "a002_054_0158",
+            "en_US": "Sitrus Berry"
+        },
+        {
+            "id": "a002_054_0159",
+            "en_US": "Figy Berry"
+        },
+        {
+            "id": "a002_054_0160",
+            "en_US": "Wiki Berry"
+        },
+        {
+            "id": "a002_054_0161",
+            "en_US": "Mago Berry"
+        },
+        {
+            "id": "a002_054_0162",
+            "en_US": "Aguav Berry"
+        },
+        {
+            "id": "a002_054_0163",
+            "en_US": "Iapapa Berry"
+        },
+        {
+            "id": "a002_054_0164",
+            "en_US": "Razz Berry"
+        },
+        {
+            "id": "a002_054_0165",
+            "en_US": "Bluk Berry"
+        },
+        {
+            "id": "a002_054_0166",
+            "en_US": "Nanab Berry"
+        },
+        {
+            "id": "a002_054_0167",
+            "en_US": "Wepear Berry"
+        },
+        {
+            "id": "a002_054_0168",
+            "en_US": "Pinap Berry"
+        },
+        {
+            "id": "a002_054_0169",
+            "en_US": "Pomeg Berry"
+        },
+        {
+            "id": "a002_054_0170",
+            "en_US": "Kelpsy Berry"
+        },
+        {
+            "id": "a002_054_0171",
+            "en_US": "Qualot Berry"
+        },
+        {
+            "id": "a002_054_0172",
+            "en_US": "Hondew Berry"
+        },
+        {
+            "id": "a002_054_0173",
+            "en_US": "Grepa Berry"
+        },
+        {
+            "id": "a002_054_0174",
+            "en_US": "Tamato Berry"
+        },
+        {
+            "id": "a002_054_0175",
+            "en_US": "Cornn Berry"
+        },
+        {
+            "id": "a002_054_0176",
+            "en_US": "Magost Berry"
+        },
+        {
+            "id": "a002_054_0177",
+            "en_US": "Rabuta Berry"
+        },
+        {
+            "id": "a002_054_0178",
+            "en_US": "Nomel Berry"
+        },
+        {
+            "id": "a002_054_0179",
+            "en_US": "Spelon Berry"
+        },
+        {
+            "id": "a002_054_0180",
+            "en_US": "Pamtre Berry"
+        },
+        {
+            "id": "a002_054_0181",
+            "en_US": "Watmel Berry"
+        },
+        {
+            "id": "a002_054_0182",
+            "en_US": "Durin Berry"
+        },
+        {
+            "id": "a002_054_0183",
+            "en_US": "Belue Berry"
+        },
+        {
+            "id": "a002_054_0184",
+            "en_US": "Occa Berry"
+        },
+        {
+            "id": "a002_054_0185",
+            "en_US": "Passho Berry"
+        },
+        {
+            "id": "a002_054_0186",
+            "en_US": "Wacan Berry"
+        },
+        {
+            "id": "a002_054_0187",
+            "en_US": "Rindo Berry"
+        },
+        {
+            "id": "a002_054_0188",
+            "en_US": "Yache Berry"
+        },
+        {
+            "id": "a002_054_0189",
+            "en_US": "Chople Berry"
+        },
+        {
+            "id": "a002_054_0190",
+            "en_US": "Kebia Berry"
+        },
+        {
+            "id": "a002_054_0191",
+            "en_US": "Shuca Berry"
+        },
+        {
+            "id": "a002_054_0192",
+            "en_US": "Coba Berry"
+        },
+        {
+            "id": "a002_054_0193",
+            "en_US": "Payapa Berry"
+        },
+        {
+            "id": "a002_054_0194",
+            "en_US": "Tanga Berry"
+        },
+        {
+            "id": "a002_054_0195",
+            "en_US": "Charti Berry"
+        },
+        {
+            "id": "a002_054_0196",
+            "en_US": "Kasib Berry"
+        },
+        {
+            "id": "a002_054_0197",
+            "en_US": "Haban Berry"
+        },
+        {
+            "id": "a002_054_0198",
+            "en_US": "Colbur Berry"
+        },
+        {
+            "id": "a002_054_0199",
+            "en_US": "Babiri Berry"
+        },
+        {
+            "id": "a002_054_0200",
+            "en_US": "Chilan Berry"
+        },
+        {
+            "id": "a002_054_0201",
+            "en_US": "Liechi Berry"
+        },
+        {
+            "id": "a002_054_0202",
+            "en_US": "Ganlon Berry"
+        },
+        {
+            "id": "a002_054_0203",
+            "en_US": "Salac Berry"
+        },
+        {
+            "id": "a002_054_0204",
+            "en_US": "Petaya Berry"
+        },
+        {
+            "id": "a002_054_0205",
+            "en_US": "Apicot Berry"
+        },
+        {
+            "id": "a002_054_0206",
+            "en_US": "Lansat Berry"
+        },
+        {
+            "id": "a002_054_0207",
+            "en_US": "Starf Berry"
+        },
+        {
+            "id": "a002_054_0208",
+            "en_US": "Enigma Berry"
+        },
+        {
+            "id": "a002_054_0209",
+            "en_US": "Micle Berry"
+        },
+        {
+            "id": "a002_054_0210",
+            "en_US": "Custap Berry"
+        },
+        {
+            "id": "a002_054_0211",
+            "en_US": "Jaboca Berry"
+        },
+        {
+            "id": "a002_054_0212",
+            "en_US": "Rowap Berry"
+        },
+        {
+            "id": "a002_054_0213",
+            "en_US": "BrightPowder"
+        },
+        {
+            "id": "a002_054_0214",
+            "en_US": "White Herb"
+        },
+        {
+            "id": "a002_054_0215",
+            "en_US": "Macho Brace"
+        },
+        {
+            "id": "a002_054_0216",
+            "en_US": "Exp. Share"
+        },
+        {
+            "id": "a002_054_0217",
+            "en_US": "Quick Claw"
+        },
+        {
+            "id": "a002_054_0218",
+            "en_US": "Soothe Bell"
+        },
+        {
+            "id": "a002_054_0219",
+            "en_US": "Mental Herb"
+        },
+        {
+            "id": "a002_054_0220",
+            "en_US": "Choice Band"
+        },
+        {
+            "id": "a002_054_0221",
+            "en_US": "King's Rock"
+        },
+        {
+            "id": "a002_054_0222",
+            "en_US": "SilverPowder"
+        },
+        {
+            "id": "a002_054_0223",
+            "en_US": "Amulet Coin"
+        },
+        {
+            "id": "a002_054_0224",
+            "en_US": "Cleanse Tag"
+        },
+        {
+            "id": "a002_054_0225",
+            "en_US": "Soul Dew"
+        },
+        {
+            "id": "a002_054_0226",
+            "en_US": "DeepSeaTooth"
+        },
+        {
+            "id": "a002_054_0227",
+            "en_US": "DeepSeaScale"
+        },
+        {
+            "id": "a002_054_0228",
+            "en_US": "Smoke Ball"
+        },
+        {
+            "id": "a002_054_0229",
+            "en_US": "Everstone"
+        },
+        {
+            "id": "a002_054_0230",
+            "en_US": "Focus Band"
+        },
+        {
+            "id": "a002_054_0231",
+            "en_US": "Lucky Egg"
+        },
+        {
+            "id": "a002_054_0232",
+            "en_US": "Scope Lens"
+        },
+        {
+            "id": "a002_054_0233",
+            "en_US": "Metal Coat"
+        },
+        {
+            "id": "a002_054_0234",
+            "en_US": "Leftovers"
+        },
+        {
+            "id": "a002_054_0235",
+            "en_US": "Dragon Scale"
+        },
+        {
+            "id": "a002_054_0236",
+            "en_US": "Light Ball"
+        },
+        {
+            "id": "a002_054_0237",
+            "en_US": "Soft Sand"
+        },
+        {
+            "id": "a002_054_0238",
+            "en_US": "Hard Stone"
+        },
+        {
+            "id": "a002_054_0239",
+            "en_US": "Miracle Seed"
+        },
+        {
+            "id": "a002_054_0240",
+            "en_US": "BlackGlasses"
+        },
+        {
+            "id": "a002_054_0241",
+            "en_US": "Black Belt"
+        },
+        {
+            "id": "a002_054_0242",
+            "en_US": "Magnet"
+        },
+        {
+            "id": "a002_054_0243",
+            "en_US": "Mystic Water"
+        },
+        {
+            "id": "a002_054_0244",
+            "en_US": "Sharp Beak"
+        },
+        {
+            "id": "a002_054_0245",
+            "en_US": "Poison Barb"
+        },
+        {
+            "id": "a002_054_0246",
+            "en_US": "NeverMeltIce"
+        },
+        {
+            "id": "a002_054_0247",
+            "en_US": "Spell Tag"
+        },
+        {
+            "id": "a002_054_0248",
+            "en_US": "TwistedSpoon"
+        },
+        {
+            "id": "a002_054_0249",
+            "en_US": "Charcoal"
+        },
+        {
+            "id": "a002_054_0250",
+            "en_US": "Dragon Fang"
+        },
+        {
+            "id": "a002_054_0251",
+            "en_US": "Silk Scarf"
+        },
+        {
+            "id": "a002_054_0252",
+            "en_US": "Up-Grade"
+        },
+        {
+            "id": "a002_054_0253",
+            "en_US": "Shell Bell"
+        },
+        {
+            "id": "a002_054_0254",
+            "en_US": "Sea Incense"
+        },
+        {
+            "id": "a002_054_0255",
+            "en_US": "Lax Incense"
+        },
+        {
+            "id": "a002_054_0256",
+            "en_US": "Lucky Punch"
+        },
+        {
+            "id": "a002_054_0257",
+            "en_US": "Metal Powder"
+        },
+        {
+            "id": "a002_054_0258",
+            "en_US": "Thick Club"
+        },
+        {
+            "id": "a002_054_0259",
+            "en_US": "Stick"
+        },
+        {
+            "id": "a002_054_0260",
+            "en_US": "Red Scarf"
+        },
+        {
+            "id": "a002_054_0261",
+            "en_US": "Blue Scarf"
+        },
+        {
+            "id": "a002_054_0262",
+            "en_US": "Pink Scarf"
+        },
+        {
+            "id": "a002_054_0263",
+            "en_US": "Green Scarf"
+        },
+        {
+            "id": "a002_054_0264",
+            "en_US": "Yellow Scarf"
+        },
+        {
+            "id": "a002_054_0265",
+            "en_US": "Wide Lens"
+        },
+        {
+            "id": "a002_054_0266",
+            "en_US": "Muscle Band"
+        },
+        {
+            "id": "a002_054_0267",
+            "en_US": "Wise Glasses"
+        },
+        {
+            "id": "a002_054_0268",
+            "en_US": "Expert Belt"
+        },
+        {
+            "id": "a002_054_0269",
+            "en_US": "Light Clay"
+        },
+        {
+            "id": "a002_054_0270",
+            "en_US": "Life Orb"
+        },
+        {
+            "id": "a002_054_0271",
+            "en_US": "Power Herb"
+        },
+        {
+            "id": "a002_054_0272",
+            "en_US": "Toxic Orb"
+        },
+        {
+            "id": "a002_054_0273",
+            "en_US": "Flame Orb"
+        },
+        {
+            "id": "a002_054_0274",
+            "en_US": "Quick Powder"
+        },
+        {
+            "id": "a002_054_0275",
+            "en_US": "Focus Sash"
+        },
+        {
+            "id": "a002_054_0276",
+            "en_US": "Zoom Lens"
+        },
+        {
+            "id": "a002_054_0277",
+            "en_US": "Metronome"
+        },
+        {
+            "id": "a002_054_0278",
+            "en_US": "Iron Ball"
+        },
+        {
+            "id": "a002_054_0279",
+            "en_US": "Lagging Tail"
+        },
+        {
+            "id": "a002_054_0280",
+            "en_US": "Destiny Knot"
+        },
+        {
+            "id": "a002_054_0281",
+            "en_US": "Black Sludge"
+        },
+        {
+            "id": "a002_054_0282",
+            "en_US": "Icy Rock"
+        },
+        {
+            "id": "a002_054_0283",
+            "en_US": "Smooth Rock"
+        },
+        {
+            "id": "a002_054_0284",
+            "en_US": "Heat Rock"
+        },
+        {
+            "id": "a002_054_0285",
+            "en_US": "Damp Rock"
+        },
+        {
+            "id": "a002_054_0286",
+            "en_US": "Grip Claw"
+        },
+        {
+            "id": "a002_054_0287",
+            "en_US": "Choice Scarf"
+        },
+        {
+            "id": "a002_054_0288",
+            "en_US": "Sticky Barb"
+        },
+        {
+            "id": "a002_054_0289",
+            "en_US": "Power Bracer"
+        },
+        {
+            "id": "a002_054_0290",
+            "en_US": "Power Belt"
+        },
+        {
+            "id": "a002_054_0291",
+            "en_US": "Power Lens"
+        },
+        {
+            "id": "a002_054_0292",
+            "en_US": "Power Band"
+        },
+        {
+            "id": "a002_054_0293",
+            "en_US": "Power Anklet"
+        },
+        {
+            "id": "a002_054_0294",
+            "en_US": "Power Weight"
+        },
+        {
+            "id": "a002_054_0295",
+            "en_US": "Shed Shell"
+        },
+        {
+            "id": "a002_054_0296",
+            "en_US": "Big Root"
+        },
+        {
+            "id": "a002_054_0297",
+            "en_US": "Choice Specs"
+        },
+        {
+            "id": "a002_054_0298",
+            "en_US": "Flame Plate"
+        },
+        {
+            "id": "a002_054_0299",
+            "en_US": "Splash Plate"
+        },
+        {
+            "id": "a002_054_0300",
+            "en_US": "Zap Plate"
+        },
+        {
+            "id": "a002_054_0301",
+            "en_US": "Meadow Plate"
+        },
+        {
+            "id": "a002_054_0302",
+            "en_US": "Icicle Plate"
+        },
+        {
+            "id": "a002_054_0303",
+            "en_US": "Fist Plate"
+        },
+        {
+            "id": "a002_054_0304",
+            "en_US": "Toxic Plate"
+        },
+        {
+            "id": "a002_054_0305",
+            "en_US": "Earth Plate"
+        },
+        {
+            "id": "a002_054_0306",
+            "en_US": "Sky Plate"
+        },
+        {
+            "id": "a002_054_0307",
+            "en_US": "Mind Plate"
+        },
+        {
+            "id": "a002_054_0308",
+            "en_US": "Insect Plate"
+        },
+        {
+            "id": "a002_054_0309",
+            "en_US": "Stone Plate"
+        },
+        {
+            "id": "a002_054_0310",
+            "en_US": "Spooky Plate"
+        },
+        {
+            "id": "a002_054_0311",
+            "en_US": "Draco Plate"
+        },
+        {
+            "id": "a002_054_0312",
+            "en_US": "Dread Plate"
+        },
+        {
+            "id": "a002_054_0313",
+            "en_US": "Iron Plate"
+        },
+        {
+            "id": "a002_054_0314",
+            "en_US": "Odd Incense"
+        },
+        {
+            "id": "a002_054_0315",
+            "en_US": "Rock Incense"
+        },
+        {
+            "id": "a002_054_0316",
+            "en_US": "Full Incense"
+        },
+        {
+            "id": "a002_054_0317",
+            "en_US": "Wave Incense"
+        },
+        {
+            "id": "a002_054_0318",
+            "en_US": "Rose Incense"
+        },
+        {
+            "id": "a002_054_0319",
+            "en_US": "Luck Incense"
+        },
+        {
+            "id": "a002_054_0320",
+            "en_US": "Pure Incense"
+        },
+        {
+            "id": "a002_054_0321",
+            "en_US": "Protector"
+        },
+        {
+            "id": "a002_054_0322",
+            "en_US": "Electirizer"
+        },
+        {
+            "id": "a002_054_0323",
+            "en_US": "Magmarizer"
+        },
+        {
+            "id": "a002_054_0324",
+            "en_US": "Dubious Disc"
+        },
+        {
+            "id": "a002_054_0325",
+            "en_US": "Reaper Cloth"
+        },
+        {
+            "id": "a002_054_0326",
+            "en_US": "Razor Claw"
+        },
+        {
+            "id": "a002_054_0327",
+            "en_US": "Razor Fang"
+        },
+        {
+            "id": "a002_054_0328",
+            "en_US": "TM01"
+        },
+        {
+            "id": "a002_054_0329",
+            "en_US": "TM02"
+        },
+        {
+            "id": "a002_054_0330",
+            "en_US": "TM03"
+        },
+        {
+            "id": "a002_054_0331",
+            "en_US": "TM04"
+        },
+        {
+            "id": "a002_054_0332",
+            "en_US": "TM05"
+        },
+        {
+            "id": "a002_054_0333",
+            "en_US": "TM06"
+        },
+        {
+            "id": "a002_054_0334",
+            "en_US": "TM07"
+        },
+        {
+            "id": "a002_054_0335",
+            "en_US": "TM08"
+        },
+        {
+            "id": "a002_054_0336",
+            "en_US": "TM09"
+        },
+        {
+            "id": "a002_054_0337",
+            "en_US": "TM10"
+        },
+        {
+            "id": "a002_054_0338",
+            "en_US": "TM11"
+        },
+        {
+            "id": "a002_054_0339",
+            "en_US": "TM12"
+        },
+        {
+            "id": "a002_054_0340",
+            "en_US": "TM13"
+        },
+        {
+            "id": "a002_054_0341",
+            "en_US": "TM14"
+        },
+        {
+            "id": "a002_054_0342",
+            "en_US": "TM15"
+        },
+        {
+            "id": "a002_054_0343",
+            "en_US": "TM16"
+        },
+        {
+            "id": "a002_054_0344",
+            "en_US": "TM17"
+        },
+        {
+            "id": "a002_054_0345",
+            "en_US": "TM18"
+        },
+        {
+            "id": "a002_054_0346",
+            "en_US": "TM19"
+        },
+        {
+            "id": "a002_054_0347",
+            "en_US": "TM20"
+        },
+        {
+            "id": "a002_054_0348",
+            "en_US": "TM21"
+        },
+        {
+            "id": "a002_054_0349",
+            "en_US": "TM22"
+        },
+        {
+            "id": "a002_054_0350",
+            "en_US": "TM23"
+        },
+        {
+            "id": "a002_054_0351",
+            "en_US": "TM24"
+        },
+        {
+            "id": "a002_054_0352",
+            "en_US": "TM25"
+        },
+        {
+            "id": "a002_054_0353",
+            "en_US": "TM26"
+        },
+        {
+            "id": "a002_054_0354",
+            "en_US": "TM27"
+        },
+        {
+            "id": "a002_054_0355",
+            "en_US": "TM28"
+        },
+        {
+            "id": "a002_054_0356",
+            "en_US": "TM29"
+        },
+        {
+            "id": "a002_054_0357",
+            "en_US": "TM30"
+        },
+        {
+            "id": "a002_054_0358",
+            "en_US": "TM31"
+        },
+        {
+            "id": "a002_054_0359",
+            "en_US": "TM32"
+        },
+        {
+            "id": "a002_054_0360",
+            "en_US": "TM33"
+        },
+        {
+            "id": "a002_054_0361",
+            "en_US": "TM34"
+        },
+        {
+            "id": "a002_054_0362",
+            "en_US": "TM35"
+        },
+        {
+            "id": "a002_054_0363",
+            "en_US": "TM36"
+        },
+        {
+            "id": "a002_054_0364",
+            "en_US": "TM37"
+        },
+        {
+            "id": "a002_054_0365",
+            "en_US": "TM38"
+        },
+        {
+            "id": "a002_054_0366",
+            "en_US": "TM39"
+        },
+        {
+            "id": "a002_054_0367",
+            "en_US": "TM40"
+        },
+        {
+            "id": "a002_054_0368",
+            "en_US": "TM41"
+        },
+        {
+            "id": "a002_054_0369",
+            "en_US": "TM42"
+        },
+        {
+            "id": "a002_054_0370",
+            "en_US": "TM43"
+        },
+        {
+            "id": "a002_054_0371",
+            "en_US": "TM44"
+        },
+        {
+            "id": "a002_054_0372",
+            "en_US": "TM45"
+        },
+        {
+            "id": "a002_054_0373",
+            "en_US": "TM46"
+        },
+        {
+            "id": "a002_054_0374",
+            "en_US": "TM47"
+        },
+        {
+            "id": "a002_054_0375",
+            "en_US": "TM48"
+        },
+        {
+            "id": "a002_054_0376",
+            "en_US": "TM49"
+        },
+        {
+            "id": "a002_054_0377",
+            "en_US": "TM50"
+        },
+        {
+            "id": "a002_054_0378",
+            "en_US": "TM51"
+        },
+        {
+            "id": "a002_054_0379",
+            "en_US": "TM52"
+        },
+        {
+            "id": "a002_054_0380",
+            "en_US": "TM53"
+        },
+        {
+            "id": "a002_054_0381",
+            "en_US": "TM54"
+        },
+        {
+            "id": "a002_054_0382",
+            "en_US": "TM55"
+        },
+        {
+            "id": "a002_054_0383",
+            "en_US": "TM56"
+        },
+        {
+            "id": "a002_054_0384",
+            "en_US": "TM57"
+        },
+        {
+            "id": "a002_054_0385",
+            "en_US": "TM58"
+        },
+        {
+            "id": "a002_054_0386",
+            "en_US": "TM59"
+        },
+        {
+            "id": "a002_054_0387",
+            "en_US": "TM60"
+        },
+        {
+            "id": "a002_054_0388",
+            "en_US": "TM61"
+        },
+        {
+            "id": "a002_054_0389",
+            "en_US": "TM62"
+        },
+        {
+            "id": "a002_054_0390",
+            "en_US": "TM63"
+        },
+        {
+            "id": "a002_054_0391",
+            "en_US": "TM64"
+        },
+        {
+            "id": "a002_054_0392",
+            "en_US": "TM65"
+        },
+        {
+            "id": "a002_054_0393",
+            "en_US": "TM66"
+        },
+        {
+            "id": "a002_054_0394",
+            "en_US": "TM67"
+        },
+        {
+            "id": "a002_054_0395",
+            "en_US": "TM68"
+        },
+        {
+            "id": "a002_054_0396",
+            "en_US": "TM69"
+        },
+        {
+            "id": "a002_054_0397",
+            "en_US": "TM70"
+        },
+        {
+            "id": "a002_054_0398",
+            "en_US": "TM71"
+        },
+        {
+            "id": "a002_054_0399",
+            "en_US": "TM72"
+        },
+        {
+            "id": "a002_054_0400",
+            "en_US": "TM73"
+        },
+        {
+            "id": "a002_054_0401",
+            "en_US": "TM74"
+        },
+        {
+            "id": "a002_054_0402",
+            "en_US": "TM75"
+        },
+        {
+            "id": "a002_054_0403",
+            "en_US": "TM76"
+        },
+        {
+            "id": "a002_054_0404",
+            "en_US": "TM77"
+        },
+        {
+            "id": "a002_054_0405",
+            "en_US": "TM78"
+        },
+        {
+            "id": "a002_054_0406",
+            "en_US": "TM79"
+        },
+        {
+            "id": "a002_054_0407",
+            "en_US": "TM80"
+        },
+        {
+            "id": "a002_054_0408",
+            "en_US": "TM81"
+        },
+        {
+            "id": "a002_054_0409",
+            "en_US": "TM82"
+        },
+        {
+            "id": "a002_054_0410",
+            "en_US": "TM83"
+        },
+        {
+            "id": "a002_054_0411",
+            "en_US": "TM84"
+        },
+        {
+            "id": "a002_054_0412",
+            "en_US": "TM85"
+        },
+        {
+            "id": "a002_054_0413",
+            "en_US": "TM86"
+        },
+        {
+            "id": "a002_054_0414",
+            "en_US": "TM87"
+        },
+        {
+            "id": "a002_054_0415",
+            "en_US": "TM88"
+        },
+        {
+            "id": "a002_054_0416",
+            "en_US": "TM89"
+        },
+        {
+            "id": "a002_054_0417",
+            "en_US": "TM90"
+        },
+        {
+            "id": "a002_054_0418",
+            "en_US": "TM91"
+        },
+        {
+            "id": "a002_054_0419",
+            "en_US": "TM92"
+        },
+        {
+            "id": "a002_054_0420",
+            "en_US": "HM01"
+        },
+        {
+            "id": "a002_054_0421",
+            "en_US": "HM02"
+        },
+        {
+            "id": "a002_054_0422",
+            "en_US": "HM03"
+        },
+        {
+            "id": "a002_054_0423",
+            "en_US": "HM04"
+        },
+        {
+            "id": "a002_054_0424",
+            "en_US": "HM05"
+        },
+        {
+            "id": "a002_054_0425",
+            "en_US": "HM06"
+        },
+        {
+            "id": "a002_054_0426",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0427",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0428",
+            "en_US": "Explorer Kit"
+        },
+        {
+            "id": "a002_054_0429",
+            "en_US": "Loot Sack"
+        },
+        {
+            "id": "a002_054_0430",
+            "en_US": "Rule Book"
+        },
+        {
+            "id": "a002_054_0431",
+            "en_US": "Poké Radar"
+        },
+        {
+            "id": "a002_054_0432",
+            "en_US": "Point Card"
+        },
+        {
+            "id": "a002_054_0433",
+            "en_US": "Journal"
+        },
+        {
+            "id": "a002_054_0434",
+            "en_US": "Seal Case"
+        },
+        {
+            "id": "a002_054_0435",
+            "en_US": "Fashion Case"
+        },
+        {
+            "id": "a002_054_0436",
+            "en_US": "Seal Bag"
+        },
+        {
+            "id": "a002_054_0437",
+            "en_US": "Pal Pad"
+        },
+        {
+            "id": "a002_054_0438",
+            "en_US": "Works Key"
+        },
+        {
+            "id": "a002_054_0439",
+            "en_US": "Old Charm"
+        },
+        {
+            "id": "a002_054_0440",
+            "en_US": "Galactic Key"
+        },
+        {
+            "id": "a002_054_0441",
+            "en_US": "Red Chain"
+        },
+        {
+            "id": "a002_054_0442",
+            "en_US": "Town Map"
+        },
+        {
+            "id": "a002_054_0443",
+            "en_US": "Vs. Seeker"
+        },
+        {
+            "id": "a002_054_0444",
+            "en_US": "Coin Case"
+        },
+        {
+            "id": "a002_054_0445",
+            "en_US": "Old Rod"
+        },
+        {
+            "id": "a002_054_0446",
+            "en_US": "Good Rod"
+        },
+        {
+            "id": "a002_054_0447",
+            "en_US": "Super Rod"
+        },
+        {
+            "id": "a002_054_0448",
+            "en_US": "Sprayduck"
+        },
+        {
+            "id": "a002_054_0449",
+            "en_US": "Poffin Case"
+        },
+        {
+            "id": "a002_054_0450",
+            "en_US": "Bicycle"
+        },
+        {
+            "id": "a002_054_0451",
+            "en_US": "Suite Key"
+        },
+        {
+            "id": "a002_054_0452",
+            "en_US": "Oak's Letter"
+        },
+        {
+            "id": "a002_054_0453",
+            "en_US": "Lunar Wing"
+        },
+        {
+            "id": "a002_054_0454",
+            "en_US": "Member Card"
+        },
+        {
+            "id": "a002_054_0455",
+            "en_US": "Azure Flute"
+        },
+        {
+            "id": "a002_054_0456",
+            "en_US": "S.S. Ticket"
+        },
+        {
+            "id": "a002_054_0457",
+            "en_US": "Contest Pass"
+        },
+        {
+            "id": "a002_054_0458",
+            "en_US": "Magma Stone"
+        },
+        {
+            "id": "a002_054_0459",
+            "en_US": "Parcel"
+        },
+        {
+            "id": "a002_054_0460",
+            "en_US": "Coupon 1"
+        },
+        {
+            "id": "a002_054_0461",
+            "en_US": "Coupon 2"
+        },
+        {
+            "id": "a002_054_0462",
+            "en_US": "Coupon 3"
+        },
+        {
+            "id": "a002_054_0463",
+            "en_US": "Storage Key"
+        },
+        {
+            "id": "a002_054_0464",
+            "en_US": "SecretPotion"
+        },
+        {
+            "id": "a002_054_0465",
+            "en_US": "Vs. Recorder"
+        },
+        {
+            "id": "a002_054_0466",
+            "en_US": "Gracidea"
+        },
+        {
+            "id": "a002_054_0467",
+            "en_US": "Secret Key"
+        },
+        {
+            "id": "a002_054_0468",
+            "en_US": "Apricorn Box"
+        },
+        {
+            "id": "a002_054_0469",
+            "en_US": "Unown Report"
+        },
+        {
+            "id": "a002_054_0470",
+            "en_US": "Berry Pots"
+        },
+        {
+            "id": "a002_054_0471",
+            "en_US": "Dowsing MCHN"
+        },
+        {
+            "id": "a002_054_0472",
+            "en_US": "Blue Card"
+        },
+        {
+            "id": "a002_054_0473",
+            "en_US": "SlowpokeTail"
+        },
+        {
+            "id": "a002_054_0474",
+            "en_US": "Clear Bell"
+        },
+        {
+            "id": "a002_054_0475",
+            "en_US": "Card Key"
+        },
+        {
+            "id": "a002_054_0476",
+            "en_US": "Basement Key"
+        },
+        {
+            "id": "a002_054_0477",
+            "en_US": "SquirtBottle"
+        },
+        {
+            "id": "a002_054_0478",
+            "en_US": "Red Scale"
+        },
+        {
+            "id": "a002_054_0479",
+            "en_US": "Lost Item"
+        },
+        {
+            "id": "a002_054_0480",
+            "en_US": "Pass"
+        },
+        {
+            "id": "a002_054_0481",
+            "en_US": "Machine Part"
+        },
+        {
+            "id": "a002_054_0482",
+            "en_US": "Silver Wing"
+        },
+        {
+            "id": "a002_054_0483",
+            "en_US": "Rainbow Wing"
+        },
+        {
+            "id": "a002_054_0484",
+            "en_US": "Mystery Egg"
+        },
+        {
+            "id": "a002_054_0485",
+            "en_US": "Red Apricorn"
+        },
+        {
+            "id": "a002_054_0486",
+            "en_US": "Blu Apricorn"
+        },
+        {
+            "id": "a002_054_0487",
+            "en_US": "Ylw Apricorn"
+        },
+        {
+            "id": "a002_054_0488",
+            "en_US": "Grn Apricorn"
+        },
+        {
+            "id": "a002_054_0489",
+            "en_US": "Pnk Apricorn"
+        },
+        {
+            "id": "a002_054_0490",
+            "en_US": "Wht Apricorn"
+        },
+        {
+            "id": "a002_054_0491",
+            "en_US": "Blk Apricorn"
+        },
+        {
+            "id": "a002_054_0492",
+            "en_US": "Fast Ball"
+        },
+        {
+            "id": "a002_054_0493",
+            "en_US": "Level Ball"
+        },
+        {
+            "id": "a002_054_0494",
+            "en_US": "Lure Ball"
+        },
+        {
+            "id": "a002_054_0495",
+            "en_US": "Heavy Ball"
+        },
+        {
+            "id": "a002_054_0496",
+            "en_US": "Love Ball"
+        },
+        {
+            "id": "a002_054_0497",
+            "en_US": "Friend Ball"
+        },
+        {
+            "id": "a002_054_0498",
+            "en_US": "Moon Ball"
+        },
+        {
+            "id": "a002_054_0499",
+            "en_US": "Sport Ball"
+        },
+        {
+            "id": "a002_054_0500",
+            "en_US": "Park Ball"
+        },
+        {
+            "id": "a002_054_0501",
+            "en_US": "Photo Album"
+        },
+        {
+            "id": "a002_054_0502",
+            "en_US": "GB Sounds"
+        },
+        {
+            "id": "a002_054_0503",
+            "en_US": "Tidal Bell"
+        },
+        {
+            "id": "a002_054_0504",
+            "en_US": "RageCandyBar"
+        },
+        {
+            "id": "a002_054_0505",
+            "en_US": "Data Card 01"
+        },
+        {
+            "id": "a002_054_0506",
+            "en_US": "Data Card 02"
+        },
+        {
+            "id": "a002_054_0507",
+            "en_US": "Data Card 03"
+        },
+        {
+            "id": "a002_054_0508",
+            "en_US": "Data Card 04"
+        },
+        {
+            "id": "a002_054_0509",
+            "en_US": "Data Card 05"
+        },
+        {
+            "id": "a002_054_0510",
+            "en_US": "Data Card 06"
+        },
+        {
+            "id": "a002_054_0511",
+            "en_US": "Data Card 07"
+        },
+        {
+            "id": "a002_054_0512",
+            "en_US": "Data Card 08"
+        },
+        {
+            "id": "a002_054_0513",
+            "en_US": "Data Card 09"
+        },
+        {
+            "id": "a002_054_0514",
+            "en_US": "Data Card 10"
+        },
+        {
+            "id": "a002_054_0515",
+            "en_US": "Data Card 11"
+        },
+        {
+            "id": "a002_054_0516",
+            "en_US": "Data Card 12"
+        },
+        {
+            "id": "a002_054_0517",
+            "en_US": "Data Card 13"
+        },
+        {
+            "id": "a002_054_0518",
+            "en_US": "Data Card 14"
+        },
+        {
+            "id": "a002_054_0519",
+            "en_US": "Data Card 15"
+        },
+        {
+            "id": "a002_054_0520",
+            "en_US": "Data Card 16"
+        },
+        {
+            "id": "a002_054_0521",
+            "en_US": "Data Card 17"
+        },
+        {
+            "id": "a002_054_0522",
+            "en_US": "Data Card 18"
+        },
+        {
+            "id": "a002_054_0523",
+            "en_US": "Data Card 19"
+        },
+        {
+            "id": "a002_054_0524",
+            "en_US": "Data Card 20"
+        },
+        {
+            "id": "a002_054_0525",
+            "en_US": "Data Card 21"
+        },
+        {
+            "id": "a002_054_0526",
+            "en_US": "Data Card 22"
+        },
+        {
+            "id": "a002_054_0527",
+            "en_US": "Data Card 23"
+        },
+        {
+            "id": "a002_054_0528",
+            "en_US": "Data Card 24"
+        },
+        {
+            "id": "a002_054_0529",
+            "en_US": "Data Card 25"
+        },
+        {
+            "id": "a002_054_0530",
+            "en_US": "Data Card 26"
+        },
+        {
+            "id": "a002_054_0531",
+            "en_US": "Data Card 27"
+        },
+        {
+            "id": "a002_054_0532",
+            "en_US": "Jade Orb"
+        },
+        {
+            "id": "a002_054_0533",
+            "en_US": "Lock Capsule"
+        },
+        {
+            "id": "a002_054_0534",
+            "en_US": "Red Orb"
+        },
+        {
+            "id": "a002_054_0535",
+            "en_US": "Blue Orb"
+        },
+        {
+            "id": "a002_054_0536",
+            "en_US": "Enigma Stone"
+        },
+        {
+            "id": "a002_054_0537",
+            "en_US": "Prism Scale"
+        },
+        {
+            "id": "a002_054_0538",
+            "en_US": "Eviolite"
+        },
+        {
+            "id": "a002_054_0539",
+            "en_US": "Float Stone"
+        },
+        {
+            "id": "a002_054_0540",
+            "en_US": "Rocky Helmet"
+        },
+        {
+            "id": "a002_054_0541",
+            "en_US": "Air Balloon"
+        },
+        {
+            "id": "a002_054_0542",
+            "en_US": "Red Card"
+        },
+        {
+            "id": "a002_054_0543",
+            "en_US": "Ring Target"
+        },
+        {
+            "id": "a002_054_0544",
+            "en_US": "Binding Band"
+        },
+        {
+            "id": "a002_054_0545",
+            "en_US": "Absorb Bulb"
+        },
+        {
+            "id": "a002_054_0546",
+            "en_US": "Cell Battery"
+        },
+        {
+            "id": "a002_054_0547",
+            "en_US": "Eject Button"
+        },
+        {
+            "id": "a002_054_0548",
+            "en_US": "Fire Gem"
+        },
+        {
+            "id": "a002_054_0549",
+            "en_US": "Water Gem"
+        },
+        {
+            "id": "a002_054_0550",
+            "en_US": "Electric Gem"
+        },
+        {
+            "id": "a002_054_0551",
+            "en_US": "Grass Gem"
+        },
+        {
+            "id": "a002_054_0552",
+            "en_US": "Ice Gem"
+        },
+        {
+            "id": "a002_054_0553",
+            "en_US": "Fighting Gem"
+        },
+        {
+            "id": "a002_054_0554",
+            "en_US": "Poison Gem"
+        },
+        {
+            "id": "a002_054_0555",
+            "en_US": "Ground Gem"
+        },
+        {
+            "id": "a002_054_0556",
+            "en_US": "Flying Gem"
+        },
+        {
+            "id": "a002_054_0557",
+            "en_US": "Psychic Gem"
+        },
+        {
+            "id": "a002_054_0558",
+            "en_US": "Bug Gem"
+        },
+        {
+            "id": "a002_054_0559",
+            "en_US": "Rock Gem"
+        },
+        {
+            "id": "a002_054_0560",
+            "en_US": "Ghost Gem"
+        },
+        {
+            "id": "a002_054_0561",
+            "en_US": "Dragon Gem"
+        },
+        {
+            "id": "a002_054_0562",
+            "en_US": "Dark Gem"
+        },
+        {
+            "id": "a002_054_0563",
+            "en_US": "Steel Gem"
+        },
+        {
+            "id": "a002_054_0564",
+            "en_US": "Normal Gem"
+        },
+        {
+            "id": "a002_054_0565",
+            "en_US": "Health Wing"
+        },
+        {
+            "id": "a002_054_0566",
+            "en_US": "Muscle Wing"
+        },
+        {
+            "id": "a002_054_0567",
+            "en_US": "Resist Wing"
+        },
+        {
+            "id": "a002_054_0568",
+            "en_US": "Genius Wing"
+        },
+        {
+            "id": "a002_054_0569",
+            "en_US": "Clever Wing"
+        },
+        {
+            "id": "a002_054_0570",
+            "en_US": "Swift Wing"
+        },
+        {
+            "id": "a002_054_0571",
+            "en_US": "Pretty Wing"
+        },
+        {
+            "id": "a002_054_0572",
+            "en_US": "Cover Fossil"
+        },
+        {
+            "id": "a002_054_0573",
+            "en_US": "Plume Fossil"
+        },
+        {
+            "id": "a002_054_0574",
+            "en_US": "Liberty Pass"
+        },
+        {
+            "id": "a002_054_0575",
+            "en_US": "Pass Orb"
+        },
+        {
+            "id": "a002_054_0576",
+            "en_US": "Dream Ball"
+        },
+        {
+            "id": "a002_054_0577",
+            "en_US": "Poké Toy"
+        },
+        {
+            "id": "a002_054_0578",
+            "en_US": "Prop Case"
+        },
+        {
+            "id": "a002_054_0579",
+            "en_US": "Dragon Skull"
+        },
+        {
+            "id": "a002_054_0580",
+            "en_US": "BalmMushroom"
+        },
+        {
+            "id": "a002_054_0581",
+            "en_US": "Big Nugget"
+        },
+        {
+            "id": "a002_054_0582",
+            "en_US": "Pearl String"
+        },
+        {
+            "id": "a002_054_0583",
+            "en_US": "Comet Shard"
+        },
+        {
+            "id": "a002_054_0584",
+            "en_US": "Relic Copper"
+        },
+        {
+            "id": "a002_054_0585",
+            "en_US": "Relic Silver"
+        },
+        {
+            "id": "a002_054_0586",
+            "en_US": "Relic Gold"
+        },
+        {
+            "id": "a002_054_0587",
+            "en_US": "Relic Vase"
+        },
+        {
+            "id": "a002_054_0588",
+            "en_US": "Relic Band"
+        },
+        {
+            "id": "a002_054_0589",
+            "en_US": "Relic Statue"
+        },
+        {
+            "id": "a002_054_0590",
+            "en_US": "Relic Crown"
+        },
+        {
+            "id": "a002_054_0591",
+            "en_US": "Casteliacone"
+        },
+        {
+            "id": "a002_054_0592",
+            "en_US": "Dire Hit 2"
+        },
+        {
+            "id": "a002_054_0593",
+            "en_US": "X Speed 2"
+        },
+        {
+            "id": "a002_054_0594",
+            "en_US": "X Special 2"
+        },
+        {
+            "id": "a002_054_0595",
+            "en_US": "X Sp. Def 2"
+        },
+        {
+            "id": "a002_054_0596",
+            "en_US": "X Defend 2"
+        },
+        {
+            "id": "a002_054_0597",
+            "en_US": "X Attack 2"
+        },
+        {
+            "id": "a002_054_0598",
+            "en_US": "X Accuracy 2"
+        },
+        {
+            "id": "a002_054_0599",
+            "en_US": "X Speed 3"
+        },
+        {
+            "id": "a002_054_0600",
+            "en_US": "X Special 3"
+        },
+        {
+            "id": "a002_054_0601",
+            "en_US": "X Sp. Def 3"
+        },
+        {
+            "id": "a002_054_0602",
+            "en_US": "X Defend 3"
+        },
+        {
+            "id": "a002_054_0603",
+            "en_US": "X Attack 3"
+        },
+        {
+            "id": "a002_054_0604",
+            "en_US": "X Accuracy 3"
+        },
+        {
+            "id": "a002_054_0605",
+            "en_US": "X Speed 6"
+        },
+        {
+            "id": "a002_054_0606",
+            "en_US": "X Special 6"
+        },
+        {
+            "id": "a002_054_0607",
+            "en_US": "X Sp. Def 6"
+        },
+        {
+            "id": "a002_054_0608",
+            "en_US": "X Defend 6"
+        },
+        {
+            "id": "a002_054_0609",
+            "en_US": "X Attack 6"
+        },
+        {
+            "id": "a002_054_0610",
+            "en_US": "X Accuracy 6"
+        },
+        {
+            "id": "a002_054_0611",
+            "en_US": "Ability Urge"
+        },
+        {
+            "id": "a002_054_0612",
+            "en_US": "Item Drop"
+        },
+        {
+            "id": "a002_054_0613",
+            "en_US": "Item Urge"
+        },
+        {
+            "id": "a002_054_0614",
+            "en_US": "Reset Urge"
+        },
+        {
+            "id": "a002_054_0615",
+            "en_US": "Dire Hit 3"
+        },
+        {
+            "id": "a002_054_0616",
+            "en_US": "Light Stone"
+        },
+        {
+            "id": "a002_054_0617",
+            "en_US": "Dark Stone"
+        },
+        {
+            "id": "a002_054_0618",
+            "en_US": "TM93"
+        },
+        {
+            "id": "a002_054_0619",
+            "en_US": "TM94"
+        },
+        {
+            "id": "a002_054_0620",
+            "en_US": "TM95"
+        },
+        {
+            "id": "a002_054_0621",
+            "en_US": "Xtransceiver"
+        },
+        {
+            "id": "a002_054_0622",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_054_0623",
+            "en_US": "Gram 1"
+        },
+        {
+            "id": "a002_054_0624",
+            "en_US": "Gram 2"
+        },
+        {
+            "id": "a002_054_0625",
+            "en_US": "Gram 3"
+        },
+        {
+            "id": "a002_054_0626",
+            "en_US": "Xtransceiver"
+        }
+    ]
+}

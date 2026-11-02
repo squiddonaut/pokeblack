@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_215_0000",
+            "en_US": [
+                "Is...{VAR BE01}\n",
+                "Is something...going wild\n",
+                "at the top of the tower?"
+            ]
+        },
+        {
+            "id": "a003_215_0001",
+            "en_US": [
+                "Cedric: Maybe I should have my daughter\n",
+                "look into when this tower was built.{VAR BE01}\n",
+                "If you want someone to investigate\n",
+                "the origin of Pokémon, she's the best."
+            ]
+        },
+        {
+            "id": "a003_215_0002",
+            "en_US": [
+                "Brycen: So, this is Dragonspiral Tower.\n",
+                "There's a certain heaviness to the air.{VAR BE01}\n",
+                "Did Reshiram, who woke up here,\n",
+                "see something in N?"
+            ]
+        },
+        {
+            "id": "a003_215_0003",
+            "en_US": [
+                "Brycen: So, this is Dragonspiral Tower.\n",
+                "There's a certain heaviness to the air.{VAR BE01}\n",
+                "Did Zekrom, who woke up here,\n",
+                "see something in N?"
+            ]
+        }
+    ]
+}

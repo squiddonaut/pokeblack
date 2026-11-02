@@ -1,0 +1,475 @@
+{
+    "flags": 120,
+    "pad": "4242",
+    "messages": [
+        {
+            "id": "a002_089_0000",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_089_0001",
+            "en_US": "Mystery Zone"
+        },
+        {
+            "id": "a002_089_0002",
+            "en_US": "Faraway place"
+        },
+        {
+            "id": "a002_089_0003",
+            "en_US": "{VAR 0100 0000}’s {VAR 0105 0001}",
+            "flags": 242
+        },
+        {
+            "id": "a002_089_0004",
+            "en_US": "Nuvema Town"
+        },
+        {
+            "id": "a002_089_0005",
+            "en_US": "Accumula Town"
+        },
+        {
+            "id": "a002_089_0006",
+            "en_US": "Striaton City"
+        },
+        {
+            "id": "a002_089_0007",
+            "en_US": "Nacrene City"
+        },
+        {
+            "id": "a002_089_0008",
+            "en_US": "Castelia City"
+        },
+        {
+            "id": "a002_089_0009",
+            "en_US": "Nimbasa City"
+        },
+        {
+            "id": "a002_089_0010",
+            "en_US": "Driftveil City"
+        },
+        {
+            "id": "a002_089_0011",
+            "en_US": "Mistralton City"
+        },
+        {
+            "id": "a002_089_0012",
+            "en_US": "Icirrus City"
+        },
+        {
+            "id": "a002_089_0013",
+            "en_US": "Opelucid City"
+        },
+        {
+            "id": "a002_089_0014",
+            "en_US": "Route 1"
+        },
+        {
+            "id": "a002_089_0015",
+            "en_US": "Route 2"
+        },
+        {
+            "id": "a002_089_0016",
+            "en_US": "Route 3"
+        },
+        {
+            "id": "a002_089_0017",
+            "en_US": "Route 4"
+        },
+        {
+            "id": "a002_089_0018",
+            "en_US": "Route 5"
+        },
+        {
+            "id": "a002_089_0019",
+            "en_US": "Route 6"
+        },
+        {
+            "id": "a002_089_0020",
+            "en_US": "Route 7"
+        },
+        {
+            "id": "a002_089_0021",
+            "en_US": "Route 8"
+        },
+        {
+            "id": "a002_089_0022",
+            "en_US": "Route 9"
+        },
+        {
+            "id": "a002_089_0023",
+            "en_US": "Route 10"
+        },
+        {
+            "id": "a002_089_0024",
+            "en_US": "Route 11"
+        },
+        {
+            "id": "a002_089_0025",
+            "en_US": "Route 12"
+        },
+        {
+            "id": "a002_089_0026",
+            "en_US": "Route 13"
+        },
+        {
+            "id": "a002_089_0027",
+            "en_US": "Route 14"
+        },
+        {
+            "id": "a002_089_0028",
+            "en_US": "Route 15"
+        },
+        {
+            "id": "a002_089_0029",
+            "en_US": "Route 16"
+        },
+        {
+            "id": "a002_089_0030",
+            "en_US": "Route 17"
+        },
+        {
+            "id": "a002_089_0031",
+            "en_US": "Route 18"
+        },
+        {
+            "id": "a002_089_0032",
+            "en_US": "Dreamyard"
+        },
+        {
+            "id": "a002_089_0033",
+            "en_US": "Pinwheel Forest"
+        },
+        {
+            "id": "a002_089_0034",
+            "en_US": "Desert Resort"
+        },
+        {
+            "id": "a002_089_0035",
+            "en_US": "Relic Castle"
+        },
+        {
+            "id": "a002_089_0036",
+            "en_US": "Cold Storage"
+        },
+        {
+            "id": "a002_089_0037",
+            "en_US": "Chargestone Cave"
+        },
+        {
+            "id": "a002_089_0038",
+            "en_US": "Twist Mountain"
+        },
+        {
+            "id": "a002_089_0039",
+            "en_US": "Dragonspiral Tower"
+        },
+        {
+            "id": "a002_089_0040",
+            "en_US": "Victory Road"
+        },
+        {
+            "id": "a002_089_0041",
+            "en_US": "Lacunosa Town"
+        },
+        {
+            "id": "a002_089_0042",
+            "en_US": "Undella Town"
+        },
+        {
+            "id": "a002_089_0043",
+            "en_US": "Anville Town"
+        },
+        {
+            "id": "a002_089_0044",
+            "en_US": "Pokémon League"
+        },
+        {
+            "id": "a002_089_0045",
+            "en_US": "N's Castle"
+        },
+        {
+            "id": "a002_089_0046",
+            "en_US": "Royal Unova"
+        },
+        {
+            "id": "a002_089_0047",
+            "en_US": "Gear Station"
+        },
+        {
+            "id": "a002_089_0048",
+            "en_US": "Battle Subway"
+        },
+        {
+            "id": "a002_089_0049",
+            "en_US": "Musical Theater"
+        },
+        {
+            "id": "a002_089_0050",
+            "en_US": "Black City"
+        },
+        {
+            "id": "a002_089_0051",
+            "en_US": "White Forest"
+        },
+        {
+            "id": "a002_089_0052",
+            "en_US": "Unity Tower"
+        },
+        {
+            "id": "a002_089_0053",
+            "en_US": "Wellspring Cave"
+        },
+        {
+            "id": "a002_089_0054",
+            "en_US": "Mistralton Cave"
+        },
+        {
+            "id": "a002_089_0055",
+            "en_US": "Rumination Field"
+        },
+        {
+            "id": "a002_089_0056",
+            "en_US": "Celestial Tower"
+        },
+        {
+            "id": "a002_089_0057",
+            "en_US": "Moor of Icirrus"
+        },
+        {
+            "id": "a002_089_0058",
+            "en_US": "Shopping Mall"
+        },
+        {
+            "id": "a002_089_0059",
+            "en_US": "Challenger's Cave"
+        },
+        {
+            "id": "a002_089_0060",
+            "en_US": "Poké Transfer Lab"
+        },
+        {
+            "id": "a002_089_0061",
+            "en_US": "Giant Chasm"
+        },
+        {
+            "id": "a002_089_0062",
+            "en_US": "Liberty Garden"
+        },
+        {
+            "id": "a002_089_0063",
+            "en_US": "P2 Laboratory"
+        },
+        {
+            "id": "a002_089_0064",
+            "en_US": "Skyarrow Bridge"
+        },
+        {
+            "id": "a002_089_0065",
+            "en_US": "Driftveil Drawbridge"
+        },
+        {
+            "id": "a002_089_0066",
+            "en_US": "Tubeline Bridge"
+        },
+        {
+            "id": "a002_089_0067",
+            "en_US": "Village Bridge"
+        },
+        {
+            "id": "a002_089_0068",
+            "en_US": "Marvelous Bridge"
+        },
+        {
+            "id": "a002_089_0069",
+            "en_US": "Entralink"
+        },
+        {
+            "id": "a002_089_0070",
+            "en_US": "Abundant Shrine"
+        },
+        {
+            "id": "a002_089_0071",
+            "en_US": "Undella Bay"
+        },
+        {
+            "id": "a002_089_0072",
+            "en_US": "Lostlorn Forest"
+        },
+        {
+            "id": "a002_089_0073",
+            "en_US": "Trial Chamber"
+        },
+        {
+            "id": "a002_089_0074",
+            "en_US": "Guidance Chamber"
+        },
+        {
+            "id": "a002_089_0075",
+            "en_US": "Entree Forest"
+        },
+        {
+            "id": "a002_089_0076",
+            "en_US": "Nimbasa City"
+        },
+        {
+            "id": "a002_089_0077",
+            "en_US": "Driftveil City"
+        },
+        {
+            "id": "a002_089_0078",
+            "en_US": "Mistralton City"
+        },
+        {
+            "id": "a002_089_0079",
+            "en_US": "Icirrus City"
+        },
+        {
+            "id": "a002_089_0080",
+            "en_US": "Opelucid City"
+        },
+        {
+            "id": "a002_089_0081",
+            "en_US": "Nuvema Town"
+        },
+        {
+            "id": "a002_089_0082",
+            "en_US": "White Forest"
+        },
+        {
+            "id": "a002_089_0083",
+            "en_US": "Black City"
+        },
+        {
+            "id": "a002_089_0084",
+            "en_US": "Cold Storage"
+        },
+        {
+            "id": "a002_089_0085",
+            "en_US": "Chargestone Cave"
+        },
+        {
+            "id": "a002_089_0086",
+            "en_US": "Twist Mountain"
+        },
+        {
+            "id": "a002_089_0087",
+            "en_US": "Dragonspiral Tower"
+        },
+        {
+            "id": "a002_089_0088",
+            "en_US": "Giant Chasm"
+        },
+        {
+            "id": "a002_089_0089",
+            "en_US": "Driftveil Drawbridge"
+        },
+        {
+            "id": "a002_089_0090",
+            "en_US": "Tubeline Bridge"
+        },
+        {
+            "id": "a002_089_0091",
+            "en_US": "Village Bridge"
+        },
+        {
+            "id": "a002_089_0092",
+            "en_US": "Marvelous Bridge"
+        },
+        {
+            "id": "a002_089_0093",
+            "en_US": "Route 5"
+        },
+        {
+            "id": "a002_089_0094",
+            "en_US": "Route 6"
+        },
+        {
+            "id": "a002_089_0095",
+            "en_US": "Route 7"
+        },
+        {
+            "id": "a002_089_0096",
+            "en_US": "Route 8"
+        },
+        {
+            "id": "a002_089_0097",
+            "en_US": "Route 9"
+        },
+        {
+            "id": "a002_089_0098",
+            "en_US": "Route 11"
+        },
+        {
+            "id": "a002_089_0099",
+            "en_US": "Route 12"
+        },
+        {
+            "id": "a002_089_0100",
+            "en_US": "Route 13"
+        },
+        {
+            "id": "a002_089_0101",
+            "en_US": "Route 14"
+        },
+        {
+            "id": "a002_089_0102",
+            "en_US": "Route 15"
+        },
+        {
+            "id": "a002_089_0103",
+            "en_US": "Route 16"
+        },
+        {
+            "id": "a002_089_0104",
+            "en_US": "Lacunosa Town"
+        },
+        {
+            "id": "a002_089_0105",
+            "en_US": "Undella Town"
+        },
+        {
+            "id": "a002_089_0106",
+            "en_US": "Accumula Gate"
+        },
+        {
+            "id": "a002_089_0107",
+            "en_US": "Undella Gate"
+        },
+        {
+            "id": "a002_089_0108",
+            "en_US": "Nacrene Gate"
+        },
+        {
+            "id": "a002_089_0109",
+            "en_US": "Castelia Gate"
+        },
+        {
+            "id": "a002_089_0110",
+            "en_US": "Nimbasa Gate"
+        },
+        {
+            "id": "a002_089_0111",
+            "en_US": "Opelucid Gate"
+        },
+        {
+            "id": "a002_089_0112",
+            "en_US": "Black Gate"
+        },
+        {
+            "id": "a002_089_0113",
+            "en_US": "White Gate"
+        },
+        {
+            "id": "a002_089_0114",
+            "en_US": "Bridge Gate"
+        },
+        {
+            "id": "a002_089_0115",
+            "en_US": "Route Gate"
+        },
+        {
+            "id": "a002_089_0116",
+            "en_US": "Abyssal Ruins"
+        }
+    ]
+}

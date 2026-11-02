@@ -1,0 +1,32 @@
+{
+    "flags": 230,
+    "pad": "e8e8",
+    "messages": [
+        {
+            "id": "a002_172_0000",
+            "en_US": [
+                "What?\n",
+                "{VAR 0102 0000} is evolving!"
+            ]
+        },
+        {
+            "id": "a002_172_0001",
+            "en_US": [
+                "Huh? {VAR 0102 0000}\n",
+                "stopped evolving!"
+            ]
+        },
+        {
+            "id": "a002_172_0002",
+            "en_US": [
+                "Congratulations! Your {VAR 0102 0000}\n",
+                "evolved into {VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a002_172_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

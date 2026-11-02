@@ -1,0 +1,379 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_453_0000",
+            "en_US": [
+                "Isn't it great? Isn't it spacious?{VAR BE01}\n",
+                "This is my dad's villa, and\n",
+                "I can use it freely!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0001",
+            "en_US": [
+                "But when I came here, surprisingly there\n",
+                "was nothing to do, so now I'm bored.{VAR BE01}\n",
+                "As you may know, my dad is totally\n",
+                "obsessed with items at the ruins...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0002",
+            "en_US": [
+                "Hey, you're bored, aren't you?{VAR BE01}\n",
+                "Come here tomorrow, too!\n",
+                "I don't mind having a battle with you!"
+            ]
+        },
+        {
+            "id": "a003_453_0003",
+            "en_US": [
+                "Hey, you're bored, aren't you?{VAR BE01}\n",
+                "Come here tomorrow, too!\n",
+                "I don't mind having a battle with you!"
+            ]
+        },
+        {
+            "id": "a003_453_0004",
+            "en_US": [
+                "Oh, you came!{VAR BE01}\n",
+                "You have an extremely bored look\n",
+                "on your face.{VAR BE01}\n",
+                "I don't mind having a battle with you!"
+            ]
+        },
+        {
+            "id": "a003_453_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_453_0006",
+            "en_US": "Ah... You are not bored..."
+        },
+        {
+            "id": "a003_453_0007",
+            "en_US": [
+                "Argh!\n",
+                "So frustrating! Whywhywhy?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0008",
+            "en_US": [
+                "You're awesome!\n",
+                "I don't mind giving you a little credit!"
+            ]
+        },
+        {
+            "id": "a003_453_0009",
+            "en_US": "Oh, you seem to be having fun.{VAR BE01}"
+        },
+        {
+            "id": "a003_453_0010",
+            "en_US": [
+                "How are you, Trainer?{VAR BE01}\n",
+                "I've been so dreadfully bored in my\n",
+                "father's villa! May I join you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0011",
+            "en_US": [
+                "How are you, Trainer?\n",
+                "I won't lose today.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0012",
+            "en_US": [
+                "In my father's villa, I have too much\n",
+                "time on my hands.{VAR BE01}\n",
+                "Please come for a visit tomorrow, too.\n",
+                "I will have a battle with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0013",
+            "en_US": [
+                "In my father's villa, I have too much\n",
+                "time on my hands.{VAR BE01}\n",
+                "Please come for a visit tomorrow, too.\n",
+                "I will have a battle with you."
+            ]
+        },
+        {
+            "id": "a003_453_0014",
+            "en_US": [
+                "You are as strong as usual.\n",
+                "But I wonder what will happen next time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0015",
+            "en_US": [
+                "How are you?\n",
+                "I am pleased you came here today, too.{VAR BE01}\n",
+                "May I trouble you for another battle?\n",
+                "Let me see...{VAR BE01}\n",
+                "First, please have a battle\n",
+                "with my little brother!"
+            ]
+        },
+        {
+            "id": "a003_453_0016",
+            "en_US": [
+                "None of the Riches is a match for you...{VAR BE01}\n",
+                "I admire your strength!"
+            ]
+        },
+        {
+            "id": "a003_453_0017",
+            "en_US": "Oh, it's quite lively for some reason.{VAR BE01}"
+        },
+        {
+            "id": "a003_453_0018",
+            "en_US": [
+                "I truly appreciate you for having battles\n",
+                "with my grandchildren.{VAR BE01}\n",
+                "And now, I'd like to see in what ways\n",
+                "your skills exceed theirs.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0019",
+            "en_US": [
+                "Hoho! Do you have confidence\n",
+                "in winning against me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0020",
+            "en_US": [
+                "Undella Town is a relaxing and\n",
+                "comfortable place.{VAR BE01}\n",
+                "But my grandchildren seem\n",
+                "somewhat bored.{VAR BE01}\n",
+                "Please come visit us tomorrow, too.\n",
+                "My grandchildren will be happy{VAR BE00}\n",
+                "to see you again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0021",
+            "en_US": [
+                "Undella Town is a relaxing and\n",
+                "comfortable place.{VAR BE01}\n",
+                "But my grandchildren seem\n",
+                "somewhat bored.{VAR BE01}\n",
+                "Please come visit us tomorrow, too.\n",
+                "My grandchildren will be happy{VAR BE00}\n",
+                "to see you again."
+            ]
+        },
+        {
+            "id": "a003_453_0022",
+            "en_US": [
+                "Ho, ho. You are genuinely strong!\n",
+                "You look dependable!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0023",
+            "en_US": [
+                "Welcome back, young Trainer.{VAR BE01}\n",
+                "My grandchildren are itching to have\n",
+                "more battles with you."
+            ]
+        },
+        {
+            "id": "a003_453_0024",
+            "en_US": [
+                "Children of today are very strong in\n",
+                "Pokémon battles.{VAR BE01}\n",
+                "Hoho! I wonder if my grandchildren\n",
+                "can become Trainers like you?"
+            ]
+        },
+        {
+            "id": "a003_453_0025",
+            "en_US": [
+                "Hoho!\n",
+                "Pokémon battles bring back memories.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0026",
+            "en_US": [
+                "I am so excited, my blood is boiling!\n",
+                "May I please trouble you for a battle?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0027",
+            "en_US": [
+                "I am so excited, my blood is boiling!\n",
+                "Please have a battle with me today, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0028",
+            "en_US": [
+                "Hoho! No matter how old I get,\n",
+                "Pokémon battles are fun!{VAR BE01}\n",
+                "This kind of excitement\n",
+                "is not bad from time to time!{VAR BE01}\n",
+                "Please come back anytime.\n",
+                "Next time, I will win!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0029",
+            "en_US": [
+                "Hoho! No matter how old I get,\n",
+                "Pokémon battles are fun!{VAR BE01}\n",
+                "This kind of excitement\n",
+                "is not bad from time to time!"
+            ]
+        },
+        {
+            "id": "a003_453_0030",
+            "en_US": [
+                "Hoho! Welcome!\n",
+                "Your visit is very exciting!"
+            ]
+        },
+        {
+            "id": "a003_453_0031",
+            "en_US": [
+                "Hoho! Youth!\n",
+                "However, next time won't be like this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0032",
+            "en_US": [
+                "Hoho!\n",
+                "Pokémon battles with the entire family!{VAR BE01}\n",
+                "We all had a good time!"
+            ]
+        },
+        {
+            "id": "a003_453_0033",
+            "en_US": [
+                "What's happening?\n",
+                "It's pretty lively.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0034",
+            "en_US": [
+                "Trainer, are you strong?\n",
+                "Then, try to defeat me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0035",
+            "en_US": [
+                "Today, for sure, I am going to win!\n",
+                "Now, try to defeat me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0036",
+            "en_US": [
+                "I may not look like it, but I am very\n",
+                "familiar with Pokémon.{VAR BE01}\n",
+                "I would like to have a battle with you\n",
+                "someday again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0037",
+            "en_US": [
+                "I may not look like it, but I am very\n",
+                "familiar with Pokémon.{VAR BE01}\n",
+                "Please have a battle with me again."
+            ]
+        },
+        {
+            "id": "a003_453_0038",
+            "en_US": [
+                "Welcome.{VAR BE01}\n",
+                "Today for sure I'm going to show you\n",
+                "the real strength of the Riches!"
+            ]
+        },
+        {
+            "id": "a003_453_0039",
+            "en_US": "I didn't expect you to be this strong...{VAR BE01}"
+        },
+        {
+            "id": "a003_453_0040",
+            "en_US": [
+                "It's a complete defeat...{VAR BE01}\n",
+                "The Riches sincerely wish every success\n",
+                "to you in the future."
+            ]
+        },
+        {
+            "id": "a003_453_0041",
+            "en_US": [
+                "You! Do you still call yourself\n",
+                "one of the Riches?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0042",
+            "en_US": [
+                "I am Miles, the next head of the Riches!\n",
+                "I will protect the honor of our family!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0043",
+            "en_US": [
+                "No matter how often you try, \n",
+                "you cannot defeat me!{VAR BE01}\n",
+                "I will protect the honor\n",
+                "of The Riches!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_453_0044",
+            "en_US": [
+                "You may come back again tomorrow.{VAR BE01}\n",
+                "However, I have no intention of losing\n",
+                "in the name of the Riches."
+            ]
+        },
+        {
+            "id": "a003_453_0045",
+            "en_US": [
+                "You came!{VAR BE01}\n",
+                "If you can defeat my family,\n",
+                "I will let you have a battle with me."
+            ]
+        },
+        {
+            "id": "a003_453_0046",
+            "en_US": [
+                "Sigh.{VAR BE01}\n",
+                "I guess...it's still too early to identify\n",
+                "myself as the head of the family."
+            ]
+        },
+        {
+            "id": "a003_453_0047",
+            "en_US": [
+                "Sigh.{VAR BE01}\n",
+                "I guess...it's still too early to identify\n",
+                "myself as the head of the family.{VAR BE01}\n",
+                "You should be proud of yourself\n",
+                "for defeating the distinguished{VAR BE00}\n",
+                "Trainer family, the Riches!{VAR BE01}"
+            ]
+        }
+    ]
+}

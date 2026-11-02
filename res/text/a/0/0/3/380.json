@@ -1,0 +1,69 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_380_0000",
+            "en_US": [
+                "Only strong Pokémon live in this cave!{VAR BE01}\n",
+                "The Champion occasionally\n",
+                "goes in for training, but you aren't{VAR BE00}\n",
+                "ready for this challenge."
+            ]
+        },
+        {
+            "id": "a003_380_0001",
+            "en_US": [
+                "Huh! You're quite the Trainer,\n",
+                "aren't you?{VAR BE01}\n",
+                "Enter the cave, and strengthen both\n",
+                "yourself and your Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_380_0002",
+            "en_US": "The pitcher throws his first pitch!{VAR BE01}"
+        },
+        {
+            "id": "a003_380_0003",
+            "en_US": [
+                "What I just threw was TM56 Fling!{VAR BE01}\n",
+                "You throw an item to do damage to the\n",
+                "target, and the damage changes{VAR BE00}\n",
+                "depending on what you throw!"
+            ]
+        },
+        {
+            "id": "a003_380_0004",
+            "en_US": "Route 9",
+            "flags": 207
+        },
+        {
+            "id": "a003_380_0005",
+            "en_US": [
+                "Shopping Mall Nine\n",
+                "Colorful and wonderful!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_380_0006",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Try pressing SELECT while\n",
+                "organizing your PC Box.{VAR BE01}\n",
+                "It'll let you move your Pokémon\n",
+                "around more easily!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_380_0007",
+            "en_US": [
+                "Tubeline Bridge\n",
+                "Unova's famous railway bridge"
+            ],
+            "flags": 207
+        }
+    ]
+}

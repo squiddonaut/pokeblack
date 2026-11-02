@@ -1,0 +1,74 @@
+{
+    "flags": 192,
+    "pad": "d8d8",
+    "messages": [
+        {
+            "id": "a002_226_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_226_0001",
+            "en_US": "Lower Silesia"
+        },
+        {
+            "id": "a002_226_0002",
+            "en_US": "Kuyavia-Pomerania"
+        },
+        {
+            "id": "a002_226_0003",
+            "en_US": "Lublin"
+        },
+        {
+            "id": "a002_226_0004",
+            "en_US": "Lubusz"
+        },
+        {
+            "id": "a002_226_0005",
+            "en_US": "Lodz"
+        },
+        {
+            "id": "a002_226_0006",
+            "en_US": "Lesser Poland"
+        },
+        {
+            "id": "a002_226_0007",
+            "en_US": "Masovia"
+        },
+        {
+            "id": "a002_226_0008",
+            "en_US": "Opole"
+        },
+        {
+            "id": "a002_226_0009",
+            "en_US": "Subcarpathia"
+        },
+        {
+            "id": "a002_226_0010",
+            "en_US": "Podlachia"
+        },
+        {
+            "id": "a002_226_0011",
+            "en_US": "Pomerania"
+        },
+        {
+            "id": "a002_226_0012",
+            "en_US": "Silesia"
+        },
+        {
+            "id": "a002_226_0013",
+            "en_US": "Holy Cross"
+        },
+        {
+            "id": "a002_226_0014",
+            "en_US": "Warmia-Masuria"
+        },
+        {
+            "id": "a002_226_0015",
+            "en_US": "Greater Poland"
+        },
+        {
+            "id": "a002_226_0016",
+            "en_US": "West Pomerania"
+        }
+    ]
+}

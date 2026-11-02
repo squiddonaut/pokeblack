@@ -1,0 +1,262 @@
+{
+    "flags": 0,
+    "pad": "8686",
+    "messages": [
+        {
+            "id": "a002_017_0000",
+            "en_US": "HP/PP",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0001",
+            "en_US": "RESTORE",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0002",
+            "en_US": "STATUS",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0003",
+            "en_US": "RESTORE",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0006",
+            "en_US": "BATTLE ITEMS",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0007",
+            "en_US": "POKÉ BALLS",
+            "flags": 96
+        },
+        {
+            "id": "a002_017_0008",
+            "en_US": "LAST USED ITEM",
+            "flags": 144
+        },
+        {
+            "id": "a002_017_0009",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0010",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0011",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0012",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0013",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0014",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0015",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0016",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0017",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0018",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0019",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 106
+        },
+        {
+            "id": "a002_017_0020",
+            "en_US": "x{VAR 0202 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_017_0021",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0022",
+            "en_US": "HP/PP",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0023",
+            "en_US": "RESTORE",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0024",
+            "en_US": "STATUS",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0025",
+            "en_US": "RESTORE",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0026",
+            "en_US": "POKÉ BALLS",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0027",
+            "en_US": "BATTLE ITEMS",
+            "flags": 78
+        },
+        {
+            "id": "a002_017_0028",
+            "en_US": "/",
+            "flags": 7
+        },
+        {
+            "id": "a002_017_0029",
+            "en_US": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "id": "a002_017_0030",
+            "en_US": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "id": "a002_017_0031",
+            "en_US": "USE",
+            "flags": 80
+        },
+        {
+            "id": "a002_017_0032",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0033",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0034",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0035",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0036",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0037",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0038",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0039",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0040",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0041",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0042",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0043",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0044",
+            "en_US": [
+                "It's no good! It's impossible to aim\n",
+                "when there are two Pokémon!"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_017_0045",
+            "en_US": "There is no room left in the PC!",
+            "flags": 240
+        },
+        {
+            "id": "a002_017_0046",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0047",
+            "en_US": [
+                "It's no good! It's impossible to aim\n",
+                "at a Pokémon that's not in sight!"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_017_0048",
+            "en_US": ""
+        },
+        {
+            "id": "a002_017_0049",
+            "en_US": "It's not charged enough.",
+            "flags": 240
+        },
+        {
+            "id": "a002_017_0050",
+            "en_US": [
+                "Juniper's words echoed...\n",
+                "There's a time and{VAR BE00}\n",
+                "place for everything! But not now."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_017_0051",
+            "en_US": [
+                "It's impossible to aim\n",
+                "without being focused!"
+            ],
+            "flags": 240
+        }
+    ]
+}

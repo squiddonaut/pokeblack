@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_104_0000",
+            "en_US": [
+                "Did you talk to Driftveil's famous\n",
+                "heartbreaker?"
+            ]
+        },
+        {
+            "id": "a003_104_0001",
+            "en_US": "Have you tried this kind of Poké Ball?{VAR BE01}"
+        },
+        {
+            "id": "a003_104_0002",
+            "en_US": [
+                "Repeat Balls make it easier to catch the\n",
+                "same kind of Pokémon you've already{VAR BE00}\n",
+                "caught before!"
+            ]
+        }
+    ]
+}

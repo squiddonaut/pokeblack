@@ -1,0 +1,135 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_086_0000",
+            "en_US": [
+                "Athletes who score points, and athletes\n",
+                "who support them...{VAR BE01}\n",
+                "Determining their different roles is the\n",
+                "key to building a team!"
+            ]
+        },
+        {
+            "id": "a003_086_0001",
+            "en_US": [
+                "Football is a fun sport that is divided\n",
+                "into offense and defense."
+            ]
+        },
+        {
+            "id": "a003_086_0002",
+            "en_US": [
+                "His... Those eyes...{VAR BE01}\n",
+                "It looks like he's coming\n",
+                "right at me!"
+            ]
+        },
+        {
+            "id": "a003_086_0003",
+            "en_US": [
+                "The helmet and pads weigh\n",
+                "15 to 18 pounds!"
+            ]
+        },
+        {
+            "id": "a003_086_0004",
+            "en_US": [
+                "I've trained and built up my muscles\n",
+                "by tackling Pokémon!{VAR BE01}\n",
+                "Nothing can move me!"
+            ]
+        },
+        {
+            "id": "a003_086_0005",
+            "en_US": [
+                "OK! I will defend to the end with moves\n",
+                "like Protect and Detect!"
+            ]
+        },
+        {
+            "id": "a003_086_0006",
+            "en_US": [
+                "My favorite moves?{VAR BE01}\n",
+                "...Hmm.\n",
+                "I'd say Tackle and Take Down."
+            ]
+        },
+        {
+            "id": "a003_086_0007",
+            "en_US": [
+                "Reading your opponent's attack and\n",
+                "deciding your next move...{VAR BE01}\n",
+                "Both Pokémon battles and football have\n",
+                "the same thrill!"
+            ]
+        },
+        {
+            "id": "a003_086_0008",
+            "en_US": [
+                "The appeal of football?\n",
+                "Let me see...{VAR BE01}\n",
+                "First, just watch a game without thinking\n",
+                "about the rules!"
+            ]
+        },
+        {
+            "id": "a003_086_0009",
+            "en_US": [
+                "I'll protect my team with my whole body\n",
+                "to avoid our opponents' interference!"
+            ]
+        },
+        {
+            "id": "a003_086_0010",
+            "en_US": [
+                "In football, the quarterback is the\n",
+                "athlete who decides a strategy and{VAR BE00}\n",
+                "carries it out.{VAR BE01}\n",
+                "He's kind of like a Pokémon Trainer!"
+            ]
+        },
+        {
+            "id": "a003_086_0011",
+            "en_US": [
+                "In football, you have to learn each and\n",
+                "every formation by heart!"
+            ]
+        },
+        {
+            "id": "a003_086_0012",
+            "en_US": [
+                "The ball used in football is oval-shaped\n",
+                "and hard to throw, isn't it?{VAR BE01}\n",
+                "But once you get the hang of it, you can\n",
+                "throw it perfectly!"
+            ]
+        },
+        {
+            "id": "a003_086_0013",
+            "en_US": [
+                "I am a greeeeeat secret weapon!{VAR BE01}\n",
+                "The only problem is, I am so secret that\n",
+                "I've never been in a game..."
+            ]
+        },
+        {
+            "id": "a003_086_0014",
+            "en_US": "Yoo-hoo! Pass me the ball!"
+        },
+        {
+            "id": "a003_086_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_086_0016",
+            "en_US": [
+                "Bodies crashing into other bodies!\n",
+                "Go, go, go!{VAR BE01}\n",
+                "I am the owner. That’s what\n",
+                "I like to see."
+            ]
+        }
+    ]
+}

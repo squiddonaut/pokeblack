@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_389_0000",
+            "en_US": [
+                "Halt! The key to open this gate\n",
+                "is the Basic Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_389_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_389_0002",
+            "en_US": [
+                "Oh, holder of the Basic Badge!\n",
+                "Show the knowledge you've obtained!"
+            ]
+        },
+        {
+            "id": "a003_389_0003",
+            "en_US": [
+                "First, obtain the Basic Badge\n",
+                "from the Nacrene Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_389_0004",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

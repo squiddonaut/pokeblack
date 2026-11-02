@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_167_0000",
+            "en_US": [
+                "The Desert Resort is especially known for\n",
+                "the Relic Castle."
+            ]
+        },
+        {
+            "id": "a003_167_0001",
+            "en_US": [
+                "I'm a School Kid, so I know this!{VAR BE01}\n",
+                "Just like in caves, you can run into\n",
+                "Pokémon almost anywhere in the desert.{VAR BE01}\n",
+                "But they don't like hiding in the pale\n",
+                "sand. So if you walk there, you won't{VAR BE00}\n",
+                "have to worry about battling."
+            ]
+        }
+    ]
+}

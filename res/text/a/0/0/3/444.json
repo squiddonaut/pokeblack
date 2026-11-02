@@ -1,0 +1,49 @@
+{
+    "flags": 224,
+    "pad": "e0e0",
+    "messages": [
+        {
+            "id": "a003_444_0000",
+            "en_US": "Shall I play my favorite tune?"
+        },
+        {
+            "id": "a003_444_0001",
+            "en_US": "Hee hee! Please listen to my music.{VAR BE01}"
+        },
+        {
+            "id": "a003_444_0002",
+            "en_US": [
+                "Oh, sadness.\n",
+                "When you feel like it, please let me know."
+            ]
+        },
+        {
+            "id": "a003_444_0003",
+            "en_US": "She is concentrating on her performance!"
+        },
+        {
+            "id": "a003_444_0004",
+            "en_US": "Do you want to listen to my drum?"
+        },
+        {
+            "id": "a003_444_0005",
+            "en_US": [
+                "My! Heart!\n",
+                "As long as my heart beats!{VAR BE00}\n",
+                "I will keep! On! Drumming!!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_444_0006",
+            "en_US": "...I thought so."
+        },
+        {
+            "id": "a003_444_0007",
+            "en_US": "He is concentrating on his performance!"
+        },
+        {
+            "id": "a003_444_0008",
+            "en_US": "Chip kwip!"
+        }
+    ]
+}

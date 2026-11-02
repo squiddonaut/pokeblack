@@ -1,0 +1,548 @@
+{
+    "flags": 191,
+    "messages": [
+        {
+            "id": "a002_188_0000",
+            "en_US": "{VAR FF00 0002}Hardy{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0001",
+            "en_US": "{VAR FF00 0002}Lonely{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0002",
+            "en_US": "{VAR FF00 0002}Brave{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0003",
+            "en_US": "{VAR FF00 0002}Adamant{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0004",
+            "en_US": "{VAR FF00 0002}Naughty{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0005",
+            "en_US": "{VAR FF00 0002}Bold{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0006",
+            "en_US": "{VAR FF00 0002}Docile{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0007",
+            "en_US": "{VAR FF00 0002}Relaxed{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0008",
+            "en_US": "{VAR FF00 0002}Impish{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0009",
+            "en_US": "{VAR FF00 0002}Lax{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0010",
+            "en_US": "{VAR FF00 0002}Timid{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0011",
+            "en_US": "{VAR FF00 0002}Hasty{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0012",
+            "en_US": "{VAR FF00 0002}Serious{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0013",
+            "en_US": "{VAR FF00 0002}Jolly{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0014",
+            "en_US": "{VAR FF00 0002}Naive{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0015",
+            "en_US": "{VAR FF00 0002}Modest{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0016",
+            "en_US": "{VAR FF00 0002}Mild{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0017",
+            "en_US": "{VAR FF00 0002}Quiet{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0018",
+            "en_US": "{VAR FF00 0002}Bashful{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0019",
+            "en_US": "{VAR FF00 0002}Rash{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0020",
+            "en_US": "{VAR FF00 0002}Calm{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0021",
+            "en_US": "{VAR FF00 0002}Gentle{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0022",
+            "en_US": "{VAR FF00 0002}Sassy{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0023",
+            "en_US": "{VAR FF00 0002}Careful{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0024",
+            "en_US": "{VAR FF00 0002}Quirky{VAR FF00 0000} nature."
+        },
+        {
+            "id": "a002_188_0025",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Met at Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0026",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently met at\n",
+                "Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0027",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Arrived at Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0028",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently arrived at\n",
+                "Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0029",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg obtained.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg hatched."
+            ]
+        },
+        {
+            "id": "a002_188_0030",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg obtained.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg apparently hatched."
+            ]
+        },
+        {
+            "id": "a002_188_0031",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg received.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg hatched."
+            ]
+        },
+        {
+            "id": "a002_188_0032",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg received.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg apparently hatched."
+            ]
+        },
+        {
+            "id": "a002_188_0033",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Had a fateful encounter\n",
+                "at Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0034",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently had a\n",
+                "fateful encounter at\n",
+                "Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0035",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg obtained.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg hatched.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0036",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}\n",
+                "Egg obtained.\n",
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Egg apparently hatched.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_188_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_188_0039",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_188_0040",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_188_0041",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Arrived at Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0042",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently arrived at Lv. {VAR 0202 0003}."
+            ]
+        },
+        {
+            "id": "a002_188_0043",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Arrived at Lv. {VAR 0202 0003} after\n",
+                "a long travel through time."
+            ]
+        },
+        {
+            "id": "a002_188_0044",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently arrived at Lv. {VAR 0202 0003}\n",
+                "after a long travel through time."
+            ]
+        },
+        {
+            "id": "a002_188_0045",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Arrived at Lv. {VAR 0202 0003}.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0046",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently arrived at Lv. {VAR 0202 0003}.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0047",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Arrived at Lv. {VAR 0202 0003} after\n",
+                "a long travel through time.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0048",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}\n",
+                "Apparently arrived at Lv. {VAR 0202 0003}\n",
+                "after a long travel through time.\n",
+                "Fateful encounter."
+            ]
+        },
+        {
+            "id": "a002_188_0049",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "Had a fateful encounter\n",
+                "at {VAR FF00 0002}a special place{VAR FF00 0000}.\n",
+                "It's a mythical Pokémon.\n",
+                "Try taking it to {VAR FF00 0002}Castelia City{VAR FF00 0000}."
+            ]
+        },
+        {
+            "id": "a002_188_0050",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "Fateful encounter.\n",
+                "It finally met its friend Zorua at\n",
+                "{VAR FF00 0002}Castelia City{VAR FF00 0000} safely."
+            ]
+        },
+        {
+            "id": "a002_188_0051",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "Had a fateful encounter\n",
+                "at {VAR FF00 0002}a special place{VAR FF00 0000}.\n",
+                "It's a legendary Pokémon.\n",
+                "Try taking it to {VAR FF00 0002}Lostlorn Forest{VAR FF00 0000}."
+            ]
+        },
+        {
+            "id": "a002_188_0052",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "Fateful encounter.\n",
+                "It defeated Zoroark's illusion\n",
+                "at {VAR FF00 0002}Lostlorn Forest{VAR FF00 0000}."
+            ]
+        },
+        {
+            "id": "a002_188_0053",
+            "en_US": "Loves to eat."
+        },
+        {
+            "id": "a002_188_0054",
+            "en_US": "Often dozes off."
+        },
+        {
+            "id": "a002_188_0055",
+            "en_US": "Often scatters things."
+        },
+        {
+            "id": "a002_188_0056",
+            "en_US": "Scatters things often."
+        },
+        {
+            "id": "a002_188_0057",
+            "en_US": "Likes to relax."
+        },
+        {
+            "id": "a002_188_0058",
+            "en_US": "Proud of its power."
+        },
+        {
+            "id": "a002_188_0059",
+            "en_US": "Likes to thrash about."
+        },
+        {
+            "id": "a002_188_0060",
+            "en_US": "A little quick tempered."
+        },
+        {
+            "id": "a002_188_0061",
+            "en_US": "Likes to fight."
+        },
+        {
+            "id": "a002_188_0062",
+            "en_US": "Quick tempered."
+        },
+        {
+            "id": "a002_188_0063",
+            "en_US": "Sturdy body."
+        },
+        {
+            "id": "a002_188_0064",
+            "en_US": "Capable of taking hits."
+        },
+        {
+            "id": "a002_188_0065",
+            "en_US": "Highly persistent."
+        },
+        {
+            "id": "a002_188_0066",
+            "en_US": "Good endurance."
+        },
+        {
+            "id": "a002_188_0067",
+            "en_US": "Good perseverance."
+        },
+        {
+            "id": "a002_188_0068",
+            "en_US": "Likes to run."
+        },
+        {
+            "id": "a002_188_0069",
+            "en_US": "Alert to sounds."
+        },
+        {
+            "id": "a002_188_0070",
+            "en_US": "Impetuous and silly."
+        },
+        {
+            "id": "a002_188_0071",
+            "en_US": "Somewhat of a clown."
+        },
+        {
+            "id": "a002_188_0072",
+            "en_US": "Quick to flee."
+        },
+        {
+            "id": "a002_188_0073",
+            "en_US": "Highly curious."
+        },
+        {
+            "id": "a002_188_0074",
+            "en_US": "Mischievous."
+        },
+        {
+            "id": "a002_188_0075",
+            "en_US": "Thoroughly cunning."
+        },
+        {
+            "id": "a002_188_0076",
+            "en_US": "Often lost in thought."
+        },
+        {
+            "id": "a002_188_0077",
+            "en_US": "Very finicky."
+        },
+        {
+            "id": "a002_188_0078",
+            "en_US": "Strong willed."
+        },
+        {
+            "id": "a002_188_0079",
+            "en_US": "Somewhat vain."
+        },
+        {
+            "id": "a002_188_0080",
+            "en_US": "Strongly defiant."
+        },
+        {
+            "id": "a002_188_0081",
+            "en_US": "Hates to lose."
+        },
+        {
+            "id": "a002_188_0082",
+            "en_US": "Somewhat stubborn."
+        },
+        {
+            "id": "a002_188_0083",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "A mysterious Pokémon\n",
+                "Egg received from\n",
+                "{VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}.\n"
+            ]
+        },
+        {
+            "id": "a002_188_0084",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "A mysterious Pokémon\n",
+                "Egg obtained in\n",
+                "{VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}."
+            ]
+        },
+        {
+            "id": "a002_188_0085",
+            "en_US": [
+                "{VAR 0201 0006}/{VAR 0201 0007}/20{VAR 0201 0005}\n",
+                "A very mysterious\n",
+                "Pokémon Egg obtained\n",
+                "at {VAR FF00 0002}{VAR 0105 0008}{VAR FF00 0000}.\n"
+            ]
+        },
+        {
+            "id": "a002_188_0086",
+            "en_US": [
+                "{VAR 0201 0001}/{VAR 0201 0002}/20{VAR 0201 0000}\n",
+                "A quite mysterious\n",
+                "Pokémon Egg obtained\n",
+                "at {VAR FF00 0002}{VAR 0105 0004}{VAR FF00 0000}.\n"
+            ]
+        },
+        {
+            "id": "a002_188_0087",
+            "en_US": [
+                "“The Egg Watch\"\n",
+                "Sounds can be heard\n",
+                "coming from inside!\n",
+                "It will hatch soon!"
+            ]
+        },
+        {
+            "id": "a002_188_0088",
+            "en_US": [
+                "“The Egg Watch\"\n",
+                "It appears to move\n",
+                "occasionally. It may\n",
+                "be close to hatching."
+            ]
+        },
+        {
+            "id": "a002_188_0089",
+            "en_US": [
+                "“The Egg Watch\"\n",
+                "What will hatch from\n",
+                "this? It doesn't seem\n",
+                "close to hatching."
+            ]
+        },
+        {
+            "id": "a002_188_0090",
+            "en_US": [
+                "“The Egg Watch\"\n",
+                "It looks like this Egg\n",
+                "will take a long time to\n",
+                "hatch."
+            ]
+        }
+    ]
+}

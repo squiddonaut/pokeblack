@@ -1,0 +1,666 @@
+{
+    "flags": 84,
+    "pad": "2c2c",
+    "messages": [
+        {
+            "id": "a002_285_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a002_285_0001",
+            "en_US": "STENCH"
+        },
+        {
+            "id": "a002_285_0002",
+            "en_US": "DRIZZLE"
+        },
+        {
+            "id": "a002_285_0003",
+            "en_US": "SPEED BOOST"
+        },
+        {
+            "id": "a002_285_0004",
+            "en_US": "BATTLE ARMOR"
+        },
+        {
+            "id": "a002_285_0005",
+            "en_US": "STURDY"
+        },
+        {
+            "id": "a002_285_0006",
+            "en_US": "DAMP"
+        },
+        {
+            "id": "a002_285_0007",
+            "en_US": "LIMBER"
+        },
+        {
+            "id": "a002_285_0008",
+            "en_US": "SAND VEIL"
+        },
+        {
+            "id": "a002_285_0009",
+            "en_US": "STATIC"
+        },
+        {
+            "id": "a002_285_0010",
+            "en_US": "VOLT ABSORB"
+        },
+        {
+            "id": "a002_285_0011",
+            "en_US": "WATER ABSORB"
+        },
+        {
+            "id": "a002_285_0012",
+            "en_US": "OBLIVIOUS"
+        },
+        {
+            "id": "a002_285_0013",
+            "en_US": "CLOUD NINE"
+        },
+        {
+            "id": "a002_285_0014",
+            "en_US": "COMPOUNDEYES"
+        },
+        {
+            "id": "a002_285_0015",
+            "en_US": "INSOMNIA"
+        },
+        {
+            "id": "a002_285_0016",
+            "en_US": "COLOR CHANGE"
+        },
+        {
+            "id": "a002_285_0017",
+            "en_US": "IMMUNITY"
+        },
+        {
+            "id": "a002_285_0018",
+            "en_US": "FLASH FIRE"
+        },
+        {
+            "id": "a002_285_0019",
+            "en_US": "SHIELD DUST"
+        },
+        {
+            "id": "a002_285_0020",
+            "en_US": "OWN TEMPO"
+        },
+        {
+            "id": "a002_285_0021",
+            "en_US": "SUCTION CUPS"
+        },
+        {
+            "id": "a002_285_0022",
+            "en_US": "INTIMIDATE"
+        },
+        {
+            "id": "a002_285_0023",
+            "en_US": "SHADOW TAG"
+        },
+        {
+            "id": "a002_285_0024",
+            "en_US": "ROUGH SKIN"
+        },
+        {
+            "id": "a002_285_0025",
+            "en_US": "WONDER GUARD"
+        },
+        {
+            "id": "a002_285_0026",
+            "en_US": "LEVITATE"
+        },
+        {
+            "id": "a002_285_0027",
+            "en_US": "EFFECT SPORE"
+        },
+        {
+            "id": "a002_285_0028",
+            "en_US": "SYNCHRONIZE"
+        },
+        {
+            "id": "a002_285_0029",
+            "en_US": "CLEAR BODY"
+        },
+        {
+            "id": "a002_285_0030",
+            "en_US": "NATURAL CURE"
+        },
+        {
+            "id": "a002_285_0031",
+            "en_US": "LIGHTNINGROD"
+        },
+        {
+            "id": "a002_285_0032",
+            "en_US": "SERENE GRACE"
+        },
+        {
+            "id": "a002_285_0033",
+            "en_US": "SWIFT SWIM"
+        },
+        {
+            "id": "a002_285_0034",
+            "en_US": "CHLOROPHYLL"
+        },
+        {
+            "id": "a002_285_0035",
+            "en_US": "ILLUMINATE"
+        },
+        {
+            "id": "a002_285_0036",
+            "en_US": "TRACE"
+        },
+        {
+            "id": "a002_285_0037",
+            "en_US": "HUGE POWER"
+        },
+        {
+            "id": "a002_285_0038",
+            "en_US": "POISON POINT"
+        },
+        {
+            "id": "a002_285_0039",
+            "en_US": "INNER FOCUS"
+        },
+        {
+            "id": "a002_285_0040",
+            "en_US": "MAGMA ARMOR"
+        },
+        {
+            "id": "a002_285_0041",
+            "en_US": "WATER VEIL"
+        },
+        {
+            "id": "a002_285_0042",
+            "en_US": "MAGNET PULL"
+        },
+        {
+            "id": "a002_285_0043",
+            "en_US": "SOUNDPROOF"
+        },
+        {
+            "id": "a002_285_0044",
+            "en_US": "RAIN DISH"
+        },
+        {
+            "id": "a002_285_0045",
+            "en_US": "SAND STREAM"
+        },
+        {
+            "id": "a002_285_0046",
+            "en_US": "PRESSURE"
+        },
+        {
+            "id": "a002_285_0047",
+            "en_US": "THICK FAT"
+        },
+        {
+            "id": "a002_285_0048",
+            "en_US": "EARLY BIRD"
+        },
+        {
+            "id": "a002_285_0049",
+            "en_US": "FLAME BODY"
+        },
+        {
+            "id": "a002_285_0050",
+            "en_US": "RUN AWAY"
+        },
+        {
+            "id": "a002_285_0051",
+            "en_US": "KEEN EYE"
+        },
+        {
+            "id": "a002_285_0052",
+            "en_US": "HYPER CUTTER"
+        },
+        {
+            "id": "a002_285_0053",
+            "en_US": "PICKUP"
+        },
+        {
+            "id": "a002_285_0054",
+            "en_US": "TRUANT"
+        },
+        {
+            "id": "a002_285_0055",
+            "en_US": "HUSTLE"
+        },
+        {
+            "id": "a002_285_0056",
+            "en_US": "CUTE CHARM"
+        },
+        {
+            "id": "a002_285_0057",
+            "en_US": "PLUS"
+        },
+        {
+            "id": "a002_285_0058",
+            "en_US": "MINUS"
+        },
+        {
+            "id": "a002_285_0059",
+            "en_US": "FORECAST"
+        },
+        {
+            "id": "a002_285_0060",
+            "en_US": "STICKY HOLD"
+        },
+        {
+            "id": "a002_285_0061",
+            "en_US": "SHED SKIN"
+        },
+        {
+            "id": "a002_285_0062",
+            "en_US": "GUTS"
+        },
+        {
+            "id": "a002_285_0063",
+            "en_US": "MARVEL SCALE"
+        },
+        {
+            "id": "a002_285_0064",
+            "en_US": "LIQUID OOZE"
+        },
+        {
+            "id": "a002_285_0065",
+            "en_US": "OVERGROW"
+        },
+        {
+            "id": "a002_285_0066",
+            "en_US": "BLAZE"
+        },
+        {
+            "id": "a002_285_0067",
+            "en_US": "TORRENT"
+        },
+        {
+            "id": "a002_285_0068",
+            "en_US": "SWARM"
+        },
+        {
+            "id": "a002_285_0069",
+            "en_US": "ROCK HEAD"
+        },
+        {
+            "id": "a002_285_0070",
+            "en_US": "DROUGHT"
+        },
+        {
+            "id": "a002_285_0071",
+            "en_US": "ARENA TRAP"
+        },
+        {
+            "id": "a002_285_0072",
+            "en_US": "VITAL SPIRIT"
+        },
+        {
+            "id": "a002_285_0073",
+            "en_US": "WHITE SMOKE"
+        },
+        {
+            "id": "a002_285_0074",
+            "en_US": "PURE POWER"
+        },
+        {
+            "id": "a002_285_0075",
+            "en_US": "SHELL ARMOR"
+        },
+        {
+            "id": "a002_285_0076",
+            "en_US": "AIR LOCK"
+        },
+        {
+            "id": "a002_285_0077",
+            "en_US": "TANGLED FEET"
+        },
+        {
+            "id": "a002_285_0078",
+            "en_US": "MOTOR DRIVE"
+        },
+        {
+            "id": "a002_285_0079",
+            "en_US": "RIVALRY"
+        },
+        {
+            "id": "a002_285_0080",
+            "en_US": "STEADFAST"
+        },
+        {
+            "id": "a002_285_0081",
+            "en_US": "SNOW CLOAK"
+        },
+        {
+            "id": "a002_285_0082",
+            "en_US": "GLUTTONY"
+        },
+        {
+            "id": "a002_285_0083",
+            "en_US": "ANGER POINT"
+        },
+        {
+            "id": "a002_285_0084",
+            "en_US": "UNBURDEN"
+        },
+        {
+            "id": "a002_285_0085",
+            "en_US": "HEATPROOF"
+        },
+        {
+            "id": "a002_285_0086",
+            "en_US": "SIMPLE"
+        },
+        {
+            "id": "a002_285_0087",
+            "en_US": "DRY SKIN"
+        },
+        {
+            "id": "a002_285_0088",
+            "en_US": "DOWNLOAD"
+        },
+        {
+            "id": "a002_285_0089",
+            "en_US": "IRON FIST"
+        },
+        {
+            "id": "a002_285_0090",
+            "en_US": "POISON HEAL"
+        },
+        {
+            "id": "a002_285_0091",
+            "en_US": "ADAPTABILITY"
+        },
+        {
+            "id": "a002_285_0092",
+            "en_US": "SKILL LINK"
+        },
+        {
+            "id": "a002_285_0093",
+            "en_US": "HYDRATION"
+        },
+        {
+            "id": "a002_285_0094",
+            "en_US": "SOLAR POWER"
+        },
+        {
+            "id": "a002_285_0095",
+            "en_US": "QUICK FEET"
+        },
+        {
+            "id": "a002_285_0096",
+            "en_US": "NORMALIZE"
+        },
+        {
+            "id": "a002_285_0097",
+            "en_US": "SNIPER"
+        },
+        {
+            "id": "a002_285_0098",
+            "en_US": "MAGIC GUARD"
+        },
+        {
+            "id": "a002_285_0099",
+            "en_US": "NO GUARD"
+        },
+        {
+            "id": "a002_285_0100",
+            "en_US": "STALL"
+        },
+        {
+            "id": "a002_285_0101",
+            "en_US": "TECHNICIAN"
+        },
+        {
+            "id": "a002_285_0102",
+            "en_US": "LEAF GUARD"
+        },
+        {
+            "id": "a002_285_0103",
+            "en_US": "KLUTZ"
+        },
+        {
+            "id": "a002_285_0104",
+            "en_US": "MOLD BREAKER"
+        },
+        {
+            "id": "a002_285_0105",
+            "en_US": "SUPER LUCK"
+        },
+        {
+            "id": "a002_285_0106",
+            "en_US": "AFTERMATH"
+        },
+        {
+            "id": "a002_285_0107",
+            "en_US": "ANTICIPATION"
+        },
+        {
+            "id": "a002_285_0108",
+            "en_US": "FOREWARN"
+        },
+        {
+            "id": "a002_285_0109",
+            "en_US": "UNAWARE"
+        },
+        {
+            "id": "a002_285_0110",
+            "en_US": "TINTED LENS"
+        },
+        {
+            "id": "a002_285_0111",
+            "en_US": "FILTER"
+        },
+        {
+            "id": "a002_285_0112",
+            "en_US": "SLOW START"
+        },
+        {
+            "id": "a002_285_0113",
+            "en_US": "SCRAPPY"
+        },
+        {
+            "id": "a002_285_0114",
+            "en_US": "STORM DRAIN"
+        },
+        {
+            "id": "a002_285_0115",
+            "en_US": "ICE BODY"
+        },
+        {
+            "id": "a002_285_0116",
+            "en_US": "SOLID ROCK"
+        },
+        {
+            "id": "a002_285_0117",
+            "en_US": "SNOW WARNING"
+        },
+        {
+            "id": "a002_285_0118",
+            "en_US": "HONEY GATHER"
+        },
+        {
+            "id": "a002_285_0119",
+            "en_US": "FRISK"
+        },
+        {
+            "id": "a002_285_0120",
+            "en_US": "RECKLESS"
+        },
+        {
+            "id": "a002_285_0121",
+            "en_US": "MULTITYPE"
+        },
+        {
+            "id": "a002_285_0122",
+            "en_US": "FLOWER GIFT"
+        },
+        {
+            "id": "a002_285_0123",
+            "en_US": "BAD DREAMS"
+        },
+        {
+            "id": "a002_285_0124",
+            "en_US": "PICKPOCKET"
+        },
+        {
+            "id": "a002_285_0125",
+            "en_US": "SHEER FORCE"
+        },
+        {
+            "id": "a002_285_0126",
+            "en_US": "CONTRARY"
+        },
+        {
+            "id": "a002_285_0127",
+            "en_US": "UNNERVE"
+        },
+        {
+            "id": "a002_285_0128",
+            "en_US": "DEFIANT"
+        },
+        {
+            "id": "a002_285_0129",
+            "en_US": "DEFEATIST"
+        },
+        {
+            "id": "a002_285_0130",
+            "en_US": "CURSED BODY"
+        },
+        {
+            "id": "a002_285_0131",
+            "en_US": "HEALER"
+        },
+        {
+            "id": "a002_285_0132",
+            "en_US": "FRIEND GUARD"
+        },
+        {
+            "id": "a002_285_0133",
+            "en_US": "WEAK ARMOR"
+        },
+        {
+            "id": "a002_285_0134",
+            "en_US": "HEAVY METAL"
+        },
+        {
+            "id": "a002_285_0135",
+            "en_US": "LIGHT METAL"
+        },
+        {
+            "id": "a002_285_0136",
+            "en_US": "MULTISCALE"
+        },
+        {
+            "id": "a002_285_0137",
+            "en_US": "TOXIC BOOST"
+        },
+        {
+            "id": "a002_285_0138",
+            "en_US": "FLARE BOOST"
+        },
+        {
+            "id": "a002_285_0139",
+            "en_US": "HARVEST"
+        },
+        {
+            "id": "a002_285_0140",
+            "en_US": "TELEPATHY"
+        },
+        {
+            "id": "a002_285_0141",
+            "en_US": "MOODY"
+        },
+        {
+            "id": "a002_285_0142",
+            "en_US": "OVERCOAT"
+        },
+        {
+            "id": "a002_285_0143",
+            "en_US": "POISON TOUCH"
+        },
+        {
+            "id": "a002_285_0144",
+            "en_US": "REGENERATOR"
+        },
+        {
+            "id": "a002_285_0145",
+            "en_US": "BIG PECKS"
+        },
+        {
+            "id": "a002_285_0146",
+            "en_US": "SAND RUSH"
+        },
+        {
+            "id": "a002_285_0147",
+            "en_US": "WONDER SKIN"
+        },
+        {
+            "id": "a002_285_0148",
+            "en_US": "ANALYTIC"
+        },
+        {
+            "id": "a002_285_0149",
+            "en_US": "ILLUSION"
+        },
+        {
+            "id": "a002_285_0150",
+            "en_US": "IMPOSTER"
+        },
+        {
+            "id": "a002_285_0151",
+            "en_US": "INFILTRATOR"
+        },
+        {
+            "id": "a002_285_0152",
+            "en_US": "MUMMY"
+        },
+        {
+            "id": "a002_285_0153",
+            "en_US": "MOXIE"
+        },
+        {
+            "id": "a002_285_0154",
+            "en_US": "JUSTIFIED"
+        },
+        {
+            "id": "a002_285_0155",
+            "en_US": "RATTLED"
+        },
+        {
+            "id": "a002_285_0156",
+            "en_US": "MAGIC BOUNCE"
+        },
+        {
+            "id": "a002_285_0157",
+            "en_US": "SAP SIPPER"
+        },
+        {
+            "id": "a002_285_0158",
+            "en_US": "PRANKSTER"
+        },
+        {
+            "id": "a002_285_0159",
+            "en_US": "SAND FORCE"
+        },
+        {
+            "id": "a002_285_0160",
+            "en_US": "IRON BARBS"
+        },
+        {
+            "id": "a002_285_0161",
+            "en_US": "ZEN MODE"
+        },
+        {
+            "id": "a002_285_0162",
+            "en_US": "VICTORY STAR"
+        },
+        {
+            "id": "a002_285_0163",
+            "en_US": "TURBOBLAZE"
+        },
+        {
+            "id": "a002_285_0164",
+            "en_US": "TERAVOLT"
+        }
+    ]
+}

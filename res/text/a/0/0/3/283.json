@@ -1,0 +1,95 @@
+{
+    "flags": 224,
+    "pad": "3232",
+    "messages": [
+        {
+            "id": "a003_283_0000",
+            "en_US": "{VAR 0100 0000} obtained {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_283_0001",
+            "en_US": "{VAR 0100 0000} obtained the {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_283_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_283_0003",
+            "en_US": [
+                "{VAR 0100 0000} obtained\n",
+                "{VAR 0109 0001} {VAR 0107 0002}!"
+            ]
+        },
+        {
+            "id": "a003_283_0004",
+            "en_US": "{VAR 0100 0000} found {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_283_0005",
+            "en_US": "{VAR 0100 0000} found {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_283_0006",
+            "en_US": [
+                "{VAR 0100 0000} found\n",
+                "{VAR 0109 0001} {VAR 0107 0002}!"
+            ]
+        },
+        {
+            "id": "a003_283_0007",
+            "en_US": [
+                "Too bad! There is no more room for\n",
+                "{VAR 0109 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_283_0008",
+            "en_US": [
+                "Too bad! There is no more room for\n",
+                "{VAR 0109 0000}!"
+            ]
+        },
+        {
+            "id": "a003_283_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_283_0010",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 0109 0001} in the\n",
+                "{VAR FF00 0002}{VAR 0112 0002}{VAR FF00 0000} Case.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_283_0011",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 0109 0001} in the\n",
+                "{VAR FF00 0002}{VAR 0112 0002}{VAR FF00 0000} Case."
+            ]
+        },
+        {
+            "id": "a003_283_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_283_0013",
+            "en_US": [
+                "You find a note on the item.{VAR BE01}\n",
+                "“Please make good use of this item on\n",
+                "your adventure! Sincerely, {VAR 0100 0003}\"{VAR BE01}\n",
+                "It looks like {VAR 0100 0003} hid the item."
+            ]
+        },
+        {
+            "id": "a003_283_0014",
+            "en_US": [
+                "Too bad! The Bag is full!\n",
+                "{VAR 0100 0000} gave up the hidden item."
+            ]
+        }
+    ]
+}

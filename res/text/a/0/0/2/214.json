@@ -1,0 +1,117 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_214_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_214_0001",
+            "en_US": "Acre"
+        },
+        {
+            "id": "a002_214_0002",
+            "en_US": "Rondônia"
+        },
+        {
+            "id": "a002_214_0003",
+            "en_US": "Alagoas"
+        },
+        {
+            "id": "a002_214_0004",
+            "en_US": "Amapá"
+        },
+        {
+            "id": "a002_214_0005",
+            "en_US": "Amazonas"
+        },
+        {
+            "id": "a002_214_0006",
+            "en_US": "Bahia"
+        },
+        {
+            "id": "a002_214_0007",
+            "en_US": "Ceará"
+        },
+        {
+            "id": "a002_214_0008",
+            "en_US": "Federal District"
+        },
+        {
+            "id": "a002_214_0009",
+            "en_US": "Espírito Santo"
+        },
+        {
+            "id": "a002_214_0010",
+            "en_US": "Goias"
+        },
+        {
+            "id": "a002_214_0011",
+            "en_US": "Maranhão"
+        },
+        {
+            "id": "a002_214_0012",
+            "en_US": "Mato Grosso"
+        },
+        {
+            "id": "a002_214_0013",
+            "en_US": "Mato Grosso do Sul"
+        },
+        {
+            "id": "a002_214_0014",
+            "en_US": "Minas Gerais"
+        },
+        {
+            "id": "a002_214_0015",
+            "en_US": "Pará"
+        },
+        {
+            "id": "a002_214_0016",
+            "en_US": "Paraíba"
+        },
+        {
+            "id": "a002_214_0017",
+            "en_US": "Paraná"
+        },
+        {
+            "id": "a002_214_0018",
+            "en_US": "Pernambuco"
+        },
+        {
+            "id": "a002_214_0019",
+            "en_US": "Piauí"
+        },
+        {
+            "id": "a002_214_0020",
+            "en_US": "Rio de Janeiro"
+        },
+        {
+            "id": "a002_214_0021",
+            "en_US": "Rio Grande do Sul"
+        },
+        {
+            "id": "a002_214_0022",
+            "en_US": "Rio Grande do Norte"
+        },
+        {
+            "id": "a002_214_0023",
+            "en_US": "Roraima"
+        },
+        {
+            "id": "a002_214_0024",
+            "en_US": "Santa Catarina"
+        },
+        {
+            "id": "a002_214_0025",
+            "en_US": "São Paulo"
+        },
+        {
+            "id": "a002_214_0026",
+            "en_US": "Sergipe"
+        },
+        {
+            "id": "a002_214_0027",
+            "en_US": "Tocantins"
+        }
+    ]
+}

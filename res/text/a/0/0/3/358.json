@@ -1,0 +1,137 @@
+{
+    "flags": 224,
+    "pad": "2222",
+    "messages": [
+        {
+            "id": "a003_358_0000",
+            "en_US": [
+                "Hey! Trainer!{VAR BE01}\n",
+                "There is a bit of a problem up ahead.\n",
+                "Sorry, but you can't pass now.{VAR BE01}\n",
+                "You should go kill some time by\n",
+                "challenging the Castelia City Gym!"
+            ]
+        },
+        {
+            "id": "a003_358_0001",
+            "en_US": [
+                "Hey! Trainer!{VAR BE01}\n",
+                "There is a bit of a problem up ahead.\n",
+                "Sorry, but you can't pass now.{VAR BE01}\n",
+                "You should go kill some time by\n",
+                "challenging the Castelia City Gym!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_358_0002",
+            "en_US": [
+                "Deep in the desert ahead of here,\n",
+                "at the Desert Resort,{VAR BE00}\n",
+                "there are some ruins that have{VAR BE00}\n",
+                "become a little tourist destination!"
+            ]
+        },
+        {
+            "id": "a003_358_0003",
+            "en_US": [
+                "Cheren: I believe it would be wise for me\n",
+                "to catch some Ground-type Pokémon.{VAR BE01}\n",
+                "Or perhaps I should strengthen my\n",
+                "Pokémon. What's my best path forward?"
+            ]
+        },
+        {
+            "id": "a003_358_0004",
+            "en_US": [
+                "Cheren: Hey, {VAR 0100 0000}.{VAR BE01}\n",
+                "I've been waiting for you to get\n",
+                "the Insect Badge.{VAR BE01}\n",
+                "And now it's time to see which one of us\n",
+                "is the stronger Trainer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_358_0005",
+            "en_US": [
+                "Cheren: It's now clear to me.{VAR BE01}\n",
+                "The reason you are so tough is the trust\n",
+                "between you and your Pokémon.{VAR BE01}\n",
+                "But...that shouldn't be a problem.{VAR BE01}\n",
+                "I can get more out of {VAR 0101 0000}\n",
+                "and my other Pokémon, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_358_0006",
+            "en_US": "The Xtransceiver is ringing."
+        },
+        {
+            "id": "a003_358_0007",
+            "en_US": "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}"
+        },
+        {
+            "id": "a003_358_0008",
+            "en_US": [
+                "Cheren: Nimbasa City's gate is\n",
+                "straight down Route 4.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_358_0009",
+            "en_US": [
+                "When I look at the freeway,\n",
+                "I feel exhilarated!"
+            ]
+        },
+        {
+            "id": "a003_358_0010",
+            "en_US": [
+                "Ruins buried in the desert...\n",
+                "It's like a grand adventure in a story."
+            ]
+        },
+        {
+            "id": "a003_358_0011",
+            "en_US": [
+                "Oh! Trainer, take a look at the sand.{VAR BE01}\n",
+                "Do you see how some areas are lighter?\n",
+                "And some of the sand looks...darker...{VAR BE01}\n",
+                "Pokémon are hiding in the darker sand!"
+            ]
+        },
+        {
+            "id": "a003_358_0012",
+            "en_US": "Route 4",
+            "flags": 207
+        },
+        {
+            "id": "a003_358_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_358_0014",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Pokémon have a source of energy\n",
+                "for using moves.{VAR BE01}\n",
+                "It's called PP, meaning Power Points.\n",
+                "They have PP for each move.{VAR BE01}\n",
+                "When a move has no PP remaining,\n",
+                "that Pokémon cannot use that move.{VAR BE01}\n",
+                "That's a good time to head for\n",
+                "the Pokémon Center!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_358_0015",
+            "en_US": [
+                "Tired Workers should head\n",
+                "to the prefab house by Castelia City!"
+            ],
+            "flags": 207
+        }
+    ]
+}

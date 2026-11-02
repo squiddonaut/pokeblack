@@ -1,0 +1,49 @@
+{
+    "flags": 136,
+    "pad": "dcdc",
+    "messages": [
+        {
+            "id": "a002_276_0000",
+            "en_US": "UNOVA POKÉDEX"
+        },
+        {
+            "id": "a002_276_0001",
+            "en_US": "NATIONAL POKÉDEX"
+        },
+        {
+            "id": "a002_276_0002",
+            "en_US": "SEEN",
+            "flags": 72
+        },
+        {
+            "id": "a002_276_0003",
+            "en_US": "OBTAINED",
+            "flags": 88
+        },
+        {
+            "id": "a002_276_0004",
+            "en_US": "SEARCH RESULTS",
+            "flags": 88
+        },
+        {
+            "id": "a002_276_0005",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_276_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_276_0007",
+            "en_US": "?????",
+            "flags": 60
+        },
+        {
+            "id": "a002_276_0008",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        }
+    ]
+}

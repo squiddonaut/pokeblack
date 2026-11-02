@@ -1,0 +1,49 @@
+{
+    "flags": 224,
+    "pad": "6666",
+    "messages": [
+        {
+            "id": "a003_222_0000",
+            "en_US": [
+                "Listen. You can slide down the cliffs\n",
+                "here! Watch me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_222_0001",
+            "en_US": "Now, you try it!{VAR BE01}"
+        },
+        {
+            "id": "a003_222_0002",
+            "en_US": [
+                "You can slide down the cliffs here at\n",
+                "Victory Road!{VAR BE01}\n",
+                "It takes some nerve the first time, but\n",
+                "it's fun!"
+            ]
+        },
+        {
+            "id": "a003_222_0003",
+            "en_US": [
+                "Aiiieee! That's a long way down!\n",
+                "I can't do it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_222_0004",
+            "en_US": [
+                "Aiiieee! That's a long way down!\n",
+                "I can't do it!"
+            ]
+        },
+        {
+            "id": "a003_222_0005",
+            "en_US": [
+                "It looks like there's an item\n",
+                "down there...{VAR BE01}\n",
+                "But it's such a long way!\n",
+                "Do you have the courage?"
+            ]
+        }
+    ]
+}

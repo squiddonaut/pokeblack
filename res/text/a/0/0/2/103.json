@@ -1,0 +1,377 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_103_0000",
+            "en_US": "DAILYLIFE"
+        },
+        {
+            "id": "a002_103_0001",
+            "en_US": "DAMP"
+        },
+        {
+            "id": "a002_103_0002",
+            "en_US": "DANCE"
+        },
+        {
+            "id": "a002_103_0003",
+            "en_US": "DANGER"
+        },
+        {
+            "id": "a002_103_0004",
+            "en_US": "DARK"
+        },
+        {
+            "id": "a002_103_0005",
+            "en_US": "DARKPULSE"
+        },
+        {
+            "id": "a002_103_0006",
+            "en_US": "DARKRAI"
+        },
+        {
+            "id": "a002_103_0007",
+            "en_US": "DARKVOID"
+        },
+        {
+            "id": "a002_103_0008",
+            "en_US": "DARMANITAN"
+        },
+        {
+            "id": "a002_103_0009",
+            "en_US": "DARUMAKA"
+        },
+        {
+            "id": "a002_103_0010",
+            "en_US": "DATE"
+        },
+        {
+            "id": "a002_103_0011",
+            "en_US": "DEERLING"
+        },
+        {
+            "id": "a002_103_0012",
+            "en_US": "DEFEATIST"
+        },
+        {
+            "id": "a002_103_0013",
+            "en_US": "DEFENDORDER"
+        },
+        {
+            "id": "a002_103_0014",
+            "en_US": "DEFENSECURL"
+        },
+        {
+            "id": "a002_103_0015",
+            "en_US": "DEFIANT"
+        },
+        {
+            "id": "a002_103_0016",
+            "en_US": "DEFOG"
+        },
+        {
+            "id": "a002_103_0017",
+            "en_US": "DEINO"
+        },
+        {
+            "id": "a002_103_0018",
+            "en_US": "DELCATTY"
+        },
+        {
+            "id": "a002_103_0019",
+            "en_US": "DELIBIRD"
+        },
+        {
+            "id": "a002_103_0020",
+            "en_US": "DELIGHT"
+        },
+        {
+            "id": "a002_103_0021",
+            "en_US": "DEOXYS"
+        },
+        {
+            "id": "a002_103_0022",
+            "en_US": "DEPRESSED"
+        },
+        {
+            "id": "a002_103_0023",
+            "en_US": "DEPTSTORE"
+        },
+        {
+            "id": "a002_103_0024",
+            "en_US": "DESIGN"
+        },
+        {
+            "id": "a002_103_0025",
+            "en_US": "DESTINYBOND"
+        },
+        {
+            "id": "a002_103_0026",
+            "en_US": "DETECT"
+        },
+        {
+            "id": "a002_103_0027",
+            "en_US": "DEWGONG"
+        },
+        {
+            "id": "a002_103_0028",
+            "en_US": "DEWOTT"
+        },
+        {
+            "id": "a002_103_0029",
+            "en_US": "DIALGA"
+        },
+        {
+            "id": "a002_103_0030",
+            "en_US": "DIET"
+        },
+        {
+            "id": "a002_103_0031",
+            "en_US": "DIFFICULT"
+        },
+        {
+            "id": "a002_103_0032",
+            "en_US": "DIG"
+        },
+        {
+            "id": "a002_103_0033",
+            "en_US": "DIGITAL"
+        },
+        {
+            "id": "a002_103_0034",
+            "en_US": "DIGLETT"
+        },
+        {
+            "id": "a002_103_0035",
+            "en_US": "DISABLE"
+        },
+        {
+            "id": "a002_103_0036",
+            "en_US": "DISAPPOINTED"
+        },
+        {
+            "id": "a002_103_0037",
+            "en_US": "DISCHARGE"
+        },
+        {
+            "id": "a002_103_0038",
+            "en_US": "DISLIKE"
+        },
+        {
+            "id": "a002_103_0039",
+            "en_US": "DITTO"
+        },
+        {
+            "id": "a002_103_0040",
+            "en_US": "DIVE"
+        },
+        {
+            "id": "a002_103_0041",
+            "en_US": "DIZZYPUNCH"
+        },
+        {
+            "id": "a002_103_0042",
+            "en_US": "DODRIO"
+        },
+        {
+            "id": "a002_103_0043",
+            "en_US": "DODUO"
+        },
+        {
+            "id": "a002_103_0044",
+            "en_US": "DONPHAN"
+        },
+        {
+            "id": "a002_103_0045",
+            "en_US": "DOOMDESIRE"
+        },
+        {
+            "id": "a002_103_0046",
+            "en_US": "DOUBLE"
+        },
+        {
+            "id": "a002_103_0047",
+            "en_US": "DOUBLEEDGE"
+        },
+        {
+            "id": "a002_103_0048",
+            "en_US": "DOUBLEHIT"
+        },
+        {
+            "id": "a002_103_0049",
+            "en_US": "DOUBLEKICK"
+        },
+        {
+            "id": "a002_103_0050",
+            "en_US": "DOUBLESLAP"
+        },
+        {
+            "id": "a002_103_0051",
+            "en_US": "DOUBLETEAM"
+        },
+        {
+            "id": "a002_103_0052",
+            "en_US": "DOWNLOAD"
+        },
+        {
+            "id": "a002_103_0053",
+            "en_US": "DOWSING"
+        },
+        {
+            "id": "a002_103_0054",
+            "en_US": "DRACOMETEOR"
+        },
+        {
+            "id": "a002_103_0055",
+            "en_US": "DRAGON"
+        },
+        {
+            "id": "a002_103_0056",
+            "en_US": "DRAGONAIR"
+        },
+        {
+            "id": "a002_103_0057",
+            "en_US": "DRAGONBREATH"
+        },
+        {
+            "id": "a002_103_0058",
+            "en_US": "DRAGONCLAW"
+        },
+        {
+            "id": "a002_103_0059",
+            "en_US": "DRAGONDANCE"
+        },
+        {
+            "id": "a002_103_0060",
+            "en_US": "DRAGONITE"
+        },
+        {
+            "id": "a002_103_0061",
+            "en_US": "DRAGONPULSE"
+        },
+        {
+            "id": "a002_103_0062",
+            "en_US": "DRAGONRAGE"
+        },
+        {
+            "id": "a002_103_0063",
+            "en_US": "DRAGONRUSH"
+        },
+        {
+            "id": "a002_103_0064",
+            "en_US": "DRAGONTAIL"
+        },
+        {
+            "id": "a002_103_0065",
+            "en_US": "DRAINPUNCH"
+        },
+        {
+            "id": "a002_103_0066",
+            "en_US": "DRAPION"
+        },
+        {
+            "id": "a002_103_0067",
+            "en_US": "DRATINI"
+        },
+        {
+            "id": "a002_103_0068",
+            "en_US": "DREAM"
+        },
+        {
+            "id": "a002_103_0069",
+            "en_US": "DREAMEATER"
+        },
+        {
+            "id": "a002_103_0070",
+            "en_US": "DRIFBLIM"
+        },
+        {
+            "id": "a002_103_0071",
+            "en_US": "DRIFLOON"
+        },
+        {
+            "id": "a002_103_0072",
+            "en_US": "DRILBUR"
+        },
+        {
+            "id": "a002_103_0073",
+            "en_US": "DRILLPECK"
+        },
+        {
+            "id": "a002_103_0074",
+            "en_US": "DRILLRUN"
+        },
+        {
+            "id": "a002_103_0075",
+            "en_US": "DRIZZLE"
+        },
+        {
+            "id": "a002_103_0076",
+            "en_US": "DROOLING"
+        },
+        {
+            "id": "a002_103_0077",
+            "en_US": "DROUGHT"
+        },
+        {
+            "id": "a002_103_0078",
+            "en_US": "DROWZEE"
+        },
+        {
+            "id": "a002_103_0079",
+            "en_US": "DRUDDIGON"
+        },
+        {
+            "id": "a002_103_0080",
+            "en_US": "DRYSKIN"
+        },
+        {
+            "id": "a002_103_0081",
+            "en_US": "DUALCHOP"
+        },
+        {
+            "id": "a002_103_0082",
+            "en_US": "DUCKLETT"
+        },
+        {
+            "id": "a002_103_0083",
+            "en_US": "DUGTRIO"
+        },
+        {
+            "id": "a002_103_0084",
+            "en_US": "DUNSPARCE"
+        },
+        {
+            "id": "a002_103_0085",
+            "en_US": "DUOSION"
+        },
+        {
+            "id": "a002_103_0086",
+            "en_US": "DURANT"
+        },
+        {
+            "id": "a002_103_0087",
+            "en_US": "DUSCLOPS"
+        },
+        {
+            "id": "a002_103_0088",
+            "en_US": "DUSKNOIR"
+        },
+        {
+            "id": "a002_103_0089",
+            "en_US": "DUSKULL"
+        },
+        {
+            "id": "a002_103_0090",
+            "en_US": "DUSTOX"
+        },
+        {
+            "id": "a002_103_0091",
+            "en_US": "DWEBBLE"
+        },
+        {
+            "id": "a002_103_0092",
+            "en_US": "DYNAMICPUNCH"
+        }
+    ]
+}

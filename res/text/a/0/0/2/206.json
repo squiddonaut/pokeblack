@@ -1,0 +1,177 @@
+{
+    "flags": 240,
+    "pad": "cece",
+    "messages": [
+        {
+            "id": "a002_206_0000",
+            "en_US": "Enter the Train Number (01-{VAR 0201 0000}).{VAR BE01}"
+        },
+        {
+            "id": "a002_206_0001",
+            "en_US": [
+                "Receiving data for Rank {VAR 0201 0001},\n",
+                "Train Number {VAR 0201 0000}..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_206_0002",
+            "en_US": [
+                "You may not challenge that Train\n",
+                "until the next update.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0003",
+            "en_US": "Data has been received.{VAR BE01}"
+        },
+        {
+            "id": "a002_206_0004",
+            "en_US": "Cancel your challenge?"
+        },
+        {
+            "id": "a002_206_0005",
+            "en_US": [
+                "Enter the Rank of the Train\n",
+                "(01-10) to check your records.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0006",
+            "en_US": "Enter the Train Number (01-{VAR 0201 0000}).{VAR BE01}"
+        },
+        {
+            "id": "a002_206_0007",
+            "en_US": [
+                "Sending your record data...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_206_0008",
+            "en_US": "Your data has been sent.{VAR BE01}"
+        },
+        {
+            "id": "a002_206_0009",
+            "en_US": [
+                "Would you like to cancel your data\n",
+                "download?"
+            ]
+        },
+        {
+            "id": "a002_206_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0013",
+            "en_US": [
+                "The Wi-Fi Train is currently undergoing\n",
+                "maintenance. Please try again later.{VAR BE01}\n",
+                "Error code: 13281{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0014",
+            "en_US": [
+                "The Wi-Fi Train is very crowded.\n",
+                "Please try again later.{VAR BE01}\n",
+                "Error code: 13282{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0015",
+            "en_US": [
+                "The Wi-Fi Train is very crowded.\n",
+                "Please try again later.{VAR BE01}\n",
+                "Error code: 13261{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0016",
+            "en_US": [
+                "Unable to connect to the Wi-Fi Train.\n",
+                "Returning to the reception counter.{VAR BE01}\n",
+                "Error code: 13262{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0017",
+            "en_US": [
+                "Unable to connect to the Wi-Fi\n",
+                "Train.{VAR BE01}\n",
+                "Returning to the reception counter.{VAR BE01}\n",
+                "Error code: 13266{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0018",
+            "en_US": [
+                "You were disconnected from the Wi-Fi Train.\n",
+                "Returning to the reception counter.{VAR BE01}\n",
+                "Error code: 13264{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0019",
+            "en_US": [
+                "You were disconnected from the Wi-Fi Train.\n",
+                "Returning to the reception counter.{VAR BE01}\n",
+                "Error code: 13267{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0020",
+            "en_US": [
+                "That number cannot be specified\n",
+                "for the Wi-Fi Train.{VAR BE01}\n",
+                "Error code: 13263{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0022",
+            "en_US": [
+                "Communication error.{VAR BE01}\n",
+                "Error code: 13267{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0023",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with your Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_206_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0025",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_206_0026",
+            "en_US": "Communicating. Please stand by...",
+            "flags": 224
+        }
+    ]
+}

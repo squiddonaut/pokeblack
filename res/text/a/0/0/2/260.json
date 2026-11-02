@@ -1,0 +1,2606 @@
+{
+    "flags": 118,
+    "pad": "aaaa",
+    "messages": [
+        {
+            "id": "a002_260_0000",
+            "en_US": "????? Pokémon"
+        },
+        {
+            "id": "a002_260_0001",
+            "en_US": "Seed Pokémon"
+        },
+        {
+            "id": "a002_260_0002",
+            "en_US": "Seed Pokémon"
+        },
+        {
+            "id": "a002_260_0003",
+            "en_US": "Seed Pokémon"
+        },
+        {
+            "id": "a002_260_0004",
+            "en_US": "Lizard Pokémon"
+        },
+        {
+            "id": "a002_260_0005",
+            "en_US": "Flame Pokémon"
+        },
+        {
+            "id": "a002_260_0006",
+            "en_US": "Flame Pokémon"
+        },
+        {
+            "id": "a002_260_0007",
+            "en_US": "Tiny Turtle Pokémon"
+        },
+        {
+            "id": "a002_260_0008",
+            "en_US": "Turtle Pokémon"
+        },
+        {
+            "id": "a002_260_0009",
+            "en_US": "Shellfish Pokémon"
+        },
+        {
+            "id": "a002_260_0010",
+            "en_US": "Worm Pokémon"
+        },
+        {
+            "id": "a002_260_0011",
+            "en_US": "Cocoon Pokémon"
+        },
+        {
+            "id": "a002_260_0012",
+            "en_US": "Butterfly Pokémon"
+        },
+        {
+            "id": "a002_260_0013",
+            "en_US": "Hairy Bug Pokémon"
+        },
+        {
+            "id": "a002_260_0014",
+            "en_US": "Cocoon Pokémon"
+        },
+        {
+            "id": "a002_260_0015",
+            "en_US": "Poison Bee Pokémon"
+        },
+        {
+            "id": "a002_260_0016",
+            "en_US": "Tiny Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0017",
+            "en_US": "Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0018",
+            "en_US": "Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0019",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0020",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0021",
+            "en_US": "Tiny Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0022",
+            "en_US": "Beak Pokémon"
+        },
+        {
+            "id": "a002_260_0023",
+            "en_US": "Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0024",
+            "en_US": "Cobra Pokémon"
+        },
+        {
+            "id": "a002_260_0025",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0026",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0027",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0028",
+            "en_US": "Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0029",
+            "en_US": "Poison Pin Pokémon"
+        },
+        {
+            "id": "a002_260_0030",
+            "en_US": "Poison Pin Pokémon"
+        },
+        {
+            "id": "a002_260_0031",
+            "en_US": "Drill Pokémon"
+        },
+        {
+            "id": "a002_260_0032",
+            "en_US": "Poison Pin Pokémon"
+        },
+        {
+            "id": "a002_260_0033",
+            "en_US": "Poison Pin Pokémon"
+        },
+        {
+            "id": "a002_260_0034",
+            "en_US": "Drill Pokémon"
+        },
+        {
+            "id": "a002_260_0035",
+            "en_US": "Fairy Pokémon"
+        },
+        {
+            "id": "a002_260_0036",
+            "en_US": "Fairy Pokémon"
+        },
+        {
+            "id": "a002_260_0037",
+            "en_US": "Fox Pokémon"
+        },
+        {
+            "id": "a002_260_0038",
+            "en_US": "Fox Pokémon"
+        },
+        {
+            "id": "a002_260_0039",
+            "en_US": "Balloon Pokémon"
+        },
+        {
+            "id": "a002_260_0040",
+            "en_US": "Balloon Pokémon"
+        },
+        {
+            "id": "a002_260_0041",
+            "en_US": "Bat Pokémon"
+        },
+        {
+            "id": "a002_260_0042",
+            "en_US": "Bat Pokémon"
+        },
+        {
+            "id": "a002_260_0043",
+            "en_US": "Weed Pokémon"
+        },
+        {
+            "id": "a002_260_0044",
+            "en_US": "Weed Pokémon"
+        },
+        {
+            "id": "a002_260_0045",
+            "en_US": "Flower Pokémon"
+        },
+        {
+            "id": "a002_260_0046",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0047",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0048",
+            "en_US": "Insect Pokémon"
+        },
+        {
+            "id": "a002_260_0049",
+            "en_US": "Poison Moth Pokémon"
+        },
+        {
+            "id": "a002_260_0050",
+            "en_US": "Mole Pokémon"
+        },
+        {
+            "id": "a002_260_0051",
+            "en_US": "Mole Pokémon"
+        },
+        {
+            "id": "a002_260_0052",
+            "en_US": "Scratch Cat Pokémon"
+        },
+        {
+            "id": "a002_260_0053",
+            "en_US": "Classy Cat Pokémon"
+        },
+        {
+            "id": "a002_260_0054",
+            "en_US": "Duck Pokémon"
+        },
+        {
+            "id": "a002_260_0055",
+            "en_US": "Duck Pokémon"
+        },
+        {
+            "id": "a002_260_0056",
+            "en_US": "Pig Monkey Pokémon"
+        },
+        {
+            "id": "a002_260_0057",
+            "en_US": "Pig Monkey Pokémon"
+        },
+        {
+            "id": "a002_260_0058",
+            "en_US": "Puppy Pokémon"
+        },
+        {
+            "id": "a002_260_0059",
+            "en_US": "Legendary Pokémon"
+        },
+        {
+            "id": "a002_260_0060",
+            "en_US": "Tadpole Pokémon"
+        },
+        {
+            "id": "a002_260_0061",
+            "en_US": "Tadpole Pokémon"
+        },
+        {
+            "id": "a002_260_0062",
+            "en_US": "Tadpole Pokémon"
+        },
+        {
+            "id": "a002_260_0063",
+            "en_US": "Psi Pokémon"
+        },
+        {
+            "id": "a002_260_0064",
+            "en_US": "Psi Pokémon"
+        },
+        {
+            "id": "a002_260_0065",
+            "en_US": "Psi Pokémon"
+        },
+        {
+            "id": "a002_260_0066",
+            "en_US": "Superpower Pokémon"
+        },
+        {
+            "id": "a002_260_0067",
+            "en_US": "Superpower Pokémon"
+        },
+        {
+            "id": "a002_260_0068",
+            "en_US": "Superpower Pokémon"
+        },
+        {
+            "id": "a002_260_0069",
+            "en_US": "Flower Pokémon"
+        },
+        {
+            "id": "a002_260_0070",
+            "en_US": "Flycatcher Pokémon"
+        },
+        {
+            "id": "a002_260_0071",
+            "en_US": "Flycatcher Pokémon"
+        },
+        {
+            "id": "a002_260_0072",
+            "en_US": "Jellyfish Pokémon"
+        },
+        {
+            "id": "a002_260_0073",
+            "en_US": "Jellyfish Pokémon"
+        },
+        {
+            "id": "a002_260_0074",
+            "en_US": "Rock Pokémon"
+        },
+        {
+            "id": "a002_260_0075",
+            "en_US": "Rock Pokémon"
+        },
+        {
+            "id": "a002_260_0076",
+            "en_US": "Megaton Pokémon"
+        },
+        {
+            "id": "a002_260_0077",
+            "en_US": "Fire Horse Pokémon"
+        },
+        {
+            "id": "a002_260_0078",
+            "en_US": "Fire Horse Pokémon"
+        },
+        {
+            "id": "a002_260_0079",
+            "en_US": "Dopey Pokémon"
+        },
+        {
+            "id": "a002_260_0080",
+            "en_US": "Hermit Crab Pokémon"
+        },
+        {
+            "id": "a002_260_0081",
+            "en_US": "Magnet Pokémon"
+        },
+        {
+            "id": "a002_260_0082",
+            "en_US": "Magnet Pokémon"
+        },
+        {
+            "id": "a002_260_0083",
+            "en_US": "Wild Duck Pokémon"
+        },
+        {
+            "id": "a002_260_0084",
+            "en_US": "Twin Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0085",
+            "en_US": "Triple Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0086",
+            "en_US": "Sea Lion Pokémon"
+        },
+        {
+            "id": "a002_260_0087",
+            "en_US": "Sea Lion Pokémon"
+        },
+        {
+            "id": "a002_260_0088",
+            "en_US": "Sludge Pokémon"
+        },
+        {
+            "id": "a002_260_0089",
+            "en_US": "Sludge Pokémon"
+        },
+        {
+            "id": "a002_260_0090",
+            "en_US": "Bivalve Pokémon"
+        },
+        {
+            "id": "a002_260_0091",
+            "en_US": "Bivalve Pokémon"
+        },
+        {
+            "id": "a002_260_0092",
+            "en_US": "Gas Pokémon"
+        },
+        {
+            "id": "a002_260_0093",
+            "en_US": "Gas Pokémon"
+        },
+        {
+            "id": "a002_260_0094",
+            "en_US": "Shadow Pokémon"
+        },
+        {
+            "id": "a002_260_0095",
+            "en_US": "Rock Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0096",
+            "en_US": "Hypnosis Pokémon"
+        },
+        {
+            "id": "a002_260_0097",
+            "en_US": "Hypnosis Pokémon"
+        },
+        {
+            "id": "a002_260_0098",
+            "en_US": "River Crab Pokémon"
+        },
+        {
+            "id": "a002_260_0099",
+            "en_US": "Pincer Pokémon"
+        },
+        {
+            "id": "a002_260_0100",
+            "en_US": "Ball Pokémon"
+        },
+        {
+            "id": "a002_260_0101",
+            "en_US": "Ball Pokémon"
+        },
+        {
+            "id": "a002_260_0102",
+            "en_US": "Egg Pokémon"
+        },
+        {
+            "id": "a002_260_0103",
+            "en_US": "Coconut Pokémon"
+        },
+        {
+            "id": "a002_260_0104",
+            "en_US": "Lonely Pokémon"
+        },
+        {
+            "id": "a002_260_0105",
+            "en_US": "Bone Keeper Pokémon"
+        },
+        {
+            "id": "a002_260_0106",
+            "en_US": "Kicking Pokémon"
+        },
+        {
+            "id": "a002_260_0107",
+            "en_US": "Punching Pokémon"
+        },
+        {
+            "id": "a002_260_0108",
+            "en_US": "Licking Pokémon"
+        },
+        {
+            "id": "a002_260_0109",
+            "en_US": "Poison Gas Pokémon"
+        },
+        {
+            "id": "a002_260_0110",
+            "en_US": "Poison Gas Pokémon"
+        },
+        {
+            "id": "a002_260_0111",
+            "en_US": "Spikes Pokémon"
+        },
+        {
+            "id": "a002_260_0112",
+            "en_US": "Drill Pokémon"
+        },
+        {
+            "id": "a002_260_0113",
+            "en_US": "Egg Pokémon"
+        },
+        {
+            "id": "a002_260_0114",
+            "en_US": "Vine Pokémon"
+        },
+        {
+            "id": "a002_260_0115",
+            "en_US": "Parent Pokémon"
+        },
+        {
+            "id": "a002_260_0116",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0117",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0118",
+            "en_US": "Goldfish Pokémon"
+        },
+        {
+            "id": "a002_260_0119",
+            "en_US": "Goldfish Pokémon"
+        },
+        {
+            "id": "a002_260_0120",
+            "en_US": "Star Shape Pokémon"
+        },
+        {
+            "id": "a002_260_0121",
+            "en_US": "Mysterious Pokémon"
+        },
+        {
+            "id": "a002_260_0122",
+            "en_US": "Barrier Pokémon"
+        },
+        {
+            "id": "a002_260_0123",
+            "en_US": "Mantis Pokémon"
+        },
+        {
+            "id": "a002_260_0124",
+            "en_US": "Human Shape Pokémon"
+        },
+        {
+            "id": "a002_260_0125",
+            "en_US": "Electric Pokémon"
+        },
+        {
+            "id": "a002_260_0126",
+            "en_US": "Spitfire Pokémon"
+        },
+        {
+            "id": "a002_260_0127",
+            "en_US": "Stag Beetle Pokémon"
+        },
+        {
+            "id": "a002_260_0128",
+            "en_US": "Wild Bull Pokémon"
+        },
+        {
+            "id": "a002_260_0129",
+            "en_US": "Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0130",
+            "en_US": "Atrocious Pokémon"
+        },
+        {
+            "id": "a002_260_0131",
+            "en_US": "Transport Pokémon"
+        },
+        {
+            "id": "a002_260_0132",
+            "en_US": "Transform Pokémon"
+        },
+        {
+            "id": "a002_260_0133",
+            "en_US": "Evolution Pokémon"
+        },
+        {
+            "id": "a002_260_0134",
+            "en_US": "Bubble Jet Pokémon"
+        },
+        {
+            "id": "a002_260_0135",
+            "en_US": "Lightning Pokémon"
+        },
+        {
+            "id": "a002_260_0136",
+            "en_US": "Flame Pokémon"
+        },
+        {
+            "id": "a002_260_0137",
+            "en_US": "Virtual Pokémon"
+        },
+        {
+            "id": "a002_260_0138",
+            "en_US": "Spiral Pokémon"
+        },
+        {
+            "id": "a002_260_0139",
+            "en_US": "Spiral Pokémon"
+        },
+        {
+            "id": "a002_260_0140",
+            "en_US": "Shellfish Pokémon"
+        },
+        {
+            "id": "a002_260_0141",
+            "en_US": "Shellfish Pokémon"
+        },
+        {
+            "id": "a002_260_0142",
+            "en_US": "Fossil Pokémon"
+        },
+        {
+            "id": "a002_260_0143",
+            "en_US": "Sleeping Pokémon"
+        },
+        {
+            "id": "a002_260_0144",
+            "en_US": "Freeze Pokémon"
+        },
+        {
+            "id": "a002_260_0145",
+            "en_US": "Electric Pokémon"
+        },
+        {
+            "id": "a002_260_0146",
+            "en_US": "Flame Pokémon"
+        },
+        {
+            "id": "a002_260_0147",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0148",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0149",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0150",
+            "en_US": "Genetic Pokémon"
+        },
+        {
+            "id": "a002_260_0151",
+            "en_US": "New Species Pokémon"
+        },
+        {
+            "id": "a002_260_0152",
+            "en_US": "Leaf Pokémon"
+        },
+        {
+            "id": "a002_260_0153",
+            "en_US": "Leaf Pokémon"
+        },
+        {
+            "id": "a002_260_0154",
+            "en_US": "Herb Pokémon"
+        },
+        {
+            "id": "a002_260_0155",
+            "en_US": "Fire Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0156",
+            "en_US": "Volcano Pokémon"
+        },
+        {
+            "id": "a002_260_0157",
+            "en_US": "Volcano Pokémon"
+        },
+        {
+            "id": "a002_260_0158",
+            "en_US": "Big Jaw Pokémon"
+        },
+        {
+            "id": "a002_260_0159",
+            "en_US": "Big Jaw Pokémon"
+        },
+        {
+            "id": "a002_260_0160",
+            "en_US": "Big Jaw Pokémon"
+        },
+        {
+            "id": "a002_260_0161",
+            "en_US": "Scout Pokémon"
+        },
+        {
+            "id": "a002_260_0162",
+            "en_US": "Long Body Pokémon"
+        },
+        {
+            "id": "a002_260_0163",
+            "en_US": "Owl Pokémon"
+        },
+        {
+            "id": "a002_260_0164",
+            "en_US": "Owl Pokémon"
+        },
+        {
+            "id": "a002_260_0165",
+            "en_US": "Five Star Pokémon"
+        },
+        {
+            "id": "a002_260_0166",
+            "en_US": "Five Star Pokémon"
+        },
+        {
+            "id": "a002_260_0167",
+            "en_US": "String Spit Pokémon"
+        },
+        {
+            "id": "a002_260_0168",
+            "en_US": "Long Leg Pokémon"
+        },
+        {
+            "id": "a002_260_0169",
+            "en_US": "Bat Pokémon"
+        },
+        {
+            "id": "a002_260_0170",
+            "en_US": "Angler Pokémon"
+        },
+        {
+            "id": "a002_260_0171",
+            "en_US": "Light Pokémon"
+        },
+        {
+            "id": "a002_260_0172",
+            "en_US": "Tiny Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0173",
+            "en_US": "Star Shape Pokémon"
+        },
+        {
+            "id": "a002_260_0174",
+            "en_US": "Balloon Pokémon"
+        },
+        {
+            "id": "a002_260_0175",
+            "en_US": "Spike Ball Pokémon"
+        },
+        {
+            "id": "a002_260_0176",
+            "en_US": "Happiness Pokémon"
+        },
+        {
+            "id": "a002_260_0177",
+            "en_US": "Tiny Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0178",
+            "en_US": "Mystic Pokémon"
+        },
+        {
+            "id": "a002_260_0179",
+            "en_US": "Wool Pokémon"
+        },
+        {
+            "id": "a002_260_0180",
+            "en_US": "Wool Pokémon"
+        },
+        {
+            "id": "a002_260_0181",
+            "en_US": "Light Pokémon"
+        },
+        {
+            "id": "a002_260_0182",
+            "en_US": "Flower Pokémon"
+        },
+        {
+            "id": "a002_260_0183",
+            "en_US": "Aqua Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0184",
+            "en_US": "Aqua Rabbit Pokémon"
+        },
+        {
+            "id": "a002_260_0185",
+            "en_US": "Imitation Pokémon"
+        },
+        {
+            "id": "a002_260_0186",
+            "en_US": "Frog Pokémon"
+        },
+        {
+            "id": "a002_260_0187",
+            "en_US": "Cottonweed Pokémon"
+        },
+        {
+            "id": "a002_260_0188",
+            "en_US": "Cottonweed Pokémon"
+        },
+        {
+            "id": "a002_260_0189",
+            "en_US": "Cottonweed Pokémon"
+        },
+        {
+            "id": "a002_260_0190",
+            "en_US": "Long Tail Pokémon"
+        },
+        {
+            "id": "a002_260_0191",
+            "en_US": "Seed Pokémon"
+        },
+        {
+            "id": "a002_260_0192",
+            "en_US": "Sun Pokémon"
+        },
+        {
+            "id": "a002_260_0193",
+            "en_US": "Clear Wing Pokémon"
+        },
+        {
+            "id": "a002_260_0194",
+            "en_US": "Water Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0195",
+            "en_US": "Water Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0196",
+            "en_US": "Sun Pokémon"
+        },
+        {
+            "id": "a002_260_0197",
+            "en_US": "Moonlight Pokémon"
+        },
+        {
+            "id": "a002_260_0198",
+            "en_US": "Darkness Pokémon"
+        },
+        {
+            "id": "a002_260_0199",
+            "en_US": "Royal Pokémon"
+        },
+        {
+            "id": "a002_260_0200",
+            "en_US": "Screech Pokémon"
+        },
+        {
+            "id": "a002_260_0201",
+            "en_US": "Symbol Pokémon"
+        },
+        {
+            "id": "a002_260_0202",
+            "en_US": "Patient Pokémon"
+        },
+        {
+            "id": "a002_260_0203",
+            "en_US": "Long Neck Pokémon"
+        },
+        {
+            "id": "a002_260_0204",
+            "en_US": "Bagworm Pokémon"
+        },
+        {
+            "id": "a002_260_0205",
+            "en_US": "Bagworm Pokémon"
+        },
+        {
+            "id": "a002_260_0206",
+            "en_US": "Land Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0207",
+            "en_US": "FlyScorpion Pokémon"
+        },
+        {
+            "id": "a002_260_0208",
+            "en_US": "Iron Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0209",
+            "en_US": "Fairy Pokémon"
+        },
+        {
+            "id": "a002_260_0210",
+            "en_US": "Fairy Pokémon"
+        },
+        {
+            "id": "a002_260_0211",
+            "en_US": "Balloon Pokémon"
+        },
+        {
+            "id": "a002_260_0212",
+            "en_US": "Pincer Pokémon"
+        },
+        {
+            "id": "a002_260_0213",
+            "en_US": "Mold Pokémon"
+        },
+        {
+            "id": "a002_260_0214",
+            "en_US": "Single Horn Pokémon"
+        },
+        {
+            "id": "a002_260_0215",
+            "en_US": "Sharp Claw Pokémon"
+        },
+        {
+            "id": "a002_260_0216",
+            "en_US": "Little Bear Pokémon"
+        },
+        {
+            "id": "a002_260_0217",
+            "en_US": "Hibernator Pokémon"
+        },
+        {
+            "id": "a002_260_0218",
+            "en_US": "Lava Pokémon"
+        },
+        {
+            "id": "a002_260_0219",
+            "en_US": "Lava Pokémon"
+        },
+        {
+            "id": "a002_260_0220",
+            "en_US": "Pig Pokémon"
+        },
+        {
+            "id": "a002_260_0221",
+            "en_US": "Swine Pokémon"
+        },
+        {
+            "id": "a002_260_0222",
+            "en_US": "Coral Pokémon"
+        },
+        {
+            "id": "a002_260_0223",
+            "en_US": "Jet Pokémon"
+        },
+        {
+            "id": "a002_260_0224",
+            "en_US": "Jet Pokémon"
+        },
+        {
+            "id": "a002_260_0225",
+            "en_US": "Delivery Pokémon"
+        },
+        {
+            "id": "a002_260_0226",
+            "en_US": "Kite Pokémon"
+        },
+        {
+            "id": "a002_260_0227",
+            "en_US": "Armor Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0228",
+            "en_US": "Dark Pokémon"
+        },
+        {
+            "id": "a002_260_0229",
+            "en_US": "Dark Pokémon"
+        },
+        {
+            "id": "a002_260_0230",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0231",
+            "en_US": "Long Nose Pokémon"
+        },
+        {
+            "id": "a002_260_0232",
+            "en_US": "Armor Pokémon"
+        },
+        {
+            "id": "a002_260_0233",
+            "en_US": "Virtual Pokémon"
+        },
+        {
+            "id": "a002_260_0234",
+            "en_US": "Big Horn Pokémon"
+        },
+        {
+            "id": "a002_260_0235",
+            "en_US": "Painter Pokémon"
+        },
+        {
+            "id": "a002_260_0236",
+            "en_US": "Scuffle Pokémon"
+        },
+        {
+            "id": "a002_260_0237",
+            "en_US": "Handstand Pokémon"
+        },
+        {
+            "id": "a002_260_0238",
+            "en_US": "Kiss Pokémon"
+        },
+        {
+            "id": "a002_260_0239",
+            "en_US": "Electric Pokémon"
+        },
+        {
+            "id": "a002_260_0240",
+            "en_US": "Live Coal Pokémon"
+        },
+        {
+            "id": "a002_260_0241",
+            "en_US": "Milk Cow Pokémon"
+        },
+        {
+            "id": "a002_260_0242",
+            "en_US": "Happiness Pokémon"
+        },
+        {
+            "id": "a002_260_0243",
+            "en_US": "Thunder Pokémon"
+        },
+        {
+            "id": "a002_260_0244",
+            "en_US": "Volcano Pokémon"
+        },
+        {
+            "id": "a002_260_0245",
+            "en_US": "Aurora Pokémon"
+        },
+        {
+            "id": "a002_260_0246",
+            "en_US": "Rock Skin Pokémon"
+        },
+        {
+            "id": "a002_260_0247",
+            "en_US": "Hard Shell Pokémon"
+        },
+        {
+            "id": "a002_260_0248",
+            "en_US": "Armor Pokémon"
+        },
+        {
+            "id": "a002_260_0249",
+            "en_US": "Diving Pokémon"
+        },
+        {
+            "id": "a002_260_0250",
+            "en_US": "Rainbow Pokémon"
+        },
+        {
+            "id": "a002_260_0251",
+            "en_US": "Time Travel Pokémon"
+        },
+        {
+            "id": "a002_260_0252",
+            "en_US": "Wood Gecko Pokémon"
+        },
+        {
+            "id": "a002_260_0253",
+            "en_US": "Wood Gecko Pokémon"
+        },
+        {
+            "id": "a002_260_0254",
+            "en_US": "Forest Pokémon"
+        },
+        {
+            "id": "a002_260_0255",
+            "en_US": "Chick Pokémon"
+        },
+        {
+            "id": "a002_260_0256",
+            "en_US": "Young Fowl Pokémon"
+        },
+        {
+            "id": "a002_260_0257",
+            "en_US": "Blaze Pokémon"
+        },
+        {
+            "id": "a002_260_0258",
+            "en_US": "Mud Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0259",
+            "en_US": "Mud Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0260",
+            "en_US": "Mud Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0261",
+            "en_US": "Bite Pokémon"
+        },
+        {
+            "id": "a002_260_0262",
+            "en_US": "Bite Pokémon"
+        },
+        {
+            "id": "a002_260_0263",
+            "en_US": "TinyRaccoon Pokémon"
+        },
+        {
+            "id": "a002_260_0264",
+            "en_US": "Rushing Pokémon"
+        },
+        {
+            "id": "a002_260_0265",
+            "en_US": "Worm Pokémon"
+        },
+        {
+            "id": "a002_260_0266",
+            "en_US": "Cocoon Pokémon"
+        },
+        {
+            "id": "a002_260_0267",
+            "en_US": "Butterfly Pokémon"
+        },
+        {
+            "id": "a002_260_0268",
+            "en_US": "Cocoon Pokémon"
+        },
+        {
+            "id": "a002_260_0269",
+            "en_US": "Poison Moth Pokémon"
+        },
+        {
+            "id": "a002_260_0270",
+            "en_US": "Water Weed Pokémon"
+        },
+        {
+            "id": "a002_260_0271",
+            "en_US": "Jolly Pokémon"
+        },
+        {
+            "id": "a002_260_0272",
+            "en_US": "Carefree Pokémon"
+        },
+        {
+            "id": "a002_260_0273",
+            "en_US": "Acorn Pokémon"
+        },
+        {
+            "id": "a002_260_0274",
+            "en_US": "Wily Pokémon"
+        },
+        {
+            "id": "a002_260_0275",
+            "en_US": "Wicked Pokémon"
+        },
+        {
+            "id": "a002_260_0276",
+            "en_US": "TinySwallow Pokémon"
+        },
+        {
+            "id": "a002_260_0277",
+            "en_US": "Swallow Pokémon"
+        },
+        {
+            "id": "a002_260_0278",
+            "en_US": "Seagull Pokémon"
+        },
+        {
+            "id": "a002_260_0279",
+            "en_US": "Water Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0280",
+            "en_US": "Feeling Pokémon"
+        },
+        {
+            "id": "a002_260_0281",
+            "en_US": "Emotion Pokémon"
+        },
+        {
+            "id": "a002_260_0282",
+            "en_US": "Embrace Pokémon"
+        },
+        {
+            "id": "a002_260_0283",
+            "en_US": "Pond Skater Pokémon"
+        },
+        {
+            "id": "a002_260_0284",
+            "en_US": "Eyeball Pokémon"
+        },
+        {
+            "id": "a002_260_0285",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0286",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0287",
+            "en_US": "Slacker Pokémon"
+        },
+        {
+            "id": "a002_260_0288",
+            "en_US": "Wild Monkey Pokémon"
+        },
+        {
+            "id": "a002_260_0289",
+            "en_US": "Lazy Pokémon"
+        },
+        {
+            "id": "a002_260_0290",
+            "en_US": "Trainee Pokémon"
+        },
+        {
+            "id": "a002_260_0291",
+            "en_US": "Ninja Pokémon"
+        },
+        {
+            "id": "a002_260_0292",
+            "en_US": "Shed Pokémon"
+        },
+        {
+            "id": "a002_260_0293",
+            "en_US": "Whisper Pokémon"
+        },
+        {
+            "id": "a002_260_0294",
+            "en_US": "Big Voice Pokémon"
+        },
+        {
+            "id": "a002_260_0295",
+            "en_US": "Loud Noise Pokémon"
+        },
+        {
+            "id": "a002_260_0296",
+            "en_US": "Guts Pokémon"
+        },
+        {
+            "id": "a002_260_0297",
+            "en_US": "Arm Thrust Pokémon"
+        },
+        {
+            "id": "a002_260_0298",
+            "en_US": "Polka Dot Pokémon"
+        },
+        {
+            "id": "a002_260_0299",
+            "en_US": "Compass Pokémon"
+        },
+        {
+            "id": "a002_260_0300",
+            "en_US": "Kitten Pokémon"
+        },
+        {
+            "id": "a002_260_0301",
+            "en_US": "Prim Pokémon"
+        },
+        {
+            "id": "a002_260_0302",
+            "en_US": "Darkness Pokémon"
+        },
+        {
+            "id": "a002_260_0303",
+            "en_US": "Deceiver Pokémon"
+        },
+        {
+            "id": "a002_260_0304",
+            "en_US": "Iron Armor Pokémon"
+        },
+        {
+            "id": "a002_260_0305",
+            "en_US": "Iron Armor Pokémon"
+        },
+        {
+            "id": "a002_260_0306",
+            "en_US": "Iron Armor Pokémon"
+        },
+        {
+            "id": "a002_260_0307",
+            "en_US": "Meditate Pokémon"
+        },
+        {
+            "id": "a002_260_0308",
+            "en_US": "Meditate Pokémon"
+        },
+        {
+            "id": "a002_260_0309",
+            "en_US": "Lightning Pokémon"
+        },
+        {
+            "id": "a002_260_0310",
+            "en_US": "Discharge Pokémon"
+        },
+        {
+            "id": "a002_260_0311",
+            "en_US": "Cheering Pokémon"
+        },
+        {
+            "id": "a002_260_0312",
+            "en_US": "Cheering Pokémon"
+        },
+        {
+            "id": "a002_260_0313",
+            "en_US": "Firefly Pokémon"
+        },
+        {
+            "id": "a002_260_0314",
+            "en_US": "Firefly Pokémon"
+        },
+        {
+            "id": "a002_260_0315",
+            "en_US": "Thorn Pokémon"
+        },
+        {
+            "id": "a002_260_0316",
+            "en_US": "Stomach Pokémon"
+        },
+        {
+            "id": "a002_260_0317",
+            "en_US": "Poison Bag Pokémon"
+        },
+        {
+            "id": "a002_260_0318",
+            "en_US": "Savage Pokémon"
+        },
+        {
+            "id": "a002_260_0319",
+            "en_US": "Brutal Pokémon"
+        },
+        {
+            "id": "a002_260_0320",
+            "en_US": "Ball Whale Pokémon"
+        },
+        {
+            "id": "a002_260_0321",
+            "en_US": "Float Whale Pokémon"
+        },
+        {
+            "id": "a002_260_0322",
+            "en_US": "Numb Pokémon"
+        },
+        {
+            "id": "a002_260_0323",
+            "en_US": "Eruption Pokémon"
+        },
+        {
+            "id": "a002_260_0324",
+            "en_US": "Coal Pokémon"
+        },
+        {
+            "id": "a002_260_0325",
+            "en_US": "Bounce Pokémon"
+        },
+        {
+            "id": "a002_260_0326",
+            "en_US": "Manipulate Pokémon"
+        },
+        {
+            "id": "a002_260_0327",
+            "en_US": "Spot Panda Pokémon"
+        },
+        {
+            "id": "a002_260_0328",
+            "en_US": "Ant Pit Pokémon"
+        },
+        {
+            "id": "a002_260_0329",
+            "en_US": "Vibration Pokémon"
+        },
+        {
+            "id": "a002_260_0330",
+            "en_US": "Mystic Pokémon"
+        },
+        {
+            "id": "a002_260_0331",
+            "en_US": "Cactus Pokémon"
+        },
+        {
+            "id": "a002_260_0332",
+            "en_US": "Scarecrow Pokémon"
+        },
+        {
+            "id": "a002_260_0333",
+            "en_US": "Cotton Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0334",
+            "en_US": "Humming Pokémon"
+        },
+        {
+            "id": "a002_260_0335",
+            "en_US": "Cat Ferret Pokémon"
+        },
+        {
+            "id": "a002_260_0336",
+            "en_US": "Fang Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0337",
+            "en_US": "Meteorite Pokémon"
+        },
+        {
+            "id": "a002_260_0338",
+            "en_US": "Meteorite Pokémon"
+        },
+        {
+            "id": "a002_260_0339",
+            "en_US": "Whiskers Pokémon"
+        },
+        {
+            "id": "a002_260_0340",
+            "en_US": "Whiskers Pokémon"
+        },
+        {
+            "id": "a002_260_0341",
+            "en_US": "Ruffian Pokémon"
+        },
+        {
+            "id": "a002_260_0342",
+            "en_US": "Rogue Pokémon"
+        },
+        {
+            "id": "a002_260_0343",
+            "en_US": "Clay Doll Pokémon"
+        },
+        {
+            "id": "a002_260_0344",
+            "en_US": "Clay Doll Pokémon"
+        },
+        {
+            "id": "a002_260_0345",
+            "en_US": "Sea Lily Pokémon"
+        },
+        {
+            "id": "a002_260_0346",
+            "en_US": "Barnacle Pokémon"
+        },
+        {
+            "id": "a002_260_0347",
+            "en_US": "Old Shrimp Pokémon"
+        },
+        {
+            "id": "a002_260_0348",
+            "en_US": "Plate Pokémon"
+        },
+        {
+            "id": "a002_260_0349",
+            "en_US": "Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0350",
+            "en_US": "Tender Pokémon"
+        },
+        {
+            "id": "a002_260_0351",
+            "en_US": "Weather Pokémon"
+        },
+        {
+            "id": "a002_260_0352",
+            "en_US": "Color Swap Pokémon"
+        },
+        {
+            "id": "a002_260_0353",
+            "en_US": "Puppet Pokémon"
+        },
+        {
+            "id": "a002_260_0354",
+            "en_US": "Marionette Pokémon"
+        },
+        {
+            "id": "a002_260_0355",
+            "en_US": "Requiem Pokémon"
+        },
+        {
+            "id": "a002_260_0356",
+            "en_US": "Beckon Pokémon"
+        },
+        {
+            "id": "a002_260_0357",
+            "en_US": "Fruit Pokémon"
+        },
+        {
+            "id": "a002_260_0358",
+            "en_US": "Wind Chime Pokémon"
+        },
+        {
+            "id": "a002_260_0359",
+            "en_US": "Disaster Pokémon"
+        },
+        {
+            "id": "a002_260_0360",
+            "en_US": "Bright Pokémon"
+        },
+        {
+            "id": "a002_260_0361",
+            "en_US": "Snow Hat Pokémon"
+        },
+        {
+            "id": "a002_260_0362",
+            "en_US": "Face Pokémon"
+        },
+        {
+            "id": "a002_260_0363",
+            "en_US": "Clap Pokémon"
+        },
+        {
+            "id": "a002_260_0364",
+            "en_US": "Ball Roll Pokémon"
+        },
+        {
+            "id": "a002_260_0365",
+            "en_US": "Ice Break Pokémon"
+        },
+        {
+            "id": "a002_260_0366",
+            "en_US": "Bivalve Pokémon"
+        },
+        {
+            "id": "a002_260_0367",
+            "en_US": "Deep Sea Pokémon"
+        },
+        {
+            "id": "a002_260_0368",
+            "en_US": "South Sea Pokémon"
+        },
+        {
+            "id": "a002_260_0369",
+            "en_US": "Longevity Pokémon"
+        },
+        {
+            "id": "a002_260_0370",
+            "en_US": "Rendezvous Pokémon"
+        },
+        {
+            "id": "a002_260_0371",
+            "en_US": "Rock Head Pokémon"
+        },
+        {
+            "id": "a002_260_0372",
+            "en_US": "Endurance Pokémon"
+        },
+        {
+            "id": "a002_260_0373",
+            "en_US": "Dragon Pokémon"
+        },
+        {
+            "id": "a002_260_0374",
+            "en_US": "Iron Ball Pokémon"
+        },
+        {
+            "id": "a002_260_0375",
+            "en_US": "Iron Claw Pokémon"
+        },
+        {
+            "id": "a002_260_0376",
+            "en_US": "Iron Leg Pokémon"
+        },
+        {
+            "id": "a002_260_0377",
+            "en_US": "Rock Peak Pokémon"
+        },
+        {
+            "id": "a002_260_0378",
+            "en_US": "Iceberg Pokémon"
+        },
+        {
+            "id": "a002_260_0379",
+            "en_US": "Iron Pokémon"
+        },
+        {
+            "id": "a002_260_0380",
+            "en_US": "Eon Pokémon"
+        },
+        {
+            "id": "a002_260_0381",
+            "en_US": "Eon Pokémon"
+        },
+        {
+            "id": "a002_260_0382",
+            "en_US": "Sea Basin Pokémon"
+        },
+        {
+            "id": "a002_260_0383",
+            "en_US": "Continent Pokémon"
+        },
+        {
+            "id": "a002_260_0384",
+            "en_US": "Sky High Pokémon"
+        },
+        {
+            "id": "a002_260_0385",
+            "en_US": "Wish Pokémon"
+        },
+        {
+            "id": "a002_260_0386",
+            "en_US": "DNA Pokémon"
+        },
+        {
+            "id": "a002_260_0387",
+            "en_US": "Tiny Leaf Pokémon"
+        },
+        {
+            "id": "a002_260_0388",
+            "en_US": "Grove Pokémon"
+        },
+        {
+            "id": "a002_260_0389",
+            "en_US": "Continent Pokémon"
+        },
+        {
+            "id": "a002_260_0390",
+            "en_US": "Chimp Pokémon"
+        },
+        {
+            "id": "a002_260_0391",
+            "en_US": "Playful Pokémon"
+        },
+        {
+            "id": "a002_260_0392",
+            "en_US": "Flame Pokémon"
+        },
+        {
+            "id": "a002_260_0393",
+            "en_US": "Penguin Pokémon"
+        },
+        {
+            "id": "a002_260_0394",
+            "en_US": "Penguin Pokémon"
+        },
+        {
+            "id": "a002_260_0395",
+            "en_US": "Emperor Pokémon"
+        },
+        {
+            "id": "a002_260_0396",
+            "en_US": "Starling Pokémon"
+        },
+        {
+            "id": "a002_260_0397",
+            "en_US": "Starling Pokémon"
+        },
+        {
+            "id": "a002_260_0398",
+            "en_US": "Predator Pokémon"
+        },
+        {
+            "id": "a002_260_0399",
+            "en_US": "Plump Mouse Pokémon"
+        },
+        {
+            "id": "a002_260_0400",
+            "en_US": "Beaver Pokémon"
+        },
+        {
+            "id": "a002_260_0401",
+            "en_US": "Cricket Pokémon"
+        },
+        {
+            "id": "a002_260_0402",
+            "en_US": "Cricket Pokémon"
+        },
+        {
+            "id": "a002_260_0403",
+            "en_US": "Flash Pokémon"
+        },
+        {
+            "id": "a002_260_0404",
+            "en_US": "Spark Pokémon"
+        },
+        {
+            "id": "a002_260_0405",
+            "en_US": "Gleam Eyes Pokémon"
+        },
+        {
+            "id": "a002_260_0406",
+            "en_US": "Bud Pokémon"
+        },
+        {
+            "id": "a002_260_0407",
+            "en_US": "Bouquet Pokémon"
+        },
+        {
+            "id": "a002_260_0408",
+            "en_US": "Head Butt Pokémon"
+        },
+        {
+            "id": "a002_260_0409",
+            "en_US": "Head Butt Pokémon"
+        },
+        {
+            "id": "a002_260_0410",
+            "en_US": "Shield Pokémon"
+        },
+        {
+            "id": "a002_260_0411",
+            "en_US": "Shield Pokémon"
+        },
+        {
+            "id": "a002_260_0412",
+            "en_US": "Bagworm Pokémon"
+        },
+        {
+            "id": "a002_260_0413",
+            "en_US": "Bagworm Pokémon"
+        },
+        {
+            "id": "a002_260_0414",
+            "en_US": "Moth Pokémon"
+        },
+        {
+            "id": "a002_260_0415",
+            "en_US": "Tiny Bee Pokémon"
+        },
+        {
+            "id": "a002_260_0416",
+            "en_US": "Beehive Pokémon"
+        },
+        {
+            "id": "a002_260_0417",
+            "en_US": "EleSquirrel Pokémon"
+        },
+        {
+            "id": "a002_260_0418",
+            "en_US": "Sea Weasel Pokémon"
+        },
+        {
+            "id": "a002_260_0419",
+            "en_US": "Sea Weasel Pokémon"
+        },
+        {
+            "id": "a002_260_0420",
+            "en_US": "Cherry Pokémon"
+        },
+        {
+            "id": "a002_260_0421",
+            "en_US": "Blossom Pokémon"
+        },
+        {
+            "id": "a002_260_0422",
+            "en_US": "Sea Slug Pokémon"
+        },
+        {
+            "id": "a002_260_0423",
+            "en_US": "Sea Slug Pokémon"
+        },
+        {
+            "id": "a002_260_0424",
+            "en_US": "Long Tail Pokémon"
+        },
+        {
+            "id": "a002_260_0425",
+            "en_US": "Balloon Pokémon"
+        },
+        {
+            "id": "a002_260_0426",
+            "en_US": "Blimp Pokémon"
+        },
+        {
+            "id": "a002_260_0427",
+            "en_US": "Rabbit Pokémon"
+        },
+        {
+            "id": "a002_260_0428",
+            "en_US": "Rabbit Pokémon"
+        },
+        {
+            "id": "a002_260_0429",
+            "en_US": "Magical Pokémon"
+        },
+        {
+            "id": "a002_260_0430",
+            "en_US": "Big Boss Pokémon"
+        },
+        {
+            "id": "a002_260_0431",
+            "en_US": "Catty Pokémon"
+        },
+        {
+            "id": "a002_260_0432",
+            "en_US": "Tiger Cat Pokémon"
+        },
+        {
+            "id": "a002_260_0433",
+            "en_US": "Bell Pokémon"
+        },
+        {
+            "id": "a002_260_0434",
+            "en_US": "Skunk Pokémon"
+        },
+        {
+            "id": "a002_260_0435",
+            "en_US": "Skunk Pokémon"
+        },
+        {
+            "id": "a002_260_0436",
+            "en_US": "Bronze Pokémon"
+        },
+        {
+            "id": "a002_260_0437",
+            "en_US": "Bronze Bell Pokémon"
+        },
+        {
+            "id": "a002_260_0438",
+            "en_US": "Bonsai Pokémon"
+        },
+        {
+            "id": "a002_260_0439",
+            "en_US": "Mime Pokémon"
+        },
+        {
+            "id": "a002_260_0440",
+            "en_US": "Playhouse Pokémon"
+        },
+        {
+            "id": "a002_260_0441",
+            "en_US": "Music Note Pokémon"
+        },
+        {
+            "id": "a002_260_0442",
+            "en_US": "Forbidden Pokémon"
+        },
+        {
+            "id": "a002_260_0443",
+            "en_US": "Land Shark Pokémon"
+        },
+        {
+            "id": "a002_260_0444",
+            "en_US": "Cave Pokémon"
+        },
+        {
+            "id": "a002_260_0445",
+            "en_US": "Mach Pokémon"
+        },
+        {
+            "id": "a002_260_0446",
+            "en_US": "Big Eater Pokémon"
+        },
+        {
+            "id": "a002_260_0447",
+            "en_US": "Emanation Pokémon"
+        },
+        {
+            "id": "a002_260_0448",
+            "en_US": "Aura Pokémon"
+        },
+        {
+            "id": "a002_260_0449",
+            "en_US": "Hippo Pokémon"
+        },
+        {
+            "id": "a002_260_0450",
+            "en_US": "Heavyweight Pokémon"
+        },
+        {
+            "id": "a002_260_0451",
+            "en_US": "Scorpion Pokémon"
+        },
+        {
+            "id": "a002_260_0452",
+            "en_US": "Ogre Scorp Pokémon"
+        },
+        {
+            "id": "a002_260_0453",
+            "en_US": "Toxic Mouth Pokémon"
+        },
+        {
+            "id": "a002_260_0454",
+            "en_US": "Toxic Mouth Pokémon"
+        },
+        {
+            "id": "a002_260_0455",
+            "en_US": "Bug Catcher Pokémon"
+        },
+        {
+            "id": "a002_260_0456",
+            "en_US": "Wing Fish Pokémon"
+        },
+        {
+            "id": "a002_260_0457",
+            "en_US": "Neon Pokémon"
+        },
+        {
+            "id": "a002_260_0458",
+            "en_US": "Kite Pokémon"
+        },
+        {
+            "id": "a002_260_0459",
+            "en_US": "Frost Tree Pokémon"
+        },
+        {
+            "id": "a002_260_0460",
+            "en_US": "Frost Tree Pokémon"
+        },
+        {
+            "id": "a002_260_0461",
+            "en_US": "Sharp Claw Pokémon"
+        },
+        {
+            "id": "a002_260_0462",
+            "en_US": "Magnet Area Pokémon"
+        },
+        {
+            "id": "a002_260_0463",
+            "en_US": "Licking Pokémon"
+        },
+        {
+            "id": "a002_260_0464",
+            "en_US": "Drill Pokémon"
+        },
+        {
+            "id": "a002_260_0465",
+            "en_US": "Vine Pokémon"
+        },
+        {
+            "id": "a002_260_0466",
+            "en_US": "Thunderbolt Pokémon"
+        },
+        {
+            "id": "a002_260_0467",
+            "en_US": "Blast Pokémon"
+        },
+        {
+            "id": "a002_260_0468",
+            "en_US": "Jubilee Pokémon"
+        },
+        {
+            "id": "a002_260_0469",
+            "en_US": "Ogre Darner Pokémon"
+        },
+        {
+            "id": "a002_260_0470",
+            "en_US": "Verdant Pokémon"
+        },
+        {
+            "id": "a002_260_0471",
+            "en_US": "Fresh Snow Pokémon"
+        },
+        {
+            "id": "a002_260_0472",
+            "en_US": "Fang Scorp Pokémon"
+        },
+        {
+            "id": "a002_260_0473",
+            "en_US": "Twin Tusk Pokémon"
+        },
+        {
+            "id": "a002_260_0474",
+            "en_US": "Virtual Pokémon"
+        },
+        {
+            "id": "a002_260_0475",
+            "en_US": "Blade Pokémon"
+        },
+        {
+            "id": "a002_260_0476",
+            "en_US": "Compass Pokémon"
+        },
+        {
+            "id": "a002_260_0477",
+            "en_US": "Gripper Pokémon"
+        },
+        {
+            "id": "a002_260_0478",
+            "en_US": "Snow Land Pokémon"
+        },
+        {
+            "id": "a002_260_0479",
+            "en_US": "Plasma Pokémon"
+        },
+        {
+            "id": "a002_260_0480",
+            "en_US": "Knowledge Pokémon"
+        },
+        {
+            "id": "a002_260_0481",
+            "en_US": "Emotion Pokémon"
+        },
+        {
+            "id": "a002_260_0482",
+            "en_US": "Willpower Pokémon"
+        },
+        {
+            "id": "a002_260_0483",
+            "en_US": "Temporal Pokémon"
+        },
+        {
+            "id": "a002_260_0484",
+            "en_US": "Spatial Pokémon"
+        },
+        {
+            "id": "a002_260_0485",
+            "en_US": "Lava Dome Pokémon"
+        },
+        {
+            "id": "a002_260_0486",
+            "en_US": "Colossal Pokémon"
+        },
+        {
+            "id": "a002_260_0487",
+            "en_US": "Renegade Pokémon"
+        },
+        {
+            "id": "a002_260_0488",
+            "en_US": "Lunar Pokémon"
+        },
+        {
+            "id": "a002_260_0489",
+            "en_US": "Sea Drifter Pokémon"
+        },
+        {
+            "id": "a002_260_0490",
+            "en_US": "Seafaring Pokémon"
+        },
+        {
+            "id": "a002_260_0491",
+            "en_US": "Pitch-Black Pokémon"
+        },
+        {
+            "id": "a002_260_0492",
+            "en_US": "Gratitude Pokémon"
+        },
+        {
+            "id": "a002_260_0493",
+            "en_US": "Alpha Pokémon"
+        },
+        {
+            "id": "a002_260_0494",
+            "en_US": "Victory Pokémon"
+        },
+        {
+            "id": "a002_260_0495",
+            "en_US": "Grass Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0496",
+            "en_US": "Grass Snake Pokémon"
+        },
+        {
+            "id": "a002_260_0497",
+            "en_US": "Regal Pokémon"
+        },
+        {
+            "id": "a002_260_0498",
+            "en_US": "Fire Pig Pokémon"
+        },
+        {
+            "id": "a002_260_0499",
+            "en_US": "Fire Pig Pokémon"
+        },
+        {
+            "id": "a002_260_0500",
+            "en_US": "Mega Fire Pig Pokémon"
+        },
+        {
+            "id": "a002_260_0501",
+            "en_US": "Sea Otter Pokémon"
+        },
+        {
+            "id": "a002_260_0502",
+            "en_US": "Discipline Pokémon"
+        },
+        {
+            "id": "a002_260_0503",
+            "en_US": "Formidable Pokémon"
+        },
+        {
+            "id": "a002_260_0504",
+            "en_US": "Scout Pokémon"
+        },
+        {
+            "id": "a002_260_0505",
+            "en_US": "Lookout Pokémon"
+        },
+        {
+            "id": "a002_260_0506",
+            "en_US": "Puppy Pokémon"
+        },
+        {
+            "id": "a002_260_0507",
+            "en_US": "Loyal Dog Pokémon"
+        },
+        {
+            "id": "a002_260_0508",
+            "en_US": "Big-Hearted Pokémon"
+        },
+        {
+            "id": "a002_260_0509",
+            "en_US": "Devious Pokémon"
+        },
+        {
+            "id": "a002_260_0510",
+            "en_US": "Cruel Pokémon"
+        },
+        {
+            "id": "a002_260_0511",
+            "en_US": "Grass Monkey Pokémon"
+        },
+        {
+            "id": "a002_260_0512",
+            "en_US": "Thorn Monkey Pokémon"
+        },
+        {
+            "id": "a002_260_0513",
+            "en_US": "High Temp Pokémon"
+        },
+        {
+            "id": "a002_260_0514",
+            "en_US": "Ember Pokémon"
+        },
+        {
+            "id": "a002_260_0515",
+            "en_US": "Spray Pokémon"
+        },
+        {
+            "id": "a002_260_0516",
+            "en_US": "Geyser Pokémon"
+        },
+        {
+            "id": "a002_260_0517",
+            "en_US": "Dream Eater Pokémon"
+        },
+        {
+            "id": "a002_260_0518",
+            "en_US": "Drowsing Pokémon"
+        },
+        {
+            "id": "a002_260_0519",
+            "en_US": "Tiny Pigeon Pokémon"
+        },
+        {
+            "id": "a002_260_0520",
+            "en_US": "Wild Pigeon Pokémon"
+        },
+        {
+            "id": "a002_260_0521",
+            "en_US": "Proud Pokémon"
+        },
+        {
+            "id": "a002_260_0522",
+            "en_US": "Electrified Pokémon"
+        },
+        {
+            "id": "a002_260_0523",
+            "en_US": "Thunderbolt Pokémon"
+        },
+        {
+            "id": "a002_260_0524",
+            "en_US": "Mantle Pokémon"
+        },
+        {
+            "id": "a002_260_0525",
+            "en_US": "Ore Pokémon"
+        },
+        {
+            "id": "a002_260_0526",
+            "en_US": "Compressed Pokémon"
+        },
+        {
+            "id": "a002_260_0527",
+            "en_US": "Bat Pokémon"
+        },
+        {
+            "id": "a002_260_0528",
+            "en_US": "Courting Pokémon"
+        },
+        {
+            "id": "a002_260_0529",
+            "en_US": "Mole Pokémon"
+        },
+        {
+            "id": "a002_260_0530",
+            "en_US": "Subterrene Pokémon"
+        },
+        {
+            "id": "a002_260_0531",
+            "en_US": "Hearing Pokémon"
+        },
+        {
+            "id": "a002_260_0532",
+            "en_US": "Muscular Pokémon"
+        },
+        {
+            "id": "a002_260_0533",
+            "en_US": "Muscular Pokémon"
+        },
+        {
+            "id": "a002_260_0534",
+            "en_US": "Muscular Pokémon"
+        },
+        {
+            "id": "a002_260_0535",
+            "en_US": "Tadpole Pokémon"
+        },
+        {
+            "id": "a002_260_0536",
+            "en_US": "Vibration Pokémon"
+        },
+        {
+            "id": "a002_260_0537",
+            "en_US": "Vibration Pokémon"
+        },
+        {
+            "id": "a002_260_0538",
+            "en_US": "Judo Pokémon"
+        },
+        {
+            "id": "a002_260_0539",
+            "en_US": "Karate Pokémon"
+        },
+        {
+            "id": "a002_260_0540",
+            "en_US": "Sewing Pokémon"
+        },
+        {
+            "id": "a002_260_0541",
+            "en_US": "Leaf-Wrapped Pokémon"
+        },
+        {
+            "id": "a002_260_0542",
+            "en_US": "Nurturing Pokémon"
+        },
+        {
+            "id": "a002_260_0543",
+            "en_US": "Centipede Pokémon"
+        },
+        {
+            "id": "a002_260_0544",
+            "en_US": "Curlipede Pokémon"
+        },
+        {
+            "id": "a002_260_0545",
+            "en_US": "Megapede Pokémon"
+        },
+        {
+            "id": "a002_260_0546",
+            "en_US": "Cotton Puff Pokémon"
+        },
+        {
+            "id": "a002_260_0547",
+            "en_US": "Windveiled Pokémon"
+        },
+        {
+            "id": "a002_260_0548",
+            "en_US": "Bulb Pokémon"
+        },
+        {
+            "id": "a002_260_0549",
+            "en_US": "Flowering Pokémon"
+        },
+        {
+            "id": "a002_260_0550",
+            "en_US": "Hostile Pokémon"
+        },
+        {
+            "id": "a002_260_0551",
+            "en_US": "Desert Croc Pokémon"
+        },
+        {
+            "id": "a002_260_0552",
+            "en_US": "Desert Croc Pokémon"
+        },
+        {
+            "id": "a002_260_0553",
+            "en_US": "Intimidation Pokémon"
+        },
+        {
+            "id": "a002_260_0554",
+            "en_US": "Zen Charm Pokémon"
+        },
+        {
+            "id": "a002_260_0555",
+            "en_US": "Blazing Pokémon"
+        },
+        {
+            "id": "a002_260_0556",
+            "en_US": "Cactus Pokémon"
+        },
+        {
+            "id": "a002_260_0557",
+            "en_US": "Rock Inn Pokémon"
+        },
+        {
+            "id": "a002_260_0558",
+            "en_US": "Stone Home Pokémon"
+        },
+        {
+            "id": "a002_260_0559",
+            "en_US": "Shedding Pokémon"
+        },
+        {
+            "id": "a002_260_0560",
+            "en_US": "Hoodlum Pokémon"
+        },
+        {
+            "id": "a002_260_0561",
+            "en_US": "Avianoid Pokémon"
+        },
+        {
+            "id": "a002_260_0562",
+            "en_US": "Spirit Pokémon"
+        },
+        {
+            "id": "a002_260_0563",
+            "en_US": "Coffin Pokémon"
+        },
+        {
+            "id": "a002_260_0564",
+            "en_US": "Prototurtle Pokémon"
+        },
+        {
+            "id": "a002_260_0565",
+            "en_US": "Prototurtle Pokémon"
+        },
+        {
+            "id": "a002_260_0566",
+            "en_US": "First Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0567",
+            "en_US": "First Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0568",
+            "en_US": "Trash Bag Pokémon"
+        },
+        {
+            "id": "a002_260_0569",
+            "en_US": "Trash Heap Pokémon"
+        },
+        {
+            "id": "a002_260_0570",
+            "en_US": "Tricky Fox Pokémon"
+        },
+        {
+            "id": "a002_260_0571",
+            "en_US": "Illusion Fox Pokémon"
+        },
+        {
+            "id": "a002_260_0572",
+            "en_US": "Chinchilla Pokémon"
+        },
+        {
+            "id": "a002_260_0573",
+            "en_US": "Scarf Pokémon"
+        },
+        {
+            "id": "a002_260_0574",
+            "en_US": "Fixation Pokémon"
+        },
+        {
+            "id": "a002_260_0575",
+            "en_US": "Manipulate Pokémon"
+        },
+        {
+            "id": "a002_260_0576",
+            "en_US": "Astral Body Pokémon"
+        },
+        {
+            "id": "a002_260_0577",
+            "en_US": "Cell Pokémon"
+        },
+        {
+            "id": "a002_260_0578",
+            "en_US": "Mitosis Pokémon"
+        },
+        {
+            "id": "a002_260_0579",
+            "en_US": "Multiplying Pokémon"
+        },
+        {
+            "id": "a002_260_0580",
+            "en_US": "Water Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0581",
+            "en_US": "White Bird Pokémon"
+        },
+        {
+            "id": "a002_260_0582",
+            "en_US": "Fresh Snow Pokémon"
+        },
+        {
+            "id": "a002_260_0583",
+            "en_US": "Icy Snow Pokémon"
+        },
+        {
+            "id": "a002_260_0584",
+            "en_US": "Snowstorm Pokémon"
+        },
+        {
+            "id": "a002_260_0585",
+            "en_US": "Season Pokémon"
+        },
+        {
+            "id": "a002_260_0586",
+            "en_US": "Season Pokémon"
+        },
+        {
+            "id": "a002_260_0587",
+            "en_US": "Sky Squirrel Pokémon"
+        },
+        {
+            "id": "a002_260_0588",
+            "en_US": "Clamping Pokémon"
+        },
+        {
+            "id": "a002_260_0589",
+            "en_US": "Cavalry Pokémon"
+        },
+        {
+            "id": "a002_260_0590",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0591",
+            "en_US": "Mushroom Pokémon"
+        },
+        {
+            "id": "a002_260_0592",
+            "en_US": "Floating Pokémon"
+        },
+        {
+            "id": "a002_260_0593",
+            "en_US": "Floating Pokémon"
+        },
+        {
+            "id": "a002_260_0594",
+            "en_US": "Caring Pokémon"
+        },
+        {
+            "id": "a002_260_0595",
+            "en_US": "Attaching Pokémon"
+        },
+        {
+            "id": "a002_260_0596",
+            "en_US": "EleSpider Pokémon"
+        },
+        {
+            "id": "a002_260_0597",
+            "en_US": "Thorn Seed Pokémon"
+        },
+        {
+            "id": "a002_260_0598",
+            "en_US": "Thorn Pod Pokémon"
+        },
+        {
+            "id": "a002_260_0599",
+            "en_US": "Gear Pokémon"
+        },
+        {
+            "id": "a002_260_0600",
+            "en_US": "Gear Pokémon"
+        },
+        {
+            "id": "a002_260_0601",
+            "en_US": "Gear Pokémon"
+        },
+        {
+            "id": "a002_260_0602",
+            "en_US": "EleFish Pokémon"
+        },
+        {
+            "id": "a002_260_0603",
+            "en_US": "EleFish Pokémon"
+        },
+        {
+            "id": "a002_260_0604",
+            "en_US": "EleFish Pokémon"
+        },
+        {
+            "id": "a002_260_0605",
+            "en_US": "Cerebral Pokémon"
+        },
+        {
+            "id": "a002_260_0606",
+            "en_US": "Cerebral Pokémon"
+        },
+        {
+            "id": "a002_260_0607",
+            "en_US": "Candle Pokémon"
+        },
+        {
+            "id": "a002_260_0608",
+            "en_US": "Lamp Pokémon"
+        },
+        {
+            "id": "a002_260_0609",
+            "en_US": "Luring Pokémon"
+        },
+        {
+            "id": "a002_260_0610",
+            "en_US": "Tusk Pokémon"
+        },
+        {
+            "id": "a002_260_0611",
+            "en_US": "Axe Jaw Pokémon"
+        },
+        {
+            "id": "a002_260_0612",
+            "en_US": "Axe Jaw Pokémon"
+        },
+        {
+            "id": "a002_260_0613",
+            "en_US": "Chill Pokémon"
+        },
+        {
+            "id": "a002_260_0614",
+            "en_US": "Freezing Pokémon"
+        },
+        {
+            "id": "a002_260_0615",
+            "en_US": "Crystallizing Pokémon"
+        },
+        {
+            "id": "a002_260_0616",
+            "en_US": "Snail Pokémon"
+        },
+        {
+            "id": "a002_260_0617",
+            "en_US": "Shell Out Pokémon"
+        },
+        {
+            "id": "a002_260_0618",
+            "en_US": "Trap Pokémon"
+        },
+        {
+            "id": "a002_260_0619",
+            "en_US": "Martial Arts Pokémon"
+        },
+        {
+            "id": "a002_260_0620",
+            "en_US": "Martial Arts Pokémon"
+        },
+        {
+            "id": "a002_260_0621",
+            "en_US": "Cave Pokémon"
+        },
+        {
+            "id": "a002_260_0622",
+            "en_US": "Automaton Pokémon"
+        },
+        {
+            "id": "a002_260_0623",
+            "en_US": "Automaton Pokémon"
+        },
+        {
+            "id": "a002_260_0624",
+            "en_US": "Sharp Blade Pokémon"
+        },
+        {
+            "id": "a002_260_0625",
+            "en_US": "Sword Blade Pokémon"
+        },
+        {
+            "id": "a002_260_0626",
+            "en_US": "Bash Buffalo Pokémon"
+        },
+        {
+            "id": "a002_260_0627",
+            "en_US": "Eaglet Pokémon"
+        },
+        {
+            "id": "a002_260_0628",
+            "en_US": "Valiant Pokémon"
+        },
+        {
+            "id": "a002_260_0629",
+            "en_US": "Diapered Pokémon"
+        },
+        {
+            "id": "a002_260_0630",
+            "en_US": "Bone Vulture Pokémon"
+        },
+        {
+            "id": "a002_260_0631",
+            "en_US": "Anteater Pokémon"
+        },
+        {
+            "id": "a002_260_0632",
+            "en_US": "Iron Ant Pokémon"
+        },
+        {
+            "id": "a002_260_0633",
+            "en_US": "Irate Pokémon"
+        },
+        {
+            "id": "a002_260_0634",
+            "en_US": "Hostile Pokémon"
+        },
+        {
+            "id": "a002_260_0635",
+            "en_US": "Brutal Pokémon"
+        },
+        {
+            "id": "a002_260_0636",
+            "en_US": "Torch Pokémon"
+        },
+        {
+            "id": "a002_260_0637",
+            "en_US": "Sun Pokémon"
+        },
+        {
+            "id": "a002_260_0638",
+            "en_US": "Iron Will Pokémon"
+        },
+        {
+            "id": "a002_260_0639",
+            "en_US": "Cavern Pokémon"
+        },
+        {
+            "id": "a002_260_0640",
+            "en_US": "Grassland Pokémon"
+        },
+        {
+            "id": "a002_260_0641",
+            "en_US": "Cyclone Pokémon"
+        },
+        {
+            "id": "a002_260_0642",
+            "en_US": "Bolt Strike Pokémon"
+        },
+        {
+            "id": "a002_260_0643",
+            "en_US": "Vast White Pokémon"
+        },
+        {
+            "id": "a002_260_0644",
+            "en_US": "Deep Black Pokémon"
+        },
+        {
+            "id": "a002_260_0645",
+            "en_US": "Abundance Pokémon"
+        },
+        {
+            "id": "a002_260_0646",
+            "en_US": "Boundary Pokémon"
+        },
+        {
+            "id": "a002_260_0647",
+            "en_US": "Colt Pokémon"
+        },
+        {
+            "id": "a002_260_0648",
+            "en_US": "Melody Pokémon"
+        },
+        {
+            "id": "a002_260_0649",
+            "en_US": "Paleozoic Pokémon"
+        }
+    ]
+}

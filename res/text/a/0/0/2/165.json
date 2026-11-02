@@ -1,0 +1,107 @@
+{
+    "flags": 96,
+    "messages": [
+        {
+            "id": "a002_165_0000",
+            "en_US": "No. of Pokémon",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0001",
+            "en_US": "Pokémon level",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0002",
+            "en_US": "Special Pokémon",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0003",
+            "en_US": "Same Pokémon",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0004",
+            "en_US": "Same items",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0005",
+            "en_US": "Wonder Launcher",
+            "flags": 108
+        },
+        {
+            "id": "a002_165_0006",
+            "en_US": ": No Restrictions"
+        },
+        {
+            "id": "a002_165_0007",
+            "en_US": ": {VAR 0200 0000}"
+        },
+        {
+            "id": "a002_165_0008",
+            "en_US": ": {VAR 0200 0000} or more"
+        },
+        {
+            "id": "a002_165_0009",
+            "en_US": ": {VAR 0200 0000} to {VAR 0200 0001}"
+        },
+        {
+            "id": "a002_165_0010",
+            "en_US": ": No Restrictions"
+        },
+        {
+            "id": "a002_165_0011",
+            "en_US": ": Becomes {VAR 0202 0000}"
+        },
+        {
+            "id": "a002_165_0012",
+            "en_US": ": Up to {VAR 0202 0000}"
+        },
+        {
+            "id": "a002_165_0013",
+            "en_US": ": {VAR 0202 0000} and up"
+        },
+        {
+            "id": "a002_165_0014",
+            "en_US": ": Becomes {VAR 0202 0000}-"
+        },
+        {
+            "id": "a002_165_0015",
+            "en_US": ": Becomes {VAR 0202 0000}+"
+        },
+        {
+            "id": "a002_165_0016",
+            "en_US": ": Permitted"
+        },
+        {
+            "id": "a002_165_0017",
+            "en_US": ": Banned"
+        },
+        {
+            "id": "a002_165_0018",
+            "en_US": ": Permitted"
+        },
+        {
+            "id": "a002_165_0019",
+            "en_US": ": Banned"
+        },
+        {
+            "id": "a002_165_0020",
+            "en_US": ": Permitted"
+        },
+        {
+            "id": "a002_165_0021",
+            "en_US": ": Banned"
+        },
+        {
+            "id": "a002_165_0022",
+            "en_US": ": On"
+        },
+        {
+            "id": "a002_165_0023",
+            "en_US": ": Off"
+        }
+    ]
+}

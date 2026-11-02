@@ -1,0 +1,232 @@
+{
+    "flags": 224,
+    "pad": "b4b4",
+    "messages": [
+        {
+            "id": "a003_036_0000",
+            "en_US": [
+                "Cheren: Hey, {VAR 0100 0000}.\n",
+                "I just challenged the Gym Leader Burgh.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0001",
+            "en_US": [
+                "He's a seasoned Gym Leader.\n",
+                "He made me work for that Gym Badge!{VAR BE01}\n",
+                "But for me, Bug-type Pokémon\n",
+                "aren't much of a challenge.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0002",
+            "en_US": [
+                "I'm going to keep winning like this against\n",
+                "all of the Unova region's Gym Leaders!{VAR BE01}\n",
+                "Then, I'll head for the Pokémon League\n",
+                "and outperform the Champion!{VAR BE01}\n",
+                "If I do that, everyone will admit\n",
+                "what a strong Trainer I am...{VAR BE01}\n",
+                "That will make me feel truly alive...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0003",
+            "en_US": [
+                "Burgh: Ah hah!{VAR BE01}\n",
+                "You're the one who fought\n",
+                "Team Plasma in Pinwheel Forest...{VAR BE01}\n",
+                "If I remember, your name is...\n",
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "Come to challenge the Gym, I suppose?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0004",
+            "en_US": [
+                "Burgh: Ah hah!{VAR BE01}\n",
+                "You're the one who fought\n",
+                "Team Plasma in Pinwheel Forest...{VAR BE01}\n",
+                "If I remember, your name is...{VAR BE01}\n",
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "Come to challenge the Gym, I suppose?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0005",
+            "en_US": [
+                "Aww. Sorry, but could you wait a bit?{VAR BE01}\n",
+                "I was informed that Team Plasma\n",
+                "has shown up!{VAR BE01}\n",
+                "In fact... Come with me!\n",
+                "I'm going to the dock at Prime Pier!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0006",
+            "en_US": "Burgh: This is definitely the place.{VAR BE01}"
+        },
+        {
+            "id": "a003_036_0007",
+            "en_US": [
+                "Team Plasma: No one's here! Not a soul!{VAR BE01}\n",
+                "No other Team Plasma members, nor any\n",
+                "of the Seven Sages, are inside.{VAR BE01}\n",
+                "...If you think I'm lying, why don't\n",
+                "we have a little battle and find out?"
+            ]
+        },
+        {
+            "id": "a003_036_0008",
+            "en_US": [
+                "Team Plasma: Don't scare me like that.\n",
+                "Come on!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0009",
+            "en_US": [
+                "Team Plasma: I...had a thought!{VAR BE01}\n",
+                "I'll take care of this weak-looking runt,\n",
+                "so you can show off by handling{VAR BE00}\n",
+                "that tough-looking guy over there!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0010",
+            "en_US": [
+                "Think about how a Pokémon feels when\n",
+                "it's being used by a pathetic Trainer!"
+            ]
+        },
+        {
+            "id": "a003_036_0011",
+            "en_US": [
+                "What's your problem with\n",
+                "taking people's Pokémon?!"
+            ]
+        },
+        {
+            "id": "a003_036_0012",
+            "en_US": [
+                "Burgh: Oh, please!\n",
+                "{VAR 0100 0000}, I'll leave that one to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0013",
+            "en_US": [
+                "Burgh: Oh, please!\n",
+                "{VAR 0100 0000}, I'll leave that one to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0014",
+            "en_US": [
+                "Burgh: Looks like our only\n",
+                "option is to battle them and go on in."
+            ]
+        },
+        {
+            "id": "a003_036_0015",
+            "en_US": [
+                "Team Plasma: This is bad...{VAR BE01}\n",
+                "Badbadbadbadbadbadbad!{VAR BE01}\n",
+                "Bad for Team Plasma!\n",
+                "Or Plasbad, for short!{VAR BE01}\n",
+                "It's in my best interest to go\n",
+                "report to the Seven Sages right now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0016",
+            "en_US": [
+                "Iris: Phew, we got lost.{VAR BE01}\n",
+                "Even with directions from the\n",
+                "Xtransceiver, I couldn't figure it out!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0017",
+            "en_US": [
+                "Burgh: Team Plasma is inside.{VAR BE01}\n",
+                "The stolen Pokémon may be in\n",
+                "there as well.{VAR BE00}\n",
+                "OK, I'm going in!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0018",
+            "en_US": [
+                "Iris: OK! This time, I'll join the fight!{VAR BE01}\n",
+                "Come on, Bianca. You, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0019",
+            "en_US": [
+                "Bianca: W-wait!{VAR BE01}\n",
+                "{VAR 0100 0000}! You come, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_036_0020",
+            "en_US": "The Xtransceiver is ringing."
+        },
+        {
+            "id": "a003_036_0021",
+            "en_US": "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}"
+        },
+        {
+            "id": "a003_036_0022",
+            "en_US": [
+                "What Gym Leaders test is the strength\n",
+                "of the bond between the challenger{VAR BE00}\n",
+                "and his or her Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_036_0023",
+            "en_US": [
+                "Before challenging the Gym, you'll want\n",
+                "to be sure you have enough Potions."
+            ]
+        },
+        {
+            "id": "a003_036_0024",
+            "en_US": [
+                "Being a Pokémon Trainer doesn't\n",
+                "necessarily make someone stronger.{VAR BE01}\n",
+                "But everyone can love their Pokémon\n",
+                "and enjoy playing together."
+            ]
+        },
+        {
+            "id": "a003_036_0025",
+            "en_US": [
+                "I have six Poké Balls in my Bag!{VAR BE01}\n",
+                "But, really, what I want is\n",
+                "Great Balls and Ultra Balls!{VAR BE01}\n",
+                "You can't buy them at the Poké Mart\n",
+                "until you've collected Badges, though."
+            ]
+        },
+        {
+            "id": "a003_036_0026",
+            "en_US": [
+                "My Pokémon is soooo cute!{VAR BE01}\n",
+                "It always makes me feel better\n",
+                "when I come home!"
+            ]
+        },
+        {
+            "id": "a003_036_0027",
+            "en_US": [
+                "Castelia City Pokémon Gym\n",
+                "Leader: Burgh{VAR BE00}\n",
+                "Premier Insect Artist"
+            ],
+            "flags": 207
+        }
+    ]
+}

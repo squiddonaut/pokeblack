@@ -1,0 +1,209 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_224_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_224_0001",
+            "en_US": "Hokkaido (Sapporo)"
+        },
+        {
+            "id": "a002_224_0002",
+            "en_US": "Hokkaido (Hakodate)"
+        },
+        {
+            "id": "a002_224_0003",
+            "en_US": "Hokkaido (Wakkanai)"
+        },
+        {
+            "id": "a002_224_0004",
+            "en_US": "Hokkaido (Kushiro)"
+        },
+        {
+            "id": "a002_224_0005",
+            "en_US": "Aomori"
+        },
+        {
+            "id": "a002_224_0006",
+            "en_US": "Iwate"
+        },
+        {
+            "id": "a002_224_0007",
+            "en_US": "Miyagi"
+        },
+        {
+            "id": "a002_224_0008",
+            "en_US": "Akita"
+        },
+        {
+            "id": "a002_224_0009",
+            "en_US": "Yamagata"
+        },
+        {
+            "id": "a002_224_0010",
+            "en_US": "Fukushima"
+        },
+        {
+            "id": "a002_224_0011",
+            "en_US": "Ibaraki"
+        },
+        {
+            "id": "a002_224_0012",
+            "en_US": "Tochigi"
+        },
+        {
+            "id": "a002_224_0013",
+            "en_US": "Gunma"
+        },
+        {
+            "id": "a002_224_0014",
+            "en_US": "Saitama"
+        },
+        {
+            "id": "a002_224_0015",
+            "en_US": "Chiba"
+        },
+        {
+            "id": "a002_224_0016",
+            "en_US": "Tokyo"
+        },
+        {
+            "id": "a002_224_0017",
+            "en_US": "Kanagawa"
+        },
+        {
+            "id": "a002_224_0018",
+            "en_US": "Niigata"
+        },
+        {
+            "id": "a002_224_0019",
+            "en_US": "Toyama"
+        },
+        {
+            "id": "a002_224_0020",
+            "en_US": "Ishikawa"
+        },
+        {
+            "id": "a002_224_0021",
+            "en_US": "Fukui"
+        },
+        {
+            "id": "a002_224_0022",
+            "en_US": "Yamanashi"
+        },
+        {
+            "id": "a002_224_0023",
+            "en_US": "Nagano"
+        },
+        {
+            "id": "a002_224_0024",
+            "en_US": "Gifu"
+        },
+        {
+            "id": "a002_224_0025",
+            "en_US": "Shizuoka"
+        },
+        {
+            "id": "a002_224_0026",
+            "en_US": "Aichi"
+        },
+        {
+            "id": "a002_224_0027",
+            "en_US": "Mie"
+        },
+        {
+            "id": "a002_224_0028",
+            "en_US": "Shiga"
+        },
+        {
+            "id": "a002_224_0029",
+            "en_US": "Kyoto"
+        },
+        {
+            "id": "a002_224_0030",
+            "en_US": "Osaka"
+        },
+        {
+            "id": "a002_224_0031",
+            "en_US": "Hyogo"
+        },
+        {
+            "id": "a002_224_0032",
+            "en_US": "Nara"
+        },
+        {
+            "id": "a002_224_0033",
+            "en_US": "Wakayama"
+        },
+        {
+            "id": "a002_224_0034",
+            "en_US": "Tottori"
+        },
+        {
+            "id": "a002_224_0035",
+            "en_US": "Shimane"
+        },
+        {
+            "id": "a002_224_0036",
+            "en_US": "Okayama"
+        },
+        {
+            "id": "a002_224_0037",
+            "en_US": "Hiroshima"
+        },
+        {
+            "id": "a002_224_0038",
+            "en_US": "Yamaguchi"
+        },
+        {
+            "id": "a002_224_0039",
+            "en_US": "Tokushima"
+        },
+        {
+            "id": "a002_224_0040",
+            "en_US": "Kagawa"
+        },
+        {
+            "id": "a002_224_0041",
+            "en_US": "Ehime"
+        },
+        {
+            "id": "a002_224_0042",
+            "en_US": "Kochi"
+        },
+        {
+            "id": "a002_224_0043",
+            "en_US": "Fukuoka"
+        },
+        {
+            "id": "a002_224_0044",
+            "en_US": "Saga"
+        },
+        {
+            "id": "a002_224_0045",
+            "en_US": "Nagasaki"
+        },
+        {
+            "id": "a002_224_0046",
+            "en_US": "Kumamoto"
+        },
+        {
+            "id": "a002_224_0047",
+            "en_US": "Oita"
+        },
+        {
+            "id": "a002_224_0048",
+            "en_US": "Miyazaki"
+        },
+        {
+            "id": "a002_224_0049",
+            "en_US": "Kagoshima"
+        },
+        {
+            "id": "a002_224_0050",
+            "en_US": "Okinawa"
+        }
+    ]
+}

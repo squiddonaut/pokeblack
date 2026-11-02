@@ -1,0 +1,24 @@
+{
+    "flags": 207,
+    "messages": [
+        {
+            "id": "a003_400_0000",
+            "en_US": "Route 12"
+        },
+        {
+            "id": "a003_400_0001",
+            "en_US": "Route 12"
+        },
+        {
+            "id": "a003_400_0002",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Even the same kind of Pokémon can\n",
+                "have different Abilities.{VAR BE01}\n",
+                "Even if you've caught it before, try\n",
+                "to catch another one!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "flags": 224,
+    "pad": "9090",
+    "messages": [
+        {
+            "id": "a003_205_0000",
+            "en_US": [
+                "Bronius: When I saw you in Castelia,\n",
+                "I did not care about your existence.{VAR BE01}\n",
+                "Here in the Chargestone Cave,\n",
+                "Ghetsis tested your ability...{VAR BE01}\n",
+                "Once more, we will test you to learn\n",
+                "what it is you are.{VAR BE01}\n",
+                "Team Plasma, come out!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0001",
+            "en_US": [
+                "Team Plasma: Bronius of the Seven Sages,\n",
+                "I will bring this kid down!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0002",
+            "en_US": "Team Plasma: This kid is the real thing!{VAR BE01}"
+        },
+        {
+            "id": "a003_205_0003",
+            "en_US": [
+                "Team Plasma: Because of you,\n",
+                "I'm now ex-Team Plasma.{VAR BE01}\n",
+                "Being an ex doesn't sound cool, does it?\n",
+                "How are you going to make it up to me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0004",
+            "en_US": [
+                "Team Plasma: An ex-Team Plasma member\n",
+                "becomes an ordinary Pokémon Trainer...{VAR BE00}\n",
+                "This was that moment.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0005",
+            "en_US": [
+                "Bronius: The Pokémon of our Team Plasma\n",
+                "are also fighting for their Trainers.{VAR BE01}\n",
+                "It was so obvious that I overlooked it...\n",
+                "Thank you for reminding me of that.{VAR BE01}\n",
+                "Here, I'd like you to take this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0006",
+            "en_US": [
+                "Bronius: Pokémon do their best for their\n",
+                "Trainers even when they are injured.{VAR BE01}\n",
+                "I wonder whether my lord N understands\n",
+                "what that means?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0007",
+            "en_US": [
+                "Looker: On the topic of Team Plasma...{VAR BE01}\n",
+                "I am an officer of the\n",
+                "International Police,{VAR BE00}\n",
+                "so you would be wise{VAR BE00}\n",
+                "to share all you know.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0008",
+            "en_US": [
+                "Bronius: Those who left Team Plasma and\n",
+                "are behaving with respect and{VAR BE00}\n",
+                "understanding toward Pokémon...{VAR BE01}\n",
+                "Them, please forgive!\n",
+                "However, those who won't interact with{VAR BE00}\n",
+                "Pokémon in a kind and honest way...{VAR BE00}\n",
+                "Even I will never forgive them!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0009",
+            "en_US": [
+                "Looker: Truly, I thank you!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding,\n",
+                "there yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "Their innermost thoughts,\n",
+                "their uttermost hopes...{VAR BE00}\n",
+                "These I must and shall discover!{VAR BE00}\n",
+                "Once more, a brief farewell!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_205_0010",
+            "en_US": [
+                "Looker: Thank you!{VAR BE01}\n",
+                "{VAR 0100 0000}, there is something\n",
+                "of which we must speak.{VAR BE01}\n",
+                "A report has been received. By me.\n",
+                "Far from here, a sighting occurred of a{VAR BE00}\n",
+                "person like N and--a dragon Pokémon.{VAR BE01}\n",
+                "I must instantly go to confirm the\n",
+                "complete confirmation of this report.{VAR BE00}\n",
+                "I will see you again, and soon!{VAR BE01}"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "flags": 224,
+    "pad": "ecec",
+    "messages": [
+        {
+            "id": "a003_129_0000",
+            "en_US": [
+                "I am coaching Iris.{VAR BE01}\n",
+                "But, honestly, she's been stronger than\n",
+                "me ever since she came here!"
+            ]
+        },
+        {
+            "id": "a003_129_0001",
+            "en_US": [
+                "The move Draco Meteor that Drayden\n",
+                "teaches us is the strongest{VAR BE00}\n",
+                "Dragon-type move.{VAR BE01}\n",
+                "However, it will sharply reduce\n",
+                "Special Attack after use."
+            ]
+        },
+        {
+            "id": "a003_129_0002",
+            "en_US": [
+                "The move Draco Meteor that Iris teaches\n",
+                "us is the strongest Dragon-type move.{VAR BE01}\n",
+                "However, it will sharply reduce\n",
+                "Special Attack after use."
+            ]
+        },
+        {
+            "id": "a003_129_0003",
+            "en_US": [
+                "Concerned about your Pokémon's weight?{VAR BE01}\n",
+                "You don't need to put it on a diet!\n",
+                "Just let it hold this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_129_0004",
+            "en_US": [
+                "The weight of a Pokémon holding a\n",
+                "Float Stone will be halved!{VAR BE01}\n",
+                "That way, you can reduce the damage\n",
+                "caused by weight-based moves such as{VAR BE00}\n",
+                "Low Kick and Grass Knot."
+            ]
+        },
+        {
+            "id": "a003_129_0005",
+            "en_US": [
+                "I have an item that I don't know how to\n",
+                "use. Would you give it a try and see if{VAR BE00}\n",
+                "you can make it work?"
+            ]
+        },
+        {
+            "id": "a003_129_0006",
+            "en_US": [
+                "I know...\n",
+                "You'll also have trouble figuring it out."
+            ]
+        },
+        {
+            "id": "a003_129_0007",
+            "en_US": "You may be able to master it. Here it is!{VAR BE01}"
+        },
+        {
+            "id": "a003_129_0008",
+            "en_US": [
+                "If a Pokémon holds a Ring Target, it can\n",
+                "be hit even by a move that would usually{VAR BE00}\n",
+                "have no effect.{VAR BE01}\n",
+                "For example, a Normal-type move would\n",
+                "hit a Ghost-type Pokémon.{VAR BE01}\n",
+                "Mastering this item is a bit tough...\n",
+                "Actually, it's very tough, but think{VAR BE00}\n",
+                "how useful it could be!"
+            ]
+        }
+    ]
+}

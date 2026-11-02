@@ -1,0 +1,174 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_378_0000",
+            "en_US": [
+                "{VAR 0102 0000} seems to want to get out of\n",
+                "the Poké Ball!{VAR BE01}\n",
+                "Will you let it out?"
+            ]
+        },
+        {
+            "id": "a003_378_0001",
+            "en_US": "The Poké Ball has stopped moving..."
+        },
+        {
+            "id": "a003_378_0002",
+            "en_US": "{VAR 0102 0000} came jumping out!{VAR BE01}"
+        },
+        {
+            "id": "a003_378_0003",
+            "en_US": [
+                "Ooh! That Pokémon! It couldn't be...{VAR BE01}\n",
+                "A bright red mane...and a lush tail...and\n",
+                "a single, noble horn!{VAR BE01}\n",
+                "It's exactly like the old legend!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0004",
+            "en_US": [
+                "Long ago, when a war between people\n",
+                "started an intense fire in this forest,{VAR BE00}\n",
+                "a single young Pokémon was separated{VAR BE00}\n",
+                "from its parents.{VAR BE01}\n",
+                "Cobalion, Terrakion, and Virizion\n",
+                "teamed up to take care of this Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0005",
+            "en_US": [
+                "The three acted as its parents and\n",
+                "taught it the knowledge and the moves{VAR BE00}\n",
+                "it needed to survive...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0006",
+            "en_US": [
+                "The young Pokémon grew rapidly, and\n",
+                "developed a power that surpassed its{VAR BE00}\n",
+                "three caretakers.{VAR BE01}\n",
+                "However... One day, that Pokémon\n",
+                "disappeared from the forest.{VAR BE01}\n",
+                "No one knows why. But when I think about\n",
+                "it... Young ones are always reckless and{VAR BE00}\n",
+                "drawn to adventure...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0007",
+            "en_US": [
+                "It looks like they are all happy to see\n",
+                "one another again!{VAR BE01}\n",
+                "I wonder if those three are trying to\n",
+                "teach Keldeo something?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0008",
+            "en_US": [
+                "Cobalion, Terrakion, and Virizion are\n",
+                "trying to teach {VAR 0102 0000} the new move{VAR BE00}\n",
+                "Secret Sword!{VAR BE01}\n",
+                "Teach Secret Sword to {VAR 0102 0000}?"
+            ]
+        },
+        {
+            "id": "a003_378_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_378_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_378_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_378_0012",
+            "en_US": [
+                "If it weren't for you, these Pokémon\n",
+                "never would have been able to meet again{VAR BE00}\n",
+                "here in this forest that holds so many{VAR BE00}\n",
+                "memories for them.{VAR BE01}\n",
+                "I'm sure they are very happy that they\n",
+                "were able to meet a Trainer like you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0013",
+            "en_US": [
+                "It seems like it's looking for the three\n",
+                "legendary Pokémon that raised it:{VAR BE00}\n",
+                "Cobalion, Terrakion, and Virizion.{VAR BE01}\n",
+                "Maybe something will happen if you bring\n",
+                "them here, too...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0014",
+            "en_US": [
+                "How you raise Keldeo is up to you...{VAR BE01}\n",
+                "Sometimes it's necessary to think about\n",
+                "things carefully rather than acting on{VAR BE00}\n",
+                "the spur of the moment.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0015",
+            "en_US": [
+                "For Keldeo and the three legendary\n",
+                "Pokémon of the Unova region--Cobalion,{VAR BE00}\n",
+                "Terrakion, and Virizion--this forest{VAR BE00}\n",
+                "has a special meaning.{VAR BE01}\n",
+                "It seems like it would be best if you knew\n",
+                "this story, as well.{VAR BE01}\n",
+                "Would you mind listening to an old man's\n",
+                "story for a moment?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0016",
+            "en_US": [
+                "When you want to teach Keldeo this move,\n",
+                "you must bring Cobalion, Terrakion,{VAR BE00}\n",
+                "and Virizion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0017",
+            "en_US": [
+                "A verdant forest and clear water... For\n",
+                "Pokémon, this forest is like a paradise.{VAR BE01}\n",
+                "It's also very important for people,\n",
+                "so I want to take good care of it!"
+            ]
+        },
+        {
+            "id": "a003_378_0018",
+            "en_US": [
+                "Would you like to teach Keldeo this\n",
+                "move again?"
+            ]
+        },
+        {
+            "id": "a003_378_0019",
+            "en_US": [
+                "If you don't get to do something you\n",
+                "wanted to do, it sure stays with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_378_0020",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

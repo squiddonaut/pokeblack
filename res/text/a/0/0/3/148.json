@@ -1,0 +1,98 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_148_0000",
+            "en_US": [
+                "Who are you?\n",
+                "How impudent you are to disturb my sleep.{VAR BE01}\n",
+                "Hmf...{VAR BE01}\n",
+                "You appear to possess a combination of\n",
+                "strength and kindness. Very well.{VAR BE01}\n",
+                "Make your best effort not to bore me\n",
+                "with a yawn-inducing battle. Clear?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_148_0001",
+            "en_US": [
+                "You haven't faced all of the members\n",
+                "of the Elite Four yet, have you?{VAR BE01}\n",
+                "Don't concern yourself about me.\n",
+                "Go on ahead."
+            ]
+        },
+        {
+            "id": "a003_148_0002",
+            "en_US": [
+                "In the past, when I battled, the force\n",
+                "of my emotions shook me greatly.{VAR BE01}\n",
+                "When my power awoke, I came close to\n",
+                "destroying everything around me.{VAR BE01}\n",
+                "That weak person no longer exists...\n",
+                "Still, sometimes, my determination fails.{VAR BE01}\n",
+                "Always, I aspire to wrap up a victory\n",
+                "with elegance and grace.{VAR BE01}\n",
+                "I invite you to be my opponent\n",
+                "again in the future, if you wish."
+            ]
+        },
+        {
+            "id": "a003_148_0003",
+            "en_US": [
+                "Somehow, you managed to defeat the\n",
+                "entire Elite Four of the Pokémon League.{VAR BE01}\n",
+                "Check the statue in the center of the\n",
+                "plaza for the way to the Champion's room."
+            ]
+        },
+        {
+            "id": "a003_148_0004",
+            "en_US": [
+                "Who's there?\n",
+                "Who is so uncouth as to disturb my sleep?{VAR BE01}\n",
+                "Hmf... It's you again.{VAR BE01}\n",
+                "Still, you possess that combination of\n",
+                "kindness and strength. Yet you seem{VAR BE00}\n",
+                "stronger than before...{VAR BE01}\n",
+                "Do be sure not to bore me with a\n",
+                "snooze-inducing battle, is that clear?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_148_0005",
+            "en_US": [
+                "Alas! Even with the knowledge and skill\n",
+                "passed down in my family of Trainers,{VAR BE00}\n",
+                "I still can't win.{VAR BE01}\n",
+                "The reason I came here in the first place\n",
+                "was to encounter Trainers like you..."
+            ]
+        },
+        {
+            "id": "a003_148_0006",
+            "en_US": [
+                "In the past, my untrained heart made my\n",
+                "power run wild.{VAR BE00}\n",
+                "I was forbidden to battle.{VAR BE01}\n",
+                "All I craved then was to experience the\n",
+                "pure excitement of battling like this.{VAR BE01}\n",
+                "Hee hee...\n",
+                "Although I'm embarrassed, I can't help{VAR BE00}\n",
+                "smiling right now."
+            ]
+        },
+        {
+            "id": "a003_148_0007",
+            "en_US": [
+                "You have defeated the\n",
+                "Pokémon League's Elite Four.{VAR BE01}\n",
+                "You have earned the right to\n",
+                "proceed to the Champion's room.{VAR BE01}\n",
+                "Making an entrance is not the point.{VAR BE01}\n",
+                "Once you're there, you'll need to\n",
+                "unleash your power to the fullest!"
+            ]
+        }
+    ]
+}

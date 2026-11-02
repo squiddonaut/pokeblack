@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_381_0000",
+            "en_US": [
+                "Route 9 has a lot of Trainers\n",
+                "for such a short route.{VAR BE01}\n",
+                "If there is a place where people can\n",
+                "ride, similar people tend to gather!"
+            ]
+        },
+        {
+            "id": "a003_381_0001",
+            "en_US": [
+                "Phew... I tried a little too hard.{VAR BE01}\n",
+                "I bought way too much\n",
+                "at Shopping Mall Nine!"
+            ]
+        }
+    ]
+}

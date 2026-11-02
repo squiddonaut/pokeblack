@@ -1,0 +1,35 @@
+{
+    "flags": 224,
+    "pad": "eaea",
+    "messages": [
+        {
+            "id": "a003_025_0000",
+            "en_US": [
+                "Hi, Trainer! Do you know a Pokémon\n",
+                "called Audino?{VAR BE01}\n",
+                "It's a Pokémon that I sometimes find\n",
+                "when I'm walking.{VAR BE01}\n",
+                "It jumps out of rustling grass.\n",
+                "I can get a lot of Exp. Points.{VAR BE01}\n",
+                "It's kind of a friendly Pokémon, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_025_0001",
+            "en_US": [
+                "I heard that the Fossils in the museum\n",
+                "were found in Twist Mountain.{VAR BE01}\n",
+                "Then, a person called Clay apparently\n",
+                "donated them to the museum."
+            ]
+        },
+        {
+            "id": "a003_025_0002",
+            "en_US": [
+                "When you choose “HELP\"\n",
+                "at the PC at a Pokémon Center,{VAR BE00}\n",
+                "you can learn many things. It's so cool!"
+            ]
+        }
+    ]
+}

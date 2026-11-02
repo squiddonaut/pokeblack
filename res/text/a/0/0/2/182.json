@@ -1,0 +1,666 @@
+{
+    "flags": 72,
+    "pad": "3030",
+    "messages": [
+        {
+            "id": "a002_182_0000",
+            "en_US": "--"
+        },
+        {
+            "id": "a002_182_0001",
+            "en_US": "Stench"
+        },
+        {
+            "id": "a002_182_0002",
+            "en_US": "Drizzle"
+        },
+        {
+            "id": "a002_182_0003",
+            "en_US": "Speed Boost"
+        },
+        {
+            "id": "a002_182_0004",
+            "en_US": "Battle Armor"
+        },
+        {
+            "id": "a002_182_0005",
+            "en_US": "Sturdy"
+        },
+        {
+            "id": "a002_182_0006",
+            "en_US": "Damp"
+        },
+        {
+            "id": "a002_182_0007",
+            "en_US": "Limber"
+        },
+        {
+            "id": "a002_182_0008",
+            "en_US": "Sand Veil"
+        },
+        {
+            "id": "a002_182_0009",
+            "en_US": "Static"
+        },
+        {
+            "id": "a002_182_0010",
+            "en_US": "Volt Absorb"
+        },
+        {
+            "id": "a002_182_0011",
+            "en_US": "Water Absorb"
+        },
+        {
+            "id": "a002_182_0012",
+            "en_US": "Oblivious"
+        },
+        {
+            "id": "a002_182_0013",
+            "en_US": "Cloud Nine"
+        },
+        {
+            "id": "a002_182_0014",
+            "en_US": "Compoundeyes"
+        },
+        {
+            "id": "a002_182_0015",
+            "en_US": "Insomnia"
+        },
+        {
+            "id": "a002_182_0016",
+            "en_US": "Color Change"
+        },
+        {
+            "id": "a002_182_0017",
+            "en_US": "Immunity"
+        },
+        {
+            "id": "a002_182_0018",
+            "en_US": "Flash Fire"
+        },
+        {
+            "id": "a002_182_0019",
+            "en_US": "Shield Dust"
+        },
+        {
+            "id": "a002_182_0020",
+            "en_US": "Own Tempo"
+        },
+        {
+            "id": "a002_182_0021",
+            "en_US": "Suction Cups"
+        },
+        {
+            "id": "a002_182_0022",
+            "en_US": "Intimidate"
+        },
+        {
+            "id": "a002_182_0023",
+            "en_US": "Shadow Tag"
+        },
+        {
+            "id": "a002_182_0024",
+            "en_US": "Rough Skin"
+        },
+        {
+            "id": "a002_182_0025",
+            "en_US": "Wonder Guard"
+        },
+        {
+            "id": "a002_182_0026",
+            "en_US": "Levitate"
+        },
+        {
+            "id": "a002_182_0027",
+            "en_US": "Effect Spore"
+        },
+        {
+            "id": "a002_182_0028",
+            "en_US": "Synchronize"
+        },
+        {
+            "id": "a002_182_0029",
+            "en_US": "Clear Body"
+        },
+        {
+            "id": "a002_182_0030",
+            "en_US": "Natural Cure"
+        },
+        {
+            "id": "a002_182_0031",
+            "en_US": "Lightningrod"
+        },
+        {
+            "id": "a002_182_0032",
+            "en_US": "Serene Grace"
+        },
+        {
+            "id": "a002_182_0033",
+            "en_US": "Swift Swim"
+        },
+        {
+            "id": "a002_182_0034",
+            "en_US": "Chlorophyll"
+        },
+        {
+            "id": "a002_182_0035",
+            "en_US": "Illuminate"
+        },
+        {
+            "id": "a002_182_0036",
+            "en_US": "Trace"
+        },
+        {
+            "id": "a002_182_0037",
+            "en_US": "Huge Power"
+        },
+        {
+            "id": "a002_182_0038",
+            "en_US": "Poison Point"
+        },
+        {
+            "id": "a002_182_0039",
+            "en_US": "Inner Focus"
+        },
+        {
+            "id": "a002_182_0040",
+            "en_US": "Magma Armor"
+        },
+        {
+            "id": "a002_182_0041",
+            "en_US": "Water Veil"
+        },
+        {
+            "id": "a002_182_0042",
+            "en_US": "Magnet Pull"
+        },
+        {
+            "id": "a002_182_0043",
+            "en_US": "Soundproof"
+        },
+        {
+            "id": "a002_182_0044",
+            "en_US": "Rain Dish"
+        },
+        {
+            "id": "a002_182_0045",
+            "en_US": "Sand Stream"
+        },
+        {
+            "id": "a002_182_0046",
+            "en_US": "Pressure"
+        },
+        {
+            "id": "a002_182_0047",
+            "en_US": "Thick Fat"
+        },
+        {
+            "id": "a002_182_0048",
+            "en_US": "Early Bird"
+        },
+        {
+            "id": "a002_182_0049",
+            "en_US": "Flame Body"
+        },
+        {
+            "id": "a002_182_0050",
+            "en_US": "Run Away"
+        },
+        {
+            "id": "a002_182_0051",
+            "en_US": "Keen Eye"
+        },
+        {
+            "id": "a002_182_0052",
+            "en_US": "Hyper Cutter"
+        },
+        {
+            "id": "a002_182_0053",
+            "en_US": "Pickup"
+        },
+        {
+            "id": "a002_182_0054",
+            "en_US": "Truant"
+        },
+        {
+            "id": "a002_182_0055",
+            "en_US": "Hustle"
+        },
+        {
+            "id": "a002_182_0056",
+            "en_US": "Cute Charm"
+        },
+        {
+            "id": "a002_182_0057",
+            "en_US": "Plus"
+        },
+        {
+            "id": "a002_182_0058",
+            "en_US": "Minus"
+        },
+        {
+            "id": "a002_182_0059",
+            "en_US": "Forecast"
+        },
+        {
+            "id": "a002_182_0060",
+            "en_US": "Sticky Hold"
+        },
+        {
+            "id": "a002_182_0061",
+            "en_US": "Shed Skin"
+        },
+        {
+            "id": "a002_182_0062",
+            "en_US": "Guts"
+        },
+        {
+            "id": "a002_182_0063",
+            "en_US": "Marvel Scale"
+        },
+        {
+            "id": "a002_182_0064",
+            "en_US": "Liquid Ooze"
+        },
+        {
+            "id": "a002_182_0065",
+            "en_US": "Overgrow"
+        },
+        {
+            "id": "a002_182_0066",
+            "en_US": "Blaze"
+        },
+        {
+            "id": "a002_182_0067",
+            "en_US": "Torrent"
+        },
+        {
+            "id": "a002_182_0068",
+            "en_US": "Swarm"
+        },
+        {
+            "id": "a002_182_0069",
+            "en_US": "Rock Head"
+        },
+        {
+            "id": "a002_182_0070",
+            "en_US": "Drought"
+        },
+        {
+            "id": "a002_182_0071",
+            "en_US": "Arena Trap"
+        },
+        {
+            "id": "a002_182_0072",
+            "en_US": "Vital Spirit"
+        },
+        {
+            "id": "a002_182_0073",
+            "en_US": "White Smoke"
+        },
+        {
+            "id": "a002_182_0074",
+            "en_US": "Pure Power"
+        },
+        {
+            "id": "a002_182_0075",
+            "en_US": "Shell Armor"
+        },
+        {
+            "id": "a002_182_0076",
+            "en_US": "Air Lock"
+        },
+        {
+            "id": "a002_182_0077",
+            "en_US": "Tangled Feet"
+        },
+        {
+            "id": "a002_182_0078",
+            "en_US": "Motor Drive"
+        },
+        {
+            "id": "a002_182_0079",
+            "en_US": "Rivalry"
+        },
+        {
+            "id": "a002_182_0080",
+            "en_US": "Steadfast"
+        },
+        {
+            "id": "a002_182_0081",
+            "en_US": "Snow Cloak"
+        },
+        {
+            "id": "a002_182_0082",
+            "en_US": "Gluttony"
+        },
+        {
+            "id": "a002_182_0083",
+            "en_US": "Anger Point"
+        },
+        {
+            "id": "a002_182_0084",
+            "en_US": "Unburden"
+        },
+        {
+            "id": "a002_182_0085",
+            "en_US": "Heatproof"
+        },
+        {
+            "id": "a002_182_0086",
+            "en_US": "Simple"
+        },
+        {
+            "id": "a002_182_0087",
+            "en_US": "Dry Skin"
+        },
+        {
+            "id": "a002_182_0088",
+            "en_US": "Download"
+        },
+        {
+            "id": "a002_182_0089",
+            "en_US": "Iron Fist"
+        },
+        {
+            "id": "a002_182_0090",
+            "en_US": "Poison Heal"
+        },
+        {
+            "id": "a002_182_0091",
+            "en_US": "Adaptability"
+        },
+        {
+            "id": "a002_182_0092",
+            "en_US": "Skill Link"
+        },
+        {
+            "id": "a002_182_0093",
+            "en_US": "Hydration"
+        },
+        {
+            "id": "a002_182_0094",
+            "en_US": "Solar Power"
+        },
+        {
+            "id": "a002_182_0095",
+            "en_US": "Quick Feet"
+        },
+        {
+            "id": "a002_182_0096",
+            "en_US": "Normalize"
+        },
+        {
+            "id": "a002_182_0097",
+            "en_US": "Sniper"
+        },
+        {
+            "id": "a002_182_0098",
+            "en_US": "Magic Guard"
+        },
+        {
+            "id": "a002_182_0099",
+            "en_US": "No Guard"
+        },
+        {
+            "id": "a002_182_0100",
+            "en_US": "Stall"
+        },
+        {
+            "id": "a002_182_0101",
+            "en_US": "Technician"
+        },
+        {
+            "id": "a002_182_0102",
+            "en_US": "Leaf Guard"
+        },
+        {
+            "id": "a002_182_0103",
+            "en_US": "Klutz"
+        },
+        {
+            "id": "a002_182_0104",
+            "en_US": "Mold Breaker"
+        },
+        {
+            "id": "a002_182_0105",
+            "en_US": "Super Luck"
+        },
+        {
+            "id": "a002_182_0106",
+            "en_US": "Aftermath"
+        },
+        {
+            "id": "a002_182_0107",
+            "en_US": "Anticipation"
+        },
+        {
+            "id": "a002_182_0108",
+            "en_US": "Forewarn"
+        },
+        {
+            "id": "a002_182_0109",
+            "en_US": "Unaware"
+        },
+        {
+            "id": "a002_182_0110",
+            "en_US": "Tinted Lens"
+        },
+        {
+            "id": "a002_182_0111",
+            "en_US": "Filter"
+        },
+        {
+            "id": "a002_182_0112",
+            "en_US": "Slow Start"
+        },
+        {
+            "id": "a002_182_0113",
+            "en_US": "Scrappy"
+        },
+        {
+            "id": "a002_182_0114",
+            "en_US": "Storm Drain"
+        },
+        {
+            "id": "a002_182_0115",
+            "en_US": "Ice Body"
+        },
+        {
+            "id": "a002_182_0116",
+            "en_US": "Solid Rock"
+        },
+        {
+            "id": "a002_182_0117",
+            "en_US": "Snow Warning"
+        },
+        {
+            "id": "a002_182_0118",
+            "en_US": "Honey Gather"
+        },
+        {
+            "id": "a002_182_0119",
+            "en_US": "Frisk"
+        },
+        {
+            "id": "a002_182_0120",
+            "en_US": "Reckless"
+        },
+        {
+            "id": "a002_182_0121",
+            "en_US": "Multitype"
+        },
+        {
+            "id": "a002_182_0122",
+            "en_US": "Flower Gift"
+        },
+        {
+            "id": "a002_182_0123",
+            "en_US": "Bad Dreams"
+        },
+        {
+            "id": "a002_182_0124",
+            "en_US": "Pickpocket"
+        },
+        {
+            "id": "a002_182_0125",
+            "en_US": "Sheer Force"
+        },
+        {
+            "id": "a002_182_0126",
+            "en_US": "Contrary"
+        },
+        {
+            "id": "a002_182_0127",
+            "en_US": "Unnerve"
+        },
+        {
+            "id": "a002_182_0128",
+            "en_US": "Defiant"
+        },
+        {
+            "id": "a002_182_0129",
+            "en_US": "Defeatist"
+        },
+        {
+            "id": "a002_182_0130",
+            "en_US": "Cursed Body"
+        },
+        {
+            "id": "a002_182_0131",
+            "en_US": "Healer"
+        },
+        {
+            "id": "a002_182_0132",
+            "en_US": "Friend Guard"
+        },
+        {
+            "id": "a002_182_0133",
+            "en_US": "Weak Armor"
+        },
+        {
+            "id": "a002_182_0134",
+            "en_US": "Heavy Metal"
+        },
+        {
+            "id": "a002_182_0135",
+            "en_US": "Light Metal"
+        },
+        {
+            "id": "a002_182_0136",
+            "en_US": "Multiscale"
+        },
+        {
+            "id": "a002_182_0137",
+            "en_US": "Toxic Boost"
+        },
+        {
+            "id": "a002_182_0138",
+            "en_US": "Flare Boost"
+        },
+        {
+            "id": "a002_182_0139",
+            "en_US": "Harvest"
+        },
+        {
+            "id": "a002_182_0140",
+            "en_US": "Telepathy"
+        },
+        {
+            "id": "a002_182_0141",
+            "en_US": "Moody"
+        },
+        {
+            "id": "a002_182_0142",
+            "en_US": "Overcoat"
+        },
+        {
+            "id": "a002_182_0143",
+            "en_US": "Poison Touch"
+        },
+        {
+            "id": "a002_182_0144",
+            "en_US": "Regenerator"
+        },
+        {
+            "id": "a002_182_0145",
+            "en_US": "Big Pecks"
+        },
+        {
+            "id": "a002_182_0146",
+            "en_US": "Sand Rush"
+        },
+        {
+            "id": "a002_182_0147",
+            "en_US": "Wonder Skin"
+        },
+        {
+            "id": "a002_182_0148",
+            "en_US": "Analytic"
+        },
+        {
+            "id": "a002_182_0149",
+            "en_US": "Illusion"
+        },
+        {
+            "id": "a002_182_0150",
+            "en_US": "Imposter"
+        },
+        {
+            "id": "a002_182_0151",
+            "en_US": "Infiltrator"
+        },
+        {
+            "id": "a002_182_0152",
+            "en_US": "Mummy"
+        },
+        {
+            "id": "a002_182_0153",
+            "en_US": "Moxie"
+        },
+        {
+            "id": "a002_182_0154",
+            "en_US": "Justified"
+        },
+        {
+            "id": "a002_182_0155",
+            "en_US": "Rattled"
+        },
+        {
+            "id": "a002_182_0156",
+            "en_US": "Magic Bounce"
+        },
+        {
+            "id": "a002_182_0157",
+            "en_US": "Sap Sipper"
+        },
+        {
+            "id": "a002_182_0158",
+            "en_US": "Prankster"
+        },
+        {
+            "id": "a002_182_0159",
+            "en_US": "Sand Force"
+        },
+        {
+            "id": "a002_182_0160",
+            "en_US": "Iron Barbs"
+        },
+        {
+            "id": "a002_182_0161",
+            "en_US": "Zen Mode"
+        },
+        {
+            "id": "a002_182_0162",
+            "en_US": "Victory Star"
+        },
+        {
+            "id": "a002_182_0163",
+            "en_US": "Turboblaze"
+        },
+        {
+            "id": "a002_182_0164",
+            "en_US": "Teravolt"
+        }
+    ]
+}

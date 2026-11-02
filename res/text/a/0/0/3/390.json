@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_390_0000",
+            "en_US": [
+                "Halt! The key to open this gate\n",
+                "is the Insect Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_390_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_390_0002",
+            "en_US": [
+                "Oh, holder of the Insect Badge!\n",
+                "Fight valiantly like an insect!"
+            ]
+        },
+        {
+            "id": "a003_390_0003",
+            "en_US": [
+                "First, obtain the Insect Badge\n",
+                "from the Castelia Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_390_0004",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

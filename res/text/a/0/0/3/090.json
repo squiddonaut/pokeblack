@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_090_0000",
+            "en_US": [
+                "We love sports.\n",
+                "Watching games is great, but we enjoy{VAR BE00}\n",
+                "watching practices, too!"
+            ]
+        },
+        {
+            "id": "a003_090_0001",
+            "en_US": [
+                "New styles of basketball and tennis\n",
+                "created by people and Pokémon...{VAR BE00}\n",
+                "These may be advanced forms of sports."
+            ]
+        },
+        {
+            "id": "a003_090_0002",
+            "en_US": [
+                "Hey! Now! There!\n",
+                "Ah! No! No, no!{VAR BE01}\n",
+                "Yes! Yes, yes!\n",
+                "That's right! Ha!{VAR BE01}\n",
+                "Why don't you do it like I said?!"
+            ]
+        },
+        {
+            "id": "a003_090_0003",
+            "en_US": [
+                "I watch them practice quietly.\n",
+                "Because I trust the athletes!"
+            ]
+        },
+        {
+            "id": "a003_090_0004",
+            "en_US": [
+                "Hm-hum! I can copy that play in my\n",
+                "next game."
+            ]
+        },
+        {
+            "id": "a003_090_0005",
+            "en_US": [
+                "Did you see it?\n",
+                "That's a great muscle move!{VAR BE01}\n",
+                "Good muscle! Good hustle!"
+            ]
+        },
+        {
+            "id": "a003_090_0006",
+            "en_US": [
+                "Oh! This could be a once-in-a-lifetime\n",
+                "game! I might witness history!"
+            ]
+        },
+        {
+            "id": "a003_090_0007",
+            "en_US": [
+                "Woooow! Coooool!\n",
+                "Someday I want to be on that court!"
+            ]
+        },
+        {
+            "id": "a003_090_0008",
+            "en_US": [
+                "I believe in big money!\n",
+                "...No, I mean I will gain glory!"
+            ]
+        }
+    ]
+}

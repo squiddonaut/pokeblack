@@ -1,0 +1,249 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_011_0000",
+            "en_US": [
+                "Hey there!\n",
+                "I'm Fennel.{VAR BE01}\n",
+                "Professor Juniper asked me\n",
+                "to give you something.{VAR BE00}\n",
+                "Please, follow me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0001",
+            "en_US": [
+                "Are you looking for the Gym Leader?{VAR BE01}\n",
+                "He is not here.\n",
+                "He could be in the Trainers' School.{VAR BE01}\n",
+                "If you want to challenge him,\n",
+                "please go find him.{VAR BE01}\n",
+                "The Trainers' School is not far from\n",
+                "this Gym."
+            ]
+        },
+        {
+            "id": "a003_011_0002",
+            "en_US": [
+                "Yes? Yes, I am a Gym Leader of this town.\n",
+                "You are...?{VAR BE01}\n",
+                "Right. You want to challenge the Gym.{VAR BE01}\n",
+                "In that case...\n",
+                "What was the first Pokémon you chose?{VAR BE01}\n",
+                "{VAR 0101 0000}... I see. It's weak against\n",
+                "{VAR 0103 0001}-type Pokémon.{VAR BE01}\n",
+                "I think you need to prepare to face\n",
+                "that type.{VAR BE01}\n",
+                "I'll be waiting for you inside.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0003",
+            "en_US": [
+                "Yes? Yes, I am a Gym Leader\n",
+                "of this town.{VAR BE00}\n",
+                "You are...?{VAR BE01}\n",
+                "Right. You want to challenge the Gym.{VAR BE01}\n",
+                "In that case...\n",
+                "What was the first Pokémon you chose?{VAR BE01}\n",
+                "{VAR 0101 0000}... I see. It's weak against\n",
+                "{VAR 0103 0001}-type Pokémon.{VAR BE01}\n",
+                "I think you need to prepare to face\n",
+                "that type.{VAR BE01}\n",
+                "For example, try training your Pokémon\n",
+                "in the Dreamyard.{VAR BE01}\n",
+                "Please excuse me now.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0004",
+            "en_US": [
+                "You don't seem to have any Gym Badges,\n",
+                "so I can't let you by.{VAR BE01}\n",
+                "With your lack of training, you'll have\n",
+                "a hard job making any progress.{VAR BE01}\n",
+                "Let me give you some friendly advice.{VAR BE01}\n",
+                "Challenge a Gym Leader in this town,\n",
+                "and test your ability!"
+            ]
+        },
+        {
+            "id": "a003_011_0005",
+            "en_US": [
+                "You don't seem to have\n",
+                "any Gym Badges.{VAR BE01}\n",
+                "With your lack of experience,\n",
+                "you'll have a hard time in the future.{VAR BE01}\n",
+                "Here's some friendly advice.\n",
+                "Challenge a Gym Leader in this town,{VAR BE00}\n",
+                "and test your ability!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0006",
+            "en_US": [
+                "The scientist Fennel was looking for you\n",
+                "a little while ago!"
+            ]
+        },
+        {
+            "id": "a003_011_0007",
+            "en_US": [
+                "The scientist Fennel was looking for you\n",
+                "a little while ago!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0008",
+            "en_US": [
+                "Wow!\n",
+                "It's a shiny Gym Badge!{VAR BE01}\n",
+                "Getting that Badge proved you have skill\n",
+                "enough to handle whatever comes next!"
+            ]
+        },
+        {
+            "id": "a003_011_0009",
+            "en_US": [
+                "The Striaton City Gym Leader.{VAR BE01}\n",
+                "No matter how often I challenge him,\n",
+                "he always uses Pokémon{VAR BE00}\n",
+                "that I don't like..."
+            ]
+        },
+        {
+            "id": "a003_011_0010",
+            "en_US": [
+                "If a Pokémon type and a move type are\n",
+                "the same, the move's power will increase!{VAR BE00}\n",
+                "The Gym Leader told me!"
+            ]
+        },
+        {
+            "id": "a003_011_0011",
+            "en_US": [
+                "At the site of an old factory,\n",
+                "at a place we call the Dreamyard,{VAR BE00}\n",
+                "there's an unusual Pokémon{VAR BE00}\n",
+                "that can make dreams appear!"
+            ]
+        },
+        {
+            "id": "a003_011_0012",
+            "en_US": [
+                "I too studied at the Trainers' School\n",
+                "when I was a beginner."
+            ]
+        },
+        {
+            "id": "a003_011_0013",
+            "en_US": [
+                "Do you know how Technical Machines work?{VAR BE01}\n",
+                "A TM can instantly teach a move to a\n",
+                "Pokémon. You can use it over and over{VAR BE00}\n",
+                "with different Pokémon. How cool is that?"
+            ]
+        },
+        {
+            "id": "a003_011_0014",
+            "en_US": [
+                "Er... Um...{VAR BE01}\n",
+                "Grass-type Pokémon are\n",
+                "weak against Fire-type moves.{VAR BE01}\n",
+                "I know more stuff!"
+            ]
+        },
+        {
+            "id": "a003_011_0015",
+            "en_US": [
+                "Er... Um...{VAR BE01}\n",
+                "Water-type Pokémon are\n",
+                "weak against Grass-type moves.{VAR BE01}\n",
+                "I know more stuff!"
+            ]
+        },
+        {
+            "id": "a003_011_0016",
+            "en_US": [
+                "Um... Er...{VAR BE01}\n",
+                "Fire-type Pokémon are\n",
+                "weak against Water-type moves.{VAR BE01}\n",
+                "I know more stuff!"
+            ]
+        },
+        {
+            "id": "a003_011_0017",
+            "en_US": [
+                "Some Trainers train themselves and\n",
+                "their Pokémon in the Dreamyard.{VAR BE01}\n",
+                "You might think about going there...\n",
+                "Could be you'll find something..."
+            ]
+        },
+        {
+            "id": "a003_011_0018",
+            "en_US": [
+                "I'm so glad you came.\n",
+                "I'd like to give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0019",
+            "en_US": [
+                "To live quietly and do a lot of fishing...\n",
+                "I truly live my ideal existence!"
+            ]
+        },
+        {
+            "id": "a003_011_0020",
+            "en_US": [
+                "Pokémon can be found in dark places, too.\n",
+                "That's when a Dusk Ball can do the trick!{VAR BE00}\n",
+                "Here's one for you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_011_0021",
+            "en_US": [
+                "A Dusk Ball works well at night\n",
+                "or in a cave.{VAR BE01}\n",
+                "Plus, its name is excellent!\n",
+                "The Dusk Ball. Dusk!"
+            ]
+        },
+        {
+            "id": "a003_011_0022",
+            "en_US": [
+                "Striaton City\n",
+                "Three Stand Together as One!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_011_0023",
+            "en_US": [
+                "Dreamyard ahead.\n",
+                "A place for novice Trainers."
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_011_0024",
+            "en_US": [
+                "Trainers' School\n",
+                "Brush up on Pokémon knowledge!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_011_0025",
+            "en_US": [
+                "Striaton City Pokémon Gym\n",
+                "Leader: ---{VAR BE00}\n",
+                "Triple Trouble!"
+            ],
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "flags": 224,
+    "pad": "0e0e",
+    "messages": [
+        {
+            "id": "a003_450_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0007",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0008",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0009",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0010",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0011",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0012",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0013",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0014",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0015",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0016",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0017",
+            "en_US": ""
+        },
+        {
+            "id": "a003_450_0018",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0019",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0020",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0021",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0022",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0023",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0024",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0025",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0026",
+            "en_US": "",
+            "flags": 219
+        },
+        {
+            "id": "a003_450_0027",
+            "en_US": [
+                "There are a lot of people in the world,\n",
+                "and there are just as many different{VAR BE00}\n",
+                "characteristics and ideas.{VAR BE01}\n",
+                "I think I'd be really happy if I could\n",
+                "meet a lot of people and see the{VAR BE00}\n",
+                "differences for myself!"
+            ]
+        },
+        {
+            "id": "a003_450_0028",
+            "en_US": [
+                "My mama says there's a scary monster\n",
+                "who comes out of the big hole at night,{VAR BE00}\n",
+                "so we have to stay home and be good!{VAR BE01}\n",
+                "But that monster must be a Pokémon.\n",
+                "Right? So I'm not scared at all!"
+            ]
+        },
+        {
+            "id": "a003_450_0029",
+            "en_US": [
+                "Along the road ahead, there is a\n",
+                "coastline that fishing fans love.{VAR BE01}\n",
+                "I'm busy, so I won't fish at night, but\n",
+                "there may be big fish!"
+            ]
+        },
+        {
+            "id": "a003_450_0030",
+            "en_US": [
+                "My grandma loves to tell old stories,\n",
+                "and she makes me listen to her long{VAR BE00}\n",
+                "stories all the time.{VAR BE01}\n",
+                "Sometimes I just want to go out on my\n",
+                "own and paint the town red!"
+            ]
+        },
+        {
+            "id": "a003_450_0031",
+            "en_US": [
+                "Ever since I took a post here, I don't\n",
+                "really have anything to do.{VAR BE01}\n",
+                "I'm so bored! I'm afraid all my policing\n",
+                "muscles will shrivel up because I don't{VAR BE00}\n",
+                "use them anymore."
+            ]
+        },
+        {
+            "id": "a003_450_0032",
+            "en_US": [
+                "My Pokémon always goes out\n",
+                "to have fun without me.{VAR BE01}\n",
+                "I wonder where it gets that attitude?"
+            ]
+        },
+        {
+            "id": "a003_450_0033",
+            "en_US": "Gahoon! Gahoon!"
+        },
+        {
+            "id": "a003_450_0034",
+            "en_US": [
+                "My work keeps me very busy, and I only\n",
+                "go home once a week or so.{VAR BE01}\n",
+                "I'm sorry to leave my wife lonely, but\n",
+                "that's the life of a powerful executive.{VAR BE01}\n",
+                "Oh, this is a souvenir from a business\n",
+                "trip, but she does not seem to need it,{VAR BE00}\n",
+                "so I will give it to you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_450_0035",
+            "en_US": [
+                "I leave on a business trip\n",
+                "again tomorrow.{VAR BE01}\n",
+                "I think of myself as a role model\n",
+                "for businesspeople."
+            ]
+        }
+    ]
+}

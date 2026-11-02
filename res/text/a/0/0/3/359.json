@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_359_0000",
+            "en_US": [
+                "If you are that full of energy, you can\n",
+                "go anywhere, even in a sandstorm!"
+            ]
+        },
+        {
+            "id": "a003_359_0001",
+            "en_US": [
+                "What? Are you worn out?\n",
+                "OK! Then rest here for a minute!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_359_0002",
+            "en_US": "Glugluglug!"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_042_0000",
+            "en_US": "Hi! Would you like to go to Unity Tower?"
+        },
+        {
+            "id": "a003_042_0001",
+            "en_US": [
+                "People are quite different,\n",
+                "depending on where they live.{VAR BE01}\n",
+                "It's a bit surprising that rules and ways\n",
+                "of thinking are different just because{VAR BE00}\n",
+                "the places we live are different!"
+            ]
+        },
+        {
+            "id": "a003_042_0002",
+            "en_US": [
+                "One person will be on board!\n",
+                "Please get on board!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_042_0003",
+            "en_US": [
+                "Unity Tower is a place where Trainers\n",
+                "gather from all over the world!{VAR BE01}\n",
+                "If you have friends who live far away,\n",
+                "you may be able to have a merry reunion!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_042_0004",
+            "en_US": "Please come again!"
+        },
+        {
+            "id": "a003_042_0005",
+            "en_US": "Yes",
+            "flags": 219
+        },
+        {
+            "id": "a003_042_0006",
+            "en_US": "No",
+            "flags": 219
+        },
+        {
+            "id": "a003_042_0007",
+            "en_US": "What is it?",
+            "flags": 219
+        },
+        {
+            "id": "a003_042_0008",
+            "en_US": [
+                "Both Pokémon and people will meet their\n",
+                "destined partner someday!{VAR BE01}\n",
+                "I believe it because my sister who got\n",
+                "married said so!"
+            ]
+        },
+        {
+            "id": "a003_042_0009",
+            "en_US": [
+                "I've come to Castelia City to have a\n",
+                "dance lesson!"
+            ]
+        },
+        {
+            "id": "a003_042_0010",
+            "en_US": [
+                "What do you want?{VAR BE01}\n",
+                "Oh! The dance team! You're going to\n",
+                "introduce me to the team!{VAR BE01}\n",
+                "Oh! Then, before that, let's have a\n",
+                "Pokémon battle!"
+            ]
+        },
+        {
+            "id": "a003_042_0011",
+            "en_US": "I was great in Pokémon lessons!{VAR BE01}"
+        },
+        {
+            "id": "a003_042_0012",
+            "en_US": [
+                "If you want me to join your dance team,\n",
+                "you've got to be strong!"
+            ]
+        },
+        {
+            "id": "a003_042_0013",
+            "en_US": [
+                "What was that?{VAR BE01}\n",
+                "Oh! The dance team!\n",
+                "I will join the team!{VAR BE01}"
+            ]
+        }
+    ]
+}

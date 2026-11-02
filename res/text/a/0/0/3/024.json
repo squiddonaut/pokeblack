@@ -1,0 +1,111 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_024_0000",
+            "en_US": [
+                "Welcome!{VAR BE01}\n",
+                "The director of the Nacrene Museum\n",
+                "and the Nacrene Gym's Leader{VAR BE00}\n",
+                "is me! Lenora!{VAR BE01}\n",
+                "Well then, challenger,\n",
+                "I'm going to research{VAR BE00}\n",
+                "how you battle with the{VAR BE00}\n",
+                "Pokémon you've so lovingly raised!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0001",
+            "en_US": [
+                "Your fighting style is so enchanting.\n",
+                "It is charming.{VAR BE01}\n",
+                "You are a Pokémon Trainer\n",
+                "worthy of receiving this Basic Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0002",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the Basic Badge from Lenora!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0003",
+            "en_US": [
+                "If you have two Badges, traded\n",
+                "Pokémon up to Lv. 30 will obey you.{VAR BE01}\n",
+                "Here, I also want you to have this TM.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0004",
+            "en_US": [
+                "Retaliate does a lot more damage if an\n",
+                "ally fainted the turn before you use it!{VAR BE01}\n",
+                "If you master the timing, you can defeat\n",
+                "even strong opponents.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0005",
+            "en_US": [
+                "Some problems you can't solve even if you\n",
+                "think about them your whole life.{VAR BE01}\n",
+                "Some problems have different answers\n",
+                "depending on the person.{VAR BE01}\n",
+                "Still, the reason I can't keep my\n",
+                "curiosity down is this:{VAR BE00}\n",
+                "I want to figure out the truth, but I{VAR BE00}\n",
+                "also have a desire for adventure!"
+            ]
+        },
+        {
+            "id": "a003_024_0006",
+            "en_US": "Deeear!{VAR BE01}"
+        },
+        {
+            "id": "a003_024_0007",
+            "en_US": [
+                "Hawes: Dear! Come quickly!{VAR BE01}\n",
+                "Team Plasma is threatening to steal\n",
+                "some bones!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0008",
+            "en_US": [
+                "Lenora: What? What's going on?!{VAR BE01}\n",
+                "{VAR 0100 0000}!\n",
+                "You come, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_024_0009",
+            "en_US": [
+                "Lenora: Oh, it's you!{VAR BE01}\n",
+                "As always, you're raising your Pokémon\n",
+                "with a lot of love!{VAR BE01}\n",
+                "By the way, ol' Clay contacted me\n",
+                "recently.{VAR BE01}\n",
+                "He said you can find Pokémon Fossils\n",
+                "in Twist Mountain!{VAR BE01}\n",
+                "Go check it out if you like!"
+            ]
+        },
+        {
+            "id": "a003_024_0010",
+            "en_US": [
+                "Lenora's research materials are stored\n",
+                "in an orderly fashion."
+            ]
+        },
+        {
+            "id": "a003_024_0011",
+            "en_US": [
+                "The bones Lenora is using for research\n",
+                "are on display."
+            ]
+        }
+    ]
+}

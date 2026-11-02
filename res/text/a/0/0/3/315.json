@@ -1,0 +1,49 @@
+{
+    "flags": 224,
+    "pad": "f2f2",
+    "messages": [
+        {
+            "id": "a003_315_0000",
+            "en_US": [
+                "This is a remnant of your\n",
+                "Pokémon's dream.{VAR BE00}\n",
+                "Here, take it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_315_0001",
+            "en_US": [
+                "I've given you all the Dream Remnants.{VAR BE01}\n",
+                "Next time your Pokémon dreams, come\n",
+                "back and see me again."
+            ]
+        },
+        {
+            "id": "a003_315_0002",
+            "en_US": [
+                "When your Pokémon has another dream,\n",
+                "come back and see me again."
+            ]
+        },
+        {
+            "id": "a003_315_0003",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the item(s)!"
+            ]
+        },
+        {
+            "id": "a003_315_0004",
+            "en_US": [
+                "You have no more room in your Bag\n",
+                "for {VAR 0109 0000}. If you remove some,{VAR BE00}\n",
+                "I'll give you the rest.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_315_0005",
+            "en_US": " x {VAR 0200 0000}",
+            "flags": 96
+        }
+    ]
+}

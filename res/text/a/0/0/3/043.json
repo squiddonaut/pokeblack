@@ -1,0 +1,155 @@
+{
+    "flags": 224,
+    "pad": "b4b4",
+    "messages": [
+        {
+            "id": "a003_043_0000",
+            "en_US": "Burgh: Come on! This way!{VAR BE01}"
+        },
+        {
+            "id": "a003_043_0001",
+            "en_US": [
+                "Burgh: Team Plasma...\n",
+                "They took this young lady's Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0002",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, is there\n",
+                "anything we can do? My Munna...{VAR BE01}\n",
+                "Team Plasma took it...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0003",
+            "en_US": [
+                "???: I heard this lady's scream and\n",
+                "ran after the thief as fast as I could.{VAR BE01}\n",
+                "But this city is so big and so crowded...\n",
+                "I'm afraid I lost them.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0004",
+            "en_US": [
+                "Burgh: Iris...\n",
+                "You did everything you could.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0005",
+            "en_US": [
+                "Iris: But that's so bad!{VAR BE01}\n",
+                "Taking people's Pokémon is really bad!{VAR BE01}\n",
+                "'Cause it's really nice when\n",
+                "people and Pokémon are together!{VAR BE01}\n",
+                "They each have something the other\n",
+                "doesn't, and they help each other!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0006",
+            "en_US": "Bianca: Iris...{VAR BE01}"
+        },
+        {
+            "id": "a003_043_0007",
+            "en_US": [
+                "Burgh: Agreed!\n",
+                "No fear--we will get that Pokémon back.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0008",
+            "en_US": "Right, {VAR 0100 0000}?{VAR BE01}"
+        },
+        {
+            "id": "a003_043_0009",
+            "en_US": "Right, {VAR 0100 0000}?{VAR BE01}"
+        },
+        {
+            "id": "a003_043_0010",
+            "en_US": [
+                "Having said that, finding a person or a\n",
+                "Pokémon here in Castelia City will be{VAR BE00}\n",
+                "like finding a needle in a haystack.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0011",
+            "en_US": [
+                "Team Plasma: I spy a Gym Leader?!{VAR BE01}\n",
+                "Last time went so well, I thought\n",
+                "I'd grab another Pokémon...{VAR BE00}\n",
+                "Rethinking...{VAR BE00}\n",
+                "I need to get out of here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0012",
+            "en_US": [
+                "Burgh: {VAR 0100 0000}, let's go!{VAR BE01}\n",
+                "Iris! You stay by that young lady's side.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0013",
+            "en_US": [
+                "Burgh: {VAR 0100 0000}, let's go!{VAR BE01}\n",
+                "Iris! You stay by that young lady's side.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0014",
+            "en_US": [
+                "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\n",
+                "So you go after those bad guys, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0015",
+            "en_US": [
+                "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\n",
+                "So you go after those bad guys, OK?"
+            ]
+        },
+        {
+            "id": "a003_043_0016",
+            "en_US": [
+                "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\n",
+                "So you go after those bad guys, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_043_0017",
+            "en_US": [
+                "Iris: I'm gonna be Bianca's bodyguard.{VAR BE01}\n",
+                "So you go after those bad guys, OK?"
+            ]
+        },
+        {
+            "id": "a003_043_0018",
+            "en_US": [
+                "Bianca: Oh, Munna, I can't believe it.{VAR BE01}\n",
+                "Here I am, a Trainer, and I can't even\n",
+                "protect my own Pokémon... I'm sorry..."
+            ]
+        },
+        {
+            "id": "a003_043_0019",
+            "en_US": [
+                "When someone is getting under your skin\n",
+                "and you want to yell at them,{VAR BE00}\n",
+                "scream at the ocean!{VAR BE01}\n",
+                "...When you're alone, of course."
+            ]
+        },
+        {
+            "id": "a003_043_0020",
+            "en_US": [
+                "That black boat...\n",
+                "What could it be?"
+            ]
+        }
+    ]
+}

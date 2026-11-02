@@ -1,0 +1,142 @@
+{
+    "flags": 205,
+    "messages": [
+        {
+            "id": "a002_094_0000",
+            "en_US": [
+                "Hello!\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_094_0001",
+            "en_US": [
+                "I am {VAR 011C 0000}!\n",
+                "I'm pleased to meet you."
+            ]
+        },
+        {
+            "id": "a002_094_0002",
+            "en_US": [
+                "I love {VAR 011C 0000}!\n",
+                "I love {VAR 011C 0001}, too!"
+            ]
+        },
+        {
+            "id": "a002_094_0003",
+            "en_US": [
+                "My favorite {VAR 011C 0000} is\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_094_0004",
+            "en_US": [
+                "What's your favorite\n",
+                "{VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_094_0005",
+            "en_US": [
+                "I can do anything for\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_094_0006",
+            "en_US": [
+                "Is {VAR 011C 0000}\n",
+                "{VAR 011C 0001}?"
+            ]
+        },
+        {
+            "id": "a002_094_0007",
+            "en_US": [
+                "What do you think of\n",
+                "{VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_094_0008",
+            "en_US": [
+                "Do you think {VAR 011C 0000}\n",
+                "can {VAR 011C 0001}?"
+            ]
+        },
+        {
+            "id": "a002_094_0009",
+            "en_US": [
+                "{VAR 011C 0000} is so\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_094_0010",
+            "en_US": "{VAR 011C 0000} bothers me."
+        },
+        {
+            "id": "a002_094_0011",
+            "en_US": [
+                "After all, it's {VAR 011C 0000},\n",
+                "isn't it?"
+            ]
+        },
+        {
+            "id": "a002_094_0012",
+            "en_US": [
+                "{VAR 011C 0000} is the real\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_094_0013",
+            "en_US": [
+                "Did you know that {VAR 011C 0000}\n",
+                "is {VAR 011C 0001}?"
+            ]
+        },
+        {
+            "id": "a002_094_0014",
+            "en_US": [
+                "{VAR 011C 0000} is the reason\n",
+                "for {VAR 011C 0001}."
+            ]
+        },
+        {
+            "id": "a002_094_0015",
+            "en_US": [
+                "Have you heard of\n",
+                "{VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_094_0016",
+            "en_US": [
+                "{VAR 011C 0000} is actually\n",
+                "{VAR 011C 0001}."
+            ]
+        },
+        {
+            "id": "a002_094_0017",
+            "en_US": [
+                "Recently, {VAR 011C 0000}\n",
+                "seems {VAR 011C 0001}."
+            ]
+        },
+        {
+            "id": "a002_094_0018",
+            "en_US": [
+                "I wonder if\n",
+                "{VAR 011C 0000} is yummy..."
+            ]
+        },
+        {
+            "id": "a002_094_0019",
+            "en_US": [
+                "I never miss {VAR 011C 0000}.\n",
+                "It's part of what I do every day."
+            ]
+        }
+    ]
+}

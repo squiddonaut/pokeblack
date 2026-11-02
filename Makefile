@@ -147,7 +147,7 @@ $(ROM): $(PACKED_ARM9) filesystem sub $(BANNER)
 		--header $(HEADER_TEMPLATE) --fnt $(FNT) --twl-tail $(TWL_TAIL) \
 		--overlays $(PACKED_DIR) --arm9 $(PACKED_ARM9) --arm7 $(SUB_SBIN) \
 		--banner $(BANNER) --table $(PACKED_DIR)/main_table.sbin \
-		--files $(FILE_ORDER) --data-dir $(buildname)/files --data-dir files -o $@
+		--files $(FILE_ORDER) --data-dir $(BUILD_DIR)/files --data-dir $(buildname)/files --data-dir files -o $@
 ifeq ($(COMPARE),1)
 	@$(SHA1SUM) --quiet -c $(ROM_SHA1) && echo "ROM matches $(ROM_SHA1)"
 endif

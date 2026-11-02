@@ -1,0 +1,205 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_376_0000",
+            "en_US": [
+                "I'm making a delicious soup with\n",
+                "well-stewed vegetables."
+            ]
+        },
+        {
+            "id": "a003_376_0001",
+            "en_US": [
+                "Since her yammering stops while she's\n",
+                "cooking, it's another bonus for me."
+            ]
+        },
+        {
+            "id": "a003_376_0002",
+            "en_US": [
+                "Even a young 'un like yourself will catch\n",
+                "cold if you get soaked by that cold rain.{VAR BE01}\n",
+                "Sit right down and have some soup,\n",
+                "why don't you?"
+            ]
+        },
+        {
+            "id": "a003_376_0003",
+            "en_US": [
+                "That's nice. A young 'un like you\n",
+                "shouldn't be shy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0004",
+            "en_US": [
+                "Come now, just have a little.\n",
+                "It's good for you.{VAR BE01}\n",
+                "Would you listen to an old lady's story\n",
+                "for a moment?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0005",
+            "en_US": [
+                "In the Unova region, you see, there is a\n",
+                "Pokémon called Thundurus{VAR BE00}\n",
+                "that creates thunderstorms.{VAR BE01}\n",
+                "It flies around the region and sets loose\n",
+                "wild winds and crashing lightning.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0006",
+            "en_US": [
+                "In the Unova region, you see, there is a\n",
+                "Pokémon called Tornadus that{VAR BE00}\n",
+                "causes windstorms.{VAR BE01}\n",
+                "It flies around the region while letting\n",
+                "loose wild winds and pounding rain.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0007",
+            "en_US": [
+                "Have some soup now, dear.\n",
+                "It'll warm you up.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0008",
+            "en_US": [
+                "A soup jam-packed with healthy\n",
+                "vegetables. It's delicious!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0009",
+            "en_US": [
+                "The heavy rain is ruining the crops\n",
+                "I've worked so hard to raise!{VAR BE01}\n",
+                "What a troublesome Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0010",
+            "en_US": [
+                "I thought I would try to catch it, but it\n",
+                "flies around so fast that even when I{VAR BE00}\n",
+                "thought I'd found it, it just flew away.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0011",
+            "en_US": [
+                "In one day, it can make a lap around the\n",
+                "entire Unova region.{VAR BE01}\n",
+                "In the mornings, it's in the south,\n",
+                "and in the evenings, it's in the north.{VAR BE01}\n",
+                "It shows up here in the evenings!"
+            ]
+        },
+        {
+            "id": "a003_376_0012",
+            "en_US": [
+                "It seems like someone somewhere\n",
+                "taught that stormy Pokémon a lesson.{VAR BE01}\n",
+                "I wonder if it was...?"
+            ]
+        },
+        {
+            "id": "a003_376_0013",
+            "en_US": [
+                "Long ago, I was a sharp-lookin' young\n",
+                "man, and my wife was a fiiine-lookin' girl.{VAR BE00}\n",
+                "This is a story from way back then.{VAR BE01}\n",
+                "Right around here, a certain Pokémon\n",
+                "taught a lesson to Thundurus, who had{VAR BE00}\n",
+                "been causin' trouble dropping lightning.{VAR BE01}\n",
+                "For around 30 years after that,\n",
+                "Thundurus kept calm, and it hid{VAR BE00}\n",
+                "somewhere around here."
+            ]
+        },
+        {
+            "id": "a003_376_0014",
+            "en_US": [
+                "Long ago, I was a sharp-lookin' young\n",
+                "man, and my wife was a fiiine-lookin' girl.{VAR BE00}\n",
+                "This is a story from way back then.{VAR BE01}\n",
+                "Right around here, a certain Pokémon\n",
+                "taught a lesson to Tornadus, who had{VAR BE00}\n",
+                "been causin' trouble brewing storms.{VAR BE01}\n",
+                "For around 30 years after that,\n",
+                "Tornadus kept calm, and it hid{VAR BE00}\n",
+                "somewhere around here."
+            ]
+        },
+        {
+            "id": "a003_376_0015",
+            "en_US": [
+                "If you go in the tall grass during\n",
+                "a storm, it might pop out."
+            ]
+        },
+        {
+            "id": "a003_376_0016",
+            "en_US": [
+                "There is a Pokémon that\n",
+                "quieted Thundurus.{VAR BE01}\n",
+                "I remember hearing that there is a\n",
+                "shrine built to honor that Pokémon{VAR BE00}\n",
+                "somewhere on Route 14."
+            ]
+        },
+        {
+            "id": "a003_376_0017",
+            "en_US": [
+                "There is a Pokémon that\n",
+                "quieted Tornadus.{VAR BE01}\n",
+                "I remember hearing that there is a\n",
+                "shrine built to honor that Pokémon{VAR BE00}\n",
+                "somewhere on Route 14."
+            ]
+        },
+        {
+            "id": "a003_376_0018",
+            "en_US": [
+                "Oh my. Your Pokémon team...{VAR BE01}\n",
+                "It seems all worn out.\n",
+                "Rest for just a moment now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_376_0019",
+            "en_US": [
+                "Walking on the raised walkways\n",
+                "is more tiring than you think, right?"
+            ]
+        },
+        {
+            "id": "a003_376_0020",
+            "en_US": [
+                "Granny's meals are always\n",
+                "nothing but vegetables!"
+            ]
+        },
+        {
+            "id": "a003_376_0021",
+            "en_US": [
+                "Know the electric bulletin boards?{VAR BE01}\n",
+                "They'll tell you when lightning is\n",
+                "crashing down somewhere!"
+            ]
+        },
+        {
+            "id": "a003_376_0022",
+            "en_US": [
+                "Know the electric bulletin boards?{VAR BE01}\n",
+                "They'll tell you when wind is\n",
+                "blowing fiercely somewhere!"
+            ]
+        }
+    ]
+}

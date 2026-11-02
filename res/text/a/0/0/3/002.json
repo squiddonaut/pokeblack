@@ -1,0 +1,936 @@
+{
+    "flags": 224,
+    "pad": "2222",
+    "messages": [
+        {
+            "id": "a003_002_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_002_0001",
+            "en_US": [
+                "Leo: Check me out! The excitement\n",
+                "of the big city has made me stronger!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0002",
+            "en_US": [
+                "Looks like I wasn't wound up enough...\n",
+                "I need a little more urban atmosphere."
+            ]
+        },
+        {
+            "id": "a003_002_0003",
+            "en_US": [
+                "Maybe all of this excitement is\n",
+                "a little too much for me..."
+            ]
+        },
+        {
+            "id": "a003_002_0004",
+            "en_US": [
+                "Living in a fast-paced environment\n",
+                "helps with a person's growth.{VAR BE00}\n",
+                "This city is a model for those words."
+            ]
+        },
+        {
+            "id": "a003_002_0005",
+            "en_US": [
+                "Silvia: My glasses have locked onto you!\n",
+                "Let's have a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0006",
+            "en_US": [
+                "Th-there’s a crack in my glasses.\n",
+                "That was a smashing battle!"
+            ]
+        },
+        {
+            "id": "a003_002_0007",
+            "en_US": [
+                "The time I've spent here has been\n",
+                "really fun and wonderful!{VAR BE01}\n",
+                "But, being this surrounded by excitement\n",
+                "makes you miss nature somehow!"
+            ]
+        },
+        {
+            "id": "a003_002_0008",
+            "en_US": [
+                "All the buildings reflected in my glasses\n",
+                "are dazzling enough to make me dizzy!"
+            ]
+        },
+        {
+            "id": "a003_002_0009",
+            "en_US": [
+                "Dave: Hey! You've got it goin' on!\n",
+                "Let's get a Pokémon battle goin'{VAR BE00}\n",
+                "to see who's got it goin' on the most!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0010",
+            "en_US": [
+                "No one's got it goin' on more than you!\n",
+                "You can hang out with all the tough guys!"
+            ]
+        },
+        {
+            "id": "a003_002_0011",
+            "en_US": [
+                "The life of a tough guy in the city is\n",
+                "a little much.{VAR BE01}\n",
+                "White Forest is looking better\n",
+                "all the time."
+            ]
+        },
+        {
+            "id": "a003_002_0012",
+            "en_US": [
+                "This city is big and tough, just like me!\n",
+                "What do you think of me now? I've got it{VAR BE00}\n",
+                "goin' on as much as it will go! Right?"
+            ]
+        },
+        {
+            "id": "a003_002_0013",
+            "en_US": [
+                "Britney: Hey there! You over thataway!\n",
+                "Have a Pokémon battle with me!{VAR BE01}\n",
+                "Bring heaps of cute Pokémon, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0014",
+            "en_US": [
+                "Whoa, what was that?!{VAR BE01}\n",
+                "You are way strong!\n",
+                "There's no chance I'm keepin' up!"
+            ]
+        },
+        {
+            "id": "a003_002_0015",
+            "en_US": [
+                "All the racket in this city is getting\n",
+                "to be too much.{VAR BE01}\n",
+                "I want to lie on my back in the\n",
+                "wide-open spaces!"
+            ]
+        },
+        {
+            "id": "a003_002_0016",
+            "en_US": [
+                "I have to try somethin' awful to keep up\n",
+                "with city life! But I still enjoy it a bit."
+            ]
+        },
+        {
+            "id": "a003_002_0017",
+            "en_US": [
+                "Robbie: In Black City, my groove's\n",
+                "getting into a groove! And in battle,{VAR BE00}\n",
+                "I'll never lose!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0018",
+            "en_US": [
+                "Ooh, now I'm grooveless.\n",
+                "But I'll get my groove back, so{VAR BE00}\n",
+                "let's battle again sometime!"
+            ]
+        },
+        {
+            "id": "a003_002_0019",
+            "en_US": [
+                "Aaah! I've grooved my way into a rut!\n",
+                "I want to take a break in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_002_0020",
+            "en_US": [
+                "Developing and developing.\n",
+                "Black City changes every day!{VAR BE00}\n",
+                "I love that about this place!"
+            ]
+        },
+        {
+            "id": "a003_002_0021",
+            "en_US": [
+                "Miki: Hello!\n",
+                "I'm a fan of sudden beginnings!{VAR BE01}\n",
+                "Let's get right to the Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0022",
+            "en_US": [
+                "Oh, gosh. I already lost?\n",
+                "Sudden endings, I'm not such a fan of!"
+            ]
+        },
+        {
+            "id": "a003_002_0023",
+            "en_US": [
+                "It's too busy and noisy, and it's enough\n",
+                "to make a slow-paced person like me{VAR BE00}\n",
+                "dizzy. I want to relax in White Forest."
+            ]
+        },
+        {
+            "id": "a003_002_0024",
+            "en_US": [
+                "I was worried, since I'm a little laid back\n",
+                "and do things at my own speed,{VAR BE00}\n",
+                "that Black City and I aren't a good fit.{VAR BE01}\n",
+                "But it'll work out, and it's fun here!"
+            ]
+        },
+        {
+            "id": "a003_002_0025",
+            "en_US": [
+                "Ryder: Hyah! Hello!\n",
+                "I want to test my strength against you!{VAR BE00}\n",
+                "That's OK, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0026",
+            "en_US": [
+                "Huh... So that's how much I've improved.{VAR BE01}\n",
+                "Thanks! Battling with you\n",
+                "has given me a goal!"
+            ]
+        },
+        {
+            "id": "a003_002_0027",
+            "en_US": [
+                "Hyah! Hyah... Hyah?\n",
+                "My heart's not really into it.{VAR BE00}\n",
+                "Maybe I just can't concentrate here."
+            ]
+        },
+        {
+            "id": "a003_002_0028",
+            "en_US": [
+                "Hyah! Hyah! Hyah!!{VAR BE01}\n",
+                "Since strong people gather here, it's\n",
+                "the optimal place for a test of strength!"
+            ]
+        },
+        {
+            "id": "a003_002_0029",
+            "en_US": [
+                "Karenna: Faster! Faster! I'm ready\n",
+                "to go! Please spar with me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0030",
+            "en_US": [
+                "Thank you very much! I still haven't\n",
+                "trained enough. I need to be faster!"
+            ]
+        },
+        {
+            "id": "a003_002_0031",
+            "en_US": [
+                "There are many things to learn from\n",
+                "battle, but to improve on what I learned,{VAR BE00}\n",
+                "I want to run and train in the forest."
+            ]
+        },
+        {
+            "id": "a003_002_0032",
+            "en_US": [
+                "There is a lot to learn from battles!\n",
+                "I want to battle more and more!"
+            ]
+        },
+        {
+            "id": "a003_002_0033",
+            "en_US": [
+                "Doug: Hello, hello! Nice to work with you!{VAR BE01}\n",
+                "How about a Pokémon battle to celebrate\n",
+                "our new acquaintance?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0034",
+            "en_US": "Hey! You must be Unova's best!"
+        },
+        {
+            "id": "a003_002_0035",
+            "en_US": [
+                "Black City has everything! But if there's\n",
+                "one thing it's missing, it's...{VAR BE01}\n",
+                "Nature! Relaxation! I want to relax!"
+            ]
+        },
+        {
+            "id": "a003_002_0036",
+            "en_US": [
+                "Black City is full of hustle and bustle!\n",
+                "I'm sure my work will progress here!"
+            ]
+        },
+        {
+            "id": "a003_002_0037",
+            "en_US": [
+                "Vincent: You don't really think you can\n",
+                "beat me, Black City's Ace Trainer?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0038",
+            "en_US": [
+                "An Ace Trainer like me, losing?!\n",
+                "This doesn't count! It just doesn't!"
+            ]
+        },
+        {
+            "id": "a003_002_0039",
+            "en_US": [
+                "I was born and raised in the city, but\n",
+                "I think nature is really great.{VAR BE00}\n",
+                "I want to go to White Forest."
+            ]
+        },
+        {
+            "id": "a003_002_0040",
+            "en_US": [
+                "The awesomeness of this city\n",
+                "spices up my life!"
+            ]
+        },
+        {
+            "id": "a003_002_0041",
+            "en_US": [
+                "Marie: Take deep, deep breaths before\n",
+                "battle. When your mind is clear,{VAR BE00}\n",
+                "the battle can begin!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0042",
+            "en_US": [
+                "I overthought things, and I lost...{VAR BE01}\n",
+                "Sometimes just acting on instinct\n",
+                "might be better."
+            ]
+        },
+        {
+            "id": "a003_002_0043",
+            "en_US": [
+                "I was working on my paper, but now\n",
+                "I've got writer's block.{VAR BE01}\n",
+                "Maybe getting some fresh air in\n",
+                "White Forest would clear my head."
+            ]
+        },
+        {
+            "id": "a003_002_0044",
+            "en_US": [
+                "Black City is really exciting, and there's\n",
+                "always so much going on.{VAR BE00}\n",
+                "It gives me lots of ideas!"
+            ]
+        },
+        {
+            "id": "a003_002_0045",
+            "en_US": [
+                "Lena: Since I started my journey as a\n",
+                "Pokémon Trainer, I haven't lost{VAR BE00}\n",
+                "many battles.{VAR BE01}\n",
+                "Can you make me lose?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0046",
+            "en_US": [
+                "Oh. I really lost, didn't I...?\n",
+                "It's strange. I'm usually calm, but now{VAR BE00}\n",
+                "I'm a little frustrated."
+            ]
+        },
+        {
+            "id": "a003_002_0047",
+            "en_US": [
+                "In the end, everything returns\n",
+                "to nature, no matter what.{VAR BE01}\n",
+                "So that's why White Forest may\n",
+                "be so calming..."
+            ]
+        },
+        {
+            "id": "a003_002_0048",
+            "en_US": [
+                "People build buildings because\n",
+                "they fear the power of nature.{VAR BE00}\n",
+                "That's why I feel so calm here..."
+            ]
+        },
+        {
+            "id": "a003_002_0049",
+            "en_US": [
+                "Carlos: Oh! Hello!{VAR BE01}\n",
+                "We must've met here because of fate!\n",
+                "Let's have a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0050",
+            "en_US": [
+                "Black City battles really\n",
+                "make a person excited, huh?"
+            ]
+        },
+        {
+            "id": "a003_002_0051",
+            "en_US": [
+                "Hmmm. I think I'd like\n",
+                "to see somewhere else soon."
+            ]
+        },
+        {
+            "id": "a003_002_0052",
+            "en_US": [
+                "Black City has so much to see.\n",
+                "I never get tired of it!"
+            ]
+        },
+        {
+            "id": "a003_002_0053",
+            "en_US": [
+                "Molly: If you look at everything while\n",
+                "walking, you make eye contact with{VAR BE00}\n",
+                "various Trainers.{VAR BE01}\n",
+                "Which Pokémon will you use, Trainer who\n",
+                "met my gaze?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0054",
+            "en_US": [
+                "When you don't feel confident,\n",
+                "lower your eyes as you walk.{VAR BE00}\n",
+                "That is a bit of wisdom."
+            ]
+        },
+        {
+            "id": "a003_002_0055",
+            "en_US": [
+                "When there is this much commotion,\n",
+                "it's hard to calm down.{VAR BE00}\n",
+                "I want to relax somewhere quiet."
+            ]
+        },
+        {
+            "id": "a003_002_0056",
+            "en_US": [
+                "Black City always feels like it is\n",
+                "going forward. It's really cool, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_002_0057",
+            "en_US": [
+                "Frederic: Oh! Have a look at this!{VAR BE01}\n",
+                "My Pokémon is saying it wants to battle\n",
+                "with yours!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0058",
+            "en_US": [
+                "My Pokémon is saying that was\n",
+                "a good battle.{VAR BE01}\n",
+                "Don't you think my Pokémon\n",
+                "is truly well mannered?"
+            ]
+        },
+        {
+            "id": "a003_002_0059",
+            "en_US": [
+                "I love this place, but my Pokémon\n",
+                "seems unsatisfied.{VAR BE00}\n",
+                "Maybe I should take it to White Forest."
+            ]
+        },
+        {
+            "id": "a003_002_0060",
+            "en_US": [
+                "This is definitely the best place for me.{VAR BE01}\n",
+                "The constant change and development\n",
+                "really put me in high spirits."
+            ]
+        },
+        {
+            "id": "a003_002_0061",
+            "en_US": [
+                "Lynette: How do you do?{VAR BE01}\n",
+                "Would you please let me see\n",
+                "if you are strong or not?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0062",
+            "en_US": [
+                "Ah, you are a strong person!\n",
+                "I can feel it in my heart."
+            ]
+        },
+        {
+            "id": "a003_002_0063",
+            "en_US": [
+                "I've grown a little tired of looking for\n",
+                "my Prince Charming."
+            ]
+        },
+        {
+            "id": "a003_002_0064",
+            "en_US": [
+                "There are many strong people in this\n",
+                "city, so I never get bored!{VAR BE01}\n",
+                "I want to meet more and more\n",
+                "strong people!"
+            ]
+        },
+        {
+            "id": "a003_002_0065",
+            "en_US": [
+                "Pierce: Phew! What a thrilling lifestyle!{VAR BE01}\n",
+                "Want to taste the thrill with\n",
+                "a Pokémon battle?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0066",
+            "en_US": [
+                "That felt like being on the edge!\n",
+                "It was thrilling and fun!"
+            ]
+        },
+        {
+            "id": "a003_002_0067",
+            "en_US": [
+                "Aaahhh. I'm even getting tired of\n",
+                "thrilling things. I want to pass time{VAR BE00}\n",
+                "slowly and simply with my Pokémon..."
+            ]
+        },
+        {
+            "id": "a003_002_0068",
+            "en_US": [
+                "Black City is great. It has culture,\n",
+                "and you can live comfortably.{VAR BE01}\n",
+                "I think when you're picking a place\n",
+                "to live, living comfortably is important!"
+            ]
+        },
+        {
+            "id": "a003_002_0069",
+            "en_US": [
+                "Gene: I can't remember how many\n",
+                "Pokémon I've encountered...{VAR BE01}\n",
+                "Why don't you test your powers\n",
+                "against someone like me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0070",
+            "en_US": [
+                "Hmmm... I still have a long way to\n",
+                "go as a Trainer."
+            ]
+        },
+        {
+            "id": "a003_002_0071",
+            "en_US": [
+                "I want to meet more Pokémon\n",
+                "in my day-to-day life."
+            ]
+        },
+        {
+            "id": "a003_002_0072",
+            "en_US": [
+                "You can keep battling more and more\n",
+                "and test your power here!{VAR BE00}\n",
+                "Black City is a great city!"
+            ]
+        },
+        {
+            "id": "a003_002_0073",
+            "en_US": [
+                "Piper: Fight efficiently and without\n",
+                "waste! That is my policy!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0074",
+            "en_US": [
+                "Your efficient fighting style\n",
+                "is truly wonderful!"
+            ]
+        },
+        {
+            "id": "a003_002_0075",
+            "en_US": [
+                "Maybe there's more to life\n",
+                "than efficiency..."
+            ]
+        },
+        {
+            "id": "a003_002_0076",
+            "en_US": [
+                "Efficiency is everything in\n",
+                "battling and in business.{VAR BE01}\n",
+                "Black City is efficient.\n",
+                "I like that in a place!"
+            ]
+        },
+        {
+            "id": "a003_002_0077",
+            "en_US": [
+                "Miho: I'm adorable, and so is my Pokémon!\n",
+                "Do you think you can win against us?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0078",
+            "en_US": "How can we lose when we're so cute?"
+        },
+        {
+            "id": "a003_002_0079",
+            "en_US": [
+                "I've been thinking lately that it would be\n",
+                "better for my Pokémon and me to get back{VAR BE00}\n",
+                "to nature..."
+            ]
+        },
+        {
+            "id": "a003_002_0080",
+            "en_US": [
+                "You can get everything in Black City, so\n",
+                "I'm sure I can find things that will help{VAR BE00}\n",
+                "me become cuter and stronger!"
+            ]
+        },
+        {
+            "id": "a003_002_0081",
+            "en_US": [
+                "Shane: You strong? I'm sure you are!\n",
+                "I'll check by battling with you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0082",
+            "en_US": [
+                "I see...\n",
+                "I must be weak, then..."
+            ]
+        },
+        {
+            "id": "a003_002_0083",
+            "en_US": [
+                "I'm a little tired of living a life where\n",
+                "I'm worried about how people see me."
+            ]
+        },
+        {
+            "id": "a003_002_0084",
+            "en_US": [
+                "In Black City, I can always confirm what\n",
+                "kind of guy I am by battling others.{VAR BE00}\n",
+                "It's easy to understand."
+            ]
+        },
+        {
+            "id": "a003_002_0085",
+            "en_US": [
+                "Ralph: My feelings! I'll use a Pokémon\n",
+                "battle to get them through!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0086",
+            "en_US": [
+                "Did some of my excitement\n",
+                "get through to you?"
+            ]
+        },
+        {
+            "id": "a003_002_0087",
+            "en_US": [
+                "Recently, I've been thinking I don't\n",
+                "just want to try and get my feelings{VAR BE00}\n",
+                "through to people, but I also want{VAR BE00}\n",
+                "to listen a little better...{VAR BE01}\n",
+                "I want to live the slow life in\n",
+                "White Forest."
+            ]
+        },
+        {
+            "id": "a003_002_0088",
+            "en_US": [
+                "In Black City, you can quickly let me know\n",
+                "how you feel!{VAR BE01}\n",
+                "This directness feels really great!"
+            ]
+        },
+        {
+            "id": "a003_002_0089",
+            "en_US": [
+                "Eliza: I want this! I want that! But what\n",
+                "I really want is to beat you in a{VAR BE00}\n",
+                "Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0090",
+            "en_US": [
+                "My oh my...\n",
+                "I lost!"
+            ]
+        },
+        {
+            "id": "a003_002_0091",
+            "en_US": [
+                "Even if I buy a lot of stuff, I'm still\n",
+                "unsatisfied... I have times like that!"
+            ]
+        },
+        {
+            "id": "a003_002_0092",
+            "en_US": [
+                "In Black City, you can get whatever\n",
+                "you want! You can live securely!"
+            ]
+        },
+        {
+            "id": "a003_002_0093",
+            "en_US": [
+                "Collin: Pokémon battles are good\n",
+                "for business!{VAR BE01}\n",
+                "I'll defeat you and take advantage of\n",
+                "the business opportunity!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0094",
+            "en_US": [
+                "My business opportunity!\n",
+                "It's going up in smoke!!"
+            ]
+        },
+        {
+            "id": "a003_002_0095",
+            "en_US": [
+                "Business opportunities don't just come\n",
+                "rolling your way...{VAR BE01}\n",
+                "Maybe White Forest is a better fit\n",
+                "for me..."
+            ]
+        },
+        {
+            "id": "a003_002_0096",
+            "en_US": [
+                "Time is limited!{VAR BE01}\n",
+                "I want to always give things my all\n",
+                "so I don't regret anything!"
+            ]
+        },
+        {
+            "id": "a003_002_0097",
+            "en_US": [
+                "Ken: I've dedicated my life to Pokémon\n",
+                "battling. I will win as a specialist!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0098",
+            "en_US": [
+                "I apparently still haven't done enough\n",
+                "research on Pokémon battling."
+            ]
+        },
+        {
+            "id": "a003_002_0099",
+            "en_US": [
+                "All I think about every day is\n",
+                "Pokémon battling.{VAR BE01}\n",
+                "But maybe it would be better\n",
+                "to think about other things, too...{VAR BE00}\n",
+                "I think that sometimes."
+            ]
+        },
+        {
+            "id": "a003_002_0100",
+            "en_US": [
+                "If I'm in Black City, I can focus on\n",
+                "Pokémon battling and get really good!{VAR BE01}\n",
+                "I'll try to master one thing!"
+            ]
+        },
+        {
+            "id": "a003_002_0101",
+            "en_US": [
+                "Jacques: Win or lose!\n",
+                "Contests have a clear answer!{VAR BE01}\n",
+                "I'm going to research\n",
+                "your battling style.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0102",
+            "en_US": [
+                "The result is a loss.\n",
+                "It's a beautiful, clear answer."
+            ]
+        },
+        {
+            "id": "a003_002_0103",
+            "en_US": [
+                "Just one answer...{VAR BE01}\n",
+                "I think there may be a way of research\n",
+                "that looks for something besides that."
+            ]
+        },
+        {
+            "id": "a003_002_0104",
+            "en_US": [
+                "In Black City, you can get a clear answer\n",
+                "if you battle...{VAR BE00}\n",
+                "It's satisfying for a researcher."
+            ]
+        },
+        {
+            "id": "a003_002_0105",
+            "en_US": [
+                "Rosa: Life is just killing time.\n",
+                "Don't you think so?{VAR BE00}\n",
+                "Play with me for a bit!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0106",
+            "en_US": "I managed to kill some time!"
+        },
+        {
+            "id": "a003_002_0107",
+            "en_US": [
+                "I might not know what to do with a life of\n",
+                "killing time every day!"
+            ]
+        },
+        {
+            "id": "a003_002_0108",
+            "en_US": [
+                "Black City has lots of ways to kill time,\n",
+                "so I never get bored! It's great!!"
+            ]
+        },
+        {
+            "id": "a003_002_0109",
+            "en_US": [
+                "Herman: I can't be tied down to a single\n",
+                "place... I wander around, and today's{VAR BE00}\n",
+                "another battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0110",
+            "en_US": "I lost! This city doesn't fit me well."
+        },
+        {
+            "id": "a003_002_0111",
+            "en_US": [
+                "Just staying in one place...\n",
+                "I'd like to try living like that."
+            ]
+        },
+        {
+            "id": "a003_002_0112",
+            "en_US": [
+                "Wandering and having Pokémon battles!\n",
+                "I like living like this!"
+            ]
+        },
+        {
+            "id": "a003_002_0113",
+            "en_US": [
+                "Emi: Pokémon battling...\n",
+                "That is the goal for my journey!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0114",
+            "en_US": [
+                "I couldn't win! But this is one of the\n",
+                "thrills of battling!"
+            ]
+        },
+        {
+            "id": "a003_002_0115",
+            "en_US": [
+                "Recently, I've been thinking I would like\n",
+                "to take a more leisurely trip without any{VAR BE00}\n",
+                "particular destination in mind."
+            ]
+        },
+        {
+            "id": "a003_002_0116",
+            "en_US": [
+                "In Black City, I can enjoy Pokémon\n",
+                "battles, and it fits my{VAR BE00}\n",
+                "journey perfectly!"
+            ]
+        },
+        {
+            "id": "a003_002_0117",
+            "en_US": [
+                "Grace: I am about to show you the beauty\n",
+                "of artistic Pokémon battling!{VAR BE00}\n",
+                "Please be overwhelmed!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_002_0118",
+            "en_US": [
+                "The combination of you and your Pokémon\n",
+                "was very beautiful!!"
+            ]
+        },
+        {
+            "id": "a003_002_0119",
+            "en_US": [
+                "There is a limit to the beauty a person\n",
+                "can create...{VAR BE00}\n",
+                "I feel like that when I look at this city."
+            ]
+        },
+        {
+            "id": "a003_002_0120",
+            "en_US": [
+                "My heart dances in delight at the\n",
+                "calculated beauty of a city built{VAR BE00}\n",
+                "by people!"
+            ]
+        },
+        {
+            "id": "a003_002_0121",
+            "en_US": [
+                "Black City\n",
+                "Prosperous and Vibrant"
+            ],
+            "flags": 207
+        }
+    ]
+}

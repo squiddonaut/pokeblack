@@ -1,0 +1,349 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_106_0000",
+            "en_US": "GABITE"
+        },
+        {
+            "id": "a002_106_0001",
+            "en_US": "GAL"
+        },
+        {
+            "id": "a002_106_0002",
+            "en_US": "GALLADE"
+        },
+        {
+            "id": "a002_106_0003",
+            "en_US": "GALVANTULA"
+        },
+        {
+            "id": "a002_106_0004",
+            "en_US": "GAME"
+        },
+        {
+            "id": "a002_106_0005",
+            "en_US": "GAMESYNC"
+        },
+        {
+            "id": "a002_106_0006",
+            "en_US": "GARBODOR"
+        },
+        {
+            "id": "a002_106_0007",
+            "en_US": "GARCHOMP"
+        },
+        {
+            "id": "a002_106_0008",
+            "en_US": "GARDEVOIR"
+        },
+        {
+            "id": "a002_106_0009",
+            "en_US": "GASTLY"
+        },
+        {
+            "id": "a002_106_0010",
+            "en_US": "GASTROACID"
+        },
+        {
+            "id": "a002_106_0011",
+            "en_US": "GASTRODON"
+        },
+        {
+            "id": "a002_106_0012",
+            "en_US": "GEARGRIND"
+        },
+        {
+            "id": "a002_106_0013",
+            "en_US": "GENESECT"
+        },
+        {
+            "id": "a002_106_0014",
+            "en_US": "GENGAR"
+        },
+        {
+            "id": "a002_106_0015",
+            "en_US": "GENIUS"
+        },
+        {
+            "id": "a002_106_0016",
+            "en_US": "GEODUDE"
+        },
+        {
+            "id": "a002_106_0017",
+            "en_US": "GEONET"
+        },
+        {
+            "id": "a002_106_0018",
+            "en_US": "GHOST"
+        },
+        {
+            "id": "a002_106_0019",
+            "en_US": "GIBLE"
+        },
+        {
+            "id": "a002_106_0020",
+            "en_US": "GIGADRAIN"
+        },
+        {
+            "id": "a002_106_0021",
+            "en_US": "GIGAIMPACT"
+        },
+        {
+            "id": "a002_106_0022",
+            "en_US": "GIGALITH"
+        },
+        {
+            "id": "a002_106_0023",
+            "en_US": "GIGGLE"
+        },
+        {
+            "id": "a002_106_0024",
+            "en_US": "GIRAFARIG"
+        },
+        {
+            "id": "a002_106_0025",
+            "en_US": "GIRATINA"
+        },
+        {
+            "id": "a002_106_0026",
+            "en_US": "GIRL"
+        },
+        {
+            "id": "a002_106_0027",
+            "en_US": "GIVEME"
+        },
+        {
+            "id": "a002_106_0028",
+            "en_US": "GLACEON"
+        },
+        {
+            "id": "a002_106_0029",
+            "en_US": "GLACIATE"
+        },
+        {
+            "id": "a002_106_0030",
+            "en_US": "GLALIE"
+        },
+        {
+            "id": "a002_106_0031",
+            "en_US": "GLAMEOW"
+        },
+        {
+            "id": "a002_106_0032",
+            "en_US": "GLARE"
+        },
+        {
+            "id": "a002_106_0033",
+            "en_US": "GLIGAR"
+        },
+        {
+            "id": "a002_106_0034",
+            "en_US": "GLISCOR"
+        },
+        {
+            "id": "a002_106_0035",
+            "en_US": "GLOOM"
+        },
+        {
+            "id": "a002_106_0036",
+            "en_US": "GLUTTONY"
+        },
+        {
+            "id": "a002_106_0037",
+            "en_US": "GOAHEAD"
+        },
+        {
+            "id": "a002_106_0038",
+            "en_US": "GOLBAT"
+        },
+        {
+            "id": "a002_106_0039",
+            "en_US": "GOLDEEN"
+        },
+        {
+            "id": "a002_106_0040",
+            "en_US": "GOLDUCK"
+        },
+        {
+            "id": "a002_106_0041",
+            "en_US": "GOLEM"
+        },
+        {
+            "id": "a002_106_0042",
+            "en_US": "GOLETT"
+        },
+        {
+            "id": "a002_106_0043",
+            "en_US": "GOLURK"
+        },
+        {
+            "id": "a002_106_0044",
+            "en_US": "GOODBYE"
+        },
+        {
+            "id": "a002_106_0045",
+            "en_US": "GOODMATCHUP"
+        },
+        {
+            "id": "a002_106_0046",
+            "en_US": "GOREBYSS"
+        },
+        {
+            "id": "a002_106_0047",
+            "en_US": "GOTCHA"
+        },
+        {
+            "id": "a002_106_0048",
+            "en_US": "GOTHITA"
+        },
+        {
+            "id": "a002_106_0049",
+            "en_US": "GOTHITELLE"
+        },
+        {
+            "id": "a002_106_0050",
+            "en_US": "GOTHORITA"
+        },
+        {
+            "id": "a002_106_0051",
+            "en_US": "GOURMET"
+        },
+        {
+            "id": "a002_106_0052",
+            "en_US": "GRANBULL"
+        },
+        {
+            "id": "a002_106_0053",
+            "en_US": "GRANDFATHER"
+        },
+        {
+            "id": "a002_106_0054",
+            "en_US": "GRANDMOTHER"
+        },
+        {
+            "id": "a002_106_0055",
+            "en_US": "GRASS"
+        },
+        {
+            "id": "a002_106_0056",
+            "en_US": "GRASSKNOT"
+        },
+        {
+            "id": "a002_106_0057",
+            "en_US": "GRASSPLEDGE"
+        },
+        {
+            "id": "a002_106_0058",
+            "en_US": "GRASSWHISTLE"
+        },
+        {
+            "id": "a002_106_0059",
+            "en_US": "GRAVELER"
+        },
+        {
+            "id": "a002_106_0060",
+            "en_US": "GRAVITY"
+        },
+        {
+            "id": "a002_106_0061",
+            "en_US": "GREETINGS"
+        },
+        {
+            "id": "a002_106_0062",
+            "en_US": "GRIMER"
+        },
+        {
+            "id": "a002_106_0063",
+            "en_US": "GROTLE"
+        },
+        {
+            "id": "a002_106_0064",
+            "en_US": "GROUDON"
+        },
+        {
+            "id": "a002_106_0065",
+            "en_US": "GROUND"
+        },
+        {
+            "id": "a002_106_0066",
+            "en_US": "GROUP"
+        },
+        {
+            "id": "a002_106_0067",
+            "en_US": "GROVYLE"
+        },
+        {
+            "id": "a002_106_0068",
+            "en_US": "GROWL"
+        },
+        {
+            "id": "a002_106_0069",
+            "en_US": "GROWLITHE"
+        },
+        {
+            "id": "a002_106_0070",
+            "en_US": "GROWTH"
+        },
+        {
+            "id": "a002_106_0071",
+            "en_US": "GRUDGE"
+        },
+        {
+            "id": "a002_106_0072",
+            "en_US": "GRUMPIG"
+        },
+        {
+            "id": "a002_106_0073",
+            "en_US": "GTS"
+        },
+        {
+            "id": "a002_106_0074",
+            "en_US": "GUARDSPLIT"
+        },
+        {
+            "id": "a002_106_0075",
+            "en_US": "GUARDSWAP"
+        },
+        {
+            "id": "a002_106_0076",
+            "en_US": "GUILLOTINE"
+        },
+        {
+            "id": "a002_106_0077",
+            "en_US": "GULPIN"
+        },
+        {
+            "id": "a002_106_0078",
+            "en_US": "GUNKSHOT"
+        },
+        {
+            "id": "a002_106_0079",
+            "en_US": "GURDURR"
+        },
+        {
+            "id": "a002_106_0080",
+            "en_US": "GUST"
+        },
+        {
+            "id": "a002_106_0081",
+            "en_US": "GUTS"
+        },
+        {
+            "id": "a002_106_0082",
+            "en_US": "GWAHAHAHA"
+        },
+        {
+            "id": "a002_106_0083",
+            "en_US": "GYARADOS"
+        },
+        {
+            "id": "a002_106_0084",
+            "en_US": "GYM"
+        },
+        {
+            "id": "a002_106_0085",
+            "en_US": "GYROBALL"
+        }
+    ]
+}

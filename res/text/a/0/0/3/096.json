@@ -1,0 +1,20 @@
+{
+    "flags": 224,
+    "pad": "6a6a",
+    "messages": [
+        {
+            "id": "a003_096_0000",
+            "en_US": [
+                "There are performers gathering on\n",
+                "Route 5!"
+            ]
+        },
+        {
+            "id": "a003_096_0001",
+            "en_US": [
+                "I wonder who writes the news on the\n",
+                "bulletin board..."
+            ]
+        }
+    ]
+}

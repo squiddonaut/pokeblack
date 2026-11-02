@@ -1,0 +1,3584 @@
+{
+    "flags": 224,
+    "pad": "6c6c",
+    "messages": [
+        {
+            "id": "a003_322_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0001",
+            "en_US": [
+                "Leo: Oh, I'm moving to Black City!\n",
+                "The excitement of the city is waiting{VAR BE00}\n",
+                "for me!"
+            ]
+        },
+        {
+            "id": "a003_322_0002",
+            "en_US": [
+                "Leo: White Forest has a lot of nice\n",
+                "places too, but...{VAR BE00}\n",
+                "I'm bored with the lack of things to do!"
+            ]
+        },
+        {
+            "id": "a003_322_0003",
+            "en_US": [
+                "Leo: There are a lot of nice things about\n",
+                "White Forest, but I'm craving the bright{VAR BE00}\n",
+                "lights of the big city!"
+            ]
+        },
+        {
+            "id": "a003_322_0004",
+            "en_US": [
+                "Leo: The place for a person craving\n",
+                "excitement, like me, is Black City!{VAR BE00}\n",
+                "Would you mind taking me with you?"
+            ]
+        },
+        {
+            "id": "a003_322_0005",
+            "en_US": [
+                "Really! No good, huh? Well, I'll be here if\n",
+                "you change your mind."
+            ]
+        },
+        {
+            "id": "a003_322_0006",
+            "en_US": [
+                "Oh, sorry! I got an invitation\n",
+                "from somewhere else."
+            ]
+        },
+        {
+            "id": "a003_322_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0008",
+            "en_US": [
+                "What? Really?{VAR BE01}\n",
+                "That's great! New excitement\n",
+                "is waiting for me!{VAR BE00}\n",
+                "I'll be waiting in Black City, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0009",
+            "en_US": [
+                "Silvia: I'm going to get out of this\n",
+                "rut and move to Black City!{VAR BE01}\n",
+                "I'm looking forward to the\n",
+                "big-city atmosphere."
+            ]
+        },
+        {
+            "id": "a003_322_0010",
+            "en_US": [
+                "Silvia: A new life in a new place, far away\n",
+                "from everything you know!{VAR BE00}\n",
+                "It's something every girl longs for."
+            ]
+        },
+        {
+            "id": "a003_322_0011",
+            "en_US": "Silvia: Girls all pine for the big city!"
+        },
+        {
+            "id": "a003_322_0012",
+            "en_US": [
+                "Silvia: A new life in a new place, far away\n",
+                "from everything I know!{VAR BE01}\n",
+                "You, the one reflecting in my glasses,\n",
+                "take me to Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0013",
+            "en_US": [
+                "So it's not going to work out? I'd sure\n",
+                "like it if you'd take me along, though..."
+            ]
+        },
+        {
+            "id": "a003_322_0014",
+            "en_US": [
+                "I'm sorry!{VAR BE01}\n",
+                "It looks like my glinting glasses caught\n",
+                "someone else's eye!"
+            ]
+        },
+        {
+            "id": "a003_322_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0016",
+            "en_US": [
+                "That someone who was reflected in my\n",
+                "glasses is you!{VAR BE00}\n",
+                "I'll be waiting in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0017",
+            "en_US": [
+                "Dave: Hey, sorry, yo!\n",
+                "I'm movin' to Black City.{VAR BE01}\n",
+                "Everyone's got a place\n",
+                "they're headin', right?"
+            ]
+        },
+        {
+            "id": "a003_322_0018",
+            "en_US": [
+                "Dave: Wish I had someone 'round to drag\n",
+                "me along. Man, I want to go to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0019",
+            "en_US": [
+                "Dave: That Black City sure is\n",
+                "shinin' bright.{VAR BE00}\n",
+                "I want to go there too."
+            ]
+        },
+        {
+            "id": "a003_322_0020",
+            "en_US": [
+                "Dave: Nobody's 'round to drag me along.{VAR BE01}\n",
+                "Hey, why don'tcha take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0021",
+            "en_US": [
+                "So that's it, huh...{VAR BE01}\n",
+                "Just you watch. I'll make myself into the\n",
+                "kind of guy you want to take along."
+            ]
+        },
+        {
+            "id": "a003_322_0022",
+            "en_US": [
+                "Hey, sorry, yo. Someone else\n",
+                "asked me to go.{VAR BE00}\n",
+                "Invite me again sometime."
+            ]
+        },
+        {
+            "id": "a003_322_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0024",
+            "en_US": [
+                "Thanks, yo! This Roughneck is going to be\n",
+                "the head of Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0025",
+            "en_US": [
+                "Britney: I've done decided to\n",
+                "head over to the city!{VAR BE01}\n",
+                "The laid-back livin' is\n",
+                "over fer now!"
+            ]
+        },
+        {
+            "id": "a003_322_0026",
+            "en_US": [
+                "Britney: Windin' down sure is nice, but\n",
+                "I like freewheelin' in the big city too!"
+            ]
+        },
+        {
+            "id": "a003_322_0027",
+            "en_US": [
+                "Britney: Black City...\n",
+                "That's where I wanna be!"
+            ]
+        },
+        {
+            "id": "a003_322_0028",
+            "en_US": [
+                "Britney: Won't somebody take\n",
+                "me to Black City?{VAR BE01}\n",
+                "Hey there! I'd be much obliged if\n",
+                "you could take me to Black City..."
+            ]
+        },
+        {
+            "id": "a003_322_0029",
+            "en_US": [
+                "Now, whyever not?!\n",
+                "Well, take me next time, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0030",
+            "en_US": [
+                "Oh, I'm sorry!\n",
+                "Someone else done invited me!"
+            ]
+        },
+        {
+            "id": "a003_322_0031",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0032",
+            "en_US": [
+                "Thankee!\n",
+                "I'll go on ahead to the city!"
+            ]
+        },
+        {
+            "id": "a003_322_0033",
+            "en_US": [
+                "Robbie: Guess what? I'm moving to\n",
+                "Black City!{VAR BE01}\n",
+                "Without biiig buildings around, it's hard\n",
+                "to settle in, right?!"
+            ]
+        },
+        {
+            "id": "a003_322_0034",
+            "en_US": [
+                "Robbie: Aaah! Boooring! I'm so bored!\n",
+                "I sure want to go to Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0035",
+            "en_US": [
+                "Robbie: Hey! Over there!\n",
+                "Black City looks like so much fun.{VAR BE00}\n",
+                "I sure wish I could go!"
+            ]
+        },
+        {
+            "id": "a003_322_0036",
+            "en_US": [
+                "Robbie: Aaah! Boooring! I'm so bored!\n",
+                "I sure want to go to Black City!{VAR BE01}\n",
+                "I've got it! You can take me with\n",
+                "you! Come on!"
+            ]
+        },
+        {
+            "id": "a003_322_0037",
+            "en_US": [
+                "Robbie: Aww. Why not?\n",
+                "Well, if you change your mind..."
+            ]
+        },
+        {
+            "id": "a003_322_0038",
+            "en_US": [
+                "Oh! I'm sorry!!\n",
+                "I'm going to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0039",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0040",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "I'm heading to Black City now.\n",
+                "See you there!"
+            ]
+        },
+        {
+            "id": "a003_322_0041",
+            "en_US": [
+                "Miki: I decided to go to Black City.{VAR BE01}\n",
+                "I'm a little laid back, so I'm worried\n",
+                "I won't fit in."
+            ]
+        },
+        {
+            "id": "a003_322_0042",
+            "en_US": [
+                "Miki: It's comfortable here, but I\n",
+                "could use a little more excitement."
+            ]
+        },
+        {
+            "id": "a003_322_0043",
+            "en_US": [
+                "Miki: Black City...{VAR BE01}\n",
+                "Sounds like fun, doesn't it?\n",
+                "If I had the chance, I'd sure love to go."
+            ]
+        },
+        {
+            "id": "a003_322_0044",
+            "en_US": [
+                "Miki: Black City...{VAR BE01}\n",
+                "Sounds like fun, doesn't it?\n",
+                "If I had the chance, I'd sure love to go.{VAR BE01}\n",
+                "Hey, you wouldn't mind taking me\n",
+                "along, would you?"
+            ]
+        },
+        {
+            "id": "a003_322_0045",
+            "en_US": [
+                "Sniff...\n",
+                "Don't you want me to come?"
+            ]
+        },
+        {
+            "id": "a003_322_0046",
+            "en_US": [
+                "Oh! I was invited by\n",
+                "somebody else. I'm sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0047",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0048",
+            "en_US": [
+                "Thank you!\n",
+                "I'll do my best in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0049",
+            "en_US": [
+                "Ryder: 'Sup! Hey, I'm moving\n",
+                "to Black City.{VAR BE01}\n",
+                "I'm gonna get stronger by going\n",
+                "where stronger Trainers gather!"
+            ]
+        },
+        {
+            "id": "a003_322_0050",
+            "en_US": [
+                "Ryder: Hyah! Hyah hyah...\n",
+                "I'm having trouble getting pumped up!{VAR BE01}\n",
+                "When I'm surrounded by nature,\n",
+                "I sure do tend to calm down..."
+            ]
+        },
+        {
+            "id": "a003_322_0051",
+            "en_US": [
+                "Ryder: Hyaaaah! Hyah!{VAR BE01}\n",
+                "I've done well training--\n",
+                "now I want to test my abilities!"
+            ]
+        },
+        {
+            "id": "a003_322_0052",
+            "en_US": [
+                "Ryder: I've been training hard.\n",
+                "I want to test my abilities.{VAR BE01}\n",
+                "Would you mind taking me to\n",
+                "Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0053",
+            "en_US": [
+                "I see... That's too bad.\n",
+                "Talk to me again sometime."
+            ]
+        },
+        {
+            "id": "a003_322_0054",
+            "en_US": [
+                "Oh... My apologies.\n",
+                "Another person invited me."
+            ]
+        },
+        {
+            "id": "a003_322_0055",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0056",
+            "en_US": [
+                "Thank you! I know where it is!\n",
+                "I'll go on ahead to Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0057",
+            "en_US": [
+                "Karenna: Ahhh... Bring it on!\n",
+                "I've decided to go to Black City!{VAR BE01}\n",
+                "Pokémon battling is gonna be super hot!"
+            ]
+        },
+        {
+            "id": "a003_322_0058",
+            "en_US": [
+                "Karenna: I've trained and trained. My\n",
+                "Pokémon and I might be a little tired..."
+            ]
+        },
+        {
+            "id": "a003_322_0059",
+            "en_US": [
+                "Karenna: I wanna test the results\n",
+                "of my training in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0060",
+            "en_US": [
+                "Karenna: I want to test the results of\n",
+                "my training in Black City!{VAR BE01}\n",
+                "Hey! Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0061",
+            "en_US": [
+                "No way...\n",
+                "Well, next time then, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0062",
+            "en_US": [
+                "Oh! I'm so sorry!\n",
+                "I'm going to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0063",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0064",
+            "en_US": [
+                "This will make me even stronger!\n",
+                "Thank you so much!{VAR BE01}\n",
+                "OK then, I'll go on ahead and\n",
+                "be waiting in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0065",
+            "en_US": [
+                "Doug: Why, hello there!{VAR BE01}\n",
+                "It is my intention to take up residence\n",
+                "in Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0066",
+            "en_US": [
+                "Doug: Please excuse me.{VAR BE01}\n",
+                "I was able to get enough rest,\n",
+                "so perhaps I should head to Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0067",
+            "en_US": [
+                "Doug: Why, hello there.{VAR BE01}\n",
+                "I've been having trouble recently,\n",
+                "because my work isn't going well.{VAR BE01}\n",
+                "If I were in Black City, I'm sure\n",
+                "I could handle demanding jobs..."
+            ]
+        },
+        {
+            "id": "a003_322_0068",
+            "en_US": [
+                "Doug: Why, hello there.{VAR BE01}\n",
+                "I've been having trouble recently,\n",
+                "because my work isn't going well.{VAR BE01}\n",
+                "Would you be so kind as to\n",
+                "take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0069",
+            "en_US": "Oh, I see. Do forgive the presumption."
+        },
+        {
+            "id": "a003_322_0070",
+            "en_US": [
+                "Oh dear. Your timing is most unfortunate.\n",
+                "I'm afraid I have already accepted{VAR BE00}\n",
+                "another invitation."
+            ]
+        },
+        {
+            "id": "a003_322_0071",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0072",
+            "en_US": [
+                "Much obliged, much obliged!{VAR BE01}\n",
+                "Well then, I shall be on my way.\n",
+                "I shall see you there!"
+            ]
+        },
+        {
+            "id": "a003_322_0073",
+            "en_US": [
+                "Vincent: Hey! It's you! Well, I'm off to\n",
+                "show my brilliance in Black City!{VAR BE00}\n",
+                "The beautiful buildings await!"
+            ]
+        },
+        {
+            "id": "a003_322_0074",
+            "en_US": [
+                "Vincent: Living here is a little\n",
+                "boring for a guy like me."
+            ]
+        },
+        {
+            "id": "a003_322_0075",
+            "en_US": [
+                "Vincent: Maybe I would be a good\n",
+                "match for that Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0076",
+            "en_US": [
+                "Vincent: I was considering favoring\n",
+                "that Black City with a visit, but what{VAR BE00}\n",
+                "do you think?"
+            ]
+        },
+        {
+            "id": "a003_322_0077",
+            "en_US": [
+                "Sorry, I couldn't hear you.\n",
+                "Maybe I'll ask again later."
+            ]
+        },
+        {
+            "id": "a003_322_0078",
+            "en_US": [
+                "Oooh. Sorry!\n",
+                "I'm very popular!{VAR BE00}\n",
+                "I'm already booked up."
+            ]
+        },
+        {
+            "id": "a003_322_0079",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0080",
+            "en_US": [
+                "Well, if you really want me\n",
+                "to join you...{VAR BE01}\n",
+                "I guess I'll have to go\n",
+                "to Black City, then! Just for you!"
+            ]
+        },
+        {
+            "id": "a003_322_0081",
+            "en_US": [
+                "Marie: I've had enough fresh air!\n",
+                "I'm going to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0082",
+            "en_US": [
+                "Marie: I'm much more refreshed, and\n",
+                "I want to go back to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0083",
+            "en_US": [
+                "Marie: Black City!\n",
+                "How nice! I want to go too."
+            ]
+        },
+        {
+            "id": "a003_322_0084",
+            "en_US": [
+                "Marie: Black City!\n",
+                "How nice! I want to go too.{VAR BE01}\n",
+                "I've got it! Would you be a\n",
+                "dear and take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0085",
+            "en_US": [
+                "Oh my.\n",
+                "Are you in a bad mood?"
+            ]
+        },
+        {
+            "id": "a003_322_0086",
+            "en_US": [
+                "My oh my. I'm sorry.\n",
+                "I was invited by someone else."
+            ]
+        },
+        {
+            "id": "a003_322_0087",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0088",
+            "en_US": [
+                "Thank you! Thank you!\n",
+                "Well, I'll go on ahead, then."
+            ]
+        },
+        {
+            "id": "a003_322_0089",
+            "en_US": [
+                "Lena: Black City...\n",
+                "I've decided to go there."
+            ]
+        },
+        {
+            "id": "a003_322_0090",
+            "en_US": [
+                "Lena: The forest doesn't\n",
+                "refuse anything.{VAR BE00}\n",
+                "Sometimes, I think that's scary."
+            ]
+        },
+        {
+            "id": "a003_322_0091",
+            "en_US": [
+                "Lena: Hmm... It's comfortable here,\n",
+                "but something's missing."
+            ]
+        },
+        {
+            "id": "a003_322_0092",
+            "en_US": [
+                "Lena: I want to go to that\n",
+                "Black City too...{VAR BE00}\n",
+                "Mind if I go with you?"
+            ]
+        },
+        {
+            "id": "a003_322_0093",
+            "en_US": [
+                "I see...\n",
+                "Too bad."
+            ]
+        },
+        {
+            "id": "a003_322_0094",
+            "en_US": [
+                "Sorry.\n",
+                "I was invited by someone else..."
+            ]
+        },
+        {
+            "id": "a003_322_0095",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0096",
+            "en_US": [
+                "Thank you.\n",
+                "I'll be waiting in Black City..."
+            ]
+        },
+        {
+            "id": "a003_322_0097",
+            "en_US": [
+                "Carlos: Heeey! I decided to give\n",
+                "Black City a try.{VAR BE01}\n",
+                "It'll be a laid-back, freewheeling trip!"
+            ]
+        },
+        {
+            "id": "a003_322_0098",
+            "en_US": [
+                "Carlos: I enjoy looking at natural\n",
+                "beauty, but I want a big change."
+            ]
+        },
+        {
+            "id": "a003_322_0099",
+            "en_US": [
+                "Carlos: As a Backpacker, it's not good\n",
+                "to stay in a place with no changes!"
+            ]
+        },
+        {
+            "id": "a003_322_0100",
+            "en_US": [
+                "Carlos: There's not much left to\n",
+                "see here!{VAR BE01}\n",
+                "That's right! Could you please take me\n",
+                "to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0101",
+            "en_US": [
+                "Hmmm... Isn't there any way I could go?\n",
+                "I really want you to take me there..."
+            ]
+        },
+        {
+            "id": "a003_322_0102",
+            "en_US": [
+                "Huh? I'm sorry. I'm going to go\n",
+                "to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0103",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0104",
+            "en_US": [
+                "Oh! Thanks!\n",
+                "Well, I'll head to Black City then!{VAR BE00}\n",
+                "See you later, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0105",
+            "en_US": [
+                "Molly: I'm going to Black City!{VAR BE01}\n",
+                "I'd rather see lots of places\n",
+                "than stay in one spot!"
+            ]
+        },
+        {
+            "id": "a003_322_0106",
+            "en_US": [
+                "Molly: I think I need a\n",
+                "change of scenery soon.{VAR BE01}\n",
+                "I want to see lots of different places!"
+            ]
+        },
+        {
+            "id": "a003_322_0107",
+            "en_US": [
+                "Molly: I want to go to\n",
+                "somewhere different soon.{VAR BE00}\n",
+                "Know any nice places?"
+            ]
+        },
+        {
+            "id": "a003_322_0108",
+            "en_US": [
+                "Molly: OK, it's decided!\n",
+                "I'm going to leave this place!{VAR BE01}\n",
+                "That's why I have something to ask you.\n",
+                "Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0109",
+            "en_US": [
+                "What? Even though I asked nicely!\n",
+                "I'm crestfallen..."
+            ]
+        },
+        {
+            "id": "a003_322_0110",
+            "en_US": [
+                "I was invited by someone else...\n",
+                "Sorry, but I'm going there."
+            ]
+        },
+        {
+            "id": "a003_322_0111",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0112",
+            "en_US": [
+                "Thank you!\n",
+                "I'll head there right now!{VAR BE01}\n",
+                "See you in Black City!\n",
+                "Thanks again!"
+            ]
+        },
+        {
+            "id": "a003_322_0113",
+            "en_US": [
+                "Frederic: Sorry, but I'm leaving for\n",
+                "Black City. I'm preparing for my move{VAR BE00}\n",
+                "now. If you need something, tell me in{VAR BE00}\n",
+                "Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0114",
+            "en_US": [
+                "Frederic: The evolution of civilization!\n",
+                "You can feel it up close...{VAR BE00}\n",
+                "I love that about Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0115",
+            "en_US": [
+                "Frederic: I am so bored.\n",
+                "I want to go to Black City, but..."
+            ]
+        },
+        {
+            "id": "a003_322_0116",
+            "en_US": [
+                "Frederic: I am so bored.\n",
+                "I want to go to Black City, but...{VAR BE01}\n",
+                "Oh, hey! I need a favor!\n",
+                "Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0117",
+            "en_US": [
+                "What? Have you no respect\n",
+                "for your elders? If you come around,{VAR BE00}\n",
+                "I'll be waiting, young one."
+            ]
+        },
+        {
+            "id": "a003_322_0118",
+            "en_US": [
+                "Sorry!{VAR BE01}\n",
+                "I'd completely forgotten, but my\n",
+                "destination has already been decided."
+            ]
+        },
+        {
+            "id": "a003_322_0119",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0120",
+            "en_US": [
+                "Well said. I'm grateful!{VAR BE01}\n",
+                "Well then, I'm going to head\n",
+                "to Black City. I'll be waiting!"
+            ]
+        },
+        {
+            "id": "a003_322_0121",
+            "en_US": [
+                "Lynette: I'm going to Black City.{VAR BE01}\n",
+                "And you were so kind as to talk to me\n",
+                "too. I'm ever so sorry!"
+            ]
+        },
+        {
+            "id": "a003_322_0122",
+            "en_US": [
+                "Lynette: I get bored because there\n",
+                "aren't any strong people in this town."
+            ]
+        },
+        {
+            "id": "a003_322_0123",
+            "en_US": [
+                "Lynette: I bet there are a lot of strong\n",
+                "Trainers, and I'd never get bored in{VAR BE00}\n",
+                "your Black City..."
+            ]
+        },
+        {
+            "id": "a003_322_0124",
+            "en_US": [
+                "Lynette: I've had my fill of\n",
+                "soothing nature.{VAR BE01}\n",
+                "If it's OK with you, could you take me\n",
+                "to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0125",
+            "en_US": [
+                "My! I can't believe you are so\n",
+                "rude as to refuse my request."
+            ]
+        },
+        {
+            "id": "a003_322_0126",
+            "en_US": [
+                "I've changed my mind.{VAR BE01}\n",
+                "I found a different, wonderful\n",
+                "person...{VAR BE00}\n",
+                "I'm ever so sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0127",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0128",
+            "en_US": [
+                "I'd like to thank you.\n",
+                "I'm looking forward to new encounters!"
+            ]
+        },
+        {
+            "id": "a003_322_0129",
+            "en_US": [
+                "Pierce: I'm a-goin' to Black City.\n",
+                "I'm looking forward to an{VAR BE00}\n",
+                "exciting change of scenery."
+            ]
+        },
+        {
+            "id": "a003_322_0130",
+            "en_US": [
+                "Pierce: The slow life's gotten\n",
+                "a little blah...{VAR BE01}\n",
+                "I want to live a more efficient life."
+            ]
+        },
+        {
+            "id": "a003_322_0131",
+            "en_US": [
+                "Pierce: Hmmm. Your Black City looks like\n",
+                "an exciting place to live.{VAR BE00}\n",
+                "I'm so jealous."
+            ]
+        },
+        {
+            "id": "a003_322_0132",
+            "en_US": [
+                "Pierce: The slow life's gotten\n",
+                "a little blah...{VAR BE01}\n",
+                "Would you take me to your\n",
+                "Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0133",
+            "en_US": [
+                "What a shame...\n",
+                "Au revoir, city life!"
+            ]
+        },
+        {
+            "id": "a003_322_0134",
+            "en_US": [
+                "Hey! Sorry!{VAR BE01}\n",
+                "I decided to go to a different\n",
+                "Black City! Lo siento!"
+            ]
+        },
+        {
+            "id": "a003_322_0135",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0136",
+            "en_US": [
+                "All riiight!{VAR BE01}\n",
+                "Exciting urban living, here I come! \n",
+                "Hey, thanks!"
+            ]
+        },
+        {
+            "id": "a003_322_0137",
+            "en_US": [
+                "Gene: I'm going to move to Black City!\n",
+                "Time to go see what I'm made of, eh?"
+            ]
+        },
+        {
+            "id": "a003_322_0138",
+            "en_US": [
+                "Gene: I'd sure like to go to a place\n",
+                "where I can test my skill as a Trainer."
+            ]
+        },
+        {
+            "id": "a003_322_0139",
+            "en_US": [
+                "Gene: Your Black City\n",
+                "looks pretty fun, eh?{VAR BE00}\n",
+                "I'd like to go visit it."
+            ]
+        },
+        {
+            "id": "a003_322_0140",
+            "en_US": [
+                "Gene: I love Pokémon, and I'm\n",
+                "wanting to test my skill as a{VAR BE00}\n",
+                "Trainer with the Pokémon I've caught.{VAR BE01}\n",
+                "Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0141",
+            "en_US": [
+                "Whaaat! That's disappointing...\n",
+                "I'll wait for the next opportunity!"
+            ]
+        },
+        {
+            "id": "a003_322_0142",
+            "en_US": [
+                "Hmph! \n",
+                "I've definitely changed my mind.{VAR BE01}\n",
+                "I've decided to go to another Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0143",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0144",
+            "en_US": [
+                "Yahooo!{VAR BE01}\n",
+                "I look forward to seeing how\n",
+                "good I am in a new environment."
+            ]
+        },
+        {
+            "id": "a003_322_0145",
+            "en_US": [
+                "Piper: I'm moving to Black City now!\n",
+                "I'm looking forward to a fresh start!"
+            ]
+        },
+        {
+            "id": "a003_322_0146",
+            "en_US": [
+                "Piper: Somehow I grew a little\n",
+                "tired of taking it easy...{VAR BE01}\n",
+                "I want to go to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0147",
+            "en_US": [
+                "Piper: I hear that your Black City\n",
+                "is sophisticated and comfortable.{VAR BE01}\n",
+                "I envy you..."
+            ]
+        },
+        {
+            "id": "a003_322_0148",
+            "en_US": [
+                "Piper: I want to live a more\n",
+                "fast-paced life!{VAR BE01}\n",
+                "Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0149",
+            "en_US": [
+                "Oh...\n",
+                "That's too bad."
+            ]
+        },
+        {
+            "id": "a003_322_0150",
+            "en_US": [
+                "I'm sorry. I've changed my mind.{VAR BE01}\n",
+                "I've decided to go to a\n",
+                "different Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0151",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0152",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "I'll try to show the world what I\n",
+                "can really do in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0153",
+            "en_US": [
+                "Miho: I'm going to move to Black City!\n",
+                "Time for some serious shopping!"
+            ]
+        },
+        {
+            "id": "a003_322_0154",
+            "en_US": [
+                "Miho: Recently, I've felt like something's\n",
+                "missing. I want to do a lot more shopping!{VAR BE01}\n",
+                "I really want to go to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0155",
+            "en_US": [
+                "Miho: I'm jealous. That Black City\n",
+                "is so gorgeous."
+            ]
+        },
+        {
+            "id": "a003_322_0156",
+            "en_US": [
+                "Miho: Your Black City\n",
+                "is sparkling and wonderful!{VAR BE01}\n",
+                "I want to live in Black City too.\n",
+                "Would you take me?"
+            ]
+        },
+        {
+            "id": "a003_322_0157",
+            "en_US": "What?! Cheapskate."
+        },
+        {
+            "id": "a003_322_0158",
+            "en_US": [
+                "I'm such a flirt...\n",
+                "Truth is: I found someone else.{VAR BE01}\n",
+                "I decided to go to their Black City.\n",
+                "I'm sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0159",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0160",
+            "en_US": [
+                "Thank you!\n",
+                "In Black City, I will get even cuter!"
+            ]
+        },
+        {
+            "id": "a003_322_0161",
+            "en_US": [
+                "Shane: I'm moving to Black City.\n",
+                "I'm excited to see how I'll{VAR BE00}\n",
+                "do in the big city.{VAR BE01}\n",
+                "My heart's pounding! Buh-dup!"
+            ]
+        },
+        {
+            "id": "a003_322_0162",
+            "en_US": [
+                "Shane: I want to see what people in\n",
+                "Black City will think of me."
+            ]
+        },
+        {
+            "id": "a003_322_0163",
+            "en_US": [
+                "Shane: I'm jealous of your Black City.\n",
+                "I'd like to go too."
+            ]
+        },
+        {
+            "id": "a003_322_0164",
+            "en_US": [
+                "Shane: I wonder how I will be seen in\n",
+                "Black City.{VAR BE00}\n",
+                "I'd like to see for myself.{VAR BE01}\n",
+                "Hey! Will you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0165",
+            "en_US": "Too bad. I wanted to go to your city."
+        },
+        {
+            "id": "a003_322_0166",
+            "en_US": [
+                "Sorry! I decided to follow someone else.\n",
+                "My bad."
+            ]
+        },
+        {
+            "id": "a003_322_0167",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0168",
+            "en_US": [
+                "Thanks a lot!{VAR BE01}\n",
+                "I'm going to see what I'm made of in\n",
+                "Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0169",
+            "en_US": [
+                "Ralph: Yahoo!{VAR BE01}\n",
+                "Starting now, I'm leaving for Black City!\n",
+                "I'll give it my best shot!"
+            ]
+        },
+        {
+            "id": "a003_322_0170",
+            "en_US": [
+                "Ralph: Sigh...\n",
+                "I want to communicate my{VAR BE00}\n",
+                "feelings more directly...{VAR BE01}\n",
+                "I want to go to Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0171",
+            "en_US": [
+                "Ralph: Your Black City...{VAR BE01}\n",
+                "It looks like everyone can express\n",
+                "how they feel directly. It looks fun..."
+            ]
+        },
+        {
+            "id": "a003_322_0172",
+            "en_US": [
+                "Ralph: Recently, I've been thinking I\n",
+                "want to communicate my feelings{VAR BE00}\n",
+                "more directly...{VAR BE01}\n",
+                "Would you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0173",
+            "en_US": [
+                "What... I'm shocked you don't\n",
+                "understand my feelings..."
+            ]
+        },
+        {
+            "id": "a003_322_0174",
+            "en_US": [
+                "Oh!{VAR BE01}\n",
+                "Something came up, and my plans have\n",
+                "changed. Sorry!"
+            ]
+        },
+        {
+            "id": "a003_322_0175",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0176",
+            "en_US": [
+                "Yahoo!{VAR BE01}\n",
+                "I'm overflowing with emotions!\n",
+                "I'm going to express them in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0177",
+            "en_US": [
+                "Eliza: I'm leaving for Black City!\n",
+                "I want to buy a lot of different things!"
+            ]
+        },
+        {
+            "id": "a003_322_0178",
+            "en_US": [
+                "Eliza: White Forest is rich in nature, but\n",
+                "it feels like something's missing."
+            ]
+        },
+        {
+            "id": "a003_322_0179",
+            "en_US": [
+                "Eliza: Black City...\n",
+                "I bet you can buy many things there.{VAR BE00}\n",
+                "I'm jealous..."
+            ]
+        },
+        {
+            "id": "a003_322_0180",
+            "en_US": [
+                "Eliza: White Forest is rich in nature, but\n",
+                "something is missing.{VAR BE01}\n",
+                "That's it! Would you take me to\n",
+                "Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0181",
+            "en_US": [
+                "Is that so...\n",
+                "Too bad..."
+            ]
+        },
+        {
+            "id": "a003_322_0182",
+            "en_US": [
+                "I've changed my mind.\n",
+                "I'm going to a different Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0183",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0184",
+            "en_US": [
+                "I'm so happy!{VAR BE01}\n",
+                "I'm looking forward to living in\n",
+                "Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0185",
+            "en_US": [
+                "Collin: Opportunity, opportunity!\n",
+                "Business opportunities galore in{VAR BE00}\n",
+                "Black City! Piles of money, here I come!"
+            ]
+        },
+        {
+            "id": "a003_322_0186",
+            "en_US": [
+                "Collin: I'm looking for a business doing\n",
+                "something no one has done before.{VAR BE01}\n",
+                "But since no one's doing it, I can't\n",
+                "figure out what it is!"
+            ]
+        },
+        {
+            "id": "a003_322_0187",
+            "en_US": [
+                "Collin: I've looked for business\n",
+                "opportunities in this rural area, but{VAR BE00}\n",
+                "nothing interesting is rolling my way..."
+            ]
+        },
+        {
+            "id": "a003_322_0188",
+            "en_US": [
+                "Collin: Opportunities didn't exist here!{VAR BE01}\n",
+                "Going after big opportunities is more\n",
+                "my style!{VAR BE01}\n",
+                "Hate to be a bother, but can you take me\n",
+                "to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0189",
+            "en_US": [
+                "A Clerk ⑭ has to be patient.\n",
+                "I'll wait until you are ready to take me!"
+            ]
+        },
+        {
+            "id": "a003_322_0190",
+            "en_US": [
+                "Oh! I just thought of another business\n",
+                "opportunity!{VAR BE00}\n",
+                "Sorry, but I'm going somewhere else!"
+            ]
+        },
+        {
+            "id": "a003_322_0191",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0192",
+            "en_US": [
+                "All right!{VAR BE01}\n",
+                "In Black City, I'm going to make the\n",
+                "business opportunity mine!"
+            ]
+        },
+        {
+            "id": "a003_322_0193",
+            "en_US": [
+                "Ken: I'm leaving for Black City!{VAR BE01}\n",
+                "I'm going to become a master of\n",
+                "Pokémon battles in a new city!"
+            ]
+        },
+        {
+            "id": "a003_322_0194",
+            "en_US": [
+                "Ken: In White Forest,\n",
+                "I cannot master Pokémon battling..."
+            ]
+        },
+        {
+            "id": "a003_322_0195",
+            "en_US": [
+                "Ken: Your Black City seems like\n",
+                "a bustling place for Pokémon battles.{VAR BE00}\n",
+                "I'm jealous."
+            ]
+        },
+        {
+            "id": "a003_322_0196",
+            "en_US": [
+                "Ken: I want to live where\n",
+                "I can become a master Pokémon battler.{VAR BE01}\n",
+                "Will you please take me to your city?"
+            ]
+        },
+        {
+            "id": "a003_322_0197",
+            "en_US": [
+                "Really.\n",
+                "Fine, I'll ask someone else."
+            ]
+        },
+        {
+            "id": "a003_322_0198",
+            "en_US": [
+                "I've changed my mind.\n",
+                "I'm going to go to a different Black City."
+            ]
+        },
+        {
+            "id": "a003_322_0199",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0200",
+            "en_US": [
+                "I'm going to become the best Trainer\n",
+                "I can be in Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0201",
+            "en_US": [
+                "Jacques: I'm going to leave for\n",
+                "Black City to find a clear answer!"
+            ]
+        },
+        {
+            "id": "a003_322_0202",
+            "en_US": [
+                "Jacques: Sigh...{VAR BE01}\n",
+                "I want to do the kind of research\n",
+                "where I get one clear answer."
+            ]
+        },
+        {
+            "id": "a003_322_0203",
+            "en_US": [
+                "Jacques: Your Black City...{VAR BE01}\n",
+                "I'm jealous because it looks like\n",
+                "you can find a really excellent answer."
+            ]
+        },
+        {
+            "id": "a003_322_0204",
+            "en_US": [
+                "Jacques: It looks like I can do research\n",
+                "to find clear, really excellent{VAR BE00}\n",
+                "answers in your Black City!{VAR BE01}\n",
+                "Would you take me to your city?"
+            ]
+        },
+        {
+            "id": "a003_322_0205",
+            "en_US": [
+                "I'm really disappointed by\n",
+                "your clear answer!"
+            ]
+        },
+        {
+            "id": "a003_322_0206",
+            "en_US": [
+                "Oh, I've decided to go to a\n",
+                "different Black City!{VAR BE01}\n",
+                "The answer I'm looking\n",
+                "for is there!"
+            ]
+        },
+        {
+            "id": "a003_322_0207",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0208",
+            "en_US": [
+                "Oh! The answer I wanted!\n",
+                "Thank you!"
+            ]
+        },
+        {
+            "id": "a003_322_0209",
+            "en_US": [
+                "Rosa: I'm leaving for Black City!\n",
+                "I'm looking forward to it, because{VAR BE00}\n",
+                "it looks like it's never boring!"
+            ]
+        },
+        {
+            "id": "a003_322_0210",
+            "en_US": [
+                "Rosa: Just living from day to day...\n",
+                "I've had it with this life.{VAR BE01}\n",
+                "I want to go someplace where\n",
+                "I won't get so bored!"
+            ]
+        },
+        {
+            "id": "a003_322_0211",
+            "en_US": [
+                "Rosa: Your Black City.\n",
+                "It looks exciting. I'm jealous."
+            ]
+        },
+        {
+            "id": "a003_322_0212",
+            "en_US": [
+                "Rosa: I want my everyday life to be\n",
+                "more fun!{VAR BE01}\n",
+                "Won't you take me to your Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0213",
+            "en_US": [
+                "My my!\n",
+                "Aren't you the selfish one!"
+            ]
+        },
+        {
+            "id": "a003_322_0214",
+            "en_US": [
+                "I've changed my mind.\n",
+                "I'm going to a different city!"
+            ]
+        },
+        {
+            "id": "a003_322_0215",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0216",
+            "en_US": [
+                "Oh boy!{VAR BE01}\n",
+                "A life without boredom!\n",
+                "I'm looking forward to it!"
+            ]
+        },
+        {
+            "id": "a003_322_0217",
+            "en_US": [
+                "Herman: Next, I'm going to Black City!\n",
+                "Are you jealous?"
+            ]
+        },
+        {
+            "id": "a003_322_0218",
+            "en_US": [
+                "Herman: Aaah...\n",
+                "I want to go to Black City!{VAR BE01}\n",
+                "Just staying in one place\n",
+                "isn't like me!"
+            ]
+        },
+        {
+            "id": "a003_322_0219",
+            "en_US": [
+                "Herman: Black City seems\n",
+                "like an interesting city.{VAR BE00}\n",
+                "I'd like to go sometime!"
+            ]
+        },
+        {
+            "id": "a003_322_0220",
+            "en_US": [
+                "Herman: I'm getting tired of\n",
+                "living here!{VAR BE01}\n",
+                "Could you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0221",
+            "en_US": "Fine. Whatever."
+        },
+        {
+            "id": "a003_322_0222",
+            "en_US": [
+                "Changed my mind!\n",
+                "I'm setting off for a different city!"
+            ]
+        },
+        {
+            "id": "a003_322_0223",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0224",
+            "en_US": [
+                "All right! Thanks!\n",
+                "I'm looking forward to my next trip!"
+            ]
+        },
+        {
+            "id": "a003_322_0225",
+            "en_US": [
+                "Emi: I'm setting off for my next city!\n",
+                "Black City! It looks like fun, right?"
+            ]
+        },
+        {
+            "id": "a003_322_0226",
+            "en_US": [
+                "Emi: Oh, I want to set off for my\n",
+                "next city soon!"
+            ]
+        },
+        {
+            "id": "a003_322_0227",
+            "en_US": [
+                "Emi: Black City sounds nice!\n",
+                "I'd like to go there!"
+            ]
+        },
+        {
+            "id": "a003_322_0228",
+            "en_US": [
+                "Emi: The goal of my next\n",
+                "trip is Pokémon battles!{VAR BE01}\n",
+                "Hey, will you take me to Black City?"
+            ]
+        },
+        {
+            "id": "a003_322_0229",
+            "en_US": [
+                "What?!\n",
+                "Too bad..."
+            ]
+        },
+        {
+            "id": "a003_322_0230",
+            "en_US": [
+                "Uh, I've given up on that!{VAR BE01}\n",
+                "I decided to go to a\n",
+                "different Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0231",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0232",
+            "en_US": [
+                "Thank you!\n",
+                "Looks like my next trip will be fun!"
+            ]
+        },
+        {
+            "id": "a003_322_0233",
+            "en_US": [
+                "Grace: I'm searching for bold, new art!\n",
+                "Next, I'm going to Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0234",
+            "en_US": [
+                "Grace: I think only nature-made\n",
+                "beauty is not enough...{VAR BE00}\n",
+                "Don't you feel that way?"
+            ]
+        },
+        {
+            "id": "a003_322_0235",
+            "en_US": [
+                "Grace: Black City...\n",
+                "Now, that is art created by people.{VAR BE00}\n",
+                "I want to see it with my own eyes!"
+            ]
+        },
+        {
+            "id": "a003_322_0236",
+            "en_US": [
+                "Grace: Black City...\n",
+                "Now that is art created by people!{VAR BE00}\n",
+                "I want to see it with my own eyes.{VAR BE01}\n",
+                "You...\n",
+                "Could you take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0237",
+            "en_US": [
+                "Your direct answer is\n",
+                "also beautiful."
+            ]
+        },
+        {
+            "id": "a003_322_0238",
+            "en_US": [
+                "Oh, what was that?{VAR BE01}\n",
+                "Oh, that's right.\n",
+                "I'm going to a different Black City.{VAR BE00}\n",
+                "Sorry I changed my mind like that."
+            ]
+        },
+        {
+            "id": "a003_322_0239",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0240",
+            "en_US": [
+                "Thank you.{VAR BE01}\n",
+                "I'm looking forward to the\n",
+                "beauty of Black City!"
+            ]
+        },
+        {
+            "id": "a003_322_0241",
+            "en_US": [
+                "Leo: Oh, me?\n",
+                "I'm moving to White Forest!{VAR BE00}\n",
+                "I want to relax a little more!"
+            ]
+        },
+        {
+            "id": "a003_322_0242",
+            "en_US": [
+                "Leo: Black City also has\n",
+                "some nice places, but{VAR BE00}\n",
+                "it's a little too exciting for me."
+            ]
+        },
+        {
+            "id": "a003_322_0243",
+            "en_US": [
+                "Leo: White Forest...\n",
+                "I'm really interested in it!"
+            ]
+        },
+        {
+            "id": "a003_322_0244",
+            "en_US": [
+                "Leo: I'm starving for a little quiet, so\n",
+                "I want to go to White Forest! If you{VAR BE00}\n",
+                "don't mind, would you take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0245",
+            "en_US": [
+                "What! You won't...\n",
+                "Let me know if you change your mind."
+            ]
+        },
+        {
+            "id": "a003_322_0246",
+            "en_US": [
+                "Oh! Sorry!\n",
+                "I got an invitation from another place!"
+            ]
+        },
+        {
+            "id": "a003_322_0247",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0248",
+            "en_US": [
+                "What? Really?{VAR BE01}\n",
+                "That's great! The gifts of\n",
+                "the forest are waiting for me!{VAR BE00}\n",
+                "I'll wait for you in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0249",
+            "en_US": [
+                "Silvia: I'm moving to White Forest to get\n",
+                "out of this rut!{VAR BE01}\n",
+                "I'm looking forward to the fresh air!"
+            ]
+        },
+        {
+            "id": "a003_322_0250",
+            "en_US": [
+                "Silvia: A new life in a place you've never\n",
+                "seen, far away from home...{VAR BE00}\n",
+                "Every girl dreams of this."
+            ]
+        },
+        {
+            "id": "a003_322_0251",
+            "en_US": [
+                "Silvia: All girls fall in love with\n",
+                "big, natural places!"
+            ]
+        },
+        {
+            "id": "a003_322_0252",
+            "en_US": [
+                "Silvia: A new life in a place you've never\n",
+                "seen, far away from home!{VAR BE01}\n",
+                "You, the one reflected in my glasses,\n",
+                "take me to White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0253",
+            "en_US": [
+                "So, it's not going to work out? I'd sure\n",
+                "like it if you'd take me along, though..."
+            ]
+        },
+        {
+            "id": "a003_322_0254",
+            "en_US": [
+                "I'm sorry!{VAR BE01}\n",
+                "It looks like my glinting\n",
+                "glasses caught someone else's eye!"
+            ]
+        },
+        {
+            "id": "a003_322_0255",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0256",
+            "en_US": [
+                "That someone who was\n",
+                "reflected in my glasses is you!{VAR BE00}\n",
+                "I'll be waiting in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0257",
+            "en_US": [
+                "Dave: Oh, sorry. I'm moving to\n",
+                "White Forest!{VAR BE01}\n",
+                "I've discovered that even a tough can\n",
+                "be too tough and get worn out!"
+            ]
+        },
+        {
+            "id": "a003_322_0258",
+            "en_US": [
+                "Dave: 'Sup. I became the roughest\n",
+                "tough in Black City.{VAR BE01}\n",
+                "Time to aim for the top\n",
+                "someplace new."
+            ]
+        },
+        {
+            "id": "a003_322_0259",
+            "en_US": [
+                "Dave: That White Forest...\n",
+                "It's really glittering.{VAR BE00}\n",
+                "That's also pretty interesting..."
+            ]
+        },
+        {
+            "id": "a003_322_0260",
+            "en_US": [
+                "Dave: In Black City, I'm the\n",
+                "toughest tough who ever toughed.{VAR BE00}\n",
+                "No man alive can stop me here.{VAR BE01}\n",
+                "Hey, will you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0261",
+            "en_US": [
+                "Seriously...{VAR BE01}\n",
+                "I'll polish myself into the kind of\n",
+                "man you want to take with you."
+            ]
+        },
+        {
+            "id": "a003_322_0262",
+            "en_US": [
+                "Sorry, I got invited by someone\n",
+                "else. Invite me again sometime!"
+            ]
+        },
+        {
+            "id": "a003_322_0263",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0264",
+            "en_US": [
+                "Thanks, yo!\n",
+                "This Roughneck is going to be the{VAR BE00}\n",
+                "head of White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0265",
+            "en_US": [
+                "Britney: I've done decided to\n",
+                "head to White Forest!{VAR BE01}\n",
+                "Nature is waitin' for me!"
+            ]
+        },
+        {
+            "id": "a003_322_0266",
+            "en_US": [
+                "Britney: Freewheelin' is nice for sure,\n",
+                "but I also like windin' down!"
+            ]
+        },
+        {
+            "id": "a003_322_0267",
+            "en_US": [
+                "Britney: White Forest...\n",
+                "That's where I wanna be!"
+            ]
+        },
+        {
+            "id": "a003_322_0268",
+            "en_US": [
+                "Britney: Won't somebody take\n",
+                "me to White Forest?{VAR BE01}\n",
+                "Why, hey! I'd be much obliged if\n",
+                "you could take me?"
+            ]
+        },
+        {
+            "id": "a003_322_0269",
+            "en_US": [
+                "Now, whyever not?!\n",
+                "Well, take me next time, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0270",
+            "en_US": [
+                "Oh, I'm sorry!\n",
+                "Someone else done invited me!"
+            ]
+        },
+        {
+            "id": "a003_322_0271",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0272",
+            "en_US": [
+                "Thankee!\n",
+                "I'll go on ahead to the forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0273",
+            "en_US": [
+                "Robbie: Guess what?\n",
+                "I'm moving to White Forest!{VAR BE01}\n",
+                "Without nature all around,\n",
+                "it's hard to settle in, right?!"
+            ]
+        },
+        {
+            "id": "a003_322_0274",
+            "en_US": [
+                "Robbie: Black City isn't a bad place, but\n",
+                "now I'm thinking White Forest{VAR BE00}\n",
+                "might be pretty nice too."
+            ]
+        },
+        {
+            "id": "a003_322_0275",
+            "en_US": [
+                "Robbie: Hey! Over there!\n",
+                "White Forest looks so fun.{VAR BE00}\n",
+                "I sure wish I could go!!"
+            ]
+        },
+        {
+            "id": "a003_322_0276",
+            "en_US": [
+                "Robbie: Oh! That White Forest\n",
+                "over there! It looks like fun!{VAR BE01}\n",
+                "I've got it! You, take me with\n",
+                "you! Come on!"
+            ]
+        },
+        {
+            "id": "a003_322_0277",
+            "en_US": [
+                "Robbie: Aww, why not?\n",
+                "Well, if you change your mind..."
+            ]
+        },
+        {
+            "id": "a003_322_0278",
+            "en_US": [
+                "Oh! I'm sorry!!\n",
+                "I'm going to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0279",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0280",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "I'm heading to White Forest now.\n",
+                "See you there!"
+            ]
+        },
+        {
+            "id": "a003_322_0281",
+            "en_US": [
+                "Miki: I decided to go to White Forest.{VAR BE01}\n",
+                "I'm a little quiet, and I'm worried\n",
+                "I won't fit in."
+            ]
+        },
+        {
+            "id": "a003_322_0282",
+            "en_US": [
+                "Miki: It's comfortable here, but\n",
+                "it's a little too exciting."
+            ]
+        },
+        {
+            "id": "a003_322_0283",
+            "en_US": [
+                "Miki: White Forest...{VAR BE01}\n",
+                "Sounds like fun, doesn't it. \n",
+                "If I had the chance, I'd sure love to go."
+            ]
+        },
+        {
+            "id": "a003_322_0284",
+            "en_US": [
+                "Miki: White Forest...{VAR BE01}\n",
+                "Sounds fun, doesn't it.\n",
+                "If I had the chance, I'd sure love to go.{VAR BE01}\n",
+                "Hey, you wouldn't mind taking me\n",
+                "along, would you?"
+            ]
+        },
+        {
+            "id": "a003_322_0285",
+            "en_US": [
+                "Sniff...\n",
+                "Don't you want me to come?"
+            ]
+        },
+        {
+            "id": "a003_322_0286",
+            "en_US": [
+                "Oh! I was invited by\n",
+                "somebody else. I'm sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0287",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0288",
+            "en_US": [
+                "Thank you!\n",
+                "I'll do my best in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0289",
+            "en_US": [
+                "Ryder: 'Sup! Well, I'm moving\n",
+                "to White Forest.{VAR BE01}\n",
+                "Training amidst nature\n",
+                "is a pretty good idea, right?"
+            ]
+        },
+        {
+            "id": "a003_322_0290",
+            "en_US": [
+                "Ryder: Hyah! Hyah hyah...\n",
+                "I'm having trouble getting pumped up!{VAR BE01}\n",
+                "I wonder if my body can keep up\n",
+                "with continuous training."
+            ]
+        },
+        {
+            "id": "a003_322_0291",
+            "en_US": [
+                "Ryder: I've tested my abilities enough.\n",
+                "I want to train soon..."
+            ]
+        },
+        {
+            "id": "a003_322_0292",
+            "en_US": [
+                "Ryder: I've tested my abilities\n",
+                "plenty now. I want to train!{VAR BE01}\n",
+                "Would you mind taking me to\n",
+                "White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0293",
+            "en_US": [
+                "I see... That's too bad.\n",
+                "Talk to me again sometime."
+            ]
+        },
+        {
+            "id": "a003_322_0294",
+            "en_US": [
+                "Oh... My apologies.\n",
+                "Another person invited me."
+            ]
+        },
+        {
+            "id": "a003_322_0295",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0296",
+            "en_US": [
+                "Thank you!\n",
+                "I know the location!{VAR BE01}\n",
+                "I'll go on ahead to\n",
+                "White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0297",
+            "en_US": [
+                "Karenna: Aaaahh... Bring it on!\n",
+                "I've decided to go to White Forest!{VAR BE01}\n",
+                "Training is gonna be super hot!"
+            ]
+        },
+        {
+            "id": "a003_322_0298",
+            "en_US": [
+                "Karenna: I've battled and battled.\n",
+                "My Pokémon and I{VAR BE00}\n",
+                "might be a little tired..."
+            ]
+        },
+        {
+            "id": "a003_322_0299",
+            "en_US": [
+                "Karenna: To get the most\n",
+                "out of my battling, I must train!"
+            ]
+        },
+        {
+            "id": "a003_322_0300",
+            "en_US": [
+                "Karenna: I want to get the most from\n",
+                "my battles by training!{VAR BE01}\n",
+                "Hey! If you want, would you take\n",
+                "me to White Forest?!"
+            ]
+        },
+        {
+            "id": "a003_322_0301",
+            "en_US": [
+                "No way...\n",
+                "Well, next time then, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0302",
+            "en_US": [
+                "Oh! I'm so sorry!\n",
+                "I'm going to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0303",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0304",
+            "en_US": [
+                "This will make me even stronger!\n",
+                "Thank you so much!{VAR BE01}\n",
+                "OK then, I'll go on ahead and\n",
+                "be waiting in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0305",
+            "en_US": [
+                "Doug: Why, hello there!{VAR BE01}\n",
+                "It is my intention to take up residence\n",
+                "in White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0306",
+            "en_US": [
+                "Doug: Well hello!{VAR BE01}\n",
+                "It's very exciting here, but\n",
+                "weariness tends to build up!"
+            ]
+        },
+        {
+            "id": "a003_322_0307",
+            "en_US": [
+                "Doug: Why hello there.{VAR BE01}\n",
+                "I've been having trouble recently,\n",
+                "because my work isn't going well.{VAR BE01}\n",
+                "If I were in White Forest, I'm sure\n",
+                "I could get a little relief!"
+            ]
+        },
+        {
+            "id": "a003_322_0308",
+            "en_US": [
+                "Doug: Why hello there.{VAR BE01}\n",
+                "I've been having trouble recently,\n",
+                "because my work isn't going well.{VAR BE01}\n",
+                "Would you be so kind as to\n",
+                "take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0309",
+            "en_US": "Oh, I see. Do forgive the presumption."
+        },
+        {
+            "id": "a003_322_0310",
+            "en_US": [
+                "Oh dear. Your timing is most unfortunate.\n",
+                "I'm afraid I have already accepted{VAR BE00}\n",
+                "another invitation."
+            ]
+        },
+        {
+            "id": "a003_322_0311",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0312",
+            "en_US": [
+                "Thank you very much!{VAR BE01}\n",
+                "Well then, I shall be off.\n",
+                "I shall see you there!"
+            ]
+        },
+        {
+            "id": "a003_322_0313",
+            "en_US": [
+                "Vincent: Hey! It's you! Well, I'm off to\n",
+                "show my brilliance in White Forest!{VAR BE00}\n",
+                "The beautiful forest awaits!"
+            ]
+        },
+        {
+            "id": "a003_322_0314",
+            "en_US": [
+                "Vincent: Living here is a little\n",
+                "boring for a guy like me."
+            ]
+        },
+        {
+            "id": "a003_322_0315",
+            "en_US": [
+                "Vincent: Maybe I would be a good\n",
+                "match for that White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0316",
+            "en_US": [
+                "Vincent: I was considering favoring\n",
+                "that White Forest with a visit. It seems{VAR BE00}\n",
+                "fitting to me, but what do you think?"
+            ]
+        },
+        {
+            "id": "a003_322_0317",
+            "en_US": [
+                "Sorry, I couldn't hear you.\n",
+                "Maybe I'll ask again later."
+            ]
+        },
+        {
+            "id": "a003_322_0318",
+            "en_US": [
+                "Oooh. Sorry!\n",
+                "I'm very popular!{VAR BE00}\n",
+                "I'm already booked up."
+            ]
+        },
+        {
+            "id": "a003_322_0319",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0320",
+            "en_US": [
+                "Well if you really want me\n",
+                "to join you...{VAR BE01}\n",
+                "I guess I'll have to go to White Forest,\n",
+                "then. Just for you!"
+            ]
+        },
+        {
+            "id": "a003_322_0321",
+            "en_US": [
+                "Marie: I'm full of enough energy now!\n",
+                "I'm going to White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0322",
+            "en_US": [
+                "Marie: I'm really tired, and I want\n",
+                "to go back to White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0323",
+            "en_US": [
+                "Marie: I'd like to stretch out my\n",
+                "legs in the spacious White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0324",
+            "en_US": [
+                "Marie: White Forest!\n",
+                "How nice! I want to go too.{VAR BE01}\n",
+                "I've got it! Would you be a\n",
+                "dear and take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0325",
+            "en_US": [
+                "Oh my.\n",
+                "Are you in a bad mood?"
+            ]
+        },
+        {
+            "id": "a003_322_0326",
+            "en_US": [
+                "My oh my. I'm sorry.\n",
+                "I was invited by someone else."
+            ]
+        },
+        {
+            "id": "a003_322_0327",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0328",
+            "en_US": [
+                "Thank you! Thank you!\n",
+                "Well I'll go on ahead then."
+            ]
+        },
+        {
+            "id": "a003_322_0329",
+            "en_US": [
+                "Lena: White Forest...\n",
+                "I've decided to go there."
+            ]
+        },
+        {
+            "id": "a003_322_0330",
+            "en_US": [
+                "Lena: The city refuses nature.\n",
+                "Is that the right thing?{VAR BE00}\n",
+                "I'd like to find out in the forest."
+            ]
+        },
+        {
+            "id": "a003_322_0331",
+            "en_US": [
+                "Lena: Hmm... It's so busy here.\n",
+                "My spirit can never rest."
+            ]
+        },
+        {
+            "id": "a003_322_0332",
+            "en_US": [
+                "Lena: I want to go to that\n",
+                "White Forest too...{VAR BE00}\n",
+                "Mind if I go with you?"
+            ]
+        },
+        {
+            "id": "a003_322_0333",
+            "en_US": [
+                "I see...\n",
+                "Too bad."
+            ]
+        },
+        {
+            "id": "a003_322_0334",
+            "en_US": [
+                "Sorry.\n",
+                "I was invited by someone else..."
+            ]
+        },
+        {
+            "id": "a003_322_0335",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0336",
+            "en_US": [
+                "Thank you.\n",
+                "I'll be waiting in White Forest..."
+            ]
+        },
+        {
+            "id": "a003_322_0337",
+            "en_US": [
+                "Carlos: Heeey! I decided to give\n",
+                "going to White Forest a try.{VAR BE01}\n",
+                "It'll be a laid-back, freewheeling trip!"
+            ]
+        },
+        {
+            "id": "a003_322_0338",
+            "en_US": [
+                "Carlos: I enjoy looking at\n",
+                "the big city, but I miss nature!"
+            ]
+        },
+        {
+            "id": "a003_322_0339",
+            "en_US": [
+                "Carlos: As a Backpacker, I want to go\n",
+                "places where there is beautiful scenery!"
+            ]
+        },
+        {
+            "id": "a003_322_0340",
+            "en_US": [
+                "Carlos: I've had plenty of big-city\n",
+                "flavor. I think that's enough!{VAR BE01}\n",
+                "Hey, you! Could you please\n",
+                "take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0341",
+            "en_US": [
+                "Hmmm... Isn't there any way I could go?\n",
+                "I really want you to take me there..."
+            ]
+        },
+        {
+            "id": "a003_322_0342",
+            "en_US": [
+                "Huh? I'm sorry. I'm going to go\n",
+                "to someone else's place."
+            ]
+        },
+        {
+            "id": "a003_322_0343",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0344",
+            "en_US": [
+                "Oh! Thanks!\n",
+                "Well, I'll head to White Forest then!{VAR BE00}\n",
+                "See you later, OK?"
+            ]
+        },
+        {
+            "id": "a003_322_0345",
+            "en_US": [
+                "Molly: I'm going to White Forest!{VAR BE01}\n",
+                "I'd rather see lots of places\n",
+                "than stay in one spot!"
+            ]
+        },
+        {
+            "id": "a003_322_0346",
+            "en_US": [
+                "Molly: I think I need a\n",
+                "change of scenery soon.{VAR BE01}\n",
+                "I want to see lots of different places!"
+            ]
+        },
+        {
+            "id": "a003_322_0347",
+            "en_US": [
+                "Molly: I want to go somewhere\n",
+                "different soon.{VAR BE00}\n",
+                "Know any nice places?"
+            ]
+        },
+        {
+            "id": "a003_322_0348",
+            "en_US": [
+                "Molly: OK, it's decided!\n",
+                "I'm going to leave this place!{VAR BE01}\n",
+                "That's why I have something to ask you.\n",
+                "Could you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0349",
+            "en_US": [
+                "What? Even though I asked nicely!\n",
+                "I'm crestfallen..."
+            ]
+        },
+        {
+            "id": "a003_322_0350",
+            "en_US": [
+                "I was invited by someone else...\n",
+                "Sorry, but I'm going there."
+            ]
+        },
+        {
+            "id": "a003_322_0351",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0352",
+            "en_US": [
+                "Thank you!\n",
+                "I'll head there right now!{VAR BE01}\n",
+                "See you in White Forest!\n",
+                "Thanks again!"
+            ]
+        },
+        {
+            "id": "a003_322_0353",
+            "en_US": [
+                "Frederic: Sorry, but I'm leaving for\n",
+                "White Forest. I'm preparing for{VAR BE00}\n",
+                "my move now. If you need something,{VAR BE00}\n",
+                "tell me in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0354",
+            "en_US": [
+                "Frederic: My Pokémon are\n",
+                "stubbornly insisting we go{VAR BE00}\n",
+                "to White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0355",
+            "en_US": [
+                "Frederic: White Forest, huh...\n",
+                "My Pokémon are noisily insisting on going."
+            ]
+        },
+        {
+            "id": "a003_322_0356",
+            "en_US": [
+                "Frederic: White Forest, huh...\n",
+                "My Pokémon are noisily insisting on going.{VAR BE01}\n",
+                "Oh hey, I need a favor!{VAR BE01}\n",
+                "Could you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0357",
+            "en_US": [
+                "What? Have you no respect\n",
+                "for your elders? If you come around,{VAR BE00}\n",
+                "I'll be waiting, young one."
+            ]
+        },
+        {
+            "id": "a003_322_0358",
+            "en_US": [
+                "Sorry!{VAR BE01}\n",
+                "I'd completely forgotten, but my\n",
+                "destination has already been decided."
+            ]
+        },
+        {
+            "id": "a003_322_0359",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0360",
+            "en_US": [
+                "Well said. I'm grateful!{VAR BE01}\n",
+                "Well then, I'm going to head\n",
+                "to White Forest. I'll be waiting!"
+            ]
+        },
+        {
+            "id": "a003_322_0361",
+            "en_US": [
+                "Lynette: I'm tired of searching\n",
+                "for strong people.{VAR BE01}\n",
+                "For now, I'm going to relax\n",
+                "in White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0362",
+            "en_US": [
+                "Lynette: I'm tired of living like this. For\n",
+                "now, I just want to rest and recover."
+            ]
+        },
+        {
+            "id": "a003_322_0363",
+            "en_US": [
+                "Lynette: Your White Forest seems\n",
+                "really charming. I'd like to live there."
+            ]
+        },
+        {
+            "id": "a003_322_0364",
+            "en_US": [
+                "Lynette: I'm tired of searching for\n",
+                "my destiny.{VAR BE01}\n",
+                "If it's OK with you, could you\n",
+                "take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0365",
+            "en_US": [
+                "My! I can't believe you are so\n",
+                "rude as to refuse my request."
+            ]
+        },
+        {
+            "id": "a003_322_0366",
+            "en_US": [
+                "I've changed my mind.{VAR BE01}\n",
+                "I found a different, wonderful\n",
+                "person...{VAR BE00}\n",
+                "I'm ever so sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0367",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0368",
+            "en_US": [
+                "I'd like to thank you.{VAR BE01}\n",
+                "I'll try to enjoy a leisurely\n",
+                "life with Pokémon."
+            ]
+        },
+        {
+            "id": "a003_322_0369",
+            "en_US": [
+                "Pierce: I'm a-goin' to White Forest.\n",
+                "I'd like to live the slow life."
+            ]
+        },
+        {
+            "id": "a003_322_0370",
+            "en_US": [
+                "Pierce: Ah, the cultured life\n",
+                "is restless and exhausting."
+            ]
+        },
+        {
+            "id": "a003_322_0371",
+            "en_US": [
+                "Pierce: Hmmm. Your White Forest seems to\n",
+                "be a comfortable place. I'm jealous..."
+            ]
+        },
+        {
+            "id": "a003_322_0372",
+            "en_US": [
+                "Pierce: I'm tired of this restless\n",
+                "life. I want life to be more laid back.{VAR BE01}\n",
+                "Would you take me to your White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0373",
+            "en_US": [
+                "What a shame...\n",
+                "Au revoir, lovely country life!"
+            ]
+        },
+        {
+            "id": "a003_322_0374",
+            "en_US": [
+                "Hey! Sorry!{VAR BE01}\n",
+                "I decided to go to a different\n",
+                "White Forest! Lo siento!"
+            ]
+        },
+        {
+            "id": "a003_322_0375",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0376",
+            "en_US": [
+                "Thank you for taking me with you.{VAR BE01}\n",
+                "I'm going to enjoy the relaxed\n",
+                "life for awhile."
+            ]
+        },
+        {
+            "id": "a003_322_0377",
+            "en_US": [
+                "Gene: I'm going to move to White Forest!\n",
+                "I'm excited about the Pokémon I will{VAR BE00}\n",
+                "encounter in nature!"
+            ]
+        },
+        {
+            "id": "a003_322_0378",
+            "en_US": [
+                "Gene: Hmmm...{VAR BE01}\n",
+                "I'm tired of testing myself as a Trainer.\n",
+                "I want to live the kind of life where I{VAR BE00}\n",
+                "meet Pokémon every day!"
+            ]
+        },
+        {
+            "id": "a003_322_0379",
+            "en_US": [
+                "Gene: It looks like you can meet a lot\n",
+                "of Pokémon in your White Forest!{VAR BE01}\n",
+                "It seems charming."
+            ]
+        },
+        {
+            "id": "a003_322_0380",
+            "en_US": [
+                "Gene: Testing my abilities was\n",
+                "exciting, but I'm tired of it!{VAR BE00}\n",
+                "I want to live while watching Pokémon.{VAR BE01}\n",
+                "Could you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0381",
+            "en_US": [
+                "Whaaat! That's disappointing...\n",
+                "I'll wait for the next opportunity!"
+            ]
+        },
+        {
+            "id": "a003_322_0382",
+            "en_US": [
+                "Hmph! I've definitely changed my mind.{VAR BE01}\n",
+                "I've decided to go to\n",
+                "a different White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0383",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0384",
+            "en_US": [
+                "Ha ha!{VAR BE01}\n",
+                "I'm looking forward to a life where I can\n",
+                "leisurely encounter Pokémon!{VAR BE00}\n",
+                "Hey, thanks!"
+            ]
+        },
+        {
+            "id": "a003_322_0385",
+            "en_US": [
+                "Piper: I'm moving to White Forest now!\n",
+                "I'm looking forward to a fresh start!"
+            ]
+        },
+        {
+            "id": "a003_322_0386",
+            "en_US": [
+                "Piper: Somehow I grew a little\n",
+                "tired of pursuing efficiency...{VAR BE01}\n",
+                "I want to relax in White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0387",
+            "en_US": [
+                "Piper: I hear that your White Forest is\n",
+                "relaxing and has beautiful natural{VAR BE00}\n",
+                "scenery. I envy you..."
+            ]
+        },
+        {
+            "id": "a003_322_0388",
+            "en_US": [
+                "Piper: I want to live a more\n",
+                "relaxed life!{VAR BE01}\n",
+                "Could you take me to White Forest\n",
+                "so I can?"
+            ]
+        },
+        {
+            "id": "a003_322_0389",
+            "en_US": [
+                "Oh...\n",
+                "That's too bad."
+            ]
+        },
+        {
+            "id": "a003_322_0390",
+            "en_US": [
+                "I'm sorry. I've changed my mind.{VAR BE01}\n",
+                "I've decided to go to a\n",
+                "different White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0391",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0392",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "I'm looking forward to leisurely\n",
+                "passing time in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0393",
+            "en_US": [
+                "Miho: I'm going to move to White Forest!{VAR BE01}\n",
+                "I look forward to living\n",
+                "with cute Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_322_0394",
+            "en_US": [
+                "Miho: Recently, I'm tired of\n",
+                "decorating myself...{VAR BE01}\n",
+                "I want to live the slow life\n",
+                "in White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0395",
+            "en_US": [
+                "Miho: I'm jealous. That White Forest\n",
+                "looks like it has many cute Pokémon in it!"
+            ]
+        },
+        {
+            "id": "a003_322_0396",
+            "en_US": [
+                "Miho: I'm tired of shopping and\n",
+                "being fashionable.{VAR BE01}\n",
+                "I want to go to White Forest where\n",
+                "I can be more in my natural state.{VAR BE00}\n",
+                "Would you take me?"
+            ]
+        },
+        {
+            "id": "a003_322_0397",
+            "en_US": "What?! Cheapskate."
+        },
+        {
+            "id": "a003_322_0398",
+            "en_US": [
+                "I'm such a flirt...\n",
+                "Truth is: I found someone else.{VAR BE01}\n",
+                "I decided to go to their White Forest.\n",
+                "I'm sorry."
+            ]
+        },
+        {
+            "id": "a003_322_0399",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0400",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "In White Forest, I'll just live naturally.\n",
+                "I won't try too hard to deck myself out."
+            ]
+        },
+        {
+            "id": "a003_322_0401",
+            "en_US": [
+                "Shane: I'm moving to White Forest.\n",
+                "I'm going to entrust myself to nature.{VAR BE01}\n",
+                "I'm looking forward to it!"
+            ]
+        },
+        {
+            "id": "a003_322_0402",
+            "en_US": [
+                "Shane: Recently, I've been thinking it\n",
+                "would be nice to live in White Forest and{VAR BE00}\n",
+                "just be as I am without worrying about{VAR BE00}\n",
+                "how other people see me."
+            ]
+        },
+        {
+            "id": "a003_322_0403",
+            "en_US": [
+                "Shane: I'm jealous of your\n",
+                "White Forest!{VAR BE00}\n",
+                "I'd like to go too."
+            ]
+        },
+        {
+            "id": "a003_322_0404",
+            "en_US": [
+                "Shane: I've been thinking I just want\n",
+                "to be myself and not worry about how{VAR BE00}\n",
+                "other people judge me.{VAR BE00}\n",
+                "Will you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0405",
+            "en_US": [
+                "Too bad. I wanted to go to\n",
+                "your city."
+            ]
+        },
+        {
+            "id": "a003_322_0406",
+            "en_US": [
+                "Sorry! I decided to follow\n",
+                "someone else. My bad."
+            ]
+        },
+        {
+            "id": "a003_322_0407",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0408",
+            "en_US": [
+                "Thanks a lot!{VAR BE01}\n",
+                "I think I can live just like I am\n",
+                "in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0409",
+            "en_US": [
+                "Ralph: I'm leaving for White Forest right\n",
+                "now! I want to share my feelings with{VAR BE00}\n",
+                "a lot of different people and Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_322_0410",
+            "en_US": [
+                "Ralph: Sigh...\n",
+                "I want to share my feelings{VAR BE00}\n",
+                "with more people and Pokémon.{VAR BE00}\n",
+                "I want to live like that..."
+            ]
+        },
+        {
+            "id": "a003_322_0411",
+            "en_US": [
+                "Ralph: Your White Forest...{VAR BE01}\n",
+                "Seems like everyone can communicate\n",
+                "their feelings to each other.{VAR BE00}\n",
+                "I'm jealous..."
+            ]
+        },
+        {
+            "id": "a003_322_0412",
+            "en_US": [
+                "Ralph: Recently, I've been wanting to\n",
+                "live where I communicate what I'm{VAR BE00}\n",
+                "feeling not only to my opponent, but to{VAR BE00}\n",
+                "more people and Pokémon as well.{VAR BE01}\n",
+                "Please take me to your White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0413",
+            "en_US": [
+                "What... I'm shocked you don't\n",
+                "understand my feelings..."
+            ]
+        },
+        {
+            "id": "a003_322_0414",
+            "en_US": [
+                "Oh!{VAR BE01}\n",
+                "I have another place I want to go\n",
+                "because of a different thing that{VAR BE00}\n",
+                "came up! Sorry!"
+            ]
+        },
+        {
+            "id": "a003_322_0415",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0416",
+            "en_US": [
+                "I'm really happy.{VAR BE01}\n",
+                "Now, I can live a life where I communicate\n",
+                "my feelings to many people and Pokémon."
+            ]
+        },
+        {
+            "id": "a003_322_0417",
+            "en_US": [
+                "Eliza: I'm leaving for White Forest!\n",
+                "I wonder what kind of place it is?"
+            ]
+        },
+        {
+            "id": "a003_322_0418",
+            "en_US": [
+                "Eliza: You can get anything in\n",
+                "Black City, but it feels{VAR BE00}\n",
+                "like something's missing."
+            ]
+        },
+        {
+            "id": "a003_322_0419",
+            "en_US": [
+                "Eliza: White Forest seems\n",
+                "spiritually fulfilling.{VAR BE00}\n",
+                "I'm jealous that you can live like that..."
+            ]
+        },
+        {
+            "id": "a003_322_0420",
+            "en_US": [
+                "Eliza: In Black City, you can\n",
+                "get whatever you want, but{VAR BE00}\n",
+                "something is missing.{VAR BE01}\n",
+                "That's it! Would you take\n",
+                "me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0421",
+            "en_US": [
+                "Is that so...\n",
+                "Too bad..."
+            ]
+        },
+        {
+            "id": "a003_322_0422",
+            "en_US": [
+                "I've changed my mind.\n",
+                "I'm going to a different White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0423",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0424",
+            "en_US": [
+                "I'm so happy!{VAR BE01}\n",
+                "I'm looking forward\n",
+                "to living in White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0425",
+            "en_US": [
+                "Collin: Opportunities! Business\n",
+                "opportunities galore in White Forest! {VAR BE00}\n",
+                "Piles of money, here I come!"
+            ]
+        },
+        {
+            "id": "a003_322_0426",
+            "en_US": [
+                "Collin: Even if I think of something,\n",
+                "usually someone has beaten me to it!{VAR BE01}\n",
+                "Making money isn't easy!"
+            ]
+        },
+        {
+            "id": "a003_322_0427",
+            "en_US": [
+                "Collin: I've looked for business\n",
+                "opportunities only found in the big city,{VAR BE00}\n",
+                "but nothing that interesting is{VAR BE00}\n",
+                "rolling my way..."
+            ]
+        },
+        {
+            "id": "a003_322_0428",
+            "en_US": [
+                "Collin: Opportunities\n",
+                "didn't exist here!{VAR BE01}\n",
+                "Going after business off the beaten\n",
+                "path is more my style!{VAR BE01}\n",
+                "Hate to be a bother, but can you\n",
+                "take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0429",
+            "en_US": [
+                "A Clerk ⑭ has to be patient.\n",
+                "I'll wait until you are ready to take me!"
+            ]
+        },
+        {
+            "id": "a003_322_0430",
+            "en_US": [
+                "Oh! I just thought of another\n",
+                "business opportunity!{VAR BE00}\n",
+                "Sorry, but I'm going somewhere else!"
+            ]
+        },
+        {
+            "id": "a003_322_0431",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0432",
+            "en_US": [
+                "All right!{VAR BE01}\n",
+                "In White Forest, I'm going\n",
+                "to be a success!"
+            ]
+        },
+        {
+            "id": "a003_322_0433",
+            "en_US": [
+                "Ken: I'm leaving for White Forest!{VAR BE01}\n",
+                "I'm going to obtain a wide variety\n",
+                "of knowledge in a new place!"
+            ]
+        },
+        {
+            "id": "a003_322_0434",
+            "en_US": [
+                "Ken: In Black City, all I do\n",
+                "is Pokémon battling...{VAR BE01}\n",
+                "If I think about it, there's something\n",
+                "missing for me as a Trainer.{VAR BE01}\n",
+                "I want to spend time in an environment\n",
+                "that will give me a wider point of view."
+            ]
+        },
+        {
+            "id": "a003_322_0435",
+            "en_US": [
+                "Ken: Your White Forest seems like a\n",
+                "place with a lot of Pokémon.{VAR BE01}\n",
+                "I'm jealous, because you can widen your\n",
+                "horizons."
+            ]
+        },
+        {
+            "id": "a003_322_0436",
+            "en_US": [
+                "Ken: As a Pokémon Trainer, I want to look\n",
+                "at Pokémon from a wider point of view.{VAR BE01}\n",
+                "Will you please take me to your forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0437",
+            "en_US": [
+                "Really.\n",
+                "I'll ask someone else."
+            ]
+        },
+        {
+            "id": "a003_322_0438",
+            "en_US": [
+                "I've changed my mind.{VAR BE01}\n",
+                "I'm going to go to a\n",
+                "different White Forest."
+            ]
+        },
+        {
+            "id": "a003_322_0439",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0440",
+            "en_US": [
+                "OK! I'm going to widen my point\n",
+                "of view as a Trainer in White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0441",
+            "en_US": [
+                "Jacques: I want to find a variety of\n",
+                "answers, so I'm going to White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0442",
+            "en_US": [
+                "Jacques: Sigh...{VAR BE01}\n",
+                "I want research in an environment\n",
+                "where I get many different answers..."
+            ]
+        },
+        {
+            "id": "a003_322_0443",
+            "en_US": [
+                "Jacques: Your White Forest...{VAR BE01}\n",
+                "It's full of variations! It looks like\n",
+                "I can do my research there!"
+            ]
+        },
+        {
+            "id": "a003_322_0444",
+            "en_US": [
+                "Jacques: It seems like there is really\n",
+                "a lot of variation in your White Forest.{VAR BE01}\n",
+                "It seems like it might enhance\n",
+                "my research!{VAR BE01}\n",
+                "Would you take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0445",
+            "en_US": [
+                "I'm really disappointed by\n",
+                "your clear answer!"
+            ]
+        },
+        {
+            "id": "a003_322_0446",
+            "en_US": [
+                "Oh, I've decided to go to a\n",
+                "different White Forest!{VAR BE01}\n",
+                "The answers I'm looking\n",
+                "for are there!"
+            ]
+        },
+        {
+            "id": "a003_322_0447",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0448",
+            "en_US": [
+                "Oh!\n",
+                "Thank you!"
+            ]
+        },
+        {
+            "id": "a003_322_0449",
+            "en_US": [
+                "Rosa: I'm leaving for White Forest!\n",
+                "It seems like there, I can live each{VAR BE00}\n",
+                "day to the fullest!"
+            ]
+        },
+        {
+            "id": "a003_322_0450",
+            "en_US": [
+                "Rosa: Just living, killing time\n",
+                "from day to day...{VAR BE01}\n",
+                "Recently, I've been wondering\n",
+                "if this is a good way to live."
+            ]
+        },
+        {
+            "id": "a003_322_0451",
+            "en_US": [
+                "Rosa: Your White Forest looks like\n",
+                "a place where you can live to the fullest.{VAR BE00}\n",
+                "I'm jealous."
+            ]
+        },
+        {
+            "id": "a003_322_0452",
+            "en_US": [
+                "Rosa: I want to treat every day with\n",
+                "more importance.{VAR BE01}\n",
+                "Won't you take me\n",
+                "to your White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0453",
+            "en_US": [
+                "My!\n",
+                "Aren't you the selfish one!"
+            ]
+        },
+        {
+            "id": "a003_322_0454",
+            "en_US": [
+                "I've changed my mind.\n",
+                "I'm going to a different place!"
+            ]
+        },
+        {
+            "id": "a003_322_0455",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0456",
+            "en_US": [
+                "Oh boy!{VAR BE01}\n",
+                "Living life to the fullest!\n",
+                "I'm looking forward to it!"
+            ]
+        },
+        {
+            "id": "a003_322_0457",
+            "en_US": [
+                "Herman: Next, I'm going to White Forest!\n",
+                "Are you jealous?"
+            ]
+        },
+        {
+            "id": "a003_322_0458",
+            "en_US": [
+                "Herman: Aaah...\n",
+                "I want to go to White Forest!{VAR BE01}\n",
+                "I'm tired of this wandering life."
+            ]
+        },
+        {
+            "id": "a003_322_0459",
+            "en_US": [
+                "Herman: White Forest seems\n",
+                "like a place that's easy to live in.{VAR BE00}\n",
+                "I'd like to go sometime!"
+            ]
+        },
+        {
+            "id": "a003_322_0460",
+            "en_US": [
+                "Herman: I'm getting tired of\n",
+                "living here!{VAR BE01}\n",
+                "Could you take me to White Forest?"
+            ]
+        },
+        {
+            "id": "a003_322_0461",
+            "en_US": "Fine. Whatever."
+        },
+        {
+            "id": "a003_322_0462",
+            "en_US": [
+                "Changed my mind!\n",
+                "I'm setting off for a different place!"
+            ]
+        },
+        {
+            "id": "a003_322_0463",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0464",
+            "en_US": [
+                "All right! Thanks!\n",
+                "I'm looking forward to my next trip!"
+            ]
+        },
+        {
+            "id": "a003_322_0465",
+            "en_US": [
+                "Emi: I'm setting off for my next place!\n",
+                "White Forest! It looks like fun, right?"
+            ]
+        },
+        {
+            "id": "a003_322_0466",
+            "en_US": [
+                "Emi: Oh, I want to set off for my\n",
+                "next destination soon!"
+            ]
+        },
+        {
+            "id": "a003_322_0467",
+            "en_US": [
+                "Emi: White Forest sounds nice!\n",
+                "I'd like to go there!"
+            ]
+        },
+        {
+            "id": "a003_322_0468",
+            "en_US": [
+                "Emi: I don't have a goal for my\n",
+                "next trip! I want to relax.{VAR BE01}\n",
+                "White Forest sounds nice.\n",
+                "Hey, will you take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0469",
+            "en_US": [
+                "What?!\n",
+                "Too bad..."
+            ]
+        },
+        {
+            "id": "a003_322_0470",
+            "en_US": [
+                "Uh, I've given up on that!{VAR BE01}\n",
+                "I decided to go to a\n",
+                "different White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0471",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0472",
+            "en_US": [
+                "Thank you!{VAR BE01}\n",
+                "Looks like my next\n",
+                "trip will be fun!"
+            ]
+        },
+        {
+            "id": "a003_322_0473",
+            "en_US": [
+                "Grace: I'm searching for bold, new art!\n",
+                "Next, I'm going to White Forest!"
+            ]
+        },
+        {
+            "id": "a003_322_0474",
+            "en_US": [
+                "Grace: I think beauty made\n",
+                "only by people is not enough...{VAR BE00}\n",
+                "Don't you feel that way?"
+            ]
+        },
+        {
+            "id": "a003_322_0475",
+            "en_US": [
+                "Grace: White Forest...\n",
+                "Now, that is art created by nature.{VAR BE00}\n",
+                "I want to see it with my own eyes!"
+            ]
+        },
+        {
+            "id": "a003_322_0476",
+            "en_US": [
+                "Grace: White Forest...\n",
+                "Now that is art created by nature!{VAR BE00}\n",
+                "I want to see it with my own eyes.{VAR BE01}\n",
+                "You...\n",
+                "Could you take me there?"
+            ]
+        },
+        {
+            "id": "a003_322_0477",
+            "en_US": [
+                "Your direct answer is\n",
+                "also beautiful."
+            ]
+        },
+        {
+            "id": "a003_322_0478",
+            "en_US": [
+                "Oh, what was that?{VAR BE01}\n",
+                "Oh, that's right.\n",
+                "I'm going to a different White Forest.{VAR BE00}\n",
+                "Sorry I changed my mind like that."
+            ]
+        },
+        {
+            "id": "a003_322_0479",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_322_0480",
+            "en_US": [
+                "Thank you.{VAR BE01}\n",
+                "I'm looking forward to the\n",
+                "beauty of White Forest!"
+            ]
+        }
+    ]
+}

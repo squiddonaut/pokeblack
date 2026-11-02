@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "pad": "5e5e",
+    "messages": [
+        {
+            "id": "a003_105_0000",
+            "en_US": [
+                "TV programs can sometimes teach you\n",
+                "about Pokémon's moves and Abilities."
+            ]
+        },
+        {
+            "id": "a003_105_0001",
+            "en_US": [
+                "There are Pokémon that evolve when\n",
+                "they're traded!{VAR BE01}\n",
+                "Awesome! But why do they evolve?!"
+            ]
+        },
+        {
+            "id": "a003_105_0002",
+            "en_US": "Skee!"
+        }
+    ]
+}

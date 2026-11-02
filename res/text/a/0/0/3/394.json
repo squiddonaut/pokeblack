@@ -1,0 +1,37 @@
+{
+    "flags": 224,
+    "pad": "9c9c",
+    "messages": [
+        {
+            "id": "a003_394_0000",
+            "en_US": [
+                "Halt! The key to open this gate\n",
+                "is the Freeze Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_394_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_394_0002",
+            "en_US": [
+                "Oh, holder of the Freeze Badge!\n",
+                "Show the sharp edge of an icicle!"
+            ]
+        },
+        {
+            "id": "a003_394_0003",
+            "en_US": [
+                "First, obtain the Freeze Badge\n",
+                "from the Icirrus Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_394_0004",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

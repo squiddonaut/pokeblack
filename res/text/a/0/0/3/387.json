@@ -1,0 +1,187 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_387_0000",
+            "en_US": [
+                "Cheren: Stop!{VAR BE01}\n",
+                "{VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0001",
+            "en_US": [
+                "Drayden and Professor Juniper told me.\n",
+                "You're heading for the{VAR BE00}\n",
+                "Pokémon League, right?"
+            ]
+        },
+        {
+            "id": "a003_387_0002",
+            "en_US": [
+                "Cheren: Since it's Alder...\n",
+                "Since it's the Champion,{VAR BE00}\n",
+                "I think it will be all right.{VAR BE01}\n",
+                "Worst-case scenario...\n",
+                "you'll be battling Team Plasma's boss, N.{VAR BE01}\n",
+                "I need to know if you can handle it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0003",
+            "en_US": [
+                "Cheren: Now is not the time for modesty.{VAR BE01}\n",
+                "Worst-case scenario, you'll be battling\n",
+                "Team Plasma's boss, N!{VAR BE01}\n",
+                "I need proof you can handle it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0004",
+            "en_US": [
+                "Cheren: Yep, you are something else.\n",
+                "And I mean that sincerely.{VAR BE01}\n",
+                "Right. Now, I have to make\n",
+                "your Pokémon healthy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0005",
+            "en_US": [
+                "Cheren fully healed\n",
+                "{VAR 0100 0000}'s Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_387_0006",
+            "en_US": [
+                "Cheren: Right now, there's no way\n",
+                "I can compete with you, {VAR 0100 0000}.{VAR BE01}\n",
+                "If there is anything I can do to help in\n",
+                "the battle with N, just say so...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0007",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}...{VAR BE01}\n",
+                "There's not much I can do to help you,\n",
+                "but I want you to have these!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0008",
+            "en_US": [
+                "Bianca: Still, it's kind of funny.\n",
+                "Everyone's so different.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0009",
+            "en_US": [
+                "Cheren: Funny?\n",
+                "At a time like this...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0010",
+            "en_US": [
+                "Bianca: Come on, Cheren.\n",
+                "Could you smile just for once?{VAR BE01}\n",
+                "Taking everything so seriously all the\n",
+                "time isn't going to change anything.{VAR BE01}\n",
+                "You know... Since we've met our Pokémon\n",
+                "and walked the same roads together,{VAR BE00}\n",
+                "a lot has happened...{VAR BE00}\n",
+                "We've all changed a lot!{VAR BE01}\n",
+                "We found out that the things we want\n",
+                "to do and the things we can do{VAR BE00}\n",
+                "are different for each of us, right?{VAR BE01}\n",
+                "That's what's made our journey\n",
+                "so worth it.{VAR BE00}\n",
+                "Somehow, all this just makes me happy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0011",
+            "en_US": [
+                "Cheren: ...So that's what you mean.{VAR BE01}\n",
+                "...You are right that we're all different\n",
+                "and we should do the things{VAR BE00}\n",
+                "that we can do.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_387_0013",
+            "en_US": [
+                "Cheren: There are as many\n",
+                "truths and ideals as there{VAR BE00}\n",
+                "are people and Pokémon.{VAR BE01}\n",
+                "The most important thing is\n",
+                "that we help one another out.{VAR BE01}\n",
+                "That's why people and Pokémon\n",
+                "are always by each other's side.{VAR BE00}\n",
+                "That's what I've come to think lately...{VAR BE01}\n",
+                "{VAR 0100 0000}!\n",
+                "If anything happens to you or Alder,{VAR BE00}\n",
+                "I will do everything I can to help you.{VAR BE01}\n",
+                "That's why I have to keep training and\n",
+                "getting stronger.{VAR BE00}\n",
+                "Just...don't be reckless, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0014",
+            "en_US": "Bianca: He's gone.{VAR BE01}"
+        },
+        {
+            "id": "a003_387_0015",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "Me, too! I'll do my best to help if I can!{VAR BE01}\n",
+                "So...\n",
+                "Umm...{VAR BE01}\n",
+                "I wish I could say something, like,\n",
+                "totally inspiring, you know?{VAR BE01}\n",
+                "Umm...\n",
+                "OK... Best foot forward!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0016",
+            "en_US": [
+                "You made it this far. Well done.\n",
+                "That's an impressive accomplishment.{VAR BE01}\n",
+                "To show the respect I feel for you,\n",
+                "I would like to present you with this gift.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_387_0017",
+            "en_US": [
+                "It's a Dusk Stone.\n",
+                "This item makes certain Pokémon evolve.{VAR BE01}\n",
+                "I used one to evolve a Lampent\n",
+                "from the Celestial Tower."
+            ]
+        },
+        {
+            "id": "a003_387_0018",
+            "en_US": "Route 10",
+            "flags": 207
+        },
+        {
+            "id": "a003_387_0019",
+            "en_US": [
+                "Badge Check Gates\n",
+                "Open the gates and change history!"
+            ],
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_179_0000",
+            "en_US": "CONTINUE",
+            "flags": 144
+        },
+        {
+            "id": "a002_179_0001",
+            "en_US": "NEW GAME",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0002",
+            "en_US": "MYSTERY GIFT",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0003",
+            "en_US": "NINTENDO WFC SETTINGS",
+            "flags": 152
+        },
+        {
+            "id": "a002_179_0004",
+            "en_US": "BATTLE COMPETITION",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0005",
+            "en_US": "GAME SYNC SETTINGS",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0006",
+            "en_US": "RELOCATOR",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0007",
+            "en_US": "MIC TEST",
+            "flags": 136
+        },
+        {
+            "id": "a002_179_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_179_0009",
+            "en_US": "Time: {VAR 0202 0000}:{VAR 0201 0001}",
+            "flags": 144
+        },
+        {
+            "id": "a002_179_0010",
+            "en_US": "Pokédex: {VAR 0202 0000}",
+            "flags": 104
+        },
+        {
+            "id": "a002_179_0011",
+            "en_US": "Badges: {VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_179_0012",
+            "en_US": "{VAR 0100 0000}",
+            "flags": 64
+        },
+        {
+            "id": "a002_179_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_179_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_179_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_179_0016",
+            "en_US": "{VAR 0105 0000}",
+            "flags": 120
+        },
+        {
+            "id": "a002_179_0017",
+            "en_US": [
+                "Wireless communications are turned OFF.\n",
+                "Turn wireless communications ON{VAR BE00}\n",
+                "in the System Settings.{VAR BE00}\n",
+                "Error code: 50699"
+            ]
+        },
+        {
+            "id": "a002_179_0018",
+            "en_US": [
+                "Communication restrictions\n",
+                "using Parental Controls"
+            ]
+        },
+        {
+            "id": "a002_179_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_179_0020",
+            "en_US": "Warning!"
+        },
+        {
+            "id": "a002_179_0021",
+            "en_US": [
+                "You can enjoy this game to its fullest when\n",
+                "wireless communications are available.\n",
+                "Where it's prohibited to use wireless\n",
+                "communications, such as airplanes and\n",
+                "hospitals, please set wireless\n",
+                "communications to OFF.\n",
+                "You can also change this setting\n",
+                "using the C-Gear while playing the game."
+            ]
+        },
+        {
+            "id": "a002_179_0022",
+            "en_US": "Warning!"
+        },
+        {
+            "id": "a002_179_0023",
+            "en_US": [
+                "There's already a saved\n",
+                "game file. If you start an adventure now,\n",
+                "you won't be able to save it.\n",
+                "Are you sure you want to start anyway?"
+            ]
+        },
+        {
+            "id": "a002_179_0024",
+            "en_US": "A Button: Begin adventure"
+        },
+        {
+            "id": "a002_179_0025",
+            "en_US": "B Button: Return to the menu"
+        },
+        {
+            "id": "a002_179_0026",
+            "en_US": "Launch C-Gear communications?"
+        },
+        {
+            "id": "a002_179_0027",
+            "en_US": [
+                "Some functions of the C-Gear\n",
+                "will be restricted. Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_179_0028",
+            "en_US": [
+                "The save file will be erased\n",
+                "due to corruption or damage."
+            ]
+        },
+        {
+            "id": "a002_179_0029",
+            "en_US": [
+                "A Battle Video appears to have been\n",
+                "erased."
+            ]
+        },
+        {
+            "id": "a002_179_0030",
+            "en_US": [
+                "The Skin data for C-Gear\n",
+                "has been erased."
+            ]
+        },
+        {
+            "id": "a002_179_0031",
+            "en_US": [
+                "The special data for Battle Test\n",
+                "has been erased."
+            ]
+        },
+        {
+            "id": "a002_179_0032",
+            "en_US": [
+                "The Musical music data\n",
+                "has been erased."
+            ]
+        },
+        {
+            "id": "a002_179_0033",
+            "en_US": [
+                "The Skin data for Pokédex\n",
+                "has been erased."
+            ]
+        },
+        {
+            "id": "a002_179_0034",
+            "en_US": [
+                "Your Hall of Fame data\n",
+                "has been erased."
+            ]
+        },
+        {
+            "id": "a002_179_0035",
+            "en_US": [
+                "Your Mystery Gift data\n",
+                "has been erased."
+            ]
+        }
+    ]
+}

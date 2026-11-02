@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "pad": "bcbc",
+    "messages": [
+        {
+            "id": "a003_134_0000",
+            "en_US": [
+                "The more this city develops, the more\n",
+                "futuristic it will become.{VAR BE01}\n",
+                "I'm sure of this!\n",
+                "I want to grow up quickly!"
+            ]
+        },
+        {
+            "id": "a003_134_0001",
+            "en_US": [
+                "If I had cherished old things, they could\n",
+                "have reminded me of old days...{VAR BE01}\n",
+                "I totally forgot what I was like when I\n",
+                "was a child.{VAR BE01}\n",
+                "I think I was hoping to grow\n",
+                "up quickly..."
+            ]
+        },
+        {
+            "id": "a003_134_0002",
+            "en_US": "Your {VAR 0101 0000}...{VAR BE01}"
+        },
+        {
+            "id": "a003_134_0003",
+            "en_US": "put in a great effort!"
+        },
+        {
+            "id": "a003_134_0004",
+            "en_US": "looks like it can try a little harder."
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a003_447_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0007",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0008",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0009",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0010",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0011",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0012",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0013",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0014",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0015",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0016",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0017",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0018",
+            "en_US": ""
+        },
+        {
+            "id": "a003_447_0019",
+            "en_US": [
+                "My Pokémon is always running off\n",
+                "to go play on its own.{VAR BE01}\n",
+                "But it always comes back before dark,\n",
+                "so I guess it's OK."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_447_0020",
+            "en_US": "Gahoohoo...",
+            "flags": 224
+        },
+        {
+            "id": "a003_447_0021",
+            "en_US": [
+                "This is Lacunosa Town. Here, everyone\n",
+                "lives according to the rules, from the{VAR BE00}\n",
+                "moment they awaken to the time they{VAR BE00}\n",
+                "go to sleep."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_447_0022",
+            "en_US": [
+                "At night, a scary monster comes out of\n",
+                "the big hole, so you have to go home{VAR BE00}\n",
+                "and be good!"
+            ],
+            "flags": 224
+        }
+    ]
+}

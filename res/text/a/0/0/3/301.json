@@ -1,0 +1,860 @@
+{
+    "flags": 224,
+    "pad": "0a0a",
+    "messages": [
+        {
+            "id": "a003_301_0000",
+            "en_US": [
+                "N: {VAR BE09 0001}What I desire is a world for Pokémon,\n",
+                "and Pokémon alone.{VAR BE01}\n",
+                "I will separate Pokémon from people, so\n",
+                "Pokémon can regain their original power.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0001",
+            "en_US": [
+                "{VAR BE09 0001}It's time to settle this once and for all!{VAR BE01}\n",
+                "My determination is absolute!{VAR BE01}\n",
+                "I will prove the value of my beliefs even\n",
+                "if it means my Pokémon friends get hurt!{VAR BE01}\n",
+                "Since you've come this far,\n",
+                "I believe you are equally determined.{VAR BE01}\n",
+                "If that's so, prove it to me!\n",
+                "Show me the depth of your determination!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0002",
+            "en_US": [
+                "N: {VAR BE09 0001}What I desire is a world for Pokémon,\n",
+                "and Pokémon alone.{VAR BE01}\n",
+                "I will separate Pokémon from people, so\n",
+                "Pokémon can regain their original power.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0003",
+            "en_US": [
+                "{VAR BE09 0001}It's time to settle this once and for all!{VAR BE01}\n",
+                "My determination is absolute!{VAR BE01}\n",
+                "I will prove the value of my beliefs even\n",
+                "if it means my Pokémon friends get hurt!{VAR BE01}\n",
+                "Since you've come this far,\n",
+                "I believe you are equally determined.{VAR BE01}\n",
+                "If that's so, prove it to me!\n",
+                "Show me the depth of your determination!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0006",
+            "en_US": [
+                "N: {VAR BE09 0001}You came all this way to battle me...\n",
+                "But Zekrom is not responding.{VAR BE01}\n",
+                "You haven't yet been recognized\n",
+                "as the hero, have you?{VAR BE01}\n",
+                "How disappointing.{VAR BE01}\n",
+                "I actually kind of liked you a little.{VAR BE01}\n",
+                "Through our many battles, I got the\n",
+                "feeling that you might be a Trainer{VAR BE00}\n",
+                "who truly cares for Pokémon!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0007",
+            "en_US": [
+                "N: {VAR BE09 0001}You came all this way to battle me...\n",
+                "But Reshiram is not responding.{VAR BE01}\n",
+                "You haven't yet been recognized\n",
+                "as the hero, have you?{VAR BE01}\n",
+                "How disappointing.{VAR BE01}\n",
+                "I actually kind of liked you a little.{VAR BE01}\n",
+                "Through our many battles, I got the\n",
+                "feeling that you might be a Trainer{VAR BE00}\n",
+                "who truly cares for Pokémon!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0008",
+            "en_US": [
+                "{VAR BE09 0001}But I was kidding myself.{VAR BE01}\n",
+                "The idea of Trainers getting to know\n",
+                "each other through battles is ridiculous!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0009",
+            "en_US": [
+                "{VAR BE09 0001}You have two options.{VAR BE01}\n",
+                "Challenge me to a fight you can't win,\n",
+                "or leave this place and watch the birth{VAR BE00}\n",
+                "of a new world where Pokémon{VAR BE00}\n",
+                "are free of people!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0010",
+            "en_US": [
+                "{VAR BE09 0001}But I was kidding myself.{VAR BE01}\n",
+                "The idea of Trainers getting to know\n",
+                "each other through battles is ridiculous!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0011",
+            "en_US": [
+                "{VAR BE09 0001}You have two options.{VAR BE01}\n",
+                "Challenge me to a fight you can't win,\n",
+                "or leave this place and watch the birth{VAR BE00}\n",
+                "of a new world where Pokémon{VAR BE00}\n",
+                "are free of people!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0012",
+            "en_US": "N: {VAR BE09 0001}Reshiram! Come to me!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0013",
+            "en_US": "N: {VAR BE09 0001}Zekrom! Come to me!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0014",
+            "en_US": [
+                "The Dark Stone...\n",
+                "It's trembling inside the Bag!"
+            ]
+        },
+        {
+            "id": "a003_301_0015",
+            "en_US": [
+                "The Light Stone...\n",
+                "It's trembling inside the Bag!"
+            ]
+        },
+        {
+            "id": "a003_301_0016",
+            "en_US": [
+                "N: {VAR BE09 0001}Your Dark Stone is...{VAR BE01}\n",
+                "I mean, Zekrom is...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0017",
+            "en_US": [
+                "N: {VAR BE09 0001}Your Light Stone is...{VAR BE01}\n",
+                "I mean, Reshiram is...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0018",
+            "en_US": [
+                "The Dark Stone draws in the aura of\n",
+                "the surroundings and converts it into{VAR BE00}\n",
+                "a powerful force, which is...now...{VAR BE01}\n",
+                "Being released!"
+            ]
+        },
+        {
+            "id": "a003_301_0019",
+            "en_US": [
+                "The Light Stone draws in the aura of\n",
+                "the surroundings and converts it into{VAR BE00}\n",
+                "a powerful force, which is...now...{VAR BE01}\n",
+                "Being released!"
+            ]
+        },
+        {
+            "id": "a003_301_0020",
+            "en_US": [
+                "N: {VAR BE09 0001}Reshiram and Zekrom...{VAR BE01}\n",
+                "They were once one life.\n",
+                "One Pokémon.{VAR BE01}\n",
+                "Complete opposites, yet the same.{VAR BE01}\n",
+                "Reshiram and Zekrom are Pokémon that\n",
+                "appear before the hero they recognize.{VAR BE01}\n",
+                "Ah... I see.\n",
+                "You really are a hero, too.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0021",
+            "en_US": [
+                "N: {VAR BE09 0001}Zekrom and Reshiram...{VAR BE01}\n",
+                "They were once one life.\n",
+                "One Pokémon.{VAR BE01}\n",
+                "Complete opposites, yet the same.{VAR BE01}\n",
+                "Zekrom and Reshiram are Pokémon that\n",
+                "appear before the hero they recognize.{VAR BE01}\n",
+                "Ah... I see.\n",
+                "You really are a hero, too.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0022",
+            "en_US": [
+                "{VAR BE09 0001}I'll tell you what that\n",
+                "Pokémon is saying to you.{VAR BE01}\n",
+                "“I want to battle with you.\n",
+                "Try to make me your friend and ally.\"{VAR BE01}\n",
+                "It plans to test you to see if you are\n",
+                "really pursuing ideals.{VAR BE01}\n",
+                "I, also, am curious to see\n",
+                "how powerful you are.{VAR BE01}\n",
+                "Now, catch Zekrom and make it your ally!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0023",
+            "en_US": [
+                "{VAR BE09 0001}I'll tell you what that\n",
+                "Pokémon is saying to you.{VAR BE01}\n",
+                "“I want to battle with you.\n",
+                "Try to make me your friend and ally.\"{VAR BE01}\n",
+                "It plans to test you to see if you are\n",
+                "really pursuing truth.{VAR BE01}\n",
+                "I, also, am curious to see\n",
+                "how powerful you are.{VAR BE01}\n",
+                "Now, catch Reshiram\n",
+                "and make it your ally!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0024",
+            "en_US": "Bazzazzazzash!"
+        },
+        {
+            "id": "a003_301_0025",
+            "en_US": "Preeeeaah!"
+        },
+        {
+            "id": "a003_301_0026",
+            "en_US": [
+                "Zekrom is gazing at {VAR 0100 0000} as if\n",
+                "to say, “Try to catch me!\""
+            ]
+        },
+        {
+            "id": "a003_301_0027",
+            "en_US": [
+                "Reshiram is gazing at {VAR 0100 0000} as if\n",
+                "to say, “Try to catch me!\""
+            ]
+        },
+        {
+            "id": "a003_301_0028",
+            "en_US": [
+                "N: {VAR BE09 0001}Ah... I see.{VAR BE01}\n",
+                "Zekrom, who is said to lend its power\n",
+                "to the hero who searches for ideals,{VAR BE00}\n",
+                "has recognized your power{VAR BE00}\n",
+                "and now agrees to stand by your side...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0029",
+            "en_US": [
+                "N: {VAR BE09 0001}Ah... I see.{VAR BE01}\n",
+                "Reshiram, who is said to lend its power\n",
+                "to the hero who searches for truth,{VAR BE00}\n",
+                "has recognized your power{VAR BE00}\n",
+                "and now agrees to stand by your side... {VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0030",
+            "en_US": [
+                "N: {VAR BE09 0001}Hold on. Your Pokémon are hurt.{VAR BE01}\n",
+                "There is no triumph to be gained in\n",
+                "battling a weakened opponent.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0031",
+            "en_US": "N fully restored {VAR 0100 0000}'s Pokémon!"
+        },
+        {
+            "id": "a003_301_0032",
+            "en_US": [
+                "N: {VAR BE09 0001}Now, I will create the future I desire!{VAR BE01}\n",
+                "I shall sweep you before me!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0033",
+            "en_US": [
+                "N: {VAR BE09 0001}...\n",
+                "...{VAR BE01}\n",
+                "Reshiram and I were beaten.{VAR BE01}\n",
+                "Your ideals... Your feelings...\n",
+                "They were stronger than mine, it seems...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0034",
+            "en_US": [
+                "N: {VAR BE09 0001}...\n",
+                "...{VAR BE01}\n",
+                "Zekrom and I were beaten.{VAR BE01}\n",
+                "Your truth... Your feelings...\n",
+                "They were stronger than mine, it seems...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0035",
+            "en_US": [
+                "N: {VAR BE09 0001}Zekrom and Reshiram...{VAR BE01}\n",
+                "Each of them choosing a different hero...\n",
+                "Is that even possible?{VAR BE01}\n",
+                "Two heroes living at the same time--\n",
+                "one that pursues ideals and{VAR BE00}\n",
+                "one that pursues truth.{VAR BE00}\n",
+                "Could...could they both be right?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0036",
+            "en_US": [
+                "{VAR BE09 0001}I don't know.{VAR BE01}\n",
+                "It's not by rejecting different ideas,\n",
+                "but by accepting different ideas that{VAR BE00}\n",
+                "the world creates a chemical reaction.{VAR BE01}\n",
+                "This is truly the formula\n",
+                "for changing the world.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0037",
+            "en_US": [
+                "N: {VAR BE09 0001}Reshiram and Zekrom...{VAR BE01}\n",
+                "Each of them choosing a different hero...\n",
+                "Is that even possible?{VAR BE01}\n",
+                "Two heroes living at the same time--\n",
+                "one that pursues truth and{VAR BE00}\n",
+                "one that pursues ideals.{VAR BE00}\n",
+                "Could... Could they both be right?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0038",
+            "en_US": [
+                "{VAR BE09 0001}I don't know.{VAR BE01}\n",
+                "It's not by rejecting different ideas,\n",
+                "but by accepting different ideas that{VAR BE00}\n",
+                "the world creates a chemical reaction.{VAR BE01}\n",
+                "This is truly the formula\n",
+                "for changing the world.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0039",
+            "en_US": [
+                "Ghetsis: After all of that, do you think\n",
+                "you're still worthy of sharing the name{VAR BE00}\n",
+                "Harmonia with me?{VAR BE01}\n",
+                "You good-for-nothing boy!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0040",
+            "en_US": [
+                "Ghetsis: To start with, I spurred N into\n",
+                "pursuing the truth. The reason we{VAR BE00}\n",
+                "reawakened the legendary Pokémon now{VAR BE00}\n",
+                "was to give MY Team Plasma more power!{VAR BE01}\n",
+                "Power to control the fearful masses!\n",
+                "That at least was well done.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0041",
+            "en_US": [
+                "Ghetsis: To start with, I spurred N into\n",
+                "pursuing ideals. The reason we{VAR BE00}\n",
+                "reawakened the legendary Pokémon now{VAR BE00}\n",
+                "was to give MY Team Plasma more power!{VAR BE01}\n",
+                "Power to control the fearful masses!\n",
+                "That at least was well done.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0042",
+            "en_US": [
+                "After saying you had to put your beliefs\n",
+                "on the line and battle to see which one{VAR BE00}\n",
+                "chosen by the legendary Pokémon was{VAR BE00}\n",
+                "the true hero...{VAR BE01}\n",
+                "You lost to an ordinary Trainer!\n",
+                "There is such a thing as being too stupid!{VAR BE01}\n",
+                "Add it up, and you are nothing more\n",
+                "than a warped, defective boy{VAR BE00}\n",
+                "who knows nothing but Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0043",
+            "en_US": [
+                "{VAR 0100 0000}! I never would have\n",
+                "thought the legendary Pokémon{VAR BE00}\n",
+                "would choose a Trainer like you!{VAR BE00}\n",
+                "It caught me completely off guard.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0044",
+            "en_US": [
+                "This doesn't change my goal.\n",
+                "My plans have not been disturbed!{VAR BE01}\n",
+                "In order to rule this world utterly,\n",
+                "in order to manipulate the hearts{VAR BE00}\n",
+                "of people who know nothing,{VAR BE00}\n",
+                "I will have N be the king of Team Plasma.{VAR BE01}\n",
+                "But, for that to work, you--\n",
+                "since you know the truth--{VAR BE00}\n",
+                "You must be eliminated!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0045",
+            "en_US": [
+                "Cheren: Rule the world??{VAR BE01}\n",
+                "Wasn't Team Plasma's goal to\n",
+                "liberate Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0046",
+            "en_US": [
+                "Ghetsis: That was just a convenient lie\n",
+                "that I needed to create Team Plasma.{VAR BE01}\n",
+                "Use your head. What's to be gained from\n",
+                "letting go of useful things like Pokémon?{VAR BE01}\n",
+                "Certainly, manipulating Pokémon\n",
+                "helps people expand their possibilities.{VAR BE00}\n",
+                "That much, I can agree with.{VAR BE01}\n",
+                "So it naturally follows that only I should\n",
+                "be able to use Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0047",
+            "en_US": [
+                "Alder: You fool!\n",
+                "That's a ridiculous idea!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0048",
+            "en_US": [
+                "Ghetsis: You can say whatever you want.{VAR BE01}\n",
+                "A Pokémon, even if it's revered as a\n",
+                "deity, is still just a Pokémon.{VAR BE01}\n",
+                "{VAR 0100 0000}, so what if it chose you!\n",
+                "That doesn't mean you're a threat.{VAR BE01}\n",
+                "Come on! Now you'll face ME in battle!{VAR BE01}\n",
+                "I can't wait to see the look on your face\n",
+                "when you've lost all hope!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0049",
+            "en_US": "N: {VAR BE09 0001}{VAR 0100 0000}!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0050",
+            "en_US": "N: {VAR BE09 0001}{VAR 0100 0000}!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0051",
+            "en_US": [
+                "Ghetsis: I won't allow anyone to stop me!\n",
+                "No matter who does what!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0052",
+            "en_US": [
+                "Cheren: I'll never forgive you.{VAR BE01}\n",
+                "Using power for your selfish purposes...\n",
+                "Your selfish and evil purposes!"
+            ]
+        },
+        {
+            "id": "a003_301_0053",
+            "en_US": [
+                "Alder: You've taken shameful advantage\n",
+                "of N and his sincere, heartfelt beliefs."
+            ]
+        },
+        {
+            "id": "a003_301_0054",
+            "en_US": "N: {VAR BE09 0001}Was my formula incorrect?{VAR BE09 0000}"
+        },
+        {
+            "id": "a003_301_0055",
+            "en_US": "Bzaaah..."
+        },
+        {
+            "id": "a003_301_0056",
+            "en_US": "Pweesh..."
+        },
+        {
+            "id": "a003_301_0057",
+            "en_US": [
+                "Ghetsis: What?!{VAR BE01}\n",
+                "I created Team Plasma with my own hands.\n",
+                "I'm absolutely perfect! I AM PERFECTION!{VAR BE01}\n",
+                "I am the perfect ruler of\n",
+                "a perfect new world!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0058",
+            "en_US": [
+                "Alder: Now, N...{VAR BE01}\n",
+                "Do you still think Pokémon\n",
+                "and people should be separated?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0059",
+            "en_US": [
+                "Ghetsis: Mwa ha ha!{VAR BE01}\n",
+                "Since I couldn't become the hero and\n",
+                "obtain the legendary Pokémon myself...{VAR BE01}\n",
+                "I prepared someone for that purpose--N!{VAR BE01}\n",
+                "He's nothing more than a freak\n",
+                "without a human heart.{VAR BE01}\n",
+                "Do you think you're going to get\n",
+                "through to a warped person like that?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0060",
+            "en_US": [
+                "Cheren: Alder, it's a waste of valuable\n",
+                "time listening to him ramble on.{VAR BE01}\n",
+                "He is the one without a human heart!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0061",
+            "en_US": [
+                "Alder: You're right.\n",
+                "He's truly pitiful.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0062",
+            "en_US": [
+                "N...\n",
+                "I'm sure you have much to think about.{VAR BE01}\n",
+                "I know you were not pursuing the truth\n",
+                "because of Ghetsis's manipulation, but{VAR BE00}\n",
+                "because your heart was truly inspired.{VAR BE01}\n",
+                "That is why you were able to meet the\n",
+                "legendary Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0063",
+            "en_US": [
+                "N...\n",
+                "I'm sure you have much to think about.{VAR BE01}\n",
+                "I know you were not pursuing ideals\n",
+                "because of Ghetsis's manipulation, but{VAR BE00}\n",
+                "because your heart was really inspired.{VAR BE01}\n",
+                "That is why you were able to meet the\n",
+                "legendary Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0064",
+            "en_US": "N: {VAR BE09 0001}But...I have no right to be the hero!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0065",
+            "en_US": [
+                "Alder: Is that so?{VAR BE01}\n",
+                "What you and the legendary Pokémon\n",
+                "are going to do from now on...{VAR BE00}\n",
+                "That's important, wouldn't you say?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0066",
+            "en_US": [
+                "N: {VAR BE09 0001}Acting like you understand...{VAR BE01}\n",
+                "Up till now, we've been fighting each\n",
+                "other over our beliefs!{VAR BE01}\n",
+                "Yet, despite that... Why?!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0067",
+            "en_US": [
+                "Alder: N, even if we don't understand\n",
+                "each other, that's not a reason{VAR BE00}\n",
+                "to reject each other.{VAR BE01}\n",
+                "There are two sides to any argument.{VAR BE01}\n",
+                "Is there one point of view that has all\n",
+                "the answers? Give it some thought.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0068",
+            "en_US": "N: {VAR BE09 0001}I want to talk to you about something.{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0069",
+            "en_US": [
+                "{VAR BE09 0001}It's about when I first met\n",
+                "you in Accumula Town.{VAR BE01}\n",
+                "I was shocked when I heard what\n",
+                "your Pokémon was saying.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0070",
+            "en_US": [
+                "{VAR BE09 0001}I was shocked because that\n",
+                "Pokémon said it liked you.{VAR BE01}\n",
+                "It said it wanted to be with you.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0071",
+            "en_US": [
+                "{VAR BE09 0001}I couldn't understand it.{VAR BE01}\n",
+                "I couldn't believe there were\n",
+                "Pokémon that liked people.{VAR BE01}\n",
+                "Because, up until that moment,\n",
+                "I'd never known a Pokémon like that.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0072",
+            "en_US": [
+                "{VAR BE09 0001}The longer my journey continued,\n",
+                "the more unsure I became.{VAR BE01}\n",
+                "All I kept meeting were Pokémon and\n",
+                "people who communicated with one another{VAR BE00}\n",
+                "and helped one another.{VAR BE01}\n",
+                "That was why I needed to confirm my\n",
+                "beliefs by battling with you.{VAR BE01}\n",
+                "I wanted to confront you hero-to-hero.\n",
+                "I needed that more than anything.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0073",
+            "en_US": [
+                "{VAR BE09 0001}There's no way a person like me,\n",
+                "someone who understands only Pokémon--{VAR BE01}\n",
+                "No, actually...\n",
+                "I didn't understand them, either.{VAR BE01}\n",
+                "No way could I measure up to you,\n",
+                "when you had met so many Pokémon{VAR BE00}\n",
+                "and were surrounded by friends...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0074",
+            "en_US": [
+                "N: {VAR BE09 0001}The Champion has forgiven me, and...{VAR BE01}\n",
+                "What I should do now is something\n",
+                "I'll have to decide for myself.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0075",
+            "en_US": "{VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0076",
+            "en_US": [
+                "{VAR BE09 0001}You said you have a dream...\n",
+                "That dream... Make it come true!{VAR BE01}\n",
+                "Wonderful dreams and ideals give\n",
+                "you the power to change the world!{VAR BE00}\n",
+                "If anyone can, it's you!{VAR BE09 0000} {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0077",
+            "en_US": [
+                "{VAR BE09 0001}Dream your dream!{VAR BE01}\n",
+                "Then, pursue the ideals to make that\n",
+                "dream a reality, and someday{VAR BE00}\n",
+                "you will achieve all that you dreamed of!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0078",
+            "en_US": [
+                "{VAR BE09 0001}You said you have a dream...\n",
+                "That dream... Make it come true!{VAR BE01}\n",
+                "Make your wonderful dream a reality,\n",
+                "and it will become your truth!{VAR BE00}\n",
+                "{VAR 0100 0000}! If anyone can, it's you!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0079",
+            "en_US": [
+                "{VAR BE09 0001}Dream your dream!{VAR BE01}\n",
+                "Follow the path of truth to make that\n",
+                "dream a reality, and someday{VAR BE00}\n",
+                "you will achieve all that you dreamed of!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_301_0080",
+            "en_US": "{VAR BE09 0001}Well, then...{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0081",
+            "en_US": "{VAR BE09 0001}Farewell!{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0082",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0083",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0084",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0085",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0086",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0087",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0088",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0089",
+            "en_US": [
+                "N: {VAR BE09 0001}Get ready! Go after it!{VAR BE01}\n",
+                "Zekrom will bare its fangs at people\n",
+                "who fail to follow their ideals.{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_301_0090",
+            "en_US": [
+                "N: {VAR BE09 0001}Get ready! Go after it!{VAR BE01}\n",
+                "Reshiram will incinerate people who\n",
+                "fail to keep truth in their heart.{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_301_0091",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0092",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0093",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0094",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0095",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0096",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0097",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0098",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0099",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0100",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_301_0101",
+            "en_US": [
+                "Add {VAR 0101 0001} to your party\n",
+                "from the Box?"
+            ]
+        },
+        {
+            "id": "a003_301_0102",
+            "en_US": [
+                "Not adding {VAR 0101 0001} to your party...\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_301_0103",
+            "en_US": "Send which Pokémon back to your Box?{VAR BE01}"
+        },
+        {
+            "id": "a003_301_0104",
+            "en_US": [
+                "Sending {VAR 0102 0002} back to your Box...\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_301_0105",
+            "en_US": "{VAR 0101 0001} was added to your party!"
+        }
+    ]
+}

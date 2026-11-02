@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "pad": "5454",
+    "messages": [
+        {
+            "id": "a003_120_0000",
+            "en_US": [
+                "Everybody has a different reason\n",
+                "for their trips, and the same can be said{VAR BE00}\n",
+                "for gift giving. I'll give you this{VAR BE00}\n",
+                "to commemorate this encounter with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_120_0001",
+            "en_US": [
+                "The move Brick Break can remove the\n",
+                "protective effects of Reflect and{VAR BE00}\n",
+                "Light Screen.{VAR BE01}\n",
+                "Tee hee hee. Are you surprised?{VAR BE01}\n",
+                "I may not look like it, but this old lady\n",
+                "used to be a Battle Girl!"
+            ]
+        }
+    ]
+}

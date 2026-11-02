@@ -1,0 +1,162 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_421_0000",
+            "en_US": [
+                "It's full of cardboard boxes with\n",
+                "electrical appliances in them."
+            ]
+        },
+        {
+            "id": "a003_421_0001",
+            "en_US": [
+                "It's full of cardboard boxes with\n",
+                "electrical appliances in them.{VAR BE01}\n",
+                "Oh? Rotom would like to investigate the\n",
+                "motors of the electrical appliances...{VAR BE01}\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_421_0002",
+            "en_US": [
+                "Rotom reluctantly gave up\n",
+                "on entering a motor..."
+            ]
+        },
+        {
+            "id": "a003_421_0003",
+            "en_US": [
+                "Which Rotom will you allow\n",
+                "to enter a motor?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_421_0004",
+            "en_US": "That Pokémon can't enter a motor."
+        },
+        {
+            "id": "a003_421_0005",
+            "en_US": "An Egg can't enter a motor."
+        },
+        {
+            "id": "a003_421_0006",
+            "en_US": [
+                "Which appliance's motor will you\n",
+                "allow {VAR 0102 0000} to enter?"
+            ]
+        },
+        {
+            "id": "a003_421_0007",
+            "en_US": "Microwave oven",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0008",
+            "en_US": "Washing machine",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0009",
+            "en_US": "Electric fan",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0010",
+            "en_US": "Refrigerator",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0011",
+            "en_US": "Lawnmower",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0012",
+            "en_US": "Recall",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0013",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_421_0014",
+            "en_US": "{VAR 0102 0000} entered the motor."
+        },
+        {
+            "id": "a003_421_0015",
+            "en_US": [
+                "{VAR 0102 0000} is trying to\n",
+                "learn {VAR 0107 0001}.{VAR BE01}\n",
+                "But {VAR 0102 0000} can't learn\n",
+                "more than four moves.{VAR BE01}\n",
+                "Delete a move to make\n",
+                "room for {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a003_421_0016",
+            "en_US": [
+                "Give up on learning the\n",
+                "move {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a003_421_0017",
+            "en_US": [
+                "{VAR 0102 0000} did not learn\n",
+                "{VAR 0107 0001}.{VAR BE01}\n",
+                "{VAR 0102 0000} emerged from the motor."
+            ]
+        },
+        {
+            "id": "a003_421_0018",
+            "en_US": [
+                "Is it OK to forget\n",
+                "the move {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a003_421_0019",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n",
+                "{VAR 0102 0000} forgot how to\n",
+                "use {VAR 0107 0001}.{VAR BE01}\n",
+                "And...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_421_0020",
+            "en_US": "{VAR 0102 0000} learned {VAR 0107 0002}!"
+        },
+        {
+            "id": "a003_421_0021",
+            "en_US": "{VAR 0102 0000} forgot {VAR 0107 0002}...{VAR BE01}"
+        },
+        {
+            "id": "a003_421_0022",
+            "en_US": [
+                "{VAR 0102 0000} has already entered\n",
+                "the appliance motor.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_421_0023",
+            "en_US": "{VAR 0102 0000} emerged from the motor."
+        },
+        {
+            "id": "a003_421_0024",
+            "en_US": "{VAR 0102 0000} hasn't entered a motor.{VAR BE01}"
+        },
+        {
+            "id": "a003_421_0025",
+            "en_US": [
+                "{VAR 0102 0000} reluctantly gave up on\n",
+                "entering a motor..."
+            ]
+        }
+    ]
+}

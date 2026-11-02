@@ -1,0 +1,217 @@
+{
+    "flags": 224,
+    "pad": "acac",
+    "messages": [
+        {
+            "id": "a003_346_0000",
+            "en_US": [
+                "Hello, and welcome to\n",
+                "the Pokémon Center.{VAR BE01}\n",
+                "We restore your tired Pokémon\n",
+                "to full health.{VAR BE01}\n",
+                "Would you like to rest your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0001",
+            "en_US": [
+                "Good morning! Welcome to\n",
+                "the Pokémon Center.{VAR BE01}\n",
+                "We restore your tired Pokémon\n",
+                "to full health.{VAR BE01}\n",
+                "Would you like to rest your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0002",
+            "en_US": [
+                "Hello, and welcome to\n",
+                "the Pokémon Center.{VAR BE01}\n",
+                "We restore your tired Pokémon\n",
+                "to full health.{VAR BE01}\n",
+                "Would you like to rest your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0003",
+            "en_US": [
+                "Welcome to the Pokémon Center.{VAR BE01}\n",
+                "Hey! Is today your birthday?"
+            ]
+        },
+        {
+            "id": "a003_346_0004",
+            "en_US": [
+                "Happy birthday!{VAR BE01}\n",
+                "Please keep visiting the Pokémon Center\n",
+                "for many years to come.{VAR BE01}\n",
+                "Now, would you like to rest\n",
+                "your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0005",
+            "en_US": [
+                "It isn't? Oh, I must have been confused.{VAR BE01}\n",
+                "Would you like to rest your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0006",
+            "en_US": [
+                "OK, I'll take your Pokémon for\n",
+                "a few seconds."
+            ]
+        },
+        {
+            "id": "a003_346_0007",
+            "en_US": [
+                "Thank you for waiting.{VAR BE01}\n",
+                "We've restored your Pokémon\n",
+                "to full health.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0008",
+            "en_US": "We hope to see you again!"
+        },
+        {
+            "id": "a003_346_0009",
+            "en_US": [
+                "Hello, and welcome to\n",
+                "the Pokémon Center.{VAR BE01}\n",
+                "We restore your tired Pokémon\n",
+                "to full health.{VAR BE01}\n",
+                "Would you like to...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0010",
+            "en_US": [
+                "Th-that Trainer Card!\n",
+                "That wonderful shade! That sparkle!{VAR BE01}\n",
+                "I've seen several Trainers with\n",
+                "Silver Trainer Cards already...{VAR BE01}\n",
+                "But you're the first to top them all with\n",
+                "that impressive Trainer Card.{VAR BE01}\n",
+                "Oh, {VAR 0100 0000}, may I please heal\n",
+                "your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_346_0011",
+            "en_US": [
+                "Great to see you, {VAR 0100 0000}!\n",
+                "You want the usual, right?"
+            ]
+        },
+        {
+            "id": "a003_346_0012",
+            "en_US": [
+                "Oh... It looks like your Pokémon may be\n",
+                "infected with the Pokérus.{VAR BE01}\n",
+                "Little is known about the Pokérus,\n",
+                "except that it is a microscopic life-form{VAR BE00}\n",
+                "that attaches to Pokémon.{VAR BE01}\n",
+                "While infected, Pokémon are said to\n",
+                "grow exceptionally well."
+            ]
+        },
+        {
+            "id": "a003_346_0013",
+            "en_US": [
+                "Welcome to the Pokémon Wireless\n",
+                "Club Union Room.{VAR BE01}\n",
+                "You may interact directly with\n",
+                "many Trainers here.{VAR BE01}\n",
+                "Would you like to enter the room?"
+            ]
+        },
+        {
+            "id": "a003_346_0014",
+            "en_US": [
+                "The Trainers in the Union Room\n",
+                "will be those players around you{VAR BE00}\n",
+                "who have also entered the room.{VAR BE01}\n",
+                "You may trade your Pokémon here\n",
+                "or have battles for two or four.{VAR BE01}\n",
+                "Also, you may exchange Eggs\n",
+                "or draw pictures with other players.{VAR BE01}\n",
+                "You may also chat with other\n",
+                "players in the room.{VAR BE01}\n",
+                "Or you may find friends by touching\n",
+                "the spoken words.{VAR BE01}\n",
+                "Would you like to enter the room?"
+            ]
+        },
+        {
+            "id": "a003_346_0015",
+            "en_US": [
+                "DS Wireless Communications\n",
+                "will be launched."
+            ]
+        },
+        {
+            "id": "a003_346_0016",
+            "en_US": [
+                "I hope you enjoy your time in\n",
+                "the Union Room.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0017",
+            "en_US": "Please do visit again."
+        },
+        {
+            "id": "a003_346_0018",
+            "en_US": "Enter the Union Room",
+            "flags": 219
+        },
+        {
+            "id": "a003_346_0019",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_346_0020",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_346_0021",
+            "en_US": [
+                "I am sorry...\n",
+                "You can't enter the Union Room yet.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0022",
+            "en_US": [
+                "You have at least one Pokémon\n",
+                "that can't be taken in.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0023",
+            "en_US": [
+                "Wait, Trainer!{VAR BE01}\n",
+                "Your title on your Trainer Card\n",
+                "is still just “Pokémon Trainer,\" isn't it?{VAR BE01}\n",
+                "If you change your title, you can easily\n",
+                "project your image to others when you{VAR BE00}\n",
+                "greet them in the Union Room.{VAR BE01}\n",
+                "Let's see...\n",
+                "How about {VAR 010E 0000}?{VAR BE00}\n",
+                "What do you think?{VAR BE01}\n",
+                "That is the impression I got from you.\n",
+                "First, let's change your title.{VAR BE01}\n",
+                "If you don't like the new one, you can\n",
+                "change it by selecting your Trainer Card.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_346_0024",
+            "en_US": "It seems you can't use it yet."
+        }
+    ]
+}

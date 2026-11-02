@@ -1,0 +1,85 @@
+{
+    "flags": 224,
+    "pad": "fcfc",
+    "messages": [
+        {
+            "id": "a003_046_0000",
+            "en_US": "Your favorite is {VAR 0101 0000}, isn't it?"
+        },
+        {
+            "id": "a003_046_0001",
+            "en_US": "Your favorite is that Egg, isn't it?"
+        },
+        {
+            "id": "a003_046_0002",
+            "en_US": "Yes, I was right! I thought so!"
+        },
+        {
+            "id": "a003_046_0003",
+            "en_US": "What? Your favorite isn't {VAR 0101 0000}?!"
+        },
+        {
+            "id": "a003_046_0004",
+            "en_US": [
+                "...Oh? Your favorite really is that Egg,\n",
+                "isn't it?"
+            ]
+        },
+        {
+            "id": "a003_046_0005",
+            "en_US": [
+                "I want to know\n",
+                "everyone's favorite kind of Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_046_0006",
+            "en_US": [
+                "When you're tired, take a rest!\n",
+                "It's the same for people and Pokémon."
+            ]
+        },
+        {
+            "id": "a003_046_0007",
+            "en_US": [
+                "Wanna recover Pokémon?\n",
+                "Oh, soooooorry!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_046_0008",
+            "en_US": "Do you know Geonet?"
+        },
+        {
+            "id": "a003_046_0009",
+            "en_US": [
+                "You! You, using Geonet! Great!\n",
+                "I tell you this in confidence.{VAR BE01}\n",
+                "With the latest technology, we can trade\n",
+                "Pokémon with people far away!{VAR BE01}\n",
+                "...I know it sounds crazy,\n",
+                "but give it a try. You'll be surprised!"
+            ]
+        },
+        {
+            "id": "a003_046_0010",
+            "en_US": [
+                "Oh! You know Geonet!\n",
+                "Great, great!{VAR BE01}\n",
+                "This is even greater, lemme tell ya!{VAR BE01}\n",
+                "If you try Geonet, you can register\n",
+                "the place where you live!"
+            ]
+        },
+        {
+            "id": "a003_046_0011",
+            "en_US": [
+                "You see the globe on the second floor\n",
+                "of this Pokémon Center?{VAR BE01}\n",
+                "That is Geonet.{VAR BE01}\n",
+                "If you check on Geonet, you can register\n",
+                "the place where you live!"
+            ]
+        }
+    ]
+}

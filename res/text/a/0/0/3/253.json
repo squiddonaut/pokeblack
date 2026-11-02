@@ -1,0 +1,133 @@
+{
+    "flags": 215,
+    "pad": "c4c4",
+    "messages": [
+        {
+            "id": "a003_253_0000",
+            "en_US": [
+                "TESPXTHOJL\n",
+                "PUOFUTJM"
+            ]
+        },
+        {
+            "id": "a003_253_0001",
+            "en_US": [
+                "IUVSUPUEBFM\n",
+                "TFNJSQ"
+            ]
+        },
+        {
+            "id": "a003_253_0002",
+            "en_US": "FWBSCTJHOJL"
+        },
+        {
+            "id": "a003_253_0003",
+            "en_US": [
+                "FQPITFTPMSFWFO\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0004",
+            "en_US": "EOJLTJHOJL"
+        },
+        {
+            "id": "a003_253_0005",
+            "en_US": "NBFSEBTBIHOJL"
+        },
+        {
+            "id": "a003_253_0006",
+            "en_US": [
+                "TVPSVUOFWEB\n",
+                "TJHOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0007",
+            "en_US": "MMBTUQFDDBHOJL"
+        },
+        {
+            "id": "a003_253_0008",
+            "en_US": [
+                "SFOSPDEO2TOSVU\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0009",
+            "en_US": [
+                "SFOSPDES3TOSVU\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0010",
+            "en_US": [
+                "SFOSPDIU5TOSVU\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0011",
+            "en_US": [
+                "SFOSPDIU7TOSVU\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0012",
+            "en_US": [
+                "HOJLGP\n",
+                "USBFIFIUFWBI"
+            ]
+        },
+        {
+            "id": "a003_253_0013",
+            "en_US": "HOJLFTJBSQFXFSFI"
+        },
+        {
+            "id": "a003_253_0014",
+            "en_US": [
+                "TFOJITUIHJM\n",
+                "THOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0015",
+            "en_US": [
+                "FMQPFQTJITFWPN\n",
+                "HOJL"
+            ]
+        },
+        {
+            "id": "a003_253_0016",
+            "en_US": "FWPMIUJXTUDBHOJL"
+        },
+        {
+            "id": "a003_253_0017",
+            "en_US": "EFSUBIUIHVPGHOJL"
+        },
+        {
+            "id": "a003_253_0018",
+            "en_US": "UTPMTUFHHOJLPO"
+        },
+        {
+            "id": "a003_253_0019",
+            "en_US": "HOJLFWBSCOPPH{VAR BE01}",
+            "flags": 207
+        },
+        {
+            "id": "a003_253_0020",
+            "en_US": "The wall moved, and you can proceed now!",
+            "flags": 224
+        },
+        {
+            "id": "a003_253_0021",
+            "en_US": [
+                "It looks like you can climb up here!{VAR BE01}\n",
+                "Will you proceed to the upper floor?"
+            ],
+            "flags": 224
+        }
+    ]
+}

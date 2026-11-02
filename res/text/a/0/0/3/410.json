@@ -1,0 +1,27 @@
+{
+    "flags": 207,
+    "messages": [
+        {
+            "id": "a003_410_0000",
+            "en_US": "Route 15"
+        },
+        {
+            "id": "a003_410_0001",
+            "en_US": "Route 15"
+        },
+        {
+            "id": "a003_410_0002",
+            "en_US": [
+                "Poké Transfer Lab\n",
+                "What's Poké Transfer? Come find out!"
+            ]
+        },
+        {
+            "id": "a003_410_0003",
+            "en_US": [
+                "Marvelous Bridge\n",
+                "Truly marvelous! And also a bridge!"
+            ]
+        }
+    ]
+}

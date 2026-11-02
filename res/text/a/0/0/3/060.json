@@ -1,0 +1,39 @@
+{
+    "flags": 224,
+    "pad": "a6a6",
+    "messages": [
+        {
+            "id": "a003_060_0000",
+            "en_US": [
+                "Check places you are curious about!\n",
+                "You may find some hidden items there.{VAR BE01}\n",
+                "If you use the Town Map item, you may\n",
+                "find a new place to explore!{VAR BE01}\n",
+                "Talk to a person you are curious about!\n",
+                "It may be a wonderful encounter."
+            ]
+        },
+        {
+            "id": "a003_060_0001",
+            "en_US": [
+                "People in the past said wise things.\n",
+                "“A child who sleeps well grows well.\"{VAR BE01}\n",
+                "Yes, if a Pokémon uses the move Rest,\n",
+                "the Pokémon will fall asleep and recover!{VAR BE01}\n",
+                "I already taught the move to my Pokémon,\n",
+                "so I will give this to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_060_0002",
+            "en_US": [
+                "Even if a Pokémon falls asleep, I heard\n",
+                "there is a Berry to wake it up instantly.{VAR BE01}\n",
+                "If a Pokémon holds that Berry and uses\n",
+                "Rest, the Pokémon will fall asleep{VAR BE00}\n",
+                "and recover, then wake up instantly!{VAR BE01}\n",
+                "It's a great combination!"
+            ]
+        }
+    ]
+}

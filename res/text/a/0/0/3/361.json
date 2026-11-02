@@ -1,0 +1,431 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_361_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, stop!{VAR BE01}\n",
+                "You've got a Bolt Badge...\n",
+                "I've got a Bolt Badge...{VAR BE01}\n",
+                "Let's test who's stronger--you or me!\n",
+                "This time, I'm going to win!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0001",
+            "en_US": [
+                "Cheren: Why?\n",
+                "Why can't I beat you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0002",
+            "en_US": [
+                "Elesa: Oh, you two are friends...{VAR BE01}\n",
+                "That's nice, how you're helping each\n",
+                "other get better by competing.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0003",
+            "en_US": "OK, let's go.{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0004",
+            "en_US": [
+                "???: Oh!\n",
+                "Why, if it isn't Elesa!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0005",
+            "en_US": [
+                "???: Aren't festivals grand?\n",
+                "Life should be enjoyed!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0006",
+            "en_US": "Cheren: Who is this man?{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0007",
+            "en_US": [
+                "Elesa: This is Alder,\n",
+                "the Unova region's Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0008",
+            "en_US": [
+                "Cheren: Champion?!{VAR BE01}\n",
+                "Why would the Champion be\n",
+                "goofing off in a place like this?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0009",
+            "en_US": [
+                "Alder: I heard that remark.\n",
+                "You're quite a judgmental young person,{VAR BE00}\n",
+                "are you not?{VAR BE01}\n",
+                "My name is Alder. I'm the Unova\n",
+                "Pokémon League's Champion.{VAR BE01}\n",
+                "Pleased to make your acquaintance.{VAR BE01}\n",
+                "For your information, I'm not\n",
+                "goofing off. I'm on a voyage.{VAR BE00}\n",
+                "I know every corner of Unova.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0010",
+            "en_US": [
+                "Cheren: Um. I'm Cheren, from\n",
+                "Nuvema Town.{VAR BE01}\n",
+                "My goal as a Trainer is to\n",
+                "become the Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0011",
+            "en_US": [
+                "Alder: Hm. Traveling with a goal in mind\n",
+                "is a commendable thing.{VAR BE01}\n",
+                "And what do you plan to do\n",
+                "after becoming the Champion?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0012",
+            "en_US": [
+                "Cheren: What else is there other than\n",
+                "striving to become stronger?{VAR BE01}\n",
+                "The strongest Trainer--\n",
+                "that's the Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0013",
+            "en_US": [
+                "Alder: Hmm. Becoming stronger...\n",
+                "Becoming stronger, you say...{VAR BE00}\n",
+                "Is that alone enough of a goal? Hmmm.{VAR BE01}\n",
+                "It's not that I'm trying to say your way\n",
+                "of thinking is wrong...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0014",
+            "en_US": [
+                "In my travels, I've helped many people\n",
+                "learn to love Pokémon. I think that's{VAR BE00}\n",
+                "important, too.{VAR BE01}\n",
+                "If you play with those children,\n",
+                "you might gain more of an understanding.{VAR BE01}\n",
+                "Will you two have a Pokémon battle\n",
+                "with those two?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0015",
+            "en_US": [
+                "Hey, you two. Come\n",
+                "here for a moment.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0016",
+            "en_US": [
+                "Cheren: ...Understood.{VAR BE01}\n",
+                "But, before that...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0017",
+            "en_US": [
+                "Cheren fully healed \n",
+                "{VAR 0100 0000}'s Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_361_0018",
+            "en_US": "Cheren: OK, let's battle.{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0019",
+            "en_US": [
+                "Alder: Nicely done! You didn't win, but\n",
+                "that was a good battle. Your Pokémon{VAR BE00}\n",
+                "looked like they were having fun.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0020",
+            "en_US": [
+                "Young man, if there are people\n",
+                "like you who pursue strength,{VAR BE00}\n",
+                "there are also people who are{VAR BE00}\n",
+                "happy just being with Pokémon.{VAR BE01}\n",
+                "There are many different people\n",
+                "and many different answers.{VAR BE01}\n",
+                "When it comes to what a Champion\n",
+                "should be, you and I may hold differing{VAR BE00}\n",
+                "views, but so be it! Give it some thought.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0021",
+            "en_US": [
+                "Alder: It's tremendous that people and\n",
+                "Pokémon, each so different, can{VAR BE00}\n",
+                "acknowledge each other and be together!"
+            ]
+        },
+        {
+            "id": "a003_361_0022",
+            "en_US": [
+                "Alder is so strong!\n",
+                "And he's nice to Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_361_0023",
+            "en_US": [
+                "I was scared of Pokémon, but Alder\n",
+                "taught me that they're nice and friendly."
+            ]
+        },
+        {
+            "id": "a003_361_0024",
+            "en_US": [
+                "Elesa: Let's roll.\n",
+                "The Driftveil Drawbridge is just ahead.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0025",
+            "en_US": [
+                "Cheren: The Champion is the strongest\n",
+                "of the strong! That's all there is to it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0026",
+            "en_US": "Cheren: This way.{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0027",
+            "en_US": "Elesa: Now to contact him...{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0028",
+            "en_US": [
+                "It's me, Elesa.\n",
+                "Please lower the drawbridge.{VAR BE01}\n",
+                "I have a couple of Trainers here\n",
+                "who want to challenge you.{VAR BE01}\n",
+                "OK...\n",
+                "Thanks.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0029",
+            "en_US": "Now, watch this!{VAR BE01}"
+        },
+        {
+            "id": "a003_361_0030",
+            "en_US": [
+                "Elesa: I have a TV gig, so I've got to go.{VAR BE01}\n",
+                "The Gym Leader of the next town\n",
+                "may take some getting used to...{VAR BE00}\n",
+                "Do your best, both of you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0031",
+            "en_US": [
+                "Cheren: What I am is a Trainer.{VAR BE01}\n",
+                "I prove I'm right by getting stronger\n",
+                "and winning in battle--{VAR BE00}\n",
+                "even against the Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0032",
+            "en_US": [
+                "Excuse me!\n",
+                "Please stop right there!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0033",
+            "en_US": [
+                "The drawbridge is raised right now\n",
+                "so ships can pass. You can't cross.{VAR BE01}\n",
+                "If you make a request to Driftveil's Gym\n",
+                "Leader, Clay, he could... Well, I'm not{VAR BE00}\n",
+                "sure how you'd reach him over there...{VAR BE01}\n",
+                "If you talk to Nimbasa City's Gym Leader,\n",
+                "Elesa, she might be able to do something."
+            ]
+        },
+        {
+            "id": "a003_361_0034",
+            "en_US": [
+                "The drawbridge is raised right now\n",
+                "so ships can pass. You can't cross.{VAR BE01}\n",
+                "If you make a request to Driftveil's Gym\n",
+                "Leader, Clay, he could... Well, I'm not{VAR BE00}\n",
+                "sure how you'd reach him over there...{VAR BE01}\n",
+                "If you talk to Nimbasa City's Gym Leader,\n",
+                "Elesa, she might be able to do something.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0035",
+            "en_US": [
+                "A bridge would be meaningless\n",
+                "if no one ever crossed it.{VAR BE01}\n",
+                "Bridges connect the world...\n",
+                "That's as solid as a symbol can get."
+            ]
+        },
+        {
+            "id": "a003_361_0036",
+            "en_US": [
+                "Hum fiercely! My battle song!\n",
+                "Battle fiercely! My Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0037",
+            "en_US": [
+                "In battling you, I came to understand...{VAR BE01}\n",
+                "You're the best!\n",
+                "Here! This is for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_361_0039",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_361_0040",
+            "en_US": [
+                "If you want your Pokémon to\n",
+                "hold this Electric Guitar,{VAR BE00}\n",
+                "go to the Musical Theater!{VAR BE00}\n",
+                "Cooler than cool!"
+            ]
+        },
+        {
+            "id": "a003_361_0041",
+            "en_US": [
+                "Cheren: Strength and strength alone\n",
+                "is what matters in this world.{VAR BE01}\n",
+                "So I believed, until I met Alder here.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0042",
+            "en_US": [
+                "But, winning in Pokémon battles\n",
+                "isn't all there is to life.{VAR BE01}\n",
+                "Once I learned that lesson, my eyes\n",
+                "were opened to many different things.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0043",
+            "en_US": [
+                "We all have our own brand of strength,\n",
+                "people and Pokémon both.{VAR BE01}\n",
+                "The strength to make our dreams\n",
+                "a reality, the strength to protect{VAR BE00}\n",
+                "what we hold most dear...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0044",
+            "en_US": [
+                "Why do I think this way now?\n",
+                "It's thanks to you, {VAR 0100 0000}...{VAR BE01}\n",
+                "And Bianca...\n",
+                "And Alder...{VAR BE01}\n",
+                "If only N could see this, too, someday.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0045",
+            "en_US": [
+                "I'm going to take a long, hard look\n",
+                "at myself on Victory Road.{VAR BE01}\n",
+                "I'm going to think about what I can do\n",
+                "and who I can become...{VAR BE01}\n",
+                "Visit me sometime, if you want.\n",
+                "We'll have a battle like old times.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_361_0046",
+            "en_US": [
+                "The Pokémon and the performers\n",
+                "all have amazing moves!"
+            ]
+        },
+        {
+            "id": "a003_361_0047",
+            "en_US": [
+                "I think being able to make people\n",
+                "smile is a super-awesome talent!{VAR BE01}\n",
+                "That's why Pokémon are so awesome!\n",
+                "Because they can make you smile!"
+            ]
+        },
+        {
+            "id": "a003_361_0048",
+            "en_US": [
+                "The street performers are my favorites.\n",
+                "They're so charming!"
+            ]
+        },
+        {
+            "id": "a003_361_0049",
+            "en_US": [
+                "Route 5\n",
+                "Performer Street"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_361_0050",
+            "en_US": "Driftveil Drawbridge",
+            "flags": 207
+        },
+        {
+            "id": "a003_361_0051",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_361_0052",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "There are different Cases\n",
+                "for each type of item.{VAR BE01}\n",
+                "Items are placed automatically in\n",
+                "the correct Case by their type.{VAR BE01}\n",
+                "The name of the Case tells you\n",
+                "what type of items will be kept there."
+            ],
+            "flags": 207
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_458_0000",
+            "en_US": [
+                "Anville Town is famous for its turntable.\n",
+                "You saw it from the bridge, right?"
+            ]
+        },
+        {
+            "id": "a003_458_0001",
+            "en_US": [
+                "Lots of people ride on trains, right?{VAR BE01}\n",
+                "So the people who drive the trains\n",
+                "and the people who maintain them{VAR BE00}\n",
+                "have a big responsibility!"
+            ]
+        }
+    ]
+}

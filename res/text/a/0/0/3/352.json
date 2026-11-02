@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "pad": "dcdc",
+    "messages": [
+        {
+            "id": "a003_352_0000",
+            "en_US": [
+                "Good afternoon, Trainer!{VAR BE01}\n",
+                "This is a gate for travelers!\n",
+                "Please check the electric bulletin board!"
+            ]
+        },
+        {
+            "id": "a003_352_0001",
+            "en_US": [
+                "Watching the information changing on the\n",
+                "electric bulletin board...{VAR BE00}\n",
+                "It makes me happy. I find it so soothing!"
+            ]
+        }
+    ]
+}

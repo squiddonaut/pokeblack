@@ -1,0 +1,119 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_119_0000",
+            "en_US": [
+                "You appear ready to face a Gym Leader.\n",
+                "Then...{VAR BE01}\n",
+                "Bring it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_119_0001",
+            "en_US": [
+                "In honor of your stout heart,\n",
+                "I will give you this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_119_0002",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the Freeze Badge from Brycen!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_119_0003",
+            "en_US": [
+                "You have seven Badges.{VAR BE01}\n",
+                "That means Pokémon up to Lv. 80\n",
+                "will obey you.{VAR BE01}\n",
+                "This TM will convey my regard\n",
+                "for your accomplishments.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_119_0004",
+            "en_US": [
+                "A move that always results in\n",
+                "a critical hit: Frost Breath."
+            ]
+        },
+        {
+            "id": "a003_119_0005",
+            "en_US": [
+                "No matter how many battles I fight,\n",
+                "I don't know what strength is.{VAR BE01}\n",
+                "Perhaps you can find the answer."
+            ]
+        },
+        {
+            "id": "a003_119_0006",
+            "en_US": [
+                "Only those who are weak need to\n",
+                "flaunt their strength."
+            ]
+        },
+        {
+            "id": "a003_119_0007",
+            "en_US": [
+                "Brycen: In the past, when I was hurt and\n",
+                "depressed, Alder shared this with me...{VAR BE01}\n",
+                "There is strength in being with other\n",
+                "people and Pokémon. Receiving their{VAR BE00}\n",
+                "support makes you stronger.{VAR BE01}\n",
+                "The young man named Cheren\n",
+                "also seems to understand this now."
+            ]
+        },
+        {
+            "id": "a003_119_0008",
+            "en_US": "Please take this Fresh Water!{VAR BE01}"
+        },
+        {
+            "id": "a003_119_0009",
+            "en_US": [
+                "Ice can be melted with Fire\n",
+                "or shattered with Fighting.{VAR BE01}\n",
+                "Or you might want to smash it\n",
+                "into dust with Rock or Steel."
+            ]
+        },
+        {
+            "id": "a003_119_0010",
+            "en_US": [
+                "From Brycen, I've learned how to\n",
+                "say more with fewer words."
+            ]
+        },
+        {
+            "id": "a003_119_0011",
+            "en_US": [
+                "Icirrus Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Brycen\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_119_0012",
+            "en_US": [
+                "Icirrus Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Brycen\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_119_0013",
+            "en_US": [
+                "Icirrus Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Brycen\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

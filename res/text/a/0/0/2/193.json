@@ -1,0 +1,18 @@
+{
+    "flags": 229,
+    "messages": [
+        {
+            "id": "a002_193_0000",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "It's your mom!\n",
+                "How are things?{VAR BE01}\n",
+                "Are you and your Pokémon getting along\n",
+                "and enjoying your journey so far?{VAR BE01}\n",
+                "I needed to talk to you, so I called,\n",
+                "but I'm going to hang up{VAR BE00}\n",
+                "the Xtransceiver now.{VAR BE01}"
+            ]
+        }
+    ]
+}

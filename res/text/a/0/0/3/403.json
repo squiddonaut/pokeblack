@@ -1,0 +1,30 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_403_0000",
+            "en_US": [
+                "I found this plate when I used the move\n",
+                "Dive in the sea around Undella Town!{VAR BE01}\n",
+                "But I don't know how to use it.\n",
+                "You can have it if you like.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_403_0001",
+            "en_US": [
+                "I have another one.\n",
+                "Take this, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_403_0002",
+            "en_US": [
+                "They say there's a sunken temple at the\n",
+                "bottom of the sea around Undella Town.{VAR BE01}\n",
+                "Those plates were resting in the temple.\n",
+                "Maybe they're treasure..."
+            ]
+        }
+    ]
+}

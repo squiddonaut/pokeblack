@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_211_0000",
+            "en_US": [
+                "It's a rock covered with ice.\n",
+                "Touching it could make you freeze."
+            ]
+        }
+    ]
+}

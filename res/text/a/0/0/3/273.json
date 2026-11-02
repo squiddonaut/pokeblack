@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_273_0000",
+            "en_US": [
+                "I'm totally hooked on Village Sandwiches!{VAR BE01}\n",
+                "We moved closer to the shop so I could\n",
+                "eat there every day."
+            ]
+        },
+        {
+            "id": "a003_273_0001",
+            "en_US": [
+                "This is a very old bridge, but thanks to\n",
+                "the elderly man next door who takes care{VAR BE00}\n",
+                "of it, the bridge always looks its best!"
+            ]
+        },
+        {
+            "id": "a003_273_0002",
+            "en_US": [
+                "Village Bridge is the oldest bridge in\n",
+                "Unova. It says so right here in my book!{VAR BE01}\n",
+                "I heard it was built 200 years ago!"
+            ]
+        }
+    ]
+}

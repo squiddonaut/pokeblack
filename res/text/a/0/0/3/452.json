@@ -1,0 +1,55 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a003_452_0000",
+            "en_US": [
+                "Hello, boy!{VAR BE01}\n",
+                "Do you have a villa in Undella?\n",
+                "You are rich!{VAR BE01}\n",
+                "As a token of our new acquaintance,\n",
+                "please accept this!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_452_0001",
+            "en_US": [
+                "Hello, girl!{VAR BE01}\n",
+                "Do you have a villa in Undella?\n",
+                "You are rich!{VAR BE01}\n",
+                "As a token of our new acquaintance,\n",
+                "please accept this!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_452_0002",
+            "en_US": [
+                "Isn't the Prism Scale beautiful?\n",
+                "It may be good to let a Pokémon hold it."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_452_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_452_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_452_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_452_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a003_452_0007",
+            "en_US": ""
+        }
+    ]
+}

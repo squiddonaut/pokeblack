@@ -1,0 +1,41 @@
+{
+    "flags": 91,
+    "pad": "1a1a",
+    "messages": [
+        {
+            "id": "a002_084_0000",
+            "en_US": "In Party"
+        },
+        {
+            "id": "a002_084_0001",
+            "en_US": "Battle Box"
+        },
+        {
+            "id": "a002_084_0002",
+            "en_US": "Cancel"
+        },
+        {
+            "id": "a002_084_0003",
+            "en_US": [
+                "Please select whether to use your\n",
+                "party Pokémon or your Battle Box."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_084_0004",
+            "en_US": "L{VAR 0202 0000}",
+            "flags": 38
+        },
+        {
+            "id": "a002_084_0005",
+            "en_US": "{VAR FF00 0002}⑭{VAR FF00 0000}",
+            "flags": 8
+        },
+        {
+            "id": "a002_084_0006",
+            "en_US": "{VAR FF00 0001}⑮{VAR FF00 0000}",
+            "flags": 8
+        }
+    ]
+}

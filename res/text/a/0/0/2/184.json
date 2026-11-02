@@ -1,0 +1,6794 @@
+{
+    "flags": 240,
+    "messages": [
+        {
+            "id": "a002_184_0000",
+            "en_US": [
+                "Have we met or not? I don't remember.\n",
+                "Well, nice to meet you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0001",
+            "en_US": [
+                "Yahoo! Ya-hoooooo!\n",
+                "I won again!"
+            ]
+        },
+        {
+            "id": "a002_184_0002",
+            "en_US": [
+                "No way! Nooo way...\n",
+                "I lost again..."
+            ]
+        },
+        {
+            "id": "a002_184_0003",
+            "en_US": [
+                "All right!\n",
+                "I will show you my power!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0004",
+            "en_US": [
+                "Amazed? Surprised?\n",
+                "By the power of my Pokémon?!"
+            ]
+        },
+        {
+            "id": "a002_184_0005",
+            "en_US": [
+                "You are incredible!\n",
+                "I am astonished and surprised!"
+            ]
+        },
+        {
+            "id": "a002_184_0006",
+            "en_US": "May... May I help you?!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0007",
+            "en_US": [
+                "Oh! Oh!\n",
+                "Yes, we can?!"
+            ]
+        },
+        {
+            "id": "a002_184_0008",
+            "en_US": "Un-un-unbelievable!"
+        },
+        {
+            "id": "a002_184_0009",
+            "en_US": [
+                "Don't let your guard down,\n",
+                "or you may cry when a kid beats you..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0010",
+            "en_US": [
+                "I may be young, but I don't think\n",
+                "I will lose, even against grown-ups."
+            ]
+        },
+        {
+            "id": "a002_184_0011",
+            "en_US": [
+                "Fweh! I am just a kid!\n",
+                "You are fighting for keeps!"
+            ]
+        },
+        {
+            "id": "a002_184_0012",
+            "en_US": [
+                "Let's have an awesome\n",
+                "Pokémon battle!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0013",
+            "en_US": [
+                "Mmmph! Mmmmmph!\n",
+                "You see, it's fun to win!"
+            ]
+        },
+        {
+            "id": "a002_184_0014",
+            "en_US": [
+                "You are pretty amazing!\n",
+                "And you have totally exhausted me..."
+            ]
+        },
+        {
+            "id": "a002_184_0015",
+            "en_US": [
+                "Very serious from the very beginning.\n",
+                "Are you ever really prepared for this?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0016",
+            "en_US": [
+                "Seriously, winning a serious battle is\n",
+                "seriously great!"
+            ]
+        },
+        {
+            "id": "a002_184_0017",
+            "en_US": [
+                "Seriously, I lost. I am seriously depressed.\n",
+                "But you are seriously cool."
+            ]
+        },
+        {
+            "id": "a002_184_0018",
+            "en_US": [
+                "Go easy on me!\n",
+                "This is my first battle..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0019",
+            "en_US": [
+                "I can't believe I won my first battle!\n",
+                "Say, did you go easy on me?"
+            ]
+        },
+        {
+            "id": "a002_184_0020",
+            "en_US": [
+                "Ouch! That hurts!!\n",
+                "But... You are great..."
+            ]
+        },
+        {
+            "id": "a002_184_0021",
+            "en_US": [
+                "You... You know,\n",
+                "these Pokémon are my friends."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0022",
+            "en_US": [
+                "I... I... I am sorry...\n",
+                "I just wanted to introduce them to you."
+            ]
+        },
+        {
+            "id": "a002_184_0023",
+            "en_US": [
+                "Just being with these Pokémon\n",
+                "makes me happy..."
+            ]
+        },
+        {
+            "id": "a002_184_0024",
+            "en_US": [
+                "...Heehee. I'm confident in calculation\n",
+                "and analysis."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0025",
+            "en_US": [
+                "Heheh. Exactly as I planned...\n",
+                "I don't feel like losing."
+            ]
+        },
+        {
+            "id": "a002_184_0026",
+            "en_US": [
+                "Ohhhh... Calculation and analysis\n",
+                "are no match for coincidence..."
+            ]
+        },
+        {
+            "id": "a002_184_0027",
+            "en_US": [
+                "We're about to have a Pokémon battle.\n",
+                "At the very least, we say hello!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0028",
+            "en_US": [
+                "That could have gone better,\n",
+                "but thank you very much."
+            ]
+        },
+        {
+            "id": "a002_184_0029",
+            "en_US": [
+                "I feel like crying in frustration,\n",
+                "but thank you very much."
+            ]
+        },
+        {
+            "id": "a002_184_0030",
+            "en_US": [
+                "I am studying every single day...\n",
+                "So I am taking a break for a change."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0031",
+            "en_US": [
+                "You see, playing with Pokémon is fun.\n",
+                "I want to study Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0032",
+            "en_US": [
+                "Ah, my Pokémon lost...\n",
+                "I may be better at studying."
+            ]
+        },
+        {
+            "id": "a002_184_0033",
+            "en_US": [
+                "I want to be a Pokémon research\n",
+                "scientist when I grow up."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0034",
+            "en_US": [
+                "I'm wondering if Pokémon research\n",
+                "projects require test subjects..."
+            ]
+        },
+        {
+            "id": "a002_184_0035",
+            "en_US": [
+                "I must do my best to learn\n",
+                "more about Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0036",
+            "en_US": [
+                "Ah... You look strong...\n",
+                "I hope I will be all right..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0037",
+            "en_US": [
+                "Oops, you were not as strong\n",
+                "as I expected... Looks can be deceiving."
+            ]
+        },
+        {
+            "id": "a002_184_0038",
+            "en_US": [
+                "I could tell you are a strong Trainer!\n",
+                "What you see is what you get."
+            ]
+        },
+        {
+            "id": "a002_184_0039",
+            "en_US": [
+                "I always get the best grades!\n",
+                "I will try to be No. 1 for everything!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0040",
+            "en_US": [
+                "I will keep winning, winning, winning...\n",
+                "I will be No. 1!"
+            ]
+        },
+        {
+            "id": "a002_184_0041",
+            "en_US": [
+                "If I lose at such an early stage,\n",
+                "I cannot be No. 1."
+            ]
+        },
+        {
+            "id": "a002_184_0042",
+            "en_US": [
+                "Wha--? You wanna fight with me?\n",
+                "I suppoooose..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0043",
+            "en_US": [
+                "Ah, I shoulda known.\n",
+                "Don't blame me."
+            ]
+        },
+        {
+            "id": "a002_184_0044",
+            "en_US": [
+                "Oh, wow. I am no match for you.\n",
+                "Your Pokémon are great."
+            ]
+        },
+        {
+            "id": "a002_184_0045",
+            "en_US": [
+                "Mrrrrr... Mmrr grrr...\n",
+                "Grrrrr... Mrrrrr..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0046",
+            "en_US": [
+                "Grrrrr... Mmrrrr...\n",
+                "...Oh? Did I win?"
+            ]
+        },
+        {
+            "id": "a002_184_0047",
+            "en_US": [
+                "Grrrrmmm... Mrrr...\n",
+                "Oh? Is that it?"
+            ]
+        },
+        {
+            "id": "a002_184_0048",
+            "en_US": [
+                "Here I am, a master of the universe and\n",
+                "the mover and shaker of the future!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0049",
+            "en_US": [
+                "The class differences always tell.\n",
+                "I am worried about your future prospects."
+            ]
+        },
+        {
+            "id": "a002_184_0050",
+            "en_US": [
+                "I got carried away.\n",
+                "I am worried about my future prospects."
+            ]
+        },
+        {
+            "id": "a002_184_0051",
+            "en_US": [
+                "Are you my opponent?\n",
+                "You look kind of hungry."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0052",
+            "en_US": [
+                "Have you eaten well?\n",
+                "You cannot do well on an empty stomach."
+            ]
+        },
+        {
+            "id": "a002_184_0053",
+            "en_US": [
+                "Are you really an ordinary person?\n",
+                "What do you eat?"
+            ]
+        },
+        {
+            "id": "a002_184_0054",
+            "en_US": [
+                "I am a nouveau riche celebrity,\n",
+                "so I am stingy with my money!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0055",
+            "en_US": [
+                "Unfortunately, you lost.\n",
+                "Now, give me your lunch money!"
+            ]
+        },
+        {
+            "id": "a002_184_0056",
+            "en_US": [
+                "I lost, but I won't give you\n",
+                "my lunch money!"
+            ]
+        },
+        {
+            "id": "a002_184_0057",
+            "en_US": [
+                "My mom chose my Pokémon.\n",
+                "I don't think I will lose."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0058",
+            "en_US": [
+                "You see! I am fine as long as\n",
+                "I listen to my mom."
+            ]
+        },
+        {
+            "id": "a002_184_0059",
+            "en_US": [
+                "Mommy! Mommy! Where are you?\n",
+                "Please come and hug me!"
+            ]
+        },
+        {
+            "id": "a002_184_0060",
+            "en_US": [
+                "A Trainer who looks gorgeous!\n",
+                "I hope your battle is just as beautiful."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0061",
+            "en_US": [
+                "Such a looker lost against me?!\n",
+                "I am a little disappointed."
+            ]
+        },
+        {
+            "id": "a002_184_0062",
+            "en_US": [
+                "Oh my, the battle was also gorgeous.\n",
+                "I find myself drawn to you."
+            ]
+        },
+        {
+            "id": "a002_184_0063",
+            "en_US": [
+                "What kind of Pokémon do you like?\n",
+                "Hey, hey. Let me see!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0064",
+            "en_US": [
+                "Your taste in Pokémon is excellent, \n",
+                "but you are a disappointment as a Trainer."
+            ]
+        },
+        {
+            "id": "a002_184_0065",
+            "en_US": [
+                "Your taste in Pokémon is truly awful,\n",
+                "but you are a first-class Trainer!"
+            ]
+        },
+        {
+            "id": "a002_184_0066",
+            "en_US": [
+                "I am sorry--I lied.\n",
+                "I am not a rich girl."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0067",
+            "en_US": [
+                "Everybody paid more attention to me\n",
+                "when I pretended to be rich."
+            ]
+        },
+        {
+            "id": "a002_184_0068",
+            "en_US": [
+                "The truth is I am just the daughter\n",
+                "of a Clerk ⑭."
+            ]
+        },
+        {
+            "id": "a002_184_0069",
+            "en_US": "Ahaha...",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0070",
+            "en_US": "Ahahaha..."
+        },
+        {
+            "id": "a002_184_0071",
+            "en_US": "Argh..."
+        },
+        {
+            "id": "a002_184_0072",
+            "en_US": [
+                "Preschooler gonna battle you!\n",
+                "Nice to meet you."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0073",
+            "en_US": [
+                "Little baby is a winna!\n",
+                "Tank you! Tank you!"
+            ]
+        },
+        {
+            "id": "a002_184_0074",
+            "en_US": [
+                "Da Preschooler lost!\n",
+                "Tank you anyways!"
+            ]
+        },
+        {
+            "id": "a002_184_0075",
+            "en_US": [
+                "I am a genius Preschooler!\n",
+                "I am already prepping for college."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0076",
+            "en_US": [
+                "You lost against a Preschooler...\n",
+                "How old are you again?"
+            ]
+        },
+        {
+            "id": "a002_184_0077",
+            "en_US": [
+                "I am confident in studying, but\n",
+                "I am just a beginner in Pokémon battles."
+            ]
+        },
+        {
+            "id": "a002_184_0078",
+            "en_US": [
+                "I am a hero!\n",
+                "I refuse to lose!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0079",
+            "en_US": [
+                "I AM a hero!\n",
+                "I beat the bad person!"
+            ]
+        },
+        {
+            "id": "a002_184_0080",
+            "en_US": [
+                "A hero never loses.\n",
+                "A hero never dies."
+            ]
+        },
+        {
+            "id": "a002_184_0081",
+            "en_US": [
+                "I am very strong.\n",
+                "I will never lose."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0082",
+            "en_US": [
+                "Daddy gave me these Pokémon!\n",
+                "They've got to be strong!"
+            ]
+        },
+        {
+            "id": "a002_184_0083",
+            "en_US": "AAAAAAAAAH!"
+        },
+        {
+            "id": "a002_184_0084",
+            "en_US": [
+                "I thinks it are strange\n",
+                "it complaining when they lose."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0085",
+            "en_US": [
+                "When I win, I are glad!\n",
+                "Hip, hip, hurray!"
+            ]
+        },
+        {
+            "id": "a002_184_0086",
+            "en_US": [
+                "Boo!! I did lost... I are frustrated,\n",
+                "but I guess things my own fault."
+            ]
+        },
+        {
+            "id": "a002_184_0087",
+            "en_US": "Are you going to bully me?",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0088",
+            "en_US": "You didn't bully me. I like you!"
+        },
+        {
+            "id": "a002_184_0089",
+            "en_US": [
+                "You bullied me, but I like you\n",
+                "'cause you are strong!"
+            ]
+        },
+        {
+            "id": "a002_184_0090",
+            "en_US": [
+                "Gmmmmm! Pokémon!\n",
+                "Give it all you've got!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0091",
+            "en_US": [
+                "Mmmmph! Yahoo! Yahoo!\n",
+                "Thank you very much, Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_184_0092",
+            "en_US": [
+                "Boooooo! Come on, Pokémon.\n",
+                "Try harder!"
+            ]
+        },
+        {
+            "id": "a002_184_0093",
+            "en_US": [
+                "I am four years old! I will do my best!\n",
+                "Trainer, do your best, too!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0094",
+            "en_US": [
+                "I am four years old! I did my best!\n",
+                "Trainer, you are weak."
+            ]
+        },
+        {
+            "id": "a002_184_0095",
+            "en_US": [
+                "I am four years old! I did my best!\n",
+                "Trainer, you did your best, too!"
+            ]
+        },
+        {
+            "id": "a002_184_0096",
+            "en_US": [
+                "Lalalala... Lalalala...\n",
+                "I am a loner..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0097",
+            "en_US": [
+                "Lalalala... Lalalala...\n",
+                "Drifting like clouds..."
+            ]
+        },
+        {
+            "id": "a002_184_0098",
+            "en_US": [
+                "Lalalala... Lalalala...\n",
+                "Until I see you again..."
+            ]
+        },
+        {
+            "id": "a002_184_0099",
+            "en_US": [
+                "I am not an ordinary Backpacker,\n",
+                "'cause I am a newlywed."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0100",
+            "en_US": [
+                "'Cause my wife and I have no money,\n",
+                "we're hitchhiking on our honeymoon."
+            ]
+        },
+        {
+            "id": "a002_184_0101",
+            "en_US": [
+                "This trip is our honeymoon!\n",
+                "But I wandered off from my wife..."
+            ]
+        },
+        {
+            "id": "a002_184_0102",
+            "en_US": [
+                "I am in the middle of my penniless travel.\n",
+                "It has its own charm."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0103",
+            "en_US": [
+                "Travel is best when you are poor\n",
+                "and when you are young."
+            ]
+        },
+        {
+            "id": "a002_184_0104",
+            "en_US": [
+                "Aww... I am hungry...\n",
+                "Please spare something..."
+            ]
+        },
+        {
+            "id": "a002_184_0105",
+            "en_US": [
+                "Argh! My backpack is heavy!\n",
+                "Why is it so heavy?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0106",
+            "en_US": [
+                "Why is this backpack so heavy?\n",
+                "Did you put something in it?"
+            ]
+        },
+        {
+            "id": "a002_184_0107",
+            "en_US": [
+                "Arrrgh! Why didn't you wait\n",
+                "until I put down my bag?!"
+            ]
+        },
+        {
+            "id": "a002_184_0108",
+            "en_US": [
+                "I wanted a short trip to heal my broken\n",
+                "heart, but it's been a few months now..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0109",
+            "en_US": "A trip cannot heal my heartbreak..."
+        },
+        {
+            "id": "a002_184_0110",
+            "en_US": [
+                "I have no home to return to,\n",
+                "so maybe I will live as a drifter..."
+            ]
+        },
+        {
+            "id": "a002_184_0111",
+            "en_US": [
+                "Hm. I wonder who you are.\n",
+                "I wonder if you'll have a battle with me."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0112",
+            "en_US": [
+                "You... You are weak.\n",
+                "Or am I just strong?"
+            ]
+        },
+        {
+            "id": "a002_184_0113",
+            "en_US": [
+                "You are strong.\n",
+                "I wanna run away."
+            ]
+        },
+        {
+            "id": "a002_184_0114",
+            "en_US": [
+                "Sometimes I need a little time to rest.\n",
+                "I will relax here!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0115",
+            "en_US": [
+                "That was a nice, refreshing time.\n",
+                "I will work hard tomorrow!"
+            ]
+        },
+        {
+            "id": "a002_184_0116",
+            "en_US": [
+                "That was supposed to be refreshing.\n",
+                "Now I am more stressed out."
+            ]
+        },
+        {
+            "id": "a002_184_0117",
+            "en_US": [
+                "I hope to work hard, save money,\n",
+                "and have a quiet life."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0118",
+            "en_US": [
+                "Everybody has a different dream.\n",
+                "I just want to have a normal life."
+            ]
+        },
+        {
+            "id": "a002_184_0119",
+            "en_US": [
+                "I want to have security and happiness\n",
+                "rather than chasing a big dream."
+            ]
+        },
+        {
+            "id": "a002_184_0120",
+            "en_US": [
+                "Hey! Welcome! \n",
+                "We have very fresh ingredients!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0121",
+            "en_US": [
+                "What do you think of my Pokémon?\n",
+                "They are fresh!"
+            ]
+        },
+        {
+            "id": "a002_184_0122",
+            "en_US": [
+                "Thank you very much!\n",
+                "How were mine?"
+            ]
+        },
+        {
+            "id": "a002_184_0123",
+            "en_US": [
+                "Didn't you come here for\n",
+                "a Pokémon battle?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0124",
+            "en_US": [
+                "Don't be scared, or\n",
+                "you will never win."
+            ]
+        },
+        {
+            "id": "a002_184_0125",
+            "en_US": [
+                "You are a strong Trainer.\n",
+                "Please forgive me."
+            ]
+        },
+        {
+            "id": "a002_184_0126",
+            "en_US": [
+                "Hiya, honey! Welcome!\n",
+                "Have you decided what you'll have?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0127",
+            "en_US": [
+                "Order up! One humiliation\n",
+                "in a Pokémon battle, over easy."
+            ]
+        },
+        {
+            "id": "a002_184_0128",
+            "en_US": [
+                "Order up! One glorious victory\n",
+                "in a Pokémon battle, sunny side up."
+            ]
+        },
+        {
+            "id": "a002_184_0129",
+            "en_US": [
+                "Meow, meow, it's a battle, meow.\n",
+                "(That sounds stupid, doesn't it?)"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0130",
+            "en_US": [
+                "Yeah! Meow! I won, meow!\n",
+                "(I seriously want to quit this job.)"
+            ]
+        },
+        {
+            "id": "a002_184_0131",
+            "en_US": [
+                "Meowww... I lost, meowww.\n",
+                "(Seriously, I am sooo embarrassed.)"
+            ]
+        },
+        {
+            "id": "a002_184_0132",
+            "en_US": [
+                "My love for Pokémon is stronger than\n",
+                "anybody else's. Love can do anything."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0133",
+            "en_US": [
+                "This victory proves\n",
+                "my true love for Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0134",
+            "en_US": [
+                "Love should conquer all. Love should\n",
+                "help me win, shouldn't it?"
+            ]
+        },
+        {
+            "id": "a002_184_0135",
+            "en_US": [
+                "Oh, do you want to see the Pokémon\n",
+                "that I am proudest of?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0136",
+            "en_US": [
+                "What do you think about my \n",
+                "dear Pokémon? Aren't they great?"
+            ]
+        },
+        {
+            "id": "a002_184_0137",
+            "en_US": [
+                "Oh, my goodness!\n",
+                "My poor Pokémon..."
+            ]
+        },
+        {
+            "id": "a002_184_0138",
+            "en_US": [
+                "For the honor of the branch office!\n",
+                "Here I go!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0139",
+            "en_US": [
+                "I am the branch manager of the Pokéfan.\n",
+                "I won!"
+            ]
+        },
+        {
+            "id": "a002_184_0140",
+            "en_US": [
+                "Pfft. Good-bye for now, child!\n",
+                "I'll remember this!"
+            ]
+        },
+        {
+            "id": "a002_184_0141",
+            "en_US": [
+                "I lost a lot of things because\n",
+                "I love Pokémon too much..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0142",
+            "en_US": [
+                "I've devoted my life to Pokémon. \n",
+                "I see things differently than you do."
+            ]
+        },
+        {
+            "id": "a002_184_0143",
+            "en_US": [
+                "I cannot win even with my devotion.\n",
+                "What shall I do?!"
+            ]
+        },
+        {
+            "id": "a002_184_0144",
+            "en_US": "Listen. I love love love Pokémon.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0145",
+            "en_US": "I will be a Pokémon in my next life."
+        },
+        {
+            "id": "a002_184_0146",
+            "en_US": [
+                "I love your Pokémon, too!\n",
+                "Please let me pet them!"
+            ]
+        },
+        {
+            "id": "a002_184_0147",
+            "en_US": [
+                "I am not good at battling, but\n",
+                "this is one of the duties of a Pokéfan."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0148",
+            "en_US": [
+                "I kept the honor of the Pokéfan.\n",
+                "Hahaha."
+            ]
+        },
+        {
+            "id": "a002_184_0149",
+            "en_US": [
+                "Cheers, all you Pokéfans!!\n",
+                "May the Pokéfan last forever!"
+            ]
+        },
+        {
+            "id": "a002_184_0150",
+            "en_US": [
+                "I wanted to go hiking,\n",
+                "but I took the wrong train."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0151",
+            "en_US": "Well, this place is also interesting."
+        },
+        {
+            "id": "a002_184_0152",
+            "en_US": [
+                "Ah, mountains... The mountains are\n",
+                "calling me."
+            ]
+        },
+        {
+            "id": "a002_184_0153",
+            "en_US": [
+                "I am no mere Hiker.\n",
+                "Call me an alpinist."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0154",
+            "en_US": [
+                "A mountain maniac like me\n",
+                "is properly called an alpinist."
+            ]
+        },
+        {
+            "id": "a002_184_0155",
+            "en_US": [
+                "A specialist in mountainous matters.\n",
+                "That is an alpinist."
+            ]
+        },
+        {
+            "id": "a002_184_0156",
+            "en_US": [
+                "I'm a Fisherman, so I have my rod here,\n",
+                "but this is cumbersome."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0157",
+            "en_US": [
+                "I won the battle, but\n",
+                "I did not need this rod at all."
+            ]
+        },
+        {
+            "id": "a002_184_0158",
+            "en_US": [
+                "Ah... This rod is so cumbersome!\n",
+                "I will quit fishing!"
+            ]
+        },
+        {
+            "id": "a002_184_0159",
+            "en_US": "Oh, I kin tell yer rilly sumpthin'.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0160",
+            "en_US": "I knew it. You rilly ARE sumpthin'."
+        },
+        {
+            "id": "a002_184_0161",
+            "en_US": "Like always, the big one done got away."
+        },
+        {
+            "id": "a002_184_0162",
+            "en_US": [
+                "I won't be a Parasol Lady without\n",
+                "a parasol, so I must use it."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0163",
+            "en_US": [
+                "I think it is strange to use\n",
+                "a parasol indoors, though."
+            ]
+        },
+        {
+            "id": "a002_184_0164",
+            "en_US": [
+                "My parasol... My parasol is broken!\n",
+                "I will be just a Lady."
+            ]
+        },
+        {
+            "id": "a002_184_0165",
+            "en_US": [
+                "My boyfriend left me on a rainy day.\n",
+                "So I will take it out on you."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0166",
+            "en_US": [
+                "The rain is piercing my broken heart\n",
+                "and washing it clean."
+            ]
+        },
+        {
+            "id": "a002_184_0167",
+            "en_US": [
+                "They say rainy days never stay,\n",
+                "but will the rain in my heart ever stop?"
+            ]
+        },
+        {
+            "id": "a002_184_0168",
+            "en_US": [
+                "I've been waiting for someone like you\n",
+                "for a long, long time."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0169",
+            "en_US": [
+                "I know you are the best.\n",
+                "I will never let you go."
+            ]
+        },
+        {
+            "id": "a002_184_0170",
+            "en_US": [
+                "I like you.\n",
+                "Please be my friend."
+            ]
+        },
+        {
+            "id": "a002_184_0171",
+            "en_US": [
+                "I won't go easy on you just because\n",
+                "you're a kid. Bring it on!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0172",
+            "en_US": [
+                "Heh. You cannot have a battle\n",
+                "if you are afraid of losing."
+            ]
+        },
+        {
+            "id": "a002_184_0173",
+            "en_US": [
+                "Humph. I am still weak.\n",
+                "I feel sorry for my Pokémon..."
+            ]
+        },
+        {
+            "id": "a002_184_0174",
+            "en_US": [
+                "I am bad and stupid, but\n",
+                "I am very serious about Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0175",
+            "en_US": "I feel peaceful only when I am with Pokémon."
+        },
+        {
+            "id": "a002_184_0176",
+            "en_US": [
+                "I hope you will find something\n",
+                "you can be serious about."
+            ]
+        },
+        {
+            "id": "a002_184_0177",
+            "en_US": "My shiny bald head is my secret.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0178",
+            "en_US": [
+                "The more I shave my head,\n",
+                "the stronger I can be."
+            ]
+        },
+        {
+            "id": "a002_184_0179",
+            "en_US": [
+                "You should have\n",
+                "a shiny bald head to be stronger."
+            ]
+        },
+        {
+            "id": "a002_184_0180",
+            "en_US": [
+                "You must be laughing at me 'cause\n",
+                "I rode this far on my motorbike."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0181",
+            "en_US": "I've decided to live my life on my bike."
+        },
+        {
+            "id": "a002_184_0182",
+            "en_US": [
+                "I am a coward who cannot even go out\n",
+                "without my bike."
+            ]
+        },
+        {
+            "id": "a002_184_0183",
+            "en_US": [
+                "I am roaring around on my bike\n",
+                "and chasing my own dream."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0184",
+            "en_US": [
+                "I feel I am getting one step closer\n",
+                "to my dream."
+            ]
+        },
+        {
+            "id": "a002_184_0185",
+            "en_US": "You have to follow your own dream!"
+        },
+        {
+            "id": "a002_184_0186",
+            "en_US": [
+                "I am a Biker.\n",
+                "But I've never ridden a bike."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0187",
+            "en_US": [
+                "I am a Biker.\n",
+                "I don't have any friends yet."
+            ]
+        },
+        {
+            "id": "a002_184_0188",
+            "en_US": [
+                "I am a Biker.\n",
+                "I've never won yet."
+            ]
+        },
+        {
+            "id": "a002_184_0189",
+            "en_US": [
+                "My Pokémon are on the rise! I raised\n",
+                "them with special yeast bread!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0190",
+            "en_US": [
+                "You'll get well again if you\n",
+                "eat my special bread."
+            ]
+        },
+        {
+            "id": "a002_184_0191",
+            "en_US": [
+                "You are strong.\n",
+                "Are you eating my special bread?"
+            ]
+        },
+        {
+            "id": "a002_184_0192",
+            "en_US": [
+                "One loaf, two loaves... No matter how\n",
+                "many times I count, one loaf is missing."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0193",
+            "en_US": [
+                "One loaf of bread is missing...\n",
+                "The master will be angry..."
+            ]
+        },
+        {
+            "id": "a002_184_0194",
+            "en_US": [
+                "Oh, I'm so resentful...\n",
+                "Where is the missing loaf of bread?"
+            ]
+        },
+        {
+            "id": "a002_184_0195",
+            "en_US": [
+                "Hey, you!\n",
+                "Do you eat a good breakfast every day?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0196",
+            "en_US": [
+                "I never miss breakfast,\n",
+                "so I am healthy and plump!"
+            ]
+        },
+        {
+            "id": "a002_184_0197",
+            "en_US": [
+                "The first step for healthy living is\n",
+                "to eat a good breakfast."
+            ]
+        },
+        {
+            "id": "a002_184_0198",
+            "en_US": [
+                "I am not loafing on the job!\n",
+                "I am on patrol!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0199",
+            "en_US": [
+                "This place is dangerous!\n",
+                "This is too much fun!"
+            ]
+        },
+        {
+            "id": "a002_184_0200",
+            "en_US": [
+                "I know about trouble like you!\n",
+                "I am keeping my eye on you!"
+            ]
+        },
+        {
+            "id": "a002_184_0201",
+            "en_US": [
+                "I am a Policeman!\n",
+                "In other words, I am justice!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0202",
+            "en_US": [
+                "Justice always prevails!\n",
+                "That is why I won!"
+            ]
+        },
+        {
+            "id": "a002_184_0203",
+            "en_US": [
+                "I... I am a Policeman!\n",
+                "Why did justice fail?"
+            ]
+        },
+        {
+            "id": "a002_184_0204",
+            "en_US": [
+                "I got scolded by my boss, and I lost\n",
+                "my motivation. I'll take it out on you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0205",
+            "en_US": [
+                "Hehehe. You see!\n",
+                "I am brilliant here."
+            ]
+        },
+        {
+            "id": "a002_184_0206",
+            "en_US": [
+                "Oh, man! \n",
+                "Am I useless here, too?"
+            ]
+        },
+        {
+            "id": "a002_184_0207",
+            "en_US": [
+                "I am young and fresh!\n",
+                "I am nothing if not young!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0208",
+            "en_US": [
+                "What do you think? What do you think?\n",
+                "I am very strong, aren't I?"
+            ]
+        },
+        {
+            "id": "a002_184_0209",
+            "en_US": [
+                "I am fine even when I lose a battle.\n",
+                "I am lively, lively!"
+            ]
+        },
+        {
+            "id": "a002_184_0210",
+            "en_US": [
+                "I worked my way up to the top of the\n",
+                "comedians, and now I am a big shot."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0211",
+            "en_US": [
+                "You have a good sense of humor.\n",
+                "Do you want to be my assistant?"
+            ]
+        },
+        {
+            "id": "a002_184_0212",
+            "en_US": [
+                "Looking at you reminds me of friends\n",
+                "from when I was working my way up."
+            ]
+        },
+        {
+            "id": "a002_184_0213",
+            "en_US": [
+                "I cannot do impressive stunts,\n",
+                "so I will perform normally."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0214",
+            "en_US": [
+                "I am sorry. I shouldn't have won.\n",
+                "I am just a Harlequin."
+            ]
+        },
+        {
+            "id": "a002_184_0215",
+            "en_US": [
+                "I am a Harlequin, but I'm sorry I cannot\n",
+                "play the fool after I lose."
+            ]
+        },
+        {
+            "id": "a002_184_0216",
+            "en_US": [
+                "I am smiling, though I am sad at heart.\n",
+                "This is the play of a lifetime!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0217",
+            "en_US": [
+                "You! That's not in the script!\n",
+                "You ruined the play!"
+            ]
+        },
+        {
+            "id": "a002_184_0218",
+            "en_US": [
+                "Ha ha ha! It is the destiny of a Harlequin\n",
+                "to smile when he loses."
+            ]
+        },
+        {
+            "id": "a002_184_0219",
+            "en_US": [
+                "Oh, no! I came to play\n",
+                "without taking off my uniform."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0220",
+            "en_US": [
+                "Wow! Seriously? I won!\n",
+                "I cannot go home when I win."
+            ]
+        },
+        {
+            "id": "a002_184_0221",
+            "en_US": [
+                "Ahhhhh! And I lost!\n",
+                "This is not my day."
+            ]
+        },
+        {
+            "id": "a002_184_0222",
+            "en_US": [
+                "You know, I am very popular,\n",
+                "thanks to this costume."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0223",
+            "en_US": [
+                "Being popular is simple...\n",
+                "I like it that way."
+            ]
+        },
+        {
+            "id": "a002_184_0224",
+            "en_US": [
+                "I feel good 'cause I am popular, but\n",
+                "sometimes I feel empty."
+            ]
+        },
+        {
+            "id": "a002_184_0225",
+            "en_US": [
+                "Welcome back.\n",
+                "You must be tired from your work."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0226",
+            "en_US": [
+                "You must be tired.\n",
+                "Please do rest awhile."
+            ]
+        },
+        {
+            "id": "a002_184_0227",
+            "en_US": [
+                "That was superb!\n",
+                "You are very strong indeed."
+            ]
+        },
+        {
+            "id": "a002_184_0228",
+            "en_US": [
+                "I used to be so popular, but\n",
+                "now I am all washed up."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0229",
+            "en_US": [
+                "I was overwhelmed by success, I took it\n",
+                "for granted, and I did not work hard."
+            ]
+        },
+        {
+            "id": "a002_184_0230",
+            "en_US": [
+                "As times change, values change.\n",
+                "I realized it too late."
+            ]
+        },
+        {
+            "id": "a002_184_0231",
+            "en_US": [
+                "Well, well, you strike impressive poses.\n",
+                "If you lose, I hope you'll model for me."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0232",
+            "en_US": [
+                "I will do a sketch of you,\n",
+                "frustrated by failure. Please hold still."
+            ]
+        },
+        {
+            "id": "a002_184_0233",
+            "en_US": [
+                "Please wait. I can create a masterpiece\n",
+                "if you are my model."
+            ]
+        },
+        {
+            "id": "a002_184_0234",
+            "en_US": [
+                "Sensitivity is important for battles, too.\n",
+                "You! Feel it!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0235",
+            "en_US": [
+                "You need to feel it more! More!\n",
+                "Otherwise you cannot win!"
+            ]
+        },
+        {
+            "id": "a002_184_0236",
+            "en_US": [
+                "Ahh! I sense it!\n",
+                "I sense your hypersensitive sensitivity!"
+            ]
+        },
+        {
+            "id": "a002_184_0237",
+            "en_US": [
+                "Everybody grows bit by bit\n",
+                "if somebody cherishes them."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0238",
+            "en_US": [
+                "I have cherished these Pokémon\n",
+                "since they were small."
+            ]
+        },
+        {
+            "id": "a002_184_0239",
+            "en_US": [
+                "You are also here \n",
+                "because someone cherished you."
+            ]
+        },
+        {
+            "id": "a002_184_0240",
+            "en_US": [
+                "These days, when children fight,\n",
+                "their parents fight on their behalf."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0241",
+            "en_US": [
+                "Children of childish parents.\n",
+                "What kind of adults will they become?"
+            ]
+        },
+        {
+            "id": "a002_184_0242",
+            "en_US": [
+                "Childish fights among adults are\n",
+                "worse than fights among kids."
+            ]
+        },
+        {
+            "id": "a002_184_0243",
+            "en_US": [
+                "Iaaaa! You are cute!\n",
+                "I want to take you home as my own!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0244",
+            "en_US": [
+                "Your face is cute even when you've lost!\n",
+                "I want to comfort you, little one!"
+            ]
+        },
+        {
+            "id": "a002_184_0245",
+            "en_US": [
+                "Ooooh! You are really cute!\n",
+                "I want to raise you as my own!"
+            ]
+        },
+        {
+            "id": "a002_184_0246",
+            "en_US": [
+                "I'll show you we can break you.\n",
+                "We've trained in the field!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0247",
+            "en_US": [
+                "How were my Pokémon?\n",
+                "They're very powerful, aren't they?"
+            ]
+        },
+        {
+            "id": "a002_184_0248",
+            "en_US": [
+                "That's strange! I wonder why...\n",
+                "I shouldn't be outmuscled."
+            ]
+        },
+        {
+            "id": "a002_184_0249",
+            "en_US": [
+                "Oh, you look very active!\n",
+                "What say we battle?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0250",
+            "en_US": [
+                "OK! It's done!\n",
+                "How are my partners?"
+            ]
+        },
+        {
+            "id": "a002_184_0251",
+            "en_US": [
+                "Goood, you are young!\n",
+                "My partners were totally crushed!"
+            ]
+        },
+        {
+            "id": "a002_184_0252",
+            "en_US": [
+                "Pokémon battles after work\n",
+                "are the one thing I truly enjoy."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0253",
+            "en_US": [
+                "Ahhhhhhhhh!\n",
+                "That's why I cannot quit training Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0254",
+            "en_US": [
+                "Urrrrrrrgh. It hurts.\n",
+                "It hurts for a single man like me."
+            ]
+        },
+        {
+            "id": "a002_184_0255",
+            "en_US": [
+                "Pokémon are popular at work, too.\n",
+                "Old guys can enjoy these battles!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0256",
+            "en_US": [
+                "Am I good for a guy who just\n",
+                "battles during his lunch breaks?"
+            ]
+        },
+        {
+            "id": "a002_184_0257",
+            "en_US": [
+                "Old guys and kids can both enjoy\n",
+                "battling with Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0258",
+            "en_US": [
+                "Keep pedaling even when your legs\n",
+                "crumble. This is the secret of Cyclists."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0259",
+            "en_US": [
+                "A Pokémon trained by cycling\n",
+                "could never lose against a person like you."
+            ]
+        },
+        {
+            "id": "a002_184_0260",
+            "en_US": [
+                "My cycling has no limits.\n",
+                "I will challenge you again someday."
+            ]
+        },
+        {
+            "id": "a002_184_0261",
+            "en_US": [
+                "My steel-wheeled friend brought me here.\n",
+                "Isn't it the greatest ever?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0262",
+            "en_US": [
+                "This is my best friend forever!\n",
+                "Always reliable and true as steel!"
+            ]
+        },
+        {
+            "id": "a002_184_0263",
+            "en_US": [
+                "I blundered, stumbled, and lost...\n",
+                "Well, I still have my one and only."
+            ]
+        },
+        {
+            "id": "a002_184_0264",
+            "en_US": [
+                "Fun time is over.\n",
+                "Time to wake up!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0265",
+            "en_US": "The end always comes as a shock."
+        },
+        {
+            "id": "a002_184_0266",
+            "en_US": [
+                "You are greatly mistaken if you\n",
+                "think you can dream forever."
+            ]
+        },
+        {
+            "id": "a002_184_0267",
+            "en_US": [
+                "I'm done! It's just not good enough.\n",
+                "A Bicycle is not enough of a challenge."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0268",
+            "en_US": [
+                "A Bicycle cannot satisfy me.\n",
+                "I will join the Bikers!"
+            ]
+        },
+        {
+            "id": "a002_184_0269",
+            "en_US": [
+                "Faster!! I want a speed that nobody\n",
+                "can beat!"
+            ]
+        },
+        {
+            "id": "a002_184_0270",
+            "en_US": [
+                "I won't surrender to you.\n",
+                "You are nothing but a young fellow!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0271",
+            "en_US": [
+                "I won't lose against whippersnappers!\n",
+                "I shall struggle on until the day I die!"
+            ]
+        },
+        {
+            "id": "a002_184_0272",
+            "en_US": [
+                "Impressive! You are skillful for a\n",
+                "green stripling, young fellow!"
+            ]
+        },
+        {
+            "id": "a002_184_0273",
+            "en_US": [
+                "Like a powerful foaming cleanser,\n",
+                "I will remove you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0274",
+            "en_US": [
+                "Like a well-polished tile,\n",
+                "this is a sparkling victory!"
+            ]
+        },
+        {
+            "id": "a002_184_0275",
+            "en_US": "Like a worn-out dust rag..."
+        },
+        {
+            "id": "a002_184_0276",
+            "en_US": [
+                "I am doing this job because\n",
+                "I love love love trains."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0277",
+            "en_US": [
+                "You are happy if you choose something\n",
+                "you like as a job."
+            ]
+        },
+        {
+            "id": "a002_184_0278",
+            "en_US": [
+                "I love trains too much.\n",
+                "It's a sickness, really..."
+            ]
+        },
+        {
+            "id": "a002_184_0279",
+            "en_US": [
+                "Your journey will end here.\n",
+                "I am your terminal."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0280",
+            "en_US": [
+                "I praise you for coming up here.\n",
+                "But now, go home!"
+            ]
+        },
+        {
+            "id": "a002_184_0281",
+            "en_US": [
+                "Ah... I didn't see it coming.\n",
+                "I will rest over here..."
+            ]
+        },
+        {
+            "id": "a002_184_0282",
+            "en_US": [
+                "I need to prove I'm worthy.\n",
+                "I cannot lose against a child."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0283",
+            "en_US": [
+                "Am I childish? Adults do\n",
+                "whatever it takes to win."
+            ]
+        },
+        {
+            "id": "a002_184_0284",
+            "en_US": [
+                "My honor, my pride... I cannot show myself\n",
+                "to my coworkers in such a miserable state."
+            ]
+        },
+        {
+            "id": "a002_184_0285",
+            "en_US": [
+                "Hey, I've learned a few things in my time.\n",
+                "Let me demonstrate!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0286",
+            "en_US": [
+                "Not everyone likes me, but\n",
+                "I am quite the Trainer, aren't I?"
+            ]
+        },
+        {
+            "id": "a002_184_0287",
+            "en_US": [
+                "Your technique shows wisdom...\n",
+                "Are you also an old man?"
+            ]
+        },
+        {
+            "id": "a002_184_0288",
+            "en_US": [
+                "They say a company with lively workers\n",
+                "is a good company!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0289",
+            "en_US": [
+                "I work hard all the time!\n",
+                "I can battle 24/7!"
+            ]
+        },
+        {
+            "id": "a002_184_0290",
+            "en_US": [
+                "Oh, look at the time!\n",
+                "I have to get back to work!"
+            ]
+        },
+        {
+            "id": "a002_184_0291",
+            "en_US": [
+                "My boss is seriously annoying!\n",
+                "I believe I'll take it out on you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0292",
+            "en_US": [
+                "Thank you for having a battle with me.\n",
+                "I feel much better."
+            ]
+        },
+        {
+            "id": "a002_184_0293",
+            "en_US": [
+                "You should choose your company carefully,\n",
+                "because you cannot choose your boss."
+            ]
+        },
+        {
+            "id": "a002_184_0294",
+            "en_US": [
+                "Are you my next patient?\n",
+                "Get over here!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0295",
+            "en_US": [
+                "Good, good. I am glad\n",
+                "that you and your Pokémon are obedient."
+            ]
+        },
+        {
+            "id": "a002_184_0296",
+            "en_US": [
+                "Wait! You, wait!\n",
+                "The surgery has not started yet!"
+            ]
+        },
+        {
+            "id": "a002_184_0297",
+            "en_US": [
+                "When there is a patient, I will be there.\n",
+                "That is my job."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0298",
+            "en_US": [
+                "Please put yourself at ease!\n",
+                "Your Doctor is here."
+            ]
+        },
+        {
+            "id": "a002_184_0299",
+            "en_US": [
+                "If you are hurt, please call me.\n",
+                "I'll be there for you."
+            ]
+        },
+        {
+            "id": "a002_184_0300",
+            "en_US": [
+                "Please go easy on me.\n",
+                "I just finished my night shift."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0301",
+            "en_US": [
+                "After all that work, let's relax\n",
+                "with some Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a002_184_0302",
+            "en_US": [
+                "Yawn... I'm sleepy...\n",
+                "I can't stay awake any longer..."
+            ]
+        },
+        {
+            "id": "a002_184_0303",
+            "en_US": "How are you and your Pokémon?",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0304",
+            "en_US": "I will inject you with my energy!"
+        },
+        {
+            "id": "a002_184_0305",
+            "en_US": [
+                "People can do so much\n",
+                "as long as they have energy!"
+            ]
+        },
+        {
+            "id": "a002_184_0306",
+            "en_US": [
+                "A Gentleman should have\n",
+                "a liking for battles."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0307",
+            "en_US": [
+                "A Gentleman should bask\n",
+                "in the elegant glow of his victory."
+            ]
+        },
+        {
+            "id": "a002_184_0308",
+            "en_US": [
+                "A Gentleman should accept the result of\n",
+                "a battle with a stoic mind."
+            ]
+        },
+        {
+            "id": "a002_184_0309",
+            "en_US": "I will evaluate your ability.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0310",
+            "en_US": [
+                "Hm... As a Trainer, you are\n",
+                "at the level of a Preschooler."
+            ]
+        },
+        {
+            "id": "a002_184_0311",
+            "en_US": [
+                "Hmm... As a Trainer, you are\n",
+                "at the level of Pokéfans."
+            ]
+        },
+        {
+            "id": "a002_184_0312",
+            "en_US": [
+                "You can learn a lot from mature women,\n",
+                "such as wisdom and good manners."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0313",
+            "en_US": [
+                "Woohoo! Were you knocked out by\n",
+                "the Socialite's charm?"
+            ]
+        },
+        {
+            "id": "a002_184_0314",
+            "en_US": "Did you enjoy the battle with me?"
+        },
+        {
+            "id": "a002_184_0315",
+            "en_US": [
+                "Oh-ho! Let's have a unique\n",
+                "and elegant battle."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0316",
+            "en_US": [
+                "Ah-ha! I was not confident, \n",
+                "but this is a delightful surprise."
+            ]
+        },
+        {
+            "id": "a002_184_0317",
+            "en_US": "Eeeeee! I'll remember this!"
+        },
+        {
+            "id": "a002_184_0318",
+            "en_US": [
+                "Obedient Pokémon, selfish Pokémon...\n",
+                "Pokémon have unique characteristics."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0319",
+            "en_US": [
+                "You should not get angry at your Pokémon,\n",
+                "even when you lose."
+            ]
+        },
+        {
+            "id": "a002_184_0320",
+            "en_US": [
+                "It is important to nurture and train\n",
+                "each Pokémon's characteristics."
+            ]
+        },
+        {
+            "id": "a002_184_0321",
+            "en_US": [
+                "Do you discipline your Pokémon?\n",
+                "Pampering them too much is no good."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0322",
+            "en_US": [
+                "You need to discipline Pokémon you\n",
+                "love when they are misbehaving."
+            ]
+        },
+        {
+            "id": "a002_184_0323",
+            "en_US": [
+                "Too much praise can spoil\n",
+                "both Pokémon and people."
+            ]
+        },
+        {
+            "id": "a002_184_0324",
+            "en_US": [
+                "Pokémon never betray you.\n",
+                "They will return the love you give them."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0325",
+            "en_US": [
+                "This proves my love has been received\n",
+                "by my Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0326",
+            "en_US": [
+                "It's about time for me to give someone\n",
+                "my affection, though."
+            ]
+        },
+        {
+            "id": "a002_184_0327",
+            "en_US": [
+                "Shall I give you a tip for\n",
+                "training good Pokémon?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0328",
+            "en_US": [
+                "The tip for training good Pokémon is\n",
+                "to catch good Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0329",
+            "en_US": [
+                "You don't seem to need any tips\n",
+                "for training good Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0330",
+            "en_US": [
+                "Glad you made it! It won't be\n",
+                "an easy job from here."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0331",
+            "en_US": [
+                "Haha! You see!?\n",
+                "You are not ready yet."
+            ]
+        },
+        {
+            "id": "a002_184_0332",
+            "en_US": [
+                "Earlier I got a little carried away,\n",
+                "but what job was I talking about?"
+            ]
+        },
+        {
+            "id": "a002_184_0333",
+            "en_US": [
+                "Both my mom and dad are Ace Trainers.\n",
+                "So I am an Ace, too!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0334",
+            "en_US": [
+                "I want to be an Ace Trainer like\n",
+                "my mom and dad."
+            ]
+        },
+        {
+            "id": "a002_184_0335",
+            "en_US": [
+                "Waaaa! I should have superior genes and\n",
+                "be able to ride on my parents' coattails..."
+            ]
+        },
+        {
+            "id": "a002_184_0336",
+            "en_US": [
+                "I don't mind your lack of focus, but you\n",
+                "will get no sympathy from me if you lose."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0337",
+            "en_US": [
+                "Ah, you see! You did not focus\n",
+                "on the battle. That's why you lost."
+            ]
+        },
+        {
+            "id": "a002_184_0338",
+            "en_US": [
+                "That is quite enough. It's over.\n",
+                "Don't stare at me!"
+            ]
+        },
+        {
+            "id": "a002_184_0339",
+            "en_US": [
+                "Dad... Mom...\n",
+                "I'll have a battle. Look..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0340",
+            "en_US": [
+                "Dad... Mom...\n",
+                "Did you see me? I won... I won!"
+            ]
+        },
+        {
+            "id": "a002_184_0341",
+            "en_US": [
+                "Dad... Mom...\n",
+                "What shall I do?"
+            ]
+        },
+        {
+            "id": "a002_184_0342",
+            "en_US": [
+                "I came here to goof off.\n",
+                "I don't want to cram for the big test..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0343",
+            "en_US": [
+                "I cannot lose...\n",
+                "I don't want to study anymore."
+            ]
+        },
+        {
+            "id": "a002_184_0344",
+            "en_US": [
+                "No! I don't want to go home!\n",
+                "I don't want to study!"
+            ]
+        },
+        {
+            "id": "a002_184_0345",
+            "en_US": [
+                "I just want to be successful\n",
+                "and grow rich someday."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0346",
+            "en_US": "My dream is simply to be rich."
+        },
+        {
+            "id": "a002_184_0347",
+            "en_US": [
+                "I will be rich someday and\n",
+                "put you to shame."
+            ]
+        },
+        {
+            "id": "a002_184_0348",
+            "en_US": [
+                "I don't care who you are\n",
+                "or where you come from."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0349",
+            "en_US": [
+                "How should we act?\n",
+                "That is all that matters, isn't it?"
+            ]
+        },
+        {
+            "id": "a002_184_0350",
+            "en_US": [
+                "A label is not important, is it?\n",
+                "After all, you are you, aren't you?"
+            ]
+        },
+        {
+            "id": "a002_184_0351",
+            "en_US": [
+                "Pokémon battles and study sessions\n",
+                "are much the same. Let's be efficient!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0352",
+            "en_US": [
+                "You are too inefficient.\n",
+                "You need to be more quick and responsive."
+            ]
+        },
+        {
+            "id": "a002_184_0353",
+            "en_US": [
+                "How did I lose against such a slacker?\n",
+                "I cannot believe it!"
+            ]
+        },
+        {
+            "id": "a002_184_0354",
+            "en_US": [
+                "I have money to burn,\n",
+                "so I don't want anything."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0355",
+            "en_US": [
+                "The only thing I enjoy\n",
+                "is a Pokémon battle..."
+            ]
+        },
+        {
+            "id": "a002_184_0356",
+            "en_US": [
+                "Just because I am rich\n",
+                "does not mean I am especially happy."
+            ]
+        },
+        {
+            "id": "a002_184_0357",
+            "en_US": "Yes! I am a Rich Boy!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0358",
+            "en_US": [
+                "Well, good-bye!\n",
+                "You have been beaten by a Rich Boy!"
+            ]
+        },
+        {
+            "id": "a002_184_0359",
+            "en_US": [
+                "Thank you! Merci!\n",
+                "You defeated a Rich Boy!"
+            ]
+        },
+        {
+            "id": "a002_184_0360",
+            "en_US": [
+                "I just battle for fun,\n",
+                "but I'll do my best."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0361",
+            "en_US": [
+                "Well, I only won by chance.\n",
+                "Please pay it no mind."
+            ]
+        },
+        {
+            "id": "a002_184_0362",
+            "en_US": [
+                "It's good when you battle for fun.\n",
+                "If it's too serious, you won't enjoy it..."
+            ]
+        },
+        {
+            "id": "a002_184_0363",
+            "en_US": [
+                "Yesterday was a party. Today is a\n",
+                "battle. I am rich. I always have fun!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0364",
+            "en_US": [
+                "I do not have to work,\n",
+                "because I am loaded with cash."
+            ]
+        },
+        {
+            "id": "a002_184_0365",
+            "en_US": [
+                "All play makes me a dull girl.\n",
+                "Do you think I don't know that?"
+            ]
+        },
+        {
+            "id": "a002_184_0366",
+            "en_US": [
+                "I'm proud of these Pokémon!\n",
+                "Go on, rush the enemy position!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0367",
+            "en_US": [
+                "My Pokémon are mighty!\n",
+                "I will carve my name in history!"
+            ]
+        },
+        {
+            "id": "a002_184_0368",
+            "en_US": [
+                "I won't cry... I won't.\n",
+                "Someday, I will be able to win."
+            ]
+        },
+        {
+            "id": "a002_184_0369",
+            "en_US": [
+                "I came here for my big brother\n",
+                "who always hides in his room."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0370",
+            "en_US": [
+                "My big brother the hermit,\n",
+                "I won for you! Come out and play!"
+            ]
+        },
+        {
+            "id": "a002_184_0371",
+            "en_US": [
+                "I wish my brother would\n",
+                "come out of his room and play with me..."
+            ]
+        },
+        {
+            "id": "a002_184_0372",
+            "en_US": [
+                "Hello me old china,\n",
+                "time for the rhyma!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0373",
+            "en_US": [
+                "Bit of a Pokémon read and write,\n",
+                "Trainer, many clinks!"
+            ]
+        },
+        {
+            "id": "a002_184_0374",
+            "en_US": [
+                "Even if you dipper, you'll be fine.\n",
+                "Best of friar, Trainer!"
+            ]
+        },
+        {
+            "id": "a002_184_0375",
+            "en_US": [
+                "All Dad and Mom do is mumble\n",
+                "at their computers! That's no fun!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0376",
+            "en_US": [
+                "I don't like Dad, or Mom, or computers!\n",
+                "All I need are my Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_184_0377",
+            "en_US": [
+                "Instead of mumbling to computers,\n",
+                "I wish they would talk to me..."
+            ]
+        },
+        {
+            "id": "a002_184_0378",
+            "en_US": [
+                "A globe-trotting young adventurer.\n",
+                "That's me!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0379",
+            "en_US": [
+                "Seeing Pokémon all over the world is\n",
+                "the purpose of my journey."
+            ]
+        },
+        {
+            "id": "a002_184_0380",
+            "en_US": [
+                "Adventure is calling me.\n",
+                "Farewell! See you again!"
+            ]
+        },
+        {
+            "id": "a002_184_0381",
+            "en_US": [
+                "Let's take it easy\n",
+                "with Pokémon and with life."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0382",
+            "en_US": [
+                "It's OK to bust your tail. But you need\n",
+                "to have some breathing room."
+            ]
+        },
+        {
+            "id": "a002_184_0383",
+            "en_US": [
+                "No problem. No problem.\n",
+                "I will have another chance."
+            ]
+        },
+        {
+            "id": "a002_184_0384",
+            "en_US": [
+                "I've traveled 3,000 miles searching\n",
+                "for a husband! A journey to nowhere."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0385",
+            "en_US": [
+                "Please let me know if there is a rich,\n",
+                "wealthy, or affluent gentleman!"
+            ]
+        },
+        {
+            "id": "a002_184_0386",
+            "en_US": [
+                "My goal is a wedding band...\n",
+                "But is that really a utopia?"
+            ]
+        },
+        {
+            "id": "a002_184_0387",
+            "en_US": [
+                "A game is life,\n",
+                "but life is not a game."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0388",
+            "en_US": [
+                "I am always serious. You cannot win\n",
+                "if you think this is just a game."
+            ]
+        },
+        {
+            "id": "a002_184_0389",
+            "en_US": [
+                "I'll give up games forever and set out\n",
+                "on a journey... Just kidding!"
+            ]
+        },
+        {
+            "id": "a002_184_0390",
+            "en_US": [
+                "I'll always work part-time, because\n",
+                "it lets me focus on what I really love."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0391",
+            "en_US": [
+                "You have only one life to live.\n",
+                "Are you doing what you want to do?"
+            ]
+        },
+        {
+            "id": "a002_184_0392",
+            "en_US": [
+                "I want to play here forever\n",
+                "without being tied down."
+            ]
+        },
+        {
+            "id": "a002_184_0393",
+            "en_US": [
+                "I took this job 'cause I wanted to see\n",
+                "smiles on people's faces."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0394",
+            "en_US": [
+                "Don't look at me like that.\n",
+                "Smile! Smile!"
+            ]
+        },
+        {
+            "id": "a002_184_0395",
+            "en_US": [
+                "It's very frustrating,\n",
+                "but I am glad I saw you smile."
+            ]
+        },
+        {
+            "id": "a002_184_0396",
+            "en_US": [
+                "Let's start a battle already!\n",
+                "We are wasting time."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0397",
+            "en_US": [
+                "What? Is it already over?\n",
+                "We still have lots of time."
+            ]
+        },
+        {
+            "id": "a002_184_0398",
+            "en_US": [
+                "We ran out of time.\n",
+                "We cannot go into overtime!"
+            ]
+        },
+        {
+            "id": "a002_184_0399",
+            "en_US": [
+                "I am battling here to promote\n",
+                "the café where I work."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0400",
+            "en_US": [
+                "You are not that strong,\n",
+                "so you are not really right for my café."
+            ]
+        },
+        {
+            "id": "a002_184_0401",
+            "en_US": [
+                "Yowza! What a strong Trainer!\n",
+                "See you at my café next time, OK?"
+            ]
+        },
+        {
+            "id": "a002_184_0402",
+            "en_US": [
+                "Join the Pokéfans.\n",
+                "Your life will be happy!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0403",
+            "en_US": [
+                "If you join the Pokéfans,\n",
+                "you'll be strong like me!"
+            ]
+        },
+        {
+            "id": "a002_184_0404",
+            "en_US": [
+                "If you join the Pokéfans,\n",
+                "your life will be saved!"
+            ]
+        },
+        {
+            "id": "a002_184_0405",
+            "en_US": [
+                "I am not a regular Pokéfan.\n",
+                "I am a major mega-Pokéfan!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0406",
+            "en_US": [
+                "I love Pokémon.\n",
+                "I love love Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_184_0407",
+            "en_US": [
+                "You'll remember this!\n",
+                "I am a big Pokéfan!"
+            ]
+        },
+        {
+            "id": "a002_184_0408",
+            "en_US": [
+                "I think I am a Pokéfan,\n",
+                "therefore I am a Pokéfan."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0409",
+            "en_US": "The Pokéfan is power."
+        },
+        {
+            "id": "a002_184_0410",
+            "en_US": [
+                "You should remember this.\n",
+                "I am a Pokéfan."
+            ]
+        },
+        {
+            "id": "a002_184_0411",
+            "en_US": [
+                "There are young and beautiful people,\n",
+                "but youth is different from beauty."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0412",
+            "en_US": [
+                "If I had known that when I was young,\n",
+                "I would not have a hard time now..."
+            ]
+        },
+        {
+            "id": "a002_184_0413",
+            "en_US": [
+                "Youth is just youth.\n",
+                "I wish I had realized it back then."
+            ]
+        },
+        {
+            "id": "a002_184_0414",
+            "en_US": [
+                "Ho there! You are a mountain standing\n",
+                "in my way, aren't ya?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0415",
+            "en_US": [
+                "Yahoooooo!! Yahoooooooo!\n",
+                "Hear my cry of triumph!"
+            ]
+        },
+        {
+            "id": "a002_184_0416",
+            "en_US": [
+                "Grrr... My victory has disappeared\n",
+                "in a crevasse..."
+            ]
+        },
+        {
+            "id": "a002_184_0417",
+            "en_US": [
+                "Hi! Sorry to keep you waiting!\n",
+                "I am a Hiker. I have a cult following!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0418",
+            "en_US": [
+                "Oh no? It's over already?\n",
+                "Hiker is bored!!"
+            ]
+        },
+        {
+            "id": "a002_184_0419",
+            "en_US": [
+                "This is important, so remember this!\n",
+                "Don't judge a book by its cover!"
+            ]
+        },
+        {
+            "id": "a002_184_0420",
+            "en_US": [
+                "Despite my appearance, I am the head\n",
+                "of a certain outfit. Don't tell anyone."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0421",
+            "en_US": "Don't tell anyone that I am playing here."
+        },
+        {
+            "id": "a002_184_0422",
+            "en_US": [
+                "The boss does not have freedom.\n",
+                "I feel like a captured Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0423",
+            "en_US": [
+                "The truth is, I want to have a quiet life\n",
+                "fishing all day, every day."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0424",
+            "en_US": [
+                "Ah... I don't want to do anything but fish.\n",
+                "I am tired of winning and losing."
+            ]
+        },
+        {
+            "id": "a002_184_0425",
+            "en_US": [
+                "At my time of life, it doesn't matter\n",
+                "if I win or lose."
+            ]
+        },
+        {
+            "id": "a002_184_0426",
+            "en_US": [
+                "Hello? Me? What, now?\n",
+                "I am about to have a battle."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0427",
+            "en_US": [
+                "Hello? Can you hear me?\n",
+                "I just won the battle."
+            ]
+        },
+        {
+            "id": "a002_184_0428",
+            "en_US": [
+                "Ah... Hello? Can you hear me?\n",
+                "Argh! I lost..."
+            ]
+        },
+        {
+            "id": "a002_184_0429",
+            "en_US": [
+                "He told me that I was like a squall,\n",
+                "but what is a squall?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0430",
+            "en_US": [
+                "W-wah! Wahhh!\n",
+                "I am so happy that I am crying."
+            ]
+        },
+        {
+            "id": "a002_184_0431",
+            "en_US": [
+                "W-w-wahhhhh! Wahhhhh!\n",
+                "Wahhhhh! Wahhhhh!"
+            ]
+        },
+        {
+            "id": "a002_184_0432",
+            "en_US": [
+                "No need to chat with someone\n",
+                "I'm about to battle."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0433",
+            "en_US": [
+                "Life is over if you lose.\n",
+                "That's why I hold out."
+            ]
+        },
+        {
+            "id": "a002_184_0434",
+            "en_US": [
+                "Don't look at miserable me!\n",
+                "Go away!"
+            ]
+        },
+        {
+            "id": "a002_184_0435",
+            "en_US": [
+                "You have your way.\n",
+                "I have my way."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0436",
+            "en_US": [
+                "I will go my way 'cause\n",
+                "I don't have any other way."
+            ]
+        },
+        {
+            "id": "a002_184_0437",
+            "en_US": [
+                "Your way must be rocky.\n",
+                "Good luck. I am behind you all the way."
+            ]
+        },
+        {
+            "id": "a002_184_0438",
+            "en_US": [
+                "Hey, you! Don't mess with me,\n",
+                "or I will destroy your Pokémon!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0439",
+            "en_US": [
+                "Thought you might make trouble for me,\n",
+                "but what a wimpy attack!"
+            ]
+        },
+        {
+            "id": "a002_184_0440",
+            "en_US": [
+                "How could I lose to such a wimpy move?\n",
+                "Gah, that bugs the snot out of me!"
+            ]
+        },
+        {
+            "id": "a002_184_0441",
+            "en_US": [
+                "My dad and mom are both Veterans,\n",
+                "but I am a loser..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0442",
+            "en_US": [
+                "I wonder if my mom and dad will be sad\n",
+                "if they see that I've become a Roughneck."
+            ]
+        },
+        {
+            "id": "a002_184_0443",
+            "en_US": [
+                "I cannot be like my mom and dad.\n",
+                "So I will live as a Roughneck."
+            ]
+        },
+        {
+            "id": "a002_184_0444",
+            "en_US": [
+                "My partner has turned to dust,\n",
+                "but his Pokémon is my Pokémon now."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0445",
+            "en_US": [
+                "Are you watching me, my long-lost partner?\n",
+                "That Pokémon of yours, we get along..."
+            ]
+        },
+        {
+            "id": "a002_184_0446",
+            "en_US": [
+                "He was trash, but now he is eternal,\n",
+                "like the stars in the sky... Ah, my partner!"
+            ]
+        },
+        {
+            "id": "a002_184_0447",
+            "en_US": [
+                "I am no good at speaking...\n",
+                "So my bike speaks..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0448",
+            "en_US": [
+                "Zooooom! Zoom whoosh!\n",
+                "Zooooom! Zoom zam!"
+            ]
+        },
+        {
+            "id": "a002_184_0449",
+            "en_US": [
+                "Vroom! Vroom! Vroom!\n",
+                "Vrooooooooom! Vroom!"
+            ]
+        },
+        {
+            "id": "a002_184_0450",
+            "en_US": [
+                "All right! Are you ready?\n",
+                "Don't mess with a Biker!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0451",
+            "en_US": [
+                "I'm a Biker, so I'm more obsessed\n",
+                "with speed than anyone else!!"
+            ]
+        },
+        {
+            "id": "a002_184_0452",
+            "en_US": [
+                "The truth is we are good guys.\n",
+                "We cannot do bad things at all!"
+            ]
+        },
+        {
+            "id": "a002_184_0453",
+            "en_US": [
+                "Like uncooked dough,\n",
+                "my Pokémon are sticky!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0454",
+            "en_US": "Now you're stuck, aren't ya?"
+        },
+        {
+            "id": "a002_184_0455",
+            "en_US": "Well, your Pokémon are quite springy, too."
+        },
+        {
+            "id": "a002_184_0456",
+            "en_US": [
+                "As I bake bread, I will bake your\n",
+                "Pokémon, too."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0457",
+            "en_US": [
+                "Oh my... Your Pokémon are like\n",
+                "burned bread."
+            ]
+        },
+        {
+            "id": "a002_184_0458",
+            "en_US": [
+                "Ah, how frustrating and disappointing!\n",
+                "You burned me with that last move..."
+            ]
+        },
+        {
+            "id": "a002_184_0459",
+            "en_US": [
+                "Just as I knead the dough,\n",
+                "I'll knead you into shape."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0460",
+            "en_US": [
+                "Wanna be kneaded a little more?\n",
+                "Or shall I sandwich you with bread?"
+            ]
+        },
+        {
+            "id": "a002_184_0461",
+            "en_US": [
+                "Ooooo! I'll remember this!\n",
+                "I'll turn you into a sandwich someday!"
+            ]
+        },
+        {
+            "id": "a002_184_0462",
+            "en_US": [
+                "Laughing makes people feel better.\n",
+                "There seems to be scientific proof!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0463",
+            "en_US": [
+                "Haaa ha ha! Ha?\n",
+                "What's wrong? Let's laugh!"
+            ]
+        },
+        {
+            "id": "a002_184_0464",
+            "en_US": [
+                "Laugh at miserable me--I lost against\n",
+                "amazing you. Laugh and you'll feel better."
+            ]
+        },
+        {
+            "id": "a002_184_0465",
+            "en_US": [
+                "You think you can win against me?\n",
+                "It might not go as smoothly as you think."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0466",
+            "en_US": [
+                "Don't underestimate me just because\n",
+                "I am a Harlequin."
+            ]
+        },
+        {
+            "id": "a002_184_0467",
+            "en_US": [
+                "No. This can't be happening.\n",
+                "You're not an ordinary person."
+            ]
+        },
+        {
+            "id": "a002_184_0468",
+            "en_US": [
+                "Observe my beautiful Pokémon magic!\n",
+                "Please watch closely!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0469",
+            "en_US": [
+                "I know a few gimmicks and tricks,\n",
+                "'cause this is magic."
+            ]
+        },
+        {
+            "id": "a002_184_0470",
+            "en_US": [
+                "Tricks and magic are my bread and butter.\n",
+                "Any Harlequin knows their worth!"
+            ]
+        },
+        {
+            "id": "a002_184_0471",
+            "en_US": [
+                "Tedious talk is unnecessary...\n",
+                "I will just break you..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0472",
+            "en_US": "What? Are you broken already?"
+        },
+        {
+            "id": "a002_184_0473",
+            "en_US": "Ugh, I'm broken..."
+        },
+        {
+            "id": "a002_184_0474",
+            "en_US": [
+                "I have low self-esteem,\n",
+                "so I like someone to give me orders."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0475",
+            "en_US": [
+                "You are not my boss, so\n",
+                "it doesn't matter even if you are weak."
+            ]
+        },
+        {
+            "id": "a002_184_0476",
+            "en_US": "Can I call you my boss?"
+        },
+        {
+            "id": "a002_184_0477",
+            "en_US": [
+                "This outfit is not a uniform,\n",
+                "it's what I like to wear. I made it myself."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0478",
+            "en_US": [
+                "This is a uniform from an anime.\n",
+                "Doesn't it look good on me?"
+            ]
+        },
+        {
+            "id": "a002_184_0479",
+            "en_US": [
+                "I want to live in a world of games,\n",
+                "anime, and comics forever."
+            ]
+        },
+        {
+            "id": "a002_184_0480",
+            "en_US": [
+                "I'm not cut out for a regular job,\n",
+                "so I live on art."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0481",
+            "en_US": [
+                "I envy Pokémon, 'cause they are\n",
+                "carefree. I want to be a Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0482",
+            "en_US": [
+                "Bah, if I can do a regular job,\n",
+                "I will quit doing this stinking art."
+            ]
+        },
+        {
+            "id": "a002_184_0483",
+            "en_US": [
+                "Every time a Pokémon uses a move,\n",
+                "my heart will tremble!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0484",
+            "en_US": [
+                "Nothing stirs the soul\n",
+                "more than Pokémon moves."
+            ]
+        },
+        {
+            "id": "a002_184_0485",
+            "en_US": [
+                "Aha! Pokémon moves are so beautiful!\n",
+                "I could almost faint!"
+            ]
+        },
+        {
+            "id": "a002_184_0486",
+            "en_US": [
+                "I will make you cry,\n",
+                "'cause you just don't know when to quit."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0487",
+            "en_US": [
+                "A state of deep sorrow and confusion\n",
+                "can also be art."
+            ]
+        },
+        {
+            "id": "a002_184_0488",
+            "en_US": [
+                "Someday, you will appreciate the value\n",
+                "of defeat and sorrow."
+            ]
+        },
+        {
+            "id": "a002_184_0489",
+            "en_US": [
+                "Our job is hard,\n",
+                "'cause it's such physical work."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0490",
+            "en_US": "My work gave me these great muscles."
+        },
+        {
+            "id": "a002_184_0491",
+            "en_US": [
+                "Don't underestimate the power of kids.\n",
+                "Like I did with you!"
+            ]
+        },
+        {
+            "id": "a002_184_0492",
+            "en_US": [
+                "Raising Pokémon and raising kids.\n",
+                "Both are very hard."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0493",
+            "en_US": [
+                "When my Pokémon do well like this,\n",
+                "I forget my everyday troubles."
+            ]
+        },
+        {
+            "id": "a002_184_0494",
+            "en_US": [
+                "Even I raise them with tender care,\n",
+                "because I am their Trainer..."
+            ]
+        },
+        {
+            "id": "a002_184_0495",
+            "en_US": [
+                "Hey, you!\n",
+                "I promise I will take it easy on you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0496",
+            "en_US": "Heheh... I will take it easy on you. Heh."
+        },
+        {
+            "id": "a002_184_0497",
+            "en_US": [
+                "Sometimes even grown-ups want\n",
+                "someone to take care of them."
+            ]
+        },
+        {
+            "id": "a002_184_0498",
+            "en_US": [
+                "The job site is quite dangerous, but\n",
+                "I'll have to keep working with Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0499",
+            "en_US": [
+                "I have trained my Pokémon well,\n",
+                "and it's ready to go to the job site."
+            ]
+        },
+        {
+            "id": "a002_184_0500",
+            "en_US": [
+                "Ugh. I cannot make money tomorrow\n",
+                "'cause I am injured."
+            ]
+        },
+        {
+            "id": "a002_184_0501",
+            "en_US": "Welcome!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0502",
+            "en_US": [
+                "Only the winner!\n",
+                "Only the winner can celebrate."
+            ]
+        },
+        {
+            "id": "a002_184_0503",
+            "en_US": "Enough... That's enough..."
+        },
+        {
+            "id": "a002_184_0504",
+            "en_US": [
+                "I do menial work every single day.\n",
+                "Am I just a cog in the machine?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0505",
+            "en_US": [
+                "I am well broken in. No snags slow down\n",
+                "the smooth running of this machine!"
+            ]
+        },
+        {
+            "id": "a002_184_0506",
+            "en_US": [
+                "I may be happier than a person who\n",
+                "cannot even be a cog in the machine."
+            ]
+        },
+        {
+            "id": "a002_184_0507",
+            "en_US": [
+                "Yo, kid! Are you new? I'm the Worker\n",
+                "that everybody is talking about."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0508",
+            "en_US": [
+                "If you don't know me, you're bogus!\n",
+                "Good-bye! The Worker is heading out."
+            ]
+        },
+        {
+            "id": "a002_184_0509",
+            "en_US": [
+                "Kid! Remember me! I am the Worker\n",
+                "everybody's talking about."
+            ]
+        },
+        {
+            "id": "a002_184_0510",
+            "en_US": [
+                "Well, let me introduce myself.\n",
+                "These are my little darlings."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0511",
+            "en_US": [
+                "How was it? My little darlings are tough and\n",
+                "cute, aren't they?"
+            ]
+        },
+        {
+            "id": "a002_184_0512",
+            "en_US": "Phew! Your little darlings are awesome, too!"
+        },
+        {
+            "id": "a002_184_0513",
+            "en_US": "Whir, whir, whir, whoooosh!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0514",
+            "en_US": "Ring-ring! Ding-ding!"
+        },
+        {
+            "id": "a002_184_0515",
+            "en_US": "Bam!"
+        },
+        {
+            "id": "a002_184_0516",
+            "en_US": [
+                "This is the very latest model,\n",
+                "a limited-edition, carbon-fiber Bicycle."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0517",
+            "en_US": [
+                "When you have good tools,\n",
+                "you feel better about yourself."
+            ]
+        },
+        {
+            "id": "a002_184_0518",
+            "en_US": [
+                "Don't! Please don't touch my Bicycle.\n",
+                "You'll cover it with your filthy fingerprints."
+            ]
+        },
+        {
+            "id": "a002_184_0519",
+            "en_US": [
+                "Speed is the key in a battle!\n",
+                "Dash! Dash! Dash!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0520",
+            "en_US": [
+                "If I compare how I'm feeling right now to a\n",
+                "race, it is just like crossing the finish line!"
+            ]
+        },
+        {
+            "id": "a002_184_0521",
+            "en_US": [
+                "I cannot take your nonsense anymore!\n",
+                "I am moving back to my mother's place."
+            ]
+        },
+        {
+            "id": "a002_184_0522",
+            "en_US": [
+                "Hey, you! Take out all the Pokémon\n",
+                "you have here!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0523",
+            "en_US": [
+                "Huh? That's all you have?\n",
+                "Aren't you hiding a few more Pokémon?"
+            ]
+        },
+        {
+            "id": "a002_184_0524",
+            "en_US": [
+                "I see. There seems to be nothing\n",
+                "suspicious about you or your Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0525",
+            "en_US": "I'll protect my peace by myself.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0526",
+            "en_US": "My peace remains protected."
+        },
+        {
+            "id": "a002_184_0527",
+            "en_US": "Please don't disturb my peace and quiet."
+        },
+        {
+            "id": "a002_184_0528",
+            "en_US": [
+                "I was born to work.\n",
+                "That is my destiny."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0529",
+            "en_US": [
+                "I will work, work, and work some more.\n",
+                "I am happy only when I am working."
+            ]
+        },
+        {
+            "id": "a002_184_0530",
+            "en_US": [
+                "As a matter of fact, having battles\n",
+                "is my job, too."
+            ]
+        },
+        {
+            "id": "a002_184_0531",
+            "en_US": [
+                "I'm-a lowest rank now, but\n",
+                "I'm-a gonna be at the top someday!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0532",
+            "en_US": [
+                "I'm-a gonna be the brightest star\n",
+                "in the business! Top of the world, ma!"
+            ]
+        },
+        {
+            "id": "a002_184_0533",
+            "en_US": [
+                "You work it like a shining star!\n",
+                "I'm not gonna lose, I'm not gonna lose!"
+            ]
+        },
+        {
+            "id": "a002_184_0534",
+            "en_US": [
+                "I have an ambition!\n",
+                "I will take over the company!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0535",
+            "en_US": [
+                "All this serves my ambition!\n",
+                "It brings my sweet victory one step closer!"
+            ]
+        },
+        {
+            "id": "a002_184_0536",
+            "en_US": [
+                "I was obsessed with the golden prize,\n",
+                "with my glittering ambition!"
+            ]
+        },
+        {
+            "id": "a002_184_0537",
+            "en_US": [
+                "I am treated as an idol at the office.\n",
+                "Everybody pampers me."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0538",
+            "en_US": [
+                "Everybody works for me,\n",
+                "so I have nothing to do."
+            ]
+        },
+        {
+            "id": "a002_184_0539",
+            "en_US": [
+                "The truth is I don't like brushing my teeth\n",
+                "or taking a bath, but don't tell anyone."
+            ]
+        },
+        {
+            "id": "a002_184_0540",
+            "en_US": [
+                "You look dusty.\n",
+                "I'll give you a good scrub!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0541",
+            "en_US": "OK, you look a little bit cleaner now!"
+        },
+        {
+            "id": "a002_184_0542",
+            "en_US": [
+                "Hey! Don't run away!\n",
+                "You need to be scrubbed more!"
+            ]
+        },
+        {
+            "id": "a002_184_0543",
+            "en_US": [
+                "These fruits of stubbornness were raised\n",
+                "stubbornly by a stubborn old man."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0544",
+            "en_US": [
+                "This stubborn old man raised them.\n",
+                "My persistence is different from yours!"
+            ]
+        },
+        {
+            "id": "a002_184_0545",
+            "en_US": [
+                "There's a fine line between persistence\n",
+                "and stubbornness. I may retire soon."
+            ]
+        },
+        {
+            "id": "a002_184_0546",
+            "en_US": [
+                "I'm good at driving, but\n",
+                "I'm not good at dealing with Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0547",
+            "en_US": [
+                "Oh, it went unexpectedly well.\n",
+                "By any chance, am I a technician?"
+            ]
+        },
+        {
+            "id": "a002_184_0548",
+            "en_US": [
+                "My train does what I need. It's harder to\n",
+                "convince living Pokémon to do things my way."
+            ]
+        },
+        {
+            "id": "a002_184_0549",
+            "en_US": [
+                "I've never left this place even once\n",
+                "since I was born."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0550",
+            "en_US": [
+                "I wonder if I will live here\n",
+                "for the rest of my life..."
+            ]
+        },
+        {
+            "id": "a002_184_0551",
+            "en_US": [
+                "I wonder how long I will stay here...\n",
+                "What is there outside this world?"
+            ]
+        },
+        {
+            "id": "a002_184_0552",
+            "en_US": [
+                "I say this as a Doctor.\n",
+                "First of all, you must save money."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0553",
+            "en_US": [
+                "Money cannot buy health.\n",
+                "But you cannot stay healthy if you're poor."
+            ]
+        },
+        {
+            "id": "a002_184_0554",
+            "en_US": [
+                "Because without money, you can neither\n",
+                "eat healthy food nor go to see a Doctor."
+            ]
+        },
+        {
+            "id": "a002_184_0555",
+            "en_US": [
+                "As you can see, I am a Doctor,\n",
+                "but I've never examined a patient."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0556",
+            "en_US": [
+                "I've studied to become a Doctor,\n",
+                "but I faint when I see blood."
+            ]
+        },
+        {
+            "id": "a002_184_0557",
+            "en_US": [
+                "I am a Sunday Doctor,\n",
+                "rather like a Sunday driver."
+            ]
+        },
+        {
+            "id": "a002_184_0558",
+            "en_US": [
+                "Can you understand\n",
+                "what medical personnel need?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0559",
+            "en_US": [
+                "What a Doctor needs is love--\n",
+                "the rush of unconditional love."
+            ]
+        },
+        {
+            "id": "a002_184_0560",
+            "en_US": [
+                "Medical service is love.\n",
+                "Can you be a Doctor?"
+            ]
+        },
+        {
+            "id": "a002_184_0561",
+            "en_US": [
+                "I took this job because I wanted\n",
+                "to be needed by someone."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0562",
+            "en_US": [
+                "My job is hard,\n",
+                "but I am happy to help people."
+            ]
+        },
+        {
+            "id": "a002_184_0563",
+            "en_US": [
+                "When a patient leaves the hospital,\n",
+                "I feel happy but a bit sad."
+            ]
+        },
+        {
+            "id": "a002_184_0564",
+            "en_US": [
+                "Grown-ups have a lot of hobbies.\n",
+                "Actually, I am a uniform collector."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0565",
+            "en_US": [
+                "I am not a Nurse.\n",
+                "I wear this uniform just for fun."
+            ]
+        },
+        {
+            "id": "a002_184_0566",
+            "en_US": [
+                "You realized that I am a fake Nurse!\n",
+                "Yes, I am just a uniform collector."
+            ]
+        },
+        {
+            "id": "a002_184_0567",
+            "en_US": [
+                "Even if you are injured, I will treat you.\n",
+                "So let's fight hard."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0568",
+            "en_US": [
+                "Sorry! I went too far. Do you require\n",
+                "immediate hospitalization?"
+            ]
+        },
+        {
+            "id": "a002_184_0569",
+            "en_US": [
+                "You went too far! I will bill you\n",
+                "the cost of my medical expenses!"
+            ]
+        },
+        {
+            "id": "a002_184_0570",
+            "en_US": [
+                "I raised these very special Pokémon\n",
+                "using a special method."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0571",
+            "en_US": [
+                "Pokémon will be strong or weak\n",
+                "depending on how you raise them."
+            ]
+        },
+        {
+            "id": "a002_184_0572",
+            "en_US": [
+                "Ugh... It wasn't supposed to be like this.\n",
+                "Did I blend the essence wrong?"
+            ]
+        },
+        {
+            "id": "a002_184_0573",
+            "en_US": [
+                "Shall I share an exclusive tip\n",
+                "for training great Pokémon?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0574",
+            "en_US": [
+                "You'll be perfect if you buy my book\n",
+                "of Pokémon training tips."
+            ]
+        },
+        {
+            "id": "a002_184_0575",
+            "en_US": [
+                "You'll be fine if you buy my DVD\n",
+                "of Pokémon training tips."
+            ]
+        },
+        {
+            "id": "a002_184_0576",
+            "en_US": [
+                "Pokémon are my family!\n",
+                "See the solidarity of my family!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0577",
+            "en_US": [
+                "Well done, brothers and sisters!\n",
+                "Our family solidarity is invincible!"
+            ]
+        },
+        {
+            "id": "a002_184_0578",
+            "en_US": [
+                "NO! My family!\n",
+                "What have you done?!"
+            ]
+        },
+        {
+            "id": "a002_184_0579",
+            "en_US": [
+                "What you like and what you're good at\n",
+                "are different, or at least separate."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0580",
+            "en_US": [
+                "I am good at battling,\n",
+                "but I don't enjoy it very much."
+            ]
+        },
+        {
+            "id": "a002_184_0581",
+            "en_US": [
+                "If you like what you do as a job,\n",
+                "you have a sense of fulfillment, don't you?"
+            ]
+        },
+        {
+            "id": "a002_184_0582",
+            "en_US": "In summary, you cannot win against me.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0583",
+            "en_US": [
+                "You see, you cannot win, because\n",
+                "you are very weak."
+            ]
+        },
+        {
+            "id": "a002_184_0584",
+            "en_US": [
+                "Hummmm... You are good.\n",
+                "You are really pretty good."
+            ]
+        },
+        {
+            "id": "a002_184_0585",
+            "en_US": [
+                "Don't underestimate me because I'm old.\n",
+                "I'll show you my rejuvenating attack!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0586",
+            "en_US": [
+                "I'm old but still going strong!\n",
+                "I can take care of myself!"
+            ]
+        },
+        {
+            "id": "a002_184_0587",
+            "en_US": [
+                "What a cruel way to treat a helpless\n",
+                "old man! Shame on you!"
+            ]
+        },
+        {
+            "id": "a002_184_0588",
+            "en_US": [
+                "I would like to retire soon. But I have\n",
+                "no one to carry on the family tradition..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0589",
+            "en_US": [
+                "If I had a child like you,\n",
+                "my golden years would be carefree..."
+            ]
+        },
+        {
+            "id": "a002_184_0590",
+            "en_US": [
+                "I wish my son were\n",
+                "as mature as you are."
+            ]
+        },
+        {
+            "id": "a002_184_0591",
+            "en_US": [
+                "I feel sad when I see a young and\n",
+                "bright child like you."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0592",
+            "en_US": [
+                "The first flush of youth...\n",
+                "You are too bright for me..."
+            ]
+        },
+        {
+            "id": "a002_184_0593",
+            "en_US": [
+                "Sparkling eyes, firm skin...\n",
+                "I won't get them back."
+            ]
+        },
+        {
+            "id": "a002_184_0594",
+            "en_US": [
+                "Hey! It's me. It's me!\n",
+                "I am the best Pilot in the world!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0595",
+            "en_US": "How's that? Pwned!!"
+        },
+        {
+            "id": "a002_184_0596",
+            "en_US": [
+                "You! Who are you?!\n",
+                "Do you know who I am?"
+            ]
+        },
+        {
+            "id": "a002_184_0597",
+            "en_US": [
+                "I'm at the top of the heap! I'm a man\n",
+                "who always wants to come in first."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0598",
+            "en_US": [
+                "Remember this! My favorite words\n",
+                "are \"top of the heap.\""
+            ]
+        },
+        {
+            "id": "a002_184_0599",
+            "en_US": [
+                "You. Well done!\n",
+                "See you! I'll remember this!"
+            ]
+        },
+        {
+            "id": "a002_184_0600",
+            "en_US": [
+                "I won't back down, lose, or fail!\n",
+                "No defeat for a Clerk ⑭."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0601",
+            "en_US": "Uh-huh!"
+        },
+        {
+            "id": "a002_184_0602",
+            "en_US": [
+                "Uuugh... Well done...\n",
+                "You made me fall to my knees..."
+            ]
+        },
+        {
+            "id": "a002_184_0603",
+            "en_US": [
+                "I can do it! I can do anything!\n",
+                "I will do it! I will do it!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0604",
+            "en_US": [
+                "Yes! I did it! I can do it!\n",
+                "I can do it! I can doooooooo it!"
+            ]
+        },
+        {
+            "id": "a002_184_0605",
+            "en_US": [
+                "But I listened to my Teacher's advice.\n",
+                "I can't lose! I can't!"
+            ]
+        },
+        {
+            "id": "a002_184_0606",
+            "en_US": [
+                "My research will lead this world\n",
+                "to peace and happiness."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0607",
+            "en_US": [
+                "I am a genius. I will control\n",
+                "the future of the world!"
+            ]
+        },
+        {
+            "id": "a002_184_0608",
+            "en_US": [
+                "I am a genius... I am not supposed\n",
+                "to lose against someone like you..."
+            ]
+        },
+        {
+            "id": "a002_184_0609",
+            "en_US": [
+                "Only research is left in my life.\n",
+                "I abandoned my family and friends."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0610",
+            "en_US": [
+                "It's not bad to devote my whole life\n",
+                "to research, is it?"
+            ]
+        },
+        {
+            "id": "a002_184_0611",
+            "en_US": [
+                "Dedicating yourself to something\n",
+                "can cause loneliness."
+            ]
+        },
+        {
+            "id": "a002_184_0612",
+            "en_US": [
+                "Hyuck-yuck-yuck... Please lend me\n",
+                "a hand for my experiment."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0613",
+            "en_US": [
+                "Hyuck-yuck-yuck... I did it.\n",
+                "The experiment was a huge success."
+            ]
+        },
+        {
+            "id": "a002_184_0614",
+            "en_US": [
+                "Ho-hum. This is not good...\n",
+                "This experiment was a failure..."
+            ]
+        },
+        {
+            "id": "a002_184_0615",
+            "en_US": [
+                "You must face off against\n",
+                "my extremely powered-up Pokémon!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0616",
+            "en_US": [
+                "Well, this is a natural outcome.\n",
+                "The power of science is awesome."
+            ]
+        },
+        {
+            "id": "a002_184_0617",
+            "en_US": [
+                "Your Pokémon have even more awesome\n",
+                "strength than the power of science."
+            ]
+        },
+        {
+            "id": "a002_184_0618",
+            "en_US": [
+                "If you lose, I'll have you help me\n",
+                "in my latest experiment!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0619",
+            "en_US": [
+                "Ho hi ho. You lost! You will help science\n",
+                "as my new assistant."
+            ]
+        },
+        {
+            "id": "a002_184_0620",
+            "en_US": [
+                "Pah. I was sooo close to signing you up\n",
+                "as my new assistant."
+            ]
+        },
+        {
+            "id": "a002_184_0621",
+            "en_US": [
+                "Why do people compete and fight?\n",
+                "This is the subject of my research."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0622",
+            "en_US": [
+                "Even if you win, you will hurt your\n",
+                "opponent's feelings."
+            ]
+        },
+        {
+            "id": "a002_184_0623",
+            "en_US": "If you lose, you may resent your opponent."
+        },
+        {
+            "id": "a002_184_0624",
+            "en_US": "Hi! Focus!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0625",
+            "en_US": "Foooooooooooo!"
+        },
+        {
+            "id": "a002_184_0626",
+            "en_US": "Eeek!"
+        },
+        {
+            "id": "a002_184_0627",
+            "en_US": [
+                "Speech can be utter nonsense.\n",
+                "Pretty words only taint battles..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0628",
+            "en_US": [
+                "Trainers who treat battles as a sport\n",
+                "are the height of vileness..."
+            ]
+        },
+        {
+            "id": "a002_184_0629",
+            "en_US": [
+                "Defeat is worth nothing.\n",
+                "Losers don't need words..."
+            ]
+        },
+        {
+            "id": "a002_184_0630",
+            "en_US": [
+                "He-he-he. If you lose,\n",
+                "I will turn you into a Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0631",
+            "en_US": [
+                "He-he-he. Well, from today on,\n",
+                "you are already a Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0632",
+            "en_US": [
+                "Next time I see you, I will turn you\n",
+                "into a Pokémon with my power."
+            ]
+        },
+        {
+            "id": "a002_184_0633",
+            "en_US": [
+                "Argh... I have a headache...\n",
+                "I have such a headache..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0634",
+            "en_US": [
+                "I don't need psychic powers.\n",
+                "Please stop this headache..."
+            ]
+        },
+        {
+            "id": "a002_184_0635",
+            "en_US": [
+                "If I don't keep using my power for battles,\n",
+                "my headache won't go away..."
+            ]
+        },
+        {
+            "id": "a002_184_0636",
+            "en_US": [
+                "I claim that I am a Psychic,\n",
+                "but I cannot use psychic powers."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0637",
+            "en_US": [
+                "I am camouflaging it\n",
+                "with my Psychic-ish costume."
+            ]
+        },
+        {
+            "id": "a002_184_0638",
+            "en_US": [
+                "I go to magic classes\n",
+                "to look like a Psychic."
+            ]
+        },
+        {
+            "id": "a002_184_0639",
+            "en_US": [
+                "...Grrr... Yeeek!!\n",
+                "An evil spirit! Go away!!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0640",
+            "en_US": [
+                "OK! The evil spirit\n",
+                "that possessed you has disappeared."
+            ]
+        },
+        {
+            "id": "a002_184_0641",
+            "en_US": [
+                "Evil spirit!\n",
+                "Leave the Trainer at once!"
+            ]
+        },
+        {
+            "id": "a002_184_0642",
+            "en_US": [
+                "I praise your courage for challenging me!\n",
+                "I am the one with the strongest kick."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0643",
+            "en_US": [
+                "Haha... I probably did not have to use\n",
+                "my strongest kick on you."
+            ]
+        },
+        {
+            "id": "a002_184_0644",
+            "en_US": [
+                "Oh... The Pokémon did the fighting.\n",
+                "My strong kick didn't help a bit."
+            ]
+        },
+        {
+            "id": "a002_184_0645",
+            "en_US": [
+                "'Suuup! I'll give it all I've got!\n",
+                "Let's do our best!!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0646",
+            "en_US": [
+                "'Sup! That's enough!\n",
+                "Please value your life!"
+            ]
+        },
+        {
+            "id": "a002_184_0647",
+            "en_US": [
+                "'Suuuuup! Good work. I tried everything\n",
+                "I could, but I'm disappointed."
+            ]
+        },
+        {
+            "id": "a002_184_0648",
+            "en_US": "Yo!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0649",
+            "en_US": "Yo! Yo! Yo!"
+        },
+        {
+            "id": "a002_184_0650",
+            "en_US": "Yo!"
+        },
+        {
+            "id": "a002_184_0651",
+            "en_US": [
+                "You don't have to impress me.\n",
+                "You can lose against me."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0652",
+            "en_US": "Come. Sleep quietly in my arms..."
+        },
+        {
+            "id": "a002_184_0653",
+            "en_US": [
+                "It's sad to say good-bye,\n",
+                "but we're running out of time."
+            ]
+        },
+        {
+            "id": "a002_184_0654",
+            "en_US": [
+                "Are you ready?\n",
+                "I'll take the gloves off."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0655",
+            "en_US": [
+                "Well, well... You're not even in my league.\n",
+                "This is like bullying."
+            ]
+        },
+        {
+            "id": "a002_184_0656",
+            "en_US": [
+                "Aww... I cannot believe I lost!\n",
+                "Who are you?!"
+            ]
+        },
+        {
+            "id": "a002_184_0657",
+            "en_US": [
+                "I would like to do the fighting\n",
+                "instead of my Pokémon if I could."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0658",
+            "en_US": [
+                "Pokémon battles are not enough of a\n",
+                "challenge. I want to make this personal."
+            ]
+        },
+        {
+            "id": "a002_184_0659",
+            "en_US": [
+                "Ah, I tingle with excitement.\n",
+                "I would like to fight..."
+            ]
+        },
+        {
+            "id": "a002_184_0660",
+            "en_US": [
+                "Halt at once! You over there!\n",
+                "Let us cross lances!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0661",
+            "en_US": "Trainer, you are at my mercy!"
+        },
+        {
+            "id": "a002_184_0662",
+            "en_US": [
+                "Trainer, I yield! \n",
+                "Please spare me. Please!"
+            ]
+        },
+        {
+            "id": "a002_184_0663",
+            "en_US": [
+                "When I am surrounded by nature,\n",
+                "most other things cease to matter."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0664",
+            "en_US": [
+                "I won. But victory is nothing,\n",
+                "compared to the vastness of nature..."
+            ]
+        },
+        {
+            "id": "a002_184_0665",
+            "en_US": [
+                "It doesn't matter to the vastness\n",
+                "of nature whether I win or lose..."
+            ]
+        },
+        {
+            "id": "a002_184_0666",
+            "en_US": [
+                "Despite my appearance, I am a city boy.\n",
+                "So I yearn for country life."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0667",
+            "en_US": [
+                "Do you have a hometown?\n",
+                "If so, you should go back and visit there."
+            ]
+        },
+        {
+            "id": "a002_184_0668",
+            "en_US": [
+                "I don't have a hometown to go back to,\n",
+                "'cause I was born and raised in the city."
+            ]
+        },
+        {
+            "id": "a002_184_0669",
+            "en_US": [
+                "It's my mission to protect nature\n",
+                "and all Pokémon living there!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0670",
+            "en_US": [
+                "If villains disturb the natural order,\n",
+                "I will put them all in jail!"
+            ]
+        },
+        {
+            "id": "a002_184_0671",
+            "en_US": [
+                "Protect Mother Nature!\n",
+                "Otherwise, I will put you in jail!"
+            ]
+        },
+        {
+            "id": "a002_184_0672",
+            "en_US": [
+                "We need a lot of money to protect\n",
+                "Mother Nature and her Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0673",
+            "en_US": [
+                "Please donate money for a rich natural\n",
+                "environment and for the Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0674",
+            "en_US": [
+                "We protect forests and Pokémon by\n",
+                "saving money and planting trees."
+            ]
+        },
+        {
+            "id": "a002_184_0675",
+            "en_US": "Let me stop your winning streak here.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0676",
+            "en_US": [
+                "Ah. You still have much to learn.\n",
+                "Let me give you a crash course!"
+            ]
+        },
+        {
+            "id": "a002_184_0677",
+            "en_US": [
+                "You didn't win alone. You couldn't have won\n",
+                "without your Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0678",
+            "en_US": [
+                "You seem to be quite confident.\n",
+                "I'll sink you straight away."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0679",
+            "en_US": [
+                "I am devoting my body and soul\n",
+                "to Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a002_184_0680",
+            "en_US": [
+                "AAAAAAAAH! I am sooooo scared!\n",
+                "I will never do it again... Sorrrry!"
+            ]
+        },
+        {
+            "id": "a002_184_0681",
+            "en_US": [
+                "I'm working very hard, but\n",
+                "that doesn't mean I am strong."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0682",
+            "en_US": [
+                "You're a strong Trainer,\n",
+                "so I think I was just lucky this time."
+            ]
+        },
+        {
+            "id": "a002_184_0683",
+            "en_US": [
+                "Even I can lose?!\n",
+                "But I'm a battling genius!"
+            ]
+        },
+        {
+            "id": "a002_184_0684",
+            "en_US": [
+                "I started battling just to be cool, but\n",
+                "I became an Ace before I knew it."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0685",
+            "en_US": [
+                "People can become strong if they have\n",
+                "clear goals. That's the way it goes."
+            ]
+        },
+        {
+            "id": "a002_184_0686",
+            "en_US": [
+                "I'm still not popular even though\n",
+                "I've been recognized as an Ace."
+            ]
+        },
+        {
+            "id": "a002_184_0687",
+            "en_US": [
+                "The lead character of this story...\n",
+                "I'll tell you who it is!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0688",
+            "en_US": [
+                "The lead character of the story is me!\n",
+                "You are just an extra!"
+            ]
+        },
+        {
+            "id": "a002_184_0689",
+            "en_US": "Of course, you are the lead character!"
+        },
+        {
+            "id": "a002_184_0690",
+            "en_US": [
+                "We would like to hold a Pokémon battle\n",
+                "against the strongest foe."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0691",
+            "en_US": [
+                "We cannot believe we spent time\n",
+                "on such a childish battle! Leave at once!"
+            ]
+        },
+        {
+            "id": "a002_184_0692",
+            "en_US": [
+                "Ho-ho-ho! That is to our liking!\n",
+                "We find ourselves quite satisfied!"
+            ]
+        },
+        {
+            "id": "a002_184_0693",
+            "en_US": [
+                "A person who wants to fight, fight, and\n",
+                "fight forever. That's the way of the Ace."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0694",
+            "en_US": [
+                "However hard they battle, they won't be\n",
+                "satisfied. That is a real Trainer, isn't it?"
+            ]
+        },
+        {
+            "id": "a002_184_0695",
+            "en_US": [
+                "Your fighting style suits you very well.\n",
+                "You can be an Ace Trainer."
+            ]
+        },
+        {
+            "id": "a002_184_0696",
+            "en_US": [
+                "I can see despair in your eyes.\n",
+                "Bring it on!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0697",
+            "en_US": [
+                "It was a waste of time, much as I suspected.\n",
+                "You should start training all over again."
+            ]
+        },
+        {
+            "id": "a002_184_0698",
+            "en_US": [
+                "Did I underestimate you as just a little kid?\n",
+                "Or was this your true ability?"
+            ]
+        },
+        {
+            "id": "a002_184_0699",
+            "en_US": [
+                "Hey, you, young Trainer.\n",
+                "I am utterly stylish, aren't I?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0700",
+            "en_US": [
+                "I am so stylish,\n",
+                "I hypnotize myself! Step back!"
+            ]
+        },
+        {
+            "id": "a002_184_0701",
+            "en_US": [
+                "I'm a wreck. I'm adrift. It just kills me.\n",
+                "It is hard to be too stylish."
+            ]
+        },
+        {
+            "id": "a002_184_0702",
+            "en_US": [
+                "I won't lose against a kid like you,\n",
+                "who doesn't know anything about battles."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0703",
+            "en_US": [
+                "After all, you are an amateur. No sweat.\n",
+                "(Whew... That was a little too close!)"
+            ]
+        },
+        {
+            "id": "a002_184_0704",
+            "en_US": [
+                "What? This kid is a fast learner?\n",
+                "Ha ha ha... I had no idea!"
+            ]
+        },
+        {
+            "id": "a002_184_0705",
+            "en_US": [
+                "Argh. Cough, cough. I don't feel well.\n",
+                "Please show a little kindness."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0706",
+            "en_US": [
+                "I lied when I said I didn't feel well!\n",
+                "Veterans do anything to win!"
+            ]
+        },
+        {
+            "id": "a002_184_0707",
+            "en_US": [
+                "You're very sharp!\n",
+                "You did not fall for my illness act."
+            ]
+        },
+        {
+            "id": "a002_184_0708",
+            "en_US": [
+                "I will give you a taste\n",
+                "of a Veteran's well-trained Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0709",
+            "en_US": [
+                "How were the Veteran's Pokémon?\n",
+                "Defeat is bitter, isn't it?"
+            ]
+        },
+        {
+            "id": "a002_184_0710",
+            "en_US": [
+                "You have served me a spicy defeat.\n",
+                "And yet defeat is also part of life."
+            ]
+        },
+        {
+            "id": "a002_184_0711",
+            "en_US": [
+                "Oh, you are so cute!\n",
+                "Come, I promise to be nice in this battle."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0712",
+            "en_US": [
+                "You are so cute, really...\n",
+                "I want to see you again. I'll be waiting."
+            ]
+        },
+        {
+            "id": "a002_184_0713",
+            "en_US": [
+                "Your battle is a little too cute.\n",
+                "Let's play again sometime."
+            ]
+        },
+        {
+            "id": "a002_184_0714",
+            "en_US": [
+                "Oh, you are still a child.\n",
+                "Who said you could come here?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0715",
+            "en_US": [
+                "You're not bad, but you're immature.\n",
+                "Come back when you've learned something."
+            ]
+        },
+        {
+            "id": "a002_184_0716",
+            "en_US": [
+                "I thought you were a child.\n",
+                "Hee hee... You are tough..."
+            ]
+        },
+        {
+            "id": "a002_184_0717",
+            "en_US": [
+                "Don't call me a Veteran!\n",
+                "A woman's mind is always blooming."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0718",
+            "en_US": [
+                "I'm not finished with love or Pokémon.\n",
+                "I'll stay fit and ready all my life."
+            ]
+        },
+        {
+            "id": "a002_184_0719",
+            "en_US": [
+                "I have pains in my eyes, my shoulder, and\n",
+                "my back, but my heart is forever young."
+            ]
+        },
+        {
+            "id": "a002_184_0720",
+            "en_US": [
+                "I am the strongest Backpacker.\n",
+                "I have a lot of Pokémon in my Bag."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0721",
+            "en_US": [
+                "Hahaha! I am as big as my backpack,\n",
+                "aren't I? Aren't I?"
+            ]
+        },
+        {
+            "id": "a002_184_0722",
+            "en_US": [
+                "I have more Pokémon in my Bag!\n",
+                "Wait, my Bag has a hole..."
+            ]
+        },
+        {
+            "id": "a002_184_0723",
+            "en_US": "I am not traveling for freedom.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0724",
+            "en_US": [
+                "You're carrying bulky luggage,\n",
+                "but do you really need it?"
+            ]
+        },
+        {
+            "id": "a002_184_0725",
+            "en_US": [
+                "My Bag is as wide as the sky.\n",
+                "In other words, my Bag is empty."
+            ]
+        },
+        {
+            "id": "a002_184_0726",
+            "en_US": [
+                "I haven't eaten anything for days.\n",
+                "Spots are floating before my eyes..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0727",
+            "en_US": [
+                "Those aren't spots floating before my eyes.\n",
+                "Those are glorious glimmers of victory!"
+            ]
+        },
+        {
+            "id": "a002_184_0728",
+            "en_US": [
+                "Ah, I'm sinking fast. All I can think about\n",
+                "is where my next meal is coming from..."
+            ]
+        },
+        {
+            "id": "a002_184_0729",
+            "en_US": [
+                "Neither my husband nor I have money,\n",
+                "so we are hitchhiking on our honeymoon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0730",
+            "en_US": [
+                "Newly married, and such a big trip...\n",
+                "I'm worried about our future."
+            ]
+        },
+        {
+            "id": "a002_184_0731",
+            "en_US": [
+                "On top of that, I have lost track of him...\n",
+                "Where can he be wandering?"
+            ]
+        },
+        {
+            "id": "a002_184_0732",
+            "en_US": [
+                "Hey! Hey! \n",
+                "Please check out my cute Pokémon!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0733",
+            "en_US": [
+                "How about that?\n",
+                "I'm proud of these Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0734",
+            "en_US": [
+                "Oh no, don't bother them like that!\n",
+                "Please leave my Pokémon alone."
+            ]
+        },
+        {
+            "id": "a002_184_0735",
+            "en_US": [
+                "Being a Waiter is my disguise,\n",
+                "and it helps me live quietly."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0736",
+            "en_US": [
+                "On my days off, the real me is ready.\n",
+                "I'm an Ace Trainer!"
+            ]
+        },
+        {
+            "id": "a002_184_0737",
+            "en_US": [
+                "I'm struggling to make a living,\n",
+                "so I've been in disguise a long time."
+            ]
+        },
+        {
+            "id": "a002_184_0738",
+            "en_US": [
+                "My Pokémon are the strongest.\n",
+                "I don't think I will lose."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0739",
+            "en_US": [
+                "Do you think you can win against me\n",
+                "with such wimpy Pokémon?"
+            ]
+        },
+        {
+            "id": "a002_184_0740",
+            "en_US": [
+                "Ah... It's hard.\n",
+                "It sure is frustrating to lose."
+            ]
+        },
+        {
+            "id": "a002_184_0741",
+            "en_US": [
+                "Don't you think a restaurant\n",
+                "for Pokémon is a fun idea?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0742",
+            "en_US": [
+                "I wonder if people will like\n",
+                "a full-course meal for Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0743",
+            "en_US": [
+                "It's a restaurant for Pokémon,\n",
+                "not a restaurant of Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_184_0744",
+            "en_US": "Harrumph! Haroooo!",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0745",
+            "en_US": "Harooo!"
+        },
+        {
+            "id": "a002_184_0746",
+            "en_US": "Harrumph!!"
+        },
+        {
+            "id": "a002_184_0747",
+            "en_US": [
+                "I am the mountain range of your life!\n",
+                "Cross me if you can!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0748",
+            "en_US": [
+                "Haha! I am the summit, and the road\n",
+                "to reach me is still very steep!"
+            ]
+        },
+        {
+            "id": "a002_184_0749",
+            "en_US": [
+                "Finally, someone has climbed the mountain!\n",
+                "This is my summit!"
+            ]
+        },
+        {
+            "id": "a002_184_0750",
+            "en_US": [
+                "If I lose, I'll spill the secret of fishing.\n",
+                "If I win, I'll tell you the essence."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0751",
+            "en_US": [
+                "The essence of fishing is to pull\n",
+                "and reel in the fish--nothing else."
+            ]
+        },
+        {
+            "id": "a002_184_0752",
+            "en_US": [
+                "The secret of fishing is to wait without\n",
+                "thinking, as if you were dozing off."
+            ]
+        },
+        {
+            "id": "a002_184_0753",
+            "en_US": [
+                "I always aim for a big fish!\n",
+                "Stay out of this if you are a small fish!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0754",
+            "en_US": [
+                "Reeling you in was hard work.\n",
+                "You put up a good fight!"
+            ]
+        },
+        {
+            "id": "a002_184_0755",
+            "en_US": [
+                "Oh! What a great hit!\n",
+                "Both my arms and heart are electrified!"
+            ]
+        },
+        {
+            "id": "a002_184_0756",
+            "en_US": [
+                "You look kind of mature.\n",
+                "I like people like you."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0757",
+            "en_US": [
+                "Still, you look mature for your age.\n",
+                "Are you already an adult, or are you a kid?"
+            ]
+        },
+        {
+            "id": "a002_184_0758",
+            "en_US": [
+                "A man with the heart of a boy\n",
+                "is just a wheedling child."
+            ]
+        },
+        {
+            "id": "a002_184_0759",
+            "en_US": [
+                "How much did this parasol cost?\n",
+                "Why, it is a cheap disposable."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0760",
+            "en_US": [
+                "I am a Parasol Lady, but I cannot\n",
+                "spend money for a parasol."
+            ]
+        },
+        {
+            "id": "a002_184_0761",
+            "en_US": [
+                "A parasol is just a tool. It’s fine\n",
+                "as long as it protects me from the rain."
+            ]
+        },
+        {
+            "id": "a002_184_0762",
+            "en_US": [
+                "I can really cut loose in Pokémon\n",
+                "battles without being scolded."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0763",
+            "en_US": [
+                "Nobody scolds me. That's why\n",
+                "Pokémon battles are the best!"
+            ]
+        },
+        {
+            "id": "a002_184_0764",
+            "en_US": [
+                "You like a big fight, don't ya?\n",
+                "You are my pal."
+            ]
+        },
+        {
+            "id": "a002_184_0765",
+            "en_US": [
+                "My computer friends said I wouldn't be\n",
+                "taken lightly with this look."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0766",
+            "en_US": [
+                "I won, but I was so scared...\n",
+                "Maybe I am not cut out for this."
+            ]
+        },
+        {
+            "id": "a002_184_0767",
+            "en_US": [
+                "Eeek... I should have played\n",
+                "with my computer in my room."
+            ]
+        },
+        {
+            "id": "a002_184_0768",
+            "en_US": [
+                "My ride and I\n",
+                "are always together."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0769",
+            "en_US": "My ride helps me show off who I am."
+        },
+        {
+            "id": "a002_184_0770",
+            "en_US": [
+                "My motorbike makes me feel better\n",
+                "when I lose."
+            ]
+        },
+        {
+            "id": "a002_184_0771",
+            "en_US": [
+                "I don't have money to buy gas,\n",
+                "so I have to push it with my feet."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0772",
+            "en_US": [
+                "I'm one of the Bikers,\n",
+                "so my bike is crucial."
+            ]
+        },
+        {
+            "id": "a002_184_0773",
+            "en_US": [
+                "Ah... Dad, Mom.\n",
+                "It's hard to be a Biker..."
+            ]
+        },
+        {
+            "id": "a002_184_0774",
+            "en_US": [
+                "Aah, I am so hungry that I am\n",
+                "completely wiped out. What shall I do?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0775",
+            "en_US": [
+                "I'm working at a bakery, 'cause I want to\n",
+                "eat bread anytime I want."
+            ]
+        },
+        {
+            "id": "a002_184_0776",
+            "en_US": [
+                "Aah! I crashed from my sugar high!\n",
+                "Someone give me a pastry!"
+            ]
+        },
+        {
+            "id": "a002_184_0777",
+            "en_US": [
+                "OK, I will do it! \n",
+                "I am excited about this!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0778",
+            "en_US": "Blast!"
+        },
+        {
+            "id": "a002_184_0779",
+            "en_US": "I'll remember this!"
+        },
+        {
+            "id": "a002_184_0780",
+            "en_US": [
+                "I'll confuse you with my smooth moves.\n",
+                "A-one, a-two, cha cha cha!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0781",
+            "en_US": [
+                "You could not focus on the battle,\n",
+                "'cause you were watching my smooth steps!"
+            ]
+        },
+        {
+            "id": "a002_184_0782",
+            "en_US": [
+                "And one, and two, and twirl, and...\n",
+                "Ah, that didn't work at all! "
+            ]
+        },
+        {
+            "id": "a002_184_0783",
+            "en_US": [
+                "Sorry to keep you waiting.\n",
+                "Your idol, Harlequin, Harlequin."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0784",
+            "en_US": [
+                "Thank you very much.\n",
+                "It was Harlequin, Harlequin."
+            ]
+        },
+        {
+            "id": "a002_184_0785",
+            "en_US": [
+                "It was Harlequin, Harlequin.\n",
+                "Thank you for your support."
+            ]
+        },
+        {
+            "id": "a002_184_0786",
+            "en_US": "If you lose, you can be my servant.",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0787",
+            "en_US": "From now on, I am your employer."
+        },
+        {
+            "id": "a002_184_0788",
+            "en_US": "I'll make you my servant someday."
+        },
+        {
+            "id": "a002_184_0789",
+            "en_US": [
+                "Ahhhh... So strange.\n",
+                "I feel very, very tired."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0790",
+            "en_US": [
+                "I still feel kind of blah.\n",
+                "I'm all achy..."
+            ]
+        },
+        {
+            "id": "a002_184_0791",
+            "en_US": [
+                "I really feel blah.\n",
+                "Well, I will go home now."
+            ]
+        },
+        {
+            "id": "a002_184_0792",
+            "en_US": [
+                "A child like you cannot understand\n",
+                "the beauty that I am pursuing."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0793",
+            "en_US": [
+                "I am a servant of beauty.\n",
+                "Ugly defeat does not suit me."
+            ]
+        },
+        {
+            "id": "a002_184_0794",
+            "en_US": [
+                "Perhaps the beauty I've been looking for...\n",
+                "is you?"
+            ]
+        },
+        {
+            "id": "a002_184_0795",
+            "en_US": [
+                "I paint pictures and live with Pokémon.\n",
+                "I am enjoying my life!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0796",
+            "en_US": [
+                "The sting of defeat will be a good\n",
+                "memory as you grow older."
+            ]
+        },
+        {
+            "id": "a002_184_0797",
+            "en_US": [
+                "Experience hardships when you are young,\n",
+                "'cause old bodies cannot take them."
+            ]
+        },
+        {
+            "id": "a002_184_0798",
+            "en_US": [
+                "My schoolkids are sleeping.\n",
+                "I'm shooting for the top during nap time!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0799",
+            "en_US": [
+                "Oh, no!\n",
+                "Look at the time!"
+            ]
+        },
+        {
+            "id": "a002_184_0800",
+            "en_US": [
+                "After nap time comes snack time.\n",
+                "I have to go back to preschool soon."
+            ]
+        },
+        {
+            "id": "a002_184_0801",
+            "en_US": [
+                "Life is full of so many farewells,\n",
+                "so I will enjoy the present."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0802",
+            "en_US": [
+                "I cannot see you again,\n",
+                "so I will do my best."
+            ]
+        },
+        {
+            "id": "a002_184_0803",
+            "en_US": [
+                "This is a woman's life.\n",
+                "Can a baby like you understand it?"
+            ]
+        },
+        {
+            "id": "a002_184_0804",
+            "en_US": [
+                "If you work diligently,\n",
+                "you will get results."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0805",
+            "en_US": [
+                "You, keep trying.\n",
+                "Master the basics."
+            ]
+        },
+        {
+            "id": "a002_184_0806",
+            "en_US": [
+                "Well, even if you work diligently,\n",
+                "things don't always go well."
+            ]
+        },
+        {
+            "id": "a002_184_0807",
+            "en_US": [
+                "I've arrived from a distant island.\n",
+                "May I please trouble you for a battle?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0808",
+            "en_US": "I have won."
+        },
+        {
+            "id": "a002_184_0809",
+            "en_US": [
+                "I was utterly inexperienced. I'd be \n",
+                "grateful if I could be your pupil."
+            ]
+        },
+        {
+            "id": "a002_184_0810",
+            "en_US": [
+                "I am so obsessed with Pokémon\n",
+                "that my wife is as mad as a hornet."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0811",
+            "en_US": [
+                "Pokémon battles are so much fun.\n",
+                "No way I can quit."
+            ]
+        },
+        {
+            "id": "a002_184_0812",
+            "en_US": [
+                "I don't want to go home, 'cause my wife\n",
+                "is as scary as a legendary Pokémon."
+            ]
+        },
+        {
+            "id": "a002_184_0813",
+            "en_US": [
+                "Our lives have plenty of ordinary days.\n",
+                "I gotta have Pokémon!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0814",
+            "en_US": [
+                "Only Pokémon rescue me\n",
+                "from boring and monotonous days."
+            ]
+        },
+        {
+            "id": "a002_184_0815",
+            "en_US": [
+                "When I look at a special person like you,\n",
+                "I just melt."
+            ]
+        },
+        {
+            "id": "a002_184_0816",
+            "en_US": [
+                "I used to be like you.\n",
+                "I was full of hopes and dreams."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0817",
+            "en_US": [
+                "Dreams are important.\n",
+                "But if all you have is your dreamworld..."
+            ]
+        },
+        {
+            "id": "a002_184_0818",
+            "en_US": [
+                "Just having hopes and dreams is not enough.\n",
+                "What is important is... Never mind."
+            ]
+        },
+        {
+            "id": "a002_184_0819",
+            "en_US": [
+                "I want to have an exhilarating battle.\n",
+                "Got it?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0820",
+            "en_US": [
+                "Thank you!\n",
+                "A battle is extremely exhilarating!"
+            ]
+        },
+        {
+            "id": "a002_184_0821",
+            "en_US": [
+                "OK, OK, I got it...\n",
+                "Let's call it a day."
+            ]
+        },
+        {
+            "id": "a002_184_0822",
+            "en_US": [
+                "It's OK if I have training wheels.\n",
+                "It’s OK if my Bike doesn't accelerate."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0823",
+            "en_US": [
+                "It's OK if you go your own way.\n",
+                "You'll reach your goal someday."
+            ]
+        },
+        {
+            "id": "a002_184_0824",
+            "en_US": [
+                "It's OK if you lose.\n",
+                "It's OK, 'cause you have a Bicycle."
+            ]
+        },
+        {
+            "id": "a002_184_0825",
+            "en_US": [
+                "You ain't never even gonna see\n",
+                "my Pokémon's moves."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0826",
+            "en_US": "You're slow, ain't ya?"
+        },
+        {
+            "id": "a002_184_0827",
+            "en_US": [
+                "You're right quick! \n",
+                "Who are ya, anyways?"
+            ]
+        },
+        {
+            "id": "a002_184_0828",
+            "en_US": [
+                "I just got married, and we'll be\n",
+                "expanding our family soon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0829",
+            "en_US": [
+                "You know what I need.\n",
+                "Can you spare a few dollars?"
+            ]
+        },
+        {
+            "id": "a002_184_0830",
+            "en_US": [
+                "Oh, I should really get home,\n",
+                "but Pokémon battles are so much fun..."
+            ]
+        },
+        {
+            "id": "a002_184_0831",
+            "en_US": [
+                "Take a good look\n",
+                "at this Clerk ⑭'s sheer strength!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0832",
+            "en_US": [
+                "You got me!\n",
+                "You have the best skills in the world!"
+            ]
+        },
+        {
+            "id": "a002_184_0833",
+            "en_US": [
+                "I put on a smile when I'm crying inside.\n",
+                "That's a Clerk ⑭'s sad smile."
+            ]
+        },
+        {
+            "id": "a002_184_0834",
+            "en_US": [
+                "I will show you the harsh side\n",
+                "of Pokémon battles."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0835",
+            "en_US": [
+                "That's not good.\n",
+                "I was too generous today."
+            ]
+        },
+        {
+            "id": "a002_184_0836",
+            "en_US": [
+                "Did you burn the image of my Pokémon\n",
+                "into your mind?"
+            ]
+        },
+        {
+            "id": "a002_184_0837",
+            "en_US": [
+                "Who do you think I am?\n",
+                "I am a mighty Policeman!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0838",
+            "en_US": [
+                "That's for disobeying me!\n",
+                "I am a big guy!"
+            ]
+        },
+        {
+            "id": "a002_184_0839",
+            "en_US": [
+                "You won a battle against a Policeman...\n",
+                "I will arrest you someday."
+            ]
+        },
+        {
+            "id": "a002_184_0840",
+            "en_US": [
+                "It's embarrassing, but I wasn't\n",
+                "well behaved when I was young."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0841",
+            "en_US": [
+                "You lack energy despite your youth.\n",
+                "Shall I train you?"
+            ]
+        },
+        {
+            "id": "a002_184_0842",
+            "en_US": [
+                "Good, good. Misbehave while you're still\n",
+                "young and you can get away with it."
+            ]
+        },
+        {
+            "id": "a002_184_0843",
+            "en_US": [
+                "Squeak! Squeak, squeak, squeak...\n",
+                "Hm? What? Wanna fight?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0844",
+            "en_US": [
+                "You're so impatient.\n",
+                "I'm still in the middle of my work."
+            ]
+        },
+        {
+            "id": "a002_184_0845",
+            "en_US": [
+                "Ohh dear... You tracked dirt\n",
+                "on the floor I just finished cleaning..."
+            ]
+        },
+        {
+            "id": "a002_184_0846",
+            "en_US": [
+                "There are only two roads in life.\n",
+                "The one you like, and the one you hate."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0847",
+            "en_US": [
+                "I'll choose the road I like,\n",
+                "even though it is not the quickest route."
+            ]
+        },
+        {
+            "id": "a002_184_0848",
+            "en_US": [
+                "Actually, the road you hate\n",
+                "may be the shortcut to your goal."
+            ]
+        },
+        {
+            "id": "a002_184_0849",
+            "en_US": [
+                "I am a train.\n",
+                "I will just run on the tracks."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0850",
+            "en_US": [
+                "You are a station where I don't stop.\n",
+                "I will just pass you by."
+            ]
+        },
+        {
+            "id": "a002_184_0851",
+            "en_US": [
+                "I think the train is great, because it runs\n",
+                "the same route over and over."
+            ]
+        },
+        {
+            "id": "a002_184_0852",
+            "en_US": [
+                "You're good at your job\n",
+                "and very strong."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0853",
+            "en_US": [
+                "I expected too much from you.\n",
+                "You are lucky that this is not business."
+            ]
+        },
+        {
+            "id": "a002_184_0854",
+            "en_US": [
+                "A person who can juggle\n",
+                "work and play is pretty cool."
+            ]
+        },
+        {
+            "id": "a002_184_0855",
+            "en_US": [
+                "I've been with these Pokémon\n",
+                "since I was a child."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0856",
+            "en_US": "Pokémon are like family to me."
+        },
+        {
+            "id": "a002_184_0857",
+            "en_US": [
+                "I don't think I want to have children.\n",
+                "I'd rather focus on my Pokémon family."
+            ]
+        },
+        {
+            "id": "a002_184_0858",
+            "en_US": [
+                "Hi, I am a physician!\n",
+                "Hey! Let me give you a shot!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0859",
+            "en_US": [
+                "Come now, let me give you a shot!\n",
+                "Don’t worry. It won't hurt!"
+            ]
+        },
+        {
+            "id": "a002_184_0860",
+            "en_US": [
+                "You have strong arms!\n",
+                "So let me give you a shot now!"
+            ]
+        },
+        {
+            "id": "a002_184_0861",
+            "en_US": [
+                "Cough! Cough, cough! How many\n",
+                "more people will I be able to save?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0862",
+            "en_US": [
+                "Cough! I wanted to save more people.\n",
+                "Cough, cough!"
+            ]
+        },
+        {
+            "id": "a002_184_0863",
+            "en_US": [
+                "Few physicians live well...\n",
+                "Cough! I can't go on any longer..."
+            ]
+        },
+        {
+            "id": "a002_184_0864",
+            "en_US": [
+                "Do you want a shot?\n",
+                "Or an IV drip?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0865",
+            "en_US": [
+                "You want both a shot and an IV.\n",
+                "You are greedy!"
+            ]
+        },
+        {
+            "id": "a002_184_0866",
+            "en_US": [
+                "Argh. It's sickening!\n",
+                "You're such a drip."
+            ]
+        },
+        {
+            "id": "a002_184_0867",
+            "en_US": [
+                "In this job,\n",
+                "I've seen a lot of strange things."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0868",
+            "en_US": [
+                "I don't know why, but Ghost-type \n",
+                "Pokémon seem attracted to me."
+            ]
+        },
+        {
+            "id": "a002_184_0869",
+            "en_US": [
+                "Ahhh, I lost... By the way,\n",
+                "who is that standing behind you?"
+            ]
+        },
+        {
+            "id": "a002_184_0870",
+            "en_US": [
+                "I have raised them too long.\n",
+                "They are beyond my control..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0871",
+            "en_US": [
+                "It's over...\n",
+                "Nobody can stop them..."
+            ]
+        },
+        {
+            "id": "a002_184_0872",
+            "en_US": [
+                "Finally, they calmed down...\n",
+                "You saved me. Thank you!"
+            ]
+        },
+        {
+            "id": "a002_184_0873",
+            "en_US": [
+                "I will test the Pokémon\n",
+                "you have been training."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0874",
+            "en_US": [
+                "Bah! Is that the best you can do?\n",
+                "I expected more from you..."
+            ]
+        },
+        {
+            "id": "a002_184_0875",
+            "en_US": [
+                "Wow! You are awesome!\n",
+                "What great Pokémon you've trained!"
+            ]
+        },
+        {
+            "id": "a002_184_0876",
+            "en_US": [
+                "Take a look at these Pokémon--I raised\n",
+                "'em myself. They make me right proud."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0877",
+            "en_US": [
+                "I am right proud of these Pokémon.\n",
+                "They're my friends and my treasures."
+            ]
+        },
+        {
+            "id": "a002_184_0878",
+            "en_US": [
+                "You are a strong one, sure enuff.\n",
+                "But I don't intend to lose next time!"
+            ]
+        },
+        {
+            "id": "a002_184_0879",
+            "en_US": [
+                "I am the top Breeder.\n",
+                "I can tame any kind of Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0880",
+            "en_US": [
+                "You see? My Pokémon are very loyal, \n",
+                "aren't they?"
+            ]
+        },
+        {
+            "id": "a002_184_0881",
+            "en_US": [
+                "They are too attached to me.\n",
+                "They are not fit for battling."
+            ]
+        },
+        {
+            "id": "a002_184_0882",
+            "en_US": [
+                "Arghhhh! Who is gentle?!\n",
+                "I will bring you down!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0883",
+            "en_US": [
+                "Arghh! Arghh! \n",
+                "I am NOT a Gentleman!"
+            ]
+        },
+        {
+            "id": "a002_184_0884",
+            "en_US": [
+                "Arghh! You! You'll regret this!\n",
+                "I will bring you down someday!"
+            ]
+        },
+        {
+            "id": "a002_184_0885",
+            "en_US": [
+                "My brother told me once...\n",
+                "Eyes! Aim for the eyes!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0886",
+            "en_US": [
+                "What my brother told me was right...\n",
+                "Thanks... Bro..."
+            ]
+        },
+        {
+            "id": "a002_184_0887",
+            "en_US": [
+                "I lost against a kid. Bro...\n",
+                "I should have listened to you..."
+            ]
+        },
+        {
+            "id": "a002_184_0888",
+            "en_US": [
+                "I can't drop my luxurious lifestyle just\n",
+                "because I'm older. Nothing can stop it."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0889",
+            "en_US": [
+                "It may be a hard truth for a child,\n",
+                "but money makes the world go round."
+            ]
+        },
+        {
+            "id": "a002_184_0890",
+            "en_US": [
+                "I cannot drop the habits\n",
+                "I learned when I was young."
+            ]
+        },
+        {
+            "id": "a002_184_0891",
+            "en_US": [
+                "I am a late bloomer and a crazy bloomer.\n",
+                "I'll bloom and dazzle you!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0892",
+            "en_US": [
+                "Dance, bloom, and blossom!\n",
+                "A woman who flowers and triumphs!"
+            ]
+        },
+        {
+            "id": "a002_184_0893",
+            "en_US": [
+                "I want to blossom and fall\n",
+                "rather than dying on the vine."
+            ]
+        },
+        {
+            "id": "a002_184_0894",
+            "en_US": [
+                "Hey, it's me. It's me!\n",
+                "I am the best Pilot in the world!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0895",
+            "en_US": [
+                "No! That's no good!\n",
+                "You cannot reach the top that way."
+            ]
+        },
+        {
+            "id": "a002_184_0896",
+            "en_US": [
+                "Good. You're daring!\n",
+                "I'll let you come fly on my plane."
+            ]
+        },
+        {
+            "id": "a002_184_0897",
+            "en_US": [
+                "Hey! Yo! It's me.\n",
+                "I am the best Pilot in the world."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0898",
+            "en_US": [
+                "Listen! A Trainer should be No. 1.\n",
+                "That's it!"
+            ]
+        },
+        {
+            "id": "a002_184_0899",
+            "en_US": [
+                "You're quite a Trainer!\n",
+                "Be my apprentice!"
+            ]
+        },
+        {
+            "id": "a002_184_0900",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0901",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0902",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0903",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0904",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0905",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0906",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0907",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0908",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0909",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0910",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0911",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0912",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0913",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0914",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0915",
+            "en_US": "",
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0916",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0917",
+            "en_US": ""
+        },
+        {
+            "id": "a002_184_0918",
+            "en_US": [
+                "Thank you for riding\n",
+                "the Battle Subway today.{VAR BE00}\n",
+                "I am the Subway Boss Ingo.{VAR BE01}\n",
+                "I will choose the next destination\n",
+                "based on your talent.{VAR BE01}\n",
+                "Do you understand Pokémon well?\n",
+                "Can you hold on to your principle?{VAR BE00}\n",
+                "Will you go on to victory or defeat?{VAR BE01}\n",
+                "All aboard!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0919",
+            "en_US": [
+                "Ah. Your battle was not bad at all.{VAR BE01}\n",
+                "However, we seem to have done slightly\n",
+                "better than you.{VAR BE01}\n",
+                "We would really like to battle with you again!{VAR BE01}\n",
+                "Please ride the Battle Subway again!"
+            ]
+        },
+        {
+            "id": "a002_184_0920",
+            "en_US": [
+                "Bravo!!{VAR BE01}\n",
+                "Your talent has brought you\n",
+                "to the destination called Victory!{VAR BE01}\n",
+                "However, your journey has just started.{VAR BE01}\n",
+                "When you choose your next destination,\n",
+                "go full speed ahead!"
+            ]
+        },
+        {
+            "id": "a002_184_0921",
+            "en_US": [
+                "Welcome! I've been waiting for you!{VAR BE01}\n",
+                "Let me introduce myself...\n",
+                "I am the Subway Boss Ingo.{VAR BE01}\n",
+                "What can I see after winning,\n",
+                "winning, and winning?{VAR BE01}\n",
+                "Where is my destination?{VAR BE01}\n",
+                "I've kept thinking, and\n",
+                "I've learned one thing.{VAR BE01}\n",
+                "That is, you cannot know what happens\n",
+                "after winning without winning.{VAR BE01}\n",
+                "Therefore, I will exert every possible\n",
+                "effort to battle with you.{VAR BE01}\n",
+                "All aboard!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0922",
+            "en_US": [
+                "I have won this time, but\n",
+                "your talent is very strong!{VAR BE01}\n",
+                "Your tactics...reading...\n",
+                "You have great skills.{VAR BE01}\n",
+                "That's right! I would like to\n",
+                "battle you again and again!{VAR BE01}\n",
+                "Please ride the Battle Subway again soon!"
+            ]
+        },
+        {
+            "id": "a002_184_0923",
+            "en_US": [
+                "Bravo!\n",
+                "Excellent!!{VAR BE01}\n",
+                "I am glad that I fought so hard\n",
+                "against a wonderful Trainer like you.{VAR BE01}\n",
+                "That's right!\n",
+                "You grow stronger by matching yourself{VAR BE00}\n",
+                "against a strong opponent.{VAR BE01}\n",
+                "Please do your best and run\n",
+                "toward the destination,{VAR BE00}\n",
+                "an even higher state."
+            ]
+        },
+        {
+            "id": "a002_184_0924",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I am a Subway Boss.{VAR BE01}\n",
+                "I like Double Battles.{VAR BE01}\n",
+                "I like combinations of\n",
+                "two Pokémon.{VAR BE01}\n",
+                "And I like winning\n",
+                "more than anything else.{VAR BE01}\n",
+                "So let's start a great battle\n",
+                "in which every Pokémon uses{VAR BE00}\n",
+                "various moves."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0925",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I won against you.{VAR BE01}\n",
+                "But I think I just got lucky.{VAR BE01}\n",
+                "In a Double Battle, if you misread one thing,\n",
+                "the rest will be totally different.{VAR BE01}\n",
+                "You know.\n",
+                "Please win 20 battles in a row, and{VAR BE00}\n",
+                "fight with me!"
+            ]
+        },
+        {
+            "id": "a002_184_0926",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I lost against you.{VAR BE01}\n",
+                "Because you are the strongest Trainer\n",
+                "I've fought lately.{VAR BE00}\n",
+                "You're a verrrrry strong Trainer!{VAR BE01}\n",
+                "Yup! It was fun!\n",
+                "Ride the trains some more!"
+            ]
+        },
+        {
+            "id": "a002_184_0927",
+            "en_US": [
+                "Hi, do you remember me?\n",
+                "I am Emmet.{VAR BE01}\n",
+                "I am a Subway Boss.{VAR BE01}\n",
+                "I like Double Battles.{VAR BE01}\n",
+                "I like combinations of \n",
+                "two Pokémon.{VAR BE01}\n",
+                "And I like winning\n",
+                "more than anything else.{VAR BE01}\n",
+                "This time, I am really serious.\n",
+                "Really serious.{VAR BE01}\n",
+                "Because if a battle is not serious,\n",
+                "it is not fun."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0928",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I won against you.\n",
+                "But this is not the end.{VAR BE01}\n",
+                "I am sure you will show up\n",
+                "here again.{VAR BE01}\n",
+                "I will wait for it and\n",
+                "win against you again.{VAR BE01}\n",
+                "Because I am a\n",
+                "Subway Boss. I am Emmet."
+            ]
+        },
+        {
+            "id": "a002_184_0929",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I am a Subway Boss,\n",
+                "but I lost against you again.{VAR BE01}\n",
+                "But I feel good.\n",
+                "Because it was very fun!{VAR BE01}\n",
+                "You want to win, and\n",
+                "I don't want to lose.{VAR BE00}\n",
+                "That's real.{VAR BE01}\n",
+                "When we clash in battles,\n",
+                "I feel very excited!"
+            ]
+        },
+        {
+            "id": "a002_184_0930",
+            "en_US": [
+                "I am a Subway Boss, Ingo.{VAR BE01}\n",
+                "The fellow over to the side is\n",
+                "also a Subway Boss, Emmet.{VAR BE01}\n",
+                "Will a Multi Battle help us cover\n",
+                "each other's weakness?{VAR BE01}\n",
+                "Or will you show your\n",
+                "overwhelming power?{VAR BE01}\n",
+                "I look forward to seeing\n",
+                "how well you fight. {VAR BE01}\n",
+                "However, it is difficult to win\n",
+                "unless you and your partner{VAR BE00}\n",
+                "are in total sync."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0931",
+            "en_US": [
+                "We make a good two-car train,\n",
+                "Ingo and Emmet.{VAR BE01}\n",
+                "This time, we worked together toward\n",
+                "a victory.{VAR BE01}\n",
+                "However, your abilities are\n",
+                "very impressive."
+            ]
+        },
+        {
+            "id": "a002_184_0932",
+            "en_US": [
+                "Bravo!!{VAR BE01}\n",
+                "What you showed us is\n",
+                "a spark as Trainers.{VAR BE01}\n",
+                "However, let me say just one thing.{VAR BE01}\n",
+                "Winning against us is a milestone\n",
+                "in your life.{VAR BE01}\n",
+                "You can rack up more and more.{VAR BE01}\n",
+                "Please move on toward an even\n",
+                "greater goal!"
+            ]
+        },
+        {
+            "id": "a002_184_0933",
+            "en_US": [
+                "Follow the rules.\n",
+                "Safe driving!{VAR BE01}\n",
+                "Follow the schedule.\n",
+                "Everybody smile!{VAR BE01}\n",
+                "Check safety.\n",
+                "Everything's ready!{VAR BE01}\n",
+                "Aim for victory!\n",
+                "All aboard!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0934",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I won together with Ingo.{VAR BE01}\n",
+                "But if we fight again,\n",
+                "we won't know what to expect.{VAR BE01}\n",
+                "That's why we are waiting\n",
+                "for you to come back!"
+            ]
+        },
+        {
+            "id": "a002_184_0935",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "I lost together with Ingo.{VAR BE01}\n",
+                "Your combination is\n",
+                "the best, perfect!{VAR BE00}\n",
+                "You're verrrrry strong Trainers.{VAR BE01}\n",
+                "Yup! It was so much fun!"
+            ]
+        },
+        {
+            "id": "a002_184_0936",
+            "en_US": [
+                "Let me introduce myself again.\n",
+                "I am a Subway Boss, Ingo!{VAR BE01}\n",
+                "Well, there is nothing else to say\n",
+                "for the person who comes{VAR BE00}\n",
+                "all the way here.{VAR BE01}\n",
+                "Let's have the greatest battle,\n",
+                "better than ever before."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0937",
+            "en_US": [
+                "We, Ingo and Emmet, are a\n",
+                "two-car train.{VAR BE01}\n",
+                "This time, we were able to work toward\n",
+                "a victory.{VAR BE01}\n",
+                "Well, will you stop here?\n",
+                "Or will you challenge us again?{VAR BE01}\n",
+                "It's up to you.\n",
+                "But let me say one thing.{VAR BE01}\n",
+                "There is no terminal called End\n",
+                "in your life!"
+            ]
+        },
+        {
+            "id": "a002_184_0938",
+            "en_US": [
+                "Bravo!!\n",
+                "Really excellent!{VAR BE01}\n",
+                "The best combination of\n",
+                "you and your Pokémon.{VAR BE00}\n",
+                "It is incredible!{VAR BE01}\n",
+                "When you and someone else combine,\n",
+                "your engine powers something special!{VAR BE01}\n",
+                "If you like, please challenge us\n",
+                "with a different combination."
+            ]
+        },
+        {
+            "id": "a002_184_0939",
+            "en_US": [
+                "What I do. What I say.\n",
+                "Always the same.{VAR BE01}\n",
+                "Follow the rules.\n",
+                "Safe driving!{VAR BE01}\n",
+                "Follow the schedules.\n",
+                "Everyone smile!{VAR BE01}\n",
+                "Check safety.\n",
+                "Everything's ready!{VAR BE01}\n",
+                "Aim for victory!\n",
+                "All aboard!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_184_0940",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "We won, but\n",
+                "I am not really satisfied.{VAR BE01}\n",
+                "I can tell that you won't give up.\n",
+                "Because you will be much, much stronger.{VAR BE01}\n",
+                "That's why we are waiting\n",
+                "for you to come back!"
+            ]
+        },
+        {
+            "id": "a002_184_0941",
+            "en_US": [
+                "I am Emmet.{VAR BE01}\n",
+                "We lost against you again.{VAR BE01}\n",
+                "But I am satisfied.\n",
+                "You are too strong!{VAR BE01}\n",
+                "The strength you have,\n",
+                "your trust in your Pokémon,{VAR BE00}\n",
+                "their never-ending support!{VAR BE01}\n",
+                "Yep! It was the most fun battle ever!\n",
+                "Please come back soon!"
+            ]
+        }
+    ]
+}

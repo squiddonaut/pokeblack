@@ -1,0 +1,63 @@
+{
+    "flags": 224,
+    "pad": "6666",
+    "messages": [
+        {
+            "id": "a003_088_0000",
+            "en_US": [
+                "Everybody makes mistakes.{VAR BE01}\n",
+                "But goalkeepers cannot afford a mistake,\n",
+                "because they cannot score goals to make{VAR BE00}\n",
+                "up for it.{VAR BE01}\n",
+                "If one Pokémon on a team makes a\n",
+                "mistake, however, the other Pokémon{VAR BE00}\n",
+                "and their Trainer can cover for it!"
+            ]
+        },
+        {
+            "id": "a003_088_0001",
+            "en_US": [
+                "If a Striker catches a teammate's eye,\n",
+                "they understand each other.{VAR BE01}\n",
+                "A Pokémon and its Trainer are the same.\n",
+                "Don't you agree?"
+            ]
+        },
+        {
+            "id": "a003_088_0002",
+            "en_US": [
+                "Really strong Trainers thoroughly do\n",
+                "whatever they can do!"
+            ]
+        },
+        {
+            "id": "a003_088_0003",
+            "en_US": [
+                "Soccer is beautiful and fun!\n",
+                "Pokémon are also beautiful and fun!"
+            ]
+        },
+        {
+            "id": "a003_088_0004",
+            "en_US": [
+                "Soccer with Pokémon is Pokémon soccer.\n",
+                "The abbreviation is...Poccer?"
+            ]
+        },
+        {
+            "id": "a003_088_0005",
+            "en_US": [
+                "Throw a sound pass to a team member!{VAR BE01}\n",
+                "After that, to receive a sound pass,\n",
+                "you'll need to move swiftly."
+            ]
+        },
+        {
+            "id": "a003_088_0006",
+            "en_US": [
+                "Run! Run!\n",
+                "Just think about running!"
+            ]
+        }
+    ]
+}

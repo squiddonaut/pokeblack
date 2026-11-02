@@ -1,0 +1,73 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_132_0000",
+            "en_US": [
+                "Know what? I am a huge musical fan! ♪{VAR BE01}\n",
+                "Oh, you have a Prop Case! You must be\n",
+                "a huge musical fan, too! ♪{VAR BE01}\n",
+                "Would you like a new Prop to use\n",
+                "in the musical?"
+            ]
+        },
+        {
+            "id": "a003_132_0001",
+            "en_US": [
+                "I am so glad! ♪ You are also a huge\n",
+                "musical fan! ♪{VAR BE01}\n",
+                "You should try putting various Props\n",
+                "on your Pokémon! That would be fun. ♪{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_132_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_132_0003",
+            "en_US": [
+                "What?{VAR BE01}\n",
+                "Don't you know how cute Pokémon\n",
+                "with Props are?!"
+            ]
+        },
+        {
+            "id": "a003_132_0004",
+            "en_US": [
+                "You know what? I'm a huge musical fan! ♪{VAR BE01}\n",
+                "If you come see me again tomorrow,\n",
+                "I'll give you a different Prop! ♪"
+            ]
+        },
+        {
+            "id": "a003_132_0005",
+            "en_US": [
+                "You know what? I'm a huge musical fan! ♪{VAR BE01}\n",
+                "I want people all over the world\n",
+                "to enjoy musicals. ♪"
+            ]
+        },
+        {
+            "id": "a003_132_0006",
+            "en_US": [
+                "If you have a lot of Props, it makes you\n",
+                "want to put them on Pokémon.{VAR BE01}\n",
+                "If you put Props on Pokémon, it makes\n",
+                "you want to participate in a musical!{VAR BE01}\n",
+                "Don't you agree?"
+            ]
+        },
+        {
+            "id": "a003_132_0007",
+            "en_US": [
+                "63... 64...{VAR BE01}\n",
+                "Oh, I was counting all the kinds of Props\n",
+                "for musicals.{VAR BE01}\n",
+                "I think there are about 100\n",
+                "different kinds!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "flags": 240,
+    "pad": "3e3e",
+    "messages": [
+        {
+            "id": "a002_082_0000",
+            "en_US": "Communication error."
+        },
+        {
+            "id": "a002_082_0001",
+            "en_US": [
+                "Communication error.\n",
+                "Please turn off the power."
+            ]
+        }
+    ]
+}

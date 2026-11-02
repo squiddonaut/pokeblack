@@ -1,0 +1,2613 @@
+{
+    "flags": 84,
+    "messages": [
+        {
+            "id": "a002_284_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a002_284_0001",
+            "en_US": "BULBASAUR"
+        },
+        {
+            "id": "a002_284_0002",
+            "en_US": "IVYSAUR"
+        },
+        {
+            "id": "a002_284_0003",
+            "en_US": "VENUSAUR"
+        },
+        {
+            "id": "a002_284_0004",
+            "en_US": "CHARMANDER"
+        },
+        {
+            "id": "a002_284_0005",
+            "en_US": "CHARMELEON"
+        },
+        {
+            "id": "a002_284_0006",
+            "en_US": "CHARIZARD"
+        },
+        {
+            "id": "a002_284_0007",
+            "en_US": "SQUIRTLE"
+        },
+        {
+            "id": "a002_284_0008",
+            "en_US": "WARTORTLE"
+        },
+        {
+            "id": "a002_284_0009",
+            "en_US": "BLASTOISE"
+        },
+        {
+            "id": "a002_284_0010",
+            "en_US": "CATERPIE"
+        },
+        {
+            "id": "a002_284_0011",
+            "en_US": "METAPOD"
+        },
+        {
+            "id": "a002_284_0012",
+            "en_US": "BUTTERFREE"
+        },
+        {
+            "id": "a002_284_0013",
+            "en_US": "WEEDLE"
+        },
+        {
+            "id": "a002_284_0014",
+            "en_US": "KAKUNA"
+        },
+        {
+            "id": "a002_284_0015",
+            "en_US": "BEEDRILL"
+        },
+        {
+            "id": "a002_284_0016",
+            "en_US": "PIDGEY"
+        },
+        {
+            "id": "a002_284_0017",
+            "en_US": "PIDGEOTTO"
+        },
+        {
+            "id": "a002_284_0018",
+            "en_US": "PIDGEOT"
+        },
+        {
+            "id": "a002_284_0019",
+            "en_US": "RATTATA"
+        },
+        {
+            "id": "a002_284_0020",
+            "en_US": "RATICATE"
+        },
+        {
+            "id": "a002_284_0021",
+            "en_US": "SPEAROW"
+        },
+        {
+            "id": "a002_284_0022",
+            "en_US": "FEAROW"
+        },
+        {
+            "id": "a002_284_0023",
+            "en_US": "EKANS"
+        },
+        {
+            "id": "a002_284_0024",
+            "en_US": "ARBOK"
+        },
+        {
+            "id": "a002_284_0025",
+            "en_US": "PIKACHU"
+        },
+        {
+            "id": "a002_284_0026",
+            "en_US": "RAICHU"
+        },
+        {
+            "id": "a002_284_0027",
+            "en_US": "SANDSHREW"
+        },
+        {
+            "id": "a002_284_0028",
+            "en_US": "SANDSLASH"
+        },
+        {
+            "id": "a002_284_0029",
+            "en_US": "NIDORAN⑮"
+        },
+        {
+            "id": "a002_284_0030",
+            "en_US": "NIDORINA"
+        },
+        {
+            "id": "a002_284_0031",
+            "en_US": "NIDOQUEEN"
+        },
+        {
+            "id": "a002_284_0032",
+            "en_US": "NIDORAN⑭"
+        },
+        {
+            "id": "a002_284_0033",
+            "en_US": "NIDORINO"
+        },
+        {
+            "id": "a002_284_0034",
+            "en_US": "NIDOKING"
+        },
+        {
+            "id": "a002_284_0035",
+            "en_US": "CLEFAIRY"
+        },
+        {
+            "id": "a002_284_0036",
+            "en_US": "CLEFABLE"
+        },
+        {
+            "id": "a002_284_0037",
+            "en_US": "VULPIX"
+        },
+        {
+            "id": "a002_284_0038",
+            "en_US": "NINETALES"
+        },
+        {
+            "id": "a002_284_0039",
+            "en_US": "JIGGLYPUFF"
+        },
+        {
+            "id": "a002_284_0040",
+            "en_US": "WIGGLYTUFF"
+        },
+        {
+            "id": "a002_284_0041",
+            "en_US": "ZUBAT"
+        },
+        {
+            "id": "a002_284_0042",
+            "en_US": "GOLBAT"
+        },
+        {
+            "id": "a002_284_0043",
+            "en_US": "ODDISH"
+        },
+        {
+            "id": "a002_284_0044",
+            "en_US": "GLOOM"
+        },
+        {
+            "id": "a002_284_0045",
+            "en_US": "VILEPLUME"
+        },
+        {
+            "id": "a002_284_0046",
+            "en_US": "PARAS"
+        },
+        {
+            "id": "a002_284_0047",
+            "en_US": "PARASECT"
+        },
+        {
+            "id": "a002_284_0048",
+            "en_US": "VENONAT"
+        },
+        {
+            "id": "a002_284_0049",
+            "en_US": "VENOMOTH"
+        },
+        {
+            "id": "a002_284_0050",
+            "en_US": "DIGLETT"
+        },
+        {
+            "id": "a002_284_0051",
+            "en_US": "DUGTRIO"
+        },
+        {
+            "id": "a002_284_0052",
+            "en_US": "MEOWTH"
+        },
+        {
+            "id": "a002_284_0053",
+            "en_US": "PERSIAN"
+        },
+        {
+            "id": "a002_284_0054",
+            "en_US": "PSYDUCK"
+        },
+        {
+            "id": "a002_284_0055",
+            "en_US": "GOLDUCK"
+        },
+        {
+            "id": "a002_284_0056",
+            "en_US": "MANKEY"
+        },
+        {
+            "id": "a002_284_0057",
+            "en_US": "PRIMEAPE"
+        },
+        {
+            "id": "a002_284_0058",
+            "en_US": "GROWLITHE"
+        },
+        {
+            "id": "a002_284_0059",
+            "en_US": "ARCANINE"
+        },
+        {
+            "id": "a002_284_0060",
+            "en_US": "POLIWAG"
+        },
+        {
+            "id": "a002_284_0061",
+            "en_US": "POLIWHIRL"
+        },
+        {
+            "id": "a002_284_0062",
+            "en_US": "POLIWRATH"
+        },
+        {
+            "id": "a002_284_0063",
+            "en_US": "ABRA"
+        },
+        {
+            "id": "a002_284_0064",
+            "en_US": "KADABRA"
+        },
+        {
+            "id": "a002_284_0065",
+            "en_US": "ALAKAZAM"
+        },
+        {
+            "id": "a002_284_0066",
+            "en_US": "MACHOP"
+        },
+        {
+            "id": "a002_284_0067",
+            "en_US": "MACHOKE"
+        },
+        {
+            "id": "a002_284_0068",
+            "en_US": "MACHAMP"
+        },
+        {
+            "id": "a002_284_0069",
+            "en_US": "BELLSPROUT"
+        },
+        {
+            "id": "a002_284_0070",
+            "en_US": "WEEPINBELL"
+        },
+        {
+            "id": "a002_284_0071",
+            "en_US": "VICTREEBEL"
+        },
+        {
+            "id": "a002_284_0072",
+            "en_US": "TENTACOOL"
+        },
+        {
+            "id": "a002_284_0073",
+            "en_US": "TENTACRUEL"
+        },
+        {
+            "id": "a002_284_0074",
+            "en_US": "GEODUDE"
+        },
+        {
+            "id": "a002_284_0075",
+            "en_US": "GRAVELER"
+        },
+        {
+            "id": "a002_284_0076",
+            "en_US": "GOLEM"
+        },
+        {
+            "id": "a002_284_0077",
+            "en_US": "PONYTA"
+        },
+        {
+            "id": "a002_284_0078",
+            "en_US": "RAPIDASH"
+        },
+        {
+            "id": "a002_284_0079",
+            "en_US": "SLOWPOKE"
+        },
+        {
+            "id": "a002_284_0080",
+            "en_US": "SLOWBRO"
+        },
+        {
+            "id": "a002_284_0081",
+            "en_US": "MAGNEMITE"
+        },
+        {
+            "id": "a002_284_0082",
+            "en_US": "MAGNETON"
+        },
+        {
+            "id": "a002_284_0083",
+            "en_US": "FARFETCH'D"
+        },
+        {
+            "id": "a002_284_0084",
+            "en_US": "DODUO"
+        },
+        {
+            "id": "a002_284_0085",
+            "en_US": "DODRIO"
+        },
+        {
+            "id": "a002_284_0086",
+            "en_US": "SEEL"
+        },
+        {
+            "id": "a002_284_0087",
+            "en_US": "DEWGONG"
+        },
+        {
+            "id": "a002_284_0088",
+            "en_US": "GRIMER"
+        },
+        {
+            "id": "a002_284_0089",
+            "en_US": "MUK"
+        },
+        {
+            "id": "a002_284_0090",
+            "en_US": "SHELLDER"
+        },
+        {
+            "id": "a002_284_0091",
+            "en_US": "CLOYSTER"
+        },
+        {
+            "id": "a002_284_0092",
+            "en_US": "GASTLY"
+        },
+        {
+            "id": "a002_284_0093",
+            "en_US": "HAUNTER"
+        },
+        {
+            "id": "a002_284_0094",
+            "en_US": "GENGAR"
+        },
+        {
+            "id": "a002_284_0095",
+            "en_US": "ONIX"
+        },
+        {
+            "id": "a002_284_0096",
+            "en_US": "DROWZEE"
+        },
+        {
+            "id": "a002_284_0097",
+            "en_US": "HYPNO"
+        },
+        {
+            "id": "a002_284_0098",
+            "en_US": "KRABBY"
+        },
+        {
+            "id": "a002_284_0099",
+            "en_US": "KINGLER"
+        },
+        {
+            "id": "a002_284_0100",
+            "en_US": "VOLTORB"
+        },
+        {
+            "id": "a002_284_0101",
+            "en_US": "ELECTRODE"
+        },
+        {
+            "id": "a002_284_0102",
+            "en_US": "EXEGGCUTE"
+        },
+        {
+            "id": "a002_284_0103",
+            "en_US": "EXEGGUTOR"
+        },
+        {
+            "id": "a002_284_0104",
+            "en_US": "CUBONE"
+        },
+        {
+            "id": "a002_284_0105",
+            "en_US": "MAROWAK"
+        },
+        {
+            "id": "a002_284_0106",
+            "en_US": "HITMONLEE"
+        },
+        {
+            "id": "a002_284_0107",
+            "en_US": "HITMONCHAN"
+        },
+        {
+            "id": "a002_284_0108",
+            "en_US": "LICKITUNG"
+        },
+        {
+            "id": "a002_284_0109",
+            "en_US": "KOFFING"
+        },
+        {
+            "id": "a002_284_0110",
+            "en_US": "WEEZING"
+        },
+        {
+            "id": "a002_284_0111",
+            "en_US": "RHYHORN"
+        },
+        {
+            "id": "a002_284_0112",
+            "en_US": "RHYDON"
+        },
+        {
+            "id": "a002_284_0113",
+            "en_US": "CHANSEY"
+        },
+        {
+            "id": "a002_284_0114",
+            "en_US": "TANGELA"
+        },
+        {
+            "id": "a002_284_0115",
+            "en_US": "KANGASKHAN"
+        },
+        {
+            "id": "a002_284_0116",
+            "en_US": "HORSEA"
+        },
+        {
+            "id": "a002_284_0117",
+            "en_US": "SEADRA"
+        },
+        {
+            "id": "a002_284_0118",
+            "en_US": "GOLDEEN"
+        },
+        {
+            "id": "a002_284_0119",
+            "en_US": "SEAKING"
+        },
+        {
+            "id": "a002_284_0120",
+            "en_US": "STARYU"
+        },
+        {
+            "id": "a002_284_0121",
+            "en_US": "STARMIE"
+        },
+        {
+            "id": "a002_284_0122",
+            "en_US": "MR. MIME"
+        },
+        {
+            "id": "a002_284_0123",
+            "en_US": "SCYTHER"
+        },
+        {
+            "id": "a002_284_0124",
+            "en_US": "JYNX"
+        },
+        {
+            "id": "a002_284_0125",
+            "en_US": "ELECTABUZZ"
+        },
+        {
+            "id": "a002_284_0126",
+            "en_US": "MAGMAR"
+        },
+        {
+            "id": "a002_284_0127",
+            "en_US": "PINSIR"
+        },
+        {
+            "id": "a002_284_0128",
+            "en_US": "TAUROS"
+        },
+        {
+            "id": "a002_284_0129",
+            "en_US": "MAGIKARP"
+        },
+        {
+            "id": "a002_284_0130",
+            "en_US": "GYARADOS"
+        },
+        {
+            "id": "a002_284_0131",
+            "en_US": "LAPRAS"
+        },
+        {
+            "id": "a002_284_0132",
+            "en_US": "DITTO"
+        },
+        {
+            "id": "a002_284_0133",
+            "en_US": "EEVEE"
+        },
+        {
+            "id": "a002_284_0134",
+            "en_US": "VAPOREON"
+        },
+        {
+            "id": "a002_284_0135",
+            "en_US": "JOLTEON"
+        },
+        {
+            "id": "a002_284_0136",
+            "en_US": "FLAREON"
+        },
+        {
+            "id": "a002_284_0137",
+            "en_US": "PORYGON"
+        },
+        {
+            "id": "a002_284_0138",
+            "en_US": "OMANYTE"
+        },
+        {
+            "id": "a002_284_0139",
+            "en_US": "OMASTAR"
+        },
+        {
+            "id": "a002_284_0140",
+            "en_US": "KABUTO"
+        },
+        {
+            "id": "a002_284_0141",
+            "en_US": "KABUTOPS"
+        },
+        {
+            "id": "a002_284_0142",
+            "en_US": "AERODACTYL"
+        },
+        {
+            "id": "a002_284_0143",
+            "en_US": "SNORLAX"
+        },
+        {
+            "id": "a002_284_0144",
+            "en_US": "ARTICUNO"
+        },
+        {
+            "id": "a002_284_0145",
+            "en_US": "ZAPDOS"
+        },
+        {
+            "id": "a002_284_0146",
+            "en_US": "MOLTRES"
+        },
+        {
+            "id": "a002_284_0147",
+            "en_US": "DRATINI"
+        },
+        {
+            "id": "a002_284_0148",
+            "en_US": "DRAGONAIR"
+        },
+        {
+            "id": "a002_284_0149",
+            "en_US": "DRAGONITE"
+        },
+        {
+            "id": "a002_284_0150",
+            "en_US": "MEWTWO"
+        },
+        {
+            "id": "a002_284_0151",
+            "en_US": "MEW"
+        },
+        {
+            "id": "a002_284_0152",
+            "en_US": "CHIKORITA"
+        },
+        {
+            "id": "a002_284_0153",
+            "en_US": "BAYLEEF"
+        },
+        {
+            "id": "a002_284_0154",
+            "en_US": "MEGANIUM"
+        },
+        {
+            "id": "a002_284_0155",
+            "en_US": "CYNDAQUIL"
+        },
+        {
+            "id": "a002_284_0156",
+            "en_US": "QUILAVA"
+        },
+        {
+            "id": "a002_284_0157",
+            "en_US": "TYPHLOSION"
+        },
+        {
+            "id": "a002_284_0158",
+            "en_US": "TOTODILE"
+        },
+        {
+            "id": "a002_284_0159",
+            "en_US": "CROCONAW"
+        },
+        {
+            "id": "a002_284_0160",
+            "en_US": "FERALIGATR"
+        },
+        {
+            "id": "a002_284_0161",
+            "en_US": "SENTRET"
+        },
+        {
+            "id": "a002_284_0162",
+            "en_US": "FURRET"
+        },
+        {
+            "id": "a002_284_0163",
+            "en_US": "HOOTHOOT"
+        },
+        {
+            "id": "a002_284_0164",
+            "en_US": "NOCTOWL"
+        },
+        {
+            "id": "a002_284_0165",
+            "en_US": "LEDYBA"
+        },
+        {
+            "id": "a002_284_0166",
+            "en_US": "LEDIAN"
+        },
+        {
+            "id": "a002_284_0167",
+            "en_US": "SPINARAK"
+        },
+        {
+            "id": "a002_284_0168",
+            "en_US": "ARIADOS"
+        },
+        {
+            "id": "a002_284_0169",
+            "en_US": "CROBAT"
+        },
+        {
+            "id": "a002_284_0170",
+            "en_US": "CHINCHOU"
+        },
+        {
+            "id": "a002_284_0171",
+            "en_US": "LANTURN"
+        },
+        {
+            "id": "a002_284_0172",
+            "en_US": "PICHU"
+        },
+        {
+            "id": "a002_284_0173",
+            "en_US": "CLEFFA"
+        },
+        {
+            "id": "a002_284_0174",
+            "en_US": "IGGLYBUFF"
+        },
+        {
+            "id": "a002_284_0175",
+            "en_US": "TOGEPI"
+        },
+        {
+            "id": "a002_284_0176",
+            "en_US": "TOGETIC"
+        },
+        {
+            "id": "a002_284_0177",
+            "en_US": "NATU"
+        },
+        {
+            "id": "a002_284_0178",
+            "en_US": "XATU"
+        },
+        {
+            "id": "a002_284_0179",
+            "en_US": "MAREEP"
+        },
+        {
+            "id": "a002_284_0180",
+            "en_US": "FLAAFFY"
+        },
+        {
+            "id": "a002_284_0181",
+            "en_US": "AMPHAROS"
+        },
+        {
+            "id": "a002_284_0182",
+            "en_US": "BELLOSSOM"
+        },
+        {
+            "id": "a002_284_0183",
+            "en_US": "MARILL"
+        },
+        {
+            "id": "a002_284_0184",
+            "en_US": "AZUMARILL"
+        },
+        {
+            "id": "a002_284_0185",
+            "en_US": "SUDOWOODO"
+        },
+        {
+            "id": "a002_284_0186",
+            "en_US": "POLITOED"
+        },
+        {
+            "id": "a002_284_0187",
+            "en_US": "HOPPIP"
+        },
+        {
+            "id": "a002_284_0188",
+            "en_US": "SKIPLOOM"
+        },
+        {
+            "id": "a002_284_0189",
+            "en_US": "JUMPLUFF"
+        },
+        {
+            "id": "a002_284_0190",
+            "en_US": "AIPOM"
+        },
+        {
+            "id": "a002_284_0191",
+            "en_US": "SUNKERN"
+        },
+        {
+            "id": "a002_284_0192",
+            "en_US": "SUNFLORA"
+        },
+        {
+            "id": "a002_284_0193",
+            "en_US": "YANMA"
+        },
+        {
+            "id": "a002_284_0194",
+            "en_US": "WOOPER"
+        },
+        {
+            "id": "a002_284_0195",
+            "en_US": "QUAGSIRE"
+        },
+        {
+            "id": "a002_284_0196",
+            "en_US": "ESPEON"
+        },
+        {
+            "id": "a002_284_0197",
+            "en_US": "UMBREON"
+        },
+        {
+            "id": "a002_284_0198",
+            "en_US": "MURKROW"
+        },
+        {
+            "id": "a002_284_0199",
+            "en_US": "SLOWKING"
+        },
+        {
+            "id": "a002_284_0200",
+            "en_US": "MISDREAVUS"
+        },
+        {
+            "id": "a002_284_0201",
+            "en_US": "UNOWN"
+        },
+        {
+            "id": "a002_284_0202",
+            "en_US": "WOBBUFFET"
+        },
+        {
+            "id": "a002_284_0203",
+            "en_US": "GIRAFARIG"
+        },
+        {
+            "id": "a002_284_0204",
+            "en_US": "PINECO"
+        },
+        {
+            "id": "a002_284_0205",
+            "en_US": "FORRETRESS"
+        },
+        {
+            "id": "a002_284_0206",
+            "en_US": "DUNSPARCE"
+        },
+        {
+            "id": "a002_284_0207",
+            "en_US": "GLIGAR"
+        },
+        {
+            "id": "a002_284_0208",
+            "en_US": "STEELIX"
+        },
+        {
+            "id": "a002_284_0209",
+            "en_US": "SNUBBULL"
+        },
+        {
+            "id": "a002_284_0210",
+            "en_US": "GRANBULL"
+        },
+        {
+            "id": "a002_284_0211",
+            "en_US": "QWILFISH"
+        },
+        {
+            "id": "a002_284_0212",
+            "en_US": "SCIZOR"
+        },
+        {
+            "id": "a002_284_0213",
+            "en_US": "SHUCKLE"
+        },
+        {
+            "id": "a002_284_0214",
+            "en_US": "HERACROSS"
+        },
+        {
+            "id": "a002_284_0215",
+            "en_US": "SNEASEL"
+        },
+        {
+            "id": "a002_284_0216",
+            "en_US": "TEDDIURSA"
+        },
+        {
+            "id": "a002_284_0217",
+            "en_US": "URSARING"
+        },
+        {
+            "id": "a002_284_0218",
+            "en_US": "SLUGMA"
+        },
+        {
+            "id": "a002_284_0219",
+            "en_US": "MAGCARGO"
+        },
+        {
+            "id": "a002_284_0220",
+            "en_US": "SWINUB"
+        },
+        {
+            "id": "a002_284_0221",
+            "en_US": "PILOSWINE"
+        },
+        {
+            "id": "a002_284_0222",
+            "en_US": "CORSOLA"
+        },
+        {
+            "id": "a002_284_0223",
+            "en_US": "REMORAID"
+        },
+        {
+            "id": "a002_284_0224",
+            "en_US": "OCTILLERY"
+        },
+        {
+            "id": "a002_284_0225",
+            "en_US": "DELIBIRD"
+        },
+        {
+            "id": "a002_284_0226",
+            "en_US": "MANTINE"
+        },
+        {
+            "id": "a002_284_0227",
+            "en_US": "SKARMORY"
+        },
+        {
+            "id": "a002_284_0228",
+            "en_US": "HOUNDOUR"
+        },
+        {
+            "id": "a002_284_0229",
+            "en_US": "HOUNDOOM"
+        },
+        {
+            "id": "a002_284_0230",
+            "en_US": "KINGDRA"
+        },
+        {
+            "id": "a002_284_0231",
+            "en_US": "PHANPY"
+        },
+        {
+            "id": "a002_284_0232",
+            "en_US": "DONPHAN"
+        },
+        {
+            "id": "a002_284_0233",
+            "en_US": "PORYGON2"
+        },
+        {
+            "id": "a002_284_0234",
+            "en_US": "STANTLER"
+        },
+        {
+            "id": "a002_284_0235",
+            "en_US": "SMEARGLE"
+        },
+        {
+            "id": "a002_284_0236",
+            "en_US": "TYROGUE"
+        },
+        {
+            "id": "a002_284_0237",
+            "en_US": "HITMONTOP"
+        },
+        {
+            "id": "a002_284_0238",
+            "en_US": "SMOOCHUM"
+        },
+        {
+            "id": "a002_284_0239",
+            "en_US": "ELEKID"
+        },
+        {
+            "id": "a002_284_0240",
+            "en_US": "MAGBY"
+        },
+        {
+            "id": "a002_284_0241",
+            "en_US": "MILTANK"
+        },
+        {
+            "id": "a002_284_0242",
+            "en_US": "BLISSEY"
+        },
+        {
+            "id": "a002_284_0243",
+            "en_US": "RAIKOU"
+        },
+        {
+            "id": "a002_284_0244",
+            "en_US": "ENTEI"
+        },
+        {
+            "id": "a002_284_0245",
+            "en_US": "SUICUNE"
+        },
+        {
+            "id": "a002_284_0246",
+            "en_US": "LARVITAR"
+        },
+        {
+            "id": "a002_284_0247",
+            "en_US": "PUPITAR"
+        },
+        {
+            "id": "a002_284_0248",
+            "en_US": "TYRANITAR"
+        },
+        {
+            "id": "a002_284_0249",
+            "en_US": "LUGIA"
+        },
+        {
+            "id": "a002_284_0250",
+            "en_US": "HO-OH"
+        },
+        {
+            "id": "a002_284_0251",
+            "en_US": "CELEBI"
+        },
+        {
+            "id": "a002_284_0252",
+            "en_US": "TREECKO"
+        },
+        {
+            "id": "a002_284_0253",
+            "en_US": "GROVYLE"
+        },
+        {
+            "id": "a002_284_0254",
+            "en_US": "SCEPTILE"
+        },
+        {
+            "id": "a002_284_0255",
+            "en_US": "TORCHIC"
+        },
+        {
+            "id": "a002_284_0256",
+            "en_US": "COMBUSKEN"
+        },
+        {
+            "id": "a002_284_0257",
+            "en_US": "BLAZIKEN"
+        },
+        {
+            "id": "a002_284_0258",
+            "en_US": "MUDKIP"
+        },
+        {
+            "id": "a002_284_0259",
+            "en_US": "MARSHTOMP"
+        },
+        {
+            "id": "a002_284_0260",
+            "en_US": "SWAMPERT"
+        },
+        {
+            "id": "a002_284_0261",
+            "en_US": "POOCHYENA"
+        },
+        {
+            "id": "a002_284_0262",
+            "en_US": "MIGHTYENA"
+        },
+        {
+            "id": "a002_284_0263",
+            "en_US": "ZIGZAGOON"
+        },
+        {
+            "id": "a002_284_0264",
+            "en_US": "LINOONE"
+        },
+        {
+            "id": "a002_284_0265",
+            "en_US": "WURMPLE"
+        },
+        {
+            "id": "a002_284_0266",
+            "en_US": "SILCOON"
+        },
+        {
+            "id": "a002_284_0267",
+            "en_US": "BEAUTIFLY"
+        },
+        {
+            "id": "a002_284_0268",
+            "en_US": "CASCOON"
+        },
+        {
+            "id": "a002_284_0269",
+            "en_US": "DUSTOX"
+        },
+        {
+            "id": "a002_284_0270",
+            "en_US": "LOTAD"
+        },
+        {
+            "id": "a002_284_0271",
+            "en_US": "LOMBRE"
+        },
+        {
+            "id": "a002_284_0272",
+            "en_US": "LUDICOLO"
+        },
+        {
+            "id": "a002_284_0273",
+            "en_US": "SEEDOT"
+        },
+        {
+            "id": "a002_284_0274",
+            "en_US": "NUZLEAF"
+        },
+        {
+            "id": "a002_284_0275",
+            "en_US": "SHIFTRY"
+        },
+        {
+            "id": "a002_284_0276",
+            "en_US": "TAILLOW"
+        },
+        {
+            "id": "a002_284_0277",
+            "en_US": "SWELLOW"
+        },
+        {
+            "id": "a002_284_0278",
+            "en_US": "WINGULL"
+        },
+        {
+            "id": "a002_284_0279",
+            "en_US": "PELIPPER"
+        },
+        {
+            "id": "a002_284_0280",
+            "en_US": "RALTS"
+        },
+        {
+            "id": "a002_284_0281",
+            "en_US": "KIRLIA"
+        },
+        {
+            "id": "a002_284_0282",
+            "en_US": "GARDEVOIR"
+        },
+        {
+            "id": "a002_284_0283",
+            "en_US": "SURSKIT"
+        },
+        {
+            "id": "a002_284_0284",
+            "en_US": "MASQUERAIN"
+        },
+        {
+            "id": "a002_284_0285",
+            "en_US": "SHROOMISH"
+        },
+        {
+            "id": "a002_284_0286",
+            "en_US": "BRELOOM"
+        },
+        {
+            "id": "a002_284_0287",
+            "en_US": "SLAKOTH"
+        },
+        {
+            "id": "a002_284_0288",
+            "en_US": "VIGOROTH"
+        },
+        {
+            "id": "a002_284_0289",
+            "en_US": "SLAKING"
+        },
+        {
+            "id": "a002_284_0290",
+            "en_US": "NINCADA"
+        },
+        {
+            "id": "a002_284_0291",
+            "en_US": "NINJASK"
+        },
+        {
+            "id": "a002_284_0292",
+            "en_US": "SHEDINJA"
+        },
+        {
+            "id": "a002_284_0293",
+            "en_US": "WHISMUR"
+        },
+        {
+            "id": "a002_284_0294",
+            "en_US": "LOUDRED"
+        },
+        {
+            "id": "a002_284_0295",
+            "en_US": "EXPLOUD"
+        },
+        {
+            "id": "a002_284_0296",
+            "en_US": "MAKUHITA"
+        },
+        {
+            "id": "a002_284_0297",
+            "en_US": "HARIYAMA"
+        },
+        {
+            "id": "a002_284_0298",
+            "en_US": "AZURILL"
+        },
+        {
+            "id": "a002_284_0299",
+            "en_US": "NOSEPASS"
+        },
+        {
+            "id": "a002_284_0300",
+            "en_US": "SKITTY"
+        },
+        {
+            "id": "a002_284_0301",
+            "en_US": "DELCATTY"
+        },
+        {
+            "id": "a002_284_0302",
+            "en_US": "SABLEYE"
+        },
+        {
+            "id": "a002_284_0303",
+            "en_US": "MAWILE"
+        },
+        {
+            "id": "a002_284_0304",
+            "en_US": "ARON"
+        },
+        {
+            "id": "a002_284_0305",
+            "en_US": "LAIRON"
+        },
+        {
+            "id": "a002_284_0306",
+            "en_US": "AGGRON"
+        },
+        {
+            "id": "a002_284_0307",
+            "en_US": "MEDITITE"
+        },
+        {
+            "id": "a002_284_0308",
+            "en_US": "MEDICHAM"
+        },
+        {
+            "id": "a002_284_0309",
+            "en_US": "ELECTRIKE"
+        },
+        {
+            "id": "a002_284_0310",
+            "en_US": "MANECTRIC"
+        },
+        {
+            "id": "a002_284_0311",
+            "en_US": "PLUSLE"
+        },
+        {
+            "id": "a002_284_0312",
+            "en_US": "MINUN"
+        },
+        {
+            "id": "a002_284_0313",
+            "en_US": "VOLBEAT"
+        },
+        {
+            "id": "a002_284_0314",
+            "en_US": "ILLUMISE"
+        },
+        {
+            "id": "a002_284_0315",
+            "en_US": "ROSELIA"
+        },
+        {
+            "id": "a002_284_0316",
+            "en_US": "GULPIN"
+        },
+        {
+            "id": "a002_284_0317",
+            "en_US": "SWALOT"
+        },
+        {
+            "id": "a002_284_0318",
+            "en_US": "CARVANHA"
+        },
+        {
+            "id": "a002_284_0319",
+            "en_US": "SHARPEDO"
+        },
+        {
+            "id": "a002_284_0320",
+            "en_US": "WAILMER"
+        },
+        {
+            "id": "a002_284_0321",
+            "en_US": "WAILORD"
+        },
+        {
+            "id": "a002_284_0322",
+            "en_US": "NUMEL"
+        },
+        {
+            "id": "a002_284_0323",
+            "en_US": "CAMERUPT"
+        },
+        {
+            "id": "a002_284_0324",
+            "en_US": "TORKOAL"
+        },
+        {
+            "id": "a002_284_0325",
+            "en_US": "SPOINK"
+        },
+        {
+            "id": "a002_284_0326",
+            "en_US": "GRUMPIG"
+        },
+        {
+            "id": "a002_284_0327",
+            "en_US": "SPINDA"
+        },
+        {
+            "id": "a002_284_0328",
+            "en_US": "TRAPINCH"
+        },
+        {
+            "id": "a002_284_0329",
+            "en_US": "VIBRAVA"
+        },
+        {
+            "id": "a002_284_0330",
+            "en_US": "FLYGON"
+        },
+        {
+            "id": "a002_284_0331",
+            "en_US": "CACNEA"
+        },
+        {
+            "id": "a002_284_0332",
+            "en_US": "CACTURNE"
+        },
+        {
+            "id": "a002_284_0333",
+            "en_US": "SWABLU"
+        },
+        {
+            "id": "a002_284_0334",
+            "en_US": "ALTARIA"
+        },
+        {
+            "id": "a002_284_0335",
+            "en_US": "ZANGOOSE"
+        },
+        {
+            "id": "a002_284_0336",
+            "en_US": "SEVIPER"
+        },
+        {
+            "id": "a002_284_0337",
+            "en_US": "LUNATONE"
+        },
+        {
+            "id": "a002_284_0338",
+            "en_US": "SOLROCK"
+        },
+        {
+            "id": "a002_284_0339",
+            "en_US": "BARBOACH"
+        },
+        {
+            "id": "a002_284_0340",
+            "en_US": "WHISCASH"
+        },
+        {
+            "id": "a002_284_0341",
+            "en_US": "CORPHISH"
+        },
+        {
+            "id": "a002_284_0342",
+            "en_US": "CRAWDAUNT"
+        },
+        {
+            "id": "a002_284_0343",
+            "en_US": "BALTOY"
+        },
+        {
+            "id": "a002_284_0344",
+            "en_US": "CLAYDOL"
+        },
+        {
+            "id": "a002_284_0345",
+            "en_US": "LILEEP"
+        },
+        {
+            "id": "a002_284_0346",
+            "en_US": "CRADILY"
+        },
+        {
+            "id": "a002_284_0347",
+            "en_US": "ANORITH"
+        },
+        {
+            "id": "a002_284_0348",
+            "en_US": "ARMALDO"
+        },
+        {
+            "id": "a002_284_0349",
+            "en_US": "FEEBAS"
+        },
+        {
+            "id": "a002_284_0350",
+            "en_US": "MILOTIC"
+        },
+        {
+            "id": "a002_284_0351",
+            "en_US": "CASTFORM"
+        },
+        {
+            "id": "a002_284_0352",
+            "en_US": "KECLEON"
+        },
+        {
+            "id": "a002_284_0353",
+            "en_US": "SHUPPET"
+        },
+        {
+            "id": "a002_284_0354",
+            "en_US": "BANETTE"
+        },
+        {
+            "id": "a002_284_0355",
+            "en_US": "DUSKULL"
+        },
+        {
+            "id": "a002_284_0356",
+            "en_US": "DUSCLOPS"
+        },
+        {
+            "id": "a002_284_0357",
+            "en_US": "TROPIUS"
+        },
+        {
+            "id": "a002_284_0358",
+            "en_US": "CHIMECHO"
+        },
+        {
+            "id": "a002_284_0359",
+            "en_US": "ABSOL"
+        },
+        {
+            "id": "a002_284_0360",
+            "en_US": "WYNAUT"
+        },
+        {
+            "id": "a002_284_0361",
+            "en_US": "SNORUNT"
+        },
+        {
+            "id": "a002_284_0362",
+            "en_US": "GLALIE"
+        },
+        {
+            "id": "a002_284_0363",
+            "en_US": "SPHEAL"
+        },
+        {
+            "id": "a002_284_0364",
+            "en_US": "SEALEO"
+        },
+        {
+            "id": "a002_284_0365",
+            "en_US": "WALREIN"
+        },
+        {
+            "id": "a002_284_0366",
+            "en_US": "CLAMPERL"
+        },
+        {
+            "id": "a002_284_0367",
+            "en_US": "HUNTAIL"
+        },
+        {
+            "id": "a002_284_0368",
+            "en_US": "GOREBYSS"
+        },
+        {
+            "id": "a002_284_0369",
+            "en_US": "RELICANTH"
+        },
+        {
+            "id": "a002_284_0370",
+            "en_US": "LUVDISC"
+        },
+        {
+            "id": "a002_284_0371",
+            "en_US": "BAGON"
+        },
+        {
+            "id": "a002_284_0372",
+            "en_US": "SHELGON"
+        },
+        {
+            "id": "a002_284_0373",
+            "en_US": "SALAMENCE"
+        },
+        {
+            "id": "a002_284_0374",
+            "en_US": "BELDUM"
+        },
+        {
+            "id": "a002_284_0375",
+            "en_US": "METANG"
+        },
+        {
+            "id": "a002_284_0376",
+            "en_US": "METAGROSS"
+        },
+        {
+            "id": "a002_284_0377",
+            "en_US": "REGIROCK"
+        },
+        {
+            "id": "a002_284_0378",
+            "en_US": "REGICE"
+        },
+        {
+            "id": "a002_284_0379",
+            "en_US": "REGISTEEL"
+        },
+        {
+            "id": "a002_284_0380",
+            "en_US": "LATIAS"
+        },
+        {
+            "id": "a002_284_0381",
+            "en_US": "LATIOS"
+        },
+        {
+            "id": "a002_284_0382",
+            "en_US": "KYOGRE"
+        },
+        {
+            "id": "a002_284_0383",
+            "en_US": "GROUDON"
+        },
+        {
+            "id": "a002_284_0384",
+            "en_US": "RAYQUAZA"
+        },
+        {
+            "id": "a002_284_0385",
+            "en_US": "JIRACHI"
+        },
+        {
+            "id": "a002_284_0386",
+            "en_US": "DEOXYS"
+        },
+        {
+            "id": "a002_284_0387",
+            "en_US": "TURTWIG"
+        },
+        {
+            "id": "a002_284_0388",
+            "en_US": "GROTLE"
+        },
+        {
+            "id": "a002_284_0389",
+            "en_US": "TORTERRA"
+        },
+        {
+            "id": "a002_284_0390",
+            "en_US": "CHIMCHAR"
+        },
+        {
+            "id": "a002_284_0391",
+            "en_US": "MONFERNO"
+        },
+        {
+            "id": "a002_284_0392",
+            "en_US": "INFERNAPE"
+        },
+        {
+            "id": "a002_284_0393",
+            "en_US": "PIPLUP"
+        },
+        {
+            "id": "a002_284_0394",
+            "en_US": "PRINPLUP"
+        },
+        {
+            "id": "a002_284_0395",
+            "en_US": "EMPOLEON"
+        },
+        {
+            "id": "a002_284_0396",
+            "en_US": "STARLY"
+        },
+        {
+            "id": "a002_284_0397",
+            "en_US": "STARAVIA"
+        },
+        {
+            "id": "a002_284_0398",
+            "en_US": "STARAPTOR"
+        },
+        {
+            "id": "a002_284_0399",
+            "en_US": "BIDOOF"
+        },
+        {
+            "id": "a002_284_0400",
+            "en_US": "BIBAREL"
+        },
+        {
+            "id": "a002_284_0401",
+            "en_US": "KRICKETOT"
+        },
+        {
+            "id": "a002_284_0402",
+            "en_US": "KRICKETUNE"
+        },
+        {
+            "id": "a002_284_0403",
+            "en_US": "SHINX"
+        },
+        {
+            "id": "a002_284_0404",
+            "en_US": "LUXIO"
+        },
+        {
+            "id": "a002_284_0405",
+            "en_US": "LUXRAY"
+        },
+        {
+            "id": "a002_284_0406",
+            "en_US": "BUDEW"
+        },
+        {
+            "id": "a002_284_0407",
+            "en_US": "ROSERADE"
+        },
+        {
+            "id": "a002_284_0408",
+            "en_US": "CRANIDOS"
+        },
+        {
+            "id": "a002_284_0409",
+            "en_US": "RAMPARDOS"
+        },
+        {
+            "id": "a002_284_0410",
+            "en_US": "SHIELDON"
+        },
+        {
+            "id": "a002_284_0411",
+            "en_US": "BASTIODON"
+        },
+        {
+            "id": "a002_284_0412",
+            "en_US": "BURMY"
+        },
+        {
+            "id": "a002_284_0413",
+            "en_US": "WORMADAM"
+        },
+        {
+            "id": "a002_284_0414",
+            "en_US": "MOTHIM"
+        },
+        {
+            "id": "a002_284_0415",
+            "en_US": "COMBEE"
+        },
+        {
+            "id": "a002_284_0416",
+            "en_US": "VESPIQUEN"
+        },
+        {
+            "id": "a002_284_0417",
+            "en_US": "PACHIRISU"
+        },
+        {
+            "id": "a002_284_0418",
+            "en_US": "BUIZEL"
+        },
+        {
+            "id": "a002_284_0419",
+            "en_US": "FLOATZEL"
+        },
+        {
+            "id": "a002_284_0420",
+            "en_US": "CHERUBI"
+        },
+        {
+            "id": "a002_284_0421",
+            "en_US": "CHERRIM"
+        },
+        {
+            "id": "a002_284_0422",
+            "en_US": "SHELLOS"
+        },
+        {
+            "id": "a002_284_0423",
+            "en_US": "GASTRODON"
+        },
+        {
+            "id": "a002_284_0424",
+            "en_US": "AMBIPOM"
+        },
+        {
+            "id": "a002_284_0425",
+            "en_US": "DRIFLOON"
+        },
+        {
+            "id": "a002_284_0426",
+            "en_US": "DRIFBLIM"
+        },
+        {
+            "id": "a002_284_0427",
+            "en_US": "BUNEARY"
+        },
+        {
+            "id": "a002_284_0428",
+            "en_US": "LOPUNNY"
+        },
+        {
+            "id": "a002_284_0429",
+            "en_US": "MISMAGIUS"
+        },
+        {
+            "id": "a002_284_0430",
+            "en_US": "HONCHKROW"
+        },
+        {
+            "id": "a002_284_0431",
+            "en_US": "GLAMEOW"
+        },
+        {
+            "id": "a002_284_0432",
+            "en_US": "PURUGLY"
+        },
+        {
+            "id": "a002_284_0433",
+            "en_US": "CHINGLING"
+        },
+        {
+            "id": "a002_284_0434",
+            "en_US": "STUNKY"
+        },
+        {
+            "id": "a002_284_0435",
+            "en_US": "SKUNTANK"
+        },
+        {
+            "id": "a002_284_0436",
+            "en_US": "BRONZOR"
+        },
+        {
+            "id": "a002_284_0437",
+            "en_US": "BRONZONG"
+        },
+        {
+            "id": "a002_284_0438",
+            "en_US": "BONSLY"
+        },
+        {
+            "id": "a002_284_0439",
+            "en_US": "MIME JR."
+        },
+        {
+            "id": "a002_284_0440",
+            "en_US": "HAPPINY"
+        },
+        {
+            "id": "a002_284_0441",
+            "en_US": "CHATOT"
+        },
+        {
+            "id": "a002_284_0442",
+            "en_US": "SPIRITOMB"
+        },
+        {
+            "id": "a002_284_0443",
+            "en_US": "GIBLE"
+        },
+        {
+            "id": "a002_284_0444",
+            "en_US": "GABITE"
+        },
+        {
+            "id": "a002_284_0445",
+            "en_US": "GARCHOMP"
+        },
+        {
+            "id": "a002_284_0446",
+            "en_US": "MUNCHLAX"
+        },
+        {
+            "id": "a002_284_0447",
+            "en_US": "RIOLU"
+        },
+        {
+            "id": "a002_284_0448",
+            "en_US": "LUCARIO"
+        },
+        {
+            "id": "a002_284_0449",
+            "en_US": "HIPPOPOTAS"
+        },
+        {
+            "id": "a002_284_0450",
+            "en_US": "HIPPOWDON"
+        },
+        {
+            "id": "a002_284_0451",
+            "en_US": "SKORUPI"
+        },
+        {
+            "id": "a002_284_0452",
+            "en_US": "DRAPION"
+        },
+        {
+            "id": "a002_284_0453",
+            "en_US": "CROAGUNK"
+        },
+        {
+            "id": "a002_284_0454",
+            "en_US": "TOXICROAK"
+        },
+        {
+            "id": "a002_284_0455",
+            "en_US": "CARNIVINE"
+        },
+        {
+            "id": "a002_284_0456",
+            "en_US": "FINNEON"
+        },
+        {
+            "id": "a002_284_0457",
+            "en_US": "LUMINEON"
+        },
+        {
+            "id": "a002_284_0458",
+            "en_US": "MANTYKE"
+        },
+        {
+            "id": "a002_284_0459",
+            "en_US": "SNOVER"
+        },
+        {
+            "id": "a002_284_0460",
+            "en_US": "ABOMASNOW"
+        },
+        {
+            "id": "a002_284_0461",
+            "en_US": "WEAVILE"
+        },
+        {
+            "id": "a002_284_0462",
+            "en_US": "MAGNEZONE"
+        },
+        {
+            "id": "a002_284_0463",
+            "en_US": "LICKILICKY"
+        },
+        {
+            "id": "a002_284_0464",
+            "en_US": "RHYPERIOR"
+        },
+        {
+            "id": "a002_284_0465",
+            "en_US": "TANGROWTH"
+        },
+        {
+            "id": "a002_284_0466",
+            "en_US": "ELECTIVIRE"
+        },
+        {
+            "id": "a002_284_0467",
+            "en_US": "MAGMORTAR"
+        },
+        {
+            "id": "a002_284_0468",
+            "en_US": "TOGEKISS"
+        },
+        {
+            "id": "a002_284_0469",
+            "en_US": "YANMEGA"
+        },
+        {
+            "id": "a002_284_0470",
+            "en_US": "LEAFEON"
+        },
+        {
+            "id": "a002_284_0471",
+            "en_US": "GLACEON"
+        },
+        {
+            "id": "a002_284_0472",
+            "en_US": "GLISCOR"
+        },
+        {
+            "id": "a002_284_0473",
+            "en_US": "MAMOSWINE"
+        },
+        {
+            "id": "a002_284_0474",
+            "en_US": "PORYGON-Z"
+        },
+        {
+            "id": "a002_284_0475",
+            "en_US": "GALLADE"
+        },
+        {
+            "id": "a002_284_0476",
+            "en_US": "PROBOPASS"
+        },
+        {
+            "id": "a002_284_0477",
+            "en_US": "DUSKNOIR"
+        },
+        {
+            "id": "a002_284_0478",
+            "en_US": "FROSLASS"
+        },
+        {
+            "id": "a002_284_0479",
+            "en_US": "ROTOM"
+        },
+        {
+            "id": "a002_284_0480",
+            "en_US": "UXIE"
+        },
+        {
+            "id": "a002_284_0481",
+            "en_US": "MESPRIT"
+        },
+        {
+            "id": "a002_284_0482",
+            "en_US": "AZELF"
+        },
+        {
+            "id": "a002_284_0483",
+            "en_US": "DIALGA"
+        },
+        {
+            "id": "a002_284_0484",
+            "en_US": "PALKIA"
+        },
+        {
+            "id": "a002_284_0485",
+            "en_US": "HEATRAN"
+        },
+        {
+            "id": "a002_284_0486",
+            "en_US": "REGIGIGAS"
+        },
+        {
+            "id": "a002_284_0487",
+            "en_US": "GIRATINA"
+        },
+        {
+            "id": "a002_284_0488",
+            "en_US": "CRESSELIA"
+        },
+        {
+            "id": "a002_284_0489",
+            "en_US": "PHIONE"
+        },
+        {
+            "id": "a002_284_0490",
+            "en_US": "MANAPHY"
+        },
+        {
+            "id": "a002_284_0491",
+            "en_US": "DARKRAI"
+        },
+        {
+            "id": "a002_284_0492",
+            "en_US": "SHAYMIN"
+        },
+        {
+            "id": "a002_284_0493",
+            "en_US": "ARCEUS"
+        },
+        {
+            "id": "a002_284_0494",
+            "en_US": "VICTINI"
+        },
+        {
+            "id": "a002_284_0495",
+            "en_US": "SNIVY"
+        },
+        {
+            "id": "a002_284_0496",
+            "en_US": "SERVINE"
+        },
+        {
+            "id": "a002_284_0497",
+            "en_US": "SERPERIOR"
+        },
+        {
+            "id": "a002_284_0498",
+            "en_US": "TEPIG"
+        },
+        {
+            "id": "a002_284_0499",
+            "en_US": "PIGNITE"
+        },
+        {
+            "id": "a002_284_0500",
+            "en_US": "EMBOAR"
+        },
+        {
+            "id": "a002_284_0501",
+            "en_US": "OSHAWOTT"
+        },
+        {
+            "id": "a002_284_0502",
+            "en_US": "DEWOTT"
+        },
+        {
+            "id": "a002_284_0503",
+            "en_US": "SAMUROTT"
+        },
+        {
+            "id": "a002_284_0504",
+            "en_US": "PATRAT"
+        },
+        {
+            "id": "a002_284_0505",
+            "en_US": "WATCHOG"
+        },
+        {
+            "id": "a002_284_0506",
+            "en_US": "LILLIPUP"
+        },
+        {
+            "id": "a002_284_0507",
+            "en_US": "HERDIER"
+        },
+        {
+            "id": "a002_284_0508",
+            "en_US": "STOUTLAND"
+        },
+        {
+            "id": "a002_284_0509",
+            "en_US": "PURRLOIN"
+        },
+        {
+            "id": "a002_284_0510",
+            "en_US": "LIEPARD"
+        },
+        {
+            "id": "a002_284_0511",
+            "en_US": "PANSAGE"
+        },
+        {
+            "id": "a002_284_0512",
+            "en_US": "SIMISAGE"
+        },
+        {
+            "id": "a002_284_0513",
+            "en_US": "PANSEAR"
+        },
+        {
+            "id": "a002_284_0514",
+            "en_US": "SIMISEAR"
+        },
+        {
+            "id": "a002_284_0515",
+            "en_US": "PANPOUR"
+        },
+        {
+            "id": "a002_284_0516",
+            "en_US": "SIMIPOUR"
+        },
+        {
+            "id": "a002_284_0517",
+            "en_US": "MUNNA"
+        },
+        {
+            "id": "a002_284_0518",
+            "en_US": "MUSHARNA"
+        },
+        {
+            "id": "a002_284_0519",
+            "en_US": "PIDOVE"
+        },
+        {
+            "id": "a002_284_0520",
+            "en_US": "TRANQUILL"
+        },
+        {
+            "id": "a002_284_0521",
+            "en_US": "UNFEZANT"
+        },
+        {
+            "id": "a002_284_0522",
+            "en_US": "BLITZLE"
+        },
+        {
+            "id": "a002_284_0523",
+            "en_US": "ZEBSTRIKA"
+        },
+        {
+            "id": "a002_284_0524",
+            "en_US": "ROGGENROLA"
+        },
+        {
+            "id": "a002_284_0525",
+            "en_US": "BOLDORE"
+        },
+        {
+            "id": "a002_284_0526",
+            "en_US": "GIGALITH"
+        },
+        {
+            "id": "a002_284_0527",
+            "en_US": "WOOBAT"
+        },
+        {
+            "id": "a002_284_0528",
+            "en_US": "SWOOBAT"
+        },
+        {
+            "id": "a002_284_0529",
+            "en_US": "DRILBUR"
+        },
+        {
+            "id": "a002_284_0530",
+            "en_US": "EXCADRILL"
+        },
+        {
+            "id": "a002_284_0531",
+            "en_US": "AUDINO"
+        },
+        {
+            "id": "a002_284_0532",
+            "en_US": "TIMBURR"
+        },
+        {
+            "id": "a002_284_0533",
+            "en_US": "GURDURR"
+        },
+        {
+            "id": "a002_284_0534",
+            "en_US": "CONKELDURR"
+        },
+        {
+            "id": "a002_284_0535",
+            "en_US": "TYMPOLE"
+        },
+        {
+            "id": "a002_284_0536",
+            "en_US": "PALPITOAD"
+        },
+        {
+            "id": "a002_284_0537",
+            "en_US": "SEISMITOAD"
+        },
+        {
+            "id": "a002_284_0538",
+            "en_US": "THROH"
+        },
+        {
+            "id": "a002_284_0539",
+            "en_US": "SAWK"
+        },
+        {
+            "id": "a002_284_0540",
+            "en_US": "SEWADDLE"
+        },
+        {
+            "id": "a002_284_0541",
+            "en_US": "SWADLOON"
+        },
+        {
+            "id": "a002_284_0542",
+            "en_US": "LEAVANNY"
+        },
+        {
+            "id": "a002_284_0543",
+            "en_US": "VENIPEDE"
+        },
+        {
+            "id": "a002_284_0544",
+            "en_US": "WHIRLIPEDE"
+        },
+        {
+            "id": "a002_284_0545",
+            "en_US": "SCOLIPEDE"
+        },
+        {
+            "id": "a002_284_0546",
+            "en_US": "COTTONEE"
+        },
+        {
+            "id": "a002_284_0547",
+            "en_US": "WHIMSICOTT"
+        },
+        {
+            "id": "a002_284_0548",
+            "en_US": "PETILIL"
+        },
+        {
+            "id": "a002_284_0549",
+            "en_US": "LILLIGANT"
+        },
+        {
+            "id": "a002_284_0550",
+            "en_US": "BASCULIN"
+        },
+        {
+            "id": "a002_284_0551",
+            "en_US": "SANDILE"
+        },
+        {
+            "id": "a002_284_0552",
+            "en_US": "KROKOROK"
+        },
+        {
+            "id": "a002_284_0553",
+            "en_US": "KROOKODILE"
+        },
+        {
+            "id": "a002_284_0554",
+            "en_US": "DARUMAKA"
+        },
+        {
+            "id": "a002_284_0555",
+            "en_US": "DARMANITAN"
+        },
+        {
+            "id": "a002_284_0556",
+            "en_US": "MARACTUS"
+        },
+        {
+            "id": "a002_284_0557",
+            "en_US": "DWEBBLE"
+        },
+        {
+            "id": "a002_284_0558",
+            "en_US": "CRUSTLE"
+        },
+        {
+            "id": "a002_284_0559",
+            "en_US": "SCRAGGY"
+        },
+        {
+            "id": "a002_284_0560",
+            "en_US": "SCRAFTY"
+        },
+        {
+            "id": "a002_284_0561",
+            "en_US": "SIGILYPH"
+        },
+        {
+            "id": "a002_284_0562",
+            "en_US": "YAMASK"
+        },
+        {
+            "id": "a002_284_0563",
+            "en_US": "COFAGRIGUS"
+        },
+        {
+            "id": "a002_284_0564",
+            "en_US": "TIRTOUGA"
+        },
+        {
+            "id": "a002_284_0565",
+            "en_US": "CARRACOSTA"
+        },
+        {
+            "id": "a002_284_0566",
+            "en_US": "ARCHEN"
+        },
+        {
+            "id": "a002_284_0567",
+            "en_US": "ARCHEOPS"
+        },
+        {
+            "id": "a002_284_0568",
+            "en_US": "TRUBBISH"
+        },
+        {
+            "id": "a002_284_0569",
+            "en_US": "GARBODOR"
+        },
+        {
+            "id": "a002_284_0570",
+            "en_US": "ZORUA"
+        },
+        {
+            "id": "a002_284_0571",
+            "en_US": "ZOROARK"
+        },
+        {
+            "id": "a002_284_0572",
+            "en_US": "MINCCINO"
+        },
+        {
+            "id": "a002_284_0573",
+            "en_US": "CINCCINO"
+        },
+        {
+            "id": "a002_284_0574",
+            "en_US": "GOTHITA"
+        },
+        {
+            "id": "a002_284_0575",
+            "en_US": "GOTHORITA"
+        },
+        {
+            "id": "a002_284_0576",
+            "en_US": "GOTHITELLE"
+        },
+        {
+            "id": "a002_284_0577",
+            "en_US": "SOLOSIS"
+        },
+        {
+            "id": "a002_284_0578",
+            "en_US": "DUOSION"
+        },
+        {
+            "id": "a002_284_0579",
+            "en_US": "REUNICLUS"
+        },
+        {
+            "id": "a002_284_0580",
+            "en_US": "DUCKLETT"
+        },
+        {
+            "id": "a002_284_0581",
+            "en_US": "SWANNA"
+        },
+        {
+            "id": "a002_284_0582",
+            "en_US": "VANILLITE"
+        },
+        {
+            "id": "a002_284_0583",
+            "en_US": "VANILLISH"
+        },
+        {
+            "id": "a002_284_0584",
+            "en_US": "VANILLUXE"
+        },
+        {
+            "id": "a002_284_0585",
+            "en_US": "DEERLING"
+        },
+        {
+            "id": "a002_284_0586",
+            "en_US": "SAWSBUCK"
+        },
+        {
+            "id": "a002_284_0587",
+            "en_US": "EMOLGA"
+        },
+        {
+            "id": "a002_284_0588",
+            "en_US": "KARRABLAST"
+        },
+        {
+            "id": "a002_284_0589",
+            "en_US": "ESCAVALIER"
+        },
+        {
+            "id": "a002_284_0590",
+            "en_US": "FOONGUS"
+        },
+        {
+            "id": "a002_284_0591",
+            "en_US": "AMOONGUSS"
+        },
+        {
+            "id": "a002_284_0592",
+            "en_US": "FRILLISH"
+        },
+        {
+            "id": "a002_284_0593",
+            "en_US": "JELLICENT"
+        },
+        {
+            "id": "a002_284_0594",
+            "en_US": "ALOMOMOLA"
+        },
+        {
+            "id": "a002_284_0595",
+            "en_US": "JOLTIK"
+        },
+        {
+            "id": "a002_284_0596",
+            "en_US": "GALVANTULA"
+        },
+        {
+            "id": "a002_284_0597",
+            "en_US": "FERROSEED"
+        },
+        {
+            "id": "a002_284_0598",
+            "en_US": "FERROTHORN"
+        },
+        {
+            "id": "a002_284_0599",
+            "en_US": "KLINK"
+        },
+        {
+            "id": "a002_284_0600",
+            "en_US": "KLANG"
+        },
+        {
+            "id": "a002_284_0601",
+            "en_US": "KLINKLANG"
+        },
+        {
+            "id": "a002_284_0602",
+            "en_US": "TYNAMO"
+        },
+        {
+            "id": "a002_284_0603",
+            "en_US": "EELEKTRIK"
+        },
+        {
+            "id": "a002_284_0604",
+            "en_US": "EELEKTROSS"
+        },
+        {
+            "id": "a002_284_0605",
+            "en_US": "ELGYEM"
+        },
+        {
+            "id": "a002_284_0606",
+            "en_US": "BEHEEYEM"
+        },
+        {
+            "id": "a002_284_0607",
+            "en_US": "LITWICK"
+        },
+        {
+            "id": "a002_284_0608",
+            "en_US": "LAMPENT"
+        },
+        {
+            "id": "a002_284_0609",
+            "en_US": "CHANDELURE"
+        },
+        {
+            "id": "a002_284_0610",
+            "en_US": "AXEW"
+        },
+        {
+            "id": "a002_284_0611",
+            "en_US": "FRAXURE"
+        },
+        {
+            "id": "a002_284_0612",
+            "en_US": "HAXORUS"
+        },
+        {
+            "id": "a002_284_0613",
+            "en_US": "CUBCHOO"
+        },
+        {
+            "id": "a002_284_0614",
+            "en_US": "BEARTIC"
+        },
+        {
+            "id": "a002_284_0615",
+            "en_US": "CRYOGONAL"
+        },
+        {
+            "id": "a002_284_0616",
+            "en_US": "SHELMET"
+        },
+        {
+            "id": "a002_284_0617",
+            "en_US": "ACCELGOR"
+        },
+        {
+            "id": "a002_284_0618",
+            "en_US": "STUNFISK"
+        },
+        {
+            "id": "a002_284_0619",
+            "en_US": "MIENFOO"
+        },
+        {
+            "id": "a002_284_0620",
+            "en_US": "MIENSHAO"
+        },
+        {
+            "id": "a002_284_0621",
+            "en_US": "DRUDDIGON"
+        },
+        {
+            "id": "a002_284_0622",
+            "en_US": "GOLETT"
+        },
+        {
+            "id": "a002_284_0623",
+            "en_US": "GOLURK"
+        },
+        {
+            "id": "a002_284_0624",
+            "en_US": "PAWNIARD"
+        },
+        {
+            "id": "a002_284_0625",
+            "en_US": "BISHARP"
+        },
+        {
+            "id": "a002_284_0626",
+            "en_US": "BOUFFALANT"
+        },
+        {
+            "id": "a002_284_0627",
+            "en_US": "RUFFLET"
+        },
+        {
+            "id": "a002_284_0628",
+            "en_US": "BRAVIARY"
+        },
+        {
+            "id": "a002_284_0629",
+            "en_US": "VULLABY"
+        },
+        {
+            "id": "a002_284_0630",
+            "en_US": "MANDIBUZZ"
+        },
+        {
+            "id": "a002_284_0631",
+            "en_US": "HEATMOR"
+        },
+        {
+            "id": "a002_284_0632",
+            "en_US": "DURANT"
+        },
+        {
+            "id": "a002_284_0633",
+            "en_US": "DEINO"
+        },
+        {
+            "id": "a002_284_0634",
+            "en_US": "ZWEILOUS"
+        },
+        {
+            "id": "a002_284_0635",
+            "en_US": "HYDREIGON"
+        },
+        {
+            "id": "a002_284_0636",
+            "en_US": "LARVESTA"
+        },
+        {
+            "id": "a002_284_0637",
+            "en_US": "VOLCARONA"
+        },
+        {
+            "id": "a002_284_0638",
+            "en_US": "COBALION"
+        },
+        {
+            "id": "a002_284_0639",
+            "en_US": "TERRAKION"
+        },
+        {
+            "id": "a002_284_0640",
+            "en_US": "VIRIZION"
+        },
+        {
+            "id": "a002_284_0641",
+            "en_US": "TORNADUS"
+        },
+        {
+            "id": "a002_284_0642",
+            "en_US": "THUNDURUS"
+        },
+        {
+            "id": "a002_284_0643",
+            "en_US": "RESHIRAM"
+        },
+        {
+            "id": "a002_284_0644",
+            "en_US": "ZEKROM"
+        },
+        {
+            "id": "a002_284_0645",
+            "en_US": "LANDORUS"
+        },
+        {
+            "id": "a002_284_0646",
+            "en_US": "KYUREM"
+        },
+        {
+            "id": "a002_284_0647",
+            "en_US": "KELDEO"
+        },
+        {
+            "id": "a002_284_0648",
+            "en_US": "MELOETTA"
+        },
+        {
+            "id": "a002_284_0649",
+            "en_US": "GENESECT"
+        },
+        {
+            "id": "a002_284_0650",
+            "en_US": ""
+        },
+        {
+            "id": "a002_284_0651",
+            "en_US": ""
+        }
+    ]
+}

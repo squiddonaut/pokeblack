@@ -1,0 +1,45 @@
+{
+    "flags": 0,
+    "pad": "f0f0",
+    "messages": [
+        {
+            "id": "a002_078_0000",
+            "en_US": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0201 0000}",
+            "flags": 64
+        },
+        {
+            "id": "a002_078_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a002_078_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a002_078_0003",
+            "en_US": [
+                "Do you want to display your Musical Photo\n",
+                "in the Musical Theater?"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_078_0004",
+            "en_US": "YES",
+            "flags": 47
+        },
+        {
+            "id": "a002_078_0005",
+            "en_US": "NO",
+            "flags": 47
+        },
+        {
+            "id": "a002_078_0006",
+            "en_US": [
+                "Awaiting others' decisions.\n",
+                "Please wait..."
+            ],
+            "flags": 225
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_454_0000",
+            "en_US": [
+                "Fun in summer...\n",
+                "Beautiful girls playing in the water...{VAR BE01}\n",
+                "Hey! I'm just thinking out loud.\n",
+                "Please don't listen to me!"
+            ]
+        },
+        {
+            "id": "a003_454_0001",
+            "en_US": [
+                "The best luxury is to enjoy\n",
+                "just doing nothing."
+            ]
+        },
+        {
+            "id": "a003_454_0002",
+            "en_US": [
+                "Phew...{VAR BE01}\n",
+                "I've been relaxing in Undella Town too\n",
+                "long, and I've gotten a little chubby.{VAR BE01}\n",
+                "If {VAR 0101 0000} is by my side, I can get\n",
+                "some exercise by training it, and{VAR BE00}\n",
+                "that'll help me lose weight.{VAR BE01}\n",
+                "Would you trade my {VAR 0101 0001}\n",
+                "with {VAR 0101 0000}?"
+            ]
+        },
+        {
+            "id": "a003_454_0003",
+            "en_US": "Phew! All right, let's trade!{VAR BE01}"
+        },
+        {
+            "id": "a003_454_0004",
+            "en_US": [
+                "Phew... Thanks.{VAR BE01}\n",
+                "Please take good care of {VAR 0101 0001}.\n",
+                "It spent a summer with me.{VAR BE01}\n",
+                "I will work hard to train your {VAR 0101 0000}\n",
+                "and get some exercise!"
+            ]
+        },
+        {
+            "id": "a003_454_0005",
+            "en_US": "Phew... What I want is {VAR 0101 0000}."
+        },
+        {
+            "id": "a003_454_0006",
+            "en_US": "Phew... That's disappointing."
+        },
+        {
+            "id": "a003_454_0007",
+            "en_US": [
+                "Hello, there!\n",
+                "You kindly traded me that Pokémon, and{VAR BE00}\n",
+                "now you can hardly recognize me, eh?{VAR BE01}\n",
+                "Because {VAR 0101 0000} is by my side,\n",
+                "I've trimmed down a little!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "3636",
+    "messages": [
+        {
+            "id": "a003_216_0000",
+            "en_US": "Cheren: {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_216_0001",
+            "en_US": [
+                "You can walk on the fallen columns, too.{VAR BE01}\n",
+                "I'm going after Team Plasma!{VAR BE01}"
+            ]
+        }
+    ]
+}

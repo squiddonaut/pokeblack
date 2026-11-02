@@ -1,0 +1,118 @@
+{
+    "flags": 216,
+    "pad": "8c8c",
+    "messages": [
+        {
+            "id": "a002_042_0000",
+            "en_US": "{VAR 0100 0000}",
+            "flags": 60
+        },
+        {
+            "id": "a002_042_0001",
+            "en_US": "ID {VAR 0204 0000}",
+            "flags": 58
+        },
+        {
+            "id": "a002_042_0002",
+            "en_US": [
+                "When the group is ready:\n",
+                "A Button: Proceed   B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_042_0003",
+            "en_US": "Is this group OK?"
+        },
+        {
+            "id": "a002_042_0004",
+            "en_US": "Cancel the Spin Trade?"
+        },
+        {
+            "id": "a002_042_0005",
+            "en_US": "The Spin Trade will be canceled."
+        },
+        {
+            "id": "a002_042_0006",
+            "en_US": "A member has dropped out."
+        },
+        {
+            "id": "a002_042_0007",
+            "en_US": [
+                "There are no members.\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_042_0008",
+            "en_US": [
+                "Please wait.\n",
+                "B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_042_0009",
+            "en_US": [
+                "A member dropped out.\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_042_0010",
+            "en_US": "Cancel the Spin Trade?"
+        },
+        {
+            "id": "a002_042_0011",
+            "en_US": "The Spin Trade will be canceled."
+        },
+        {
+            "id": "a002_042_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_042_0013",
+            "en_US": [
+                "The Spin Trade is done!\n",
+                "You will be returned to the Union Room."
+            ]
+        },
+        {
+            "id": "a002_042_0014",
+            "en_US": [
+                "If the leader drops out, the group will\n",
+                "be disbanded. Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_042_0015",
+            "en_US": "{VAR 0100 0000} has left."
+        },
+        {
+            "id": "a002_042_0016",
+            "en_US": [
+                "{VAR 0100 0000}, the leader, has left.\n",
+                "The group will be disbanded."
+            ]
+        },
+        {
+            "id": "a002_042_0017",
+            "en_US": "Seeking a Spin Trade!",
+            "flags": 208
+        },
+        {
+            "id": "a002_042_0018",
+            "en_US": "Spin Trade in progress!",
+            "flags": 208
+        },
+        {
+            "id": "a002_042_0019",
+            "en_US": "Yes",
+            "flags": 42
+        },
+        {
+            "id": "a002_042_0020",
+            "en_US": "No",
+            "flags": 42
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_243_0000",
+            "en_US": "Do you want to go back to Castelia City?"
+        },
+        {
+            "id": "a003_243_0001",
+            "en_US": [
+                "We are just about to leave, so please\n",
+                "get on board and wait a moment.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0002",
+            "en_US": [
+                "Just come talk to me when you want\n",
+                "to return to Castelia City!"
+            ]
+        },
+        {
+            "id": "a003_243_0003",
+            "en_US": [
+                "That Team Plasma...{VAR BE01}\n",
+                "They sure do terrible things!"
+            ]
+        },
+        {
+            "id": "a003_243_0004",
+            "en_US": "The smell of the ocean is so soothing!"
+        },
+        {
+            "id": "a003_243_0005",
+            "en_US": "Waaah! I'm scared!"
+        },
+        {
+            "id": "a003_243_0006",
+            "en_US": [
+                "You sure took care of\n",
+                "those bad guys, mister!"
+            ]
+        },
+        {
+            "id": "a003_243_0007",
+            "en_US": [
+                "You sure took care of\n",
+                "those bad guys, miss!"
+            ]
+        },
+        {
+            "id": "a003_243_0008",
+            "en_US": [
+                "Making my grandchild cry!{VAR BE01}\n",
+                "If they are underestimating me because\n",
+                "I'm old... Grrr!"
+            ]
+        },
+        {
+            "id": "a003_243_0009",
+            "en_US": [
+                "Thank you very much for\n",
+                "saving my grandchild."
+            ]
+        },
+        {
+            "id": "a003_243_0010",
+            "en_US": [
+                "Shut your trap!{VAR BE01}\n",
+                "If you stay here quietly,\n",
+                "we won't be rough."
+            ]
+        },
+        {
+            "id": "a003_243_0011",
+            "en_US": [
+                "What do they hope to accomplish\n",
+                "by occupying the island?{VAR BE00}\n",
+                "What a sketchy group!"
+            ]
+        },
+        {
+            "id": "a003_243_0012",
+            "en_US": [
+                "If I had known this island's secret\n",
+                "earlier, I would've...{VAR BE01}\n",
+                "What? No! Nothing!\n",
+                "Just talking to myself!"
+            ]
+        },
+        {
+            "id": "a003_243_0013",
+            "en_US": [
+                "What are they doing in this little\n",
+                "memorial park? There's nothing here{VAR BE00}\n",
+                "but an old lighthouse..."
+            ]
+        },
+        {
+            "id": "a003_243_0014",
+            "en_US": [
+                "Too many people use Pokémon\n",
+                "for bad deeds!"
+            ]
+        },
+        {
+            "id": "a003_243_0015",
+            "en_US": [
+                "This officer's Pokémon couldn't stand up\n",
+                "to them!{VAR BE00}\n",
+                "That blasted Team Plasma!"
+            ]
+        },
+        {
+            "id": "a003_243_0016",
+            "en_US": [
+                "I'm really glad a strong Trainer\n",
+                "like you is around!"
+            ]
+        },
+        {
+            "id": "a003_243_0017",
+            "en_US": [
+                "Recently, I've been bored because\n",
+                "the number of tourists has decreased."
+            ]
+        },
+        {
+            "id": "a003_243_0018",
+            "en_US": [
+                "Two hundred years ago, an ultra-rich\n",
+                "family bought this island and named it{VAR BE00}\n",
+                "Liberty Garden.{VAR BE01}\n",
+                "It's a place where people and Pokémon\n",
+                "could live freely."
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_243_0019",
+            "en_US": [
+                "Dock 2\n",
+                "To board the tour boat, go to Dock 1."
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_243_0020",
+            "en_US": [
+                "This lighthouse shines with the light\n",
+                "of freedom.{VAR BE01}\n",
+                "Only authorized personnel may enter."
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_243_0021",
+            "en_US": [
+                "My fellow officers rushed here by\n",
+                "police boat!{VAR BE01}\n",
+                "Thanks to them, we rounded up\n",
+                "these baddies!"
+            ]
+        },
+        {
+            "id": "a003_243_0022",
+            "en_US": [
+                "How's that Pokémon doing?{VAR BE01}\n",
+                "The island sure has been quiet since\n",
+                "that incident."
+            ]
+        },
+        {
+            "id": "a003_243_0023",
+            "en_US": "Team Plasma forever!",
+            "flags": 126
+        },
+        {
+            "id": "a003_243_0024",
+            "en_US": "We won't give up!",
+            "flags": 126
+        },
+        {
+            "id": "a003_243_0025",
+            "en_US": "You're irredeemable!",
+            "flags": 126
+        },
+        {
+            "id": "a003_243_0026",
+            "en_US": "Get moving!",
+            "flags": 126
+        },
+        {
+            "id": "a003_243_0027",
+            "en_US": [
+                "Professor Juniper: Thanks to you,\n",
+                "{VAR 0100 0000}, this group that was{VAR BE00}\n",
+                "up to no good has been captured!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0028",
+            "en_US": [
+                "Victini is a mythical Pokémon that is said\n",
+                "to radiate energy from its body...{VAR BE01}\n",
+                "When Pokémon or people come into contact\n",
+                "with that energy, it fills up their bodies,{VAR BE00}\n",
+                "and they exhibit more power than usual.{VAR BE01}\n",
+                "That's why there was no end to the\n",
+                "people who wanted to use Victini for{VAR BE00}\n",
+                "their own evil ends...{VAR BE01}\n",
+                "I'm sure the rich person who built this\n",
+                "underground room for Victini was{VAR BE00}\n",
+                "sincerely trying to help it.{VAR BE01}\n",
+                "But I think shutting the poor thing up in\n",
+                "this room was a mistake.{VAR BE01}\n",
+                "Thanks to you, Victini has a new destiny\n",
+                "that does not involve being used in{VAR BE00}\n",
+                "Team Plasma's schemes.{VAR BE01}\n",
+                "Making sure no one misuses Victini's\n",
+                "powers is now your duty!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0029",
+            "en_US": [
+                "Also...{VAR BE01}\n",
+                "In the Unova Pokédex, Victini was\n",
+                "assigned a special number: zero.{VAR BE01}\n",
+                "I've heard the special number was\n",
+                "assigned in the hope that Victini's power{VAR BE00}\n",
+                "to bring victory would be shared with the{VAR BE00}\n",
+                "Trainer who travels with this Pokédex...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0030",
+            "en_US": [
+                "Professor Juniper!{VAR BE01}\n",
+                "We cornered the crooks with our\n",
+                "high-speed police boat!{VAR BE01}\n",
+                "We will return to Castelia City!\n",
+                "Please come on board, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0031",
+            "en_US": [
+                "Professor Juniper: Thank you!\n",
+                "I'll be right there!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0032",
+            "en_US": [
+                "I can't believe it when people are led\n",
+                "astray by Pokémon's astounding abilities{VAR BE00}\n",
+                "and try to misuse them...{VAR BE01}\n",
+                "But it's only when we face Pokémon with a\n",
+                "good heart that we can make a{VAR BE00}\n",
+                "brighter future!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_243_0033",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

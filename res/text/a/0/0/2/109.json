@@ -1,0 +1,49 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_109_0000",
+            "en_US": "JELLICENT"
+        },
+        {
+            "id": "a002_109_0001",
+            "en_US": "JIGGLYPUFF"
+        },
+        {
+            "id": "a002_109_0002",
+            "en_US": "JIRACHI"
+        },
+        {
+            "id": "a002_109_0003",
+            "en_US": "JOB"
+        },
+        {
+            "id": "a002_109_0004",
+            "en_US": "JOLTEON"
+        },
+        {
+            "id": "a002_109_0005",
+            "en_US": "JOLTIK"
+        },
+        {
+            "id": "a002_109_0006",
+            "en_US": "JUDGMENT"
+        },
+        {
+            "id": "a002_109_0007",
+            "en_US": "JUMPKICK"
+        },
+        {
+            "id": "a002_109_0008",
+            "en_US": "JUMPLUFF"
+        },
+        {
+            "id": "a002_109_0009",
+            "en_US": "JUSTIFIED"
+        },
+        {
+            "id": "a002_109_0010",
+            "en_US": "JYNX"
+        }
+    ]
+}

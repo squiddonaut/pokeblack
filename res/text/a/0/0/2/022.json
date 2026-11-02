@@ -1,0 +1,59 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_022_0000",
+            "en_US": [
+                "Turn on the C-Gear and\n",
+                "establish communications?"
+            ]
+        },
+        {
+            "id": "a002_022_0001",
+            "en_US": [
+                "When communications are on, closing the\n",
+                "system will put it into Sleep Mode if the \n",
+                "battery is low. Please watch the battery."
+            ]
+        },
+        {
+            "id": "a002_022_0002",
+            "en_US": [
+                "Will you turn C-Gear off to stop\n",
+                "communications?"
+            ]
+        },
+        {
+            "id": "a002_022_0003",
+            "en_US": [
+                "{VAR FF00 0001}Warning!{VAR FF00 0000}\n",
+                "Please turn C-Gear off\n",
+                "in places--such as airplanes\n",
+                "and hospitals--where wireless\n",
+                "communications are prohibited."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_022_0004",
+            "en_US": [
+                "C-Gear cannot be turned on.\n",
+                "Wireless communications are turned OFF.\n",
+                "Turn wireless communications ON in the\n",
+                "System Settings.\n",
+                "Error code: 50699"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_022_0005",
+            "en_US": "YES",
+            "flags": 77
+        },
+        {
+            "id": "a002_022_0006",
+            "en_US": "NO",
+            "flags": 77
+        }
+    ]
+}

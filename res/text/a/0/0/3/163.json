@@ -1,0 +1,380 @@
+{
+    "flags": 224,
+    "pad": "9e9e",
+    "messages": [
+        {
+            "id": "a003_163_0000",
+            "en_US": [
+                "In order to eliminate the old-fashioned\n",
+                "ways of looking at things..."
+            ]
+        },
+        {
+            "id": "a003_163_0001",
+            "en_US": [
+                "We will steal Pokémon!\n",
+                "You'll never play together again!"
+            ]
+        },
+        {
+            "id": "a003_163_0002",
+            "en_US": [
+                "If their Pokémon are liberated,\n",
+                "Trainers will no longer be Trainers!"
+            ]
+        },
+        {
+            "id": "a003_163_0003",
+            "en_US": "We are in the right!"
+        },
+        {
+            "id": "a003_163_0004",
+            "en_US": "Everyone else is wrong!"
+        },
+        {
+            "id": "a003_163_0005",
+            "en_US": [
+                "If you don't think the same way we think,\n",
+                "we'll use all our power to eliminate you!"
+            ]
+        },
+        {
+            "id": "a003_163_0006",
+            "en_US": [
+                "Burgh: Well, you see...{VAR BE01}\n",
+                "There are two ways out of\n",
+                "Pinwheel Forest--{VAR BE01}\n",
+                "the road that goes straight and the\n",
+                "path that winds through the woods.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0007",
+            "en_US": "I will take the straight road after them!{VAR BE01}"
+        },
+        {
+            "id": "a003_163_0008",
+            "en_US": [
+                "If they're not there,\n",
+                "I'll block the exit.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0009",
+            "en_US": [
+                "Would you please take the other way\n",
+                "and check whether Team Plasma{VAR BE00}\n",
+                "is hiding in there somewhere?{VAR BE01}\n",
+                "You'll run into a lot of Trainers,\n",
+                "but it's basically a single path,{VAR BE00}\n",
+                "so I'm sure you won't get lost.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0010",
+            "en_US": [
+                "Come on!\n",
+                "Let's do this for Lenora's sake!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0011",
+            "en_US": [
+                "Burgh: Mm-hmm?{VAR BE01}\n",
+                "Team Plasma hasn't come\n",
+                "in this direction...{VAR BE01}\n",
+                "The forest's bug Pokémon are quiet, too."
+            ]
+        },
+        {
+            "id": "a003_163_0012",
+            "en_US": [
+                "Burgh: Mm-hmm?{VAR BE01}\n",
+                "Team Plasma hasn't come\n",
+                "in this direction...{VAR BE01}\n",
+                "The forest's bug Pokémon are quiet, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0013",
+            "en_US": [
+                "Team Plasma: You stubborn brat!{VAR BE01}\n",
+                "When I'm through with you,\n",
+                "you won't be able to chase us anymore!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0014",
+            "en_US": [
+                "Team Plasma: Too bad!\n",
+                "I haven't got anything!{VAR BE01}\n",
+                "If you want to get it back,\n",
+                "you're just gonna have{VAR BE00}\n",
+                "to look for my associates!"
+            ]
+        },
+        {
+            "id": "a003_163_0015",
+            "en_US": [
+                "Team Plasma: My, my.\n",
+                "Could you be looking for something?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0016",
+            "en_US": [
+                "Team Plasma: Sorry!\n",
+                "I'm empty handed.{VAR BE01}\n",
+                "Do I look like the kind of girl\n",
+                "to carry a heavy load?{VAR BE01}\n",
+                "Better try somewhere else!"
+            ]
+        },
+        {
+            "id": "a003_163_0017",
+            "en_US": [
+                "Team Plasma: So you made it this far!{VAR BE01}\n",
+                "I'll hold you here so my friends\n",
+                "can get away!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0018",
+            "en_US": [
+                "Team Plasma: Yep! I'm here to buy time!{VAR BE01}\n",
+                "And if you don't step lively,\n",
+                "we're going to get away!"
+            ]
+        },
+        {
+            "id": "a003_163_0019",
+            "en_US": [
+                "Team Plasma: A pursuer?{VAR BE01}\n",
+                "Uh, ha ha. A kid like you--\n",
+                "beat some of us?!{VAR BE01}\n",
+                "That can't be helped, but...\n",
+                "I'll take you on now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0020",
+            "en_US": [
+                "Team Plasma: Fine.\n",
+                "Take your stupid skull!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0021",
+            "en_US": [
+                "Team Plasma: So the dream our king had--\n",
+                "the dream we had--won't come true...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0022",
+            "en_US": [
+                "Gorm: How are you holding up,\n",
+                "fellow subject of our king?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0023",
+            "en_US": [
+                "Team Plasma: Gorm of the Seven Sages!{VAR BE01}\n",
+                "I'm mortified that this skull, which we\n",
+                "went to so much trouble to obtain,{VAR BE00}\n",
+                "was stolen from us so easily.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0024",
+            "en_US": [
+                "Gorm: It's not important.{VAR BE01}\n",
+                "We can afford to abandon\n",
+                "the Dragon Skull.{VAR BE01}\n",
+                "According to the results of our\n",
+                "research, this is not the legendary{VAR BE00}\n",
+                "Pokémon for which Team Plasma is looking.{VAR BE00}\n",
+                "It is completely unrelated.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0025",
+            "en_US": [
+                "But we will not allow anyone to disrupt\n",
+                "our plans and get away with it.{VAR BE01}\n",
+                "We will fix it so you never interfere\n",
+                "with us again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0026",
+            "en_US": [
+                "Burgh: Oh, sweet!{VAR BE01}\n",
+                "The bug Pokémon were getting\n",
+                "all worked up, so here I come,{VAR BE00}\n",
+                "and what do I spy with my little eye?{VAR BE01}\n",
+                "This important-looking guy!{VAR BE01}\n",
+                "Are you here to help your friends,\n",
+                "whom I defeated?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0027",
+            "en_US": [
+                "Lenora: {VAR 0100 0000}!\n",
+                "Burgh!{VAR BE01}\n",
+                "The others didn't have anything...{VAR BE01}\n",
+                "And who are you supposed to be?{VAR BE01}\n",
+                "Is this guy the big boss?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0028",
+            "en_US": [
+                "Gorm: I am one of the Seven Sages\n",
+                "of Team Plasma.{VAR BE01}\n",
+                "Ghetsis, another of the Seven Sages,\n",
+                "will liberate Pokémon with words alone!{VAR BE01}\n",
+                "The remainder of the Seven Sages have\n",
+                "ordered their compatriots to take{VAR BE00}\n",
+                "Pokémon with full force!{VAR BE01}\n",
+                "But the odds are a little against us now.{VAR BE01}\n",
+                "To you, the Bug Pokémon user Burgh and\n",
+                "the Normal Pokémon user Lenora, I say...{VAR BE01}\n",
+                "Know your enemies, know yourself,\n",
+                "and you need not fear the result{VAR BE00}\n",
+                "of a hundred battles...{VAR BE00}\n",
+                "This time, we shall retreat quietly.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0029",
+            "en_US": [
+                "To secure the liberation of Pokémon,\n",
+                "we will steal Pokémon from Trainers!{VAR BE01}\n",
+                "Even though you are Gym Leaders,\n",
+                "we will not tolerate any further{VAR BE00}\n",
+                "obstruction from you.{VAR BE01}\n",
+                "In any case, we will settle this someday.{VAR BE01}\n",
+                "I hope you are looking forward\n",
+                "to that time as much as I...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0030",
+            "en_US": [
+                "Lenora: They're a speedy bunch.{VAR BE01}\n",
+                "What are you planning to do, Burgh?\n",
+                "Are you going to chase them?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0031",
+            "en_US": [
+                "Burgh: Hmmm...{VAR BE01}\n",
+                "We got back the stolen skull,\n",
+                "and if we corner them, there's{VAR BE00}\n",
+                "no telling what they might do.{VAR BE01}\n",
+                "I think I'll be heading back, Lenora...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0032",
+            "en_US": [
+                "Well, now. Well...\n",
+                "I'll be waiting for your challenge at{VAR BE00}\n",
+                "Castelia City's Pokémon Gym.{VAR BE01}\n",
+                "Yes, indeed.\n",
+                "I'm certainly looking forward to it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0033",
+            "en_US": [
+                "Lenora: {VAR 0100 0000}!{VAR BE01}\n",
+                "You're holding the Dragon Skull you\n",
+                "worked so hard to get back, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0034",
+            "en_US": [
+                "{VAR 0100 0000} gave the\n",
+                "{VAR 0109 0001} to Lenora!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0035",
+            "en_US": [
+                "Lenora: {VAR 0100 0000}, thank you so much.{VAR BE01}\n",
+                "With a kind Trainer like you\n",
+                "taking care of them, the Pokémon{VAR BE00}\n",
+                "with you must be happy.{VAR BE01}\n",
+                "Here is a token of my gratitude.\n",
+                "Please use it carefully!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0036",
+            "en_US": [
+                "Lenora: This is a Moon Stone!{VAR BE01}\n",
+                "Some Pokémon evolve when you\n",
+                "use this item on them.{VAR BE01}\n",
+                "Now, I must take the Dragon Skull\n",
+                "back to the museum!{VAR BE01}\n",
+                "See you! Take care of yourself!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_163_0037",
+            "en_US": [
+                "I run every day!\n",
+                "My goal is to be the marathon champion{VAR BE00}\n",
+                "of the Unova region!"
+            ]
+        },
+        {
+            "id": "a003_163_0038",
+            "en_US": [
+                "The trees cut on this forest road are\n",
+                "sent from Driftveil City to the world."
+            ]
+        },
+        {
+            "id": "a003_163_0039",
+            "en_US": [
+                "Have you heard of phytoncides?{VAR BE01}\n",
+                "I don't really understand, but I heard\n",
+                "that the reason forests make you{VAR BE00}\n",
+                "feel good is phytoncides!"
+            ]
+        },
+        {
+            "id": "a003_163_0040",
+            "en_US": [
+                "Hmm... I can feel it...\n",
+                "The presence of fierce Pokémon."
+            ]
+        },
+        {
+            "id": "a003_163_0041",
+            "en_US": [
+                "The surface is covered with moss.\n",
+                "Touching it feels good somehow."
+            ]
+        },
+        {
+            "id": "a003_163_0042",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "A forest is likely to contain many\n",
+                "well-hidden items!{VAR BE01}\n",
+                "They may be hard to find,\n",
+                "so look carefully!"
+            ],
+            "flags": 207
+        }
+    ]
+}

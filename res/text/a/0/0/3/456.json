@@ -1,0 +1,513 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_456_0000",
+            "en_US": "???: What's this?{VAR BE01}"
+        },
+        {
+            "id": "a003_456_0001",
+            "en_US": [
+                "What an uncanny resemblance...{VAR BE01}\n",
+                "It's surprising to meet another Trainer\n",
+                "who has intense eyes like that{VAR BE00}\n",
+                "Pokémon Trainer.{VAR BE01}\n",
+                "What's your name?{VAR BE01}\n",
+                "...{VAR BE01}\n",
+                "OK. I'll remember that!\n",
+                "{VAR 0100 0000}, nice to meet you.{VAR BE01}\n",
+                "I'm Cynthia.\n",
+                "I'm a Pokémon Trainer, too, like you.{VAR BE01}\n",
+                "I have an insatiable curiosity for\n",
+                "researching Pokémon myths.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_456_0002",
+            "en_US": [
+                "I'm sure you know about Undella Town's\n",
+                "Abyssal Ruins, right?{VAR BE01}\n",
+                "I'm staying here at my friend's villa\n",
+                "so I can investigate them.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_456_0003",
+            "en_US": [
+                "In order to get to know each other\n",
+                "better as Pokémon Trainers,{VAR BE00}\n",
+                "I would like our Pokémon to have a match.{VAR BE01}\n",
+                "Would you care to be my opponent?"
+            ]
+        },
+        {
+            "id": "a003_456_0004",
+            "en_US": [
+                "Before I send out my Pokémon,\n",
+                "my heart always begins to race...{VAR BE01}\n",
+                "Interesting...\n",
+                "My Pokémon in their Poké Balls are{VAR BE00}\n",
+                "radiating a happy feeling.{VAR BE01}\n",
+                "Are you the reason?\n",
+                "What are you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_456_0005",
+            "en_US": [
+                "Ha ha. You prefer to take things slowly\n",
+                "and rationally, am I right?{VAR BE01}\n",
+                "When you're ready, come and talk to me.\n",
+                "I'll be happy to see you."
+            ]
+        },
+        {
+            "id": "a003_456_0006",
+            "en_US": [
+                "Cynthia: Oh.\n",
+                "You've had a chance to get ready?{VAR BE01}\n",
+                "I do want our Pokémon to have a match...\n",
+                "Are you prepared to be my opponent?"
+            ]
+        },
+        {
+            "id": "a003_456_0007",
+            "en_US": [
+                "Cynthia: That was beyond my expectation!\n",
+                "What an exceptional battle!{VAR BE01}\n",
+                "You certainly bear a resemblance\n",
+                "to that Trainer who faced Giratina...{VAR BE01}\n",
+                "Oh, pardon me.\n",
+                "I was just thinking out loud.{VAR BE01}\n",
+                "I love being here in spring and summer.{VAR BE01}\n",
+                "I can't stay all year, because there's\n",
+                "so much to investigate in Sinnoh, as well.{VAR BE01}\n",
+                "You're a great Trainer, and it would make\n",
+                "me happy to see you again sometime."
+            ]
+        },
+        {
+            "id": "a003_456_0008",
+            "en_US": [
+                "Cynthia: I love to come here in\n",
+                "spring and summer.{VAR BE01}\n",
+                "But there are a lot of things to\n",
+                "investigate in Sinnoh, as well.{VAR BE01}\n",
+                "I'd be delighted to see you again.\n",
+                "You're an awesome Pokémon Trainer!"
+            ]
+        },
+        {
+            "id": "a003_456_0009",
+            "en_US": [
+                "Cynthia: How terrific to see you again!{VAR BE01}\n",
+                "I've got to tell you...\n",
+                "My Pokémon are excited to battle yours.{VAR BE01}\n",
+                "Would you care to be my opponent?"
+            ]
+        },
+        {
+            "id": "a003_456_0010",
+            "en_US": [
+                "Cynthia: This will be such fun!\n",
+                "No holds barred!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_456_0011",
+            "en_US": [
+                "Cynthia: Oh, what a pity.{VAR BE01}\n",
+                "Summers in Undella Town make me feel like\n",
+                "I'm on holiday. I forget about battling!{VAR BE01}\n",
+                "But in spring, I feel like getting\n",
+                "worked up with a good battle."
+            ]
+        },
+        {
+            "id": "a003_456_0012",
+            "en_US": [
+                "Cynthia: I can tell that my Pokémon are\n",
+                "excited about battling your Pokémon...{VAR BE01}\n",
+                "Would you care to be my opponent?"
+            ]
+        },
+        {
+            "id": "a003_456_0013",
+            "en_US": [
+                "Cynthia: For some reason, this reminds me\n",
+                "of a time when I told a Trainer like you{VAR BE00}\n",
+                "to go see many, many more places{VAR BE00}\n",
+                "and to meet many more Pokémon.{VAR BE01}\n",
+                "For me, it has really been worthwhile to\n",
+                "come all the way to far Unova.{VAR BE01}\n",
+                "Why? Because...\n",
+                "I met you, and my world got wider!"
+            ]
+        },
+        {
+            "id": "a003_456_0014",
+            "en_US": [
+                "Cynthia: To live their lives to the\n",
+                "fullest, people and Pokémon need{VAR BE00}\n",
+                "the chance to throw themselves into{VAR BE00}\n",
+                "battle against the fiercest opposition.{VAR BE01}\n",
+                "That's why I want to battle you.\n",
+                "How about it?"
+            ]
+        },
+        {
+            "id": "a003_456_0015",
+            "en_US": [
+                "Cynthia: As our Pokémon meet in battle,\n",
+                "I'll learn more about you{VAR BE00}\n",
+                "and how you've taken care of them.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_456_0016",
+            "en_US": [
+                "Cynthia: I'm a little disappointed.{VAR BE01}\n",
+                "I know you can battle on bigger\n",
+                "stages than you've done so far!{VAR BE01}\n",
+                "It's so plain to me that your light can\n",
+                "shine brighter than this..."
+            ]
+        },
+        {
+            "id": "a003_456_0017",
+            "en_US": [
+                "Cynthia: Are you prepared?{VAR BE01}\n",
+                "Let's battle at full strength and see\n",
+                "how bright our lights can shine!"
+            ]
+        },
+        {
+            "id": "a003_456_0018",
+            "en_US": [
+                "Cynthia: When you meet Trainers, battle\n",
+                "them to learn about the kind of people{VAR BE00}\n",
+                "they are. Observe the Pokémon they{VAR BE00}\n",
+                "choose, which moves they taught them,{VAR BE00}\n",
+                "and which items the Pokémon hold.{VAR BE01}\n",
+                "You don't need words at such times...{VAR BE01}\n",
+                "If you want to know more about me...\n",
+                "Come to Sinnoh!"
+            ]
+        },
+        {
+            "id": "a003_456_0019",
+            "en_US": [
+                "Caitlin: Having everything go your way\n",
+                "is the road to disillusionment.{VAR BE01}\n",
+                "Knowing the difference between what's\n",
+                "impossible and what's possible...{VAR BE01}\n",
+                "I used to know someone who \n",
+                "talked about that a lot."
+            ]
+        },
+        {
+            "id": "a003_456_0020",
+            "en_US": [
+                "Caitlin: No matter how hard I try,\n",
+                "I cannot defeat Cynthia.{VAR BE01}\n",
+                "Before, I would have exploded with rage.{VAR BE01}\n",
+                "Now, I have the tranquility to reflect on\n",
+                "my performance to see how I can improve."
+            ]
+        },
+        {
+            "id": "a003_456_0021",
+            "en_US": [
+                "Caitlin: Tell me something.\n",
+                "Are you familiar with Battle Castles?{VAR BE01}\n",
+                "You can find them in Johto and Sinnoh,\n",
+                "so challenge them to improve yourself."
+            ]
+        },
+        {
+            "id": "a003_456_0022",
+            "en_US": [
+                "Caitlin: This is my villa.{VAR BE01}\n",
+                "I have villas all over the world,\n",
+                "and I allow Cynthia to use them.{VAR BE01}\n",
+                "You are welcome to come and play\n",
+                "whenever you wish."
+            ]
+        },
+        {
+            "id": "a003_456_0023",
+            "en_US": [
+                "Caitlin: Having no psychic powers at all\n",
+                "is better than having psychic powers{VAR BE00}\n",
+                "you can't control."
+            ]
+        },
+        {
+            "id": "a003_456_0024",
+            "en_US": [
+                "Shauntal: When I'm writing novels,\n",
+                "if I don't have enough input,{VAR BE00}\n",
+                "my output suffers.{VAR BE01}\n",
+                "It's the same thing for Trainers.{VAR BE01}\n",
+                "To grow stronger, Trainers need to have\n",
+                "countless battles and learn many things.{VAR BE01}\n",
+                "Then, they must put what they've learned\n",
+                "to the test in real battles."
+            ]
+        },
+        {
+            "id": "a003_456_0025",
+            "en_US": [
+                "Shauntal: Rainbow Wing...\n",
+                "Silver Wing...{VAR BE00}\n",
+                "They stir the imagination!"
+            ]
+        },
+        {
+            "id": "a003_456_0026",
+            "en_US": [
+                "Shauntal: Distortion World...\n",
+                "and the single Pokémon found there...{VAR BE00}\n",
+                "What an amazing scene!"
+            ]
+        },
+        {
+            "id": "a003_456_0027",
+            "en_US": [
+                "Shauntal: No matter how much research\n",
+                "I do, I still have no clue.{VAR BE01}\n",
+                "How old do you think Cynthia is?\n",
+                "Any idea?"
+            ]
+        },
+        {
+            "id": "a003_456_0028",
+            "en_US": [
+                "Shauntal: I chose my scarf with a\n",
+                "certain Pokémon in mind.{VAR BE01}\n",
+                "Do you get it?\n",
+                "Using your imagination is important!"
+            ]
+        },
+        {
+            "id": "a003_456_0029",
+            "en_US": [
+                "Cynthia: What is necessary for becoming\n",
+                "stronger than you are now?{VAR BE01}\n",
+                "My answer is simply loving Pokémon\n",
+                "with all your heart.{VAR BE01}\n",
+                "That's how I am, so that's all I can say."
+            ]
+        },
+        {
+            "id": "a003_456_0030",
+            "en_US": [
+                "Cynthia: Once every few years,\n",
+                "the Champions of each region gather{VAR BE00}\n",
+                "and compete to see who is the strongest!{VAR BE01}\n",
+                "An interesting idea, don't you agree?"
+            ]
+        },
+        {
+            "id": "a003_456_0031",
+            "en_US": [
+                "Cynthia: I'd love to live here...{VAR BE01}\n",
+                "But if I did, there would be a mountain\n",
+                "of research materials piled up...{VAR BE01}\n",
+                "Am I right? Cynthia, enough for now!\n",
+                "Next time, clean up."
+            ]
+        },
+        {
+            "id": "a003_456_0032",
+            "en_US": [
+                "Cynthia: Here's my problem.{VAR BE01}\n",
+                "I have a white swimsuit and\n",
+                "a black swimsuit...{VAR BE00}\n",
+                "Which one would look better on me?"
+            ]
+        },
+        {
+            "id": "a003_456_0033",
+            "en_US": [
+                "Cynthia: Hmm. This is difficult.{VAR BE01}\n",
+                "I was greedy and brought\n",
+                "a lot of swimsuits, but now I can't pick{VAR BE00}\n",
+                "which one to wear."
+            ]
+        },
+        {
+            "id": "a003_456_0034",
+            "en_US": [
+                "Iris: Oh, hey!\n",
+                "Did you see Cynthia's Garchomp?{VAR BE01}\n",
+                "It's too cute!"
+            ]
+        },
+        {
+            "id": "a003_456_0035",
+            "en_US": [
+                "Iris: Soon, Drayden and I are going\n",
+                "to ride the cruise ship!{VAR BE01}\n",
+                "Castelia City is wall-to-wall people,\n",
+                "but if I'm with him, I'll be OK!"
+            ]
+        },
+        {
+            "id": "a003_456_0036",
+            "en_US": [
+                "Iris: Sometimes I think about the village\n",
+                "where I was born, but I'm totally OK!{VAR BE01}\n",
+                "Because I met lots of Pokémon--\n",
+                "and all of you!"
+            ]
+        },
+        {
+            "id": "a003_456_0037",
+            "en_US": "Iris: Look! Look! It's the ocean!"
+        },
+        {
+            "id": "a003_456_0038",
+            "en_US": [
+                "Iris: The ocean is so pretty. I love it!\n",
+                "So I stayed underwater a long time.{VAR BE00}\n",
+                "I made everyone worry!"
+            ]
+        },
+        {
+            "id": "a003_456_0039",
+            "en_US": [
+                "Skyla: I get along well with Elesa, but\n",
+                "Pokémon battles are a different story!{VAR BE01}\n",
+                "If you're not super prepared,\n",
+                "your battles with Electric types{VAR BE00}\n",
+                "will leave you in shock!"
+            ]
+        },
+        {
+            "id": "a003_456_0040",
+            "en_US": [
+                "Skyla: Seeing the ground again after\n",
+                "safely passing through a rain cloud{VAR BE00}\n",
+                "in a violent rainstorm...{VAR BE01}\n",
+                "Someday, I'd like to share\n",
+                "that moment with you."
+            ]
+        },
+        {
+            "id": "a003_456_0041",
+            "en_US": [
+                "Skyla: I was just thinking about that.{VAR BE01}\n",
+                "When it comes to swimsuits...{VAR BE01}\n",
+                "You're either about self-composure\n",
+                "or you're about self-exposure!"
+            ]
+        },
+        {
+            "id": "a003_456_0042",
+            "en_US": [
+                "Skyla: Even distant Sinnoh is just a hop,\n",
+                "skip, and a jump if I use my cargo plane.{VAR BE01}\n",
+                "But... I also love to travel the sky\n",
+                "with a Pokémon when it's using Fly!"
+            ]
+        },
+        {
+            "id": "a003_456_0043",
+            "en_US": [
+                "Skyla: Mmm...\n",
+                "Swimming in the ocean sure feels great!"
+            ]
+        },
+        {
+            "id": "a003_456_0044",
+            "en_US": [
+                "Elesa: I must say it's difficult for people\n",
+                "to draw out a Pokémon's charm{VAR BE00}\n",
+                "if they don't have any themselves."
+            ]
+        },
+        {
+            "id": "a003_456_0045",
+            "en_US": [
+                "Elesa: You know Nimbasa City?{VAR BE01}\n",
+                "You know it runs on energy generated\n",
+                "by Electric-type Pokémon?{VAR BE01}\n",
+                "...Just kidding!"
+            ]
+        },
+        {
+            "id": "a003_456_0046",
+            "en_US": [
+                "Elesa: Getting wrapped up in worries\n",
+                "is bad for your body and spirit.{VAR BE01}\n",
+                "That's when you must short out your\n",
+                "logic circuits and reboot your heart."
+            ]
+        },
+        {
+            "id": "a003_456_0047",
+            "en_US": [
+                "Elesa: Without a word...\n",
+                "Without even a whisper...{VAR BE01}\n",
+                "My Pokémon connect me to other Trainers,\n",
+                "transmitting the current of my feelings."
+            ]
+        },
+        {
+            "id": "a003_456_0048",
+            "en_US": [
+                "Elesa: Put bluntly, \n",
+                "swimsuits are nothing but cloth, right?"
+            ]
+        },
+        {
+            "id": "a003_456_0049",
+            "en_US": [
+                "Lenora: Aren't Fossils amazing?{VAR BE01}\n",
+                "Although they are not alive and\n",
+                "cannot speak, they tell us so much{VAR BE00}\n",
+                "about the era in which they lived.{VAR BE01}\n",
+                "Hee, hee.\n",
+                "It was Professor Juniper who said that."
+            ]
+        },
+        {
+            "id": "a003_456_0050",
+            "en_US": [
+                "Lenora: TMs can be used as many times\n",
+                "as you wish, to be sure.{VAR BE01}\n",
+                "If you teach Retaliate to many different\n",
+                "Pokémon, eventually you should find{VAR BE00}\n",
+                "the perfect Pokémon for it!"
+            ]
+        },
+        {
+            "id": "a003_456_0051",
+            "en_US": [
+                "Lenora: When I was a little girl,\n",
+                "my dad, who was a miner, would{VAR BE00}\n",
+                "always bring back bones for me.{VAR BE01}\n",
+                "My young heart was captured by bones!\n",
+                "Before I knew it, I was a researcher."
+            ]
+        },
+        {
+            "id": "a003_456_0052",
+            "en_US": [
+                "Lenora: Recently, a girl named Bianca\n",
+                "came to ask me about Pokémon.{VAR BE01}\n",
+                "A Trainer's curiosity is insatiable\n",
+                "at any stage."
+            ]
+        },
+        {
+            "id": "a003_456_0053",
+            "en_US": [
+                "Lenora: Cynthia is a famous archeologist.{VAR BE01}\n",
+                "In the course of our research, we have\n",
+                "shared many academic conversations."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,536 @@
+{
+    "flags": 224,
+    "pad": "baba",
+    "messages": [
+        {
+            "id": "a003_271_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0011",
+            "en_US": [
+                "My favorite thing to do nowadays\n",
+                "is walking under the bridge!"
+            ]
+        },
+        {
+            "id": "a003_271_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0013",
+            "en_US": [
+                "During the day, I sunbathe.\n",
+                "During the night, I moonbathe...{VAR BE00}\n",
+                "Nature sinks into my body."
+            ]
+        },
+        {
+            "id": "a003_271_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0015",
+            "en_US": "I will cross all the bridges in Unova!"
+        },
+        {
+            "id": "a003_271_0016",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_271_0017",
+            "en_US": [
+                "Derleth: Fweet fweet...\n",
+                "Fweeeeeet fweet fweet..."
+            ]
+        },
+        {
+            "id": "a003_271_0018",
+            "en_US": [
+                "Derleth: What is piercing my mind is\n",
+                "a sad sound.{VAR BE01}\n",
+                "What is piercing my heart is\n",
+                "a cold night wind."
+            ]
+        },
+        {
+            "id": "a003_271_0019",
+            "en_US": [
+                "Derleth: Fwee... Fwee...\n",
+                "Fffweeet fweet..."
+            ]
+        },
+        {
+            "id": "a003_271_0020",
+            "en_US": [
+                "Derleth: The only things that come out\n",
+                "of my mouth are my whistle tunes and{VAR BE00}\n",
+                "complaints about my life.{VAR BE01}\n",
+                "This bridge is a meeting place for people\n",
+                "like me who like to complain."
+            ]
+        },
+        {
+            "id": "a003_271_0021",
+            "en_US": [
+                "Aickman: How about this? This sound!\n",
+                "Doesn't it get to your heart? Your mind?"
+            ]
+        },
+        {
+            "id": "a003_271_0022",
+            "en_US": [
+                "Aickman: I know my sound doesn't fit\n",
+                "this city, this town.{VAR BE01}\n",
+                "But I... I cannot change\n",
+                "my life, my style."
+            ]
+        },
+        {
+            "id": "a003_271_0023",
+            "en_US": [
+                "Aickman: This is my best friend, my pal.\n",
+                "It knows all my sorrow, all my tears."
+            ]
+        },
+        {
+            "id": "a003_271_0024",
+            "en_US": [
+                "Aickman: Y-you have great sparkles...\n",
+                "Sparkles in your eyes.{VAR BE01}\n",
+                "Please make our hopes, our dreams,\n",
+                "come true for us.{VAR BE01}\n",
+                "Go grab the glory--go take on the world!"
+            ]
+        },
+        {
+            "id": "a003_271_0025",
+            "en_US": "Russo: La la la la la..."
+        },
+        {
+            "id": "a003_271_0026",
+            "en_US": [
+                "Russo: Ahem, ahem!\n",
+                "Now, something's not quite right.{VAR BE01}\n",
+                "This here microphone's all screwy.\n",
+                "I can sing real good, promise!"
+            ]
+        },
+        {
+            "id": "a003_271_0027",
+            "en_US": [
+                "Russo: Testing...\n",
+                "Check one, check two, check, check, yup."
+            ]
+        },
+        {
+            "id": "a003_271_0028",
+            "en_US": [
+                "Russo: Now, you're the first person in an\n",
+                "awful long time who's hung around to{VAR BE00}\n",
+                "listen and hear what I was singin' about.{VAR BE01}\n",
+                "Much obliged!"
+            ]
+        },
+        {
+            "id": "a003_271_0029",
+            "en_US": [
+                "Koontz: Singing gives life to my spirit.\n",
+                "Will you listen to the voice of my spirit?"
+            ]
+        },
+        {
+            "id": "a003_271_0030",
+            "en_US": [
+                "Koontz: Huh? Are you leaving already?\n",
+                "I am always here."
+            ]
+        },
+        {
+            "id": "a003_271_0031",
+            "en_US": [
+                "Koontz: Oh, you want to listen to my song\n",
+                "after all! Yes!"
+            ]
+        },
+        {
+            "id": "a003_271_0032",
+            "en_US": [
+                "Koontz: My song...\n",
+                "Don't you like it?"
+            ]
+        },
+        {
+            "id": "a003_271_0033",
+            "en_US": [
+                "Welcome!{VAR BE01}\n",
+                "Thank you for making a reservation\n",
+                "for a battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0034",
+            "en_US": [
+                "You are great!\n",
+                "I want to hire you.{VAR BE01}\n",
+                "What do you think?\n",
+                "Will you work here as a Waitress?"
+            ]
+        },
+        {
+            "id": "a003_271_0035",
+            "en_US": [
+                "You are great!\n",
+                "I want to hire you.{VAR BE01}\n",
+                "What do you think?\n",
+                "Will you work here as a Waiter?"
+            ]
+        },
+        {
+            "id": "a003_271_0036",
+            "en_US": "You should work here! What do you think?"
+        },
+        {
+            "id": "a003_271_0037",
+            "en_US": "Aww... That's too bad, but I understand!"
+        },
+        {
+            "id": "a003_271_0038",
+            "en_US": [
+                "That's great! I'm so glad!{VAR BE01}\n",
+                "That said, do you already know\n",
+                "what you'll be doing?"
+            ]
+        },
+        {
+            "id": "a003_271_0039",
+            "en_US": [
+                "This shop is a special sandwich shop.\n",
+                "You'll take orders from customers.{VAR BE01}\n",
+                "Then, I'll make sandwiches to fill\n",
+                "their orders.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0040",
+            "en_US": [
+                "You'll serve the sandwiches to the\n",
+                "customers who ordered them.{VAR BE01}\n",
+                "Please be careful, and don't serve them\n",
+                "to the wrong customers!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0041",
+            "en_US": "Thank you! I hope you'll do a great job!{VAR BE01}"
+        },
+        {
+            "id": "a003_271_0042",
+            "en_US": "Thank you! I hope you'll do a great job!"
+        },
+        {
+            "id": "a003_271_0043",
+            "en_US": [
+                "What kind of sandwich does customer\n",
+                "number {VAR 0200 0000} want?"
+            ]
+        },
+        {
+            "id": "a003_271_0044",
+            "en_US": [
+                "Well done! Thank you!\n",
+                "Give me a second to make the sandwiches.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0045",
+            "en_US": [
+                "The sandwiches are ready! Please\n",
+                "serve them to the correct customers."
+            ]
+        },
+        {
+            "id": "a003_271_0046",
+            "en_US": [
+                "I think you missed a couple of people.\n",
+                "Please take everyone's order!"
+            ]
+        },
+        {
+            "id": "a003_271_0047",
+            "en_US": [
+                "Let me give you a review!\n",
+                "Your work was...{VAR BE01}\n",
+                "Perfect! The customers seem to\n",
+                "be satisfied, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0048",
+            "en_US": [
+                "I have a review for you.\n",
+                "Your work was...{VAR BE01}\n",
+                "Well, you still need some practice.\n",
+                "But you'll get used to it soon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0049",
+            "en_US": [
+                "This is a thank-you gift.\n",
+                "You've worked really hard!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_271_0050",
+            "en_US": [
+                "That's it for today. I would be happy if\n",
+                "you could come back again tomorrow!"
+            ]
+        },
+        {
+            "id": "a003_271_0051",
+            "en_US": [
+                "You're quitting? Well, that's OK.\n",
+                "Today is not busy, so it should be fine."
+            ]
+        },
+        {
+            "id": "a003_271_0052",
+            "en_US": [
+                "Oh! You're leaving the park.\n",
+                "Are you going to quit your Waitress job?"
+            ]
+        },
+        {
+            "id": "a003_271_0053",
+            "en_US": [
+                "Oh! You're leaving the park.\n",
+                "Are you going to quit your Waiter job?"
+            ]
+        },
+        {
+            "id": "a003_271_0054",
+            "en_US": [
+                "I'd like a {VAR 0109 0000} sandwich.\n",
+                "That's my Pokémon's favorite!"
+            ]
+        },
+        {
+            "id": "a003_271_0055",
+            "en_US": [
+                "You can eat here with your Pokémon.\n",
+                "It's a really good sandwich shop!"
+            ]
+        },
+        {
+            "id": "a003_271_0056",
+            "en_US": [
+                "Munch, munch...yummy!\n",
+                "My Pokémon is also happy."
+            ]
+        },
+        {
+            "id": "a003_271_0057",
+            "en_US": [
+                "Munch, munch...? Hmmm.\n",
+                "It tastes a little different this time..."
+            ]
+        },
+        {
+            "id": "a003_271_0058",
+            "en_US": [
+                "We're really hungry today. So, a large\n",
+                "{VAR 0109 0000} sandwich, please!"
+            ]
+        },
+        {
+            "id": "a003_271_0059",
+            "en_US": [
+                "My Pokémon has a big appetite,\n",
+                "just like me!"
+            ]
+        },
+        {
+            "id": "a003_271_0060",
+            "en_US": [
+                "Gobble, gobble...delicious!\n",
+                "This is the highlight of my day!"
+            ]
+        },
+        {
+            "id": "a003_271_0061",
+            "en_US": [
+                "Gobble, gobble...delicious! But I don't\n",
+                "think this is what I ordered..."
+            ]
+        },
+        {
+            "id": "a003_271_0062",
+            "en_US": [
+                "My Pokémon has gourmet tastes.\n",
+                "I'd like a {VAR 0109 0000} sandwich, please."
+            ]
+        },
+        {
+            "id": "a003_271_0063",
+            "en_US": [
+                "A Berry dish for people and Pokémon!\n",
+                "The chef can show off her skill with it."
+            ]
+        },
+        {
+            "id": "a003_271_0064",
+            "en_US": [
+                "Nibble, nibble...\n",
+                "Oh, the flavors are simply divine!"
+            ]
+        },
+        {
+            "id": "a003_271_0065",
+            "en_US": [
+                "Nibble, nibble...{VAR BE01}\n",
+                "Oh dear. It's lovely, but this is not\n",
+                "my order."
+            ]
+        },
+        {
+            "id": "a003_271_0066",
+            "en_US": [
+                "Both my Pokémon and I are craving\n",
+                "a {VAR 0109 0000} sandwich! Please!"
+            ]
+        },
+        {
+            "id": "a003_271_0067",
+            "en_US": [
+                "I'm happy to be able to eat with\n",
+                "my Pokémon."
+            ]
+        },
+        {
+            "id": "a003_271_0068",
+            "en_US": [
+                "Munch, munch. Open wide.\n",
+                "So happy!"
+            ]
+        },
+        {
+            "id": "a003_271_0069",
+            "en_US": [
+                "Munch, munch... Huh?\n",
+                "It tastes different."
+            ]
+        },
+        {
+            "id": "a003_271_0070",
+            "en_US": "Myu myuweee."
+        },
+        {
+            "id": "a003_271_0071",
+            "en_US": "Skwee weep..."
+        },
+        {
+            "id": "a003_271_0072",
+            "en_US": "Pikaaaa!"
+        },
+        {
+            "id": "a003_271_0073",
+            "en_US": "Kroooko!"
+        },
+        {
+            "id": "a003_271_0074",
+            "en_US": "Cheri Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_271_0075",
+            "en_US": "Persim Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_271_0076",
+            "en_US": "Pecha Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_271_0077",
+            "en_US": "Chesto Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_271_0078",
+            "en_US": [
+                "Will you serve the {VAR 0109 0000} sandwich\n",
+                "to this customer?"
+            ]
+        },
+        {
+            "id": "a003_271_0079",
+            "en_US": "Village Bridge",
+            "flags": 207
+        },
+        {
+            "id": "a003_271_0080",
+            "en_US": [
+                "Village Bridge Restaurant\n",
+                "Village Sandwiches are our specialty!"
+            ],
+            "flags": 207
+        }
+    ]
+}

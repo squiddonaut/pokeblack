@@ -1,0 +1,112 @@
+{
+    "flags": 224,
+    "pad": "8888",
+    "messages": [
+        {
+            "id": "a002_207_0000",
+            "en_US": [
+                "Welcome to Geonet, the high-tech\n",
+                "globe!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_207_0001",
+            "en_US": "What would you like to do?"
+        },
+        {
+            "id": "a002_207_0002",
+            "en_US": [
+                "You can register your location.\n",
+                "That information may be provided{VAR BE00}\n",
+                "to friends and strangers through{VAR BE00}\n",
+                "DS Wireless Communications{VAR BE00}\n",
+                "or over Nintendo Wi-Fi Connection.{VAR BE01}\n",
+                "Would you like to register your\n",
+                "location now?"
+            ]
+        },
+        {
+            "id": "a002_207_0003",
+            "en_US": [
+                "Please select the location\n",
+                "where you live."
+            ]
+        },
+        {
+            "id": "a002_207_0004",
+            "en_US": [
+                "Please select the area\n",
+                "where you live."
+            ]
+        },
+        {
+            "id": "a002_207_0005",
+            "en_US": [
+                "You may not change your location data\n",
+                "once you have registered it.{VAR BE01}\n",
+                "Do you wish to register this location?"
+            ]
+        },
+        {
+            "id": "a002_207_0006",
+            "en_US": "{VAR 0124 0000}",
+            "flags": 196
+        },
+        {
+            "id": "a002_207_0007",
+            "en_US": "{VAR 0125 0000}",
+            "flags": 196
+        },
+        {
+            "id": "a002_207_0008",
+            "en_US": "Yes",
+            "flags": 42
+        },
+        {
+            "id": "a002_207_0009",
+            "en_US": "No",
+            "flags": 42
+        },
+        {
+            "id": "a002_207_0010",
+            "en_US": "See list",
+            "flags": 92
+        },
+        {
+            "id": "a002_207_0011",
+            "en_US": "Register",
+            "flags": 92
+        },
+        {
+            "id": "a002_207_0012",
+            "en_US": "Cancel",
+            "flags": 92
+        },
+        {
+            "id": "a002_207_0013",
+            "en_US": "VIEW",
+            "flags": 54
+        },
+        {
+            "id": "a002_207_0014",
+            "en_US": [
+                "Your registered location:\n",
+                "{VAR 0124 0000}\n",
+                "{VAR 0125 0001}"
+            ],
+            "flags": 196
+        },
+        {
+            "id": "a002_207_0015",
+            "en_US": [
+                "To display registered locations, line up\n",
+                "the cursor and press the X Button."
+            ]
+        },
+        {
+            "id": "a002_207_0016",
+            "en_US": "QUIT",
+            "flags": 40
+        }
+    ]
+}

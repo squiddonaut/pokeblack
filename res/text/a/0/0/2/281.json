@@ -1,0 +1,2614 @@
+{
+    "flags": 256,
+    "pad": "3232",
+    "messages": [
+        {
+            "id": "a002_281_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a002_281_0001",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bulbasaur"
+        },
+        {
+            "id": "a002_281_0002",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ivysaur"
+        },
+        {
+            "id": "a002_281_0003",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Venusaur"
+        },
+        {
+            "id": "a002_281_0004",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Charmander"
+        },
+        {
+            "id": "a002_281_0005",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Charmeleon"
+        },
+        {
+            "id": "a002_281_0006",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Charizard"
+        },
+        {
+            "id": "a002_281_0007",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Squirtle"
+        },
+        {
+            "id": "a002_281_0008",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wartortle"
+        },
+        {
+            "id": "a002_281_0009",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blastoise"
+        },
+        {
+            "id": "a002_281_0010",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Caterpie"
+        },
+        {
+            "id": "a002_281_0011",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metapod"
+        },
+        {
+            "id": "a002_281_0012",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Butterfree"
+        },
+        {
+            "id": "a002_281_0013",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Weedle"
+        },
+        {
+            "id": "a002_281_0014",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kakuna"
+        },
+        {
+            "id": "a002_281_0015",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Beedrill"
+        },
+        {
+            "id": "a002_281_0016",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pidgey"
+        },
+        {
+            "id": "a002_281_0017",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pidgeotto"
+        },
+        {
+            "id": "a002_281_0018",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pidgeot"
+        },
+        {
+            "id": "a002_281_0019",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rattata"
+        },
+        {
+            "id": "a002_281_0020",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Raticate"
+        },
+        {
+            "id": "a002_281_0021",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spearow"
+        },
+        {
+            "id": "a002_281_0022",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fearow"
+        },
+        {
+            "id": "a002_281_0023",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ekans"
+        },
+        {
+            "id": "a002_281_0024",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Arbok"
+        },
+        {
+            "id": "a002_281_0025",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pikachu"
+        },
+        {
+            "id": "a002_281_0026",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Raichu"
+        },
+        {
+            "id": "a002_281_0027",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sandshrew"
+        },
+        {
+            "id": "a002_281_0028",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sandslash"
+        },
+        {
+            "id": "a002_281_0029",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidoran⑮"
+        },
+        {
+            "id": "a002_281_0030",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidorina"
+        },
+        {
+            "id": "a002_281_0031",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidoqueen"
+        },
+        {
+            "id": "a002_281_0032",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidoran⑭"
+        },
+        {
+            "id": "a002_281_0033",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidorino"
+        },
+        {
+            "id": "a002_281_0034",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nidoking"
+        },
+        {
+            "id": "a002_281_0035",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Clefairy"
+        },
+        {
+            "id": "a002_281_0036",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Clefable"
+        },
+        {
+            "id": "a002_281_0037",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vulpix"
+        },
+        {
+            "id": "a002_281_0038",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ninetales"
+        },
+        {
+            "id": "a002_281_0039",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jigglypuff"
+        },
+        {
+            "id": "a002_281_0040",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wigglytuff"
+        },
+        {
+            "id": "a002_281_0041",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zubat"
+        },
+        {
+            "id": "a002_281_0042",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Golbat"
+        },
+        {
+            "id": "a002_281_0043",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Oddish"
+        },
+        {
+            "id": "a002_281_0044",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gloom"
+        },
+        {
+            "id": "a002_281_0045",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vileplume"
+        },
+        {
+            "id": "a002_281_0046",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Paras"
+        },
+        {
+            "id": "a002_281_0047",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Parasect"
+        },
+        {
+            "id": "a002_281_0048",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Venonat"
+        },
+        {
+            "id": "a002_281_0049",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Venomoth"
+        },
+        {
+            "id": "a002_281_0050",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Diglett"
+        },
+        {
+            "id": "a002_281_0051",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dugtrio"
+        },
+        {
+            "id": "a002_281_0052",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Meowth"
+        },
+        {
+            "id": "a002_281_0053",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Persian"
+        },
+        {
+            "id": "a002_281_0054",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Psyduck"
+        },
+        {
+            "id": "a002_281_0055",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Golduck"
+        },
+        {
+            "id": "a002_281_0056",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mankey"
+        },
+        {
+            "id": "a002_281_0057",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Primeape"
+        },
+        {
+            "id": "a002_281_0058",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Growlithe"
+        },
+        {
+            "id": "a002_281_0059",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Arcanine"
+        },
+        {
+            "id": "a002_281_0060",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poliwag"
+        },
+        {
+            "id": "a002_281_0061",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poliwhirl"
+        },
+        {
+            "id": "a002_281_0062",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poliwrath"
+        },
+        {
+            "id": "a002_281_0063",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Abra"
+        },
+        {
+            "id": "a002_281_0064",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kadabra"
+        },
+        {
+            "id": "a002_281_0065",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Alakazam"
+        },
+        {
+            "id": "a002_281_0066",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Machop"
+        },
+        {
+            "id": "a002_281_0067",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Machoke"
+        },
+        {
+            "id": "a002_281_0068",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Machamp"
+        },
+        {
+            "id": "a002_281_0069",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bellsprout"
+        },
+        {
+            "id": "a002_281_0070",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Weepinbell"
+        },
+        {
+            "id": "a002_281_0071",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Victreebel"
+        },
+        {
+            "id": "a002_281_0072",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tentacool"
+        },
+        {
+            "id": "a002_281_0073",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tentacruel"
+        },
+        {
+            "id": "a002_281_0074",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Geodude"
+        },
+        {
+            "id": "a002_281_0075",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Graveler"
+        },
+        {
+            "id": "a002_281_0076",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Golem"
+        },
+        {
+            "id": "a002_281_0077",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ponyta"
+        },
+        {
+            "id": "a002_281_0078",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rapidash"
+        },
+        {
+            "id": "a002_281_0079",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slowpoke"
+        },
+        {
+            "id": "a002_281_0080",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slowbro"
+        },
+        {
+            "id": "a002_281_0081",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magnemite"
+        },
+        {
+            "id": "a002_281_0082",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magneton"
+        },
+        {
+            "id": "a002_281_0083",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Farfetch'd"
+        },
+        {
+            "id": "a002_281_0084",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Doduo"
+        },
+        {
+            "id": "a002_281_0085",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dodrio"
+        },
+        {
+            "id": "a002_281_0086",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seel"
+        },
+        {
+            "id": "a002_281_0087",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dewgong"
+        },
+        {
+            "id": "a002_281_0088",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grimer"
+        },
+        {
+            "id": "a002_281_0089",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Muk"
+        },
+        {
+            "id": "a002_281_0090",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shellder"
+        },
+        {
+            "id": "a002_281_0091",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cloyster"
+        },
+        {
+            "id": "a002_281_0092",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gastly"
+        },
+        {
+            "id": "a002_281_0093",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Haunter"
+        },
+        {
+            "id": "a002_281_0094",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gengar"
+        },
+        {
+            "id": "a002_281_0095",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Onix"
+        },
+        {
+            "id": "a002_281_0096",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Drowzee"
+        },
+        {
+            "id": "a002_281_0097",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hypno"
+        },
+        {
+            "id": "a002_281_0098",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Krabby"
+        },
+        {
+            "id": "a002_281_0099",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kingler"
+        },
+        {
+            "id": "a002_281_0100",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Voltorb"
+        },
+        {
+            "id": "a002_281_0101",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electrode"
+        },
+        {
+            "id": "a002_281_0102",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Exeggcute"
+        },
+        {
+            "id": "a002_281_0103",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Exeggutor"
+        },
+        {
+            "id": "a002_281_0104",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cubone"
+        },
+        {
+            "id": "a002_281_0105",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Marowak"
+        },
+        {
+            "id": "a002_281_0106",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hitmonlee"
+        },
+        {
+            "id": "a002_281_0107",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hitmonchan"
+        },
+        {
+            "id": "a002_281_0108",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lickitung"
+        },
+        {
+            "id": "a002_281_0109",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Koffing"
+        },
+        {
+            "id": "a002_281_0110",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Weezing"
+        },
+        {
+            "id": "a002_281_0111",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rhyhorn"
+        },
+        {
+            "id": "a002_281_0112",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rhydon"
+        },
+        {
+            "id": "a002_281_0113",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chansey"
+        },
+        {
+            "id": "a002_281_0114",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tangela"
+        },
+        {
+            "id": "a002_281_0115",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kangaskhan"
+        },
+        {
+            "id": "a002_281_0116",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Horsea"
+        },
+        {
+            "id": "a002_281_0117",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seadra"
+        },
+        {
+            "id": "a002_281_0118",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Goldeen"
+        },
+        {
+            "id": "a002_281_0119",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seaking"
+        },
+        {
+            "id": "a002_281_0120",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Staryu"
+        },
+        {
+            "id": "a002_281_0121",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Starmie"
+        },
+        {
+            "id": "a002_281_0122",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mr. Mime"
+        },
+        {
+            "id": "a002_281_0123",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scyther"
+        },
+        {
+            "id": "a002_281_0124",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jynx"
+        },
+        {
+            "id": "a002_281_0125",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electabuzz"
+        },
+        {
+            "id": "a002_281_0126",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magmar"
+        },
+        {
+            "id": "a002_281_0127",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pinsir"
+        },
+        {
+            "id": "a002_281_0128",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tauros"
+        },
+        {
+            "id": "a002_281_0129",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magikarp"
+        },
+        {
+            "id": "a002_281_0130",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gyarados"
+        },
+        {
+            "id": "a002_281_0131",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lapras"
+        },
+        {
+            "id": "a002_281_0132",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ditto"
+        },
+        {
+            "id": "a002_281_0133",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Eevee"
+        },
+        {
+            "id": "a002_281_0134",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vaporeon"
+        },
+        {
+            "id": "a002_281_0135",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jolteon"
+        },
+        {
+            "id": "a002_281_0136",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flareon"
+        },
+        {
+            "id": "a002_281_0137",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Porygon"
+        },
+        {
+            "id": "a002_281_0138",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Omanyte"
+        },
+        {
+            "id": "a002_281_0139",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Omastar"
+        },
+        {
+            "id": "a002_281_0140",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kabuto"
+        },
+        {
+            "id": "a002_281_0141",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kabutops"
+        },
+        {
+            "id": "a002_281_0142",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aerodactyl"
+        },
+        {
+            "id": "a002_281_0143",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Snorlax"
+        },
+        {
+            "id": "a002_281_0144",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Articuno"
+        },
+        {
+            "id": "a002_281_0145",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zapdos"
+        },
+        {
+            "id": "a002_281_0146",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Moltres"
+        },
+        {
+            "id": "a002_281_0147",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dratini"
+        },
+        {
+            "id": "a002_281_0148",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragonair"
+        },
+        {
+            "id": "a002_281_0149",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragonite"
+        },
+        {
+            "id": "a002_281_0150",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mewtwo"
+        },
+        {
+            "id": "a002_281_0151",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mew"
+        },
+        {
+            "id": "a002_281_0152",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chikorita"
+        },
+        {
+            "id": "a002_281_0153",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bayleef"
+        },
+        {
+            "id": "a002_281_0154",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Meganium"
+        },
+        {
+            "id": "a002_281_0155",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cyndaquil"
+        },
+        {
+            "id": "a002_281_0156",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Quilava"
+        },
+        {
+            "id": "a002_281_0157",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Typhlosion"
+        },
+        {
+            "id": "a002_281_0158",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Totodile"
+        },
+        {
+            "id": "a002_281_0159",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Croconaw"
+        },
+        {
+            "id": "a002_281_0160",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Feraligatr"
+        },
+        {
+            "id": "a002_281_0161",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sentret"
+        },
+        {
+            "id": "a002_281_0162",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Furret"
+        },
+        {
+            "id": "a002_281_0163",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hoothoot"
+        },
+        {
+            "id": "a002_281_0164",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Noctowl"
+        },
+        {
+            "id": "a002_281_0165",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ledyba"
+        },
+        {
+            "id": "a002_281_0166",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ledian"
+        },
+        {
+            "id": "a002_281_0167",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spinarak"
+        },
+        {
+            "id": "a002_281_0168",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ariados"
+        },
+        {
+            "id": "a002_281_0169",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Crobat"
+        },
+        {
+            "id": "a002_281_0170",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chinchou"
+        },
+        {
+            "id": "a002_281_0171",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lanturn"
+        },
+        {
+            "id": "a002_281_0172",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pichu"
+        },
+        {
+            "id": "a002_281_0173",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cleffa"
+        },
+        {
+            "id": "a002_281_0174",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Igglybuff"
+        },
+        {
+            "id": "a002_281_0175",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Togepi"
+        },
+        {
+            "id": "a002_281_0176",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Togetic"
+        },
+        {
+            "id": "a002_281_0177",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Natu"
+        },
+        {
+            "id": "a002_281_0178",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Xatu"
+        },
+        {
+            "id": "a002_281_0179",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mareep"
+        },
+        {
+            "id": "a002_281_0180",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flaaffy"
+        },
+        {
+            "id": "a002_281_0181",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ampharos"
+        },
+        {
+            "id": "a002_281_0182",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bellossom"
+        },
+        {
+            "id": "a002_281_0183",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Marill"
+        },
+        {
+            "id": "a002_281_0184",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Azumarill"
+        },
+        {
+            "id": "a002_281_0185",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sudowoodo"
+        },
+        {
+            "id": "a002_281_0186",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Politoed"
+        },
+        {
+            "id": "a002_281_0187",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hoppip"
+        },
+        {
+            "id": "a002_281_0188",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skiploom"
+        },
+        {
+            "id": "a002_281_0189",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jumpluff"
+        },
+        {
+            "id": "a002_281_0190",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aipom"
+        },
+        {
+            "id": "a002_281_0191",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sunkern"
+        },
+        {
+            "id": "a002_281_0192",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sunflora"
+        },
+        {
+            "id": "a002_281_0193",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yanma"
+        },
+        {
+            "id": "a002_281_0194",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wooper"
+        },
+        {
+            "id": "a002_281_0195",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Quagsire"
+        },
+        {
+            "id": "a002_281_0196",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Espeon"
+        },
+        {
+            "id": "a002_281_0197",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Umbreon"
+        },
+        {
+            "id": "a002_281_0198",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Murkrow"
+        },
+        {
+            "id": "a002_281_0199",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slowking"
+        },
+        {
+            "id": "a002_281_0200",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Misdreavus"
+        },
+        {
+            "id": "a002_281_0201",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Unown"
+        },
+        {
+            "id": "a002_281_0202",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wobbuffet"
+        },
+        {
+            "id": "a002_281_0203",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Girafarig"
+        },
+        {
+            "id": "a002_281_0204",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pineco"
+        },
+        {
+            "id": "a002_281_0205",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Forretress"
+        },
+        {
+            "id": "a002_281_0206",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dunsparce"
+        },
+        {
+            "id": "a002_281_0207",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gligar"
+        },
+        {
+            "id": "a002_281_0208",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Steelix"
+        },
+        {
+            "id": "a002_281_0209",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Snubbull"
+        },
+        {
+            "id": "a002_281_0210",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Granbull"
+        },
+        {
+            "id": "a002_281_0211",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Qwilfish"
+        },
+        {
+            "id": "a002_281_0212",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scizor"
+        },
+        {
+            "id": "a002_281_0213",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shuckle"
+        },
+        {
+            "id": "a002_281_0214",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heracross"
+        },
+        {
+            "id": "a002_281_0215",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sneasel"
+        },
+        {
+            "id": "a002_281_0216",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Teddiursa"
+        },
+        {
+            "id": "a002_281_0217",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ursaring"
+        },
+        {
+            "id": "a002_281_0218",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slugma"
+        },
+        {
+            "id": "a002_281_0219",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magcargo"
+        },
+        {
+            "id": "a002_281_0220",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swinub"
+        },
+        {
+            "id": "a002_281_0221",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Piloswine"
+        },
+        {
+            "id": "a002_281_0222",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Corsola"
+        },
+        {
+            "id": "a002_281_0223",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Remoraid"
+        },
+        {
+            "id": "a002_281_0224",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Octillery"
+        },
+        {
+            "id": "a002_281_0225",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Delibird"
+        },
+        {
+            "id": "a002_281_0226",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mantine"
+        },
+        {
+            "id": "a002_281_0227",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skarmory"
+        },
+        {
+            "id": "a002_281_0228",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Houndour"
+        },
+        {
+            "id": "a002_281_0229",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Houndoom"
+        },
+        {
+            "id": "a002_281_0230",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kingdra"
+        },
+        {
+            "id": "a002_281_0231",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Phanpy"
+        },
+        {
+            "id": "a002_281_0232",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Donphan"
+        },
+        {
+            "id": "a002_281_0233",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Porygon2"
+        },
+        {
+            "id": "a002_281_0234",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stantler"
+        },
+        {
+            "id": "a002_281_0235",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Smeargle"
+        },
+        {
+            "id": "a002_281_0236",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tyrogue"
+        },
+        {
+            "id": "a002_281_0237",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hitmontop"
+        },
+        {
+            "id": "a002_281_0238",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Smoochum"
+        },
+        {
+            "id": "a002_281_0239",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Elekid"
+        },
+        {
+            "id": "a002_281_0240",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magby"
+        },
+        {
+            "id": "a002_281_0241",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Miltank"
+        },
+        {
+            "id": "a002_281_0242",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blissey"
+        },
+        {
+            "id": "a002_281_0243",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Raikou"
+        },
+        {
+            "id": "a002_281_0244",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Entei"
+        },
+        {
+            "id": "a002_281_0245",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Suicune"
+        },
+        {
+            "id": "a002_281_0246",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Larvitar"
+        },
+        {
+            "id": "a002_281_0247",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pupitar"
+        },
+        {
+            "id": "a002_281_0248",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tyranitar"
+        },
+        {
+            "id": "a002_281_0249",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lugia"
+        },
+        {
+            "id": "a002_281_0250",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ho-Oh"
+        },
+        {
+            "id": "a002_281_0251",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Celebi"
+        },
+        {
+            "id": "a002_281_0252",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Treecko"
+        },
+        {
+            "id": "a002_281_0253",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grovyle"
+        },
+        {
+            "id": "a002_281_0254",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sceptile"
+        },
+        {
+            "id": "a002_281_0255",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Torchic"
+        },
+        {
+            "id": "a002_281_0256",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Combusken"
+        },
+        {
+            "id": "a002_281_0257",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blaziken"
+        },
+        {
+            "id": "a002_281_0258",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mudkip"
+        },
+        {
+            "id": "a002_281_0259",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Marshtomp"
+        },
+        {
+            "id": "a002_281_0260",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swampert"
+        },
+        {
+            "id": "a002_281_0261",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poochyena"
+        },
+        {
+            "id": "a002_281_0262",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mightyena"
+        },
+        {
+            "id": "a002_281_0263",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zigzagoon"
+        },
+        {
+            "id": "a002_281_0264",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Linoone"
+        },
+        {
+            "id": "a002_281_0265",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wurmple"
+        },
+        {
+            "id": "a002_281_0266",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Silcoon"
+        },
+        {
+            "id": "a002_281_0267",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Beautifly"
+        },
+        {
+            "id": "a002_281_0268",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cascoon"
+        },
+        {
+            "id": "a002_281_0269",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dustox"
+        },
+        {
+            "id": "a002_281_0270",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lotad"
+        },
+        {
+            "id": "a002_281_0271",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lombre"
+        },
+        {
+            "id": "a002_281_0272",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ludicolo"
+        },
+        {
+            "id": "a002_281_0273",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seedot"
+        },
+        {
+            "id": "a002_281_0274",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nuzleaf"
+        },
+        {
+            "id": "a002_281_0275",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shiftry"
+        },
+        {
+            "id": "a002_281_0276",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Taillow"
+        },
+        {
+            "id": "a002_281_0277",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swellow"
+        },
+        {
+            "id": "a002_281_0278",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wingull"
+        },
+        {
+            "id": "a002_281_0279",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pelipper"
+        },
+        {
+            "id": "a002_281_0280",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ralts"
+        },
+        {
+            "id": "a002_281_0281",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kirlia"
+        },
+        {
+            "id": "a002_281_0282",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gardevoir"
+        },
+        {
+            "id": "a002_281_0283",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Surskit"
+        },
+        {
+            "id": "a002_281_0284",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Masquerain"
+        },
+        {
+            "id": "a002_281_0285",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shroomish"
+        },
+        {
+            "id": "a002_281_0286",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Breloom"
+        },
+        {
+            "id": "a002_281_0287",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slakoth"
+        },
+        {
+            "id": "a002_281_0288",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vigoroth"
+        },
+        {
+            "id": "a002_281_0289",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Slaking"
+        },
+        {
+            "id": "a002_281_0290",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nincada"
+        },
+        {
+            "id": "a002_281_0291",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ninjask"
+        },
+        {
+            "id": "a002_281_0292",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shedinja"
+        },
+        {
+            "id": "a002_281_0293",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Whismur"
+        },
+        {
+            "id": "a002_281_0294",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Loudred"
+        },
+        {
+            "id": "a002_281_0295",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Exploud"
+        },
+        {
+            "id": "a002_281_0296",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Makuhita"
+        },
+        {
+            "id": "a002_281_0297",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hariyama"
+        },
+        {
+            "id": "a002_281_0298",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Azurill"
+        },
+        {
+            "id": "a002_281_0299",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nosepass"
+        },
+        {
+            "id": "a002_281_0300",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skitty"
+        },
+        {
+            "id": "a002_281_0301",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Delcatty"
+        },
+        {
+            "id": "a002_281_0302",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sableye"
+        },
+        {
+            "id": "a002_281_0303",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mawile"
+        },
+        {
+            "id": "a002_281_0304",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aron"
+        },
+        {
+            "id": "a002_281_0305",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lairon"
+        },
+        {
+            "id": "a002_281_0306",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aggron"
+        },
+        {
+            "id": "a002_281_0307",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Meditite"
+        },
+        {
+            "id": "a002_281_0308",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Medicham"
+        },
+        {
+            "id": "a002_281_0309",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electrike"
+        },
+        {
+            "id": "a002_281_0310",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Manectric"
+        },
+        {
+            "id": "a002_281_0311",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Plusle"
+        },
+        {
+            "id": "a002_281_0312",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Minun"
+        },
+        {
+            "id": "a002_281_0313",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Volbeat"
+        },
+        {
+            "id": "a002_281_0314",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Illumise"
+        },
+        {
+            "id": "a002_281_0315",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Roselia"
+        },
+        {
+            "id": "a002_281_0316",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gulpin"
+        },
+        {
+            "id": "a002_281_0317",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swalot"
+        },
+        {
+            "id": "a002_281_0318",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Carvanha"
+        },
+        {
+            "id": "a002_281_0319",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sharpedo"
+        },
+        {
+            "id": "a002_281_0320",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wailmer"
+        },
+        {
+            "id": "a002_281_0321",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wailord"
+        },
+        {
+            "id": "a002_281_0322",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Numel"
+        },
+        {
+            "id": "a002_281_0323",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Camerupt"
+        },
+        {
+            "id": "a002_281_0324",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Torkoal"
+        },
+        {
+            "id": "a002_281_0325",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spoink"
+        },
+        {
+            "id": "a002_281_0326",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grumpig"
+        },
+        {
+            "id": "a002_281_0327",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spinda"
+        },
+        {
+            "id": "a002_281_0328",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Trapinch"
+        },
+        {
+            "id": "a002_281_0329",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vibrava"
+        },
+        {
+            "id": "a002_281_0330",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flygon"
+        },
+        {
+            "id": "a002_281_0331",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cacnea"
+        },
+        {
+            "id": "a002_281_0332",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cacturne"
+        },
+        {
+            "id": "a002_281_0333",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swablu"
+        },
+        {
+            "id": "a002_281_0334",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Altaria"
+        },
+        {
+            "id": "a002_281_0335",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zangoose"
+        },
+        {
+            "id": "a002_281_0336",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seviper"
+        },
+        {
+            "id": "a002_281_0337",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lunatone"
+        },
+        {
+            "id": "a002_281_0338",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Solrock"
+        },
+        {
+            "id": "a002_281_0339",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Barboach"
+        },
+        {
+            "id": "a002_281_0340",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Whiscash"
+        },
+        {
+            "id": "a002_281_0341",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Corphish"
+        },
+        {
+            "id": "a002_281_0342",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Crawdaunt"
+        },
+        {
+            "id": "a002_281_0343",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Baltoy"
+        },
+        {
+            "id": "a002_281_0344",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Claydol"
+        },
+        {
+            "id": "a002_281_0345",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lileep"
+        },
+        {
+            "id": "a002_281_0346",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cradily"
+        },
+        {
+            "id": "a002_281_0347",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Anorith"
+        },
+        {
+            "id": "a002_281_0348",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Armaldo"
+        },
+        {
+            "id": "a002_281_0349",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Feebas"
+        },
+        {
+            "id": "a002_281_0350",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Milotic"
+        },
+        {
+            "id": "a002_281_0351",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Castform"
+        },
+        {
+            "id": "a002_281_0352",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kecleon"
+        },
+        {
+            "id": "a002_281_0353",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shuppet"
+        },
+        {
+            "id": "a002_281_0354",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Banette"
+        },
+        {
+            "id": "a002_281_0355",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Duskull"
+        },
+        {
+            "id": "a002_281_0356",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dusclops"
+        },
+        {
+            "id": "a002_281_0357",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tropius"
+        },
+        {
+            "id": "a002_281_0358",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chimecho"
+        },
+        {
+            "id": "a002_281_0359",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Absol"
+        },
+        {
+            "id": "a002_281_0360",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wynaut"
+        },
+        {
+            "id": "a002_281_0361",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Snorunt"
+        },
+        {
+            "id": "a002_281_0362",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Glalie"
+        },
+        {
+            "id": "a002_281_0363",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spheal"
+        },
+        {
+            "id": "a002_281_0364",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sealeo"
+        },
+        {
+            "id": "a002_281_0365",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Walrein"
+        },
+        {
+            "id": "a002_281_0366",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Clamperl"
+        },
+        {
+            "id": "a002_281_0367",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Huntail"
+        },
+        {
+            "id": "a002_281_0368",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gorebyss"
+        },
+        {
+            "id": "a002_281_0369",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relicanth"
+        },
+        {
+            "id": "a002_281_0370",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Luvdisc"
+        },
+        {
+            "id": "a002_281_0371",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bagon"
+        },
+        {
+            "id": "a002_281_0372",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shelgon"
+        },
+        {
+            "id": "a002_281_0373",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Salamence"
+        },
+        {
+            "id": "a002_281_0374",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Beldum"
+        },
+        {
+            "id": "a002_281_0375",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metang"
+        },
+        {
+            "id": "a002_281_0376",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metagross"
+        },
+        {
+            "id": "a002_281_0377",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Regirock"
+        },
+        {
+            "id": "a002_281_0378",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Regice"
+        },
+        {
+            "id": "a002_281_0379",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Registeel"
+        },
+        {
+            "id": "a002_281_0380",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Latias"
+        },
+        {
+            "id": "a002_281_0381",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Latios"
+        },
+        {
+            "id": "a002_281_0382",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kyogre"
+        },
+        {
+            "id": "a002_281_0383",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Groudon"
+        },
+        {
+            "id": "a002_281_0384",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rayquaza"
+        },
+        {
+            "id": "a002_281_0385",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jirachi"
+        },
+        {
+            "id": "a002_281_0386",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Deoxys"
+        },
+        {
+            "id": "a002_281_0387",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Turtwig"
+        },
+        {
+            "id": "a002_281_0388",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grotle"
+        },
+        {
+            "id": "a002_281_0389",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Torterra"
+        },
+        {
+            "id": "a002_281_0390",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chimchar"
+        },
+        {
+            "id": "a002_281_0391",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Monferno"
+        },
+        {
+            "id": "a002_281_0392",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Infernape"
+        },
+        {
+            "id": "a002_281_0393",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Piplup"
+        },
+        {
+            "id": "a002_281_0394",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Prinplup"
+        },
+        {
+            "id": "a002_281_0395",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Empoleon"
+        },
+        {
+            "id": "a002_281_0396",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Starly"
+        },
+        {
+            "id": "a002_281_0397",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Staravia"
+        },
+        {
+            "id": "a002_281_0398",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Staraptor"
+        },
+        {
+            "id": "a002_281_0399",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bidoof"
+        },
+        {
+            "id": "a002_281_0400",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bibarel"
+        },
+        {
+            "id": "a002_281_0401",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kricketot"
+        },
+        {
+            "id": "a002_281_0402",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kricketune"
+        },
+        {
+            "id": "a002_281_0403",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shinx"
+        },
+        {
+            "id": "a002_281_0404",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Luxio"
+        },
+        {
+            "id": "a002_281_0405",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Luxray"
+        },
+        {
+            "id": "a002_281_0406",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Budew"
+        },
+        {
+            "id": "a002_281_0407",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Roserade"
+        },
+        {
+            "id": "a002_281_0408",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cranidos"
+        },
+        {
+            "id": "a002_281_0409",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rampardos"
+        },
+        {
+            "id": "a002_281_0410",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shieldon"
+        },
+        {
+            "id": "a002_281_0411",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bastiodon"
+        },
+        {
+            "id": "a002_281_0412",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Burmy"
+        },
+        {
+            "id": "a002_281_0413",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wormadam"
+        },
+        {
+            "id": "a002_281_0414",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mothim"
+        },
+        {
+            "id": "a002_281_0415",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Combee"
+        },
+        {
+            "id": "a002_281_0416",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vespiquen"
+        },
+        {
+            "id": "a002_281_0417",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pachirisu"
+        },
+        {
+            "id": "a002_281_0418",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Buizel"
+        },
+        {
+            "id": "a002_281_0419",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Floatzel"
+        },
+        {
+            "id": "a002_281_0420",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cherubi"
+        },
+        {
+            "id": "a002_281_0421",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cherrim"
+        },
+        {
+            "id": "a002_281_0422",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shellos"
+        },
+        {
+            "id": "a002_281_0423",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gastrodon"
+        },
+        {
+            "id": "a002_281_0424",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ambipom"
+        },
+        {
+            "id": "a002_281_0425",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Drifloon"
+        },
+        {
+            "id": "a002_281_0426",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Drifblim"
+        },
+        {
+            "id": "a002_281_0427",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Buneary"
+        },
+        {
+            "id": "a002_281_0428",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lopunny"
+        },
+        {
+            "id": "a002_281_0429",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mismagius"
+        },
+        {
+            "id": "a002_281_0430",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Honchkrow"
+        },
+        {
+            "id": "a002_281_0431",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Glameow"
+        },
+        {
+            "id": "a002_281_0432",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Purugly"
+        },
+        {
+            "id": "a002_281_0433",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chingling"
+        },
+        {
+            "id": "a002_281_0434",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stunky"
+        },
+        {
+            "id": "a002_281_0435",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skuntank"
+        },
+        {
+            "id": "a002_281_0436",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bronzor"
+        },
+        {
+            "id": "a002_281_0437",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bronzong"
+        },
+        {
+            "id": "a002_281_0438",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bonsly"
+        },
+        {
+            "id": "a002_281_0439",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mime Jr."
+        },
+        {
+            "id": "a002_281_0440",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Happiny"
+        },
+        {
+            "id": "a002_281_0441",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chatot"
+        },
+        {
+            "id": "a002_281_0442",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spiritomb"
+        },
+        {
+            "id": "a002_281_0443",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gible"
+        },
+        {
+            "id": "a002_281_0444",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gabite"
+        },
+        {
+            "id": "a002_281_0445",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Garchomp"
+        },
+        {
+            "id": "a002_281_0446",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Munchlax"
+        },
+        {
+            "id": "a002_281_0447",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Riolu"
+        },
+        {
+            "id": "a002_281_0448",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lucario"
+        },
+        {
+            "id": "a002_281_0449",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hippopotas"
+        },
+        {
+            "id": "a002_281_0450",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hippowdon"
+        },
+        {
+            "id": "a002_281_0451",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skorupi"
+        },
+        {
+            "id": "a002_281_0452",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Drapion"
+        },
+        {
+            "id": "a002_281_0453",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Croagunk"
+        },
+        {
+            "id": "a002_281_0454",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Toxicroak"
+        },
+        {
+            "id": "a002_281_0455",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Carnivine"
+        },
+        {
+            "id": "a002_281_0456",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Finneon"
+        },
+        {
+            "id": "a002_281_0457",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lumineon"
+        },
+        {
+            "id": "a002_281_0458",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mantyke"
+        },
+        {
+            "id": "a002_281_0459",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Snover"
+        },
+        {
+            "id": "a002_281_0460",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Abomasnow"
+        },
+        {
+            "id": "a002_281_0461",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Weavile"
+        },
+        {
+            "id": "a002_281_0462",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magnezone"
+        },
+        {
+            "id": "a002_281_0463",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lickilicky"
+        },
+        {
+            "id": "a002_281_0464",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rhyperior"
+        },
+        {
+            "id": "a002_281_0465",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tangrowth"
+        },
+        {
+            "id": "a002_281_0466",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electivire"
+        },
+        {
+            "id": "a002_281_0467",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magmortar"
+        },
+        {
+            "id": "a002_281_0468",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Togekiss"
+        },
+        {
+            "id": "a002_281_0469",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yanmega"
+        },
+        {
+            "id": "a002_281_0470",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Leafeon"
+        },
+        {
+            "id": "a002_281_0471",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Glaceon"
+        },
+        {
+            "id": "a002_281_0472",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gliscor"
+        },
+        {
+            "id": "a002_281_0473",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mamoswine"
+        },
+        {
+            "id": "a002_281_0474",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Porygon-Z"
+        },
+        {
+            "id": "a002_281_0475",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gallade"
+        },
+        {
+            "id": "a002_281_0476",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Probopass"
+        },
+        {
+            "id": "a002_281_0477",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dusknoir"
+        },
+        {
+            "id": "a002_281_0478",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Froslass"
+        },
+        {
+            "id": "a002_281_0479",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rotom"
+        },
+        {
+            "id": "a002_281_0480",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Uxie"
+        },
+        {
+            "id": "a002_281_0481",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mesprit"
+        },
+        {
+            "id": "a002_281_0482",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Azelf"
+        },
+        {
+            "id": "a002_281_0483",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dialga"
+        },
+        {
+            "id": "a002_281_0484",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Palkia"
+        },
+        {
+            "id": "a002_281_0485",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heatran"
+        },
+        {
+            "id": "a002_281_0486",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Regigigas"
+        },
+        {
+            "id": "a002_281_0487",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Giratina"
+        },
+        {
+            "id": "a002_281_0488",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cresselia"
+        },
+        {
+            "id": "a002_281_0489",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Phione"
+        },
+        {
+            "id": "a002_281_0490",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Manaphy"
+        },
+        {
+            "id": "a002_281_0491",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Darkrai"
+        },
+        {
+            "id": "a002_281_0492",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shaymin"
+        },
+        {
+            "id": "a002_281_0493",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Arceus"
+        },
+        {
+            "id": "a002_281_0494",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Victini"
+        },
+        {
+            "id": "a002_281_0495",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Snivy"
+        },
+        {
+            "id": "a002_281_0496",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Servine"
+        },
+        {
+            "id": "a002_281_0497",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Serperior"
+        },
+        {
+            "id": "a002_281_0498",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tepig"
+        },
+        {
+            "id": "a002_281_0499",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pignite"
+        },
+        {
+            "id": "a002_281_0500",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Emboar"
+        },
+        {
+            "id": "a002_281_0501",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Oshawott"
+        },
+        {
+            "id": "a002_281_0502",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dewott"
+        },
+        {
+            "id": "a002_281_0503",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Samurott"
+        },
+        {
+            "id": "a002_281_0504",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Patrat"
+        },
+        {
+            "id": "a002_281_0505",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Watchog"
+        },
+        {
+            "id": "a002_281_0506",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lillipup"
+        },
+        {
+            "id": "a002_281_0507",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Herdier"
+        },
+        {
+            "id": "a002_281_0508",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stoutland"
+        },
+        {
+            "id": "a002_281_0509",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Purrloin"
+        },
+        {
+            "id": "a002_281_0510",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Liepard"
+        },
+        {
+            "id": "a002_281_0511",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pansage"
+        },
+        {
+            "id": "a002_281_0512",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Simisage"
+        },
+        {
+            "id": "a002_281_0513",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pansear"
+        },
+        {
+            "id": "a002_281_0514",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Simisear"
+        },
+        {
+            "id": "a002_281_0515",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Panpour"
+        },
+        {
+            "id": "a002_281_0516",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Simipour"
+        },
+        {
+            "id": "a002_281_0517",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Munna"
+        },
+        {
+            "id": "a002_281_0518",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Musharna"
+        },
+        {
+            "id": "a002_281_0519",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pidove"
+        },
+        {
+            "id": "a002_281_0520",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tranquill"
+        },
+        {
+            "id": "a002_281_0521",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Unfezant"
+        },
+        {
+            "id": "a002_281_0522",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blitzle"
+        },
+        {
+            "id": "a002_281_0523",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zebstrika"
+        },
+        {
+            "id": "a002_281_0524",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Roggenrola"
+        },
+        {
+            "id": "a002_281_0525",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Boldore"
+        },
+        {
+            "id": "a002_281_0526",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gigalith"
+        },
+        {
+            "id": "a002_281_0527",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Woobat"
+        },
+        {
+            "id": "a002_281_0528",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swoobat"
+        },
+        {
+            "id": "a002_281_0529",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Drilbur"
+        },
+        {
+            "id": "a002_281_0530",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Excadrill"
+        },
+        {
+            "id": "a002_281_0531",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Audino"
+        },
+        {
+            "id": "a002_281_0532",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Timburr"
+        },
+        {
+            "id": "a002_281_0533",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gurdurr"
+        },
+        {
+            "id": "a002_281_0534",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Conkeldurr"
+        },
+        {
+            "id": "a002_281_0535",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tympole"
+        },
+        {
+            "id": "a002_281_0536",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Palpitoad"
+        },
+        {
+            "id": "a002_281_0537",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seismitoad"
+        },
+        {
+            "id": "a002_281_0538",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Throh"
+        },
+        {
+            "id": "a002_281_0539",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sawk"
+        },
+        {
+            "id": "a002_281_0540",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sewaddle"
+        },
+        {
+            "id": "a002_281_0541",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swadloon"
+        },
+        {
+            "id": "a002_281_0542",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Leavanny"
+        },
+        {
+            "id": "a002_281_0543",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Venipede"
+        },
+        {
+            "id": "a002_281_0544",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Whirlipede"
+        },
+        {
+            "id": "a002_281_0545",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scolipede"
+        },
+        {
+            "id": "a002_281_0546",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cottonee"
+        },
+        {
+            "id": "a002_281_0547",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Whimsicott"
+        },
+        {
+            "id": "a002_281_0548",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Petilil"
+        },
+        {
+            "id": "a002_281_0549",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lilligant"
+        },
+        {
+            "id": "a002_281_0550",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Basculin"
+        },
+        {
+            "id": "a002_281_0551",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sandile"
+        },
+        {
+            "id": "a002_281_0552",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Krokorok"
+        },
+        {
+            "id": "a002_281_0553",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Krookodile"
+        },
+        {
+            "id": "a002_281_0554",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Darumaka"
+        },
+        {
+            "id": "a002_281_0555",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Darmanitan"
+        },
+        {
+            "id": "a002_281_0556",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Maractus"
+        },
+        {
+            "id": "a002_281_0557",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dwebble"
+        },
+        {
+            "id": "a002_281_0558",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Crustle"
+        },
+        {
+            "id": "a002_281_0559",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scraggy"
+        },
+        {
+            "id": "a002_281_0560",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scrafty"
+        },
+        {
+            "id": "a002_281_0561",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sigilyph"
+        },
+        {
+            "id": "a002_281_0562",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yamask"
+        },
+        {
+            "id": "a002_281_0563",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cofagrigus"
+        },
+        {
+            "id": "a002_281_0564",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tirtouga"
+        },
+        {
+            "id": "a002_281_0565",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Carracosta"
+        },
+        {
+            "id": "a002_281_0566",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Archen "
+        },
+        {
+            "id": "a002_281_0567",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Archeops "
+        },
+        {
+            "id": "a002_281_0568",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Trubbish"
+        },
+        {
+            "id": "a002_281_0569",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Garbodor"
+        },
+        {
+            "id": "a002_281_0570",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zorua"
+        },
+        {
+            "id": "a002_281_0571",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zoroark"
+        },
+        {
+            "id": "a002_281_0572",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Minccino"
+        },
+        {
+            "id": "a002_281_0573",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cinccino"
+        },
+        {
+            "id": "a002_281_0574",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gothita"
+        },
+        {
+            "id": "a002_281_0575",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gothorita"
+        },
+        {
+            "id": "a002_281_0576",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gothitelle"
+        },
+        {
+            "id": "a002_281_0577",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Solosis "
+        },
+        {
+            "id": "a002_281_0578",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Duosion"
+        },
+        {
+            "id": "a002_281_0579",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Reuniclus"
+        },
+        {
+            "id": "a002_281_0580",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ducklett"
+        },
+        {
+            "id": "a002_281_0581",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swanna"
+        },
+        {
+            "id": "a002_281_0582",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vanillite "
+        },
+        {
+            "id": "a002_281_0583",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vanillish "
+        },
+        {
+            "id": "a002_281_0584",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vanilluxe"
+        },
+        {
+            "id": "a002_281_0585",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Deerling"
+        },
+        {
+            "id": "a002_281_0586",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sawsbuck"
+        },
+        {
+            "id": "a002_281_0587",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Emolga"
+        },
+        {
+            "id": "a002_281_0588",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Karrablast"
+        },
+        {
+            "id": "a002_281_0589",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Escavalier"
+        },
+        {
+            "id": "a002_281_0590",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Foongus"
+        },
+        {
+            "id": "a002_281_0591",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Amoonguss"
+        },
+        {
+            "id": "a002_281_0592",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Frillish"
+        },
+        {
+            "id": "a002_281_0593",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jellicent"
+        },
+        {
+            "id": "a002_281_0594",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Alomomola"
+        },
+        {
+            "id": "a002_281_0595",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Joltik"
+        },
+        {
+            "id": "a002_281_0596",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Galvantula"
+        },
+        {
+            "id": "a002_281_0597",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ferroseed"
+        },
+        {
+            "id": "a002_281_0598",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ferrothorn"
+        },
+        {
+            "id": "a002_281_0599",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Klink"
+        },
+        {
+            "id": "a002_281_0600",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Klang"
+        },
+        {
+            "id": "a002_281_0601",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Klinklang"
+        },
+        {
+            "id": "a002_281_0602",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tynamo"
+        },
+        {
+            "id": "a002_281_0603",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Eelektrik"
+        },
+        {
+            "id": "a002_281_0604",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Eelektross"
+        },
+        {
+            "id": "a002_281_0605",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Elgyem"
+        },
+        {
+            "id": "a002_281_0606",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Beeheeyem"
+        },
+        {
+            "id": "a002_281_0607",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Litwick"
+        },
+        {
+            "id": "a002_281_0608",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lampent"
+        },
+        {
+            "id": "a002_281_0609",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chandelure"
+        },
+        {
+            "id": "a002_281_0610",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Axew"
+        },
+        {
+            "id": "a002_281_0611",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fraxure"
+        },
+        {
+            "id": "a002_281_0612",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Haxorus"
+        },
+        {
+            "id": "a002_281_0613",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cubchoo"
+        },
+        {
+            "id": "a002_281_0614",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Beartic"
+        },
+        {
+            "id": "a002_281_0615",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cryogonal"
+        },
+        {
+            "id": "a002_281_0616",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shelmet"
+        },
+        {
+            "id": "a002_281_0617",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Accelgor"
+        },
+        {
+            "id": "a002_281_0618",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stunfisk"
+        },
+        {
+            "id": "a002_281_0619",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mienfoo"
+        },
+        {
+            "id": "a002_281_0620",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mienshao"
+        },
+        {
+            "id": "a002_281_0621",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Druddigon"
+        },
+        {
+            "id": "a002_281_0622",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Golett "
+        },
+        {
+            "id": "a002_281_0623",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Golurk"
+        },
+        {
+            "id": "a002_281_0624",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pawniard"
+        },
+        {
+            "id": "a002_281_0625",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bisharp"
+        },
+        {
+            "id": "a002_281_0626",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bouffalant"
+        },
+        {
+            "id": "a002_281_0627",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rufflet"
+        },
+        {
+            "id": "a002_281_0628",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Braviary"
+        },
+        {
+            "id": "a002_281_0629",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vullaby"
+        },
+        {
+            "id": "a002_281_0630",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mandibuzz"
+        },
+        {
+            "id": "a002_281_0631",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heatmor"
+        },
+        {
+            "id": "a002_281_0632",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Durant"
+        },
+        {
+            "id": "a002_281_0633",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Deino"
+        },
+        {
+            "id": "a002_281_0634",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zweilous"
+        },
+        {
+            "id": "a002_281_0635",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hydreigon"
+        },
+        {
+            "id": "a002_281_0636",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Larvesta"
+        },
+        {
+            "id": "a002_281_0637",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Volcarona"
+        },
+        {
+            "id": "a002_281_0638",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cobalion"
+        },
+        {
+            "id": "a002_281_0639",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Terrakion"
+        },
+        {
+            "id": "a002_281_0640",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Virizion"
+        },
+        {
+            "id": "a002_281_0641",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tornadus "
+        },
+        {
+            "id": "a002_281_0642",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Thundurus"
+        },
+        {
+            "id": "a002_281_0643",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Reshiram"
+        },
+        {
+            "id": "a002_281_0644",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zekrom"
+        },
+        {
+            "id": "a002_281_0645",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Landorus"
+        },
+        {
+            "id": "a002_281_0646",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kyurem"
+        },
+        {
+            "id": "a002_281_0647",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Keldeo"
+        },
+        {
+            "id": "a002_281_0648",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Meloetta"
+        },
+        {
+            "id": "a002_281_0649",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Genesect"
+        },
+        {
+            "id": "a002_281_0650",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Egg"
+        },
+        {
+            "id": "a002_281_0651",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Egg"
+        }
+    ]
+}

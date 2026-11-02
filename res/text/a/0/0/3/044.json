@@ -1,0 +1,139 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_044_0000",
+            "en_US": [
+                "Welcome to the Royal Unova!{VAR BE01}\n",
+                "The scenery is exhilarating,\n",
+                "the battles are exciting.{VAR BE01}\n",
+                "The ticket is $1,000.\n",
+                "Would you like to get on board?"
+            ]
+        },
+        {
+            "id": "a003_044_0001",
+            "en_US": [
+                "The Royal Unova leaves once a day,\n",
+                "only in the evening.{VAR BE00}\n",
+                "It is a cruiser-type passenger ship.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_044_0002",
+            "en_US": [
+                "The Royal Unova operates only in\n",
+                "the evening.{VAR BE00}\n",
+                "Please come back again."
+            ]
+        },
+        {
+            "id": "a003_044_0003",
+            "en_US": [
+                "I'm sorry, you don't have enough money.\n",
+                "Please come back again."
+            ]
+        },
+        {
+            "id": "a003_044_0004",
+            "en_US": [
+                "The ticket is $1,000.\n",
+                "Would you like to get on board?"
+            ]
+        },
+        {
+            "id": "a003_044_0005",
+            "en_US": [
+                "The ship goes under a big bridge called\n",
+                "Skyarrow Bridge in the Unova region,{VAR BE00}\n",
+                "then turns around at Marvelous Bridge{VAR BE00}\n",
+                "and returns to Castelia City.{VAR BE01}\n",
+                "We'll let you know when it's time\n",
+                "to leave by blowing a whistle five times.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_044_0006",
+            "en_US": [
+                "From the deck of the world-famous Royal\n",
+                "Unova, you can enjoy a spectacular view.{VAR BE01}\n",
+                "And the passenger cabins are full of\n",
+                "Trainers who love to battle.{VAR BE01}\n",
+                "Please enjoy both the view and\n",
+                "the battles!{VAR BE01}\n",
+                "Note that as C-Gears may affect radio\n",
+                "signals or instruments in the ship,{VAR BE00}\n",
+                "we ask that you refrain from using them.{VAR BE00}\n",
+                "Thank you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_044_0007",
+            "en_US": [
+                "The power of the C-Gear will be turned\n",
+                "off. Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_044_0008",
+            "en_US": [
+                "We are leaving the port shortly.\n",
+                "Bon voyage!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_044_0009",
+            "en_US": [
+                "Certainly.\n",
+                "Please come back again."
+            ]
+        },
+        {
+            "id": "a003_044_0010",
+            "en_US": [
+                "Thank you for sailing with us on the\n",
+                "Royal Unova.{VAR BE01}\n",
+                "Have a nice day!"
+            ]
+        },
+        {
+            "id": "a003_044_0011",
+            "en_US": [
+                "We are closed for the day.\n",
+                "Please come again tomorrow."
+            ]
+        },
+        {
+            "id": "a003_044_0012",
+            "en_US": [
+                "Congratulations!{VAR BE01}\n",
+                "You've defeated all the Trainers\n",
+                "on the ship!{VAR BE01}\n",
+                "Please accept this prize.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_044_0013",
+            "en_US": [
+                "The Royal Unova is now in preparation.{VAR BE01}\n",
+                "We are working very hard to ready the\n",
+                "ship for the best Pokémon Trainers."
+            ]
+        },
+        {
+            "id": "a003_044_0014",
+            "en_US": "Get On Board",
+            "flags": 219
+        },
+        {
+            "id": "a003_044_0015",
+            "en_US": "About the Ship",
+            "flags": 219
+        },
+        {
+            "id": "a003_044_0016",
+            "en_US": "Cancel",
+            "flags": 219
+        }
+    ]
+}

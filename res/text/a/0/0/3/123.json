@@ -1,0 +1,43 @@
+{
+    "flags": 224,
+    "pad": "8a8a",
+    "messages": [
+        {
+            "id": "a003_123_0000",
+            "en_US": [
+                "Oh! Member of Team Rocket I was,\n",
+                "long time gone!{VAR BE01}\n",
+                "But Team Rocket bye-bye a go-go.\n",
+                "I my region went home.{VAR BE01}\n",
+                "Make new Team Rocket, I did!\n",
+                "So myself I pledged!{VAR BE01}\n",
+                "But now I married am. Now for\n",
+                "Team Rocket there is no time by me.{VAR BE01}\n",
+                "But happy family is big hooray!"
+            ]
+        },
+        {
+            "id": "a003_123_0001",
+            "en_US": [
+                "My dad used to have a cool job in a\n",
+                "faraway region!"
+            ]
+        },
+        {
+            "id": "a003_123_0002",
+            "en_US": [
+                "Welcome!{VAR BE01}\n",
+                "Hey! I have a lot of souvenirs that my\n",
+                "sweetie's old coworker gave me.{VAR BE01}\n",
+                "I don't mind giving you one.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_123_0003",
+            "en_US": [
+                "I heard that the RageCandyBar is the\n",
+                "favorite of my sweetie's old coworker."
+            ]
+        }
+    ]
+}

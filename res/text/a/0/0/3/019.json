@@ -1,0 +1,37 @@
+{
+    "flags": 224,
+    "pad": "dcdc",
+    "messages": [
+        {
+            "id": "a003_019_0000",
+            "en_US": [
+                "I've trained only Fire-type Pokémon,\n",
+                "'cause they're my favorites!{VAR BE01}\n",
+                "But they had no chance in a battle\n",
+                "against Water-type Pokémon...{VAR BE01}\n",
+                "Sigh... Maybe I should try to train\n",
+                "Pokémon of other types."
+            ]
+        },
+        {
+            "id": "a003_019_0001",
+            "en_US": [
+                "It is quite hard to train six Pokémon at\n",
+                "once, so I've heard some Trainers focus{VAR BE00}\n",
+                "on training three Pokémon at a time."
+            ]
+        },
+        {
+            "id": "a003_019_0002",
+            "en_US": "Skreee!"
+        },
+        {
+            "id": "a003_019_0003",
+            "en_US": "Fwee lee lee... ♪"
+        },
+        {
+            "id": "a003_019_0004",
+            "en_US": "Fwee-oosh!"
+        }
+    ]
+}

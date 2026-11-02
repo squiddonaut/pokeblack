@@ -1,0 +1,148 @@
+{
+    "flags": 224,
+    "pad": "0e0e",
+    "messages": [
+        {
+            "id": "a003_437_0000",
+            "en_US": [
+                "Professor Juniper: This is a\n",
+                "Pokémon Center!{VAR BE01}\n",
+                "Don't you feel better as soon as you\n",
+                "step through the door?{VAR BE01}\n",
+                "OK, let's start your tour!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0001",
+            "en_US": "Bianca: Ooh, wait for me!{VAR BE01}"
+        },
+        {
+            "id": "a003_437_0002",
+            "en_US": [
+                "Professor Juniper: A Pokémon Center is a\n",
+                "truly incredible place!{VAR BE01}\n",
+                "Do you know why?\n",
+                "Because your Pokémon can be healed!{VAR BE00}\n",
+                "And, what's more, it's absolutely free!{VAR BE01}\n",
+                "A Pokémon Center is a Trainer's\n",
+                "best friend!{VAR BE01}\n",
+                "Here, {VAR 0100 0000}, give it a try."
+            ]
+        },
+        {
+            "id": "a003_437_0003",
+            "en_US": [
+                "Professor Juniper: Hey, {VAR 0100 0000}.\n",
+                "Where are you off to?{VAR BE01}\n",
+                "Humor me and talk to the lady at the\n",
+                "counter. Let her take your Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0004",
+            "en_US": [
+                "Professor Juniper: You should be talking\n",
+                "to the lady at the counter, not to me..."
+            ]
+        },
+        {
+            "id": "a003_437_0005",
+            "en_US": [
+                "Bianca: All you need to do is give her\n",
+                "your Pokémon, {VAR 0100 0000}."
+            ]
+        },
+        {
+            "id": "a003_437_0006",
+            "en_US": [
+                "Professor Juniper: OK. Now that your\n",
+                "Pokémon have rested, I'll show you how{VAR BE00}\n",
+                "to use the PC at a Pokémon Center.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0007",
+            "en_US": [
+                "Professor Juniper: This is the PC.\n",
+                "It's free for any Trainer to use.{VAR BE01}\n",
+                "You can store Pokémon in your PC Boxes\n",
+                "or select Pokémon stored in your{VAR BE00}\n",
+                "PC Boxes to take along with you.{VAR BE01}\n",
+                "In addition, if you catch a new Pokémon\n",
+                "while you have six Pokémon traveling{VAR BE00}\n",
+                "with you, the Pokémon you just caught is{VAR BE00}\n",
+                "sent automatically to the PC network!{VAR BE01}\n",
+                "Surprising, isn't it? Amazing, even.\n",
+                "Here's something else that's cool.{VAR BE01}\n",
+                "If you select my PC, I'll evaluate the\n",
+                "progress you've made on your Pokédex!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0008",
+            "en_US": [
+                "Bianca: Professor...{VAR BE01}\n",
+                "It says “Someone's PC\"\n",
+                "on the screen. Who is Someone?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0009",
+            "en_US": [
+                "Professor Juniper: Very good, Bianca.\n",
+                "That's a great observation!{VAR BE01}\n",
+                "Good question, and I'd like to say more,\n",
+                "but for now, just ignore that and{VAR BE00}\n",
+                "go ahead and use the PC.{VAR BE01}\n",
+                "“Someone\" is the person who made the\n",
+                "Pokémon Storage System.{VAR BE01}\n",
+                "...Someone I'm sure you'll meet someday!\n",
+                "OK, let's move on!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0010",
+            "en_US": [
+                "Professor Juniper: Now, this is the\n",
+                "Poké Mart.{VAR BE01}\n",
+                "This is the place to buy useful items and\n",
+                "sell the ones you don't need anymore!{VAR BE01}\n",
+                "That gentleman over there will\n",
+                "help you with a smile!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0011",
+            "en_US": [
+                "Professor Juniper: So, let's\n",
+                "wrap this up.{VAR BE01}\n",
+                "I've given you the basics of being\n",
+                "a Trainer!{VAR BE01}\n",
+                "I'm going to head back to Nuvema Town.{VAR BE01}\n",
+                "One final thing...{VAR BE01}\n",
+                "When you get to Striaton City, go and\n",
+                "meet an inventor named Fennel.{VAR BE01}\n",
+                "She's a friend of mine from long ago, and\n",
+                "I'm sure she'll help you on your way!{VAR BE01}\n",
+                "Best of luck! I hope that your journeys\n",
+                "prove to be the adventure of a lifetime!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0012",
+            "en_US": [
+                "Bianca: Ooh! What should I buy?{VAR BE01}\n",
+                "Potions and Poké Balls are definitely\n",
+                "important. Ummm...thinking...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_437_0013",
+            "en_US": [
+                "Be sure to save what's happened up\n",
+                "to this point before you forget.{VAR BE00}\n",
+                "Then you can take a break."
+            ]
+        }
+    ]
+}

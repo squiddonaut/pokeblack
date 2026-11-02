@@ -1,0 +1,37 @@
+{
+    "flags": 224,
+    "pad": "2e2e",
+    "messages": [
+        {
+            "id": "a003_091_0000",
+            "en_US": [
+                "Pokémon tennis is wonderful!{VAR BE01}\n",
+                "Players are never alone.\n",
+                "Their Pokémon are always with them!"
+            ]
+        },
+        {
+            "id": "a003_091_0001",
+            "en_US": [
+                "Tennis is all about rackets and balls.\n",
+                "There's nothing profound about it."
+            ]
+        },
+        {
+            "id": "a003_091_0002",
+            "en_US": [
+                "I am a ball boy who collects\n",
+                "tennis balls.{VAR BE01}\n",
+                "You are a Pokémon Trainer who\n",
+                "collects Pokémon."
+            ]
+        },
+        {
+            "id": "a003_091_0003",
+            "en_US": [
+                "To become ball boys,\n",
+                "we gotta practice."
+            ]
+        }
+    ]
+}

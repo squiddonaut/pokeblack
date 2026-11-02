@@ -1,0 +1,237 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_128_0000",
+            "en_US": [
+                "Drayden: I'll explain.{VAR BE01}\n",
+                "What you are holding is the Dark Stone.{VAR BE01}\n",
+                "Zekrom, who will likely awaken from the\n",
+                "Dark Stone, and Reshiram, who is already{VAR BE00}\n",
+                "awake, were once the same Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0001",
+            "en_US": [
+                "Drayden: I'll explain.{VAR BE01}\n",
+                "What you are holding is the Light Stone.{VAR BE01}\n",
+                "Reshiram, who will likely awaken from the\n",
+                "Light Stone, and Zekrom, who is already{VAR BE00}\n",
+                "awake, were once the same Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0002",
+            "en_US": [
+                "Iris: That single Dragon Pokémon,\n",
+                "along with twin heroes,{VAR BE00}\n",
+                "brought a new region into being.{VAR BE01}\n",
+                "And people and Pokémon had happy lives!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0003",
+            "en_US": [
+                "Drayden: One day, however...{VAR BE01}\n",
+                "The twin heroes, the older brother\n",
+                "who sought the truth, and the{VAR BE00}\n",
+                "younger brother who sought ideals,{VAR BE00}\n",
+                "began to argue about how to decide{VAR BE00}\n",
+                "which one of them was right...{VAR BE01}\n",
+                "The single Dragon-type Pokémon\n",
+                "that had been with them all that time{VAR BE00}\n",
+                "split its body into two.{VAR BE01}\n",
+                "One sided with the older brother,\n",
+                "and the other with the younger brother.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0004",
+            "en_US": [
+                "Drayden: One day, however...{VAR BE01}\n",
+                "The twin heroes, the older brother\n",
+                "who sought the truth, and the{VAR BE00}\n",
+                "younger brother who sought ideals,{VAR BE00}\n",
+                "began to argue about how to decide{VAR BE00}\n",
+                "which one of them was right...{VAR BE01}\n",
+                "The single Dragon-type Pokémon\n",
+                "that had been with them all that time{VAR BE00}\n",
+                "split its body into two.{VAR BE01}\n",
+                "One sided with the older brother,\n",
+                "and the other with the younger brother.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0005",
+            "en_US": [
+                "Iris: In its pursuit of truth, the white\n",
+                "Dragon-type Pokémon sought to usher{VAR BE00}\n",
+                "in a new and better world...{VAR BE01}\n",
+                "Its name was Reshiram.{VAR BE01}\n",
+                "And the other, the black Dragon-type\n",
+                "Pokémon, sought ideals and{VAR BE00}\n",
+                "to usher in a new world--a world of hope.{VAR BE01}\n",
+                "Its name was Zekrom.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0006",
+            "en_US": [
+                "Iris: In its pursuit of ideals, the black\n",
+                "Dragon-type Pokémon sought to usher{VAR BE00}\n",
+                "in a new and better world...{VAR BE01}\n",
+                "Its name was Zekrom.{VAR BE01}\n",
+                "And the other, the white Dragon-type\n",
+                "Pokémon, sought truth, and to{VAR BE00}\n",
+                "usher in a new world--a world of good...{VAR BE01}\n",
+                "Its name was Reshiram.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0007",
+            "en_US": [
+                "Drayden: Because the two of them\n",
+                "were once the same entity,{VAR BE00}\n",
+                "their battle raged endlessly{VAR BE00}\n",
+                "and neither one could be{VAR BE00}\n",
+                "declared the winner.{VAR BE00}\n",
+                "They simply exhausted themselves.{VAR BE01}\n",
+                "The twin heroes proclaimed that there\n",
+                "was no one side that was right{VAR BE00}\n",
+                "and ceased the conflict.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0008",
+            "en_US": [
+                "Iris: But, but...{VAR BE01}\n",
+                "The two heroes' sons started the\n",
+                "battle again! And an instant later,{VAR BE00}\n",
+                "Reshiram and Zekrom destroyed{VAR BE00}\n",
+                "Unova with fire and lightning!{VAR BE01}\n",
+                "Then, they disappeared!{VAR BE01}\n",
+                "But, but...\n",
+                "If people work with Pokémon{VAR BE00}\n",
+                "in the right way, we don't have to worry{VAR BE00}\n",
+                "anymore about the world being destroyed.{VAR BE01}\n",
+                "I mean, Reshiram and Zekrom\n",
+                "worked hard for everyone{VAR BE00}\n",
+                "and made a new region!{VAR BE01}\n",
+                "So, it should be all right, I think.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0009",
+            "en_US": [
+                "Iris: But, but...{VAR BE01}\n",
+                "The two heroes' sons started the \n",
+                "battle again! And an instant later,{VAR BE00}\n",
+                "Zekrom and Reshiram destroyed{VAR BE00}\n",
+                "Unova with lightning and fire!{VAR BE01}\n",
+                "Then, they disappeared!{VAR BE01}\n",
+                "But, but...\n",
+                "If people work with Pokémon{VAR BE00}\n",
+                "in the right way, we don't have to worry{VAR BE00}\n",
+                "anymore about the world being destroyed.{VAR BE01}\n",
+                "I mean, Zekrom and Reshiram\n",
+                "worked hard for everyone{VAR BE00}\n",
+                "and made a new region!{VAR BE01}\n",
+                "So, it should be all right, I think.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0010",
+            "en_US": [
+                "Drayden: True.\n",
+                "Pokémon cannot speak.{VAR BE01}\n",
+                "People may hurt Pokémon even more by\n",
+                "imposing their selfish thoughts on them.{VAR BE01}\n",
+                "But, no matter what, Pokémon and people\n",
+                "believe in each other, need each other,{VAR BE00}\n",
+                "and will continue to live together...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0011",
+            "en_US": [
+                "Iris: Yeah!{VAR BE01}\n",
+                "So I'm never gonna forgive Team Plasma\n",
+                "for trying to separate Pokémon and us!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0012",
+            "en_US": [
+                "Drayden: Sorry.\n",
+                "We got a little off topic at the end.{VAR BE01}\n",
+                "That is everything we know.{VAR BE01}\n",
+                "Unfortunately, we don't know how\n",
+                "to wake up the legendary Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0013",
+            "en_US": [
+                "Drayden: I made a promise to Alder.{VAR BE01}\n",
+                "You must win the Gym Badge from\n",
+                "the Opelucid Pokémon Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0014",
+            "en_US": [
+                "Iris, you go and be {VAR 0100 0000}'s\n",
+                "opponent at the Pokémon Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0015",
+            "en_US": [
+                "Iris: Yay!{VAR BE01}\n",
+                "Look out! I'm really, really strong,\n",
+                "just like Drayden!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0016",
+            "en_US": [
+                "{VAR 0100 0000}, I'll be waiting for\n",
+                "your challenge at the Pokémon Gym!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_128_0017",
+            "en_US": [
+                "Drayden: What will it accomplish\n",
+                "to separate the worlds of people{VAR BE00}\n",
+                "and Pokémon?{VAR BE01}\n",
+                "The way we live now, with different beings\n",
+                "understanding and forgiving each other,{VAR BE00}\n",
+                "is much richer. That's my belief."
+            ]
+        },
+        {
+            "id": "a003_128_0018",
+            "en_US": [
+                "Iris: Everyone, people and Pokémon can\n",
+                "get along and be happy. That's awesome!"
+            ]
+        },
+        {
+            "id": "a003_128_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_128_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_128_0021",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

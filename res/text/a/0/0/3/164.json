@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "2828",
+    "messages": [
+        {
+            "id": "a003_164_0000",
+            "en_US": "Aeepraaa!"
+        },
+        {
+            "id": "a003_164_0001",
+            "en_US": [
+                "The Pokémon ran away\n",
+                "deep into the forest..."
+            ]
+        }
+    ]
+}

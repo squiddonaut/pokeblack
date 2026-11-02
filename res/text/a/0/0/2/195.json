@@ -1,0 +1,37 @@
+{
+    "flags": 229,
+    "pad": "aaaa",
+    "messages": [
+        {
+            "id": "a002_195_0000",
+            "en_US": [
+                "Hello there!{VAR BE01}\n",
+                "{VAR 0100 0000},\n",
+                "do you have a second?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_195_0001",
+            "en_US": [
+                "Professor Juniper,\n",
+                "do you need something?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_195_0002",
+            "en_US": [
+                "I called Bianca too, but I guess\n",
+                "she didn't hear the call.{VAR BE01}\n",
+                "I wonder what she's caught up in.\n",
+                "Well, I suppose I'll just have{VAR BE00}\n",
+                "to call her again later.{VAR BE01}\n",
+                "OK! I'll be waiting for you two\n",
+                "in front of the gate to Nimbasa City!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_195_0003",
+            "en_US": "...Um, hello?!{VAR BE01}"
+        }
+    ]
+}

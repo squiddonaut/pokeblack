@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "pad": "7e7e",
+    "messages": [
+        {
+            "id": "a003_103_0000",
+            "en_US": [
+                "I'm sure it was tough dealing with all\n",
+                "that right after you arrived here.{VAR BE01}\n",
+                "For now, I'll just give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_103_0001",
+            "en_US": [
+                "The Gym Leader Clay uses\n",
+                "Ground-type Pokémon!{VAR BE01}\n",
+                "Well, just between you and me,\n",
+                "Ground-type Pokémon aren't good against{VAR BE00}\n",
+                "Water-type attacks.{VAR BE01}\n",
+                "Kinda makes me wonder why Clay is living\n",
+                "next to water."
+            ]
+        },
+        {
+            "id": "a003_103_0002",
+            "en_US": [
+                "Every now and again, I hope you look at\n",
+                "the Gym Badge you won here and{VAR BE00}\n",
+                "remember the battle!"
+            ]
+        },
+        {
+            "id": "a003_103_0003",
+            "en_US": [
+                "Welcome to the Driftveil Pokémon Gym!{VAR BE01}\n",
+                "In this Gym, elevators are provided for\n",
+                "your use."
+            ]
+        },
+        {
+            "id": "a003_103_0004",
+            "en_US": "This elevator can't go any higher!"
+        },
+        {
+            "id": "a003_103_0005",
+            "en_US": [
+                "Driftveil Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Clay\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_103_0006",
+            "en_US": [
+                "Driftveil Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Clay\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_103_0007",
+            "en_US": [
+                "Driftveil Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Clay\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

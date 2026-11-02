@@ -1,0 +1,2140 @@
+{
+    "flags": 0,
+    "pad": "dede",
+    "messages": [
+        {
+            "id": "a002_005_0000",
+            "en_US": "BATTLE VIDEOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0001",
+            "en_US": "BATTLE SUBWAY",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0002",
+            "en_US": "RANDOM MATCHUP",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0003",
+            "en_US": "CANCEL",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0004",
+            "en_US": "QUIT",
+            "flags": 54
+        },
+        {
+            "id": "a002_005_0005",
+            "en_US": "MY VIDEO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0006",
+            "en_US": "OTHER VIDEOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0007",
+            "en_US": "DELETE VIDEOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0008",
+            "en_US": "{VAR BD02}{VAR 0100 0000}'S VIDEO",
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0009",
+            "en_US": "EMPTY",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0010",
+            "en_US": "{VAR 0203 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0011",
+            "en_US": "Battle",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0012",
+            "en_US": "{VAR BD02}Video no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002}",
+            "flags": 198
+        },
+        {
+            "id": "a002_005_0013",
+            "en_US": "{VAR BD02}Video no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002} ★",
+            "flags": 198
+        },
+        {
+            "id": "a002_005_0014",
+            "en_US": "{VAR BD02}{VAR 0100 0000}'S PROFILE",
+            "flags": 144
+        },
+        {
+            "id": "a002_005_0015",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0016",
+            "en_US": "{VAR BD02}Born in {VAR 0180 0000}",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0017",
+            "en_US": "{VAR BD02}Location",
+            "flags": 96
+        },
+        {
+            "id": "a002_005_0018",
+            "en_US": "{VAR BD02}Trainer's quote",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0019",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0020",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0021",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0022",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0023",
+            "en_US": "{VAR 0124 0000}",
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0024",
+            "en_US": "{VAR 0125 0000}",
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0025",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0026",
+            "en_US": "{VAR 0100 0000}'S VIDEO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0027",
+            "en_US": "DELETE MY VIDEO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0028",
+            "en_US": "DELETE OTHER VIDEOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0029",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0030",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0031",
+            "en_US": "SEARCH BY RANKING",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0032",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0033",
+            "en_US": "NEWEST 30",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0034",
+            "en_US": "SEARCH",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0035",
+            "en_US": "SEARCH BY NO.",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0036",
+            "en_US": "SEARCH BY FACILITY",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0037",
+            "en_US": "SEARCH BY POKÉMON",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0038",
+            "en_US": "SEARCH YOUR LOCATION",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0039",
+            "en_US": "LINK BATTLES",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0040",
+            "en_US": "BATTLE SUBWAY",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0041",
+            "en_US": "SEND PHOTO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0042",
+            "en_US": "VIEW PHOTOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0043",
+            "en_US": "SEND",
+            "flags": 54
+        },
+        {
+            "id": "a002_005_0044",
+            "en_US": "Please choose the Pokémon you want to see.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0045",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0046",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0047",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0048",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0049",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0050",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0051",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0052",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0053",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0054",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0055",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0056",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0057",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0058",
+            "en_US": "ABC",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0059",
+            "en_US": "DEF",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0060",
+            "en_US": "GHI",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0061",
+            "en_US": "JKL",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0062",
+            "en_US": "MNO",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0063",
+            "en_US": "PQR",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0064",
+            "en_US": "STU",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0065",
+            "en_US": "VWX",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0066",
+            "en_US": "YZ",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0067",
+            "en_US": "",
+            "flags": 18
+        },
+        {
+            "id": "a002_005_0068",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0069",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0070",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0071",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0072",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0073",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0074",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0075",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0076",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0077",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0078",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0079",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0080",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0081",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0082",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0083",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0084",
+            "en_US": "SAVE",
+            "flags": 54
+        },
+        {
+            "id": "a002_005_0085",
+            "en_US": [
+                "VIEW BATTLE\n",
+                "VIDEO"
+            ],
+            "flags": 80
+        },
+        {
+            "id": "a002_005_0086",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0087",
+            "en_US": "NEWEST 30 BATTLE VIDEOS",
+            "flags": 208
+        },
+        {
+            "id": "a002_005_0088",
+            "en_US": [
+                "TOP-RANKED BATTLE VIDEOS\n",
+                "LINK BATTLE"
+            ],
+            "flags": 208
+        },
+        {
+            "id": "a002_005_0089",
+            "en_US": [
+                "TOP-RANKED BATTLE VIDEOS\n",
+                "BATTLE SUBWAY"
+            ],
+            "flags": 208
+        },
+        {
+            "id": "a002_005_0090",
+            "en_US": [
+                "LIST OF BATTLE VIDEOS FROM\n",
+                "SEARCH RESULTS"
+            ],
+            "flags": 208
+        },
+        {
+            "id": "a002_005_0091",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0092",
+            "en_US": [
+                "Where would you like to save\n",
+                "{VAR 0100 0000}'s Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0093",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0094",
+            "en_US": [
+                "Is it OK to delete\n",
+                "{VAR 0100 0000}'s Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0095",
+            "en_US": "VIEW BATTLE VIDEOS",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0096",
+            "en_US": "SEND BATTLE VIDEO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0097",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0098",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0099",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0100",
+            "en_US": "SEARCH BY FACILITY",
+            "flags": 136
+        },
+        {
+            "id": "a002_005_0101",
+            "en_US": "SEARCH BY POKÉMON",
+            "flags": 136
+        },
+        {
+            "id": "a002_005_0102",
+            "en_US": "SEARCH YOUR LOCATION",
+            "flags": 136
+        },
+        {
+            "id": "a002_005_0103",
+            "en_US": "OK!",
+            "flags": 54
+        },
+        {
+            "id": "a002_005_0104",
+            "en_US": "Please enter the Video Number.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0105",
+            "en_US": "Please choose the facility.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0106",
+            "en_US": "Please choose the Pokémon.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0107",
+            "en_US": "Please enter the search criteria.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0108",
+            "en_US": "You haven't set any search criteria.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0109",
+            "en_US": "Loading Battle Video...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0110",
+            "en_US": "There is no matching Battle Video...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0111",
+            "en_US": "Sending the Battle Video...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0112",
+            "en_US": "The Battle Video has been sent!",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0113",
+            "en_US": "{VAR BD02}VIEW PROFILE",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0114",
+            "en_US": "{VAR BD02}CLOSE PROFILE",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0115",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0116",
+            "en_US": "Please set the search criteria.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0117",
+            "en_US": "Undefined",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0118",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0119",
+            "en_US": [
+                "The same Battle Video can't be sent again.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0120",
+            "en_US": "You have not registered your location.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0121",
+            "en_US": "There is no Battle Video to send.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0122",
+            "en_US": "{VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_005_0123",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0124",
+            "en_US": "BATTLE SUBWAY",
+            "flags": 96
+        },
+        {
+            "id": "a002_005_0125",
+            "en_US": "",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0126",
+            "en_US": "{VAR BD02}SINGLE TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0127",
+            "en_US": "{VAR BD02}DOUBLE TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0128",
+            "en_US": "{VAR BD02}MULTI TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0129",
+            "en_US": "{VAR BD02}Wi-Fi TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0130",
+            "en_US": "{VAR BD02}BATTLE SUBWAY",
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0131",
+            "en_US": "{VAR BD02}SUPER SINGLE TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0132",
+            "en_US": "{VAR BD02}SUPER DOUBLE TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0133",
+            "en_US": "{VAR BD02}SUPER MULTI TRAIN",
+            "flags": 190
+        },
+        {
+            "id": "a002_005_0134",
+            "en_US": [
+                "Please select the Record\n",
+                "you want to view."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0135",
+            "en_US": "PREVIOUS:",
+            "flags": 56
+        },
+        {
+            "id": "a002_005_0136",
+            "en_US": "RECORD:",
+            "flags": 56
+        },
+        {
+            "id": "a002_005_0137",
+            "en_US": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 56
+        },
+        {
+            "id": "a002_005_0138",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0139",
+            "en_US": "{VAR BD03 0000} Wins",
+            "flags": 56
+        },
+        {
+            "id": "a002_005_0140",
+            "en_US": "Multi with Trainer",
+            "flags": 120
+        },
+        {
+            "id": "a002_005_0141",
+            "en_US": "Multi with friend",
+            "flags": 120
+        },
+        {
+            "id": "a002_005_0142",
+            "en_US": "RANK",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0143",
+            "en_US": "Current Record",
+            "flags": 104
+        },
+        {
+            "id": "a002_005_0144",
+            "en_US": "{VAR BD02}Wi-Fi Train Record",
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0145",
+            "en_US": "CURRENT:",
+            "flags": 56
+        },
+        {
+            "id": "a002_005_0146",
+            "en_US": "{VAR BD02}{VAR 0100 0000}'S RATING",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0147",
+            "en_US": "{VAR BD02}RATING MODE RECORD",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0148",
+            "en_US": "{VAR BD02}FREE MODE RECORD",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0149",
+            "en_US": "{VAR BD02}Win",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0150",
+            "en_US": "{VAR BD02}Lose",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0151",
+            "en_US": "{VAR BD03 0000}Single:",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0152",
+            "en_US": "{VAR BD03 0000}Double:",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0153",
+            "en_US": "{VAR BD03 0000}Triple:",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0154",
+            "en_US": "{VAR BD03 0000}Rotation:",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0155",
+            "en_US": "{VAR BD03 0000}Launcher:",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0156",
+            "en_US": "{VAR BD03 0000}{VAR 0203 0000}",
+            "flags": 88
+        },
+        {
+            "id": "a002_005_0157",
+            "en_US": "{VAR BD03 0000}{VAR 0204 0000}",
+            "flags": 40
+        },
+        {
+            "id": "a002_005_0158",
+            "en_US": "{VAR BD03 0000}Rating",
+            "flags": 72
+        },
+        {
+            "id": "a002_005_0159",
+            "en_US": "{VAR BD02}YES",
+            "flags": 64
+        },
+        {
+            "id": "a002_005_0160",
+            "en_US": "{VAR BD02}NO",
+            "flags": 64
+        },
+        {
+            "id": "a002_005_0161",
+            "en_US": "YES",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0162",
+            "en_US": "NO",
+            "flags": 118
+        },
+        {
+            "id": "a002_005_0163",
+            "en_US": [
+                "Is it OK to disconnect from\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0164",
+            "en_US": [
+                "Colosseum Single,\n",
+                "No Restrictions"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0165",
+            "en_US": [
+                "Colosseum Single,\n",
+                "Flat"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0166",
+            "en_US": [
+                "Colosseum Single,\n",
+                "No Restrictions, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0167",
+            "en_US": [
+                "Colosseum Single,\n",
+                "Flat, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0168",
+            "en_US": [
+                "Colosseum Double,\n",
+                "No Restrictions"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0169",
+            "en_US": [
+                "Colosseum Double,\n",
+                "Flat"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0170",
+            "en_US": [
+                "Colosseum Double,\n",
+                "No Restrictions, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0171",
+            "en_US": [
+                "Colosseum Double,\n",
+                "Flat, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0172",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "No Restrictions"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0173",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "Flat"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0174",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "No Restrictions, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0175",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "Flat, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0176",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "No Restrictions"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0177",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "Flat"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0178",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "No Restrictions, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0179",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "Flat, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0180",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "No Restrictions"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0181",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "Flat"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0182",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "No Restrictions, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0183",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "Flat, Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0184",
+            "en_US": [
+                "Battle Subway,\n",
+                "Single"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0185",
+            "en_US": [
+                "Battle Subway,\n",
+                "Double"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0186",
+            "en_US": [
+                "Battle Subway,\n",
+                "Multi"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0187",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Single"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0188",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Double"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0189",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Triple"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0190",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Rotation"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0191",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Launcher Battle"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0192",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Single"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0193",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Double"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0194",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Triple"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0195",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Rotation"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0196",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Launcher Battle"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0197",
+            "en_US": [
+                "Competition, Single\n",
+                "Launcher Off"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0198",
+            "en_US": [
+                "Competition, Single\n",
+                "Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0199",
+            "en_US": [
+                "Competition, Double\n",
+                "Launcher Off"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0200",
+            "en_US": [
+                "Competition, Double\n",
+                "Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0201",
+            "en_US": [
+                "Competition, Triple\n",
+                "Launcher Off"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0202",
+            "en_US": [
+                "Competition, Triple\n",
+                "Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0203",
+            "en_US": [
+                "Competition, Rotation\n",
+                "Launcher Off"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0204",
+            "en_US": [
+                "Competition, Rotation\n",
+                "Launcher On"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_005_0205",
+            "en_US": [
+                "01: Colosseum, Single\n",
+                "Launcher Off"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0206",
+            "en_US": [
+                "02: Colosseum, Single\n",
+                "Launcher On"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0207",
+            "en_US": [
+                "03: Colosseum, Double\n",
+                "Launcher Off"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0208",
+            "en_US": [
+                "04: Colosseum, Double\n",
+                "Launcher On"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0209",
+            "en_US": [
+                "05: Colosseum, Triple\n",
+                "Launcher Off"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0210",
+            "en_US": [
+                "06: Colosseum, Triple\n",
+                "Launcher On"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0211",
+            "en_US": [
+                "07: Colosseum, Rotation\n",
+                "Launcher Off"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0212",
+            "en_US": [
+                "08: Colosseum, Rotation\n",
+                "Launcher On"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0213",
+            "en_US": [
+                "09: Colosseum, Multi\n",
+                "Launcher Off"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0214",
+            "en_US": [
+                "10: Colosseum, Multi\n",
+                "Launcher On"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0215",
+            "en_US": [
+                "11: Battle Subway\n",
+                "Single"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0216",
+            "en_US": [
+                "12: Battle Subway\n",
+                "Double"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0217",
+            "en_US": [
+                "13: Battle Subway\n",
+                "Multi"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0218",
+            "en_US": [
+                "14: Random Matchup\n",
+                "Single"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0219",
+            "en_US": [
+                "15: Random Matchup\n",
+                "Double"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0220",
+            "en_US": [
+                "16: Random Matchup\n",
+                "Triple"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0221",
+            "en_US": [
+                "17: Random Matchup\n",
+                "Rotation"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0222",
+            "en_US": [
+                "18: Random Matchup\n",
+                "Launcher Battle"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0223",
+            "en_US": "19: Battle Competition",
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0224",
+            "en_US": [
+                "20: Battle Castle\n",
+                "Multi"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0225",
+            "en_US": [
+                "21: Battle Arcade\n",
+                "Single"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0226",
+            "en_US": [
+                "22: Battle Arcade\n",
+                "Double"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0227",
+            "en_US": [
+                "23: Battle Arcade\n",
+                "Multi"
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_005_0228",
+            "en_US": "{VAR BD02}TAP HERE!",
+            "flags": 128
+        },
+        {
+            "id": "a002_005_0229",
+            "en_US": [
+                "Is it OK to disconnect from\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0230",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0231",
+            "en_US": [
+                "Authentication error.\n",
+                "Unable to connect."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0232",
+            "en_US": [
+                "This data is already registered.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0233",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the Musical Photo."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0234",
+            "en_US": [
+                "There appears to be a problem with the\n",
+                "Pokémon in the Musical Photo."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0235",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the Profile data."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0236",
+            "en_US": [
+                "An error occurred.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0237",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0238",
+            "en_US": [
+                "Authentication error.\n",
+                "Unable to connect."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0239",
+            "en_US": [
+                "There appears to be a problem with the\n",
+                "chosen Pokémon."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0240",
+            "en_US": [
+                "An error occurred.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0241",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0242",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0243",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0244",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0245",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0246",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0247",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0248",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0249",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0250",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0251",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0252",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0253",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0254",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0255",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0256",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0257",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0258",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0259",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0260",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0261",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0262",
+            "en_US": [
+                "Authentication error.\n",
+                "Unable to connect."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0263",
+            "en_US": [
+                "This data is already registered.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0264",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the Battle Video."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0265",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the Battle Video."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0266",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the Profile data."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0267",
+            "en_US": [
+                "There appears to be a problem with the\n",
+                "Pokémon in the Battle Video."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0268",
+            "en_US": [
+                "An error occurred.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0269",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0270",
+            "en_US": [
+                "Authentication error.\n",
+                "Unable to connect."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0271",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the search criteria."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0272",
+            "en_US": [
+                "There appears to be a problem\n",
+                "with the search criteria."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0273",
+            "en_US": "The search failed...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0274",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0275",
+            "en_US": [
+                "Authentication error.\n",
+                "Unable to connect."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0276",
+            "en_US": [
+                "No matching Battle Videos found...\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0277",
+            "en_US": "You cannot watch this Battle Video.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0278",
+            "en_US": "Failed to receive the Battle Video.",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0279",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0280",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0281",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0282",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0283",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0284",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10601"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0285",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10602"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0286",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10603"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0287",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10604"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0288",
+            "en_US": [
+                "Unable to connect.\n",
+                "Error Code 10605"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0289",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10606"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0290",
+            "en_US": [
+                "Unable to connect.\n",
+                "Error Code 10607"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0291",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10608"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0292",
+            "en_US": [
+                "An error occurred.\n",
+                "Error Code 10609"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0293",
+            "en_US": [
+                "There is no response.\n",
+                "Error Code 10610"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0294",
+            "en_US": [
+                "There is no response.\n",
+                "Error Code 10611"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0295",
+            "en_US": [
+                "There is no response.\n",
+                "Error Code 10612"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0296",
+            "en_US": [
+                "Communication was interrupted.\n",
+                "Error Code 10613"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0297",
+            "en_US": [
+                "Unable to connect.\n",
+                "Error Code 10614"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0298",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0299",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0300",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0301",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0302",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0303",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0304",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0305",
+            "en_US": [
+                "The connection to the server was lost.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0306",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0307",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0308",
+            "en_US": [
+                "There is nothing saved.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0309",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0310",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0311",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0312",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0313",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0314",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0315",
+            "en_US": "The saved data could not be deleted...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0316",
+            "en_US": [
+                "The same Battle Video can't be saved again.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0317",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0318",
+            "en_US": "Receiving ranking data...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0319",
+            "en_US": "Sending save data...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0320",
+            "en_US": [
+                "Save completed.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0321",
+            "en_US": [
+                "Is it OK to delete\n",
+                "{VAR 0100 0000}'s Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0322",
+            "en_US": "Is it really OK to delete this data?",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0323",
+            "en_US": [
+                "Deleting data...\n",
+                "Saving... Don't turn off the power."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0324",
+            "en_US": [
+                "The data was deleted.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0325",
+            "en_US": "Sending your Musical Photo...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0326",
+            "en_US": "Receiving Musical Photo...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0327",
+            "en_US": "Sending your Box Data...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0328",
+            "en_US": "Receiving Box Data...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0329",
+            "en_US": [
+                "You have no saved data to send.\n",
+                "Participate in the data to send."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0330",
+            "en_US": [
+                "The same data can't be sent again.\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0331",
+            "en_US": "Receiving Battle Videos...",
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0332",
+            "en_US": [
+                "No matching data was found...\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0333",
+            "en_US": [
+                "No matching Musical Photo was found...\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0334",
+            "en_US": [
+                "Your Battle Video was sent.\n",
+                "Video no.: {VAR 0201 0000}-{VAR 0204 0001}-{VAR 0204 0002}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0335",
+            "en_US": [
+                "The game will be saved before\n",
+                "you can view Battle Videos."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0336",
+            "en_US": [
+                "Deleting data... Saving a lot of\n",
+                "data... Don't turn off the power."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0337",
+            "en_US": [
+                "Saving a lot of data...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0338",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0339",
+            "en_US": [
+                "There is no ranking data...\n",
+                "Touch the Touch Screen to continue."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0340",
+            "en_US": [
+                "Would you like to send\n",
+                "your Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_005_0341",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0342",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0343",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0344",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0345",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0346",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0347",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0348",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0349",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0350",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0351",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0352",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0353",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0354",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0355",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0356",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0357",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0358",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0359",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0360",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0361",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0362",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0363",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0364",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0365",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0366",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0367",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0368",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0369",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0370",
+            "en_US": ""
+        },
+        {
+            "id": "a002_005_0371",
+            "en_US": "Kuro*",
+            "flags": 60
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_102_0000",
+            "en_US": [
+                "Well...{VAR BE01}\n",
+                "Think it's about time to see fer myself\n",
+                "what it is about yer skills that made a{VAR BE00}\n",
+                "Gym Leader like Elesa take such a{VAR BE00}\n",
+                "shine to ya.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_102_0001",
+            "en_US": [
+                "Mrrrmph. I see. But I sure don't like it!{VAR BE01}\n",
+                "Fer such a young 'un, ya have an imposin'\n",
+                "battle style.{VAR BE01}\n",
+                "I know ya got people who can dig up\n",
+                "yer potential.{VAR BE01}\n",
+                "Mrmph.\n",
+                "Here! Take this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_102_0002",
+            "en_US": [
+                "{VAR 0100 0000} received the Quake Badge\n",
+                "from Clay!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_102_0003",
+            "en_US": [
+                "So this is yer fifth Badge, huh?{VAR BE01}\n",
+                "If that's so, Pokémon up to Lv. 60\n",
+                "will obey ya.{VAR BE01}\n",
+                "Also, I'll give ya this TM.{VAR BE01}\n",
+                "...Well, that was the plan, but I just\n",
+                "remembered there's somethin' I want.{VAR BE01}\n",
+                "Wait in front of the cave at the end of\n",
+                "Route 6, wouldja?"
+            ]
+        },
+        {
+            "id": "a003_102_0004",
+            "en_US": [
+                "Clay: What's the problem?{VAR BE01}\n",
+                "Go wait in front of the cave at the end\n",
+                "of Route 6!"
+            ]
+        },
+        {
+            "id": "a003_102_0005",
+            "en_US": [
+                "I don't know how much potential ya got,\n",
+                "but if ya think ya can go, go wherever,{VAR BE00}\n",
+                "and if ya think ya can do somethin',{VAR BE00}\n",
+                "keep doin' it.{VAR BE01}\n",
+                "Do things how ya want!\n",
+                "Decide yer own limits."
+            ]
+        },
+        {
+            "id": "a003_102_0006",
+            "en_US": [
+                "Clay: Mrrmph! You, huh?\n",
+                "Remember what I done told ya?{VAR BE01}\n",
+                "If ya think ya can go, go wherever,\n",
+                "and if ya think ya can do somethin',{VAR BE00}\n",
+                "keep doin' it.{VAR BE01}\n",
+                "Do things how ya want!\n",
+                "Decide yer own limits."
+            ]
+        },
+        {
+            "id": "a003_102_0007",
+            "en_US": "This elevator can't go any higher!"
+        },
+        {
+            "id": "a003_102_0008",
+            "en_US": "This elevator can't go any lower!"
+        }
+    ]
+}

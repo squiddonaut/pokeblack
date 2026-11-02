@@ -1,0 +1,53 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_125_0000",
+            "en_US": "ZANGOOSE"
+        },
+        {
+            "id": "a002_125_0001",
+            "en_US": "ZAPCANNON"
+        },
+        {
+            "id": "a002_125_0002",
+            "en_US": "ZAPDOS"
+        },
+        {
+            "id": "a002_125_0003",
+            "en_US": "ZEBSTRIKA"
+        },
+        {
+            "id": "a002_125_0004",
+            "en_US": "ZEKROM"
+        },
+        {
+            "id": "a002_125_0005",
+            "en_US": "ZENHEADBUTT"
+        },
+        {
+            "id": "a002_125_0006",
+            "en_US": "ZENMODE"
+        },
+        {
+            "id": "a002_125_0007",
+            "en_US": "ZIGZAGOON"
+        },
+        {
+            "id": "a002_125_0008",
+            "en_US": "ZOROARK"
+        },
+        {
+            "id": "a002_125_0009",
+            "en_US": "ZORUA"
+        },
+        {
+            "id": "a002_125_0010",
+            "en_US": "ZUBAT"
+        },
+        {
+            "id": "a002_125_0011",
+            "en_US": "ZWEILOUS"
+        }
+    ]
+}

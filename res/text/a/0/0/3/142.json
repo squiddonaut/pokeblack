@@ -1,0 +1,50 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a003_142_0000",
+            "en_US": [
+                "Words are engraved on the statue:{VAR BE01}\n",
+                "“Four great warriors form\n",
+                " this Pokémon League.{VAR BE01}\n",
+                " To the southwest is one who\n",
+                " does not fear the Ghost type.{VAR BE01}\n",
+                " To the southeast is one who\n",
+                " channels the power of the Fighting type.{VAR BE01}\n",
+                " To the northwest is one who\n",
+                " has mastered the Dark type.{VAR BE01}\n",
+                " To the northeast is one who\n",
+                " knows the mind of the Psychic type.{VAR BE01}\n",
+                " If you can defeat these warriors with\n",
+                " your courage and wisdom,{VAR BE00}\n",
+                " you shall be led to the summit,{VAR BE00}\n",
+                " where the strongest Champion awaits.\""
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_142_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a003_142_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a003_142_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_142_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_142_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_142_0006",
+            "en_US": ""
+        }
+    ]
+}

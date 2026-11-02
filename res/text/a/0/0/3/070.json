@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "pad": "1e1e",
+    "messages": [
+        {
+            "id": "a003_070_0000",
+            "en_US": [
+                "Nimbasa City rocks!{VAR BE01}\n",
+                "There was a guy who gave me an HM\n",
+                "called Strength. For free!{VAR BE01}\n",
+                "He's somewhere near this Pokémon\n",
+                "Center, so why don't you go look for him?"
+            ]
+        },
+        {
+            "id": "a003_070_0001",
+            "en_US": [
+                "My beauteous Minccino!\n",
+                "I met it on Route 5.{VAR BE01}\n",
+                "I'm pretty sure it will be popular\n",
+                "in musicals!"
+            ]
+        },
+        {
+            "id": "a003_070_0002",
+            "en_US": "Chulululucha!"
+        }
+    ]
+}

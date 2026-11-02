@@ -1,0 +1,254 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_069_0000",
+            "en_US": "{VAR 0100 0000}'S ENTREE",
+            "flags": 240
+        },
+        {
+            "id": "a002_069_0001",
+            "en_US": "ACCEPT A MISSION",
+            "flags": 144
+        },
+        {
+            "id": "a002_069_0002",
+            "en_US": "RECEIVE PASS POWER",
+            "flags": 144
+        },
+        {
+            "id": "a002_069_0003",
+            "en_US": "CHECK STATUS",
+            "flags": 144
+        },
+        {
+            "id": "a002_069_0004",
+            "en_US": [
+                "There is a mission\n",
+                "in progress."
+            ]
+        },
+        {
+            "id": "a002_069_0005",
+            "en_US": "Entree's Total Level: {VAR 0202 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0008",
+            "en_US": "◆White Lv.: {VAR 0203 0000}",
+            "flags": 108
+        },
+        {
+            "id": "a002_069_0009",
+            "en_US": "◇Black Lv.: {VAR 0203 0000}",
+            "flags": 104
+        },
+        {
+            "id": "a002_069_0010",
+            "en_US": "Available Pass Powers: {VAR 0203 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0011",
+            "en_US": "Time spent in the Entralink: {VAR 0201 0000}:{VAR 0201 0001}",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0012",
+            "en_US": "Completed missions: {VAR 0204 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0013",
+            "en_US": "ENTREE STATUS",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0014",
+            "en_US": "BEGIN A MISSION",
+            "flags": 144
+        },
+        {
+            "id": "a002_069_0015",
+            "en_US": "MISSION IN PROGRESS",
+            "flags": 144
+        },
+        {
+            "id": "a002_069_0016",
+            "en_US": "The mission is starting now!{VAR BE02 005A}"
+        },
+        {
+            "id": "a002_069_0017",
+            "en_US": [
+                "Another mission is already\n",
+                "in progress."
+            ]
+        },
+        {
+            "id": "a002_069_0018",
+            "en_US": [
+                "Please select one of the\n",
+                "six missions."
+            ]
+        },
+        {
+            "id": "a002_069_0019",
+            "en_US": "Please select a mission.",
+            "flags": 216
+        },
+        {
+            "id": "a002_069_0020",
+            "en_US": [
+                "You cannot accept this mission\n",
+                "when three worlds are connected."
+            ]
+        },
+        {
+            "id": "a002_069_0021",
+            "en_US": [
+                "You cannot accept a mission when\n",
+                "you have a visitor in your Entralink."
+            ]
+        },
+        {
+            "id": "a002_069_0022",
+            "en_US": [
+                "By selecting missions,\n",
+                "you can help others.{VAR BE01}\n",
+                "Please select “SUPPORT MISSION\"\n",
+                "and begin a mission."
+            ]
+        },
+        {
+            "id": "a002_069_0023",
+            "en_US": [
+                "The wrong mission was selected...{VAR BE01}\n",
+                "Please select “SUPPORT MISSION\"\n",
+                "to begin."
+            ]
+        },
+        {
+            "id": "a002_069_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0025",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0030",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_069_0031",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_069_0032",
+            "en_US": [
+                "Will you receive this Pass Power\n",
+                "from the Entree?"
+            ]
+        },
+        {
+            "id": "a002_069_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_069_0034",
+            "en_US": "AVAILABLE PASS POWER",
+            "flags": 216
+        },
+        {
+            "id": "a002_069_0035",
+            "en_US": [
+                "Received “{VAR 011C 0000}\"\n",
+                "from the Entree!{VAR BE01}\n",
+                "The “{VAR 011C 0000}\" is\n",
+                "registered to C-Gear!"
+            ]
+        },
+        {
+            "id": "a002_069_0036",
+            "en_US": "RECEIVE POWER",
+            "flags": 96
+        },
+        {
+            "id": "a002_069_0037",
+            "en_US": [
+                "Please select the Pass Power\n",
+                "you want to receive from the Entree."
+            ]
+        },
+        {
+            "id": "a002_069_0038",
+            "en_US": "CURRENT PASS POWER",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0039",
+            "en_US": "No Pass Power has been received.",
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0040",
+            "en_US": "Orbs needed: {VAR 0203 0000}",
+            "flags": 112
+        },
+        {
+            "id": "a002_069_0041",
+            "en_US": [
+                "{VAR BD02}◆The White Level to receive it: {VAR 0202 0000}◆\n",
+                "\n",
+                "Current levels\n",
+                "◇Black Lv. : {VAR 0202 0002}   ◆White Lv. : {VAR 0202 0001}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_069_0042",
+            "en_US": [
+                "{VAR BD02}◆The Black Level to receive it: {VAR 0202 0000}◆\n",
+                "\n",
+                "Current levels\n",
+                "◇Black Lv. : {VAR 0202 0002}   ◆White Lv. : {VAR 0202 0001}"
+            ],
+            "flags": 224
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_157_0000",
+            "en_US": [
+                "Please take your designated position\n",
+                "and start the battle."
+            ]
+        }
+    ]
+}

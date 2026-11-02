@@ -1,0 +1,122 @@
+{
+    "flags": 0,
+    "pad": "c4c4",
+    "messages": [
+        {
+            "id": "a002_110_0000",
+            "en_US": "KABUTO"
+        },
+        {
+            "id": "a002_110_0001",
+            "en_US": "KABUTOPS"
+        },
+        {
+            "id": "a002_110_0002",
+            "en_US": "KADABRA"
+        },
+        {
+            "id": "a002_110_0003",
+            "en_US": "KAKUNA"
+        },
+        {
+            "id": "a002_110_0004",
+            "en_US": "KANGASKHAN"
+        },
+        {
+            "id": "a002_110_0005",
+            "en_US": "KARATECHOP"
+        },
+        {
+            "id": "a002_110_0006",
+            "en_US": "KARRABLAST"
+        },
+        {
+            "id": "a002_110_0007",
+            "en_US": "KECLEON"
+        },
+        {
+            "id": "a002_110_0008",
+            "en_US": "KEENEYE"
+        },
+        {
+            "id": "a002_110_0009",
+            "en_US": "KELDEO"
+        },
+        {
+            "id": "a002_110_0010",
+            "en_US": "KIDS"
+        },
+        {
+            "id": "a002_110_0011",
+            "en_US": "KINDERGARTEN"
+        },
+        {
+            "id": "a002_110_0012",
+            "en_US": "KINESIS"
+        },
+        {
+            "id": "a002_110_0013",
+            "en_US": "KINGDRA"
+        },
+        {
+            "id": "a002_110_0014",
+            "en_US": "KINGLER"
+        },
+        {
+            "id": "a002_110_0015",
+            "en_US": "KIRLIA"
+        },
+        {
+            "id": "a002_110_0016",
+            "en_US": "KLANG"
+        },
+        {
+            "id": "a002_110_0017",
+            "en_US": "KLINK"
+        },
+        {
+            "id": "a002_110_0018",
+            "en_US": "KLINKLANG"
+        },
+        {
+            "id": "a002_110_0019",
+            "en_US": "KLUTZ"
+        },
+        {
+            "id": "a002_110_0020",
+            "en_US": "KNOCKOFF"
+        },
+        {
+            "id": "a002_110_0021",
+            "en_US": "KOFFING"
+        },
+        {
+            "id": "a002_110_0022",
+            "en_US": "KRABBY"
+        },
+        {
+            "id": "a002_110_0023",
+            "en_US": "KRICKETOT"
+        },
+        {
+            "id": "a002_110_0024",
+            "en_US": "KRICKETUNE"
+        },
+        {
+            "id": "a002_110_0025",
+            "en_US": "KROKOROK"
+        },
+        {
+            "id": "a002_110_0026",
+            "en_US": "KROOKODILE"
+        },
+        {
+            "id": "a002_110_0027",
+            "en_US": "KYOGRE"
+        },
+        {
+            "id": "a002_110_0028",
+            "en_US": "KYUREM"
+        }
+    ]
+}

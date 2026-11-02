@@ -1,0 +1,74 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_085_0000",
+            "en_US": [
+                "Professional athletes look so attractive\n",
+                "during a game!"
+            ]
+        },
+        {
+            "id": "a003_085_0001",
+            "en_US": [
+                "We can tell how good these professionals\n",
+                "are just by watching them practice."
+            ]
+        },
+        {
+            "id": "a003_085_0002",
+            "en_US": [
+                "I want to be a person who is good at\n",
+                "football and Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a003_085_0003",
+            "en_US": [
+                "I want to be a person who is good at\n",
+                "baseball and Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a003_085_0004",
+            "en_US": [
+                "I want to be a person who is good at\n",
+                "soccer and Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a003_085_0005",
+            "en_US": "On the field, they play games in earnest!"
+        },
+        {
+            "id": "a003_085_0006",
+            "en_US": [
+                "Just one ball can make people and\n",
+                "Pokémon smile.{VAR BE01}\n",
+                "Sports are wonderful things!"
+            ]
+        },
+        {
+            "id": "a003_085_0007",
+            "en_US": "Eeeee! Turn this waaaaay!"
+        },
+        {
+            "id": "a003_085_0008",
+            "en_US": [
+                "There!\n",
+                "There, turn like that!"
+            ]
+        },
+        {
+            "id": "a003_085_0009",
+            "en_US": [
+                "Following a ball right and left\n",
+                "makes me feel woozy."
+            ]
+        },
+        {
+            "id": "a003_085_0010",
+            "en_US": "Yahooooooo!"
+        }
+    ]
+}

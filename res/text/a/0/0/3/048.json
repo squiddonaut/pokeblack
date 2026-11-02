@@ -1,0 +1,145 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_048_0000",
+            "en_US": [
+                "Currently, we exhibit works in the motif\n",
+                "of legends in the Unova region."
+            ]
+        },
+        {
+            "id": "a003_048_0001",
+            "en_US": [
+                "If you want to see Burgh's paintings,\n",
+                "go to the Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_048_0002",
+            "en_US": "Title “Ideals and Truth\""
+        },
+        {
+            "id": "a003_048_0003",
+            "en_US": "Title “Soaring White Dragon\""
+        },
+        {
+            "id": "a003_048_0004",
+            "en_US": "Title “White Flame\""
+        },
+        {
+            "id": "a003_048_0005",
+            "en_US": "Title “Alighting Black Dragon\""
+        },
+        {
+            "id": "a003_048_0006",
+            "en_US": "Title “Black Lightning Bolt\""
+        },
+        {
+            "id": "a003_048_0007",
+            "en_US": "Title “Twin Heroes\""
+        },
+        {
+            "id": "a003_048_0008",
+            "en_US": [
+                "I am not as good an artist as Burgh,\n",
+                "but I have a liking for paintings.{VAR BE01}\n",
+                "Let me see. Today, I'd like to paint\n",
+                "{VAR 0103 0000}-type Pokémon!{VAR BE01}\n",
+                "Will you show me what kinds of Pokémon\n",
+                "you have?"
+            ]
+        },
+        {
+            "id": "a003_048_0009",
+            "en_US": [
+                "Please show me a Pokémon that's\n",
+                "{VAR 0103 0000} type!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_048_0010",
+            "en_US": [
+                "Oh! You have that type!\n",
+                "I'm inspired!{VAR BE01}\n",
+                "Thank you! As a token of my gratitude,\n",
+                "which one would you like?"
+            ]
+        },
+        {
+            "id": "a003_048_0011",
+            "en_US": "Cheri Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_048_0012",
+            "en_US": "Chesto Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_048_0013",
+            "en_US": "Pecha Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_048_0014",
+            "en_US": "Rawst Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_048_0015",
+            "en_US": "Aspear Berry",
+            "flags": 219
+        },
+        {
+            "id": "a003_048_0016",
+            "en_US": [
+                "One {VAR 0109 0000}!\n",
+                "It's all yours now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_048_0017",
+            "en_US": [
+                "Aww. You are the best!\n",
+                "Please come back tomorrow, too!"
+            ]
+        },
+        {
+            "id": "a003_048_0018",
+            "en_US": [
+                "As long as the artist enjoys creating\n",
+                "an artwork, it doesn't matter if the{VAR BE00}\n",
+                "result is judged as bad or good."
+            ]
+        },
+        {
+            "id": "a003_048_0019",
+            "en_US": [
+                "If you catch a Pokémon that's\n",
+                "{VAR 0103 0000} type, please show it to me!{VAR BE00}\n",
+                "I'll give you a little something."
+            ]
+        },
+        {
+            "id": "a003_048_0020",
+            "en_US": [
+                "The Pokémon you chose is not the one\n",
+                "I requested.{VAR BE01}\n",
+                "What I want to paint is a Pokémon that's\n",
+                "{VAR 0103 0000} type!"
+            ]
+        },
+        {
+            "id": "a003_048_0021",
+            "en_US": [
+                "Oh!\n",
+                "The shape of this Egg...{VAR BE01}\n",
+                "Superb! It gives me chills!\n",
+                "It's electrifying! It makes me tremble!{VAR BE01}\n",
+                "Alas, even I cannot tell what type\n",
+                "an Egg is!"
+            ]
+        }
+    ]
+}

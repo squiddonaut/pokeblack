@@ -1,0 +1,138 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_084_0000",
+            "en_US": [
+                "There is a football game in\n",
+                "Big Stadium now!"
+            ]
+        },
+        {
+            "id": "a003_084_0001",
+            "en_US": [
+                "Football players are practicing in\n",
+                "Big Stadium now.{VAR BE01}\n",
+                "People can watch them practicing!"
+            ]
+        },
+        {
+            "id": "a003_084_0002",
+            "en_US": [
+                "There is a baseball game\n",
+                "in Big Stadium now!"
+            ]
+        },
+        {
+            "id": "a003_084_0003",
+            "en_US": [
+                "Infielders are practicing\n",
+                "in Big Stadium now.{VAR BE01}\n",
+                "People can watch them practicing!"
+            ]
+        },
+        {
+            "id": "a003_084_0004",
+            "en_US": [
+                "There is a soccer game\n",
+                "in Big Stadium now!"
+            ]
+        },
+        {
+            "id": "a003_084_0005",
+            "en_US": [
+                "Soccer players are practicing\n",
+                "in Big Stadium now!{VAR BE01}\n",
+                "People can watch them practicing!"
+            ]
+        },
+        {
+            "id": "a003_084_0006",
+            "en_US": [
+                "You sure look up to athletes when\n",
+                "you're a kid."
+            ]
+        },
+        {
+            "id": "a003_084_0007",
+            "en_US": [
+                "I'm raising the same Pokémon as\n",
+                "my favorite athlete's Pokémon."
+            ]
+        },
+        {
+            "id": "a003_084_0008",
+            "en_US": [
+                "When I throw a Poké Ball, I copy the\n",
+                "throwing form of a quarterback!"
+            ]
+        },
+        {
+            "id": "a003_084_0009",
+            "en_US": [
+                "When I throw a Poké Ball, I copy the form\n",
+                "of a pitcher!"
+            ]
+        },
+        {
+            "id": "a003_084_0010",
+            "en_US": [
+                "When I throw a Poké Ball, I copy the\n",
+                "throw-in of a keeper!"
+            ]
+        },
+        {
+            "id": "a003_084_0011",
+            "en_US": [
+                "Ha ha! I am a football player!{VAR BE01}\n",
+                "I injured my hand, so I can't sign\n",
+                "autographs! I'm sorry about that.{VAR BE01}\n",
+                "So, what does the autograph on your\n",
+                "Trainer Card look like?"
+            ]
+        },
+        {
+            "id": "a003_084_0012",
+            "en_US": [
+                "Yeah! I am an Infielder!{VAR BE01}\n",
+                "I hurt my hand, so I can't write\n",
+                "an autograph! Sorry!{VAR BE01}\n",
+                "Say, how did you sign your Trainer Card?"
+            ]
+        },
+        {
+            "id": "a003_084_0013",
+            "en_US": [
+                "Bwa ha ha! I am a Striker!{VAR BE01}\n",
+                "My hand got hurt, so I won't be able to\n",
+                "sign any autographs! Regrets!{VAR BE01}\n",
+                "What does your Trainer Card signature\n",
+                "look like?"
+            ]
+        },
+        {
+            "id": "a003_084_0014",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot go onto the field\n",
+                "because a game is in progress."
+            ]
+        },
+        {
+            "id": "a003_084_0015",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot go onto the field\n",
+                "because a game is in progress."
+            ]
+        },
+        {
+            "id": "a003_084_0016",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot go onto the field\n",
+                "because a game is in progress."
+            ]
+        }
+    ]
+}

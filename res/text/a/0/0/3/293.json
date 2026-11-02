@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_293_0000",
+            "en_US": [
+                "Ah, our young wanderer!\n",
+                "Are you surprised?{VAR BE01}\n",
+                "This castle is the hub of Team Plasma's--\n",
+                "no, Ghetsis of the Seven Sages'--{VAR BE00}\n",
+                "scientific capability!{VAR BE01}\n",
+                "A manifestation of knowledge!"
+            ]
+        },
+        {
+            "id": "a003_293_0001",
+            "en_US": [
+                "Ha ha! Now we can even infiltrate the\n",
+                "Pokémon Storage System inside every{VAR BE00}\n",
+                "Trainer's PC!{VAR BE01}\n",
+                "If our king wills it, we can steal every\n",
+                "Pokémon stored in a PC Box and release{VAR BE00}\n",
+                "them all!"
+            ]
+        }
+    ]
+}

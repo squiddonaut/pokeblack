@@ -1,0 +1,108 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_146_0000",
+            "en_US": [
+                "Man oh man...\n",
+                "What is going on today?{VAR BE01}\n",
+                "Challengers coming one\n",
+                "right after another.{VAR BE01}\n",
+                "Well, no matter.{VAR BE01}\n",
+                "I am Grimsley of the Elite Four, and I will\n",
+                "fulfill my duty to be your opponent.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_146_0001",
+            "en_US": [
+                "Whether or not you get to fight at full\n",
+                "strength, whether or not luck smiles{VAR BE00}\n",
+                "on you--none of that matters.{VAR BE01}\n",
+                "Only results matter. And a loss is a loss.{VAR BE01}\n",
+                "See, victory shines like a bright light.{VAR BE01}\n",
+                "And right now, you and your Pokémon\n",
+                "are shining brilliantly."
+            ]
+        },
+        {
+            "id": "a003_146_0002",
+            "en_US": [
+                "Now, I'm nothing more than\n",
+                "the guy who lost...{VAR BE01}\n",
+                "Nothing more, nothing less.\n",
+                "Sigh...{VAR BE01}\n",
+                "You should take that strength and test\n",
+                "it against the rest of the Elite Four."
+            ]
+        },
+        {
+            "id": "a003_146_0003",
+            "en_US": [
+                "Astonishing!{VAR BE01}\n",
+                "You have defeated every member of\n",
+                "the Pokémon League's Elite Four.{VAR BE01}\n",
+                "But it isn't over yet.{VAR BE01}\n",
+                "There is one more opponent against whom\n",
+                "you must prove your strength.{VAR BE01}\n",
+                "The pinnacle of the Pokémon League,\n",
+                "the Champion, Alder...{VAR BE01}\n",
+                "Or, perhaps, that man called N has\n",
+                "defeated him and taken his title.{VAR BE01}\n",
+                "I don't know which one you will face, but\n",
+                "check the statue in the central plaza,{VAR BE00}\n",
+                "and continue to the final room."
+            ]
+        },
+        {
+            "id": "a003_146_0004",
+            "en_US": [
+                "Life is a serious battle, and you have\n",
+                "to use the tools you're given.{VAR BE01}\n",
+                "It's more important to master the cards\n",
+                "you're holding than to complain about{VAR BE00}\n",
+                "the ones your opponents were dealt.{VAR BE01}\n",
+                "Let us begin.\n",
+                "And may the best Trainer win!{VAR BE01}\n",
+                "Contests like this are proof\n",
+                "that you are really living...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_146_0005",
+            "en_US": [
+                "There are bad ways to win--\n",
+                "and good ways to lose.{VAR BE01}\n",
+                "What's interesting and troubling is that\n",
+                "it's not always clear which is which.{VAR BE01}\n",
+                "A flipped coin doesn't always land\n",
+                "heads or tails.{VAR BE01}\n",
+                "Sometimes it may never land at all..."
+            ]
+        },
+        {
+            "id": "a003_146_0006",
+            "en_US": [
+                "Excellent!{VAR BE01}\n",
+                "The nice thing about Pokémon battles is\n",
+                "they teach the loser something, as well.{VAR BE01}\n",
+                "That said...\n",
+                "You should take that strength and test{VAR BE00}\n",
+                "it against the rest of the Elite Four!"
+            ]
+        },
+        {
+            "id": "a003_146_0007",
+            "en_US": [
+                "Astonishing!{VAR BE01}\n",
+                "You have defeated every member of\n",
+                "the Pokémon League's Elite Four.{VAR BE01}\n",
+                "But it isn't over yet.{VAR BE01}\n",
+                "There is one more opponent against whom\n",
+                "you must prove your strength.{VAR BE01}\n",
+                "Check the statue in the central plaza,\n",
+                "and continue to the final room."
+            ]
+        }
+    ]
+}

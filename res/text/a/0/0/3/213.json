@@ -1,0 +1,418 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_213_0000",
+            "en_US": [
+                "Cedric: That building serenely towering\n",
+                "over everything is Dragonspiral Tower.{VAR BE01}\n",
+                "From far in the past, before Unova was\n",
+                "founded, it still stands tall today.{VAR BE01}\n",
+                "On the top floor, so it's been told,\n",
+                "the legendary Pokémon is waiting for{VAR BE00}\n",
+                "a person seeking the truth to appear."
+            ]
+        },
+        {
+            "id": "a003_213_0001",
+            "en_US": [
+                "Cedric: That building serenely towering\n",
+                "over everything is Dragonspiral Tower.{VAR BE01}\n",
+                "From far in the past, before Unova was\n",
+                "founded, it still stands tall today.{VAR BE01}\n",
+                "On the top floor, so it's been told,\n",
+                "the legendary Pokémon is waiting for{VAR BE00}\n",
+                "a person pursuing ideals to appear."
+            ]
+        },
+        {
+            "id": "a003_213_0002",
+            "en_US": "Bianca: Hey, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_213_0003",
+            "en_US": [
+                "Cedric: Oh, {VAR 0100 0000}!{VAR BE01}\n",
+                "And you must be Bianca.{VAR BE01}\n",
+                "I'm the other Professor Juniper.{VAR BE01}\n",
+                "The Professor Juniper who gave you\n",
+                "the Pokédex is my daughter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0004",
+            "en_US": [
+                "Bianca: Nice to meet you, professor!{VAR BE01}\n",
+                "Thanks to Professor Juniper,\n",
+                "I got to go on a journey and start{VAR BE00}\n",
+                "figuring out possibilities for my life.{VAR BE01}\n",
+                "I'm very, very grateful to her!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0005",
+            "en_US": [
+                "Cedric: Is that right? Grand, grand.\n",
+                "Actually, we should chat later.{VAR BE01}\n",
+                "{VAR 0100 0000}, Bianca,\n",
+                "here's the situation.{VAR BE01}\n",
+                "Some members of Team Plasma--quite\n",
+                "a large group--broke through the{VAR BE00}\n",
+                "tower wall and went inside.{VAR BE01}\n",
+                "Brycen and that young man--\n",
+                "I believe his name is Cheren--{VAR BE00}\n",
+                "the two of them went after{VAR BE00}\n",
+                "Team Plasma, but...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0006",
+            "en_US": [
+                "Bianca: Professor, what's the\n",
+                "Dragonspiral Tower?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0007",
+            "en_US": [
+                "Cedric: Ha! I guess you would be curious.\n",
+                "Well, I'll explain briefly.{VAR BE01}\n",
+                "Dragonspiral Tower has stood tall since\n",
+                "long before Unova was founded.{VAR BE01}\n",
+                "On the top floor, the legendary\n",
+                "Dragon-type Pokémon waits for{VAR BE00}\n",
+                "a person seeking truth to appear...{VAR BE01}\n",
+                "That's what is said.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0008",
+            "en_US": [
+                "Cedric: Ha! I guess you would be curious.\n",
+                "Well, I'll explain briefly.{VAR BE01}\n",
+                "Dragonspiral Tower has stood tall since\n",
+                "long before Unova was founded.{VAR BE01}\n",
+                "On the top floor, the legendary\n",
+                "Dragon-type Pokémon waits for{VAR BE00}\n",
+                "a person pursuing ideals to appear...{VAR BE01}\n",
+                "That's what is said.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0009",
+            "en_US": [
+                "Are you going to go after Team Plasma\n",
+                "like your friend did?{VAR BE01}\n",
+                "It's admirable of you to join the fight\n",
+                "against Team Plasma, but it's risky, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0010",
+            "en_US": [
+                "Bianca: Don't worry!{VAR BE01}\n",
+                "{VAR 0100 0000} and Cheren are both\n",
+                "really, really strong, and they've{VAR BE00}\n",
+                "beaten Team Plasma before.{VAR BE01}\n",
+                "But...I'm not all that strong, actually.\n",
+                "I admit it. I'm not very strong, so{VAR BE00}\n",
+                "I was thinking...{VAR BE01}\n",
+                "It would be nice if, maybe, I could...\n",
+                "Stay here and be your bodyguard?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0011",
+            "en_US": [
+                "Cedric: Why, thank you!\n",
+                "That makes me feel much safer!{VAR BE01}\n",
+                "Well, {VAR 0100 0000}!\n",
+                "It's up to you! Climb the tower!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0014",
+            "en_US": [
+                "This is all I can give you,\n",
+                "but it might help you rest!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0015",
+            "en_US": [
+                "Cedric: Still...\n",
+                "What could Team Plasma be after?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0016",
+            "en_US": [
+                "Cedric: Still...\n",
+                "What could Team Plasma be after?"
+            ]
+        },
+        {
+            "id": "a003_213_0017",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}...\n",
+                "Please don't do anything crazy."
+            ]
+        },
+        {
+            "id": "a003_213_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0025",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0029",
+            "en_US": [
+                "Cedric: Astounding...{VAR BE01}\n",
+                "I never would have imagined the legendary\n",
+                "Dragon-type Pokémon would return now...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0030",
+            "en_US": [
+                "Cheren: That guy called N...{VAR BE01}\n",
+                "Team Plasma's boss apparently\n",
+                "reawakened the legendary Pokémon.{VAR BE01}\n",
+                "He told {VAR 0100 0000} to look for the other\n",
+                "legendary Pokémon, then flew away...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0031",
+            "en_US": [
+                "Bianca: Huh?{VAR BE01}\n",
+                "There are two legendary\n",
+                "Dragon-type Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0032",
+            "en_US": "???: Yes! Yes, there are!{VAR BE01}"
+        },
+        {
+            "id": "a003_213_0033",
+            "en_US": [
+                "Cedric: Why, if it isn't Alder!\n",
+                "It's been a while! Have you been well?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_213_0035",
+            "en_US": [
+                "Alder: No time for chitchat!{VAR BE01}\n",
+                "That fearsome column of fire that\n",
+                "shot from the tower...{VAR BE01}\n",
+                "That Pokémon has the power to\n",
+                "destroy the world!{VAR BE01}\n",
+                "If it's on Team Plasma's side, and\n",
+                "Team Plasma tells everyone{VAR BE00}\n",
+                "to release their Pokémon...{VAR BE01}\n",
+                "No matter whether it comes from fear\n",
+                "or admiration...{VAR BE01}\n",
+                "The world can't help but change.{VAR BE01}\n",
+                "It will become a world where we are\n",
+                "separated from Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0036",
+            "en_US": [
+                "Alder: No time for chitchat!{VAR BE01}\n",
+                "Those violent flashes of lightning\n",
+                "that shot from the tower...{VAR BE01}\n",
+                "That Pokémon has the power to\n",
+                "destroy the world!{VAR BE01}\n",
+                "If it's on Team Plasma's side, and\n",
+                "Team Plasma tells everyone{VAR BE00}\n",
+                "to release their Pokémon...{VAR BE01}\n",
+                "No matter whether it comes from fear\n",
+                "or admiration...{VAR BE01}\n",
+                "The world can't help but change.{VAR BE01}\n",
+                "It will become a world where we are\n",
+                "separated from Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0037",
+            "en_US": [
+                "Cedric: Right...{VAR BE01}\n",
+                "Moreover, the boss of Team Plasma,\n",
+                "N, who reawakened Reshiram,{VAR BE00}\n",
+                "apparently said to look for the{VAR BE00}\n",
+                "other Pokémon, Zekrom.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0038",
+            "en_US": [
+                "Cedric: Right...{VAR BE01}\n",
+                "Moreover, the boss of Team Plasma,\n",
+                "N, who reawakened Zekrom,{VAR BE00}\n",
+                "apparently said to look for the{VAR BE00}\n",
+                "other Pokémon, Reshiram.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0039",
+            "en_US": [
+                "Alder: If I remember the myth,\n",
+                "Reshiram's fiery breath,{VAR BE00}\n",
+                "along with the other Pokémon,{VAR BE00}\n",
+                "devastated ancient Unova in an instant.{VAR BE01}\n",
+                "Even knowing that, N is still\n",
+                "wanting to awaken the other?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0040",
+            "en_US": [
+                "Alder: If I remember the myth,\n",
+                "Zekrom's powerful electricity,{VAR BE00}\n",
+                "along with the other Pokémon,{VAR BE00}\n",
+                "devastated ancient Unova in an instant.{VAR BE01}\n",
+                "Even knowing that, N is still\n",
+                "wanting to awaken the other?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0041",
+            "en_US": [
+                "Bianca: H-huh?!{VAR BE01}\n",
+                "Isn't it dangerous to bring back\n",
+                "a Pokémon that powerful?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0042",
+            "en_US": [
+                "Alder: Miss, you are a very kind person.{VAR BE01}\n",
+                "Still, I don't know if other Pokémon\n",
+                "will be able to stand up to it.{VAR BE01}\n",
+                "Because, no matter what,\n",
+                "it is a legendary being...{VAR BE01}\n",
+                "I don't like the idea of taking orders\n",
+                "from N, but searching for the dragon--{VAR BE00}\n",
+                "the stone--might not be a bad plan.{VAR BE01}\n",
+                "We certainly can't let Team Plasma\n",
+                "reawaken both of them!{VAR BE01}\n",
+                "Since I've traveled all over Unova,\n",
+                "I have an idea of where it might be.{VAR BE01}\n",
+                "Let's head to the Relic Castle.\n",
+                "{VAR 0100 0000}, everyone, I'm going!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0043",
+            "en_US": [
+                "Cedric: I see. We'll leave that to you.{VAR BE01}\n",
+                "I'm going to investigate inside the tower.\n",
+                "Hopefully, I'll find something.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0044",
+            "en_US": "Brycen: Then, I will go with you.{VAR BE01}"
+        },
+        {
+            "id": "a003_213_0045",
+            "en_US": [
+                "Cheren: I think I understand better now.{VAR BE01}\n",
+                "Being able to do something for Pokémon--\n",
+                "for somebody at a time like this--is{VAR BE00}\n",
+                "strength... I'm sure of it.{VAR BE01}\n",
+                "And my strength is something that is\n",
+                "given to me by Pokémon.{VAR BE01}\n",
+                "OK, Champion, let's hurry!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_213_0046",
+            "en_US": [
+                "Bianca: {VAR 0100 0000},\n",
+                "this has turned into a big deal.{VAR BE01}\n",
+                "So confusing... I dunno what to do...{VAR BE01}\n",
+                "Are you gonna go to the\n",
+                "Relic Castle, {VAR 0100 0000}?{VAR BE01}\n",
+                "Past Route 4, in the Desert Resort...\n",
+                "I hear that's where the Relic Castle is..."
+            ]
+        },
+        {
+            "id": "a003_213_0047",
+            "en_US": [
+                "Bianca: {VAR 0100 0000},\n",
+                "look for the Desert Resort past Route 4.{VAR BE00}\n",
+                "I hear that's where the Relic Castle is..."
+            ]
+        }
+    ]
+}

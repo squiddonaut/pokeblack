@@ -1,0 +1,529 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_112_0000",
+            "en_US": "MACHAMP"
+        },
+        {
+            "id": "a002_112_0001",
+            "en_US": "MACHINE"
+        },
+        {
+            "id": "a002_112_0002",
+            "en_US": "MACHOKE"
+        },
+        {
+            "id": "a002_112_0003",
+            "en_US": "MACHOP"
+        },
+        {
+            "id": "a002_112_0004",
+            "en_US": "MACHPUNCH"
+        },
+        {
+            "id": "a002_112_0005",
+            "en_US": "MAGAZINE"
+        },
+        {
+            "id": "a002_112_0006",
+            "en_US": "MAGBY"
+        },
+        {
+            "id": "a002_112_0007",
+            "en_US": "MAGCARGO"
+        },
+        {
+            "id": "a002_112_0008",
+            "en_US": "MAGICALLEAF"
+        },
+        {
+            "id": "a002_112_0009",
+            "en_US": "MAGICBOUNCE"
+        },
+        {
+            "id": "a002_112_0010",
+            "en_US": "MAGICCOAT"
+        },
+        {
+            "id": "a002_112_0011",
+            "en_US": "MAGICGUARD"
+        },
+        {
+            "id": "a002_112_0012",
+            "en_US": "MAGICROOM"
+        },
+        {
+            "id": "a002_112_0013",
+            "en_US": "MAGIKARP"
+        },
+        {
+            "id": "a002_112_0014",
+            "en_US": "MAGMAARMOR"
+        },
+        {
+            "id": "a002_112_0015",
+            "en_US": "MAGMAR"
+        },
+        {
+            "id": "a002_112_0016",
+            "en_US": "MAGMASTORM"
+        },
+        {
+            "id": "a002_112_0017",
+            "en_US": "MAGMORTAR"
+        },
+        {
+            "id": "a002_112_0018",
+            "en_US": "MAGNEMITE"
+        },
+        {
+            "id": "a002_112_0019",
+            "en_US": "MAGNETBOMB"
+        },
+        {
+            "id": "a002_112_0020",
+            "en_US": "MAGNETON"
+        },
+        {
+            "id": "a002_112_0021",
+            "en_US": "MAGNETPULL"
+        },
+        {
+            "id": "a002_112_0022",
+            "en_US": "MAGNETRISE"
+        },
+        {
+            "id": "a002_112_0023",
+            "en_US": "MAGNEZONE"
+        },
+        {
+            "id": "a002_112_0024",
+            "en_US": "MAGNITUDE"
+        },
+        {
+            "id": "a002_112_0025",
+            "en_US": "MAIL"
+        },
+        {
+            "id": "a002_112_0026",
+            "en_US": "MAKUHITA"
+        },
+        {
+            "id": "a002_112_0027",
+            "en_US": "MAMOSWINE"
+        },
+        {
+            "id": "a002_112_0028",
+            "en_US": "MANAPHY"
+        },
+        {
+            "id": "a002_112_0029",
+            "en_US": "MANDIBUZZ"
+        },
+        {
+            "id": "a002_112_0030",
+            "en_US": "MANECTRIC"
+        },
+        {
+            "id": "a002_112_0031",
+            "en_US": "MANKEY"
+        },
+        {
+            "id": "a002_112_0032",
+            "en_US": "MANTINE"
+        },
+        {
+            "id": "a002_112_0033",
+            "en_US": "MANTYKE"
+        },
+        {
+            "id": "a002_112_0034",
+            "en_US": "MARACTUS"
+        },
+        {
+            "id": "a002_112_0035",
+            "en_US": "MAREEP"
+        },
+        {
+            "id": "a002_112_0036",
+            "en_US": "MARILL"
+        },
+        {
+            "id": "a002_112_0037",
+            "en_US": "MAROWAK"
+        },
+        {
+            "id": "a002_112_0038",
+            "en_US": "MARSHTOMP"
+        },
+        {
+            "id": "a002_112_0039",
+            "en_US": "MARVELSCALE"
+        },
+        {
+            "id": "a002_112_0040",
+            "en_US": "MASQUERAIN"
+        },
+        {
+            "id": "a002_112_0041",
+            "en_US": "MATCH"
+        },
+        {
+            "id": "a002_112_0042",
+            "en_US": "MATCHUP"
+        },
+        {
+            "id": "a002_112_0043",
+            "en_US": "MAWILE"
+        },
+        {
+            "id": "a002_112_0044",
+            "en_US": "ME"
+        },
+        {
+            "id": "a002_112_0045",
+            "en_US": "MEANLOOK"
+        },
+        {
+            "id": "a002_112_0046",
+            "en_US": "MEDICHAM"
+        },
+        {
+            "id": "a002_112_0047",
+            "en_US": "MEDITATE"
+        },
+        {
+            "id": "a002_112_0048",
+            "en_US": "MEDITITE"
+        },
+        {
+            "id": "a002_112_0049",
+            "en_US": "MEETYOU"
+        },
+        {
+            "id": "a002_112_0050",
+            "en_US": "MEFIRST"
+        },
+        {
+            "id": "a002_112_0051",
+            "en_US": "MEGADRAIN"
+        },
+        {
+            "id": "a002_112_0052",
+            "en_US": "MEGAHORN"
+        },
+        {
+            "id": "a002_112_0053",
+            "en_US": "MEGAKICK"
+        },
+        {
+            "id": "a002_112_0054",
+            "en_US": "MEGANIUM"
+        },
+        {
+            "id": "a002_112_0055",
+            "en_US": "MEGAPUNCH"
+        },
+        {
+            "id": "a002_112_0056",
+            "en_US": "MELOETTA"
+        },
+        {
+            "id": "a002_112_0057",
+            "en_US": "MEMENTO"
+        },
+        {
+            "id": "a002_112_0058",
+            "en_US": "MEOWTH"
+        },
+        {
+            "id": "a002_112_0059",
+            "en_US": "MESPRIT"
+        },
+        {
+            "id": "a002_112_0060",
+            "en_US": "MESSAGE"
+        },
+        {
+            "id": "a002_112_0061",
+            "en_US": "MESSEDUP"
+        },
+        {
+            "id": "a002_112_0062",
+            "en_US": "METAGROSS"
+        },
+        {
+            "id": "a002_112_0063",
+            "en_US": "METALBURST"
+        },
+        {
+            "id": "a002_112_0064",
+            "en_US": "METALCLAW"
+        },
+        {
+            "id": "a002_112_0065",
+            "en_US": "METALSOUND"
+        },
+        {
+            "id": "a002_112_0066",
+            "en_US": "METANG"
+        },
+        {
+            "id": "a002_112_0067",
+            "en_US": "METAPOD"
+        },
+        {
+            "id": "a002_112_0068",
+            "en_US": "METEORMASH"
+        },
+        {
+            "id": "a002_112_0069",
+            "en_US": "METRONOME"
+        },
+        {
+            "id": "a002_112_0070",
+            "en_US": "MEW"
+        },
+        {
+            "id": "a002_112_0071",
+            "en_US": "MEWTWO"
+        },
+        {
+            "id": "a002_112_0072",
+            "en_US": "MIENFOO"
+        },
+        {
+            "id": "a002_112_0073",
+            "en_US": "MIENSHAO"
+        },
+        {
+            "id": "a002_112_0074",
+            "en_US": "MIGHTYENA"
+        },
+        {
+            "id": "a002_112_0075",
+            "en_US": "MILKDRINK"
+        },
+        {
+            "id": "a002_112_0076",
+            "en_US": "MILOTIC"
+        },
+        {
+            "id": "a002_112_0077",
+            "en_US": "MILTANK"
+        },
+        {
+            "id": "a002_112_0078",
+            "en_US": "MIMEJR"
+        },
+        {
+            "id": "a002_112_0079",
+            "en_US": "MIMIC"
+        },
+        {
+            "id": "a002_112_0080",
+            "en_US": "MINCCINO"
+        },
+        {
+            "id": "a002_112_0081",
+            "en_US": "MINDREADER"
+        },
+        {
+            "id": "a002_112_0082",
+            "en_US": "MINIMIZE"
+        },
+        {
+            "id": "a002_112_0083",
+            "en_US": "MINUN"
+        },
+        {
+            "id": "a002_112_0084",
+            "en_US": "MINUS"
+        },
+        {
+            "id": "a002_112_0085",
+            "en_US": "MIRACLEEYE"
+        },
+        {
+            "id": "a002_112_0086",
+            "en_US": "MIRRORCOAT"
+        },
+        {
+            "id": "a002_112_0087",
+            "en_US": "MIRRORMOVE"
+        },
+        {
+            "id": "a002_112_0088",
+            "en_US": "MIRRORSHOT"
+        },
+        {
+            "id": "a002_112_0089",
+            "en_US": "MISDREAVUS"
+        },
+        {
+            "id": "a002_112_0090",
+            "en_US": "MISMAGIUS"
+        },
+        {
+            "id": "a002_112_0091",
+            "en_US": "MISSION"
+        },
+        {
+            "id": "a002_112_0092",
+            "en_US": "MIST"
+        },
+        {
+            "id": "a002_112_0093",
+            "en_US": "MISTBALL"
+        },
+        {
+            "id": "a002_112_0094",
+            "en_US": "MMM"
+        },
+        {
+            "id": "a002_112_0095",
+            "en_US": "MOLDBREAKER"
+        },
+        {
+            "id": "a002_112_0096",
+            "en_US": "MOLTRES"
+        },
+        {
+            "id": "a002_112_0097",
+            "en_US": "MONEY"
+        },
+        {
+            "id": "a002_112_0098",
+            "en_US": "MONFERNO"
+        },
+        {
+            "id": "a002_112_0099",
+            "en_US": "MOODY"
+        },
+        {
+            "id": "a002_112_0100",
+            "en_US": "MOONLIGHT"
+        },
+        {
+            "id": "a002_112_0101",
+            "en_US": "MORNINGSUN"
+        },
+        {
+            "id": "a002_112_0102",
+            "en_US": "MOTHER"
+        },
+        {
+            "id": "a002_112_0103",
+            "en_US": "MOTHIM"
+        },
+        {
+            "id": "a002_112_0104",
+            "en_US": "MOTORDRIVE"
+        },
+        {
+            "id": "a002_112_0105",
+            "en_US": "MOVE"
+        },
+        {
+            "id": "a002_112_0106",
+            "en_US": "MOVIE"
+        },
+        {
+            "id": "a002_112_0107",
+            "en_US": "MOXIE"
+        },
+        {
+            "id": "a002_112_0108",
+            "en_US": "MR"
+        },
+        {
+            "id": "a002_112_0109",
+            "en_US": "MRMIME"
+        },
+        {
+            "id": "a002_112_0110",
+            "en_US": "MS"
+        },
+        {
+            "id": "a002_112_0111",
+            "en_US": "MUDBOMB"
+        },
+        {
+            "id": "a002_112_0112",
+            "en_US": "MUDDYWATER"
+        },
+        {
+            "id": "a002_112_0113",
+            "en_US": "MUDKIP"
+        },
+        {
+            "id": "a002_112_0114",
+            "en_US": "MUDSHOT"
+        },
+        {
+            "id": "a002_112_0115",
+            "en_US": "MUDSLAP"
+        },
+        {
+            "id": "a002_112_0116",
+            "en_US": "MUDSPORT"
+        },
+        {
+            "id": "a002_112_0117",
+            "en_US": "MUFUFU"
+        },
+        {
+            "id": "a002_112_0118",
+            "en_US": "MUHAHAHA"
+        },
+        {
+            "id": "a002_112_0119",
+            "en_US": "MUK"
+        },
+        {
+            "id": "a002_112_0120",
+            "en_US": "MULTIBATTLE"
+        },
+        {
+            "id": "a002_112_0121",
+            "en_US": "MULTISCALE"
+        },
+        {
+            "id": "a002_112_0122",
+            "en_US": "MULTITYPE"
+        },
+        {
+            "id": "a002_112_0123",
+            "en_US": "MUMMY"
+        },
+        {
+            "id": "a002_112_0124",
+            "en_US": "MUNCHLAX"
+        },
+        {
+            "id": "a002_112_0125",
+            "en_US": "MUNNA"
+        },
+        {
+            "id": "a002_112_0126",
+            "en_US": "MURKROW"
+        },
+        {
+            "id": "a002_112_0127",
+            "en_US": "MUSHARNA"
+        },
+        {
+            "id": "a002_112_0128",
+            "en_US": "MUSIC"
+        },
+        {
+            "id": "a002_112_0129",
+            "en_US": "MUSICAL"
+        },
+        {
+            "id": "a002_112_0130",
+            "en_US": "MYSELF"
+        }
+    ]
+}

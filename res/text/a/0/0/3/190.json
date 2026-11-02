@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "3030",
+    "messages": [
+        {
+            "id": "a003_190_0000",
+            "en_US": "Vraahhbrbrbr!"
+        },
+        {
+            "id": "a003_190_0001",
+            "en_US": [
+                "The Pokémon quietly\n",
+                "flew away and disappeared..."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "flags": 240,
+    "pad": "6262",
+    "messages": [
+        {
+            "id": "a002_020_0000",
+            "en_US": [
+                "Use a Poké Ball after\n",
+                "lowering its HP!"
+            ]
+        },
+        {
+            "id": "a002_020_0001",
+            "en_US": [
+                "Professor Juniper used\n",
+                "a Poké Ball!"
+            ]
+        }
+    ]
+}

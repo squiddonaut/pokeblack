@@ -1,0 +1,1061 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_118_0000",
+            "en_US": "SABLEYE"
+        },
+        {
+            "id": "a002_118_0001",
+            "en_US": "SACREDFIRE"
+        },
+        {
+            "id": "a002_118_0002",
+            "en_US": "SACREDSWORD"
+        },
+        {
+            "id": "a002_118_0003",
+            "en_US": "SADNESS"
+        },
+        {
+            "id": "a002_118_0004",
+            "en_US": "SAFEGUARD"
+        },
+        {
+            "id": "a002_118_0005",
+            "en_US": "SALAMENCE"
+        },
+        {
+            "id": "a002_118_0006",
+            "en_US": "SAMUROTT"
+        },
+        {
+            "id": "a002_118_0007",
+            "en_US": "SANDATTACK"
+        },
+        {
+            "id": "a002_118_0008",
+            "en_US": "SANDFORCE"
+        },
+        {
+            "id": "a002_118_0009",
+            "en_US": "SANDILE"
+        },
+        {
+            "id": "a002_118_0010",
+            "en_US": "SANDRUSH"
+        },
+        {
+            "id": "a002_118_0011",
+            "en_US": "SANDSHREW"
+        },
+        {
+            "id": "a002_118_0012",
+            "en_US": "SANDSLASH"
+        },
+        {
+            "id": "a002_118_0013",
+            "en_US": "SANDSTORM"
+        },
+        {
+            "id": "a002_118_0014",
+            "en_US": "SANDSTREAM"
+        },
+        {
+            "id": "a002_118_0015",
+            "en_US": "SANDTOMB"
+        },
+        {
+            "id": "a002_118_0016",
+            "en_US": "SANDVEIL"
+        },
+        {
+            "id": "a002_118_0017",
+            "en_US": "SAPSIPPER"
+        },
+        {
+            "id": "a002_118_0018",
+            "en_US": "SATISFIED"
+        },
+        {
+            "id": "a002_118_0019",
+            "en_US": "SAWK"
+        },
+        {
+            "id": "a002_118_0020",
+            "en_US": "SAWSBUCK"
+        },
+        {
+            "id": "a002_118_0021",
+            "en_US": "SCALD"
+        },
+        {
+            "id": "a002_118_0022",
+            "en_US": "SCARYFACE"
+        },
+        {
+            "id": "a002_118_0023",
+            "en_US": "SCEPTILE"
+        },
+        {
+            "id": "a002_118_0024",
+            "en_US": "SCHOOL"
+        },
+        {
+            "id": "a002_118_0025",
+            "en_US": "SCIENCE"
+        },
+        {
+            "id": "a002_118_0026",
+            "en_US": "SCIZOR"
+        },
+        {
+            "id": "a002_118_0027",
+            "en_US": "SCOLIPEDE"
+        },
+        {
+            "id": "a002_118_0028",
+            "en_US": "SCRAFTY"
+        },
+        {
+            "id": "a002_118_0029",
+            "en_US": "SCRAGGY"
+        },
+        {
+            "id": "a002_118_0030",
+            "en_US": "SCRAPPY"
+        },
+        {
+            "id": "a002_118_0031",
+            "en_US": "SCRATCH"
+        },
+        {
+            "id": "a002_118_0032",
+            "en_US": "SCREECH"
+        },
+        {
+            "id": "a002_118_0033",
+            "en_US": "SCYTHER"
+        },
+        {
+            "id": "a002_118_0034",
+            "en_US": "SEADRA"
+        },
+        {
+            "id": "a002_118_0035",
+            "en_US": "SEAKING"
+        },
+        {
+            "id": "a002_118_0036",
+            "en_US": "SEALEO"
+        },
+        {
+            "id": "a002_118_0037",
+            "en_US": "SEARINGSHOT"
+        },
+        {
+            "id": "a002_118_0038",
+            "en_US": "SECRETPOWER"
+        },
+        {
+            "id": "a002_118_0039",
+            "en_US": "SEEDBOMB"
+        },
+        {
+            "id": "a002_118_0040",
+            "en_US": "SEEDFLARE"
+        },
+        {
+            "id": "a002_118_0041",
+            "en_US": "SEEDOT"
+        },
+        {
+            "id": "a002_118_0042",
+            "en_US": "SEEL"
+        },
+        {
+            "id": "a002_118_0043",
+            "en_US": "SEEYA"
+        },
+        {
+            "id": "a002_118_0044",
+            "en_US": "SEISMICTOSS"
+        },
+        {
+            "id": "a002_118_0045",
+            "en_US": "SEISMITOAD"
+        },
+        {
+            "id": "a002_118_0046",
+            "en_US": "SELFDESTRUCT"
+        },
+        {
+            "id": "a002_118_0047",
+            "en_US": "SENSE"
+        },
+        {
+            "id": "a002_118_0048",
+            "en_US": "SENTRET"
+        },
+        {
+            "id": "a002_118_0049",
+            "en_US": "SERENEGRACE"
+        },
+        {
+            "id": "a002_118_0050",
+            "en_US": "SERIOUS"
+        },
+        {
+            "id": "a002_118_0051",
+            "en_US": "SERPERIOR"
+        },
+        {
+            "id": "a002_118_0052",
+            "en_US": "SERVICE"
+        },
+        {
+            "id": "a002_118_0053",
+            "en_US": "SERVINE"
+        },
+        {
+            "id": "a002_118_0054",
+            "en_US": "SEVIPER"
+        },
+        {
+            "id": "a002_118_0055",
+            "en_US": "SEWADDLE"
+        },
+        {
+            "id": "a002_118_0056",
+            "en_US": "SHADOWBALL"
+        },
+        {
+            "id": "a002_118_0057",
+            "en_US": "SHADOWCLAW"
+        },
+        {
+            "id": "a002_118_0058",
+            "en_US": "SHADOWFORCE"
+        },
+        {
+            "id": "a002_118_0059",
+            "en_US": "SHADOWPUNCH"
+        },
+        {
+            "id": "a002_118_0060",
+            "en_US": "SHADOWSNEAK"
+        },
+        {
+            "id": "a002_118_0061",
+            "en_US": "SHADOWTAG"
+        },
+        {
+            "id": "a002_118_0062",
+            "en_US": "SHARPEDO"
+        },
+        {
+            "id": "a002_118_0063",
+            "en_US": "SHARPEN"
+        },
+        {
+            "id": "a002_118_0064",
+            "en_US": "SHAYMIN"
+        },
+        {
+            "id": "a002_118_0065",
+            "en_US": "SHEDINJA"
+        },
+        {
+            "id": "a002_118_0066",
+            "en_US": "SHEDSKIN"
+        },
+        {
+            "id": "a002_118_0067",
+            "en_US": "SHEERCOLD"
+        },
+        {
+            "id": "a002_118_0068",
+            "en_US": "SHEERFORCE"
+        },
+        {
+            "id": "a002_118_0069",
+            "en_US": "SHELGON"
+        },
+        {
+            "id": "a002_118_0070",
+            "en_US": "SHELLARMOR"
+        },
+        {
+            "id": "a002_118_0071",
+            "en_US": "SHELLDER"
+        },
+        {
+            "id": "a002_118_0072",
+            "en_US": "SHELLOS"
+        },
+        {
+            "id": "a002_118_0073",
+            "en_US": "SHELLSMASH"
+        },
+        {
+            "id": "a002_118_0074",
+            "en_US": "SHELMET"
+        },
+        {
+            "id": "a002_118_0075",
+            "en_US": "SHIELDDUST"
+        },
+        {
+            "id": "a002_118_0076",
+            "en_US": "SHIELDON"
+        },
+        {
+            "id": "a002_118_0077",
+            "en_US": "SHIFTGEAR"
+        },
+        {
+            "id": "a002_118_0078",
+            "en_US": "SHIFTRY"
+        },
+        {
+            "id": "a002_118_0079",
+            "en_US": "SHINX"
+        },
+        {
+            "id": "a002_118_0080",
+            "en_US": "SHOCKWAVE"
+        },
+        {
+            "id": "a002_118_0081",
+            "en_US": "SHOP"
+        },
+        {
+            "id": "a002_118_0082",
+            "en_US": "SHOPPING"
+        },
+        {
+            "id": "a002_118_0083",
+            "en_US": "SHROOMISH"
+        },
+        {
+            "id": "a002_118_0084",
+            "en_US": "SHUCKLE"
+        },
+        {
+            "id": "a002_118_0085",
+            "en_US": "SHUPPET"
+        },
+        {
+            "id": "a002_118_0086",
+            "en_US": "SIBLINGS"
+        },
+        {
+            "id": "a002_118_0087",
+            "en_US": "SIGH"
+        },
+        {
+            "id": "a002_118_0088",
+            "en_US": "SIGILYPH"
+        },
+        {
+            "id": "a002_118_0089",
+            "en_US": "SIGNALBEAM"
+        },
+        {
+            "id": "a002_118_0090",
+            "en_US": "SILCOON"
+        },
+        {
+            "id": "a002_118_0091",
+            "en_US": "SILVERWIND"
+        },
+        {
+            "id": "a002_118_0092",
+            "en_US": "SIMIPOUR"
+        },
+        {
+            "id": "a002_118_0093",
+            "en_US": "SIMISAGE"
+        },
+        {
+            "id": "a002_118_0094",
+            "en_US": "SIMISEAR"
+        },
+        {
+            "id": "a002_118_0095",
+            "en_US": "SIMPLE"
+        },
+        {
+            "id": "a002_118_0096",
+            "en_US": "SIMPLEBEAM"
+        },
+        {
+            "id": "a002_118_0097",
+            "en_US": "SING"
+        },
+        {
+            "id": "a002_118_0098",
+            "en_US": "SINGLE"
+        },
+        {
+            "id": "a002_118_0099",
+            "en_US": "SISTER"
+        },
+        {
+            "id": "a002_118_0100",
+            "en_US": "SKARMORY"
+        },
+        {
+            "id": "a002_118_0101",
+            "en_US": "SKETCH"
+        },
+        {
+            "id": "a002_118_0102",
+            "en_US": "SKILLFUL"
+        },
+        {
+            "id": "a002_118_0103",
+            "en_US": "SKILLLINK"
+        },
+        {
+            "id": "a002_118_0104",
+            "en_US": "SKILLSWAP"
+        },
+        {
+            "id": "a002_118_0105",
+            "en_US": "SKIPLOOM"
+        },
+        {
+            "id": "a002_118_0106",
+            "en_US": "SKITTY"
+        },
+        {
+            "id": "a002_118_0107",
+            "en_US": "SKORUPI"
+        },
+        {
+            "id": "a002_118_0108",
+            "en_US": "SKULLBASH"
+        },
+        {
+            "id": "a002_118_0109",
+            "en_US": "SKUNTANK"
+        },
+        {
+            "id": "a002_118_0110",
+            "en_US": "SKYATTACK"
+        },
+        {
+            "id": "a002_118_0111",
+            "en_US": "SKYDROP"
+        },
+        {
+            "id": "a002_118_0112",
+            "en_US": "SKYUPPERCUT"
+        },
+        {
+            "id": "a002_118_0113",
+            "en_US": "SLACKOFF"
+        },
+        {
+            "id": "a002_118_0114",
+            "en_US": "SLAKING"
+        },
+        {
+            "id": "a002_118_0115",
+            "en_US": "SLAKOTH"
+        },
+        {
+            "id": "a002_118_0116",
+            "en_US": "SLAM"
+        },
+        {
+            "id": "a002_118_0117",
+            "en_US": "SLASH"
+        },
+        {
+            "id": "a002_118_0118",
+            "en_US": "SLEEPPOWDER"
+        },
+        {
+            "id": "a002_118_0119",
+            "en_US": "SLEEPTALK"
+        },
+        {
+            "id": "a002_118_0120",
+            "en_US": "SLOWBRO"
+        },
+        {
+            "id": "a002_118_0121",
+            "en_US": "SLOWKING"
+        },
+        {
+            "id": "a002_118_0122",
+            "en_US": "SLOWPOKE"
+        },
+        {
+            "id": "a002_118_0123",
+            "en_US": "SLOWSTART"
+        },
+        {
+            "id": "a002_118_0124",
+            "en_US": "SLUDGE"
+        },
+        {
+            "id": "a002_118_0125",
+            "en_US": "SLUDGEBOMB"
+        },
+        {
+            "id": "a002_118_0126",
+            "en_US": "SLUDGEWAVE"
+        },
+        {
+            "id": "a002_118_0127",
+            "en_US": "SLUGMA"
+        },
+        {
+            "id": "a002_118_0128",
+            "en_US": "SMACKDOWN"
+        },
+        {
+            "id": "a002_118_0129",
+            "en_US": "SMEARGLE"
+        },
+        {
+            "id": "a002_118_0130",
+            "en_US": "SMELLINGSALT"
+        },
+        {
+            "id": "a002_118_0131",
+            "en_US": "SMILE"
+        },
+        {
+            "id": "a002_118_0132",
+            "en_US": "SMOG"
+        },
+        {
+            "id": "a002_118_0133",
+            "en_US": "SMOKESCREEN"
+        },
+        {
+            "id": "a002_118_0134",
+            "en_US": "SMOOCHUM"
+        },
+        {
+            "id": "a002_118_0135",
+            "en_US": "SNATCH"
+        },
+        {
+            "id": "a002_118_0136",
+            "en_US": "SNEASEL"
+        },
+        {
+            "id": "a002_118_0137",
+            "en_US": "SNICKER"
+        },
+        {
+            "id": "a002_118_0138",
+            "en_US": "SNIPER"
+        },
+        {
+            "id": "a002_118_0139",
+            "en_US": "SNIVY"
+        },
+        {
+            "id": "a002_118_0140",
+            "en_US": "SNORE"
+        },
+        {
+            "id": "a002_118_0141",
+            "en_US": "SNORLAX"
+        },
+        {
+            "id": "a002_118_0142",
+            "en_US": "SNORT"
+        },
+        {
+            "id": "a002_118_0143",
+            "en_US": "SNORUNT"
+        },
+        {
+            "id": "a002_118_0144",
+            "en_US": "SNOVER"
+        },
+        {
+            "id": "a002_118_0145",
+            "en_US": "SNOWCLOAK"
+        },
+        {
+            "id": "a002_118_0146",
+            "en_US": "SNOWWARNING"
+        },
+        {
+            "id": "a002_118_0147",
+            "en_US": "SNUBBULL"
+        },
+        {
+            "id": "a002_118_0148",
+            "en_US": "SOAK"
+        },
+        {
+            "id": "a002_118_0149",
+            "en_US": "SOFTBOILED"
+        },
+        {
+            "id": "a002_118_0150",
+            "en_US": "SOFTWARE"
+        },
+        {
+            "id": "a002_118_0151",
+            "en_US": "SOLARBEAM"
+        },
+        {
+            "id": "a002_118_0152",
+            "en_US": "SOLARPOWER"
+        },
+        {
+            "id": "a002_118_0153",
+            "en_US": "SOLIDROCK"
+        },
+        {
+            "id": "a002_118_0154",
+            "en_US": "SOLOSIS"
+        },
+        {
+            "id": "a002_118_0155",
+            "en_US": "SOLROCK"
+        },
+        {
+            "id": "a002_118_0156",
+            "en_US": "SONG"
+        },
+        {
+            "id": "a002_118_0157",
+            "en_US": "SONGS"
+        },
+        {
+            "id": "a002_118_0158",
+            "en_US": "SONICBOOM"
+        },
+        {
+            "id": "a002_118_0159",
+            "en_US": "SORRY"
+        },
+        {
+            "id": "a002_118_0160",
+            "en_US": "SOSORRY"
+        },
+        {
+            "id": "a002_118_0161",
+            "en_US": "SOUNDPROOF"
+        },
+        {
+            "id": "a002_118_0162",
+            "en_US": "SPACIALREND"
+        },
+        {
+            "id": "a002_118_0163",
+            "en_US": "SPARK"
+        },
+        {
+            "id": "a002_118_0164",
+            "en_US": "SPEAROW"
+        },
+        {
+            "id": "a002_118_0165",
+            "en_US": "SPECTATE"
+        },
+        {
+            "id": "a002_118_0166",
+            "en_US": "SPEEDBOOST"
+        },
+        {
+            "id": "a002_118_0167",
+            "en_US": "SPHEAL"
+        },
+        {
+            "id": "a002_118_0168",
+            "en_US": "SPIDERWEB"
+        },
+        {
+            "id": "a002_118_0169",
+            "en_US": "SPIKECANNON"
+        },
+        {
+            "id": "a002_118_0170",
+            "en_US": "SPIKES"
+        },
+        {
+            "id": "a002_118_0171",
+            "en_US": "SPIN"
+        },
+        {
+            "id": "a002_118_0172",
+            "en_US": "SPINARAK"
+        },
+        {
+            "id": "a002_118_0173",
+            "en_US": "SPINDA"
+        },
+        {
+            "id": "a002_118_0174",
+            "en_US": "SPIRIT"
+        },
+        {
+            "id": "a002_118_0175",
+            "en_US": "SPIRITOMB"
+        },
+        {
+            "id": "a002_118_0176",
+            "en_US": "SPITE"
+        },
+        {
+            "id": "a002_118_0177",
+            "en_US": "SPITUP"
+        },
+        {
+            "id": "a002_118_0178",
+            "en_US": "SPLASH"
+        },
+        {
+            "id": "a002_118_0179",
+            "en_US": "SPOINK"
+        },
+        {
+            "id": "a002_118_0180",
+            "en_US": "SPORE"
+        },
+        {
+            "id": "a002_118_0181",
+            "en_US": "SPORTS"
+        },
+        {
+            "id": "a002_118_0182",
+            "en_US": "SPRING"
+        },
+        {
+            "id": "a002_118_0183",
+            "en_US": "SQUIRTLE"
+        },
+        {
+            "id": "a002_118_0184",
+            "en_US": "STALL"
+        },
+        {
+            "id": "a002_118_0185",
+            "en_US": "STANTLER"
+        },
+        {
+            "id": "a002_118_0186",
+            "en_US": "STARAPTOR"
+        },
+        {
+            "id": "a002_118_0187",
+            "en_US": "STARAVIA"
+        },
+        {
+            "id": "a002_118_0188",
+            "en_US": "STARLY"
+        },
+        {
+            "id": "a002_118_0189",
+            "en_US": "STARMIE"
+        },
+        {
+            "id": "a002_118_0190",
+            "en_US": "STARYU"
+        },
+        {
+            "id": "a002_118_0191",
+            "en_US": "STATIC"
+        },
+        {
+            "id": "a002_118_0192",
+            "en_US": "STEADFAST"
+        },
+        {
+            "id": "a002_118_0193",
+            "en_US": "STEALTHROCK"
+        },
+        {
+            "id": "a002_118_0194",
+            "en_US": "STEAMROLLER"
+        },
+        {
+            "id": "a002_118_0195",
+            "en_US": "STEEL"
+        },
+        {
+            "id": "a002_118_0196",
+            "en_US": "STEELIX"
+        },
+        {
+            "id": "a002_118_0197",
+            "en_US": "STEELWING"
+        },
+        {
+            "id": "a002_118_0198",
+            "en_US": "STENCH"
+        },
+        {
+            "id": "a002_118_0199",
+            "en_US": "STICKYHOLD"
+        },
+        {
+            "id": "a002_118_0200",
+            "en_US": "STOCKPILE"
+        },
+        {
+            "id": "a002_118_0201",
+            "en_US": "STOMP"
+        },
+        {
+            "id": "a002_118_0202",
+            "en_US": "STONEEDGE"
+        },
+        {
+            "id": "a002_118_0203",
+            "en_US": "STORE"
+        },
+        {
+            "id": "a002_118_0204",
+            "en_US": "STOREDPOWER"
+        },
+        {
+            "id": "a002_118_0205",
+            "en_US": "STORMDRAIN"
+        },
+        {
+            "id": "a002_118_0206",
+            "en_US": "STORMTHROW"
+        },
+        {
+            "id": "a002_118_0207",
+            "en_US": "STORY"
+        },
+        {
+            "id": "a002_118_0208",
+            "en_US": "STOUTLAND"
+        },
+        {
+            "id": "a002_118_0209",
+            "en_US": "STRANGENESS"
+        },
+        {
+            "id": "a002_118_0210",
+            "en_US": "STRATEGY"
+        },
+        {
+            "id": "a002_118_0211",
+            "en_US": "STRENGTH"
+        },
+        {
+            "id": "a002_118_0212",
+            "en_US": "STRINGSHOT"
+        },
+        {
+            "id": "a002_118_0213",
+            "en_US": "STRONG"
+        },
+        {
+            "id": "a002_118_0214",
+            "en_US": "STRUGGLE"
+        },
+        {
+            "id": "a002_118_0215",
+            "en_US": "STRUGGLEBUG"
+        },
+        {
+            "id": "a002_118_0216",
+            "en_US": "STUDY"
+        },
+        {
+            "id": "a002_118_0217",
+            "en_US": "STUFFEDTOY"
+        },
+        {
+            "id": "a002_118_0218",
+            "en_US": "STUNFISK"
+        },
+        {
+            "id": "a002_118_0219",
+            "en_US": "STUNKY"
+        },
+        {
+            "id": "a002_118_0220",
+            "en_US": "STUNSPORE"
+        },
+        {
+            "id": "a002_118_0221",
+            "en_US": "STURDY"
+        },
+        {
+            "id": "a002_118_0222",
+            "en_US": "SUBMISSION"
+        },
+        {
+            "id": "a002_118_0223",
+            "en_US": "SUBSTITUTE"
+        },
+        {
+            "id": "a002_118_0224",
+            "en_US": "SUBTLE"
+        },
+        {
+            "id": "a002_118_0225",
+            "en_US": "SUBWAY"
+        },
+        {
+            "id": "a002_118_0226",
+            "en_US": "SUCKERPUNCH"
+        },
+        {
+            "id": "a002_118_0227",
+            "en_US": "SUCTIONCUPS"
+        },
+        {
+            "id": "a002_118_0228",
+            "en_US": "SUDOWOODO"
+        },
+        {
+            "id": "a002_118_0229",
+            "en_US": "SUICUNE"
+        },
+        {
+            "id": "a002_118_0230",
+            "en_US": "SUMMER"
+        },
+        {
+            "id": "a002_118_0231",
+            "en_US": "SUNFLORA"
+        },
+        {
+            "id": "a002_118_0232",
+            "en_US": "SUNKERN"
+        },
+        {
+            "id": "a002_118_0233",
+            "en_US": "SUNNYDAY"
+        },
+        {
+            "id": "a002_118_0234",
+            "en_US": "SUPERFANG"
+        },
+        {
+            "id": "a002_118_0235",
+            "en_US": "SUPERLUCK"
+        },
+        {
+            "id": "a002_118_0236",
+            "en_US": "SUPERPOWER"
+        },
+        {
+            "id": "a002_118_0237",
+            "en_US": "SUPERSONIC"
+        },
+        {
+            "id": "a002_118_0238",
+            "en_US": "SURF"
+        },
+        {
+            "id": "a002_118_0239",
+            "en_US": "SURPRISE"
+        },
+        {
+            "id": "a002_118_0240",
+            "en_US": "SURRENDER"
+        },
+        {
+            "id": "a002_118_0241",
+            "en_US": "SURSKIT"
+        },
+        {
+            "id": "a002_118_0242",
+            "en_US": "SWABLU"
+        },
+        {
+            "id": "a002_118_0243",
+            "en_US": "SWADLOON"
+        },
+        {
+            "id": "a002_118_0244",
+            "en_US": "SWAGGER"
+        },
+        {
+            "id": "a002_118_0245",
+            "en_US": "SWALLOW"
+        },
+        {
+            "id": "a002_118_0246",
+            "en_US": "SWALOT"
+        },
+        {
+            "id": "a002_118_0247",
+            "en_US": "SWAMPERT"
+        },
+        {
+            "id": "a002_118_0248",
+            "en_US": "SWANNA"
+        },
+        {
+            "id": "a002_118_0249",
+            "en_US": "SWARM"
+        },
+        {
+            "id": "a002_118_0250",
+            "en_US": "SWEETKISS"
+        },
+        {
+            "id": "a002_118_0251",
+            "en_US": "SWEETS"
+        },
+        {
+            "id": "a002_118_0252",
+            "en_US": "SWEETSCENT"
+        },
+        {
+            "id": "a002_118_0253",
+            "en_US": "SWELLOW"
+        },
+        {
+            "id": "a002_118_0254",
+            "en_US": "SWIFT"
+        },
+        {
+            "id": "a002_118_0255",
+            "en_US": "SWIFTSWIM"
+        },
+        {
+            "id": "a002_118_0256",
+            "en_US": "SWINUB"
+        },
+        {
+            "id": "a002_118_0257",
+            "en_US": "SWITCHEROO"
+        },
+        {
+            "id": "a002_118_0258",
+            "en_US": "SWOOBAT"
+        },
+        {
+            "id": "a002_118_0259",
+            "en_US": "SWORDSDANCE"
+        },
+        {
+            "id": "a002_118_0260",
+            "en_US": "SYNCHRONIZE"
+        },
+        {
+            "id": "a002_118_0261",
+            "en_US": "SYNCHRONOISE"
+        },
+        {
+            "id": "a002_118_0262",
+            "en_US": "SYNTHESIS"
+        },
+        {
+            "id": "a002_118_0263",
+            "en_US": "SYSTEM"
+        }
+    ]
+}

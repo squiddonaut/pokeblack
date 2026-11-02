@@ -1,0 +1,61 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_215_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_215_0001",
+            "en_US": "Alberta"
+        },
+        {
+            "id": "a002_215_0002",
+            "en_US": "British Columbia"
+        },
+        {
+            "id": "a002_215_0003",
+            "en_US": "Manitoba"
+        },
+        {
+            "id": "a002_215_0004",
+            "en_US": "New Brunswick"
+        },
+        {
+            "id": "a002_215_0005",
+            "en_US": "Newfoundland and Labrador"
+        },
+        {
+            "id": "a002_215_0006",
+            "en_US": "Northwest Territories"
+        },
+        {
+            "id": "a002_215_0007",
+            "en_US": "Nova Scotia"
+        },
+        {
+            "id": "a002_215_0008",
+            "en_US": "Nunavut"
+        },
+        {
+            "id": "a002_215_0009",
+            "en_US": "Ontario"
+        },
+        {
+            "id": "a002_215_0010",
+            "en_US": "Prince Edward Island"
+        },
+        {
+            "id": "a002_215_0011",
+            "en_US": "Quebec"
+        },
+        {
+            "id": "a002_215_0012",
+            "en_US": "Saskatchewan"
+        },
+        {
+            "id": "a002_215_0013",
+            "en_US": "Yukon"
+        }
+    ]
+}

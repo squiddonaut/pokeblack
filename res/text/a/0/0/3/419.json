@@ -1,0 +1,116 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_419_0000",
+            "en_US": [
+                "Rood: It smells of the sea here.{VAR BE01}\n",
+                "This place has the same ocean smell\n",
+                "as where I was born...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0001",
+            "en_US": [
+                "Ghetsis wandered the lands of this world\n",
+                "all over, collecting knowledge of all kinds{VAR BE00}\n",
+                "while searching for like-minded people.{VAR BE01}\n",
+                "From the moment we met, he\n",
+                "understood what I desired.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0002",
+            "en_US": [
+                "The ability to understand the minds and\n",
+                "the needs of others...{VAR BE01}\n",
+                "This is an ability that everyone needs\n",
+                "to survive.{VAR BE01}\n",
+                "My lord N is a kind and excellent person\n",
+                "who understands the hearts of Pokémon.{VAR BE01}\n",
+                "But, conversely, perhaps his ability to\n",
+                "understand the hearts and feelings{VAR BE00}\n",
+                "of people is not developed enough.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0003",
+            "en_US": [
+                "But... Even that was part of the\n",
+                "perfection of Ghetsis's plan.{VAR BE01}\n",
+                "When it comes to Ghetsis, I cannot\n",
+                "separate the truths from the lies.{VAR BE01}\n",
+                "See this? I received it from Ghetsis,\n",
+                "but I no longer need it.{VAR BE00}\n",
+                "I hope you can put it to good use.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0004",
+            "en_US": [
+                "Rood: Someday, if my lord N develops the\n",
+                "ability to understand the feelings{VAR BE00}\n",
+                "of people as well as Pokémon,{VAR BE00}\n",
+                "I would like us to gather again.{VAR BE01}\n",
+                "More than anything, I want to see\n",
+                "N confront Ghetsis.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0005",
+            "en_US": [
+                "Looker: Ah... And now,\n",
+                "about Team Plasma...{VAR BE01}\n",
+                "I am an officer of the\n",
+                "International Police, and there are so{VAR BE00}\n",
+                "many things you must tell me at once!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0006",
+            "en_US": "Rood: If that is what you desire...{VAR BE01}"
+        },
+        {
+            "id": "a003_419_0007",
+            "en_US": [
+                "Looker: Many thanks!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding,\n",
+                "there yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "What it is they are thinking,\n",
+                "what it may be they are hoping,{VAR BE00}\n",
+                "this is the information I have need of.{VAR BE00}\n",
+                "Quick and soon, say I!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0008",
+            "en_US": [
+                "Looker: Thank you a lot!{VAR BE01}\n",
+                "Eh, {VAR 0100 0000}...\n",
+                "On a topic I must speak to you.{VAR BE01}\n",
+                "Having received such a report, of\n",
+                "someone far from here, who has seen{VAR BE00}\n",
+                "a person like N and...a dragon Pokémon.{VAR BE01}\n",
+                "I am on my way to verify the veracity\n",
+                "of this information.{VAR BE00}\n",
+                "We will meet again one day!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_419_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_419_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_419_0011",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

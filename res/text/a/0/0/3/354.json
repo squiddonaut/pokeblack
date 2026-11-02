@@ -1,0 +1,71 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_354_0000",
+            "en_US": [
+                "I happen to be the daughter of the\n",
+                "couple running the Pokémon Day Care{VAR BE00}\n",
+                "next door!{VAR BE01}\n",
+                "I know, it's sweet, isn't it?{VAR BE01}\n",
+                "Parents and daughter all bringing up\n",
+                "youngsters for a living.{VAR BE01}\n",
+                "Helping Pokémon and people grow up\n",
+                "healthy is a wonderful thing!"
+            ]
+        },
+        {
+            "id": "a003_354_0001",
+            "en_US": "Are you familiar with Double Battles?"
+        },
+        {
+            "id": "a003_354_0002",
+            "en_US": [
+                "Oh, I do love explaining how things work.{VAR BE01}\n",
+                "Now, a Double Battle is a Pokémon battle\n",
+                "with two Pokémon on each side.{VAR BE01}\n",
+                "Choosing two that combine well is vital."
+            ]
+        },
+        {
+            "id": "a003_354_0003",
+            "en_US": [
+                "You do have a Gym Badge, after all.{VAR BE01}\n",
+                "You're well aware that Double Battles\n",
+                "are Pokémon battles where each side{VAR BE00}\n",
+                "uses two Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_354_0004",
+            "en_US": "Seriously. Guys are all just little boys."
+        },
+        {
+            "id": "a003_354_0005",
+            "en_US": "Yeah! Yeah!"
+        },
+        {
+            "id": "a003_354_0006",
+            "en_US": [
+                "Rrrraaaaar!{VAR BE01}\n",
+                "I'll run! You gonna chase me? \n",
+                "You run! Am I gonna chase you?{VAR BE01}\n",
+                "Change your perspective--\n",
+                "and the reality changes."
+            ]
+        },
+        {
+            "id": "a003_354_0007",
+            "en_US": "Your Pokémon are really energetic!"
+        },
+        {
+            "id": "a003_354_0008",
+            "en_US": [
+                "Um-hmm.\n",
+                "Your Pokémon...{VAR BE01}\n",
+                "They don't seem to be healthy.\n",
+                "Let them rest here a little bit!{VAR BE01}"
+            ]
+        }
+    ]
+}

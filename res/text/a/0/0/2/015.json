@@ -1,0 +1,1198 @@
+{
+    "flags": 240,
+    "messages": [
+        {
+            "id": "a002_015_0000",
+            "en_US": "●●"
+        },
+        {
+            "id": "a002_015_0001",
+            "en_US": "A wild {VAR 0101 0000} appeared!"
+        },
+        {
+            "id": "a002_015_0002",
+            "en_US": [
+                "Oh! A wild {VAR 0101 0000} and\n",
+                "{VAR 0101 0001} appeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0003",
+            "en_US": "A wild {VAR 0101 0000} appeared!"
+        },
+        {
+            "id": "a002_015_0004",
+            "en_US": "A wild {VAR 0101 0000} appeared!"
+        },
+        {
+            "id": "a002_015_0005",
+            "en_US": [
+                "The {VAR 0101 0000} your Pokémon saw\n",
+                "in the dream appeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0006",
+            "en_US": "{VAR 0101 0000} appeared!"
+        },
+        {
+            "id": "a002_015_0007",
+            "en_US": [
+                "You are challenged by\n",
+                "{VAR 010E 0000} {VAR 0100 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_015_0008",
+            "en_US": [
+                "You are challenged by\n",
+                "{VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_015_0009",
+            "en_US": [
+                "You are challenged by\n",
+                "{VAR 010E 0000} {VAR 0100 0001} and{VAR BE00}\n",
+                "{VAR 010E 0002} {VAR 0100 0003}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_015_0010",
+            "en_US": [
+                "You are challenged by\n",
+                "{VAR 0100 0000} and {VAR 0100 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_015_0011",
+            "en_US": "Go! {VAR 0102 0000}!"
+        },
+        {
+            "id": "a002_015_0012",
+            "en_US": [
+                "Go! {VAR 0102 0000} and\n",
+                "{VAR 0102 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0013",
+            "en_US": [
+                "Go! {VAR 0102 0000},\n",
+                "{VAR 0102 0001}, and {VAR 0102 0002}!"
+            ]
+        },
+        {
+            "id": "a002_015_0014",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001} sent\n",
+                "out {VAR 0102 0002}!"
+            ]
+        },
+        {
+            "id": "a002_015_0015",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001} sent out\n",
+                "{VAR 0102 0002} and {VAR 0102 0003}!"
+            ]
+        },
+        {
+            "id": "a002_015_0016",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001} sent out\n",
+                "{VAR 0102 0002}, {VAR 0102 0003},{VAR BE00}\n",
+                "and {VAR 0102 0004}!"
+            ]
+        },
+        {
+            "id": "a002_015_0017",
+            "en_US": [
+                "{VAR 0100 0000} sent out\n",
+                "{VAR 0102 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0018",
+            "en_US": [
+                "{VAR 0100 0000} sent out\n",
+                "{VAR 0102 0001} and {VAR 0102 0002}!"
+            ]
+        },
+        {
+            "id": "a002_015_0019",
+            "en_US": [
+                "{VAR 0100 0000} sent out\n",
+                "{VAR 0102 0001}, {VAR 0102 0002},{VAR BE00}\n",
+                "and {VAR 0102 0003}!"
+            ]
+        },
+        {
+            "id": "a002_015_0020",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001} is\n",
+                "about to send in {VAR 0102 0002}.{VAR BE00}\n",
+                "Will you switch your Pokémon?"
+            ]
+        },
+        {
+            "id": "a002_015_0021",
+            "en_US": "You're in charge, {VAR 0102 0000}!"
+        },
+        {
+            "id": "a002_015_0022",
+            "en_US": "Go for it, {VAR 0102 0000}!"
+        },
+        {
+            "id": "a002_015_0023",
+            "en_US": [
+                "Just a little more!\n",
+                "Hang in there, {VAR 0102 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0024",
+            "en_US": [
+                "Your foe's weak!\n",
+                "Get 'em, {VAR 0102 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0025",
+            "en_US": [
+                "{VAR 0102 0000}, switch out!\n",
+                "Come back!"
+            ]
+        },
+        {
+            "id": "a002_015_0026",
+            "en_US": "{VAR 0102 0000}, come back!"
+        },
+        {
+            "id": "a002_015_0027",
+            "en_US": [
+                "{VAR 0102 0000}, enough!\n",
+                "Get back!"
+            ]
+        },
+        {
+            "id": "a002_015_0028",
+            "en_US": [
+                "{VAR 0102 0000}, OK!\n",
+                "Come back!"
+            ]
+        },
+        {
+            "id": "a002_015_0029",
+            "en_US": [
+                "{VAR 0102 0000}, good job!\n",
+                "Get back!"
+            ]
+        },
+        {
+            "id": "a002_015_0030",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001}\n",
+                "withdrew {VAR 0102 0002}!"
+            ]
+        },
+        {
+            "id": "a002_015_0031",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "withdrew {VAR 0102 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0032",
+            "en_US": "Hit {VAR 0200 0000} time(s)!"
+        },
+        {
+            "id": "a002_015_0033",
+            "en_US": [
+                "{VAR 0100 0000} used the\n",
+                "{VAR 0109 0001}."
+            ]
+        },
+        {
+            "id": "a002_015_0034",
+            "en_US": [
+                "{VAR 0100 0000} used the\n",
+                "{VAR 0109 0001}."
+            ]
+        },
+        {
+            "id": "a002_015_0035",
+            "en_US": [
+                "{VAR 010E 0000} {VAR 0100 0001}\n",
+                "used one {VAR 0109 0002}!"
+            ]
+        },
+        {
+            "id": "a002_015_0036",
+            "en_US": [
+                "{VAR 0100 0000} launched the {VAR 0109 0002}\n",
+                "toward {VAR 0102 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0037",
+            "en_US": [
+                "You cannot use your\n",
+                "Wonder Launcher now!"
+            ]
+        },
+        {
+            "id": "a002_015_0038",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon\n",
+                "rotated to the left!"
+            ]
+        },
+        {
+            "id": "a002_015_0039",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon\n",
+                "rotated to the left!"
+            ]
+        },
+        {
+            "id": "a002_015_0040",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon\n",
+                "rotated to the right!"
+            ]
+        },
+        {
+            "id": "a002_015_0041",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon\n",
+                "rotated to the right!"
+            ]
+        },
+        {
+            "id": "a002_015_0042",
+            "en_US": [
+                "{VAR 010C 0000} gained\n",
+                "{VAR 0206 0001} Exp. Points!"
+            ]
+        },
+        {
+            "id": "a002_015_0043",
+            "en_US": [
+                "{VAR 010C 0000} gained a boosted\n",
+                "{VAR 0206 0001} Exp. Points!"
+            ]
+        },
+        {
+            "id": "a002_015_0044",
+            "en_US": [
+                "Player defeated\n",
+                "{VAR 010E 0000} {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0045",
+            "en_US": [
+                "Player beat\n",
+                "{VAR 010E 0000} {VAR 0100 0001}{VAR BE00}\n",
+                "and {VAR 010E 0002} {VAR 0100 0003}!"
+            ]
+        },
+        {
+            "id": "a002_015_0046",
+            "en_US": [
+                "Player lost against\n",
+                "{VAR 010E 0000} {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0047",
+            "en_US": [
+                "Player battled to a draw against\n",
+                "{VAR 010E 0000} {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0048",
+            "en_US": [
+                "Player defeated\n",
+                "{VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0049",
+            "en_US": [
+                "Player defeated {VAR 0100 0000}\n",
+                "and {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0050",
+            "en_US": [
+                "Player lost against\n",
+                "{VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0051",
+            "en_US": [
+                "Player lost to {VAR 0100 0000}\n",
+                "and {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0052",
+            "en_US": [
+                "Player battled to a draw against\n",
+                "{VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0053",
+            "en_US": [
+                "Player battled to a draw against\n",
+                "{VAR 0100 0000} and {VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0054",
+            "en_US": [
+                "{VAR 0100 0000} is out of\n",
+                "usable Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_015_0055",
+            "en_US": [
+                "{VAR 0100 0000} dropped ${VAR 0204 0001}\n",
+                "in panic..."
+            ]
+        },
+        {
+            "id": "a002_015_0056",
+            "en_US": [
+                "{VAR 0100 0000} paid out ${VAR 0204 0001}\n",
+                "to the winner..."
+            ]
+        },
+        {
+            "id": "a002_015_0057",
+            "en_US": "{VAR 0100 0000} blacked out!"
+        },
+        {
+            "id": "a002_015_0058",
+            "en_US": [
+                "{VAR 0100 0000} got ${VAR 0204 0001}\n",
+                "for winning!"
+            ]
+        },
+        {
+            "id": "a002_015_0059",
+            "en_US": [
+                "{VAR 0100 0000} picked up\n",
+                "${VAR 0204 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0060",
+            "en_US": [
+                "{VAR 010C 0000} grew to\n",
+                "Lv. {VAR 0202 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0061",
+            "en_US": [
+                "Oh, no!\n",
+                "The Pokémon broke free!"
+            ]
+        },
+        {
+            "id": "a002_015_0062",
+            "en_US": [
+                "Aww!\n",
+                "It appeared to be caught!"
+            ]
+        },
+        {
+            "id": "a002_015_0063",
+            "en_US": [
+                "Aargh!\n",
+                "Almost had it!"
+            ]
+        },
+        {
+            "id": "a002_015_0064",
+            "en_US": [
+                "Shoot!\n",
+                "It was so close, too!"
+            ]
+        },
+        {
+            "id": "a002_015_0065",
+            "en_US": [
+                "Gotcha!\n",
+                "{VAR 0101 0000} was caught!"
+            ]
+        },
+        {
+            "id": "a002_015_0066",
+            "en_US": [
+                "{VAR 0101 0000}'s data was\n",
+                "added to the Pokédex."
+            ]
+        },
+        {
+            "id": "a002_015_0067",
+            "en_US": [
+                "The Trainer blocked the ball!{VAR BE01}\n",
+                "Don't be a thief!"
+            ]
+        },
+        {
+            "id": "a002_015_0068",
+            "en_US": "But it had no effect!"
+        },
+        {
+            "id": "a002_015_0069",
+            "en_US": "What will {VAR 010C 0000} do?"
+        },
+        {
+            "id": "a002_015_0070",
+            "en_US": "What will {VAR 0100 0000} do?"
+        },
+        {
+            "id": "a002_015_0071",
+            "en_US": "{VAR BE09 003C}But it failed!"
+        },
+        {
+            "id": "a002_015_0072",
+            "en_US": "Got away safely!"
+        },
+        {
+            "id": "a002_015_0073",
+            "en_US": "Couldn't get away!"
+        },
+        {
+            "id": "a002_015_0074",
+            "en_US": "Can't escape!"
+        },
+        {
+            "id": "a002_015_0075",
+            "en_US": "The wild {VAR 0102 0000} fled!"
+        },
+        {
+            "id": "a002_015_0076",
+            "en_US": [
+                "No! There's no running\n",
+                "from a Trainer battle!"
+            ]
+        },
+        {
+            "id": "a002_015_0077",
+            "en_US": [
+                "Would you like to forfeit the match\n",
+                "and quit now?"
+            ]
+        },
+        {
+            "id": "a002_015_0078",
+            "en_US": "It's super effective!"
+        },
+        {
+            "id": "a002_015_0079",
+            "en_US": "It's not very effective..."
+        },
+        {
+            "id": "a002_015_0080",
+            "en_US": "It hurt itself in its confusion!"
+        },
+        {
+            "id": "a002_015_0081",
+            "en_US": "A critical hit!"
+        },
+        {
+            "id": "a002_015_0082",
+            "en_US": [
+                "But there was no PP left\n",
+                "for the move!"
+            ]
+        },
+        {
+            "id": "a002_015_0083",
+            "en_US": [
+                "{VAR 0100 0000} came to the rescue\n",
+                "to restore {VAR 0102 0001}'s health!"
+            ]
+        },
+        {
+            "id": "a002_015_0084",
+            "en_US": "The sunlight turned harsh!"
+        },
+        {
+            "id": "a002_015_0085",
+            "en_US": "It started to rain!"
+        },
+        {
+            "id": "a002_015_0086",
+            "en_US": "A sandstorm kicked up!"
+        },
+        {
+            "id": "a002_015_0087",
+            "en_US": "It started to hail!"
+        },
+        {
+            "id": "a002_015_0088",
+            "en_US": "Fog crept up as thick as soup!"
+        },
+        {
+            "id": "a002_015_0089",
+            "en_US": "The sunlight faded."
+        },
+        {
+            "id": "a002_015_0090",
+            "en_US": "The rain stopped."
+        },
+        {
+            "id": "a002_015_0091",
+            "en_US": "The sandstorm subsided."
+        },
+        {
+            "id": "a002_015_0092",
+            "en_US": "The hail stopped."
+        },
+        {
+            "id": "a002_015_0093",
+            "en_US": "The fog lifted."
+        },
+        {
+            "id": "a002_015_0094",
+            "en_US": "The effects of weather disappeared."
+        },
+        {
+            "id": "a002_015_0095",
+            "en_US": "The sandstorm rages."
+        },
+        {
+            "id": "a002_015_0096",
+            "en_US": "The hail crashes down."
+        },
+        {
+            "id": "a002_015_0097",
+            "en_US": "It's a one-hit KO!"
+        },
+        {
+            "id": "a002_015_0098",
+            "en_US": [
+                "The {VAR 0109 0000} weakened\n",
+                "{VAR 0107 0001}'s power!"
+            ]
+        },
+        {
+            "id": "a002_015_0099",
+            "en_US": [
+                "The {VAR 0109 0000} allows the\n",
+                "use of only {VAR 0107 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0100",
+            "en_US": [
+                "{VAR 010C 0000} can use only\n",
+                "{VAR 0107 0001}!"
+            ]
+        },
+        {
+            "id": "a002_015_0101",
+            "en_US": "All stat changes were eliminated!"
+        },
+        {
+            "id": "a002_015_0102",
+            "en_US": "But nothing happened!"
+        },
+        {
+            "id": "a002_015_0103",
+            "en_US": [
+                "{VAR 0102 0000}'s\n",
+                "{VAR 0106 0001}"
+            ],
+            "flags": 112
+        },
+        {
+            "id": "a002_015_0104",
+            "en_US": "Magnitude 4!"
+        },
+        {
+            "id": "a002_015_0105",
+            "en_US": "Magnitude 5!"
+        },
+        {
+            "id": "a002_015_0106",
+            "en_US": "Magnitude 6!"
+        },
+        {
+            "id": "a002_015_0107",
+            "en_US": "Magnitude 7!"
+        },
+        {
+            "id": "a002_015_0108",
+            "en_US": "Magnitude 8!"
+        },
+        {
+            "id": "a002_015_0109",
+            "en_US": "Magnitude 9!"
+        },
+        {
+            "id": "a002_015_0110",
+            "en_US": "Magnitude 10!"
+        },
+        {
+            "id": "a002_015_0111",
+            "en_US": "A bell chimed!"
+        },
+        {
+            "id": "a002_015_0112",
+            "en_US": [
+                "A soothing aroma wafted\n",
+                "through the area!"
+            ]
+        },
+        {
+            "id": "a002_015_0113",
+            "en_US": [
+                "The battlers shared\n",
+                "their pain!"
+            ]
+        },
+        {
+            "id": "a002_015_0114",
+            "en_US": "Fire's power was weakened!"
+        },
+        {
+            "id": "a002_015_0115",
+            "en_US": "Electricity's power was weakened!"
+        },
+        {
+            "id": "a002_015_0116",
+            "en_US": [
+                "The twisted dimensions returned\n",
+                "to normal!"
+            ]
+        },
+        {
+            "id": "a002_015_0117",
+            "en_US": "Gravity intensified!"
+        },
+        {
+            "id": "a002_015_0118",
+            "en_US": "Gravity returned to normal!"
+        },
+        {
+            "id": "a002_015_0119",
+            "en_US": [
+                "All Pokémon hearing the song\n",
+                "will faint in three turns!"
+            ]
+        },
+        {
+            "id": "a002_015_0120",
+            "en_US": [
+                "Waggling a finger\n",
+                "let it use {VAR 0107 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0121",
+            "en_US": [
+                "Nature Power turned into\n",
+                "{VAR 0107 0000}!"
+            ]
+        },
+        {
+            "id": "a002_015_0122",
+            "en_US": "Coins were scattered everywhere!"
+        },
+        {
+            "id": "a002_015_0123",
+            "en_US": [
+                "It was too weak to make\n",
+                "a substitute!"
+            ]
+        },
+        {
+            "id": "a002_015_0124",
+            "en_US": [
+                "Reflect raised your team's\n",
+                "Defense!"
+            ]
+        },
+        {
+            "id": "a002_015_0125",
+            "en_US": [
+                "Reflect raised the\n",
+                "opposing team's Defense!"
+            ]
+        },
+        {
+            "id": "a002_015_0126",
+            "en_US": [
+                "Your team's Reflect\n",
+                "wore off!"
+            ]
+        },
+        {
+            "id": "a002_015_0127",
+            "en_US": [
+                "The opposing team's Reflect\n",
+                "wore off!"
+            ]
+        },
+        {
+            "id": "a002_015_0128",
+            "en_US": [
+                "Light Screen raised your team's\n",
+                "Special Defense!"
+            ]
+        },
+        {
+            "id": "a002_015_0129",
+            "en_US": [
+                "Light Screen raised\n",
+                "the opposing team's Special Defense!"
+            ]
+        },
+        {
+            "id": "a002_015_0130",
+            "en_US": [
+                "Your team's Light Screen\n",
+                "wore off!"
+            ]
+        },
+        {
+            "id": "a002_015_0131",
+            "en_US": [
+                "The opposing team's Light Screen\n",
+                "wore off!"
+            ]
+        },
+        {
+            "id": "a002_015_0132",
+            "en_US": [
+                "Your team became cloaked in\n",
+                "a mystical veil!"
+            ]
+        },
+        {
+            "id": "a002_015_0133",
+            "en_US": [
+                "The foe's team became\n",
+                "cloaked in a mystical veil!"
+            ]
+        },
+        {
+            "id": "a002_015_0134",
+            "en_US": [
+                "Your team is no longer protected\n",
+                "by Safeguard!"
+            ]
+        },
+        {
+            "id": "a002_015_0135",
+            "en_US": [
+                "The foe's team is no longer protected\n",
+                "by Safeguard!"
+            ]
+        },
+        {
+            "id": "a002_015_0136",
+            "en_US": [
+                "Your team became\n",
+                "shrouded in mist!"
+            ]
+        },
+        {
+            "id": "a002_015_0137",
+            "en_US": [
+                "The foe's team became\n",
+                "shrouded in mist!"
+            ]
+        },
+        {
+            "id": "a002_015_0138",
+            "en_US": [
+                "Your team is no longer protected\n",
+                "by mist!"
+            ]
+        },
+        {
+            "id": "a002_015_0139",
+            "en_US": [
+                "The foe's team is no longer protected\n",
+                "by mist!"
+            ]
+        },
+        {
+            "id": "a002_015_0140",
+            "en_US": [
+                "The tailwind blew from behind\n",
+                "your team!"
+            ]
+        },
+        {
+            "id": "a002_015_0141",
+            "en_US": [
+                "The tailwind blew from behind\n",
+                "the foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0142",
+            "en_US": "Your team's tailwind petered out!"
+        },
+        {
+            "id": "a002_015_0143",
+            "en_US": "The foe's team's tailwind petered out!"
+        },
+        {
+            "id": "a002_015_0144",
+            "en_US": [
+                "The Lucky Chant shielded your team\n",
+                "from critical hits!"
+            ]
+        },
+        {
+            "id": "a002_015_0145",
+            "en_US": [
+                "The Lucky Chant shielded the opposing team\n",
+                "from critical hits!"
+            ]
+        },
+        {
+            "id": "a002_015_0146",
+            "en_US": "Your team's Lucky Chant wore off!"
+        },
+        {
+            "id": "a002_015_0147",
+            "en_US": "The opposing team's Lucky Chant wore off!"
+        },
+        {
+            "id": "a002_015_0148",
+            "en_US": [
+                "Spikes were scattered all around\n",
+                "your team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0149",
+            "en_US": [
+                "Spikes were scattered all around\n",
+                "the feet of the foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0150",
+            "en_US": [
+                "The spikes disappeared from\n",
+                "around your team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0151",
+            "en_US": [
+                "The spikes disappeared from\n",
+                "around the foe's team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0152",
+            "en_US": [
+                "Poison spikes were scattered all\n",
+                "around your team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0153",
+            "en_US": [
+                "Poison spikes were scattered all\n",
+                "around the foe's team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0154",
+            "en_US": [
+                "The poison spikes disappeared\n",
+                "from around your team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0155",
+            "en_US": [
+                "The poison spikes disappeared\n",
+                "from around the foe's team's feet!"
+            ]
+        },
+        {
+            "id": "a002_015_0156",
+            "en_US": [
+                "Pointed stones float in the air\n",
+                "around your team!"
+            ]
+        },
+        {
+            "id": "a002_015_0157",
+            "en_US": [
+                "Pointed stones float in the air\n",
+                "around your foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0158",
+            "en_US": [
+                "The pointed stones disappeared\n",
+                "from around your team!"
+            ]
+        },
+        {
+            "id": "a002_015_0159",
+            "en_US": [
+                "The pointed stones disappeared\n",
+                "from around the foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0160",
+            "en_US": "Wide Guard protected your team!"
+        },
+        {
+            "id": "a002_015_0161",
+            "en_US": "Wide Guard protected the foe's team!"
+        },
+        {
+            "id": "a002_015_0162",
+            "en_US": "Quick Guard protected your team!"
+        },
+        {
+            "id": "a002_015_0163",
+            "en_US": "Quick Guard protected the foe's team!"
+        },
+        {
+            "id": "a002_015_0164",
+            "en_US": [
+                "A rainbow appeared in the sky\n",
+                "on your team's side!"
+            ]
+        },
+        {
+            "id": "a002_015_0165",
+            "en_US": [
+                "A rainbow appeared in the sky\n",
+                "on the foe's team's side!"
+            ]
+        },
+        {
+            "id": "a002_015_0166",
+            "en_US": [
+                "The rainbow on your team's side\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0167",
+            "en_US": [
+                "The rainbow on the foe's team's side\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0168",
+            "en_US": [
+                "A sea of fire enveloped\n",
+                "your team!"
+            ]
+        },
+        {
+            "id": "a002_015_0169",
+            "en_US": [
+                "A sea of fire enveloped\n",
+                "the foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0170",
+            "en_US": [
+                "The sea of fire around your team\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0171",
+            "en_US": [
+                "The sea of fire around the foe's team\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0172",
+            "en_US": "A swamp enveloped your team!"
+        },
+        {
+            "id": "a002_015_0173",
+            "en_US": [
+                "A swamp enveloped the\n",
+                "foe's team!"
+            ]
+        },
+        {
+            "id": "a002_015_0174",
+            "en_US": [
+                "The swamp around your team\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0175",
+            "en_US": [
+                "The swamp around the foe's team\n",
+                "disappeared!"
+            ]
+        },
+        {
+            "id": "a002_015_0176",
+            "en_US": [
+                "Your team is too nervous to\n",
+                "eat Berries!"
+            ]
+        },
+        {
+            "id": "a002_015_0177",
+            "en_US": [
+                "The foe's team is too nervous to\n",
+                "eat Berries!"
+            ]
+        },
+        {
+            "id": "a002_015_0178",
+            "en_US": [
+                "It created a bizarre area in which\n",
+                "the Defense and Sp. Def stats are swapped!"
+            ]
+        },
+        {
+            "id": "a002_015_0179",
+            "en_US": [
+                "Wonder Room wore off, and the Defense\n",
+                "and Sp. Def stats returned to normal!"
+            ]
+        },
+        {
+            "id": "a002_015_0180",
+            "en_US": [
+                "It created a bizarre area in which\n",
+                "Pokémon's held items lose their effects!"
+            ]
+        },
+        {
+            "id": "a002_015_0181",
+            "en_US": [
+                "Magic Room wore off, and the held items'\n",
+                "effects returned to normal!"
+            ]
+        },
+        {
+            "id": "a002_015_0182",
+            "en_US": [
+                "The {VAR 0109 0000} strengthened\n",
+                "{VAR 0107 0001}'s power!"
+            ]
+        },
+        {
+            "id": "a002_015_0183",
+            "en_US": [
+                "The time limit is up!\n",
+                "The battle will end!"
+            ]
+        },
+        {
+            "id": "a002_015_0184",
+            "en_US": [
+                "The battle is too long.\n",
+                "Playback canceled."
+            ]
+        },
+        {
+            "id": "a002_015_0185",
+            "en_US": "Zen Mode triggered!"
+        },
+        {
+            "id": "a002_015_0186",
+            "en_US": "Zen Mode ended!"
+        },
+        {
+            "id": "a002_015_0187",
+            "en_US": [
+                "The two moves are joined!\n",
+                "It's a combined move!"
+            ]
+        },
+        {
+            "id": "a002_015_0188",
+            "en_US": "{VAR 010C 0000} won't obey!"
+        },
+        {
+            "id": "a002_015_0189",
+            "en_US": [
+                "{VAR 010C 0000} is\n",
+                "loafing around!"
+            ]
+        },
+        {
+            "id": "a002_015_0190",
+            "en_US": "{VAR 010C 0000} turned away!"
+        },
+        {
+            "id": "a002_015_0191",
+            "en_US": [
+                "{VAR 010C 0000} pretended\n",
+                "not to notice!"
+            ]
+        },
+        {
+            "id": "a002_015_0192",
+            "en_US": "{VAR 010C 0000} ignored orders!"
+        },
+        {
+            "id": "a002_015_0193",
+            "en_US": "{VAR 010C 0000} began to nap!"
+        },
+        {
+            "id": "a002_015_0194",
+            "en_US": [
+                "{VAR 010C 0000} ignored\n",
+                "orders while asleep!"
+            ]
+        },
+        {
+            "id": "a002_015_0195",
+            "en_US": "Automatic center!"
+        },
+        {
+            "id": "a002_015_0196",
+            "en_US": [
+                "But it's not where this item\n",
+                "can be used!"
+            ]
+        },
+        {
+            "id": "a002_015_0197",
+            "en_US": "Sky Drop won't let {VAR 010C 0000} go!"
+        },
+        {
+            "id": "a002_015_0198",
+            "en_US": "The match was forfeited."
+        },
+        {
+            "id": "a002_015_0199",
+            "en_US": "({VAR 0200 0000})'s Metronome {VAR 0202 0001}:{VAR 0107 0002}"
+        }
+    ]
+}

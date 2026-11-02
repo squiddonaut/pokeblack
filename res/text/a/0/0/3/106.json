@@ -1,0 +1,103 @@
+{
+    "flags": 224,
+    "pad": "f6f6",
+    "messages": [
+        {
+            "id": "a003_106_0000",
+            "en_US": [
+                "Hoo ha!\n",
+                "You have a Pokédex.{VAR BE01}\n",
+                "How many Pokémon have you found?{VAR BE01}\n",
+                "If you find 50 or more, I'll give you\n",
+                "something sure to delight!"
+            ]
+        },
+        {
+            "id": "a003_106_0001",
+            "en_US": [
+                "Ha hoo!\n",
+                "You have a Pokédex.{VAR BE01}\n",
+                "How many Pokémon have you found?{VAR BE01}\n",
+                "Hoo ha! You've found 50 or more!\n",
+                "Now we're talking! This is for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_106_0002",
+            "en_US": [
+                "A Pokémon holding a Shell Bell recovers\n",
+                "its HP a little bit if it inflicts damage{VAR BE00}\n",
+                "during a battle.{VAR BE01}\n",
+                "But what's more important is this. Have\n",
+                "you shown the Pokédex to a professor?"
+            ]
+        },
+        {
+            "id": "a003_106_0003",
+            "en_US": [
+                "Hey, hey! Let's jump on this! We'll trade\n",
+                "my {VAR 0101 0001} with your {VAR 0101 0000}!"
+            ]
+        },
+        {
+            "id": "a003_106_0004",
+            "en_US": "Let's start the Pokémon trade!{VAR BE01}"
+        },
+        {
+            "id": "a003_106_0005",
+            "en_US": "Please take good care of my {VAR 0101 0001}!"
+        },
+        {
+            "id": "a003_106_0006",
+            "en_US": "What I want is {VAR 0101 0000}."
+        },
+        {
+            "id": "a003_106_0007",
+            "en_US": [
+                "Oh...\n",
+                "You must love your Pokémon.{VAR BE01}\n",
+                "Well, if you ever change your mind,\n",
+                "let's trade!"
+            ]
+        },
+        {
+            "id": "a003_106_0008",
+            "en_US": [
+                "I'll raise the Pokémon you traded me!{VAR BE01}\n",
+                "If you become extra strong, I just might\n",
+                "let you have a battle with me!"
+            ]
+        },
+        {
+            "id": "a003_106_0009",
+            "en_US": [
+                "Hey, hey! Let's jump on this! \n",
+                "My {VAR 0102 0000} and your Pokémon battle!"
+            ]
+        },
+        {
+            "id": "a003_106_0010",
+            "en_US": [
+                "I trained and trained the {VAR 0102 0000}\n",
+                "that you traded me! Don't be surprised{VAR BE00}\n",
+                "if it's too strong for you to handle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_106_0011",
+            "en_US": [
+                "Oh... You don't feel like having a battle?{VAR BE01}\n",
+                "Well, if you ever change your mind, come\n",
+                "back and battle me!"
+            ]
+        },
+        {
+            "id": "a003_106_0012",
+            "en_US": [
+                "When I train {VAR 0102 0000}, it reminds me\n",
+                "of you...{VAR BE01}\n",
+                "Thanks for the trade!"
+            ]
+        }
+    ]
+}

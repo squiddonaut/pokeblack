@@ -1,0 +1,69 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_202_0000",
+            "en_US": [
+                "Something that looks like a Pokémon nest\n",
+                "is blocking the entrance."
+            ]
+        },
+        {
+            "id": "a003_202_0001",
+            "en_US": "Clay: Thanks fer waitin'.{VAR BE01}"
+        },
+        {
+            "id": "a003_202_0002",
+            "en_US": [
+                "Looks like th' nest of an Electric-type\n",
+                "Pokémon called Galvantula.{VAR BE01}\n",
+                "Don't know why there's a nest here, but\n",
+                "if there are folks havin' problems, th'{VAR BE00}\n",
+                "Gym Leader's th' one ta fix it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_202_0003",
+            "en_US": "Krokorok! Take it out!{VAR BE01}"
+        },
+        {
+            "id": "a003_202_0004",
+            "en_US": [
+                "And this here TM's yours. It's my\n",
+                "favorite TM, so ya can teach it ta all of{VAR BE00}\n",
+                "yer Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_202_0005",
+            "en_US": [
+                "It's called Bulldoze. This move does\n",
+                "damage and lowers the Speed of any{VAR BE00}\n",
+                "Pokémon it hits.{VAR BE01}\n",
+                "Some Ground-type Pokémon move a little\n",
+                "slower than ya'd like.{VAR BE01}\n",
+                "If ya use Bulldoze right, ya can cover\n",
+                "that weakness!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_202_0006",
+            "en_US": [
+                "I don't know how good you really are,\n",
+                "but if ya think ya can go, go wherever,{VAR BE00}\n",
+                "and if ya think ya can do somethin',{VAR BE00}\n",
+                "keep doin' it.{VAR BE01}\n",
+                "Do things how ya want!\n",
+                "Decide yer own limits.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_202_0007",
+            "en_US": [
+                "Chargestone Cave\n",
+                "A shocking experience!"
+            ],
+            "flags": 207
+        }
+    ]
+}

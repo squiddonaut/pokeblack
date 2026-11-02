@@ -1,0 +1,92 @@
+{
+    "flags": 208,
+    "messages": [
+        {
+            "id": "a002_041_0000",
+            "en_US": "Please stand by...",
+            "flags": 192
+        },
+        {
+            "id": "a002_041_0001",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 64
+        },
+        {
+            "id": "a002_041_0002",
+            "en_US": [
+                "{VAR 0100 0001} received\n",
+                "{VAR 0100 0002}'s Egg!"
+            ]
+        },
+        {
+            "id": "a002_041_0003",
+            "en_US": [
+                "Landed on a Bonus Area!\n",
+                "Received a free {VAR 0109 0000}!"
+            ]
+        },
+        {
+            "id": "a002_041_0004",
+            "en_US": [
+                "Oh, no. The Bag is full...\n",
+                "The Berry had to be refused."
+            ]
+        },
+        {
+            "id": "a002_041_0005",
+            "en_US": "Communicating. Please stand by...",
+            "flags": 192
+        },
+        {
+            "id": "a002_041_0006",
+            "en_US": [
+                "A member dropped out.\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_041_0007",
+            "en_US": [
+                "The leader had to drop out.\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_041_0008",
+            "en_US": [
+                "Communication error...\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_041_0009",
+            "en_US": [
+                "Time has run out.\n",
+                "The Spin Trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_041_0010",
+            "en_US": [
+                "Communicating.\n",
+                "Please stand by..."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_041_0011",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_041_0012",
+            "en_US": [
+                "There is an Egg that can't be traded.\n",
+                "Spin Trade will be canceled."
+            ]
+        }
+    ]
+}

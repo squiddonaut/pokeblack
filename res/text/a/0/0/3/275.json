@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_275_0000",
+            "en_US": [
+                "Soda Pop tastes even better\n",
+                "when I drink it on the bridge.{VAR BE00}\n",
+                "So I often share one with Krokorok."
+            ]
+        },
+        {
+            "id": "a003_275_0001",
+            "en_US": [
+                "The uneven hills of Route 12 are great\n",
+                "for Pokéathlon training!{VAR BE01}\n",
+                "The Pokéathlon is a very popular\n",
+                "competition in Johto, where I come from!"
+            ]
+        },
+        {
+            "id": "a003_275_0002",
+            "en_US": "Buuuurp!"
+        }
+    ]
+}

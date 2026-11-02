@@ -1,0 +1,455 @@
+{
+    "flags": 224,
+    "pad": "8686",
+    "messages": [
+        {
+            "id": "a002_008_0000",
+            "en_US": "{VAR 0201 0000} Ppl.",
+            "flags": 44
+        },
+        {
+            "id": "a002_008_0001",
+            "en_US": "Total: {VAR 0204 0000} ",
+            "flags": 120
+        },
+        {
+            "id": "a002_008_0002",
+            "en_US": "Who will you thank?",
+            "flags": 106
+        },
+        {
+            "id": "a002_008_0003",
+            "en_US": "You thanked {VAR 0100 0000}!"
+        },
+        {
+            "id": "a002_008_0004",
+            "en_US": [
+                "Will you use {VAR 0111 0001}?\n",
+                "{VAR 0202 0002} needed/{VAR 0202 0003} held"
+            ]
+        },
+        {
+            "id": "a002_008_0005",
+            "en_US": [
+                "Use the {VAR 0111 0001}\n",
+                "that {VAR 0100 0000} activated?"
+            ]
+        },
+        {
+            "id": "a002_008_0006",
+            "en_US": [
+                "Special Pass Power activated!\n",
+                "Do you want to use\n",
+                "{VAR 0111 0001}?"
+            ]
+        },
+        {
+            "id": "a002_008_0007",
+            "en_US": "Used {VAR 0111 0001}!"
+        },
+        {
+            "id": "a002_008_0008",
+            "en_US": [
+                "You do not have enough Pass Orbs\n",
+                "to use this Pass Power.\n",
+                "{VAR 0202 0002} needed/{VAR 0202 0003} held"
+            ]
+        },
+        {
+            "id": "a002_008_0009",
+            "en_US": [
+                "Using {VAR 0111 0001}.\n",
+                "Seconds remaining: {VAR 0201 0005}."
+            ]
+        },
+        {
+            "id": "a002_008_0010",
+            "en_US": [
+                "Using {VAR 0111 0001}.\n",
+                "Time remaining: {VAR 0202 0004} min., {VAR 0201 0005} sec."
+            ]
+        },
+        {
+            "id": "a002_008_0011",
+            "en_US": "Said “{VAR 011C 0000}!\""
+        },
+        {
+            "id": "a002_008_0012",
+            "en_US": "CHECK",
+            "flags": 46
+        },
+        {
+            "id": "a002_008_0013",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_008_0014",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_008_0015",
+            "en_US": "CHECK",
+            "flags": 46
+        },
+        {
+            "id": "a002_008_0016",
+            "en_US": "CLOSE",
+            "flags": 46
+        },
+        {
+            "id": "a002_008_0017",
+            "en_US": "Hiya!",
+            "flags": 96
+        },
+        {
+            "id": "a002_008_0018",
+            "en_US": "{VAR 0100 0000} is nearby."
+        },
+        {
+            "id": "a002_008_0019",
+            "en_US": [
+                "{VAR 0100 0000} started battling\n",
+                "a wild {VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0020",
+            "en_US": [
+                "{VAR 0100 0000} won the battle\n",
+                "with the wild {VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0021",
+            "en_US": [
+                "{VAR 0100 0000} started battling\n",
+                "a special Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_008_0022",
+            "en_US": [
+                "{VAR 0100 0000} won the battle\n",
+                "with the special Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_008_0023",
+            "en_US": [
+                "{VAR 0100 0000} started a battle with\n",
+                "{VAR 010E 0001} {VAR 0100 0002}!"
+            ]
+        },
+        {
+            "id": "a002_008_0024",
+            "en_US": [
+                "{VAR 0100 0000} won the battle with\n",
+                "{VAR 010E 0001} {VAR 0100 0002}!"
+            ]
+        },
+        {
+            "id": "a002_008_0025",
+            "en_US": [
+                "{VAR 0100 0000} started a battle\n",
+                "with a Gym Leader!"
+            ]
+        },
+        {
+            "id": "a002_008_0026",
+            "en_US": [
+                "{VAR 0100 0000} won the battle\n",
+                "with the Gym Leader!"
+            ]
+        },
+        {
+            "id": "a002_008_0027",
+            "en_US": [
+                "{VAR 0100 0000} started a battle\n",
+                "with a special Trainer!"
+            ]
+        },
+        {
+            "id": "a002_008_0028",
+            "en_US": [
+                "{VAR 0100 0000} won the battle\n",
+                "with a special Trainer!"
+            ]
+        },
+        {
+            "id": "a002_008_0029",
+            "en_US": [
+                "{VAR 0100 0000} started a battle\n",
+                "with a special Trainer!"
+            ]
+        },
+        {
+            "id": "a002_008_0030",
+            "en_US": [
+                "{VAR 0100 0000} won the battle\n",
+                "with a special Trainer!"
+            ]
+        },
+        {
+            "id": "a002_008_0031",
+            "en_US": [
+                "{VAR 0100 0000} caught a\n",
+                "wild {VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0032",
+            "en_US": [
+                "{VAR 0100 0000} caught\n",
+                "a special Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_008_0033",
+            "en_US": [
+                "{VAR 0100 0000}'s {VAR 0102 0002}'s\n",
+                "level went up!"
+            ]
+        },
+        {
+            "id": "a002_008_0034",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002} evolved\n",
+                "into {VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0035",
+            "en_US": "Dummy Message"
+        },
+        {
+            "id": "a002_008_0036",
+            "en_US": [
+                "{VAR 0100 0000} found\n",
+                "{VAR 0109 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0037",
+            "en_US": [
+                "{VAR 0100 0000}'s playing time has\n",
+                "exceeded {VAR 0202 0001} hours!"
+            ]
+        },
+        {
+            "id": "a002_008_0038",
+            "en_US": [
+                "{VAR 0100 0000} completed the\n",
+                "Pokédex!"
+            ]
+        },
+        {
+            "id": "a002_008_0039",
+            "en_US": [
+                "{VAR 0100 0000} has been thanked\n",
+                "more than {VAR 0202 0001} times!"
+            ]
+        },
+        {
+            "id": "a002_008_0040",
+            "en_US": [
+                "{VAR 0100 0000} is in the reception\n",
+                "area of the Union Room."
+            ]
+        },
+        {
+            "id": "a002_008_0041",
+            "en_US": "{VAR 0100 0000} thanked you!"
+        },
+        {
+            "id": "a002_008_0042",
+            "en_US": [
+                "{VAR 0101 0001} is currently\n",
+                "being distributed!"
+            ]
+        },
+        {
+            "id": "a002_008_0043",
+            "en_US": [
+                "The {VAR 0109 0001} is currently being\n",
+                "distributed!"
+            ]
+        },
+        {
+            "id": "a002_008_0044",
+            "en_US": [
+                "A Mystery Gift is currently\n",
+                "being distributed!"
+            ]
+        },
+        {
+            "id": "a002_008_0045",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002}'s attack\n",
+                "was a critical hit!"
+            ]
+        },
+        {
+            "id": "a002_008_0046",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002} took\n",
+                "a critical hit!"
+            ]
+        },
+        {
+            "id": "a002_008_0047",
+            "en_US": [
+                "{VAR 0100 0000} escaped\n",
+                "from the battle!"
+            ]
+        },
+        {
+            "id": "a002_008_0048",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002}\n",
+                "has very low HP!"
+            ]
+        },
+        {
+            "id": "a002_008_0049",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002}\n",
+                "has very low PP!"
+            ]
+        },
+        {
+            "id": "a002_008_0050",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002}\n",
+                "has fainted!"
+            ]
+        },
+        {
+            "id": "a002_008_0051",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002}\n",
+                "has a status condition!"
+            ]
+        },
+        {
+            "id": "a002_008_0052",
+            "en_US": [
+                "{VAR 0100 0000} used\n",
+                "{VAR 0109 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0053",
+            "en_US": [
+                "{VAR 0100 0000} used\n",
+                "{VAR 0107 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0054",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "an Egg!"
+            ]
+        },
+        {
+            "id": "a002_008_0055",
+            "en_US": [
+                "{VAR 0101 0001} hatched from\n",
+                "{VAR 0100 0000}'s Egg!\n"
+            ]
+        },
+        {
+            "id": "a002_008_0056",
+            "en_US": [
+                "{VAR 0100 0000} is\n",
+                "shopping."
+            ]
+        },
+        {
+            "id": "a002_008_0057",
+            "en_US": [
+                "{VAR 0100 0000} is in a\n",
+                "Battle Subway challenge."
+            ]
+        },
+        {
+            "id": "a002_008_0058",
+            "en_US": [
+                "{VAR 0100 0000} has\n",
+                "{VAR 0200 0001} straight wins\n",
+                "in the Battle Subway!"
+            ]
+        },
+        {
+            "id": "a002_008_0059",
+            "en_US": [
+                "{VAR 0100 0000} won\n",
+                "a trophy in the Battle Subway!"
+            ]
+        },
+        {
+            "id": "a002_008_0060",
+            "en_US": [
+                "{VAR 0100 0000} challenged\n",
+                "the Battle Institute."
+            ]
+        },
+        {
+            "id": "a002_008_0061",
+            "en_US": [
+                "{VAR 0100 0000} was certified as\n",
+                "{VAR 0181 0001} in\n",
+                "the Battle Institute!"
+            ]
+        },
+        {
+            "id": "a002_008_0062",
+            "en_US": [
+                "{VAR 0100 0000} got on\n",
+                "the Ferris wheel."
+            ]
+        },
+        {
+            "id": "a002_008_0063",
+            "en_US": [
+                "{VAR 0100 0000} entered\n",
+                "the Poké Transfer."
+            ]
+        },
+        {
+            "id": "a002_008_0064",
+            "en_US": [
+                "{VAR 0100 0000}'s\n",
+                "{VAR 0102 0002} is currently\n",
+                "participating in the Musical contest."
+            ]
+        },
+        {
+            "id": "a002_008_0065",
+            "en_US": [
+                "{VAR 0100 0000} used the received\n",
+                "{VAR 0111 0001}!"
+            ]
+        },
+        {
+            "id": "a002_008_0066",
+            "en_US": [
+                "{VAR 0100 0000} said\n",
+                "“{VAR 011C 0001}.\""
+            ]
+        },
+        {
+            "id": "a002_008_0067",
+            "en_US": "dummy message"
+        }
+    ]
+}

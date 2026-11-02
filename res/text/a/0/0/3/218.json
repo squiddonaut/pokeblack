@@ -1,0 +1,86 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_218_0000",
+            "en_US": [
+                "Brycen: {VAR 0100 0000}!\n",
+                "We'll hold them here!{VAR BE01}\n",
+                "You go on ahead!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_218_0001",
+            "en_US": "Brycen: I'm fine, but there's no time!"
+        },
+        {
+            "id": "a003_218_0002",
+            "en_US": [
+                "Cheren: This is nothing! But there sure\n",
+                "are a lot of them...{VAR BE01}\n",
+                "Oh, what a complete bother!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_218_0003",
+            "en_US": [
+                "Cheren: Why do you make that\n",
+                "extra push?{VAR BE01}\n",
+                "What is the source of that strength?"
+            ]
+        },
+        {
+            "id": "a003_218_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_218_0005",
+            "en_US": [
+                "Team Plasma: So this is the\n",
+                "true strength of a Gym Leader!"
+            ]
+        },
+        {
+            "id": "a003_218_0006",
+            "en_US": [
+                "Team Plasma: This strength...\n",
+                "Could it be equal to the Seven Sages?"
+            ]
+        },
+        {
+            "id": "a003_218_0007",
+            "en_US": [
+                "Team Plasma: No one!\n",
+                "I won't let anyone get in our way!"
+            ]
+        },
+        {
+            "id": "a003_218_0008",
+            "en_US": [
+                "Team Plasma: Why do you get in our way\n",
+                "even though you don't understand{VAR BE00}\n",
+                "our sublime goal?!"
+            ]
+        },
+        {
+            "id": "a003_218_0009",
+            "en_US": "Team Plasma: So young, but so tough!"
+        },
+        {
+            "id": "a003_218_0010",
+            "en_US": [
+                "Team Plasma: Yeah, all right. If I have\n",
+                "to lose, at least it's to the Gym Leader."
+            ]
+        },
+        {
+            "id": "a003_218_0011",
+            "en_US": [
+                "Team Plasma: Right now,\n",
+                "our king is upstairs...{VAR BE01}\n",
+                "There's nothing you can do!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_280_0000",
+            "en_US": [
+                "This tree looks like it can be\n",
+                "cut down! Would you like to cut it?"
+            ]
+        },
+        {
+            "id": "a003_280_0001",
+            "en_US": "{VAR 0102 0000} used Cut!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0002",
+            "en_US": [
+                "This tree looks like it can be\n",
+                "cut down!"
+            ]
+        },
+        {
+            "id": "a003_280_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0006",
+            "en_US": [
+                "It's a big boulder, but a Pokémon\n",
+                "may be able to push it aside.{VAR BE01}\n",
+                "Would you like to use Strength?"
+            ]
+        },
+        {
+            "id": "a003_280_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0008",
+            "en_US": [
+                "It's a big boulder, but a Pokémon\n",
+                "may be able to push it aside."
+            ]
+        },
+        {
+            "id": "a003_280_0009",
+            "en_US": [
+                "Strength made it possible to move\n",
+                "boulders around."
+            ]
+        },
+        {
+            "id": "a003_280_0010",
+            "en_US": "{VAR 0102 0000} used Strength!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0011",
+            "en_US": [
+                "{VAR 0102 0000}'s Strength made it\n",
+                "possible to move boulders around!"
+            ]
+        },
+        {
+            "id": "a003_280_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0013",
+            "en_US": [
+                "The water is a deep blue...\n",
+                "Would you like to surf on it?"
+            ]
+        },
+        {
+            "id": "a003_280_0014",
+            "en_US": "{VAR 0102 0000} used Surf!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0015",
+            "en_US": [
+                "Surf can't be used if you have\n",
+                "someone with you."
+            ]
+        },
+        {
+            "id": "a003_280_0016",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0023",
+            "en_US": [
+                "It's a large waterfall.\n",
+                "Would you like to use Waterfall?"
+            ]
+        },
+        {
+            "id": "a003_280_0024",
+            "en_US": "{VAR 0102 0000} used Waterfall!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0025",
+            "en_US": [
+                "A wall of water is crashing down with\n",
+                "a mighty roar."
+            ]
+        },
+        {
+            "id": "a003_280_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_280_0027",
+            "en_US": "{VAR 0102 0000} used Flash!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0028",
+            "en_US": "{VAR 0102 0000} used Teleport!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0029",
+            "en_US": "{VAR 0102 0000} used Dig!{VAR BE01}"
+        },
+        {
+            "id": "a003_280_0030",
+            "en_US": [
+                "It's a deep part of the sea, but a\n",
+                "Pokémon may be able to dive down."
+            ]
+        },
+        {
+            "id": "a003_280_0031",
+            "en_US": [
+                "It's a deep part of the sea.\n",
+                "Would you like to use Dive?"
+            ]
+        },
+        {
+            "id": "a003_280_0032",
+            "en_US": "{VAR 0102 0000} used Dive!{VAR BE01}"
+        }
+    ]
+}

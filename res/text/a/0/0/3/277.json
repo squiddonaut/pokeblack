@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "pad": "1616",
+    "messages": [
+        {
+            "id": "a003_277_0000",
+            "en_US": [
+                "Both you and your Pokémon are healthy\n",
+                "and energetic!{VAR BE01}\n",
+                "If you get tired, please talk to me.\n",
+                "I'll let you take a nice long rest."
+            ]
+        },
+        {
+            "id": "a003_277_0001",
+            "en_US": [
+                "Oh, your Pokémon look pretty tired.\n",
+                "Don't be shy. Take a nice long rest!{VAR BE01}"
+            ]
+        }
+    ]
+}

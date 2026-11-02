@@ -1,0 +1,369 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_425_0000",
+            "en_US": [
+                "Iris: Guess what!!{VAR BE01}\n",
+                "I can teach you the strongest\n",
+                "Dragon-type move!{VAR BE01}\n",
+                "Fun, huh? Want me to\n",
+                "teach your Pokémon this move?"
+            ]
+        },
+        {
+            "id": "a003_425_0001",
+            "en_US": [
+                "OK! Well, if you change your mind,\n",
+                "come again, OK?"
+            ]
+        },
+        {
+            "id": "a003_425_0002",
+            "en_US": [
+                "Let me see...{VAR BE01}\n",
+                "Well, this Pokémon can learn the move,\n",
+                "but you need to have a really strong{VAR BE00}\n",
+                "bond of friendship first.{VAR BE01}\n",
+                "I don't think I can teach it yet."
+            ]
+        },
+        {
+            "id": "a003_425_0003",
+            "en_US": [
+                "OK, great!\n",
+                "Oh, but...{VAR BE01}\n",
+                "You don't seem to have a\n",
+                "Pokémon that can learn this move."
+            ]
+        },
+        {
+            "id": "a003_425_0004",
+            "en_US": [
+                "OK, great! Which Pokémon should\n",
+                "learn this move?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_425_0005",
+            "en_US": [
+                "Um... I'm sorry...\n",
+                "That Pokémon can't learn this move!"
+            ]
+        },
+        {
+            "id": "a003_425_0006",
+            "en_US": [
+                "What?{VAR BE01}\n",
+                "You want me to teach the move to an Egg?\n",
+                "OK, I'll do my best!{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "Sorry!\n",
+                "I think it's impossible!"
+            ]
+        },
+        {
+            "id": "a003_425_0007",
+            "en_US": [
+                "This one?{VAR BE01}\n",
+                "Um, but...it looks like this Pokémon\n",
+                "already knows {VAR 0107 0000}."
+            ]
+        },
+        {
+            "id": "a003_425_0008",
+            "en_US": [
+                "Iris: Draco Meteor's power is\n",
+                "really amazing!{VAR BE01}\n",
+                "But after you use it, your Sp. Atk stat\n",
+                "goes down."
+            ]
+        },
+        {
+            "id": "a003_425_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_425_0010",
+            "en_US": [
+                "{VAR 0102 0000} learned\n",
+                "{VAR 0107 0001}!"
+            ]
+        },
+        {
+            "id": "a003_425_0011",
+            "en_US": [
+                "{VAR 0102 0000} is trying to\n",
+                "learn {VAR 0107 0001}!{VAR BE01}\n",
+                "But {VAR 0102 0000} can't learn more than\n",
+                "four moves.{VAR BE01}\n",
+                "Delete a move to make room\n",
+                "for {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a003_425_0012",
+            "en_US": [
+                "Give up on learning the\n",
+                "move {VAR 0107 0000}?"
+            ]
+        },
+        {
+            "id": "a003_425_0013",
+            "en_US": "{VAR 0102 0000} did not learn {VAR 0107 0001}!"
+        },
+        {
+            "id": "a003_425_0014",
+            "en_US": [
+                "Is it OK to forget the\n",
+                "move {VAR 0107 0000}?"
+            ]
+        },
+        {
+            "id": "a003_425_0015",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n",
+                "{VAR 0102 0000} forgot how to\n",
+                "use {VAR 0107 0001}.{VAR BE01}\n",
+                "And...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_425_0016",
+            "en_US": "{VAR 0102 0000} learned {VAR 0107 0002}!"
+        },
+        {
+            "id": "a003_425_0017",
+            "en_US": [
+                "Drayden: If you wish, I can teach your\n",
+                "Pokémon the strongest{VAR BE00}\n",
+                "Dragon-type move.{VAR BE01}\n",
+                "Would you like your Pokémon to learn\n",
+                "that move?"
+            ]
+        },
+        {
+            "id": "a003_425_0018",
+            "en_US": [
+                "Understood.\n",
+                "Come again if you change your mind."
+            ]
+        },
+        {
+            "id": "a003_425_0019",
+            "en_US": [
+                "Hmm...{VAR BE01}\n",
+                "This Pokémon can learn this move, but\n",
+                "your bond of friendship is not yet{VAR BE00}\n",
+                "strong enough.{VAR BE01}\n",
+                "That means I cannot teach\n",
+                "it this move."
+            ]
+        },
+        {
+            "id": "a003_425_0020",
+            "en_US": [
+                "I see...{VAR BE01}\n",
+                "But there are no Pokémon with\n",
+                "you right now that can learn this move."
+            ]
+        },
+        {
+            "id": "a003_425_0021",
+            "en_US": [
+                "Which Pokémon should\n",
+                "learn this move?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_425_0022",
+            "en_US": [
+                "I'm very sorry, but...{VAR BE01}\n",
+                "This Pokémon cannot learn this move."
+            ]
+        },
+        {
+            "id": "a003_425_0023",
+            "en_US": [
+                "That's an interesting request, but...\n",
+                "Not even I can teach a move to an Egg."
+            ]
+        },
+        {
+            "id": "a003_425_0024",
+            "en_US": [
+                "Hmm... It looks like this Pokémon\n",
+                "already knows {VAR 0107 0000}."
+            ]
+        },
+        {
+            "id": "a003_425_0025",
+            "en_US": [
+                "Drayden: Draco Meteor's power is\n",
+                "exceptional, but using it lowers{VAR BE00}\n",
+                "the user's Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a003_425_0026",
+            "en_US": [
+                "Your quest for power has brought\n",
+                "you here...{VAR BE01}\n",
+                "Very well.{VAR BE01}\n",
+                "Let me reward your passion with some\n",
+                "absolutely astounding moves.{VAR BE01}\n",
+                "They're the ultimate moves!{VAR BE01}\n",
+                "Shall I teach them to\n",
+                "your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_425_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_425_0028",
+            "en_US": [
+                "The Pokémon with you can't\n",
+                "learn these moves!{VAR BE01}\n",
+                "Go talk to my wife! Keh!!"
+            ]
+        },
+        {
+            "id": "a003_425_0029",
+            "en_US": [
+                "Hmm... Well, that is fine, as well.\n",
+                "Visit if you have a change of heart."
+            ]
+        },
+        {
+            "id": "a003_425_0030",
+            "en_US": "Well, which Pokémon should I teach?{VAR BE01}"
+        },
+        {
+            "id": "a003_425_0031",
+            "en_US": [
+                "That Pokémon can't learn a move!\n",
+                "Go talk to my wife! Keh!"
+            ]
+        },
+        {
+            "id": "a003_425_0032",
+            "en_US": [
+                "Teach a move to an Egg?\n",
+                "Impossible, even for me! Keh!"
+            ]
+        },
+        {
+            "id": "a003_425_0033",
+            "en_US": [
+                "The bond with your Pokémon\n",
+                "is not strong enough! Keh!"
+            ]
+        },
+        {
+            "id": "a003_425_0034",
+            "en_US": [
+                "That Pokémon already knows\n",
+                "that move! Keh!"
+            ]
+        },
+        {
+            "id": "a003_425_0035",
+            "en_US": [
+                "I should teach {VAR 0107 0001} to\n",
+                "{VAR 0101 0000}, right? Keh!"
+            ]
+        },
+        {
+            "id": "a003_425_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_425_0037",
+            "en_US": [
+                "Heya!{VAR BE01}\n",
+                "The professor gave you a Pokémon to\n",
+                "start your journey, right?{VAR BE01}\n",
+                "If that Pokémon is still with you, and if\n",
+                "you two have a strong bond, there's a{VAR BE00}\n",
+                "special move it can learn...{VAR BE01}\n",
+                "Want me to teach it a battle combo move?"
+            ]
+        },
+        {
+            "id": "a003_425_0038",
+            "en_US": [
+                "A special move...\n",
+                "Should I teach it a battle-combo move?"
+            ]
+        },
+        {
+            "id": "a003_425_0039",
+            "en_US": "I can't teach these Pokémon."
+        },
+        {
+            "id": "a003_425_0040",
+            "en_US": [
+                "Is that so...\n",
+                "Well, come on back now, y'hear?"
+            ]
+        },
+        {
+            "id": "a003_425_0041",
+            "en_US": "Which Pokémon should learn the move?{VAR BE01}"
+        },
+        {
+            "id": "a003_425_0042",
+            "en_US": [
+                "Now, that Pokémon can't learn this\n",
+                "special move!{VAR BE01}\n",
+                "I told ya, it's only for the Pokémon who\n",
+                "started your journey with you."
+            ]
+        },
+        {
+            "id": "a003_425_0043",
+            "en_US": [
+                "Teach a move to an Egg?\n",
+                "What kinda crazy talk is that?!"
+            ]
+        },
+        {
+            "id": "a003_425_0044",
+            "en_US": [
+                "This Pokémon... Well, it doesn't look\n",
+                "like it's too comfortable with you yet."
+            ]
+        },
+        {
+            "id": "a003_425_0045",
+            "en_US": [
+                "I can't teach it twice. This Pokémon\n",
+                "already knows the special move!"
+            ]
+        },
+        {
+            "id": "a003_425_0046",
+            "en_US": [
+                "Want me to teach {VAR 0107 0001}\n",
+                "to {VAR 0101 0000}?"
+            ]
+        },
+        {
+            "id": "a003_425_0047",
+            "en_US": [
+                "The Pokémon I've taken a shine to are\n",
+                "the ones you get from the professor!{VAR BE01}\n",
+                "To teach all of these Pokémon a\n",
+                "special move, a battle combo move...{VAR BE00}\n",
+                "That's my pledge!"
+            ],
+            "flags": 207
+        }
+    ]
+}

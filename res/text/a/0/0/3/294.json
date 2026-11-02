@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_294_0000",
+            "en_US": [
+                "As part of his plan to take Pokémon away\n",
+                "from their people, my lord N entrusted{VAR BE00}\n",
+                "some Pokémon to me.{VAR BE01}\n",
+                "I've been spending time with them...\n",
+                "and I don't think I want to let them go.{VAR BE01}\n",
+                "I...may not be cut out for Team Plasma."
+            ]
+        }
+    ]
+}

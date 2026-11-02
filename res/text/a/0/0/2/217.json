@@ -1,0 +1,74 @@
+{
+    "flags": 192,
+    "pad": "2222",
+    "messages": [
+        {
+            "id": "a002_217_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_217_0001",
+            "en_US": "Baden-Württemberg"
+        },
+        {
+            "id": "a002_217_0002",
+            "en_US": "Bayern"
+        },
+        {
+            "id": "a002_217_0003",
+            "en_US": "Berlin"
+        },
+        {
+            "id": "a002_217_0004",
+            "en_US": "Brandenburg"
+        },
+        {
+            "id": "a002_217_0005",
+            "en_US": "Bremen"
+        },
+        {
+            "id": "a002_217_0006",
+            "en_US": "Hamburg"
+        },
+        {
+            "id": "a002_217_0007",
+            "en_US": "Hesse"
+        },
+        {
+            "id": "a002_217_0008",
+            "en_US": "Mecklenburg-West Pomerania"
+        },
+        {
+            "id": "a002_217_0009",
+            "en_US": "Lower Saxony"
+        },
+        {
+            "id": "a002_217_0010",
+            "en_US": "North Rhine-Westphalia"
+        },
+        {
+            "id": "a002_217_0011",
+            "en_US": "Rhineland-Palatinate"
+        },
+        {
+            "id": "a002_217_0012",
+            "en_US": "Saarland"
+        },
+        {
+            "id": "a002_217_0013",
+            "en_US": "Saxony"
+        },
+        {
+            "id": "a002_217_0014",
+            "en_US": "Saxony-Anhalt"
+        },
+        {
+            "id": "a002_217_0015",
+            "en_US": "Schleswig-Holstein"
+        },
+        {
+            "id": "a002_217_0016",
+            "en_US": "Thuringia"
+        }
+    ]
+}

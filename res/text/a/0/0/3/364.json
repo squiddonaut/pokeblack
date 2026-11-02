@@ -1,0 +1,233 @@
+{
+    "flags": 224,
+    "pad": "c8c8",
+    "messages": [
+        {
+            "id": "a003_364_0000",
+            "en_US": [
+                "This is the Season Research Lab.{VAR BE01}\n",
+                "Twist Mountain, just beyond Mistralton,\n",
+                "has snow, depending on the season."
+            ]
+        },
+        {
+            "id": "a003_364_0001",
+            "en_US": [
+                "Some Pokémon change their appearance\n",
+                "depending on the season.{VAR BE01}\n",
+                "Could that also be considered\n",
+                "a type of evolution?"
+            ]
+        },
+        {
+            "id": "a003_364_0002",
+            "en_US": [
+                "We research changes in nature that\n",
+                "occur due to the seasons.{VAR BE01}\n",
+                "Consider the Pokémon called {VAR 0101 0000},\n",
+                "which lives in this forest.{VAR BE01}\n",
+                "Its appearance is said to change\n",
+                "according to the season.{VAR BE01}\n",
+                "This characteristic is of great interest\n",
+                "to us.{VAR BE01}\n",
+                "We want to research this Pokémon and\n",
+                "observe its seasonal changes.{VAR BE01}\n",
+                "That's why we developed a marvelous\n",
+                "climate-control system that transcends{VAR BE00}\n",
+                "the seasons and allows us to freely{VAR BE00}\n",
+                "adjust temperature and humidity!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_364_0003",
+            "en_US": [
+                "Up to this point, everything has been\n",
+                "fine...but we are very busy, and we{VAR BE00}\n",
+                "haven't really had a chance to catch{VAR BE00}\n",
+                "many {VAR 0101 0000} to study.{VAR BE01}\n",
+                "So, this is what we would like to ask you.\n",
+                "First, please capture a {VAR 0101 0000}.{VAR BE01}\n",
+                "Then, when its appearance changes,\n",
+                "could you bring it back to the lab?{VAR BE01}\n",
+                "Then, when we've confirmed the change to\n",
+                "the {VAR 0101 0000} you bring us, we will also{VAR BE00}\n",
+                "go search for that season's {VAR 0101 0000}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_364_0004",
+            "en_US": [
+                "How about it?{VAR BE01}\n",
+                "If you don't mind, would you please show\n",
+                "us what {VAR 0101 0000} looks like now?"
+            ]
+        },
+        {
+            "id": "a003_364_0005",
+            "en_US": [
+                "{VAR 0101 0000}'s Spring Form!{VAR BE01}\n",
+                "The luster of its body and its coloring is\n",
+                "like a flower field in the spring!{VAR BE01}\n",
+                "The scent emanating from it is also\n",
+                "very floral.{VAR BE01}\n",
+                "Thank you so much! I want to go catch\n",
+                "my own {VAR 0101 0000} right away!"
+            ]
+        },
+        {
+            "id": "a003_364_0006",
+            "en_US": [
+                "{VAR 0101 0000}'s Summer Form!{VAR BE01}\n",
+                "The luster of its body and its coloring\n",
+                "is like a thicket in summer!{VAR BE01}\n",
+                "The scent emanating from it is also\n",
+                "very fresh and green.{VAR BE01}\n",
+                "Thank you so much! I want to go catch\n",
+                "my own {VAR 0101 0000} right away!"
+            ]
+        },
+        {
+            "id": "a003_364_0007",
+            "en_US": [
+                "{VAR 0101 0000}'s Autumn Form!{VAR BE01}\n",
+                "The luster of its body and its coloring\n",
+                "is like a tree-lined road with falling{VAR BE00}\n",
+                "leaves dancing down!{VAR BE01}\n",
+                "The scent emanating from it is also\n",
+                "like dry leaves.{VAR BE01}\n",
+                "Thank you so much! I want to go catch\n",
+                "my own {VAR 0101 0000} right away!"
+            ]
+        },
+        {
+            "id": "a003_364_0008",
+            "en_US": [
+                "{VAR 0101 0000}'s Winter Form.{VAR BE01}\n",
+                "The luster of its body and its coloring\n",
+                "is like the slope of a mountain!{VAR BE01}\n",
+                "The scent emanating from it\n",
+                "is also like fresh snow.{VAR BE01}\n",
+                "Thank you so much! I want to go catch\n",
+                "my own {VAR 0101 0000} right away!"
+            ]
+        },
+        {
+            "id": "a003_364_0009",
+            "en_US": [
+                "Thank you very much!{VAR BE01}\n",
+                "But we've already caught\n",
+                "that Form of {VAR 0101 0000}."
+            ]
+        },
+        {
+            "id": "a003_364_0010",
+            "en_US": [
+                "Oh, I see.{VAR BE01}\n",
+                "We would be really grateful if you could\n",
+                "assist us with our research, but if{VAR BE00}\n",
+                "you're too busy..."
+            ]
+        },
+        {
+            "id": "a003_364_0011",
+            "en_US": [
+                "Oh! It's you!{VAR BE01}\n",
+                "Thanks to you, we've caught all of\n",
+                "the Forms of {VAR 0101 0000}.{VAR BE01}\n",
+                "Now we can thoroughly study the\n",
+                "relationship between Pokémon, seasons,{VAR BE00}\n",
+                "and climate.{VAR BE01}\n",
+                "Thank you very much.\n",
+                "It isn't much, but please accept this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_364_0012",
+            "en_US": [
+                "This is the only place in the world where\n",
+                "you can see {VAR 0101 0000}'s four seasonal{VAR BE00}\n",
+                "Forms all at one time.{VAR BE01}\n",
+                "They've kind of become our mascots!"
+            ]
+        },
+        {
+            "id": "a003_364_0013",
+            "en_US": [
+                "I hate to say this, but that Pokémon is\n",
+                "not the {VAR 0101 0000} we're looking for."
+            ]
+        },
+        {
+            "id": "a003_364_0014",
+            "en_US": "Dreee!"
+        },
+        {
+            "id": "a003_364_0015",
+            "en_US": "Dreee! Dree dree!"
+        },
+        {
+            "id": "a003_364_0016",
+            "en_US": "Dreen! Droooon!"
+        },
+        {
+            "id": "a003_364_0017",
+            "en_US": "Droon..."
+        },
+        {
+            "id": "a003_364_0018",
+            "en_US": [
+                "The temperature and humidity\n",
+                "inside the case next to me{VAR BE00}\n",
+                "are controlled by a machine."
+            ]
+        },
+        {
+            "id": "a003_364_0019",
+            "en_US": [
+                "The glass is slightly cold to the touch.{VAR BE01}\n",
+                "The plants inside the case\n",
+                "have grown some pretty Berries."
+            ]
+        },
+        {
+            "id": "a003_364_0020",
+            "en_US": [
+                "The glass is very cold to the touch.{VAR BE01}\n",
+                "The plants inside the case\n",
+                "have lost all their leaves."
+            ]
+        },
+        {
+            "id": "a003_364_0021",
+            "en_US": [
+                "The glass is slightly warm to the touch.{VAR BE01}\n",
+                "The plants inside the case\n",
+                "have grown small buds."
+            ]
+        },
+        {
+            "id": "a003_364_0022",
+            "en_US": [
+                "The glass is very warm to the touch.{VAR BE01}\n",
+                "The plants inside the case\n",
+                "have big, healthy leaves."
+            ]
+        },
+        {
+            "id": "a003_364_0023",
+            "en_US": "Route 6's temperature {VAR 0201 0000} °C"
+        },
+        {
+            "id": "a003_364_0024",
+            "en_US": "Route 6's temperature {VAR 0201 0000} °C"
+        },
+        {
+            "id": "a003_364_0025",
+            "en_US": "Route 6's temperature {VAR 0201 0000} °C"
+        },
+        {
+            "id": "a003_364_0026",
+            "en_US": "Route 6's temperature -{VAR 0200 0000} °C"
+        }
+    ]
+}

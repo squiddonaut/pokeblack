@@ -1,0 +1,41 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_136_0000",
+            "en_US": [
+                "Welcome to Opelucid City,\n",
+                "where people value history!{VAR BE01}\n",
+                "...Have you heard this before?"
+            ]
+        },
+        {
+            "id": "a003_136_0001",
+            "en_US": [
+                "Welcome to Opelucid City,\n",
+                "where people like changes!{VAR BE01}\n",
+                "...Have you heard this before?"
+            ]
+        },
+        {
+            "id": "a003_136_0002",
+            "en_US": [
+                "Munch, munch...{VAR BE01}\n",
+                "I heard that a guy with a legendary\n",
+                "Pokémon was visiting Opelucid City...{VAR BE01}\n",
+                "Munch, munch..."
+            ]
+        },
+        {
+            "id": "a003_136_0003",
+            "en_US": [
+                "Munch, munch...\n",
+                "I am happy when I am eating!{VAR BE01}\n",
+                "Munch, munch...\n",
+                "But when I don't get food, I am angry!{VAR BE01}\n",
+                "The words hungry and angry are similar.\n",
+                "Don't you think?"
+            ]
+        }
+    ]
+}

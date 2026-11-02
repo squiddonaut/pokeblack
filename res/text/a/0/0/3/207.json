@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "pad": "6666",
+    "messages": [
+        {
+            "id": "a003_207_0000",
+            "en_US": [
+                "In winter, the appearance of\n",
+                "Twist Mountain changes.{VAR BE01}\n",
+                "When I see that, I feel a sense of relief."
+            ]
+        },
+        {
+            "id": "a003_207_0001",
+            "en_US": [
+                "Snow is so amazing...\n",
+                "It's like a clean slate for the world."
+            ]
+        },
+        {
+            "id": "a003_207_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_207_0003",
+            "en_US": [
+                "When I can stand firm, even though the\n",
+                "ground beneath me is slanted, it makes me{VAR BE00}\n",
+                "feel even more alive!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "flags": 0,
+    "pad": "3232",
+    "messages": [
+        {
+            "id": "a003_268_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a003_268_0007",
+            "en_US": [
+                "Hello! If you cross the Skyarrow Bridge\n",
+                "from this side, you will reach{VAR BE00}\n",
+                "Pinwheel Forest and Nacrene City."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_268_0008",
+            "en_US": [
+                "I walked so far! My legs are sore!\n",
+                "...Um, you don't have to look."
+            ],
+            "flags": 224
+        }
+    ]
+}

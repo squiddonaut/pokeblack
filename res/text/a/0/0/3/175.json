@@ -1,0 +1,48 @@
+{
+    "flags": 0,
+    "pad": "6868",
+    "messages": [
+        {
+            "id": "a003_175_0000",
+            "en_US": "Team Plasma: Arggghhhhh!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "id": "a003_175_0001",
+            "en_US": [
+                "Team Plasma: Ryoku of the Seven Sages is\n",
+                "looking for a Pokémon inside Relic Castle.{VAR BE01}\n",
+                "I was his lookout so he\n",
+                "wouldn't be interrupted...{VAR BE01}\n",
+                "Stupid, stupid, stupid me!\n",
+                "Plus, weak... And did I mention stupid?{VAR BE01}\n",
+                "It all adds up to nincompoop!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_175_0002",
+            "en_US": ""
+        },
+        {
+            "id": "a003_175_0003",
+            "en_US": ""
+        },
+        {
+            "id": "a003_175_0004",
+            "en_US": ""
+        },
+        {
+            "id": "a003_175_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a003_175_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a003_175_0007",
+            "en_US": ""
+        }
+    ]
+}

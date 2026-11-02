@@ -1,0 +1,101 @@
+{
+    "flags": 224,
+    "pad": "bcbc",
+    "messages": [
+        {
+            "id": "a003_147_0000",
+            "en_US": [
+                "Greetings, challenger.\n",
+                "My name is Marshal.{VAR BE01}\n",
+                "In order to master the art of fighting,\n",
+                "I'm training under my mentor, Alder.{VAR BE01}\n",
+                "My mentor sees your potential as a\n",
+                "Trainer and is taking an interest in you.{VAR BE01}\n",
+                "It is my intention to test you--to take\n",
+                "you to the limits of your strength. Kiai!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_147_0001",
+            "en_US": [
+                "Whew! Well done!{VAR BE01}\n",
+                "As your battles continue,\n",
+                "aim for even greater heights!"
+            ]
+        },
+        {
+            "id": "a003_147_0002",
+            "en_US": [
+                "Representing the Pokémon League in the\n",
+                "absence of the Champion has been my duty{VAR BE00}\n",
+                "as Alder's student.{VAR BE01}\n",
+                "However, there is nothing as empty as\n",
+                "words not backed up by strength.{VAR BE01}\n",
+                "A word in your ear, strong challenger...\n",
+                "The other members of the Elite Four{VAR BE00}\n",
+                "are far more powerful than I am.{VAR BE01}\n",
+                "Do not underestimate them!"
+            ]
+        },
+        {
+            "id": "a003_147_0003",
+            "en_US": [
+                "Now... You have become the strongest\n",
+                "Trainer in this Pokémon League.{VAR BE01}\n",
+                "The statue in the central chamber will\n",
+                "take you to the Champion's room.{VAR BE01}\n",
+                "We, the Elite Four of Unova,\n",
+                "are sworn to follow the Champion's order{VAR BE00}\n",
+                "to be neutral.{VAR BE01}\n",
+                "So the rest is up to you!"
+            ]
+        },
+        {
+            "id": "a003_147_0004",
+            "en_US": [
+                "I thank you deeply for the chance for\n",
+                "another round of combat against you.{VAR BE01}\n",
+                "In myself, I seek to develop\n",
+                "the strength of a fighter.{VAR BE01}\n",
+                "And shatter any weakness in myself!{VAR BE01}\n",
+                "Prevailing with the force of\n",
+                "my convictions!{VAR BE01}\n",
+                "Victory, decisive victory, is my intention!\n",
+                "Challenger, here I come!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_147_0005",
+            "en_US": [
+                "There are still many strong Trainers\n",
+                "in this Pokémon League.{VAR BE01}\n",
+                "You should deepen your bonds with\n",
+                "your Pokémon by battling with them."
+            ]
+        },
+        {
+            "id": "a003_147_0006",
+            "en_US": [
+                "In times past, I wandered all the regions\n",
+                "of the world in pursuit of strength...{VAR BE01}\n",
+                "One day, I met my mentor and began to\n",
+                "grasp the wisdom of making strength{VAR BE00}\n",
+                "an internal quality...{VAR BE01}\n",
+                "And one day, I decided to become part of\n",
+                "the Elite Four of Unova...{VAR BE01}\n",
+                "For some reason, the battle we just had\n",
+                "brought those fateful times back to mind."
+            ]
+        },
+        {
+            "id": "a003_147_0007",
+            "en_US": [
+                "The strength shown by you and your\n",
+                "Pokémon has deeply impressed me...{VAR BE01}\n",
+                "Please, continue to the next room\n",
+                "to face the strongest Trainer{VAR BE00}\n",
+                "of the Unova region!"
+            ]
+        }
+    ]
+}

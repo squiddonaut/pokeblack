@@ -1,0 +1,922 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_081_0000",
+            "en_US": "{VAR 0100 0000} received {VAR 0201 0001} BP!"
+        },
+        {
+            "id": "a003_081_0001",
+            "en_US": [
+                "Saving your record data...\n",
+                "Don't turn off the power."
+            ]
+        },
+        {
+            "id": "a003_081_0002",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ]
+        },
+        {
+            "id": "a003_081_0003",
+            "en_US": [
+                "Congratulations! You've successfully\n",
+                "reached a seven-win streak!{VAR BE01}\n",
+                "Since you've won seven in a row,\n",
+                "I present you with these Battle Points!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0004",
+            "en_US": [
+                "Congratulations!{VAR BE01}\n",
+                "You had a seven-win streak and\n",
+                "brilliantly beat the Subway Boss,{VAR BE00}\n",
+                "so I present you with these{VAR BE00}\n",
+                "Battle Points.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0005",
+            "en_US": [
+                "And, {VAR 0100 0000}, now you have earned\n",
+                "the right to challenge{VAR BE00}\n",
+                "the Super Single Train!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0006",
+            "en_US": [
+                "And, {VAR 0100 0000}, now you have earned\n",
+                "the right to challenge{VAR BE00}\n",
+                "the Super Double Train!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0007",
+            "en_US": [
+                "And, {VAR 0100 0000}, now you have earned\n",
+                "the right to challenge{VAR BE00}\n",
+                "the Super Multi Train!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0008",
+            "en_US": [
+                "Also, to commemorate this, I give you\n",
+                "this trophy.{VAR BE01}\n",
+                "Please display it in your home!"
+            ]
+        },
+        {
+            "id": "a003_081_0009",
+            "en_US": [
+                "Please enjoy your time here.{VAR BE01}\n",
+                "If you would like to continue your\n",
+                "challenge or go back to Nimbasa City,{VAR BE00}\n",
+                "please talk to me."
+            ]
+        },
+        {
+            "id": "a003_081_0010",
+            "en_US": [
+                "This is the end of the Single Train line.{VAR BE01}\n",
+                "When you want to return to Nimbasa City,\n",
+                "please talk to me again.{VAR BE01}\n",
+                "Please enjoy your time here."
+            ]
+        },
+        {
+            "id": "a003_081_0011",
+            "en_US": [
+                "This is the end of the Double Train line.{VAR BE01}\n",
+                "When you want to return to Nimbasa City,\n",
+                "please talk to me again.{VAR BE01}\n",
+                "Please enjoy your time here."
+            ]
+        },
+        {
+            "id": "a003_081_0012",
+            "en_US": [
+                "This is the end of the Multi Train line.{VAR BE01}\n",
+                "When you want to return to Nimbasa City,\n",
+                "please talk to me again.{VAR BE01}\n",
+                "Please enjoy your time here."
+            ]
+        },
+        {
+            "id": "a003_081_0013",
+            "en_US": "Do you want to return to Nimbasa City?"
+        },
+        {
+            "id": "a003_081_0014",
+            "en_US": "Well then, we'll return to Nimbasa City.{VAR BE01}"
+        },
+        {
+            "id": "a003_081_0015",
+            "en_US": "What would you like to do?"
+        },
+        {
+            "id": "a003_081_0016",
+            "en_US": "Continue Challenge",
+            "flags": 219
+        },
+        {
+            "id": "a003_081_0017",
+            "en_US": "Return to Nimbasa City",
+            "flags": 219
+        },
+        {
+            "id": "a003_081_0018",
+            "en_US": "Stay Here",
+            "flags": 219
+        },
+        {
+            "id": "a003_081_0019",
+            "en_US": "Awaiting your friend's response..."
+        },
+        {
+            "id": "a003_081_0020",
+            "en_US": [
+                "\"Return to Nimbasa City\" was chosen, so\n",
+                "your challenge{VAR BE00}\n",
+                "will end for now."
+            ]
+        },
+        {
+            "id": "a003_081_0021",
+            "en_US": [
+                "{VAR 0100 0000}, you have been promoted\n",
+                "to Rank {VAR 0201 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0022",
+            "en_US": [
+                "Would you like to send these results\n",
+                "using Nintendo WFC?"
+            ]
+        },
+        {
+            "id": "a003_081_0023",
+            "en_US": [
+                "There's still a lot more to go, but let's\n",
+                "do our best!"
+            ]
+        },
+        {
+            "id": "a003_081_0024",
+            "en_US": [
+                "There's still a lot more to go, but let's\n",
+                "do our best!"
+            ]
+        },
+        {
+            "id": "a003_081_0025",
+            "en_US": [
+                "We finally made it this far!{VAR BE01}\n",
+                "Our opponents will get tougher, but let's\n",
+                "do our best and not get discouraged!"
+            ]
+        },
+        {
+            "id": "a003_081_0026",
+            "en_US": [
+                "We finally made it this far!{VAR BE01}\n",
+                "Our opponents will get tougher, but let's\n",
+                "do our best and not get discouraged!"
+            ]
+        },
+        {
+            "id": "a003_081_0027",
+            "en_US": [
+                "We finally made it here!{VAR BE01}\n",
+                "...Could we be the best partners ever?!"
+            ]
+        },
+        {
+            "id": "a003_081_0028",
+            "en_US": [
+                "We finally made it here!{VAR BE01}\n",
+                "...Could we be the best partners ever?!"
+            ]
+        },
+        {
+            "id": "a003_081_0029",
+            "en_US": [
+                "This is the end of the Wi-Fi Train line.{VAR BE01}\n",
+                "When you want to return to Nimbasa City,\n",
+                "please talk to me again.{VAR BE01}\n",
+                "Please enjoy your time here."
+            ]
+        },
+        {
+            "id": "a003_081_0030",
+            "en_US": "The challenge was interrupted."
+        },
+        {
+            "id": "a003_081_0031",
+            "en_US": "The selection was canceled."
+        },
+        {
+            "id": "a003_081_0032",
+            "en_US": [
+                "Constant battles make me nervous.\n",
+                "I'm taking a little rest here."
+            ]
+        },
+        {
+            "id": "a003_081_0033",
+            "en_US": [
+                "I'm going to save up Battle Points and\n",
+                "get some items for my Pokémon to hold."
+            ]
+        },
+        {
+            "id": "a003_081_0034",
+            "en_US": [
+                "For each seven-win streak, the Trainers\n",
+                "and Pokémon who challenge you become{VAR BE00}\n",
+                "progressively tougher."
+            ]
+        },
+        {
+            "id": "a003_081_0035",
+            "en_US": [
+                "I've decided to use only cute Pokémon!{VAR BE01}\n",
+                "Do you have any unique thing you're\n",
+                "particular about?"
+            ]
+        },
+        {
+            "id": "a003_081_0036",
+            "en_US": [
+                "OK! I'm all prepared!\n",
+                "All aboard for a battle journey!"
+            ]
+        },
+        {
+            "id": "a003_081_0037",
+            "en_US": [
+                "Phew...I'm worn out.{VAR BE01}\n",
+                "These Trainers are tough. I wonder\n",
+                "how far I'll get with my skills."
+            ]
+        },
+        {
+            "id": "a003_081_0038",
+            "en_US": [
+                "Have you heard of the Subway Bosses?{VAR BE01}\n",
+                "They appear only to strong Trainers,\n",
+                "and they challenge them to battles.{VAR BE01}\n",
+                "They are the Battle Subway's bosses."
+            ]
+        },
+        {
+            "id": "a003_081_0039",
+            "en_US": [
+                "That last battle was tough...{VAR BE01}\n",
+                "I should've traded in my BP for a\n",
+                "better item."
+            ]
+        },
+        {
+            "id": "a003_081_0040",
+            "en_US": [
+                "If you have wooon, the trip goes ooon!\n",
+                "Relying on Pokémon, this vagabooond!"
+            ]
+        },
+        {
+            "id": "a003_081_0041",
+            "en_US": [
+                "About time to take it to the next level.\n",
+                "Give it your best shot, too!"
+            ]
+        },
+        {
+            "id": "a003_081_0042",
+            "en_US": [
+                "The Trainers here are really tough\n",
+                "from the very start."
+            ]
+        },
+        {
+            "id": "a003_081_0043",
+            "en_US": [
+                "My 42nd straight win...\n",
+                "Not too shabby, eh?"
+            ]
+        },
+        {
+            "id": "a003_081_0044",
+            "en_US": [
+                "Can't believe I won 84 straight...\n",
+                "Is this a dream or a hallucination?"
+            ]
+        },
+        {
+            "id": "a003_081_0045",
+            "en_US": [
+                "You've got a 14-win streak!\n",
+                "Pretty good! Not bad!"
+            ]
+        },
+        {
+            "id": "a003_081_0046",
+            "en_US": [
+                "I hear the Super Train is endless!{VAR BE01}\n",
+                "In other words, if you keep winning, you\n",
+                "can keep going, on and on to wherever!"
+            ]
+        },
+        {
+            "id": "a003_081_0047",
+            "en_US": [
+                "I can go a lot further!\n",
+                "I can win a lot more!"
+            ]
+        },
+        {
+            "id": "a003_081_0048",
+            "en_US": [
+                "The eyes of the Trainers here are very\n",
+                "serious, or maybe you could say glinting."
+            ]
+        },
+        {
+            "id": "a003_081_0049",
+            "en_US": [
+                "Is this the best this officer can do...?{VAR BE01}\n",
+                "The light from the passing trains seems\n",
+                "way too bright."
+            ]
+        },
+        {
+            "id": "a003_081_0050",
+            "en_US": [
+                "The Subway Boss was a suspicious,\n",
+                "strange fellow.{VAR BE01}\n",
+                "I still don't believe he was giving it\n",
+                "his all."
+            ]
+        },
+        {
+            "id": "a003_081_0051",
+            "en_US": [
+                "Challenging people is also part of my\n",
+                "police training."
+            ]
+        },
+        {
+            "id": "a003_081_0052",
+            "en_US": [
+                "I can legally go as wild as I want!\n",
+                "This place! It's paradise, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_081_0053",
+            "en_US": [
+                "My journey has just started!\n",
+                "Neither of us can afford to lose!"
+            ]
+        },
+        {
+            "id": "a003_081_0054",
+            "en_US": [
+                "Being alone on the station's platform\n",
+                "somehow makes me feel a little sad.{VAR BE01}\n",
+                "People leave on their journeys here, and\n",
+                "it reminds me of those memories."
+            ]
+        },
+        {
+            "id": "a003_081_0055",
+            "en_US": [
+                "The Subway Boss was a piece of cake!{VAR BE01}\n",
+                "Maybe I should cut loose on the\n",
+                "Super Train next time!"
+            ]
+        },
+        {
+            "id": "a003_081_0056",
+            "en_US": [
+                "The Trainers sure have become stronger.\n",
+                "I'm feeling a little uneasy..."
+            ]
+        },
+        {
+            "id": "a003_081_0057",
+            "en_US": [
+                "It looks like my Pokémon skill has\n",
+                "reached its peak power.{VAR BE01}\n",
+                "I couldn't let go of my dreams...\n",
+                "I'll hang them on you, stranger,{VAR BE00}\n",
+                "young Trainer.{VAR BE01}\n",
+                "And this is proof.\n",
+                "Please accept this, youngster...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0058",
+            "en_US": [
+                "I'm going to return to my home and\n",
+                "quietly cheer myself up with art!"
+            ]
+        },
+        {
+            "id": "a003_081_0059",
+            "en_US": [
+                "Oh ho ho ho...{VAR BE01}\n",
+                "I've already done better than I did\n",
+                "during my last challenge!"
+            ]
+        },
+        {
+            "id": "a003_081_0060",
+            "en_US": [
+                "Battle between two excellent Trainers is\n",
+                "very artistic."
+            ]
+        },
+        {
+            "id": "a003_081_0061",
+            "en_US": [
+                "For being called a Subway Boss,\n",
+                "that Trainer sure wasn't as strong{VAR BE00}\n",
+                "as “Boss\" suggests.{VAR BE01}\n",
+                "It was almost as if...{VAR BE01}\n",
+                "As if they are simply gauging\n",
+                "how strong we really are."
+            ]
+        },
+        {
+            "id": "a003_081_0062",
+            "en_US": [
+                "Well then!{VAR BE01}\n",
+                "It's about time to get on\n",
+                "the train!"
+            ]
+        },
+        {
+            "id": "a003_081_0063",
+            "en_US": [
+                "Now just wait a minute, little Pokémon!\n",
+                "I'll let you battle lots and lots soon!"
+            ]
+        },
+        {
+            "id": "a003_081_0064",
+            "en_US": [
+                "Urk!{VAR BE01}\n",
+                "I got motion sickness on the train..."
+            ]
+        },
+        {
+            "id": "a003_081_0065",
+            "en_US": [
+                "You beat our boss, right?\n",
+                "Not half bad, hey!{VAR BE01}\n",
+                "And now, super Trainer, you've\n",
+                "earned the qualification to take on the{VAR BE00}\n",
+                "Super Train!{VAR BE01}\n",
+                "The Trainers on the Super Train are\n",
+                "really tough.{VAR BE01}\n",
+                "If you want to know the essence of the\n",
+                "Battle Subway, you should give it a try!"
+            ]
+        },
+        {
+            "id": "a003_081_0066",
+            "en_US": [
+                "I'd rather have an exciting battle than\n",
+                "slowly drive the train."
+            ]
+        },
+        {
+            "id": "a003_081_0067",
+            "en_US": [
+                "Where did you come from?\n",
+                "And where are you going?"
+            ]
+        },
+        {
+            "id": "a003_081_0068",
+            "en_US": [
+                "We Depot Agents are the protectors of\n",
+                "peace and order in the station.{VAR BE01}\n",
+                "We are verrry opposed to littering on\n",
+                "the platform, shouting or playing{VAR BE00}\n",
+                "instruments, loitering, or any activities{VAR BE00}\n",
+                "that bother other people!"
+            ]
+        },
+        {
+            "id": "a003_081_0069",
+            "en_US": [
+                "Just like how a machine needs fine-tuning,\n",
+                "Pokémon need maintenance, too.{VAR BE01}\n",
+                "It's a necessity.{VAR BE01}\n",
+                "For example, rethinking the moves that a\n",
+                "Pokémon knows."
+            ]
+        },
+        {
+            "id": "a003_081_0070",
+            "en_US": [
+                "No clumsy gimmicks...\n",
+                "No unnecessary items...{VAR BE01}\n",
+                "The only thing you can rely on is the\n",
+                "strength of you and your Pokémon.{VAR BE01}\n",
+                "This place is wonderful, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_081_0071",
+            "en_US": [
+                "Over 100 straight victories...{VAR BE01}\n",
+                "If this is all due to your strength,\n",
+                "you're even a match for the Champion."
+            ]
+        },
+        {
+            "id": "a003_081_0072",
+            "en_US": [
+                "The strength of the Trainers on\n",
+                "the Super Train is beyond imagination!"
+            ]
+        },
+        {
+            "id": "a003_081_0073",
+            "en_US": [
+                "I had a taste of it...\n",
+                "The rush of battle...{VAR BE01}\n",
+                "I shouldn't...\n",
+                "It's too wild...{VAR BE01}\n",
+                "But at this rate, I'm going to\n",
+                "end up on the path of battlers..."
+            ]
+        },
+        {
+            "id": "a003_081_0074",
+            "en_US": [
+                "Howdy! I'm a genius Pilot!\n",
+                "Unova's finest!{VAR BE01}\n",
+                "And I'm comin' in first here, too!"
+            ]
+        },
+        {
+            "id": "a003_081_0075",
+            "en_US": [
+                "I've seen elite Trainers like me\n",
+                "all over the place, but...{VAR BE01}\n",
+                "Seems like the battles will be tough\n",
+                "from here on."
+            ]
+        },
+        {
+            "id": "a003_081_0076",
+            "en_US": [
+                "Even for an elite Trainer such as myself,\n",
+                "it's starting to get hard."
+            ]
+        },
+        {
+            "id": "a003_081_0077",
+            "en_US": [
+                "Hey, how are you doing?\n",
+                "I'm still going strong!"
+            ]
+        },
+        {
+            "id": "a003_081_0078",
+            "en_US": [
+                "I've a-done it--77 straight wins!\n",
+                "That number has a lucky sound!"
+            ]
+        },
+        {
+            "id": "a003_081_0079",
+            "en_US": "We've defeated over 300 Trainers..."
+        },
+        {
+            "id": "a003_081_0080",
+            "en_US": [
+                "My my, what a weak-looking Trainer...{VAR BE01}\n",
+                "I think I would just get bored if I\n",
+                "battled you...{VAR BE01}\n",
+                "I'll give you this, so just get a little\n",
+                "tougher, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0081",
+            "en_US": [
+                "I'm only interested in strong\n",
+                "opponents...{VAR BE01}\n",
+                "If you get tougher, I wouldn't\n",
+                "mind battling you."
+            ]
+        },
+        {
+            "id": "a003_081_0082",
+            "en_US": [
+                "Not many people left on the platform...{VAR BE01}\n",
+                "Guess that shows how hard it is\n",
+                "to keep winning on the Battle Subway."
+            ]
+        },
+        {
+            "id": "a003_081_0083",
+            "en_US": [
+                "...{VAR BE01}\n",
+                "Huh? What? What do you want?{VAR BE01}\n",
+                "I'm busy planning my tactics for my\n",
+                "next battle.{VAR BE01}\n",
+                "I don't mean to be rude, but I really\n",
+                "need to concentrate. Would you mind{VAR BE00}\n",
+                "not talking to me right now?"
+            ]
+        },
+        {
+            "id": "a003_081_0084",
+            "en_US": [
+                "91 straight victories is nothing more\n",
+                "than a natural result for me.{VAR BE01}\n",
+                "My glorious record will just keep\n",
+                "going up!"
+            ]
+        },
+        {
+            "id": "a003_081_0085",
+            "en_US": [
+                "You...\n",
+                "You have the same eyes as me.{VAR BE01}\n",
+                "You love battling so much...\n",
+                "No, it's not just that...{VAR BE01}\n",
+                "Battling is your reason for living.\n",
+                "You and I are the same type, aren't we?{VAR BE01}\n",
+                "So...I'll give you this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0086",
+            "en_US": [
+                "You're continuing your battle, right?{VAR BE01}\n",
+                "That's because we are that type of\n",
+                "person, aren't we..."
+            ]
+        },
+        {
+            "id": "a003_081_0087",
+            "en_US": [
+                "I'm going to leave a rockin' record and\n",
+                "turn into a big star!"
+            ]
+        },
+        {
+            "id": "a003_081_0088",
+            "en_US": [
+                "Hey, how are you doing?\n",
+                "I'm still going strong!"
+            ]
+        },
+        {
+            "id": "a003_081_0089",
+            "en_US": [
+                "There's more to Pokémon than it seems.{VAR BE01}\n",
+                "The world of Pokémon battling really gets\n",
+                "deeper and deeper."
+            ]
+        },
+        {
+            "id": "a003_081_0090",
+            "en_US": [
+                "I found this when I was cleaning.\n",
+                "You can have it if you'd like.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0091",
+            "en_US": [
+                "Oh, no need to thank me!\n",
+                "After all, I just found it in the trash.{VAR BE01}\n",
+                "I don't understand it. Recently, many\n",
+                "folks have just been throwing away{VAR BE00}\n",
+                "perfectly good things."
+            ]
+        },
+        {
+            "id": "a003_081_0092",
+            "en_US": [
+                "I may be a Janitor, but I have a lot\n",
+                "of confidence in my abilities!"
+            ]
+        },
+        {
+            "id": "a003_081_0093",
+            "en_US": [
+                "All right! Bring out your Poké Balls!\n",
+                "Now is the time for a battle!"
+            ]
+        },
+        {
+            "id": "a003_081_0094",
+            "en_US": "You like battles, too!"
+        },
+        {
+            "id": "a003_081_0095",
+            "en_US": [
+                "I can't believe a Veteran like me\n",
+                "would get into trouble like that.{VAR BE01}\n",
+                "Where in the world are the Trainers\n",
+                "here training?"
+            ]
+        },
+        {
+            "id": "a003_081_0096",
+            "en_US": [
+                "How are you doing, Trainer?\n",
+                "Are you starting to get tired yet?"
+            ]
+        },
+        {
+            "id": "a003_081_0097",
+            "en_US": [
+                "Mumble, mumble, mumble...{VAR BE01}\n",
+                "In order to bring good fortune, I always\n",
+                "think about my family before a battle."
+            ]
+        },
+        {
+            "id": "a003_081_0098",
+            "en_US": [
+                "I've been watching you battle.{VAR BE01}\n",
+                "Nice technique and judgment... Not\n",
+                "surprising, after a win streak like yours."
+            ]
+        },
+        {
+            "id": "a003_081_0099",
+            "en_US": [
+                "Not many people around.{VAR BE01}\n",
+                "But each person who is still here has\n",
+                "shown true strength."
+            ]
+        },
+        {
+            "id": "a003_081_0100",
+            "en_US": [
+                "Even a Veteran can lose to a Preschooler\n",
+                "if they get careless.{VAR BE01}\n",
+                "Pokémon battling requires that you\n",
+                "always be on guard."
+            ]
+        },
+        {
+            "id": "a003_081_0101",
+            "en_US": [
+                "Just a little more to 50 straight wins!\n",
+                "Suddenly, I'm all pumped up!"
+            ]
+        },
+        {
+            "id": "a003_081_0102",
+            "en_US": [
+                "You have the face of someone who\n",
+                "absolutely loves Pokémon battling.{VAR BE01}\n",
+                "Even now, you're still completely hooked\n",
+                "on battling. Amazing.{VAR BE01}\n",
+                "Hee hee...\n",
+                "You have a promising future!"
+            ]
+        },
+        {
+            "id": "a003_081_0103",
+            "en_US": [
+                "You and I both have 91 straight wins!{VAR BE01}\n",
+                "Which of us will reach a 100-win\n",
+                "streak first?"
+            ]
+        },
+        {
+            "id": "a003_081_0104",
+            "en_US": [
+                "Dawn and dusk behind my battles...{VAR BE01}\n",
+                "The rocking train softly rattles...{VAR BE01}\n",
+                "How many hours have now passed\n",
+                "since we left Nimbasa in the past?"
+            ]
+        },
+        {
+            "id": "a003_081_0105",
+            "en_US": [
+                "This is the end of the line...{VAR BE01}\n",
+                "The trip sure ended quickly.\n",
+                "I don't want to go home yet."
+            ]
+        },
+        {
+            "id": "a003_081_0106",
+            "en_US": [
+                "If you've made it this far, that means\n",
+                "you've won 14 in a row.{VAR BE01}\n",
+                "What a fluke! Fourteen is how old I am!{VAR BE01}\n",
+                "Ha ha ha..."
+            ]
+        },
+        {
+            "id": "a003_081_0107",
+            "en_US": [
+                "I'm going to let people know I'm still\n",
+                "as active as ever!"
+            ]
+        },
+        {
+            "id": "a003_081_0108",
+            "en_US": [
+                "It's the end of the line already...{VAR BE01}\n",
+                "I guess that means my Pokémon\n",
+                "battle journey is over for now."
+            ]
+        },
+        {
+            "id": "a003_081_0109",
+            "en_US": [
+                "Phew...{VAR BE01}\n",
+                "This long journey is hard on this\n",
+                "old body."
+            ]
+        },
+        {
+            "id": "a003_081_0110",
+            "en_US": [
+                "Hmm. You've got 28 straight wins, huh?{VAR BE01}\n",
+                "This time, I want to keep going\n",
+                "with this momentum."
+            ]
+        },
+        {
+            "id": "a003_081_0111",
+            "en_US": [
+                "You also beat the Subway Boss, right?\n",
+                "Someday I want to battle you, too!"
+            ]
+        },
+        {
+            "id": "a003_081_0112",
+            "en_US": [
+                "When my favorite Poké Ball begins\n",
+                "to shake, I tremble with excitement!{VAR BE01}\n",
+                "You're no ordinary Trainer, are you?\n",
+                "Perhaps you are the Champion somewhere?"
+            ]
+        },
+        {
+            "id": "a003_081_0113",
+            "en_US": [
+                "Winning battles feels good, but I've\n",
+                "traveled quite far...I wonder if I can{VAR BE00}\n",
+                "get back in time for work tomorrow..."
+            ]
+        },
+        {
+            "id": "a003_081_0114",
+            "en_US": [
+                "I finally have a 49-battle win streak.{VAR BE01}\n",
+                "If I can do this well at work, I wonder\n",
+                "if I can get promoted..."
+            ]
+        },
+        {
+            "id": "a003_081_0115",
+            "en_US": [
+                "Both you and I have won more than\n",
+                "100 straight battles!{VAR BE01}\n",
+                "I may have too much time on my hands,\n",
+                "but so do you.{VAR BE01}\n",
+                "Take this to commemorate our meeting of\n",
+                "two similar people!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_081_0116",
+            "en_US": [
+                "It's a really precious Berry, but I don't\n",
+                "know how to use it other than to eat it{VAR BE00}\n",
+                "as a snack..."
+            ]
+        },
+        {
+            "id": "a003_081_0117",
+            "en_US": "It's a subway map of the Unova region.{VAR BE01}"
+        },
+        {
+            "id": "a003_081_0118",
+            "en_US": "Communicating. Please stand by..."
+        }
+    ]
+}

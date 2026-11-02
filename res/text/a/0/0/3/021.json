@@ -1,0 +1,696 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_021_0000",
+            "en_US": "Cheren: Come with me a sec.{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0001",
+            "en_US": [
+                "If you go straight from here,\n",
+                "there's a Pokémon Center.{VAR BE01}\n",
+                "And...\n",
+                "Use these if you want.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0002",
+            "en_US": [
+                "Cheren: Give your Pokémon a\n",
+                "Chesto Berry to hold. Then, if it ever{VAR BE00}\n",
+                "falls asleep, it will wake up immediately.{VAR BE01}\n",
+                "Oh, and another piece of advice--{VAR BE01}\n",
+                "Nacrene City's Gym Leader uses\n",
+                "Normal types.{VAR BE01}\n",
+                "If you have a Fighting-type Pokémon,\n",
+                "it might give you a big advantage.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0003",
+            "en_US": [
+                "N: {VAR BE09 0001}I...want to see things no one can see.{VAR BE01}\n",
+                "The ideals of Pokémon inside Poké Balls.{VAR BE01}\n",
+                "The truths of how Trainers should be.{VAR BE01}\n",
+                "And a future where Pokémon\n",
+                "have become perfect...{VAR BE01}\n",
+                "Do you feel the same?{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_021_0004",
+            "en_US": [
+                "N: {VAR BE09 0001}I...want to see things no one can see.{VAR BE01}\n",
+                "The truths of Pokémon inside Poké Balls.{VAR BE01}\n",
+                "The ideals of how Trainers should be.{VAR BE01}\n",
+                "And a future where Pokémon\n",
+                "have become perfect...{VAR BE01}\n",
+                "Do you feel the same?{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_021_0005",
+            "en_US": [
+                "N: {VAR BE09 0001}That so?{VAR BE01}\n",
+                "I think my friends and I should test you\n",
+                "to see if you can see this future, too.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0006",
+            "en_US": [
+                "N: {VAR BE09 0001}Huh. I expected more from you.\n",
+                "Now pay attention.{VAR BE01}\n",
+                "My friends and I will test you\n",
+                "to see if you can see this future, too.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0007",
+            "en_US": [
+                "N: {VAR BE09 0001}Right now, my friends aren't strong\n",
+                "enough to save all Pokémon.{VAR BE01}\n",
+                "Maybe I can't solve the equation\n",
+                "that will change the world.{VAR BE01}\n",
+                "So, I need power... Power enough\n",
+                "to make anyone agree with me.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0009",
+            "en_US": [
+                "Now I know what power I need.\n",
+                "Reshiram!{VAR BE01}\n",
+                "The legendary Pokémon that, along with\n",
+                "the hero, created the Unova region.{VAR BE01}\n",
+                "It's my turn to become that hero--\n",
+                "and you and I will be friends!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0010",
+            "en_US": [
+                "Now I know what power I need.\n",
+                "Zekrom!{VAR BE01}\n",
+                "The legendary Pokémon that, along with\n",
+                "the hero, created the Unova region.{VAR BE01}\n",
+                "It's my turn to become that hero--\n",
+                "and you and I will be friends!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0011",
+            "en_US": [
+                "???: Good day, Lenora.\n",
+                "Find any good Fossils lately?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0012",
+            "en_US": [
+                "Lenora: This is a surprise visit! Are you\n",
+                "suffering from artist's block again?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0013",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "This is Burgh.\n",
+                "He may not look like it, but he's{VAR BE00}\n",
+                "Castelia City's Gym Leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0014",
+            "en_US": [
+                "Burgh: ...Eh?\n",
+                "Just looking for a change of pace.{VAR BE01}\n",
+                "Seems hectic or something around here.\n",
+                "What's up?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0015",
+            "en_US": [
+                "Lenora: What's up?!{VAR BE01}\n",
+                "Someone just walked away with an exhibit,\n",
+                "that's what's up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0016",
+            "en_US": [
+                "Bianca: Oh, hi, {VAR 0100 0000}!\n",
+                "What's everybody doing here?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0017",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, is there\n",
+                "some kind of problem?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0018",
+            "en_US": [
+                "Lenora: And these two are...?{VAR BE01}\n",
+                "Your friends?{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "Bianca and Cheren...\n",
+                "Oh, I see. They're Trainers.{VAR BE01}\n",
+                "OK, then. Let's split up and search.\n",
+                "I'll head this way.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0019",
+            "en_US": [
+                "Everyone!{VAR BE01}\n",
+                "Cheren and Bianca,\n",
+                "I want you to stay here at the museum.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0020",
+            "en_US": [
+                "Burgh and {VAR 0100 0000},\n",
+                "you two search Pinwheel Forest!{VAR BE01}\n",
+                "Got it?\n",
+                "Burgh, you show the way!{VAR BE01}\n",
+                "I'm counting on you, everyone!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0021",
+            "en_US": [
+                "Burgh: Uh-huh.\n",
+                "You are...{VAR 0100 0000}, is it?{VAR BE01}\n",
+                "Are you raring to round up\n",
+                "our robbers?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0022",
+            "en_US": [
+                "Burgh: Uh-huh.\n",
+                "You are...{VAR 0100 0000}, is it?{VAR BE01}\n",
+                "Are you raring to round up\n",
+                "our robbers?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0023",
+            "en_US": [
+                "Bianca: Oh! Oh, {VAR 0100 0000}!\n",
+                "Take this with you!{VAR BE01}\n",
+                "Fennel gave me this Dowsing Machine\n",
+                "to give you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0024",
+            "en_US": [
+                "Now, what did she tell me? Um...{VAR BE01}\n",
+                "You can use the Dowsing Machine\n",
+                "to find places where items are hidden.{VAR BE00}\n",
+                "So you can find stuff you can't even see!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0025",
+            "en_US": [
+                "Cheren: For now, all we need to do is\n",
+                "protect the museum, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0026",
+            "en_US": "Bianca: Hey, wait for me!{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0027",
+            "en_US": [
+                "Lenora: It doesn't look like there are\n",
+                "any members of Team Plasma over here...{VAR BE00}\n",
+                "I think I'd better stay here, though.{VAR BE01}\n",
+                "Please head to Pinwheel Forest\n",
+                "and search very carefully!"
+            ]
+        },
+        {
+            "id": "a003_021_0028",
+            "en_US": [
+                "These old textile factories\n",
+                "and storehouses were abandoned.{VAR BE01}\n",
+                "But enterprising young people\n",
+                "started using them as studios.{VAR BE01}\n",
+                "That could be called the beginning of\n",
+                "Nacrene City, the city of art."
+            ]
+        },
+        {
+            "id": "a003_021_0029",
+            "en_US": [
+                "That warehouse...\n",
+                "They're selling something good inside."
+            ]
+        },
+        {
+            "id": "a003_021_0030",
+            "en_US": [
+                "Even though it's just an old warehouse,\n",
+                "it's become so popular...{VAR BE01}\n",
+                "It makes me take a second look at\n",
+                "what I think things are worth."
+            ]
+        },
+        {
+            "id": "a003_021_0031",
+            "en_US": [
+                "Nacrene City is a highly fashionable\n",
+                "and admired locale!{VAR BE01}\n",
+                "Contrariwise, if you happen to be a bit\n",
+                "ordinary, here that's cool in its own way."
+            ]
+        },
+        {
+            "id": "a003_021_0032",
+            "en_US": "How do you like the sound of accordions?"
+        },
+        {
+            "id": "a003_021_0033",
+            "en_US": [
+                "Nacrene City\n",
+                "A Pearl of a Place"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_021_0034",
+            "en_US": [
+                "Café Warehouse\n",
+                "Try our delicious Wednesday specials!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_021_0035",
+            "en_US": [
+                "Nacrene City Pokémon Gym\n",
+                "Leader: Lenora{VAR BE00}\n",
+                "An Archeologist with Backbone"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_021_0036",
+            "en_US": [
+                "Professor Juniper: Alder told me what's\n",
+                "going on.{VAR BE01}\n",
+                "{VAR 0100 0000}, you got caught up\n",
+                "in something serious, it seems...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0037",
+            "en_US": "Lenora: Is this it?{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0038",
+            "en_US": [
+                "Bianca: Whoa. Isn't that the...stone...\n",
+                "found in the Desert Resort?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0039",
+            "en_US": [
+                "Lenora: Yes, that's right, but is this\n",
+                "really a Dragon-type Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0040",
+            "en_US": [
+                "Cedric: Surely...\n",
+                "When I investigated Dragonspiral Tower,{VAR BE00}\n",
+                "I found elements that were dated to the{VAR BE00}\n",
+                "same era as this Dark Stone!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0041",
+            "en_US": [
+                "Cedric: Surely...\n",
+                "When I investigated Dragonspiral Tower,{VAR BE00}\n",
+                "I found elements that were dated to the{VAR BE00}\n",
+                "same era as this Light Stone!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0042",
+            "en_US": "Professor Juniper: ...I looked into that.{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0043",
+            "en_US": "Lenora: Impressive, as always.{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0044",
+            "en_US": [
+                "Bianca: But, you know, we're lucky...\n",
+                "'Cause what if Team Plasma, like, noticed{VAR BE00}\n",
+                "that old stone that time...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0045",
+            "en_US": [
+                "Lenora: That's a good point.{VAR BE01}\n",
+                "It's clear to me that they were\n",
+                "trying to steal the Dragon Skull so{VAR BE00}\n",
+                "they could revive the legendary{VAR BE00}\n",
+                "Dragon-type Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0046",
+            "en_US": "If you would, {VAR 0100 0000}, take this...{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0047",
+            "en_US": "Alder: Wait a moment, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0048",
+            "en_US": [
+                "If you take this Dark Stone, that\n",
+                "means you'll be the one to battle N{VAR BE00}\n",
+                "if anything happens to me.{VAR BE01}\n",
+                "Are you really OK with that?"
+            ]
+        },
+        {
+            "id": "a003_021_0049",
+            "en_US": [
+                "If you take this Light Stone, that\n",
+                "means you'll be the one to battle N{VAR BE00}\n",
+                "if anything happens to me.{VAR BE01}\n",
+                "Are you really OK with that?"
+            ]
+        },
+        {
+            "id": "a003_021_0050",
+            "en_US": [
+                "Alder: I understand. You are determined\n",
+                "to take on this duty.{VAR BE01}\n",
+                "Then, here it is.\n",
+                "Prepare yourself. Be strong.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0051",
+            "en_US": [
+                "Alder: So, you're just going to allow\n",
+                "N to fulfill his plans for a new world?{VAR BE01}\n",
+                "A world where Pokémon and Trainers\n",
+                "are separated?"
+            ]
+        },
+        {
+            "id": "a003_021_0052",
+            "en_US": [
+                "Alder: Still, I must ask you...\n",
+                "Sincerely, I must ask you...{VAR BE01}\n",
+                "Take this stone.\n",
+                "Just in case it's needed!"
+            ]
+        },
+        {
+            "id": "a003_021_0053",
+            "en_US": [
+                "Alder: I am deeply sorry.\n",
+                "I wish I didn't have to burden you.{VAR BE01}\n",
+                "This world of ours, where Pokémon\n",
+                "and people live together...{VAR BE01}\n",
+                "Please...\n",
+                "If anything happens to me, protect it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0054",
+            "en_US": [
+                "Lenora: ...I see.{VAR BE01}\n",
+                "If things don't go as planned,\n",
+                "you'll use this Dark Stone.{VAR BE01}\n",
+                "You'll protect the ideal future\n",
+                "for us and Pokémon.{VAR BE01}\n",
+                "{VAR 0100 0000}, we're counting on you.\n",
+                "Please take care of yourself.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0055",
+            "en_US": [
+                "Lenora: ...I see.{VAR BE01}\n",
+                "If things don't go as planned,\n",
+                "you'll use this Light Stone.{VAR BE01}\n",
+                "You'll protect the true future\n",
+                "for us and Pokémon.{VAR BE01}\n",
+                "{VAR 0100 0000}, we're counting on you.\n",
+                "Please take care of yourself.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0056",
+            "en_US": [
+                "Cedric: ...{VAR BE01}\n",
+                "So, how do we wake the Dragon-type\n",
+                "Pokémon from the stone, then?"
+            ]
+        },
+        {
+            "id": "a003_021_0057",
+            "en_US": "Huh?",
+            "flags": 126
+        },
+        {
+            "id": "a003_021_0058",
+            "en_US": "...",
+            "flags": 126
+        },
+        {
+            "id": "a003_021_0059",
+            "en_US": "Umm...",
+            "flags": 126
+        },
+        {
+            "id": "a003_021_0060",
+            "en_US": [
+                "Lenora: That's it!\n",
+                "We've got them, don't we?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0061",
+            "en_US": "Alder: Ah-hah. We've got those two.{VAR BE01}"
+        },
+        {
+            "id": "a003_021_0062",
+            "en_US": [
+                "{VAR 0100 0000}!\n",
+                "Go to Opelucid City.{VAR BE01}\n",
+                "The Gym Leader of that city\n",
+                "uses Dragon-type Pokémon.{VAR BE01}\n",
+                "The Gym Leader could know something.\n",
+                "I'll go ahead and wait for you there!{VAR BE01}\n",
+                "Until then!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0063",
+            "en_US": [
+                "Professor Juniper: That's right!{VAR BE01}\n",
+                "Opelucid City's Iris might know something!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0064",
+            "en_US": [
+                "Professor Juniper: That's right!{VAR BE01}\n",
+                "Opelucid City's Drayden might\n",
+                "know something!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0065",
+            "en_US": [
+                "Cedric: Hey, {VAR 0100 0000}.{VAR BE01}\n",
+                "Never forget that you always\n",
+                "have Pokémon right by your side.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0066",
+            "en_US": [
+                "Professor Juniper: I'm going to head\n",
+                "back to the lab and do some research...{VAR BE01}\n",
+                "I'll see if I can uncover what kinds of\n",
+                "beings these legendary Dragon-type{VAR BE00}\n",
+                "Pokémon are and if there is any way{VAR BE00}\n",
+                "to awaken them...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0067",
+            "en_US": [
+                "Lenora: Don't worry!{VAR BE01}\n",
+                "If we have something for you,\n",
+                "we'll come running to find you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0068",
+            "en_US": [
+                "Lenora: Don't worry!{VAR BE01}\n",
+                "If we have something for you,\n",
+                "we'll come running to find you!"
+            ]
+        },
+        {
+            "id": "a003_021_0069",
+            "en_US": [
+                "Bianca: Ooh. Sounds real serious...\n",
+                "Um, that's about all I got out of it.{VAR BE01}\n",
+                "{VAR 0100 0000}, do you know Opelucid City?{VAR BE01}\n",
+                "When you leave from Icirrus City\n",
+                "and, like, cross the Tubeline Bridge,{VAR BE00}\n",
+                "it's on the other side. Umm...{VAR BE01}\n",
+                "I'm not that great with directions, so if\n",
+                "you need more, check your Town Map, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_021_0070",
+            "en_US": [
+                "Bianca: Ooh. Sounds real serious...\n",
+                "Um, that's about all I got out of it.{VAR BE01}\n",
+                "{VAR 0100 0000}, do you know Opelucid City?{VAR BE01}\n",
+                "When you leave from Icirrus City\n",
+                "and, like, cross the Tubeline Bridge,{VAR BE00}\n",
+                "it's on the other side. Umm...{VAR BE01}\n",
+                "I'm not that great with directions, so if\n",
+                "you need more, check your Town Map, OK?"
+            ]
+        },
+        {
+            "id": "a003_021_0071",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0072",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0073",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0074",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0075",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0076",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0077",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0078",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0079",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0080",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0081",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0082",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0083",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0084",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0085",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0086",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0087",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0088",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0089",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_021_0090",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

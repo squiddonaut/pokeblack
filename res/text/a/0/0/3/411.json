@@ -1,0 +1,53 @@
+{
+    "flags": 224,
+    "pad": "3e3e",
+    "messages": [
+        {
+            "id": "a003_411_0000",
+            "en_US": [
+                "If you want to enjoy the slow life, visit\n",
+                "White Forest."
+            ]
+        },
+        {
+            "id": "a003_411_0001",
+            "en_US": [
+                "If you want to enjoy vibrant city life,\n",
+                "visit Black City."
+            ]
+        },
+        {
+            "id": "a003_411_0002",
+            "en_US": [
+                "People who yearn for nature often move\n",
+                "into White Forest."
+            ]
+        },
+        {
+            "id": "a003_411_0003",
+            "en_US": [
+                "People who yearn for hustle and bustle\n",
+                "often move into Black City."
+            ]
+        },
+        {
+            "id": "a003_411_0004",
+            "en_US": [
+                "As the residents change, the forest\n",
+                "also changes.{VAR BE01}\n",
+                "Looking at the changes, I feel that\n",
+                "people and the forest are made of the{VAR BE00}\n",
+                "same living matter."
+            ]
+        },
+        {
+            "id": "a003_411_0005",
+            "en_US": [
+                "As the residents change, the city\n",
+                "also changes.{VAR BE01}\n",
+                "When I look at the changes for a while,\n",
+                "the city looks like a gigantic creature."
+            ]
+        }
+    ]
+}

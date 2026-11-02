@@ -1,0 +1,18 @@
+{
+    "flags": 229,
+    "messages": [
+        {
+            "id": "a002_194_0000",
+            "en_US": [
+                "Hey there! Where are you now?{VAR BE01}\n",
+                "Could you do me a favor?\n",
+                "Let's have a Pokémon battle!{VAR BE01}\n",
+                "Iris has trained me, and I've become\n",
+                "a little stronger. I should be able{VAR BE00}\n",
+                "to protect my own Pokémon now.{VAR BE01}\n",
+                "Let's meet at the gate to Route 4!{VAR BE01}\n",
+                "OK, see you later!{VAR BE01}"
+            ]
+        }
+    ]
+}

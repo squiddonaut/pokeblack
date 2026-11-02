@@ -1,0 +1,198 @@
+{
+    "flags": 184,
+    "pad": "e0e0",
+    "messages": [
+        {
+            "id": "a002_021_0000",
+            "en_US": "About “Infrared\""
+        },
+        {
+            "id": "a002_021_0001",
+            "en_US": "About “Online\""
+        },
+        {
+            "id": "a002_021_0002",
+            "en_US": "About “Online\""
+        },
+        {
+            "id": "a002_021_0003",
+            "en_US": "About “Wireless\""
+        },
+        {
+            "id": "a002_021_0004",
+            "en_US": "About “Wireless\""
+        },
+        {
+            "id": "a002_021_0005",
+            "en_US": "About “Wireless\""
+        },
+        {
+            "id": "a002_021_0006",
+            "en_US": "About “Wireless\""
+        },
+        {
+            "id": "a002_021_0007",
+            "en_US": "About “Wireless\""
+        },
+        {
+            "id": "a002_021_0008",
+            "en_US": "About “Tag Log\""
+        },
+        {
+            "id": "a002_021_0009",
+            "en_US": "About “Survey Radar\""
+        },
+        {
+            "id": "a002_021_0010",
+            "en_US": "About “Customization\""
+        },
+        {
+            "id": "a002_021_0011",
+            "en_US": "About “ON/OFF\""
+        },
+        {
+            "id": "a002_021_0012",
+            "en_US": [
+                "Using infrared, you can battle and trade\n",
+                "with a friend in front of you.\n",
+                "You can also use the Feeling Check which\n",
+                "tells you how compatible you and your\n",
+                "friend are, and exchange Friend Codes."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0013",
+            "en_US": [
+                "By pressing the Game Sync button,\n",
+                "you can select a Pokémon to make sleep\n",
+                "and then send your saved data over\n",
+                "Nintendo Wi-Fi Connection."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0014",
+            "en_US": [
+                "You cannot connect to Nintendo Wi-Fi\n",
+                "Connection without the proper\n",
+                "system settings, even when you are\n",
+                "able to receive a signal for \n",
+                "Nintendo Wi-Fi Connection."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0015",
+            "en_US": [
+                "DS Wireless Communications\n",
+                "allow you to use the features below\n",
+                "with your nearby friends.\n",
+                "-Xtransceiver\n",
+                "-Entralink"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0016",
+            "en_US": [
+                "The Xtransceiver allows you to connect\n",
+                "with friends you've played with in the\n",
+                "Wi-Fi Club or those you've exchanged\n",
+                "Friend Codes with using the C-Gear."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0017",
+            "en_US": [
+                "Press the button, and you will be\n",
+                "sent to the Entralink instantly."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0018",
+            "en_US": [
+                "You can tell how many people\n",
+                "are in the Union Room around you\n",
+                "and if wireless distributions\n",
+                "are available nearby."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0019",
+            "en_US": [
+                "You can also tell who has\n",
+                "the C-Gear turned on around you.\n",
+                "When people are nearby,\n",
+                "it is easier to receive signals for\n",
+                "the Tag Log and Survey Radar."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0020",
+            "en_US": [
+                "It displays what people\n",
+                "around you are doing in real time.\n",
+                "By selecting it, you can find out\n",
+                "more about them and send\n",
+                "them messages."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0021",
+            "en_US": [
+                "You can do surveys on people\n",
+                "around you.\n",
+                "\n",
+                "Choose what you want to find out,\n",
+                "and you can see the daily results,\n",
+                "as well as the cumulative results."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0022",
+            "en_US": [
+                "Touch the Customization icon, and it will\n",
+                "start blinking. Touch other buttons as it\n",
+                "blinks, and they will appear differently.\n",
+                "\n",
+                "You can even make patterns with buttons\n",
+                "of different colors."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0023",
+            "en_US": [
+                "Touch this button to turn\n",
+                "wireless communications on or off.\n",
+                "\n",
+                "Once you turn it off, the touch panel\n",
+                "turns dark, and wireless communications\n",
+                "will be turned off."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_021_0024",
+            "en_US": "NEXT",
+            "flags": 70
+        },
+        {
+            "id": "a002_021_0025",
+            "en_US": "QUIT",
+            "flags": 48
+        },
+        {
+            "id": "a002_021_0026",
+            "en_US": "PREVIOUS",
+            "flags": 70
+        }
+    ]
+}

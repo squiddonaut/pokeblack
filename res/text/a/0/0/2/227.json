@@ -1,0 +1,41 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_227_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_227_0001",
+            "en_US": "Central Federal District"
+        },
+        {
+            "id": "a002_227_0002",
+            "en_US": "Far Eastern Federal District"
+        },
+        {
+            "id": "a002_227_0003",
+            "en_US": "Northwestern Federal District"
+        },
+        {
+            "id": "a002_227_0004",
+            "en_US": "Volga Federal District"
+        },
+        {
+            "id": "a002_227_0005",
+            "en_US": "Siberian Federal District"
+        },
+        {
+            "id": "a002_227_0006",
+            "en_US": "Southern Federal District"
+        },
+        {
+            "id": "a002_227_0007",
+            "en_US": "Urals Federal District"
+        },
+        {
+            "id": "a002_227_0008",
+            "en_US": "North Caucasian Federal District"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "pad": "b4b4",
+    "messages": [
+        {
+            "id": "a003_398_0000",
+            "en_US": [
+                "As its name suggests, Village Bridge\n",
+                "is a village like a bridge...{VAR BE00}\n",
+                "No, it's a bridge like a village...{VAR BE00}\n",
+                "No, it's a bridge like a bridge...{VAR BE00}\n",
+                "No, it's a village like a village...{VAR BE00}\n",
+                "Oh, I'm so confused!"
+            ]
+        },
+        {
+            "id": "a003_398_0001",
+            "en_US": [
+                "Pokémon love Village Sandwiches, too.\n",
+                "A Berry topping is crucial to the taste."
+            ]
+        }
+    ]
+}

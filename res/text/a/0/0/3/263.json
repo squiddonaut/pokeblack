@@ -1,0 +1,72 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_263_0000",
+            "en_US": "Repel's effect wore off..."
+        },
+        {
+            "id": "a003_263_0001",
+            "en_US": "There appears to be nothing here..."
+        },
+        {
+            "id": "a003_263_0002",
+            "en_US": [
+                "The sweet scent faded for\n",
+                "some reason..."
+            ]
+        },
+        {
+            "id": "a003_263_0003",
+            "en_US": "Landed a Pokémon!{VAR BE01}"
+        },
+        {
+            "id": "a003_263_0004",
+            "en_US": "Not even a nibble...{VAR BE01}"
+        },
+        {
+            "id": "a003_263_0005",
+            "en_US": "Reeled it in too quickly!{VAR BE01}"
+        },
+        {
+            "id": "a003_263_0006",
+            "en_US": "Reeled it in too late!{VAR BE01}"
+        },
+        {
+            "id": "a003_263_0007",
+            "en_US": "{VAR 0100 0000} warped to the Entralink!{VAR BE01}"
+        },
+        {
+            "id": "a003_263_0008",
+            "en_US": "You can't warp to the Entralink here!"
+        },
+        {
+            "id": "a003_263_0009",
+            "en_US": [
+                "You can't warp because there is a\n",
+                "mission going on at the Entralink."
+            ]
+        },
+        {
+            "id": "a003_263_0010",
+            "en_US": [
+                "You can't warp to the Entralink because\n",
+                "you are connecting with someone."
+            ]
+        },
+        {
+            "id": "a003_263_0011",
+            "en_US": [
+                "Participating in an ongoing mission\n",
+                "at the Entralink!{VAR BE00}\n",
+                "You'll return here after the mission.{VAR BE01}\n",
+                "You will warp to another person's \n",
+                "Entralink to participate in the mission!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_263_0012",
+            "en_US": "The connection has been lost."
+        }
+    ]
+}

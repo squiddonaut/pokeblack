@@ -1,0 +1,67 @@
+{
+    "flags": 239,
+    "messages": [
+        {
+            "id": "a002_052_0000",
+            "en_US": [
+                "Tap the Touch Screen ten times\n",
+                "in any rhythm you like."
+            ]
+        },
+        {
+            "id": "a002_052_0001",
+            "en_US": [
+                "Check complete. Create an Infrared\n",
+                "Connection with the other Trainer."
+            ]
+        },
+        {
+            "id": "a002_052_0002",
+            "en_US": [
+                "Checking...\n",
+                "Please maintain the Infrared Connection."
+            ]
+        },
+        {
+            "id": "a002_052_0003",
+            "en_US": "You've created an Infrared Connection!"
+        },
+        {
+            "id": "a002_052_0004",
+            "en_US": [
+                "The connection was interrupted.\n",
+                "Please realign your infrared Game Cards."
+            ]
+        },
+        {
+            "id": "a002_052_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_052_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_052_0007",
+            "en_US": "RHYTHM CHECK",
+            "flags": 160
+        },
+        {
+            "id": "a002_052_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_052_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_052_0010",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

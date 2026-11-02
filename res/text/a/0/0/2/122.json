@@ -1,0 +1,281 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_122_0000",
+            "en_US": "WAHAHA"
+        },
+        {
+            "id": "a002_122_0001",
+            "en_US": "WAIL"
+        },
+        {
+            "id": "a002_122_0002",
+            "en_US": "WAILMER"
+        },
+        {
+            "id": "a002_122_0003",
+            "en_US": "WAILORD"
+        },
+        {
+            "id": "a002_122_0004",
+            "en_US": "WAKEUPSLAP"
+        },
+        {
+            "id": "a002_122_0005",
+            "en_US": "WALK"
+        },
+        {
+            "id": "a002_122_0006",
+            "en_US": "WALREIN"
+        },
+        {
+            "id": "a002_122_0007",
+            "en_US": "WANT"
+        },
+        {
+            "id": "a002_122_0008",
+            "en_US": "WARTORTLE"
+        },
+        {
+            "id": "a002_122_0009",
+            "en_US": "WATCHOG"
+        },
+        {
+            "id": "a002_122_0010",
+            "en_US": "WATER"
+        },
+        {
+            "id": "a002_122_0011",
+            "en_US": "WATERABSORB"
+        },
+        {
+            "id": "a002_122_0012",
+            "en_US": "WATERFALL"
+        },
+        {
+            "id": "a002_122_0013",
+            "en_US": "WATERGUN"
+        },
+        {
+            "id": "a002_122_0014",
+            "en_US": "WATERPLEDGE"
+        },
+        {
+            "id": "a002_122_0015",
+            "en_US": "WATERPULSE"
+        },
+        {
+            "id": "a002_122_0016",
+            "en_US": "WATERSPORT"
+        },
+        {
+            "id": "a002_122_0017",
+            "en_US": "WATERSPOUT"
+        },
+        {
+            "id": "a002_122_0018",
+            "en_US": "WATERVEIL"
+        },
+        {
+            "id": "a002_122_0019",
+            "en_US": "WEAK"
+        },
+        {
+            "id": "a002_122_0020",
+            "en_US": "WEAKARMOR"
+        },
+        {
+            "id": "a002_122_0021",
+            "en_US": "WEATHERBALL"
+        },
+        {
+            "id": "a002_122_0022",
+            "en_US": "WEAVILE"
+        },
+        {
+            "id": "a002_122_0023",
+            "en_US": "WEEDLE"
+        },
+        {
+            "id": "a002_122_0024",
+            "en_US": "WEEP"
+        },
+        {
+            "id": "a002_122_0025",
+            "en_US": "WEEPINBELL"
+        },
+        {
+            "id": "a002_122_0026",
+            "en_US": "WEEZING"
+        },
+        {
+            "id": "a002_122_0027",
+            "en_US": "WELCOME"
+        },
+        {
+            "id": "a002_122_0028",
+            "en_US": "WELLDONE"
+        },
+        {
+            "id": "a002_122_0029",
+            "en_US": "WHATSUP"
+        },
+        {
+            "id": "a002_122_0030",
+            "en_US": "WHIMSICOTT"
+        },
+        {
+            "id": "a002_122_0031",
+            "en_US": "WHIRLIPEDE"
+        },
+        {
+            "id": "a002_122_0032",
+            "en_US": "WHIRLPOOL"
+        },
+        {
+            "id": "a002_122_0033",
+            "en_US": "WHIRLWIND"
+        },
+        {
+            "id": "a002_122_0034",
+            "en_US": "WHISCASH"
+        },
+        {
+            "id": "a002_122_0035",
+            "en_US": "WHISMUR"
+        },
+        {
+            "id": "a002_122_0036",
+            "en_US": "WHITESMOKE"
+        },
+        {
+            "id": "a002_122_0037",
+            "en_US": "WHO"
+        },
+        {
+            "id": "a002_122_0038",
+            "en_US": "WHOA"
+        },
+        {
+            "id": "a002_122_0039",
+            "en_US": "WIDEGUARD"
+        },
+        {
+            "id": "a002_122_0040",
+            "en_US": "WIFI"
+        },
+        {
+            "id": "a002_122_0041",
+            "en_US": "WIGGLYTUFF"
+        },
+        {
+            "id": "a002_122_0042",
+            "en_US": "WILDCHARGE"
+        },
+        {
+            "id": "a002_122_0043",
+            "en_US": "WILLOWISP"
+        },
+        {
+            "id": "a002_122_0044",
+            "en_US": "WINGATTACK"
+        },
+        {
+            "id": "a002_122_0045",
+            "en_US": "WINGULL"
+        },
+        {
+            "id": "a002_122_0046",
+            "en_US": "WINS"
+        },
+        {
+            "id": "a002_122_0047",
+            "en_US": "WINTER"
+        },
+        {
+            "id": "a002_122_0048",
+            "en_US": "WIRELESS"
+        },
+        {
+            "id": "a002_122_0049",
+            "en_US": "WISH"
+        },
+        {
+            "id": "a002_122_0050",
+            "en_US": "WITHDRAW"
+        },
+        {
+            "id": "a002_122_0051",
+            "en_US": "WOBBUFFET"
+        },
+        {
+            "id": "a002_122_0052",
+            "en_US": "WONDERGUARD"
+        },
+        {
+            "id": "a002_122_0053",
+            "en_US": "WONDERROOM"
+        },
+        {
+            "id": "a002_122_0054",
+            "en_US": "WONDERSKIN"
+        },
+        {
+            "id": "a002_122_0055",
+            "en_US": "WOOBAT"
+        },
+        {
+            "id": "a002_122_0056",
+            "en_US": "WOODHAMMER"
+        },
+        {
+            "id": "a002_122_0057",
+            "en_US": "WOOPER"
+        },
+        {
+            "id": "a002_122_0058",
+            "en_US": "WORD"
+        },
+        {
+            "id": "a002_122_0059",
+            "en_US": "WORK"
+        },
+        {
+            "id": "a002_122_0060",
+            "en_US": "WORKUP"
+        },
+        {
+            "id": "a002_122_0061",
+            "en_US": "WORLD"
+        },
+        {
+            "id": "a002_122_0062",
+            "en_US": "WORMADAM"
+        },
+        {
+            "id": "a002_122_0063",
+            "en_US": "WORRYSEED"
+        },
+        {
+            "id": "a002_122_0064",
+            "en_US": "WOW"
+        },
+        {
+            "id": "a002_122_0065",
+            "en_US": "WRAP"
+        },
+        {
+            "id": "a002_122_0066",
+            "en_US": "WRINGOUT"
+        },
+        {
+            "id": "a002_122_0067",
+            "en_US": "WURMPLE"
+        },
+        {
+            "id": "a002_122_0068",
+            "en_US": "WYNAUT"
+        }
+    ]
+}

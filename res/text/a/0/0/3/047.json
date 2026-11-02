@@ -1,0 +1,3405 @@
+{
+    "flags": 224,
+    "pad": "b4b4",
+    "messages": [
+        {
+            "id": "a003_047_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_047_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_047_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_047_0003",
+            "en_US": "{VAR 0113 0000}",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0004",
+            "en_US": "YES",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0005",
+            "en_US": "NO",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0006",
+            "en_US": [
+                "What are people's favorite things?\n",
+                "What is popular right now?{VAR BE01}\n",
+                "Have you ever wondered about\n",
+                "these things?{VAR BE01}\n",
+                "Welcome to Passerby Analytics HQ!{VAR BE01}\n",
+                "This is where you can find\n",
+                "all the answers.{VAR BE01}\n",
+                "...You have good eyes.\n",
+                "Eyes full of curiosity.{VAR BE01}\n",
+                "...Good! I will specially appoint you\n",
+                "as a statistician!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0007",
+            "en_US": [
+                "{VAR 0100 0001} was appointed\n",
+                "as a statistician!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0008",
+            "en_US": [
+                "Statisticians have only one task!\n",
+                "They conduct requested surveys.{VAR BE01}\n",
+                "First, you'll receive survey requests\n",
+                "from me.{VAR BE01}\n",
+                "Then, with the Survey Radar, you'll\n",
+                "choose the survey you want to conduct.{VAR BE01}\n",
+                "Then, if you pass by a lot of people,\n",
+                "the radar will collect the information.{VAR BE01}\n",
+                "Of course, we've prepared compensation\n",
+                "for the survey.{VAR BE01}\n",
+                "Statistician {VAR 0100 0001}!\n",
+                "I expect you to do a great job!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0009",
+            "en_US": [
+                "Statistician {VAR 0100 0001},\n",
+                "good to see you!{VAR BE01}\n",
+                "Are you surveying people vigorously?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0010",
+            "en_US": [
+                "You've finished all the requests.{VAR BE01}\n",
+                "From now on, feel free to survey\n",
+                "whatever you want to know!"
+            ]
+        },
+        {
+            "id": "a003_047_0011",
+            "en_US": "What would you like to do today?"
+        },
+        {
+            "id": "a003_047_0012",
+            "en_US": "Accept a request",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0013",
+            "en_US": "Report the result",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0014",
+            "en_US": "Nothing",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0015",
+            "en_US": "Check the request",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0016",
+            "en_US": [
+                "Accept a survey request, right?{VAR BE01}\n",
+                "First, choose a survey method."
+            ]
+        },
+        {
+            "id": "a003_047_0017",
+            "en_US": "Timed survey",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0018",
+            "en_US": "Head-count survey",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0019",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0020",
+            "en_US": [
+                "A timed survey, right?{VAR BE01}\n",
+                "This is a survey to collect data\n",
+                "for a specified time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0021",
+            "en_US": [
+                "A head-count survey, right?{VAR BE01}\n",
+                "This is a survey to collect data for\n",
+                "a specified number of people.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0022",
+            "en_US": [
+                "Please choose a request on which\n",
+                "you are going to conduct a survey."
+            ]
+        },
+        {
+            "id": "a003_047_0023",
+            "en_US": [
+                "OK...{VAR BE01}\n",
+                "Please come back again\n",
+                "if you want to accept a request."
+            ]
+        },
+        {
+            "id": "a003_047_0024",
+            "en_US": [
+                "You've already accepted a survey\n",
+                "request!{VAR BE01}\n",
+                "Try your best to conduct the survey.\n",
+                "Or do you want to cancel the survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0025",
+            "en_US": [
+                "You'll need to resurvey for the data\n",
+                "you've already collected...{VAR BE01}\n",
+                "Are you sure you want to cancel?"
+            ]
+        },
+        {
+            "id": "a003_047_0026",
+            "en_US": [
+                "OK...{VAR BE01}\n",
+                "Please come back again if you\n",
+                "want to accept a request."
+            ]
+        },
+        {
+            "id": "a003_047_0027",
+            "en_US": "Then, please continue the survey."
+        },
+        {
+            "id": "a003_047_0028",
+            "en_US": "Which version is more popular?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0029",
+            "en_US": "The first Pokémon you picked?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0030",
+            "en_US": "How long have you been playing?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0031",
+            "en_US": "More men or more women?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0032",
+            "en_US": "The most common job?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0033",
+            "en_US": "The most common hobby?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0034",
+            "en_US": "More popular, battles or trades?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0035",
+            "en_US": "Favorite kind of Pokémon?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0036",
+            "en_US": "Favorite Pokémon type?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0037",
+            "en_US": "Where do people prefer to live?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0038",
+            "en_US": "About what's most important",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0039",
+            "en_US": "Favorite kinds of people?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0040",
+            "en_US": "About seasons",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0041",
+            "en_US": "About art",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0042",
+            "en_US": "Favorite music?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0043",
+            "en_US": "About TV and movies",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0044",
+            "en_US": "Favorite time in school?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0045",
+            "en_US": "About study",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0046",
+            "en_US": "Most popular sport?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0047",
+            "en_US": "About a holiday",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0048",
+            "en_US": "What do you want to become the most?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0049",
+            "en_US": "Most popular Gym Leader?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0050",
+            "en_US": "Most fun part of Pokémon?",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0051",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0052",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out which is more\n",
+                "popular, Pokémon Black Version{VAR BE00}\n",
+                "or Pokémon White Version.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "two hours or more.{VAR BE01}\n",
+                "I'm thinking of taking up Pokémon, too.\n",
+                "I want to know which one is most popular.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0053",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Pokémon Professor.{VAR BE01}\n",
+                "You need to find out the most popular\n",
+                "starter Pokémon.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "two hours or more.{VAR BE01}\n",
+                "He wants to use the results\n",
+                "for his research.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0054",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a mother.{VAR BE01}\n",
+                "You need to find out how long people\n",
+                "have been playing the game.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "four hours or more.{VAR BE01}\n",
+                "She wants to compare her child's game\n",
+                "time and the result of the survey.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0055",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a newspaper company.{VAR BE01}\n",
+                "You need to find out which are the\n",
+                "majority, men or women.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "four hours or more.{VAR BE01}\n",
+                "They want to publish the result\n",
+                "in tomorrow's morning paper.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0056",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a magazine company.{VAR BE01}\n",
+                "You need to find out the most\n",
+                "common job.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "four hours or more.{VAR BE01}\n",
+                "They want to use the result for their\n",
+                "feature article.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0057",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a leisure company.{VAR BE01}\n",
+                "You need to find out the most\n",
+                "common hobby.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "four hours or more.{VAR BE01}\n",
+                "They want to use the result as a\n",
+                "reference for their projects.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0058",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out which one is more\n",
+                "popular, battles or trades.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "eight hours or more.{VAR BE01}\n",
+                "Lately, I've been addicted to Pokémon,\n",
+                "so I want to know how other people play.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0059",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a girl.{VAR BE01}\n",
+                "You need to find out the most popular\n",
+                "kind of Pokémon.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "eight hours or more.{VAR BE01}\n",
+                "She wants to submit the result as her\n",
+                "homework.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0060",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Trainer.{VAR BE01}\n",
+                "You need to find out the most popular\n",
+                "Pokémon type.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "eight hours or more.{VAR BE01}\n",
+                "He wants to use the result to plan\n",
+                "his battles.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0061",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a real-estate firm.{VAR BE01}\n",
+                "You need to find out where people want\n",
+                "to live, in a city or in the countryside.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "eight hours or more.{VAR BE01}\n",
+                "They want to use the result for\n",
+                "their business.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0062",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out which one people\n",
+                "want more, time or money,{VAR BE00}\n",
+                "and what's most important to people.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "12 hours or more.{VAR BE01}\n",
+                "I'd like to know...\n",
+                "what people cherish the most...{VAR BE01}\n",
+                "What? Why?\n",
+                "I cannot tell you the reason.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0063",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out which kind of person\n",
+                "is more popular, a smart person or an{VAR BE00}\n",
+                "athletic person...{VAR BE01}\n",
+                "and which one people desire more,\n",
+                "appearance or substance.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "12 hours or more.{VAR BE01}\n",
+                "It's a survey about the most popular\n",
+                "type of person.{VAR BE01}\n",
+                "What? Did something happen?\n",
+                "No, nothing... Never mind!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0064",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out people's favorite\n",
+                "season and favorite food.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "12 hours or more.{VAR BE01}\n",
+                "Don't you want to offer delicious food\n",
+                "depending on the season?{VAR BE01}\n",
+                "To whom? That's a secret!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0065",
+            "en_US": [
+                "This survey is...\n",
+                "a request from an artist.{VAR BE01}\n",
+                "You need to find out people's favorite\n",
+                "colors and favorite music.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "12 hours or more.{VAR BE01}\n",
+                "He wants to use the result for his art.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0066",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a popular singer.{VAR BE01}\n",
+                "You need to find out\n",
+                "people's favorite music.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "16 hours or more.{VAR BE01}\n",
+                "She wants to use the result\n",
+                "for her new song.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0067",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out people's favorite\n",
+                "TV programs and movies.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "16 hours or more.{VAR BE01}\n",
+                "I want to have a lot of things to talk\n",
+                "about. So I need to know the trends!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0068",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a student.{VAR BE01}\n",
+                "You need to find out\n",
+                "people's favorite time in school.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "16 hours or more.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his school life.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0069",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a teacher.{VAR BE01}\n",
+                "You need to find out people's favorite\n",
+                "subjects and weakest subjects.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "16 hours or more.{VAR BE01}\n",
+                "She wants to use the result\n",
+                "for her classes.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0070",
+            "en_US": [
+                "This survey is...\n",
+                "a request from an athlete.{VAR BE01}\n",
+                "You need to find out\n",
+                "the most popular sport.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "20 hours or more.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his games.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0071",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out the most popular\n",
+                "way to spend a holiday, and the most{VAR BE00}\n",
+                "popular fun place.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "20 hours or more.{VAR BE01}\n",
+                "Why? Well, to tell you the truth,\n",
+                "I have a date next weekend.{VAR BE01}\n",
+                "So, I want to check out some\n",
+                "trendy places.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0072",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Pokémon fan.{VAR BE01}\n",
+                "You need to find out what people most\n",
+                "want to become.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "20 hours or more.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "to promote Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0073",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Gym Leader.{VAR BE01}\n",
+                "You need to find out who is the most\n",
+                "popular Gym Leader.{VAR BE01}\n",
+                "The survey must be conducted for\n",
+                "24 hours or more.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his Gym operation.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0074",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "You need to find out the most fun part\n",
+                "of Pokémon.{VAR BE01}\n",
+                "The survey must be conducted\n",
+                "for 24 hours or more.{VAR BE01}\n",
+                "...There is a lot going on for grown-ups.{VAR BE01}\n",
+                "From now on, I will live a life dedicated\n",
+                "to Pokémon.{VAR BE01}\n",
+                "I will research the appeal of Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0075",
+            "en_US": [
+                "...Oh?{VAR BE01}\n",
+                "You've passed by so many people already!\n",
+                "I knew you could do it, {VAR 0100 0001}.{VAR BE01}\n",
+                "I think the current data is enough.\n",
+                "Please report the survey results to me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0076",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "five or more people to find out which is{VAR BE00}\n",
+                "more popular, Pokémon Black Version{VAR BE00}\n",
+                "or Pokémon White Version.{VAR BE01}\n",
+                "I'm thinking of taking up Pokémon, too.\n",
+                "I want to know which one is most popular.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0077",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Pokémon Professor.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "five or more people to find out{VAR BE00}\n",
+                "the most-picked starter Pokémon.{VAR BE01}\n",
+                "He wants to use the result of the survey\n",
+                "for his research.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0078",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a mother.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "ten or more people to find out{VAR BE00}\n",
+                "how long people have spent playing{VAR BE00}\n",
+                "the game.{VAR BE01}\n",
+                "She wants to compare her child's\n",
+                "game time with the result of the survey.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0079",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a newspaper company.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "ten or more people to find out{VAR BE00}\n",
+                "which are the majority,{VAR BE00}\n",
+                "men or women.{VAR BE01}\n",
+                "They want to publish the result\n",
+                "in tomorrow's morning paper.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0080",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a magazine company.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "ten or more people to find out{VAR BE00}\n",
+                "the most common job.{VAR BE01}\n",
+                "They want to use the result\n",
+                "for their feature article.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0081",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a leisure company.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "ten or more people to find out{VAR BE00}\n",
+                "the most common hobby.{VAR BE01}\n",
+                "They want to use the result\n",
+                "as a reference for their projects.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0082",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "20 or more people to find out{VAR BE00}\n",
+                "which one is more popular,{VAR BE00}\n",
+                "battles or trades.{VAR BE01}\n",
+                "Lately, I've been addicted to Pokémon,\n",
+                "and I want to know how people play it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0083",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a girl.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "20 or more people to find out{VAR BE00}\n",
+                "the most popular kind of Pokémon.{VAR BE01}\n",
+                "She wants to submit the result\n",
+                "as her homework.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0084",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Trainer.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "20 or more people to find out{VAR BE00}\n",
+                "the most popular Pokémon type.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his battles.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0085",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a real-estate firm.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "20 or more people to find out{VAR BE00}\n",
+                "where people want to live,{VAR BE00}\n",
+                "in a city or in the countryside.{VAR BE01}\n",
+                "They want to use the result\n",
+                "for their business.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0086",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "30 or more people to find out{VAR BE00}\n",
+                "which one people want, time or money,{VAR BE00}\n",
+                "and what's most important to people.{VAR BE01}\n",
+                "I'd like to know... \n",
+                "what people cherish the most...{VAR BE01}\n",
+                "What? Why?\n",
+                "I cannot tell you the reason.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0087",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "30 or more people to find out{VAR BE00}\n",
+                "which person is more popular, {VAR BE00}\n",
+                "a smart person or an athletic person...{VAR BE01}\n",
+                "and which one people desire more,\n",
+                "appearance or substance.{VAR BE01}\n",
+                "It's a survey about the most popular\n",
+                "kind of person.{VAR BE01}\n",
+                "What?\n",
+                "Did something happen?{VAR BE01}\n",
+                "No, nothing...\n",
+                "Never mind!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0088",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "30 or more people to find out{VAR BE00}\n",
+                "people's favorite seasons and{VAR BE00}\n",
+                "favorite food.{VAR BE01}\n",
+                "Don't you want to offer delicious food\n",
+                "depending on the season?{VAR BE01}\n",
+                "To whom?\n",
+                "That's a secret!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0089",
+            "en_US": [
+                "This survey is...\n",
+                "a request from an artist.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "30 or more people to find out{VAR BE00}\n",
+                "people's favorite colors and music.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his art.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0090",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a popular singer.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "40 or more people to find out{VAR BE00}\n",
+                "people's favorite music.{VAR BE01}\n",
+                "She wants to use the result\n",
+                "for her new song.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0091",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "40 or more people to find out{VAR BE00}\n",
+                "people's favorite TV programs{VAR BE00}\n",
+                "and movies.{VAR BE01}\n",
+                "I want to have a lot of things to talk\n",
+                "about. So I need to know the trends!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0092",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a student.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "40 or more people to find out{VAR BE00}\n",
+                "people's favorite time in school.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his school life.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0093",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a teacher.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "40 or more people to find out{VAR BE00}\n",
+                "people's favorite subjects{VAR BE00}\n",
+                "and weakest subjects.{VAR BE01}\n",
+                "She wants to use the result\n",
+                "for her classes.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0094",
+            "en_US": [
+                "This survey is...\n",
+                "a request from an athlete.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "50 or more people to find out{VAR BE00}\n",
+                "the most popular sport.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his games.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0095",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "50 or more people to find out{VAR BE00}\n",
+                "the most popular way to spend a holiday,{VAR BE00}\n",
+                "and the most popular fun place.{VAR BE01}\n",
+                "To tell you the truth, \n",
+                "I have a date next weekend.{VAR BE01}\n",
+                "So, I want to check out\n",
+                "trendy places.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0096",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Pokémon fan.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "50 or more people to find out{VAR BE00}\n",
+                "what people want to become the most.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "to promote Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0097",
+            "en_US": [
+                "This survey is...\n",
+                "a request from a Gym Leader.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "100 or more people to find out{VAR BE00}\n",
+                "the most popular Gym Leader.{VAR BE01}\n",
+                "He wants to use the result\n",
+                "for his Gym operation.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0098",
+            "en_US": [
+                "This survey is...\n",
+                "a request from me.{VAR BE01}\n",
+                "This survey requires you to pass by\n",
+                "100 or more people to find out{VAR BE00}\n",
+                "the most fun part of Pokémon.{VAR BE01}\n",
+                "...There is a lot going on for grown-ups.{VAR BE01}\n",
+                "From now on, I will live a life dedicated\n",
+                "to Pokémon.{VAR BE01}\n",
+                "I will research the appeal of Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0099",
+            "en_US": [
+                "...Oh?{VAR BE01}\n",
+                "You've already got the data\n",
+                "for this survey!{VAR BE01}\n",
+                "I knew you could do it, {VAR 0100 0001}.\n",
+                "Please report the survey result to me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0100",
+            "en_US": "Will you accept this survey request?"
+        },
+        {
+            "id": "a003_047_0101",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Which version is more popular?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0102",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“The first Pokémon{VAR BE00}\n",
+                "you picked?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0103",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“How long have you been playing?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0104",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“More men or more women?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0105",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“The most common job?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0106",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“The most common hobby?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0107",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“More popular,{VAR BE00}\n",
+                "battles or trades?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0108",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Favorite kind of Pokémon?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0109",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Favorite Pokémon type?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0110",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Where do people prefer to live?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0111",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About what's most important.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0112",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Favorite kinds of people?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0113",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About seasons.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0114",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About art.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0115",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Favorite music?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0116",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About TV and movies.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0117",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Favorite time in school?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0118",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About study.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0119",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Most popular sport?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0120",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“About a holiday.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0121",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“What do you want to{VAR BE00}\n",
+                "become the most?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0122",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Most popular{VAR BE00}\n",
+                "Gym Leader?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0123",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "accepted the survey request{VAR BE00}\n",
+                "“Most fun part of Pokémon?\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0124",
+            "en_US": [
+                "Then, when you finish the survey,\n",
+                "please come and report it to me."
+            ]
+        },
+        {
+            "id": "a003_047_0125",
+            "en_US": [
+                "Then, when you finish the survey,\n",
+                "please come and report it to me.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0126",
+            "en_US": "Accept another request?"
+        },
+        {
+            "id": "a003_047_0127",
+            "en_US": [
+                "You have finished the survey!\n",
+                "Please report the survey result.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0128",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Which version is more popular?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0129",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The first Pokémon you picked?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0130",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“How long have you been playing?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0131",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More men or more women?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0132",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The most common job?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0133",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The most common hobby?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0134",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More popular, battles or trades?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0135",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kind of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0136",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite Pokémon type?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0137",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Where do people prefer to live?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0138",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About what's most important.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0139",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kinds of people?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0140",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About seasons.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0141",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About art.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0142",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite music?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0143",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About TV and movies.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0144",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite time in school?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0145",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About study.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0146",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular sport?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0147",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About a holiday.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0148",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“What do you want{VAR BE00}\n",
+                "to become the most?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0149",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular{VAR BE00}\n",
+                "Gym Leader?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0150",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most fun part of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more hours: {VAR 0201 0002}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0151",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Which version is more popular?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0152",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The first Pokémon you picked?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0153",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“How long have you been playing?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0154",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More men or more women?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0155",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most common job?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0156",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most common hobby?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0157",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More popular, battles or trades?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0158",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kind of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0159",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite Pokémon type?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0160",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Where do people prefer to live?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0161",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About what's most important.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0162",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kinds of people?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0163",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About seasons.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0164",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About art.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0165",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite music?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0166",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About TV and movies.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0167",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite time in school?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0168",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About study.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0169",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular sport?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0170",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About a holiday.\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0171",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“What do you want{VAR BE00}\n",
+                "to become the most?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0172",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular{VAR BE00}\n",
+                "Gym Leader?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0173",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most fun part of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey\n",
+                "for at least one person.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0174",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Which version is more popular?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0175",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The first Pokémon{VAR BE00}\n",
+                "you picked?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0176",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“How long have you been playing?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0177",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More men or more women?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0178",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The most common job?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0179",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“The most common hobby?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0180",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“More popular, battles or trades?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0181",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kind of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0182",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite Pokémon type?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0183",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Where do people prefer to live?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0184",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About what's most important.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0185",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite kinds of people?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0186",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About seasons.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0187",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About art.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0188",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite music?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0189",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About TV and movies.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0190",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Favorite time in school?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0191",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About study.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0192",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular sport?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0193",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“About a holiday.\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0194",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“What do you want{VAR BE00}\n",
+                "to become the most?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0195",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most popular{VAR BE00}\n",
+                "Gym Leader?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0196",
+            "en_US": [
+                "You haven't finished the survey,\n",
+                "“Most fun part of Pokémon?\"{VAR BE01}\n",
+                "You need to conduct the survey for\n",
+                "this many more people: {VAR 0202 0001}.{VAR BE01}\n",
+                "Keep it up and complete the survey.\n",
+                "Or do you want to cancel this survey?"
+            ]
+        },
+        {
+            "id": "a003_047_0197",
+            "en_US": [
+                "You don't seem to have accepted\n",
+                "a survey request.{VAR BE01}\n",
+                "Please come back if you want to\n",
+                "accept a request."
+            ]
+        },
+        {
+            "id": "a003_047_0198",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Which version is more popular?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0199",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“The first Pokémon you picked?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0200",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“How long have you been playing?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0201",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“More men or more women?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0202",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Most common job?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0203",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Most common hobby?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0204",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“More popular, battles or trades?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0205",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Favorite kind of Pokémon\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0206",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Favorite Pokémon type?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0207",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Where do people prefer to live?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0208",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About what's most important\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0209",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Favorite kinds of people?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0210",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About seasons\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0211",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About art\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0212",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Favorite music?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0213",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About TV and movies\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0214",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Favorite time in school?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0215",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About study\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0216",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Most popular sport?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0217",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“About a holiday\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0218",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“What do you want to become the most?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0219",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Most popular Gym Leader?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0220",
+            "en_US": [
+                "Reported the result of the survey\n",
+                "“Most fun part of Pokémon?\"{VAR BE00}\n",
+                "to the leader!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0221",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for Pokémon Black Version and\n",
+                "Pokémon White Version, more people have{VAR BE00}\n",
+                "Pokémon {VAR 0113 0000} Version.{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "Either version seems to be fun to play.\n",
+                "Now, it's more difficult to choose!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0222",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like the\n",
+                "most selected starter Pokémon.{VAR BE01}\n",
+                "That came as a surprise.\n",
+                "That's why the survey is interesting!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0223",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the most common playing time.{VAR BE01}\n",
+                "I am happy that people enjoy the game\n",
+                "for long hours!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0224",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for women and men,\n",
+                "the majority of people who play Pokémon{VAR BE00}\n",
+                "are “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "Anyone can enjoy Pokémon!\n",
+                "I want everyone to enjoy it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0225",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the most common job.{VAR BE01}\n",
+                "Many different people\n",
+                "are playing the game.{VAR BE01}\n",
+                "What a wonderful thing!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0226",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the most common hobby.{VAR BE01}\n",
+                "It's great to enjoy various things.\n",
+                "Because your world will be broadened.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0227",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for battles and trades, more people\n",
+                "seem to enjoy “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "You can enjoy various things.\n",
+                "That's the beauty of Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0228",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "It looks like people prefer\n",
+                "“{VAR 0113 0000}\" Pokémon.{VAR BE01}\n",
+                "There are so many different Pokémon!\n",
+                "I want to meet lots of them.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0229",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the most popular Pokémon type.{VAR BE01}\n",
+                "There are many different Pokémon types.{VAR BE01}\n",
+                "This will be useful information\n",
+                "for battles!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0230",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for a city or the countryside,\n",
+                "more people seem to want to live in{VAR BE00}\n",
+                "“{VAR 0113 0000}.\"{VAR BE01}\n",
+                "There is a saying:\n",
+                "Every bird finds its own nest charming.{VAR BE00}\n",
+                "It's difficult to say which one is better.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0231",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for time or money, it looks like more\n",
+                "people chose “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "And what's most important to people\n",
+                "seems to be “{VAR 0113 0001}.\"{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "I don't want to lose sight of\n",
+                "what is important for myself.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0232",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "As for a smart or an athletic person,\n",
+                "more people chose “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "As for appearance or substance,\n",
+                "more people chose “{VAR 0113 0001}.\"{VAR BE01}\n",
+                "The most popular type of person is\n",
+                "“{VAR 0113 0002}.\"{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "Different people are charmed by\n",
+                "different qualities.{VAR BE01}\n",
+                "Why don't people notice\n",
+                "my charms...?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0233",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite season.{VAR BE01}\n",
+                "The people's favorite food seems to be\n",
+                "“{VAR 0113 0001}.\"{VAR BE01}\n",
+                "It was helpful.{VAR BE01}\n",
+                "Delicious food varies seasonally.\n",
+                "Taste the difference!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0234",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite color.{VAR BE01}\n",
+                "“{VAR 0113 0001}\" looks like\n",
+                "the people's favorite music.{VAR BE01}\n",
+                "Popular things are not necessarily good.\n",
+                "We should value what we love.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0235",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite music.{VAR BE01}\n",
+                "It may be a good idea\n",
+                "to relax and listen to music.{VAR BE01}\n",
+                "I will make use of the result\n",
+                "for my life.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0236",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite kind of TV program.{VAR BE01}\n",
+                "“{VAR 0113 0001}\" looks like\n",
+                "the people's favorite kind of movie.{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "That should prevent me from\n",
+                "running out of conversation topics.{VAR BE01}\n",
+                "I look forward to my next date.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0237",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite time in school.{VAR BE01}\n",
+                "School... It brings back memories.{VAR BE01}\n",
+                "In the old days,\n",
+                "just being in school was fun.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0238",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the people's favorite subject.{VAR BE01}\n",
+                "And, “{VAR 0113 0001}\" looks like\n",
+                "the people's weakest subject.{VAR BE01}\n",
+                "To have a balanced life, play hard and\n",
+                "study hard.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0239",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "It looks like the most popular sport is\n",
+                "“{VAR 0113 0000}.\"{VAR BE01}\n",
+                "Exercise is also important.{VAR BE01}\n",
+                "There is nothing more valuable\n",
+                "than good health.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0240",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "“{VAR 0113 0000}\" looks like\n",
+                "the most popular way of{VAR BE00}\n",
+                "spending a holiday.{VAR BE01}\n",
+                "And, “{VAR 0113 0001}\" looks like\n",
+                "the most popular fun place.{VAR BE01}\n",
+                "That is helpful.\n",
+                "This will make my date special.{VAR BE01}\n",
+                "With who? That's a secret!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0241",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "It looks like people want to become a\n",
+                "“{VAR 0113 0000}\" the most.{VAR BE01}\n",
+                "It's not bad to long to be something,\n",
+                "but first we should have confidence{VAR BE00}\n",
+                "in ourselves.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0242",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "It looks like the most popular Gym Leader\n",
+                "is “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "Gym Leaders are icons for children.\n",
+                "I think all Leaders are attractive.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0243",
+            "en_US": [
+                "Hmm... I see...{VAR BE01}\n",
+                "It looks like the most fun part\n",
+                "of Pokémon is “{VAR 0113 0000}.\"{VAR BE01}\n",
+                "That is helpful.{VAR BE01}\n",
+                "There are many ways to enjoy Pokémon.\n",
+                "So you can enjoy Pokémon indefinitely!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0244",
+            "en_US": [
+                "It's an excellent survey!{VAR BE01}\n",
+                "{VAR 0100 0001}, you've come up to\n",
+                "my expectation.{VAR BE01}\n",
+                "This is the compensation for the survey.\n",
+                "Please accept this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0245",
+            "en_US": [
+                "Your great work surprises me every time.{VAR BE01}\n",
+                "All right! From today, you are a\n",
+                "“B-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0246",
+            "en_US": [
+                "Your great work surprises me every time.{VAR BE01}\n",
+                "All right! From today, you are an\n",
+                "“A-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0247",
+            "en_US": [
+                "Your great work surprises me every time.{VAR BE01}\n",
+                "All right! From today, you are an\n",
+                "“S-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0248",
+            "en_US": [
+                "Your great work surprises me every time.{VAR BE01}\n",
+                "All right! From today, you are an\n",
+                "“S+ rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0249",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "was appointed as a{VAR BE00}\n",
+                "“B-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0250",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "was appointed as an{VAR BE00}\n",
+                "“A-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0251",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "was appointed as an{VAR BE00}\n",
+                "“S-rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0252",
+            "en_US": [
+                "{VAR 0100 0001}\n",
+                "was appointed as an{VAR BE00}\n",
+                "“S+ rank statistician\"!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0253",
+            "en_US": [
+                "You'll become a “B-rank statistician\"\n",
+                "if you complete a requested survey{VAR BE00}\n",
+                "this many more times: {VAR 0201 0001}.{VAR BE00}\n",
+                "Keep it up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0254",
+            "en_US": [
+                "You'll become an “A-rank statistician\"\n",
+                "if you complete a requested survey{VAR BE00}\n",
+                "this many more times: {VAR 0201 0001}.{VAR BE00}\n",
+                "Keep it up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0255",
+            "en_US": [
+                "You'll become an “S-rank statistician\"\n",
+                "if you complete a requested survey{VAR BE00}\n",
+                "this many more times: {VAR 0201 0001}.{VAR BE00}\n",
+                "Keep it up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0256",
+            "en_US": [
+                "You'll become an “S+ rank statistician\"\n",
+                "if you complete a requested survey{VAR BE00}\n",
+                "this many more times: {VAR 0201 0001}.{VAR BE00}\n",
+                "Keep it up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0257",
+            "en_US": [
+                "I'm expecting great work\n",
+                "for the next survey, too!{VAR BE00}\n",
+                "{VAR 0100 0001}!"
+            ]
+        },
+        {
+            "id": "a003_047_0258",
+            "en_US": [
+                "This completes all the survey requests.\n",
+                "{VAR 0100 0001}, well done!{VAR BE00}\n",
+                "I'm incredibly moved!{VAR BE01}\n",
+                "This is a token of my appreciation.\n",
+                "Please accept this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0259",
+            "en_US": [
+                "From now on, feel free to survey\n",
+                "whatever you want to know.{VAR BE01}\n",
+                "I have high hopes for\n",
+                "your future success!"
+            ]
+        },
+        {
+            "id": "a003_047_0260",
+            "en_US": [
+                "I see...{VAR BE01}\n",
+                "I'm lonely, so\n",
+                "please come visit me sometimes."
+            ]
+        },
+        {
+            "id": "a003_047_0261",
+            "en_US": [
+                "This is Passerby Analytics HQ.{VAR BE01}\n",
+                "If you want to join us,\n",
+                "please speak to the leader."
+            ]
+        },
+        {
+            "id": "a003_047_0262",
+            "en_US": [
+                "Hi, {VAR 0100 0001}.\n",
+                "Are you conducting a survey vigorously?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0263",
+            "en_US": [
+                "Excuse me, new statistician!\n",
+                "Please wait!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0264",
+            "en_US": [
+                "Actually, I have a favor to ask you.{VAR BE01}\n",
+                "I'm asking statisticians to answer\n",
+                "a questionnaire.{VAR BE01}\n",
+                "OK, here we go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0265",
+            "en_US": [
+                "I'd like to ask you to answer\n",
+                "a questionnaire again.{VAR BE01}\n",
+                "Will you?"
+            ]
+        },
+        {
+            "id": "a003_047_0266",
+            "en_US": [
+                "All right.{VAR BE01}\n",
+                "If you change your mind,\n",
+                "please speak to me."
+            ]
+        },
+        {
+            "id": "a003_047_0267",
+            "en_US": [
+                "Oh? It looks like you've answered\n",
+                "all the questionnaires.{VAR BE01}\n",
+                "Would you like to re-answer\n",
+                "the questionnaires you did before?"
+            ]
+        },
+        {
+            "id": "a003_047_0268",
+            "en_US": [
+                "Then, will you choose a questionnaire\n",
+                "you'd like to answer?"
+            ]
+        },
+        {
+            "id": "a003_047_0269",
+            "en_US": "Details about people",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0270",
+            "en_US": "Pokémon favorites",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0271",
+            "en_US": "Ideals and values",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0272",
+            "en_US": "Likable people",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0273",
+            "en_US": "Preferences",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0274",
+            "en_US": "Entertainment",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0275",
+            "en_US": "School life",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0276",
+            "en_US": "Sports and pastimes",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0277",
+            "en_US": "More about Pokémon",
+            "flags": 219
+        },
+        {
+            "id": "a003_047_0278",
+            "en_US": "Choose this questionnaire?"
+        },
+        {
+            "id": "a003_047_0279",
+            "en_US": [
+                "You can answer the questionnaires\n",
+                "as many times as you want.{VAR BE01}\n",
+                "If you want to change your answers,\n",
+                "please let me know."
+            ]
+        },
+        {
+            "id": "a003_047_0280",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Details about people.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0281",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Pokémon favorites.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0282",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Ideals and values.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0283",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Likable people.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0284",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Preferences.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0285",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Entertainment.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0286",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“School life.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0287",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“Sports and pastimes.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0288",
+            "en_US": [
+                "Let's get started.\n",
+                "This questionnaire...{VAR BE01}\n",
+                "is about\n",
+                "“More about Pokémon.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0289",
+            "en_US": "“What is your hobby?\""
+        },
+        {
+            "id": "a003_047_0290",
+            "en_US": [
+                "“Which do you prefer,\n",
+                "battles or trades?\""
+            ]
+        },
+        {
+            "id": "a003_047_0291",
+            "en_US": "“Where do people prefer to live?\""
+        },
+        {
+            "id": "a003_047_0292",
+            "en_US": "“Which partner would you choose?\""
+        },
+        {
+            "id": "a003_047_0293",
+            "en_US": "“What is your favorite season?\""
+        },
+        {
+            "id": "a003_047_0294",
+            "en_US": "“What is your favorite music?\""
+        },
+        {
+            "id": "a003_047_0295",
+            "en_US": [
+                "“What is your favorite time\n",
+                "in school?\""
+            ]
+        },
+        {
+            "id": "a003_047_0296",
+            "en_US": [
+                "“Where would you like to go\n",
+                "for fun?\""
+            ]
+        },
+        {
+            "id": "a003_047_0297",
+            "en_US": [
+                "“What do you think\n",
+                "the most fun part of Pokémon is?\""
+            ]
+        },
+        {
+            "id": "a003_047_0298",
+            "en_US": "“What is your job?\""
+        },
+        {
+            "id": "a003_047_0299",
+            "en_US": "“What is your favorite kind of Pokémon?\""
+        },
+        {
+            "id": "a003_047_0300",
+            "en_US": "“Which one do you wish you had more of?\""
+        },
+        {
+            "id": "a003_047_0301",
+            "en_US": "“What do you value more in a person?\""
+        },
+        {
+            "id": "a003_047_0302",
+            "en_US": "“What is your favorite food?\""
+        },
+        {
+            "id": "a003_047_0303",
+            "en_US": [
+                "“What is your favorite kind of\n",
+                "TV program?\""
+            ]
+        },
+        {
+            "id": "a003_047_0304",
+            "en_US": "“What is your favorite school subject?\""
+        },
+        {
+            "id": "a003_047_0305",
+            "en_US": "“What do you do on holidays?\""
+        },
+        {
+            "id": "a003_047_0306",
+            "en_US": "“What would you want to become?\""
+        },
+        {
+            "id": "a003_047_0307",
+            "en_US": ""
+        },
+        {
+            "id": "a003_047_0308",
+            "en_US": "“What is your favorite Pokémon type?\""
+        },
+        {
+            "id": "a003_047_0309",
+            "en_US": "“What's most important to you?\""
+        },
+        {
+            "id": "a003_047_0310",
+            "en_US": [
+                "“What type of person\n",
+                "do you like?\""
+            ]
+        },
+        {
+            "id": "a003_047_0311",
+            "en_US": "“What is your favorite color?\""
+        },
+        {
+            "id": "a003_047_0312",
+            "en_US": "“What is your favorite kind of movie?\""
+        },
+        {
+            "id": "a003_047_0313",
+            "en_US": "“What is your weakest subject?\""
+        },
+        {
+            "id": "a003_047_0314",
+            "en_US": "“What is your favorite sport?\""
+        },
+        {
+            "id": "a003_047_0315",
+            "en_US": "“Who is your favorite Gym Leader?\""
+        },
+        {
+            "id": "a003_047_0316",
+            "en_US": [
+                "I see, I see...\n",
+                "Uh-huh.{VAR BE01}\n",
+                "Next up...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0317",
+            "en_US": [
+                "I see, I see...\n",
+                "Uh-huh.{VAR BE01}\n",
+                "...OK. That's it!{VAR BE01}\n",
+                "Thank you.\n",
+                "I got a useful questionnaire.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0318",
+            "en_US": [
+                "Oh, I will give this questionnaire sheet\n",
+                "to you, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0319",
+            "en_US": [
+                "The “Details About People\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0320",
+            "en_US": [
+                "The “Pokémon Favorites\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0321",
+            "en_US": [
+                "The “Ideals and Values\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0322",
+            "en_US": [
+                "The “Likable People\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0323",
+            "en_US": [
+                "The “Preferences\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0324",
+            "en_US": [
+                "The “Entertainment\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0325",
+            "en_US": [
+                "The “School Life\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0326",
+            "en_US": [
+                "The “Sports and Pastimes\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0327",
+            "en_US": [
+                "The “More About Pokémon\" survey\n",
+                "was added to the Survey Radar!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0328",
+            "en_US": [
+                "And... This is a thank-you gift\n",
+                "for answering the questionnaire.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0329",
+            "en_US": [
+                "This is the end of \n",
+                "all the questionnaires.{VAR BE01}\n",
+                "It was fun to get to know you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0330",
+            "en_US": [
+                "You can answer the questionnaires\n",
+                "as many times as you want, so{VAR BE00}\n",
+                "if you want to change your answers,{VAR BE00}\n",
+                "please let me know."
+            ]
+        },
+        {
+            "id": "a003_047_0331",
+            "en_US": [
+                "Now, you have...\n",
+                "this many questionnaires left: {VAR 0200 0001}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0332",
+            "en_US": [
+                "If you want to answer other\n",
+                "questionnaires, too, speak to me."
+            ]
+        },
+        {
+            "id": "a003_047_0333",
+            "en_US": [
+                "Since you're here, why don't you\n",
+                "answer other questionnaires, too?"
+            ]
+        },
+        {
+            "id": "a003_047_0334",
+            "en_US": [
+                "Hello!\n",
+                "Greeting is important, isn't it?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0335",
+            "en_US": [
+                "If you don't mind, would you tell me\n",
+                "your favorite greeting?"
+            ]
+        },
+        {
+            "id": "a003_047_0336",
+            "en_US": [
+                "If you don't mind, would you tell me\n",
+                "your favorite greeting again?"
+            ]
+        },
+        {
+            "id": "a003_047_0337",
+            "en_US": "Hello!",
+            "flags": 96
+        },
+        {
+            "id": "a003_047_0338",
+            "en_US": [
+                "Then, maybe next time.\n",
+                "Let's always have a cheerful greeting!"
+            ]
+        },
+        {
+            "id": "a003_047_0339",
+            "en_US": [
+                "Yes, it's a good greeting!\n",
+                "It cheers me up!{VAR BE01}\n",
+                "Please feel free to come and say hi again!\n",
+                "I look forward to seeing you again!"
+            ]
+        },
+        {
+            "id": "a003_047_0340",
+            "en_US": [
+                "Hello! Do you always have a feeling\n",
+                "of gratitude?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0341",
+            "en_US": [
+                "Oh, you dropped your Poké Ball.\n",
+                "Here you are.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_047_0342",
+            "en_US": "{VAR 0100 0001} received a Poké Ball.{VAR BE01}"
+        },
+        {
+            "id": "a003_047_0343",
+            "en_US": [
+                "Please remember to thank someone\n",
+                "who helps you!{VAR BE01}\n",
+                "It may sound trivial, but it's important.{VAR BE01}\n",
+                "Now, will you tell me your\n",
+                "feeling of gratitude?"
+            ]
+        },
+        {
+            "id": "a003_047_0344",
+            "en_US": [
+                "If you don't mind, will you show me your\n",
+                "feeling of gratitude again?"
+            ]
+        },
+        {
+            "id": "a003_047_0345",
+            "en_US": "Thanks!",
+            "flags": 96
+        },
+        {
+            "id": "a003_047_0346",
+            "en_US": [
+                "Then, maybe next time.{VAR BE01}\n",
+                "Don't forget a feeling of gratitude!"
+            ]
+        },
+        {
+            "id": "a003_047_0347",
+            "en_US": [
+                "What a wonderful phrase!\n",
+                "It warms up my heart.{VAR BE01}\n",
+                "If somebody helps you,\n",
+                "show your feelings of gratitude.{VAR BE01}\n",
+                "I am sure they will appreciate\n",
+                "your feelings."
+            ]
+        },
+        {
+            "id": "a003_047_0348",
+            "en_US": [
+                "Do you know the ranks of statisticians?{VAR BE01}\n",
+                "If you complete several survey\n",
+                "requests, you can advance in rank!{VAR BE01}\n",
+                "If you advance in rank,\n",
+                "people will look up to you, and{VAR BE00}\n",
+                "you can get something good!"
+            ]
+        },
+        {
+            "id": "a003_047_0349",
+            "en_US": [
+                "Do you know the ranks of statisticians?{VAR BE01}\n",
+                "Oh, you are {VAR 0100 0001}.\n",
+                "You are a B-rank statistician.{VAR BE01}\n",
+                "You advanced to the B rank!\n",
+                "You've been working hard.{VAR BE01}\n",
+                "If you advance in rank,\n",
+                "you'll get more new requests, so{VAR BE00}\n",
+                "you might want to talk to the leader."
+            ]
+        },
+        {
+            "id": "a003_047_0350",
+            "en_US": [
+                "Do you know the ranks of statisticians?{VAR BE01}\n",
+                "Oh, you are {VAR 0100 0001}.\n",
+                "You are an A-rank statistician.{VAR BE01}\n",
+                "You're already in the A rank.\n",
+                "That's awesome!{VAR BE01}\n",
+                "I also have to work hard\n",
+                "and take surveys.{VAR BE01}\n",
+                "I heard requests for the A rank\n",
+                "were difficult.{VAR BE01}\n",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "id": "a003_047_0351",
+            "en_US": [
+                "Do you know the ranks of statisticians?{VAR BE01}\n",
+                "Oh, you are {VAR 0100 0001}.\n",
+                "You are an S-rank statistician.{VAR BE01}\n",
+                "You are close to the S+ rank,\n",
+                "which is the best!{VAR BE01}\n",
+                "I will support you!\n",
+                "Good luck."
+            ]
+        },
+        {
+            "id": "a003_047_0352",
+            "en_US": [
+                "Do you know the ranks of statisticians?{VAR BE01}\n",
+                "Oh, you are {VAR 0100 0001}.\n",
+                "You are an S+ rank statistician!{VAR BE01}\n",
+                "Wow! I will also do my best to\n",
+                "advance in rank as much as possible!"
+            ]
+        },
+        {
+            "id": "a003_047_0353",
+            "en_US": [
+                "If you want to check your information,\n",
+                "look at the graph on the back wall.{VAR BE01}\n",
+                "Information about all the statisticians\n",
+                "is kept there.{VAR BE01}\n",
+                "Of course, we checked the information\n",
+                "about you!"
+            ]
+        },
+        {
+            "id": "a003_047_0354",
+            "en_US": [
+                "Have you answered a questionnaire?{VAR BE01}\n",
+                "You should at least answer about\n",
+                "what kind of person you are."
+            ]
+        },
+        {
+            "id": "a003_047_0355",
+            "en_US": [
+                "Are you having a hard time getting new\n",
+                "survey items in the Survey Radar?{VAR BE01}\n",
+                "If you want more survey items, answer\n",
+                "questionnaires in the headquarters."
+            ]
+        },
+        {
+            "id": "a003_047_0356",
+            "en_US": [
+                "If you are an S-rank statistician, you\n",
+                "must have answered all the{VAR BE00}\n",
+                "questionnaires.{VAR BE01}\n",
+                "What you want to know is\n",
+                "what everybody wants to know.{VAR BE01}\n",
+                "Please volunteer to answer\n",
+                "questionnaires."
+            ]
+        },
+        {
+            "id": "a003_047_0357",
+            "en_US": [
+                "Good work today,\n",
+                "{VAR 0100 0001}!{VAR BE01}\n",
+                "We have more statisticians, and\n",
+                "this place has become quite lively.{VAR BE01}\n",
+                "The way things are going,\n",
+                "we can collect more survey data."
+            ]
+        },
+        {
+            "id": "a003_047_0358",
+            "en_US": [
+                "The more I conduct surveys,\n",
+                "the more fun it will be.{VAR BE01}\n",
+                "I'm determined to pass by more people!{VAR BE01}\n",
+                "It's way more fun to conduct surveys\n",
+                "with people than doing them by myself."
+            ]
+        },
+        {
+            "id": "a003_047_0359",
+            "en_US": [
+                "By any chance, are you having trouble?{VAR BE01}\n",
+                "If it's difficult to pass by many people,\n",
+                "I recommend you try a timed survey.{VAR BE01}\n",
+                "It takes time, but if you pass by just\n",
+                "one person, you can complete the{VAR BE00}\n",
+                "request."
+            ]
+        },
+        {
+            "id": "a003_047_0360",
+            "en_US": [
+                "I'll give you a hint.{VAR BE01}\n",
+                "If you go to a place full of people,\n",
+                "I recommend a head-count survey.{VAR BE01}\n",
+                "You can collect survey data really fast,\n",
+                "so you can complete the request{VAR BE00}\n",
+                "in a short time."
+            ]
+        },
+        {
+            "id": "a003_047_0361",
+            "en_US": [
+                "Good work today,\n",
+                "{VAR 0100 0001}!{VAR BE01}\n",
+                "You've become the top statistician\n",
+                "instantly.{VAR BE01}\n",
+                "I should learn a lot from you\n",
+                "and work hard!"
+            ]
+        },
+        {
+            "id": "a003_047_0362",
+            "en_US": [
+                "When I answered a questionnaire earlier,\n",
+                "I got a questionnaire sheet.{VAR BE01}\n",
+                "Maybe I will answer all the\n",
+                "questionnaires..."
+            ]
+        },
+        {
+            "id": "a003_047_0363",
+            "en_US": [
+                "After the questionnaire, the next step is\n",
+                "conducting a survey.{VAR BE01}\n",
+                "Set the request you want to survey\n",
+                "on the Survey Radar...{VAR BE00}\n",
+                "And let's go!"
+            ]
+        },
+        {
+            "id": "a003_047_0364",
+            "en_US": [
+                "New statisticians are not\n",
+                "answering questionnaires.{VAR BE01}\n",
+                "If they answered questionnaires,\n",
+                "they could conduct more surveys...{VAR BE00}\n",
+                "What a shame!"
+            ]
+        },
+        {
+            "id": "a003_047_0365",
+            "en_US": [
+                "Hello, {VAR 0100 0001}!{VAR BE01}\n",
+                "I've also started teaching novice\n",
+                "statisticians how to conduct surveys."
+            ]
+        },
+        {
+            "id": "a003_047_0366",
+            "en_US": [
+                "What is the popular movie now?\n",
+                "{VAR 0100 0001}, do you have any idea?"
+            ]
+        },
+        {
+            "id": "a003_047_0367",
+            "en_US": [
+                "What is the popular food now?\n",
+                "{VAR 0100 0001}, do you have any idea?"
+            ]
+        },
+        {
+            "id": "a003_047_0368",
+            "en_US": [
+                "What is the popular...\n",
+                "Oh, {VAR 0100 0001}.{VAR BE01}\n",
+                "I knew it.\n",
+                "I have to take a survey by myself...{VAR BE01}\n",
+                "Ah, it is a pain in the neck..."
+            ]
+        },
+        {
+            "id": "a003_047_0369",
+            "en_US": [
+                "The survey requests from the leader\n",
+                "are hard. Don't you agree?{VAR BE01}\n",
+                "Besides, the number of more difficult\n",
+                "surveys are increasing..."
+            ]
+        },
+        {
+            "id": "a003_047_0370",
+            "en_US": [
+                "Hello! Good work today, {VAR 0100 0001}.{VAR BE01}\n",
+                "Have you finished all the\n",
+                "survey requests from the leader?{VAR BE01}\n",
+                "I heard if you finish all the requests,\n",
+                "you can get something good!"
+            ]
+        },
+        {
+            "id": "a003_047_0371",
+            "en_US": [
+                "Oh! {VAR 0100 0001}!\n",
+                "I'm honored to see you!{VAR BE01}\n",
+                "Oh, wow!\n",
+                "{VAR 0100 0001} spoke to me!"
+            ]
+        },
+        {
+            "id": "a003_047_0372",
+            "en_US": [
+                "STATISTICIANS WANTED!\n",
+                "FOR DETAILS, ASK THE LEADER!"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a003_047_0373",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "Statistician rank: C rank\n",
+                "Number of times thanked: {VAR 0204 0002}\n",
+                "Number of people passed by: {VAR 0204 0001}"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a003_047_0374",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "Statistician rank: B rank\n",
+                "Number of times thanked: {VAR 0204 0002}\n",
+                "Number of people passed by: {VAR 0204 0001}"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a003_047_0375",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "Statistician rank: A rank\n",
+                "Number of times thanked: {VAR 0204 0002}\n",
+                "Number of people passed by: {VAR 0204 0001}"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a003_047_0376",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "Statistician rank: S rank\n",
+                "Number of times thanked: {VAR 0204 0002}\n",
+                "Number of people passed by: {VAR 0204 0001}"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a003_047_0377",
+            "en_US": [
+                "{VAR 0100 0000}\n",
+                "Statistician rank: S+ rank\n",
+                "Number of times thanked: {VAR 0204 0002}\n",
+                "Number of people passed by: {VAR 0204 0001}"
+            ],
+            "flags": 232
+        }
+    ]
+}

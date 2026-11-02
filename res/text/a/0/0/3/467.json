@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_467_0000",
+            "en_US": [
+                "Many people have come here\n",
+                "from Black City.{VAR BE01}\n",
+                "If you enter Black City and invite\n",
+                "people, they might move here."
+            ]
+        }
+    ]
+}

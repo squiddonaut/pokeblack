@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_449_0000",
+            "en_US": [
+                "Along the road ahead, there is a\n",
+                "coastline that fishing fans love.{VAR BE01}\n",
+                "Whirrrrr...plunk!{VAR BE01}\n",
+                "That's the sound my fishing rod makes.\n",
+                "I like to hear it every day!"
+            ]
+        }
+    ]
+}

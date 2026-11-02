@@ -1,0 +1,2513 @@
+{
+    "flags": 256,
+    "messages": [
+        {
+            "id": "a002_280_0000",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0001",
+            "en_US": "Master Balls"
+        },
+        {
+            "id": "a002_280_0002",
+            "en_US": "Ultra Balls"
+        },
+        {
+            "id": "a002_280_0003",
+            "en_US": "Great Balls"
+        },
+        {
+            "id": "a002_280_0004",
+            "en_US": "Poké Balls"
+        },
+        {
+            "id": "a002_280_0005",
+            "en_US": "Safari Balls"
+        },
+        {
+            "id": "a002_280_0006",
+            "en_US": "Net Balls"
+        },
+        {
+            "id": "a002_280_0007",
+            "en_US": "Dive Balls"
+        },
+        {
+            "id": "a002_280_0008",
+            "en_US": "Nest Balls"
+        },
+        {
+            "id": "a002_280_0009",
+            "en_US": "Repeat Balls"
+        },
+        {
+            "id": "a002_280_0010",
+            "en_US": "Timer Balls"
+        },
+        {
+            "id": "a002_280_0011",
+            "en_US": "Luxury Balls"
+        },
+        {
+            "id": "a002_280_0012",
+            "en_US": "Premier Balls"
+        },
+        {
+            "id": "a002_280_0013",
+            "en_US": "Dusk Balls"
+        },
+        {
+            "id": "a002_280_0014",
+            "en_US": "Heal Balls"
+        },
+        {
+            "id": "a002_280_0015",
+            "en_US": "Quick Balls"
+        },
+        {
+            "id": "a002_280_0016",
+            "en_US": "Cherish Balls"
+        },
+        {
+            "id": "a002_280_0017",
+            "en_US": "Potions"
+        },
+        {
+            "id": "a002_280_0018",
+            "en_US": "Antidotes"
+        },
+        {
+            "id": "a002_280_0019",
+            "en_US": "Burn Heals"
+        },
+        {
+            "id": "a002_280_0020",
+            "en_US": "Ice Heals"
+        },
+        {
+            "id": "a002_280_0021",
+            "en_US": "Awakenings"
+        },
+        {
+            "id": "a002_280_0022",
+            "en_US": "Parlyz Heals"
+        },
+        {
+            "id": "a002_280_0023",
+            "en_US": "Full Restores"
+        },
+        {
+            "id": "a002_280_0024",
+            "en_US": "Max Potions"
+        },
+        {
+            "id": "a002_280_0025",
+            "en_US": "Hyper Potions"
+        },
+        {
+            "id": "a002_280_0026",
+            "en_US": "Super Potions"
+        },
+        {
+            "id": "a002_280_0027",
+            "en_US": "Full Heals"
+        },
+        {
+            "id": "a002_280_0028",
+            "en_US": "Revives"
+        },
+        {
+            "id": "a002_280_0029",
+            "en_US": "Max Revives"
+        },
+        {
+            "id": "a002_280_0030",
+            "en_US": "Fresh Waters"
+        },
+        {
+            "id": "a002_280_0031",
+            "en_US": "Soda Pops"
+        },
+        {
+            "id": "a002_280_0032",
+            "en_US": "Lemonades"
+        },
+        {
+            "id": "a002_280_0033",
+            "en_US": "Moomoo Milks"
+        },
+        {
+            "id": "a002_280_0034",
+            "en_US": "EnergyPowders"
+        },
+        {
+            "id": "a002_280_0035",
+            "en_US": "Energy Roots"
+        },
+        {
+            "id": "a002_280_0036",
+            "en_US": "Heal Powders"
+        },
+        {
+            "id": "a002_280_0037",
+            "en_US": "Revival Herbs"
+        },
+        {
+            "id": "a002_280_0038",
+            "en_US": "Ethers"
+        },
+        {
+            "id": "a002_280_0039",
+            "en_US": "Max Ethers"
+        },
+        {
+            "id": "a002_280_0040",
+            "en_US": "Elixirs"
+        },
+        {
+            "id": "a002_280_0041",
+            "en_US": "Max Elixirs"
+        },
+        {
+            "id": "a002_280_0042",
+            "en_US": "Lava Cookies"
+        },
+        {
+            "id": "a002_280_0043",
+            "en_US": "Berry Juices"
+        },
+        {
+            "id": "a002_280_0044",
+            "en_US": "Sacred Ashes"
+        },
+        {
+            "id": "a002_280_0045",
+            "en_US": "HP Ups"
+        },
+        {
+            "id": "a002_280_0046",
+            "en_US": "Proteins"
+        },
+        {
+            "id": "a002_280_0047",
+            "en_US": "Irons"
+        },
+        {
+            "id": "a002_280_0048",
+            "en_US": "Carbos"
+        },
+        {
+            "id": "a002_280_0049",
+            "en_US": "Calciums"
+        },
+        {
+            "id": "a002_280_0050",
+            "en_US": "Rare Candies"
+        },
+        {
+            "id": "a002_280_0051",
+            "en_US": "PP Ups"
+        },
+        {
+            "id": "a002_280_0052",
+            "en_US": "Zincs"
+        },
+        {
+            "id": "a002_280_0053",
+            "en_US": "PP Maxes"
+        },
+        {
+            "id": "a002_280_0054",
+            "en_US": "Old Gateaux"
+        },
+        {
+            "id": "a002_280_0055",
+            "en_US": "Guard Spec.'s"
+        },
+        {
+            "id": "a002_280_0056",
+            "en_US": "Dire Hits"
+        },
+        {
+            "id": "a002_280_0057",
+            "en_US": "X Attacks"
+        },
+        {
+            "id": "a002_280_0058",
+            "en_US": "X Defends"
+        },
+        {
+            "id": "a002_280_0059",
+            "en_US": "X Speeds"
+        },
+        {
+            "id": "a002_280_0060",
+            "en_US": "X Accuracies"
+        },
+        {
+            "id": "a002_280_0061",
+            "en_US": "X Specials"
+        },
+        {
+            "id": "a002_280_0062",
+            "en_US": "X Sp. Defs"
+        },
+        {
+            "id": "a002_280_0063",
+            "en_US": "Poké Dolls"
+        },
+        {
+            "id": "a002_280_0064",
+            "en_US": "Fluffy Tails"
+        },
+        {
+            "id": "a002_280_0065",
+            "en_US": "Blue Flutes"
+        },
+        {
+            "id": "a002_280_0066",
+            "en_US": "Yellow Flutes"
+        },
+        {
+            "id": "a002_280_0067",
+            "en_US": "Red Flutes"
+        },
+        {
+            "id": "a002_280_0068",
+            "en_US": "Black Flutes"
+        },
+        {
+            "id": "a002_280_0069",
+            "en_US": "White Flutes"
+        },
+        {
+            "id": "a002_280_0070",
+            "en_US": "Shoal Salts"
+        },
+        {
+            "id": "a002_280_0071",
+            "en_US": "Shoal Shells"
+        },
+        {
+            "id": "a002_280_0072",
+            "en_US": "Red Shards"
+        },
+        {
+            "id": "a002_280_0073",
+            "en_US": "Blue Shards"
+        },
+        {
+            "id": "a002_280_0074",
+            "en_US": "Yellow Shards"
+        },
+        {
+            "id": "a002_280_0075",
+            "en_US": "Green Shards"
+        },
+        {
+            "id": "a002_280_0076",
+            "en_US": "Super Repels"
+        },
+        {
+            "id": "a002_280_0077",
+            "en_US": "Max Repels"
+        },
+        {
+            "id": "a002_280_0078",
+            "en_US": "Escape Ropes"
+        },
+        {
+            "id": "a002_280_0079",
+            "en_US": "Repels"
+        },
+        {
+            "id": "a002_280_0080",
+            "en_US": "Sun Stones"
+        },
+        {
+            "id": "a002_280_0081",
+            "en_US": "Moon Stones"
+        },
+        {
+            "id": "a002_280_0082",
+            "en_US": "Fire Stones"
+        },
+        {
+            "id": "a002_280_0083",
+            "en_US": "Thunderstones"
+        },
+        {
+            "id": "a002_280_0084",
+            "en_US": "Water Stones"
+        },
+        {
+            "id": "a002_280_0085",
+            "en_US": "Leaf Stones"
+        },
+        {
+            "id": "a002_280_0086",
+            "en_US": "TinyMushrooms"
+        },
+        {
+            "id": "a002_280_0087",
+            "en_US": "Big Mushrooms"
+        },
+        {
+            "id": "a002_280_0088",
+            "en_US": "Pearls"
+        },
+        {
+            "id": "a002_280_0089",
+            "en_US": "Big Pearls"
+        },
+        {
+            "id": "a002_280_0090",
+            "en_US": "Stardusts"
+        },
+        {
+            "id": "a002_280_0091",
+            "en_US": "Star Pieces"
+        },
+        {
+            "id": "a002_280_0092",
+            "en_US": "Nuggets"
+        },
+        {
+            "id": "a002_280_0093",
+            "en_US": "Heart Scales"
+        },
+        {
+            "id": "a002_280_0094",
+            "en_US": "Honey"
+        },
+        {
+            "id": "a002_280_0095",
+            "en_US": "Growth Mulch"
+        },
+        {
+            "id": "a002_280_0096",
+            "en_US": "Damp Mulch"
+        },
+        {
+            "id": "a002_280_0097",
+            "en_US": "Stable Mulch"
+        },
+        {
+            "id": "a002_280_0098",
+            "en_US": "Gooey Mulch"
+        },
+        {
+            "id": "a002_280_0099",
+            "en_US": "Root Fossils"
+        },
+        {
+            "id": "a002_280_0100",
+            "en_US": "Claw Fossils"
+        },
+        {
+            "id": "a002_280_0101",
+            "en_US": "Helix Fossils"
+        },
+        {
+            "id": "a002_280_0102",
+            "en_US": "Dome Fossils"
+        },
+        {
+            "id": "a002_280_0103",
+            "en_US": "Old Ambers"
+        },
+        {
+            "id": "a002_280_0104",
+            "en_US": "Armor Fossils"
+        },
+        {
+            "id": "a002_280_0105",
+            "en_US": "Skull Fossils"
+        },
+        {
+            "id": "a002_280_0106",
+            "en_US": "Rare Bones"
+        },
+        {
+            "id": "a002_280_0107",
+            "en_US": "Shiny Stones"
+        },
+        {
+            "id": "a002_280_0108",
+            "en_US": "Dusk Stones"
+        },
+        {
+            "id": "a002_280_0109",
+            "en_US": "Dawn Stones"
+        },
+        {
+            "id": "a002_280_0110",
+            "en_US": "Oval Stones"
+        },
+        {
+            "id": "a002_280_0111",
+            "en_US": "Odd Keystones"
+        },
+        {
+            "id": "a002_280_0112",
+            "en_US": "Griseous Orbs"
+        },
+        {
+            "id": "a002_280_0113",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0114",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0115",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0116",
+            "en_US": "Douse Drives"
+        },
+        {
+            "id": "a002_280_0117",
+            "en_US": "Shock Drives"
+        },
+        {
+            "id": "a002_280_0118",
+            "en_US": "Burn Drives"
+        },
+        {
+            "id": "a002_280_0119",
+            "en_US": "Chill Drives"
+        },
+        {
+            "id": "a002_280_0120",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0121",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0122",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0123",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0124",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0125",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0126",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0127",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0128",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0129",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0130",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0131",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0132",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0133",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0134",
+            "en_US": "Sweet Hearts"
+        },
+        {
+            "id": "a002_280_0135",
+            "en_US": "Adamant Orbs"
+        },
+        {
+            "id": "a002_280_0136",
+            "en_US": "Lustrous Orbs"
+        },
+        {
+            "id": "a002_280_0137",
+            "en_US": "Greet Mail"
+        },
+        {
+            "id": "a002_280_0138",
+            "en_US": "Favored Mail"
+        },
+        {
+            "id": "a002_280_0139",
+            "en_US": "RSVP Mail"
+        },
+        {
+            "id": "a002_280_0140",
+            "en_US": "Thanks Mail"
+        },
+        {
+            "id": "a002_280_0141",
+            "en_US": "Inquiry Mail"
+        },
+        {
+            "id": "a002_280_0142",
+            "en_US": "Like Mail"
+        },
+        {
+            "id": "a002_280_0143",
+            "en_US": "Reply Mail"
+        },
+        {
+            "id": "a002_280_0144",
+            "en_US": "BridgeMail S"
+        },
+        {
+            "id": "a002_280_0145",
+            "en_US": "BridgeMail D"
+        },
+        {
+            "id": "a002_280_0146",
+            "en_US": "BridgeMail T"
+        },
+        {
+            "id": "a002_280_0147",
+            "en_US": "BridgeMail V"
+        },
+        {
+            "id": "a002_280_0148",
+            "en_US": "BridgeMail M"
+        },
+        {
+            "id": "a002_280_0149",
+            "en_US": "Cheri Berries"
+        },
+        {
+            "id": "a002_280_0150",
+            "en_US": "Chesto Berries"
+        },
+        {
+            "id": "a002_280_0151",
+            "en_US": "Pecha Berries"
+        },
+        {
+            "id": "a002_280_0152",
+            "en_US": "Rawst Berries"
+        },
+        {
+            "id": "a002_280_0153",
+            "en_US": "Aspear Berries"
+        },
+        {
+            "id": "a002_280_0154",
+            "en_US": "Leppa Berries"
+        },
+        {
+            "id": "a002_280_0155",
+            "en_US": "Oran Berries"
+        },
+        {
+            "id": "a002_280_0156",
+            "en_US": "Persim Berries"
+        },
+        {
+            "id": "a002_280_0157",
+            "en_US": "Lum Berries"
+        },
+        {
+            "id": "a002_280_0158",
+            "en_US": "Sitrus Berries"
+        },
+        {
+            "id": "a002_280_0159",
+            "en_US": "Figy Berries"
+        },
+        {
+            "id": "a002_280_0160",
+            "en_US": "Wiki Berries"
+        },
+        {
+            "id": "a002_280_0161",
+            "en_US": "Mago Berries"
+        },
+        {
+            "id": "a002_280_0162",
+            "en_US": "Aguav Berries"
+        },
+        {
+            "id": "a002_280_0163",
+            "en_US": "Iapapa Berries"
+        },
+        {
+            "id": "a002_280_0164",
+            "en_US": "Razz Berries"
+        },
+        {
+            "id": "a002_280_0165",
+            "en_US": "Bluk Berries"
+        },
+        {
+            "id": "a002_280_0166",
+            "en_US": "Nanab Berries"
+        },
+        {
+            "id": "a002_280_0167",
+            "en_US": "Wepear Berries"
+        },
+        {
+            "id": "a002_280_0168",
+            "en_US": "Pinap Berries"
+        },
+        {
+            "id": "a002_280_0169",
+            "en_US": "Pomeg Berries"
+        },
+        {
+            "id": "a002_280_0170",
+            "en_US": "Kelpsy Berries"
+        },
+        {
+            "id": "a002_280_0171",
+            "en_US": "Qualot Berries"
+        },
+        {
+            "id": "a002_280_0172",
+            "en_US": "Hondew Berries"
+        },
+        {
+            "id": "a002_280_0173",
+            "en_US": "Grepa Berries"
+        },
+        {
+            "id": "a002_280_0174",
+            "en_US": "Tamato Berries"
+        },
+        {
+            "id": "a002_280_0175",
+            "en_US": "Cornn Berries"
+        },
+        {
+            "id": "a002_280_0176",
+            "en_US": "Magost Berries"
+        },
+        {
+            "id": "a002_280_0177",
+            "en_US": "Rabuta Berries"
+        },
+        {
+            "id": "a002_280_0178",
+            "en_US": "Nomel Berries"
+        },
+        {
+            "id": "a002_280_0179",
+            "en_US": "Spelon Berries"
+        },
+        {
+            "id": "a002_280_0180",
+            "en_US": "Pamtre Berries"
+        },
+        {
+            "id": "a002_280_0181",
+            "en_US": "Watmel Berries"
+        },
+        {
+            "id": "a002_280_0182",
+            "en_US": "Durin Berries"
+        },
+        {
+            "id": "a002_280_0183",
+            "en_US": "Belue Berries"
+        },
+        {
+            "id": "a002_280_0184",
+            "en_US": "Occa Berries"
+        },
+        {
+            "id": "a002_280_0185",
+            "en_US": "Passho Berries"
+        },
+        {
+            "id": "a002_280_0186",
+            "en_US": "Wacan Berries"
+        },
+        {
+            "id": "a002_280_0187",
+            "en_US": "Rindo Berries"
+        },
+        {
+            "id": "a002_280_0188",
+            "en_US": "Yache Berries"
+        },
+        {
+            "id": "a002_280_0189",
+            "en_US": "Chople Berries"
+        },
+        {
+            "id": "a002_280_0190",
+            "en_US": "Kebia Berries"
+        },
+        {
+            "id": "a002_280_0191",
+            "en_US": "Shuca Berries"
+        },
+        {
+            "id": "a002_280_0192",
+            "en_US": "Coba Berries"
+        },
+        {
+            "id": "a002_280_0193",
+            "en_US": "Payapa Berries"
+        },
+        {
+            "id": "a002_280_0194",
+            "en_US": "Tanga Berries"
+        },
+        {
+            "id": "a002_280_0195",
+            "en_US": "Charti Berries"
+        },
+        {
+            "id": "a002_280_0196",
+            "en_US": "Kasib Berries"
+        },
+        {
+            "id": "a002_280_0197",
+            "en_US": "Haban Berries"
+        },
+        {
+            "id": "a002_280_0198",
+            "en_US": "Colbur Berries"
+        },
+        {
+            "id": "a002_280_0199",
+            "en_US": "Babiri Berries"
+        },
+        {
+            "id": "a002_280_0200",
+            "en_US": "Chilan Berries"
+        },
+        {
+            "id": "a002_280_0201",
+            "en_US": "Liechi Berries"
+        },
+        {
+            "id": "a002_280_0202",
+            "en_US": "Ganlon Berries"
+        },
+        {
+            "id": "a002_280_0203",
+            "en_US": "Salac Berries"
+        },
+        {
+            "id": "a002_280_0204",
+            "en_US": "Petaya Berries"
+        },
+        {
+            "id": "a002_280_0205",
+            "en_US": "Apicot Berries"
+        },
+        {
+            "id": "a002_280_0206",
+            "en_US": "Lansat Berries"
+        },
+        {
+            "id": "a002_280_0207",
+            "en_US": "Starf Berries"
+        },
+        {
+            "id": "a002_280_0208",
+            "en_US": "Enigma Berries"
+        },
+        {
+            "id": "a002_280_0209",
+            "en_US": "Micle Berries"
+        },
+        {
+            "id": "a002_280_0210",
+            "en_US": "Custap Berries"
+        },
+        {
+            "id": "a002_280_0211",
+            "en_US": "Jaboca Berries"
+        },
+        {
+            "id": "a002_280_0212",
+            "en_US": "Rowap Berries"
+        },
+        {
+            "id": "a002_280_0213",
+            "en_US": "BrightPowders"
+        },
+        {
+            "id": "a002_280_0214",
+            "en_US": "White Herbs"
+        },
+        {
+            "id": "a002_280_0215",
+            "en_US": "Macho Braces"
+        },
+        {
+            "id": "a002_280_0216",
+            "en_US": "Exp. Shares"
+        },
+        {
+            "id": "a002_280_0217",
+            "en_US": "Quick Claws"
+        },
+        {
+            "id": "a002_280_0218",
+            "en_US": "Soothe Bells"
+        },
+        {
+            "id": "a002_280_0219",
+            "en_US": "Mental Herbs"
+        },
+        {
+            "id": "a002_280_0220",
+            "en_US": "Choice Bands"
+        },
+        {
+            "id": "a002_280_0221",
+            "en_US": "King's Rocks"
+        },
+        {
+            "id": "a002_280_0222",
+            "en_US": "SilverPowders"
+        },
+        {
+            "id": "a002_280_0223",
+            "en_US": "Amulet Coins"
+        },
+        {
+            "id": "a002_280_0224",
+            "en_US": "Cleanse Tags"
+        },
+        {
+            "id": "a002_280_0225",
+            "en_US": "Soul Dews"
+        },
+        {
+            "id": "a002_280_0226",
+            "en_US": "DeepSeaTeeth"
+        },
+        {
+            "id": "a002_280_0227",
+            "en_US": "DeepSeaScales"
+        },
+        {
+            "id": "a002_280_0228",
+            "en_US": "Smoke Balls"
+        },
+        {
+            "id": "a002_280_0229",
+            "en_US": "Everstones"
+        },
+        {
+            "id": "a002_280_0230",
+            "en_US": "Focus Bands"
+        },
+        {
+            "id": "a002_280_0231",
+            "en_US": "Lucky Eggs"
+        },
+        {
+            "id": "a002_280_0232",
+            "en_US": "Scope Lenses"
+        },
+        {
+            "id": "a002_280_0233",
+            "en_US": "Metal Coats"
+        },
+        {
+            "id": "a002_280_0234",
+            "en_US": "Leftovers"
+        },
+        {
+            "id": "a002_280_0235",
+            "en_US": "Dragon Scales"
+        },
+        {
+            "id": "a002_280_0236",
+            "en_US": "Light Balls"
+        },
+        {
+            "id": "a002_280_0237",
+            "en_US": "Soft Sand"
+        },
+        {
+            "id": "a002_280_0238",
+            "en_US": "Hard Stones"
+        },
+        {
+            "id": "a002_280_0239",
+            "en_US": "Miracle Seeds"
+        },
+        {
+            "id": "a002_280_0240",
+            "en_US": "BlackGlasses"
+        },
+        {
+            "id": "a002_280_0241",
+            "en_US": "Black Belts"
+        },
+        {
+            "id": "a002_280_0242",
+            "en_US": "Magnets"
+        },
+        {
+            "id": "a002_280_0243",
+            "en_US": "Mystic Waters"
+        },
+        {
+            "id": "a002_280_0244",
+            "en_US": "Sharp Beaks"
+        },
+        {
+            "id": "a002_280_0245",
+            "en_US": "Poison Barbs"
+        },
+        {
+            "id": "a002_280_0246",
+            "en_US": "NeverMeltIces"
+        },
+        {
+            "id": "a002_280_0247",
+            "en_US": "Spell Tags"
+        },
+        {
+            "id": "a002_280_0248",
+            "en_US": "TwistedSpoons"
+        },
+        {
+            "id": "a002_280_0249",
+            "en_US": "Charcoals"
+        },
+        {
+            "id": "a002_280_0250",
+            "en_US": "Dragon Fangs"
+        },
+        {
+            "id": "a002_280_0251",
+            "en_US": "Silk Scarves"
+        },
+        {
+            "id": "a002_280_0252",
+            "en_US": "Up-Grades"
+        },
+        {
+            "id": "a002_280_0253",
+            "en_US": "Shell Bells"
+        },
+        {
+            "id": "a002_280_0254",
+            "en_US": "Sea Incenses"
+        },
+        {
+            "id": "a002_280_0255",
+            "en_US": "Lax Incenses"
+        },
+        {
+            "id": "a002_280_0256",
+            "en_US": "Lucky Punches"
+        },
+        {
+            "id": "a002_280_0257",
+            "en_US": "Metal Powders"
+        },
+        {
+            "id": "a002_280_0258",
+            "en_US": "Thick Clubs"
+        },
+        {
+            "id": "a002_280_0259",
+            "en_US": "Sticks"
+        },
+        {
+            "id": "a002_280_0260",
+            "en_US": "Red Scarves"
+        },
+        {
+            "id": "a002_280_0261",
+            "en_US": "Blue Scarves"
+        },
+        {
+            "id": "a002_280_0262",
+            "en_US": "Pink Scarves"
+        },
+        {
+            "id": "a002_280_0263",
+            "en_US": "Green Scarves"
+        },
+        {
+            "id": "a002_280_0264",
+            "en_US": "Yellow Scarves"
+        },
+        {
+            "id": "a002_280_0265",
+            "en_US": "Wide Lenses"
+        },
+        {
+            "id": "a002_280_0266",
+            "en_US": "Muscle Bands"
+        },
+        {
+            "id": "a002_280_0267",
+            "en_US": "Wise Glasses"
+        },
+        {
+            "id": "a002_280_0268",
+            "en_US": "Expert Belts"
+        },
+        {
+            "id": "a002_280_0269",
+            "en_US": "Light Clays"
+        },
+        {
+            "id": "a002_280_0270",
+            "en_US": "Life Orbs"
+        },
+        {
+            "id": "a002_280_0271",
+            "en_US": "Power Herbs"
+        },
+        {
+            "id": "a002_280_0272",
+            "en_US": "Toxic Orbs"
+        },
+        {
+            "id": "a002_280_0273",
+            "en_US": "Flame Orbs"
+        },
+        {
+            "id": "a002_280_0274",
+            "en_US": "Quick Powders"
+        },
+        {
+            "id": "a002_280_0275",
+            "en_US": "Focus Sashes"
+        },
+        {
+            "id": "a002_280_0276",
+            "en_US": "Zoom Lenses"
+        },
+        {
+            "id": "a002_280_0277",
+            "en_US": "Metronomes"
+        },
+        {
+            "id": "a002_280_0278",
+            "en_US": "Iron Balls"
+        },
+        {
+            "id": "a002_280_0279",
+            "en_US": "Lagging Tails"
+        },
+        {
+            "id": "a002_280_0280",
+            "en_US": "Destiny Knots"
+        },
+        {
+            "id": "a002_280_0281",
+            "en_US": "Black Sludges"
+        },
+        {
+            "id": "a002_280_0282",
+            "en_US": "Icy Rocks"
+        },
+        {
+            "id": "a002_280_0283",
+            "en_US": "Smooth Rocks"
+        },
+        {
+            "id": "a002_280_0284",
+            "en_US": "Heat Rocks"
+        },
+        {
+            "id": "a002_280_0285",
+            "en_US": "Damp Rocks"
+        },
+        {
+            "id": "a002_280_0286",
+            "en_US": "Grip Claws"
+        },
+        {
+            "id": "a002_280_0287",
+            "en_US": "Choice Scarves"
+        },
+        {
+            "id": "a002_280_0288",
+            "en_US": "Sticky Barbs"
+        },
+        {
+            "id": "a002_280_0289",
+            "en_US": "Power Bracers"
+        },
+        {
+            "id": "a002_280_0290",
+            "en_US": "Power Belts"
+        },
+        {
+            "id": "a002_280_0291",
+            "en_US": "Power Lenses"
+        },
+        {
+            "id": "a002_280_0292",
+            "en_US": "Power Bands"
+        },
+        {
+            "id": "a002_280_0293",
+            "en_US": "Power Anklets"
+        },
+        {
+            "id": "a002_280_0294",
+            "en_US": "Power Weights"
+        },
+        {
+            "id": "a002_280_0295",
+            "en_US": "Shed Shells"
+        },
+        {
+            "id": "a002_280_0296",
+            "en_US": "Big Roots"
+        },
+        {
+            "id": "a002_280_0297",
+            "en_US": "Choice Specs"
+        },
+        {
+            "id": "a002_280_0298",
+            "en_US": "Flame Plates"
+        },
+        {
+            "id": "a002_280_0299",
+            "en_US": "Splash Plates"
+        },
+        {
+            "id": "a002_280_0300",
+            "en_US": "Zap Plates"
+        },
+        {
+            "id": "a002_280_0301",
+            "en_US": "Meadow Plates"
+        },
+        {
+            "id": "a002_280_0302",
+            "en_US": "Icicle Plates"
+        },
+        {
+            "id": "a002_280_0303",
+            "en_US": "Fist Plates"
+        },
+        {
+            "id": "a002_280_0304",
+            "en_US": "Toxic Plates"
+        },
+        {
+            "id": "a002_280_0305",
+            "en_US": "Earth Plates"
+        },
+        {
+            "id": "a002_280_0306",
+            "en_US": "Sky Plates"
+        },
+        {
+            "id": "a002_280_0307",
+            "en_US": "Mind Plates"
+        },
+        {
+            "id": "a002_280_0308",
+            "en_US": "Insect Plates"
+        },
+        {
+            "id": "a002_280_0309",
+            "en_US": "Stone Plates"
+        },
+        {
+            "id": "a002_280_0310",
+            "en_US": "Spooky Plates"
+        },
+        {
+            "id": "a002_280_0311",
+            "en_US": "Draco Plates"
+        },
+        {
+            "id": "a002_280_0312",
+            "en_US": "Dread Plates"
+        },
+        {
+            "id": "a002_280_0313",
+            "en_US": "Iron Plates"
+        },
+        {
+            "id": "a002_280_0314",
+            "en_US": "Odd Incenses"
+        },
+        {
+            "id": "a002_280_0315",
+            "en_US": "Rock Incenses"
+        },
+        {
+            "id": "a002_280_0316",
+            "en_US": "Full Incenses"
+        },
+        {
+            "id": "a002_280_0317",
+            "en_US": "Wave Incenses"
+        },
+        {
+            "id": "a002_280_0318",
+            "en_US": "Rose Incenses"
+        },
+        {
+            "id": "a002_280_0319",
+            "en_US": "Luck Incenses"
+        },
+        {
+            "id": "a002_280_0320",
+            "en_US": "Pure Incenses"
+        },
+        {
+            "id": "a002_280_0321",
+            "en_US": "Protectors"
+        },
+        {
+            "id": "a002_280_0322",
+            "en_US": "Electirizers"
+        },
+        {
+            "id": "a002_280_0323",
+            "en_US": "Magmarizers"
+        },
+        {
+            "id": "a002_280_0324",
+            "en_US": "Dubious Discs"
+        },
+        {
+            "id": "a002_280_0325",
+            "en_US": "Reaper Cloths"
+        },
+        {
+            "id": "a002_280_0326",
+            "en_US": "Razor Claws"
+        },
+        {
+            "id": "a002_280_0327",
+            "en_US": "Razor Fangs"
+        },
+        {
+            "id": "a002_280_0328",
+            "en_US": "TM01s"
+        },
+        {
+            "id": "a002_280_0329",
+            "en_US": "TM02s"
+        },
+        {
+            "id": "a002_280_0330",
+            "en_US": "TM03s"
+        },
+        {
+            "id": "a002_280_0331",
+            "en_US": "TM04s"
+        },
+        {
+            "id": "a002_280_0332",
+            "en_US": "TM05s"
+        },
+        {
+            "id": "a002_280_0333",
+            "en_US": "TM06s"
+        },
+        {
+            "id": "a002_280_0334",
+            "en_US": "TM07s"
+        },
+        {
+            "id": "a002_280_0335",
+            "en_US": "TM08s"
+        },
+        {
+            "id": "a002_280_0336",
+            "en_US": "TM09s"
+        },
+        {
+            "id": "a002_280_0337",
+            "en_US": "TM10s"
+        },
+        {
+            "id": "a002_280_0338",
+            "en_US": "TM11s"
+        },
+        {
+            "id": "a002_280_0339",
+            "en_US": "TM12s"
+        },
+        {
+            "id": "a002_280_0340",
+            "en_US": "TM13s"
+        },
+        {
+            "id": "a002_280_0341",
+            "en_US": "TM14s"
+        },
+        {
+            "id": "a002_280_0342",
+            "en_US": "TM15s"
+        },
+        {
+            "id": "a002_280_0343",
+            "en_US": "TM16s"
+        },
+        {
+            "id": "a002_280_0344",
+            "en_US": "TM17s"
+        },
+        {
+            "id": "a002_280_0345",
+            "en_US": "TM18s"
+        },
+        {
+            "id": "a002_280_0346",
+            "en_US": "TM19s"
+        },
+        {
+            "id": "a002_280_0347",
+            "en_US": "TM20s"
+        },
+        {
+            "id": "a002_280_0348",
+            "en_US": "TM21s"
+        },
+        {
+            "id": "a002_280_0349",
+            "en_US": "TM22s"
+        },
+        {
+            "id": "a002_280_0350",
+            "en_US": "TM23s"
+        },
+        {
+            "id": "a002_280_0351",
+            "en_US": "TM24s"
+        },
+        {
+            "id": "a002_280_0352",
+            "en_US": "TM25s"
+        },
+        {
+            "id": "a002_280_0353",
+            "en_US": "TM26s"
+        },
+        {
+            "id": "a002_280_0354",
+            "en_US": "TM27s"
+        },
+        {
+            "id": "a002_280_0355",
+            "en_US": "TM28s"
+        },
+        {
+            "id": "a002_280_0356",
+            "en_US": "TM29s"
+        },
+        {
+            "id": "a002_280_0357",
+            "en_US": "TM30s"
+        },
+        {
+            "id": "a002_280_0358",
+            "en_US": "TM31s"
+        },
+        {
+            "id": "a002_280_0359",
+            "en_US": "TM32s"
+        },
+        {
+            "id": "a002_280_0360",
+            "en_US": "TM33s"
+        },
+        {
+            "id": "a002_280_0361",
+            "en_US": "TM34s"
+        },
+        {
+            "id": "a002_280_0362",
+            "en_US": "TM35s"
+        },
+        {
+            "id": "a002_280_0363",
+            "en_US": "TM36s"
+        },
+        {
+            "id": "a002_280_0364",
+            "en_US": "TM37s"
+        },
+        {
+            "id": "a002_280_0365",
+            "en_US": "TM38s"
+        },
+        {
+            "id": "a002_280_0366",
+            "en_US": "TM39s"
+        },
+        {
+            "id": "a002_280_0367",
+            "en_US": "TM40s"
+        },
+        {
+            "id": "a002_280_0368",
+            "en_US": "TM41s"
+        },
+        {
+            "id": "a002_280_0369",
+            "en_US": "TM42s"
+        },
+        {
+            "id": "a002_280_0370",
+            "en_US": "TM43s"
+        },
+        {
+            "id": "a002_280_0371",
+            "en_US": "TM44s"
+        },
+        {
+            "id": "a002_280_0372",
+            "en_US": "TM45s"
+        },
+        {
+            "id": "a002_280_0373",
+            "en_US": "TM46s"
+        },
+        {
+            "id": "a002_280_0374",
+            "en_US": "TM47s"
+        },
+        {
+            "id": "a002_280_0375",
+            "en_US": "TM48s"
+        },
+        {
+            "id": "a002_280_0376",
+            "en_US": "TM49s"
+        },
+        {
+            "id": "a002_280_0377",
+            "en_US": "TM50s"
+        },
+        {
+            "id": "a002_280_0378",
+            "en_US": "TM51s"
+        },
+        {
+            "id": "a002_280_0379",
+            "en_US": "TM52s"
+        },
+        {
+            "id": "a002_280_0380",
+            "en_US": "TM53s"
+        },
+        {
+            "id": "a002_280_0381",
+            "en_US": "TM54s"
+        },
+        {
+            "id": "a002_280_0382",
+            "en_US": "TM55s"
+        },
+        {
+            "id": "a002_280_0383",
+            "en_US": "TM56s"
+        },
+        {
+            "id": "a002_280_0384",
+            "en_US": "TM57s"
+        },
+        {
+            "id": "a002_280_0385",
+            "en_US": "TM58s"
+        },
+        {
+            "id": "a002_280_0386",
+            "en_US": "TM59s"
+        },
+        {
+            "id": "a002_280_0387",
+            "en_US": "TM60s"
+        },
+        {
+            "id": "a002_280_0388",
+            "en_US": "TM61s"
+        },
+        {
+            "id": "a002_280_0389",
+            "en_US": "TM62s"
+        },
+        {
+            "id": "a002_280_0390",
+            "en_US": "TM63s"
+        },
+        {
+            "id": "a002_280_0391",
+            "en_US": "TM64s"
+        },
+        {
+            "id": "a002_280_0392",
+            "en_US": "TM65s"
+        },
+        {
+            "id": "a002_280_0393",
+            "en_US": "TM66s"
+        },
+        {
+            "id": "a002_280_0394",
+            "en_US": "TM67s"
+        },
+        {
+            "id": "a002_280_0395",
+            "en_US": "TM68s"
+        },
+        {
+            "id": "a002_280_0396",
+            "en_US": "TM69s"
+        },
+        {
+            "id": "a002_280_0397",
+            "en_US": "TM70s"
+        },
+        {
+            "id": "a002_280_0398",
+            "en_US": "TM71s"
+        },
+        {
+            "id": "a002_280_0399",
+            "en_US": "TM72s"
+        },
+        {
+            "id": "a002_280_0400",
+            "en_US": "TM73s"
+        },
+        {
+            "id": "a002_280_0401",
+            "en_US": "TM74s"
+        },
+        {
+            "id": "a002_280_0402",
+            "en_US": "TM75s"
+        },
+        {
+            "id": "a002_280_0403",
+            "en_US": "TM76s"
+        },
+        {
+            "id": "a002_280_0404",
+            "en_US": "TM77s"
+        },
+        {
+            "id": "a002_280_0405",
+            "en_US": "TM78s"
+        },
+        {
+            "id": "a002_280_0406",
+            "en_US": "TM79s"
+        },
+        {
+            "id": "a002_280_0407",
+            "en_US": "TM80s"
+        },
+        {
+            "id": "a002_280_0408",
+            "en_US": "TM81s"
+        },
+        {
+            "id": "a002_280_0409",
+            "en_US": "TM82s"
+        },
+        {
+            "id": "a002_280_0410",
+            "en_US": "TM83s"
+        },
+        {
+            "id": "a002_280_0411",
+            "en_US": "TM84s"
+        },
+        {
+            "id": "a002_280_0412",
+            "en_US": "TM85s"
+        },
+        {
+            "id": "a002_280_0413",
+            "en_US": "TM86s"
+        },
+        {
+            "id": "a002_280_0414",
+            "en_US": "TM87s"
+        },
+        {
+            "id": "a002_280_0415",
+            "en_US": "TM88s"
+        },
+        {
+            "id": "a002_280_0416",
+            "en_US": "TM89s"
+        },
+        {
+            "id": "a002_280_0417",
+            "en_US": "TM90s"
+        },
+        {
+            "id": "a002_280_0418",
+            "en_US": "TM91s"
+        },
+        {
+            "id": "a002_280_0419",
+            "en_US": "TM92s"
+        },
+        {
+            "id": "a002_280_0420",
+            "en_US": "HM01s"
+        },
+        {
+            "id": "a002_280_0421",
+            "en_US": "HM02s"
+        },
+        {
+            "id": "a002_280_0422",
+            "en_US": "HM03s"
+        },
+        {
+            "id": "a002_280_0423",
+            "en_US": "HM04s"
+        },
+        {
+            "id": "a002_280_0424",
+            "en_US": "HM05s"
+        },
+        {
+            "id": "a002_280_0425",
+            "en_US": "HM06s"
+        },
+        {
+            "id": "a002_280_0426",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0427",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0428",
+            "en_US": "Explorer Kits"
+        },
+        {
+            "id": "a002_280_0429",
+            "en_US": "Loot Sacks"
+        },
+        {
+            "id": "a002_280_0430",
+            "en_US": "Rule Books"
+        },
+        {
+            "id": "a002_280_0431",
+            "en_US": "Poké Radars"
+        },
+        {
+            "id": "a002_280_0432",
+            "en_US": "Point Cards"
+        },
+        {
+            "id": "a002_280_0433",
+            "en_US": "Journals"
+        },
+        {
+            "id": "a002_280_0434",
+            "en_US": "Seal Cases"
+        },
+        {
+            "id": "a002_280_0435",
+            "en_US": "Fashion Cases"
+        },
+        {
+            "id": "a002_280_0436",
+            "en_US": "Seal Bags"
+        },
+        {
+            "id": "a002_280_0437",
+            "en_US": "Pal Pads"
+        },
+        {
+            "id": "a002_280_0438",
+            "en_US": "Works Keys"
+        },
+        {
+            "id": "a002_280_0439",
+            "en_US": "Old Charms"
+        },
+        {
+            "id": "a002_280_0440",
+            "en_US": "Galactic Keys"
+        },
+        {
+            "id": "a002_280_0441",
+            "en_US": "Red Chains"
+        },
+        {
+            "id": "a002_280_0442",
+            "en_US": "Town Maps"
+        },
+        {
+            "id": "a002_280_0443",
+            "en_US": "Vs. Seekers"
+        },
+        {
+            "id": "a002_280_0444",
+            "en_US": "Coin Cases"
+        },
+        {
+            "id": "a002_280_0445",
+            "en_US": "Old Rods"
+        },
+        {
+            "id": "a002_280_0446",
+            "en_US": "Good Rods"
+        },
+        {
+            "id": "a002_280_0447",
+            "en_US": "Super Rods"
+        },
+        {
+            "id": "a002_280_0448",
+            "en_US": "Sprayducks"
+        },
+        {
+            "id": "a002_280_0449",
+            "en_US": "Poffin Cases"
+        },
+        {
+            "id": "a002_280_0450",
+            "en_US": "Bicycles"
+        },
+        {
+            "id": "a002_280_0451",
+            "en_US": "Suite Keys"
+        },
+        {
+            "id": "a002_280_0452",
+            "en_US": "Oak's Letters"
+        },
+        {
+            "id": "a002_280_0453",
+            "en_US": "Lunar Wings"
+        },
+        {
+            "id": "a002_280_0454",
+            "en_US": "Member Cards"
+        },
+        {
+            "id": "a002_280_0455",
+            "en_US": "Azure Flutes"
+        },
+        {
+            "id": "a002_280_0456",
+            "en_US": "S.S. Tickets"
+        },
+        {
+            "id": "a002_280_0457",
+            "en_US": "Contest Passes"
+        },
+        {
+            "id": "a002_280_0458",
+            "en_US": "Magma Stones"
+        },
+        {
+            "id": "a002_280_0459",
+            "en_US": "Parcels"
+        },
+        {
+            "id": "a002_280_0460",
+            "en_US": "Coupon 1s"
+        },
+        {
+            "id": "a002_280_0461",
+            "en_US": "Coupon 2s"
+        },
+        {
+            "id": "a002_280_0462",
+            "en_US": "Coupon 3s"
+        },
+        {
+            "id": "a002_280_0463",
+            "en_US": "Storage Keys"
+        },
+        {
+            "id": "a002_280_0464",
+            "en_US": "SecretPotions"
+        },
+        {
+            "id": "a002_280_0465",
+            "en_US": "Vs. Recorders"
+        },
+        {
+            "id": "a002_280_0466",
+            "en_US": "Gracideas"
+        },
+        {
+            "id": "a002_280_0467",
+            "en_US": "Secret Keys"
+        },
+        {
+            "id": "a002_280_0468",
+            "en_US": "Apricorn Boxes"
+        },
+        {
+            "id": "a002_280_0469",
+            "en_US": "Unown Reports"
+        },
+        {
+            "id": "a002_280_0470",
+            "en_US": "Berry Pots"
+        },
+        {
+            "id": "a002_280_0471",
+            "en_US": "Dowsing MCHNs"
+        },
+        {
+            "id": "a002_280_0472",
+            "en_US": "Blue Cards"
+        },
+        {
+            "id": "a002_280_0473",
+            "en_US": "SlowpokeTails"
+        },
+        {
+            "id": "a002_280_0474",
+            "en_US": "Clear Bells"
+        },
+        {
+            "id": "a002_280_0475",
+            "en_US": "Card Keys"
+        },
+        {
+            "id": "a002_280_0476",
+            "en_US": "Basement Keys"
+        },
+        {
+            "id": "a002_280_0477",
+            "en_US": "SquirtBottles"
+        },
+        {
+            "id": "a002_280_0478",
+            "en_US": "Red Scales"
+        },
+        {
+            "id": "a002_280_0479",
+            "en_US": "Lost Items"
+        },
+        {
+            "id": "a002_280_0480",
+            "en_US": "Passes"
+        },
+        {
+            "id": "a002_280_0481",
+            "en_US": "Machine Parts"
+        },
+        {
+            "id": "a002_280_0482",
+            "en_US": "Silver Wings"
+        },
+        {
+            "id": "a002_280_0483",
+            "en_US": "Rainbow Wings"
+        },
+        {
+            "id": "a002_280_0484",
+            "en_US": "Mystery Eggs"
+        },
+        {
+            "id": "a002_280_0485",
+            "en_US": "Red Apricorns"
+        },
+        {
+            "id": "a002_280_0486",
+            "en_US": "Blu Apricorns"
+        },
+        {
+            "id": "a002_280_0487",
+            "en_US": "Ylw Apricorns"
+        },
+        {
+            "id": "a002_280_0488",
+            "en_US": "Grn Apricorns"
+        },
+        {
+            "id": "a002_280_0489",
+            "en_US": "Pnk Apricorns"
+        },
+        {
+            "id": "a002_280_0490",
+            "en_US": "Wht Apricorns"
+        },
+        {
+            "id": "a002_280_0491",
+            "en_US": "Blk Apricorns"
+        },
+        {
+            "id": "a002_280_0492",
+            "en_US": "Fast Balls"
+        },
+        {
+            "id": "a002_280_0493",
+            "en_US": "Level Balls"
+        },
+        {
+            "id": "a002_280_0494",
+            "en_US": "Lure Balls"
+        },
+        {
+            "id": "a002_280_0495",
+            "en_US": "Heavy Balls"
+        },
+        {
+            "id": "a002_280_0496",
+            "en_US": "Love Balls"
+        },
+        {
+            "id": "a002_280_0497",
+            "en_US": "Friend Balls"
+        },
+        {
+            "id": "a002_280_0498",
+            "en_US": "Moon Balls"
+        },
+        {
+            "id": "a002_280_0499",
+            "en_US": "Sport Balls"
+        },
+        {
+            "id": "a002_280_0500",
+            "en_US": "Park Balls"
+        },
+        {
+            "id": "a002_280_0501",
+            "en_US": "Photo Albums"
+        },
+        {
+            "id": "a002_280_0502",
+            "en_US": "GB Sounds"
+        },
+        {
+            "id": "a002_280_0503",
+            "en_US": "Tidal Bells"
+        },
+        {
+            "id": "a002_280_0504",
+            "en_US": "RageCandyBars"
+        },
+        {
+            "id": "a002_280_0505",
+            "en_US": "Data Card 01s"
+        },
+        {
+            "id": "a002_280_0506",
+            "en_US": "Data Card 02s"
+        },
+        {
+            "id": "a002_280_0507",
+            "en_US": "Data Card 03s"
+        },
+        {
+            "id": "a002_280_0508",
+            "en_US": "Data Card 04s"
+        },
+        {
+            "id": "a002_280_0509",
+            "en_US": "Data Card 05s"
+        },
+        {
+            "id": "a002_280_0510",
+            "en_US": "Data Card 06s"
+        },
+        {
+            "id": "a002_280_0511",
+            "en_US": "Data Card 07s"
+        },
+        {
+            "id": "a002_280_0512",
+            "en_US": "Data Card 08s"
+        },
+        {
+            "id": "a002_280_0513",
+            "en_US": "Data Card 09s"
+        },
+        {
+            "id": "a002_280_0514",
+            "en_US": "Data Card 10s"
+        },
+        {
+            "id": "a002_280_0515",
+            "en_US": "Data Card 11s"
+        },
+        {
+            "id": "a002_280_0516",
+            "en_US": "Data Card 12s"
+        },
+        {
+            "id": "a002_280_0517",
+            "en_US": "Data Card 13s"
+        },
+        {
+            "id": "a002_280_0518",
+            "en_US": "Data Card 14s"
+        },
+        {
+            "id": "a002_280_0519",
+            "en_US": "Data Card 15s"
+        },
+        {
+            "id": "a002_280_0520",
+            "en_US": "Data Card 16s"
+        },
+        {
+            "id": "a002_280_0521",
+            "en_US": "Data Card 17s"
+        },
+        {
+            "id": "a002_280_0522",
+            "en_US": "Data Card 18s"
+        },
+        {
+            "id": "a002_280_0523",
+            "en_US": "Data Card 19s"
+        },
+        {
+            "id": "a002_280_0524",
+            "en_US": "Data Card 20s"
+        },
+        {
+            "id": "a002_280_0525",
+            "en_US": "Data Card 21s"
+        },
+        {
+            "id": "a002_280_0526",
+            "en_US": "Data Card 22s"
+        },
+        {
+            "id": "a002_280_0527",
+            "en_US": "Data Card 23s"
+        },
+        {
+            "id": "a002_280_0528",
+            "en_US": "Data Card 24s"
+        },
+        {
+            "id": "a002_280_0529",
+            "en_US": "Data Card 25s"
+        },
+        {
+            "id": "a002_280_0530",
+            "en_US": "Data Card 26s"
+        },
+        {
+            "id": "a002_280_0531",
+            "en_US": "Data Card 27s"
+        },
+        {
+            "id": "a002_280_0532",
+            "en_US": "Jade Orbs"
+        },
+        {
+            "id": "a002_280_0533",
+            "en_US": "Lock Capsules"
+        },
+        {
+            "id": "a002_280_0534",
+            "en_US": "Red Orbs"
+        },
+        {
+            "id": "a002_280_0535",
+            "en_US": "Blue Orbs"
+        },
+        {
+            "id": "a002_280_0536",
+            "en_US": "Enigma Stones"
+        },
+        {
+            "id": "a002_280_0537",
+            "en_US": "Prism Scales"
+        },
+        {
+            "id": "a002_280_0538",
+            "en_US": "Eviolites"
+        },
+        {
+            "id": "a002_280_0539",
+            "en_US": "Float Stones"
+        },
+        {
+            "id": "a002_280_0540",
+            "en_US": "Rocky Helmets"
+        },
+        {
+            "id": "a002_280_0541",
+            "en_US": "Air Balloons"
+        },
+        {
+            "id": "a002_280_0542",
+            "en_US": "Red Cards"
+        },
+        {
+            "id": "a002_280_0543",
+            "en_US": "Ring Targets"
+        },
+        {
+            "id": "a002_280_0544",
+            "en_US": "Binding Bands"
+        },
+        {
+            "id": "a002_280_0545",
+            "en_US": "Absorb Bulbs"
+        },
+        {
+            "id": "a002_280_0546",
+            "en_US": "Cell Batteries"
+        },
+        {
+            "id": "a002_280_0547",
+            "en_US": "Eject Buttons"
+        },
+        {
+            "id": "a002_280_0548",
+            "en_US": "Fire Gems"
+        },
+        {
+            "id": "a002_280_0549",
+            "en_US": "Water Gems"
+        },
+        {
+            "id": "a002_280_0550",
+            "en_US": "Electric Gems"
+        },
+        {
+            "id": "a002_280_0551",
+            "en_US": "Grass Gems"
+        },
+        {
+            "id": "a002_280_0552",
+            "en_US": "Ice Gems"
+        },
+        {
+            "id": "a002_280_0553",
+            "en_US": "Fighting Gems"
+        },
+        {
+            "id": "a002_280_0554",
+            "en_US": "Poison Gems"
+        },
+        {
+            "id": "a002_280_0555",
+            "en_US": "Ground Gems"
+        },
+        {
+            "id": "a002_280_0556",
+            "en_US": "Flying Gems"
+        },
+        {
+            "id": "a002_280_0557",
+            "en_US": "Psychic Gems"
+        },
+        {
+            "id": "a002_280_0558",
+            "en_US": "Bug Gems"
+        },
+        {
+            "id": "a002_280_0559",
+            "en_US": "Rock Gems"
+        },
+        {
+            "id": "a002_280_0560",
+            "en_US": "Ghost Gems"
+        },
+        {
+            "id": "a002_280_0561",
+            "en_US": "Dragon Gems"
+        },
+        {
+            "id": "a002_280_0562",
+            "en_US": "Dark Gems"
+        },
+        {
+            "id": "a002_280_0563",
+            "en_US": "Steel Gems"
+        },
+        {
+            "id": "a002_280_0564",
+            "en_US": "Normal Gems"
+        },
+        {
+            "id": "a002_280_0565",
+            "en_US": "Health Wings"
+        },
+        {
+            "id": "a002_280_0566",
+            "en_US": "Muscle Wings"
+        },
+        {
+            "id": "a002_280_0567",
+            "en_US": "Resist Wings"
+        },
+        {
+            "id": "a002_280_0568",
+            "en_US": "Genius Wings"
+        },
+        {
+            "id": "a002_280_0569",
+            "en_US": "Clever Wings"
+        },
+        {
+            "id": "a002_280_0570",
+            "en_US": "Swift Wings"
+        },
+        {
+            "id": "a002_280_0571",
+            "en_US": "Pretty Wings"
+        },
+        {
+            "id": "a002_280_0572",
+            "en_US": "Cover Fossils"
+        },
+        {
+            "id": "a002_280_0573",
+            "en_US": "Plume Fossils"
+        },
+        {
+            "id": "a002_280_0574",
+            "en_US": "Liberty Passes"
+        },
+        {
+            "id": "a002_280_0575",
+            "en_US": "Pass Orbs"
+        },
+        {
+            "id": "a002_280_0576",
+            "en_US": "Dream Balls"
+        },
+        {
+            "id": "a002_280_0577",
+            "en_US": "Poké Toys"
+        },
+        {
+            "id": "a002_280_0578",
+            "en_US": "Prop Cases"
+        },
+        {
+            "id": "a002_280_0579",
+            "en_US": "Dragon Skulls"
+        },
+        {
+            "id": "a002_280_0580",
+            "en_US": "BalmMushrooms"
+        },
+        {
+            "id": "a002_280_0581",
+            "en_US": "Big Nuggets"
+        },
+        {
+            "id": "a002_280_0582",
+            "en_US": "Pearl Strings"
+        },
+        {
+            "id": "a002_280_0583",
+            "en_US": "Comet Shards"
+        },
+        {
+            "id": "a002_280_0584",
+            "en_US": "Relic Coppers"
+        },
+        {
+            "id": "a002_280_0585",
+            "en_US": "Relic Silvers"
+        },
+        {
+            "id": "a002_280_0586",
+            "en_US": "Relic Golds"
+        },
+        {
+            "id": "a002_280_0587",
+            "en_US": "Relic Vases"
+        },
+        {
+            "id": "a002_280_0588",
+            "en_US": "Relic Bands"
+        },
+        {
+            "id": "a002_280_0589",
+            "en_US": "Relic Statues"
+        },
+        {
+            "id": "a002_280_0590",
+            "en_US": "Relic Crowns"
+        },
+        {
+            "id": "a002_280_0591",
+            "en_US": "Casteliacones"
+        },
+        {
+            "id": "a002_280_0592",
+            "en_US": "Dire Hit 2s"
+        },
+        {
+            "id": "a002_280_0593",
+            "en_US": "X Speed 2s"
+        },
+        {
+            "id": "a002_280_0594",
+            "en_US": "X Special 2s"
+        },
+        {
+            "id": "a002_280_0595",
+            "en_US": "X Sp. Def 2s"
+        },
+        {
+            "id": "a002_280_0596",
+            "en_US": "X Defend 2s"
+        },
+        {
+            "id": "a002_280_0597",
+            "en_US": "X Attack 2s"
+        },
+        {
+            "id": "a002_280_0598",
+            "en_US": "X Accuracy 2s"
+        },
+        {
+            "id": "a002_280_0599",
+            "en_US": "X Speed 3s"
+        },
+        {
+            "id": "a002_280_0600",
+            "en_US": "X Special 3s"
+        },
+        {
+            "id": "a002_280_0601",
+            "en_US": "X Sp. Def 3s"
+        },
+        {
+            "id": "a002_280_0602",
+            "en_US": "X Defend 3s"
+        },
+        {
+            "id": "a002_280_0603",
+            "en_US": "X Attack 3s"
+        },
+        {
+            "id": "a002_280_0604",
+            "en_US": "X Accuracy 3s"
+        },
+        {
+            "id": "a002_280_0605",
+            "en_US": "X Speed 6s"
+        },
+        {
+            "id": "a002_280_0606",
+            "en_US": "X Special 6s"
+        },
+        {
+            "id": "a002_280_0607",
+            "en_US": "X Sp. Def 6s"
+        },
+        {
+            "id": "a002_280_0608",
+            "en_US": "X Defend 6s"
+        },
+        {
+            "id": "a002_280_0609",
+            "en_US": "X Attack 6s"
+        },
+        {
+            "id": "a002_280_0610",
+            "en_US": "X Accuracy 6s"
+        },
+        {
+            "id": "a002_280_0611",
+            "en_US": "Ability Urges"
+        },
+        {
+            "id": "a002_280_0612",
+            "en_US": "Item Drops"
+        },
+        {
+            "id": "a002_280_0613",
+            "en_US": "Item Urges"
+        },
+        {
+            "id": "a002_280_0614",
+            "en_US": "Reset Urges"
+        },
+        {
+            "id": "a002_280_0615",
+            "en_US": "Dire Hit 3s"
+        },
+        {
+            "id": "a002_280_0616",
+            "en_US": "Light Stones"
+        },
+        {
+            "id": "a002_280_0617",
+            "en_US": "Dark Stones"
+        },
+        {
+            "id": "a002_280_0618",
+            "en_US": "TM93s"
+        },
+        {
+            "id": "a002_280_0619",
+            "en_US": "TM94s"
+        },
+        {
+            "id": "a002_280_0620",
+            "en_US": "TM95s"
+        },
+        {
+            "id": "a002_280_0621",
+            "en_US": "Xtransceivers"
+        },
+        {
+            "id": "a002_280_0622",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_280_0623",
+            "en_US": "Gram 1s"
+        },
+        {
+            "id": "a002_280_0624",
+            "en_US": "Gram 2s"
+        },
+        {
+            "id": "a002_280_0625",
+            "en_US": "Gram 3s"
+        },
+        {
+            "id": "a002_280_0626",
+            "en_US": "Xtransceivers"
+        }
+    ]
+}

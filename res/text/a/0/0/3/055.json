@@ -1,0 +1,111 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_055_0000",
+            "en_US": [
+                "My name is Mr. Lock.{VAR BE01}\n",
+                "I'm a magical clown who can\n",
+                "open anything.{VAR BE01}\n",
+                "Your name is {VAR 0100 0000}.\n",
+                "I'll see you again, I'm sure."
+            ]
+        },
+        {
+            "id": "a003_055_0001",
+            "en_US": [
+                "You have a Lock Capsule in your Bag...{VAR BE01}\n",
+                "I am the only one in the whole world\n",
+                "who can open the capsule.{VAR BE01}\n",
+                "I can open it in the blink of an eye!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_055_0002",
+            "en_US": [
+                "Look! As you can see, I opened it swiftly\n",
+                "and with precision!{VAR BE01}\n",
+                "Inside the capsule...\n",
+                "What your heart most desires...{VAR BE00}\n",
+                "a Technical Machine!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_055_0003",
+            "en_US": [
+                "Hm. There's a letter with the\n",
+                "Technical Machine...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_055_0004",
+            "en_US": [
+                "“I entrust the Technical Machine in the\n",
+                "Lock Capsule to a trustworthy Trainer in{VAR BE00}\n",
+                "the Unova region.{VAR BE01}\n",
+                "Don't allow it to fall into the hands of\n",
+                "villains like Team Rocket...\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_055_0005",
+            "en_US": [
+                "More is written here...{VAR BE01}\n",
+                "“TM95 is Snarl.\n",
+                "It's a Dark-type Special Attack, and{VAR BE00}\n",
+                "it lowers the opponents' Sp. Atk stat.\"{VAR BE01}\n",
+                "So that's what it is...a move that tests\n",
+                "the sense of the user!"
+            ]
+        },
+        {
+            "id": "a003_055_0006",
+            "en_US": [
+                "Even though I opened the Lock Capsule,\n",
+                "I can't unlock a closed heart.{VAR BE01}\n",
+                "I am a sad clown, indeed..."
+            ]
+        },
+        {
+            "id": "a003_055_0007",
+            "en_US": [
+                "I secretly invented a special machine.{VAR BE01}\n",
+                "Only people who know the secret\n",
+                "password can use it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_055_0008",
+            "en_US": "There's more!{VAR BE01}"
+        },
+        {
+            "id": "a003_055_0009",
+            "en_US": [
+                "This is the password that will enable you\n",
+                "to use the Relocator I invented!{VAR BE01}\n",
+                "It's a superb machine that will swiftly\n",
+                "fetch a special Pokémon or item{VAR BE00}\n",
+                "by connecting to a special network."
+            ]
+        },
+        {
+            "id": "a003_055_0010",
+            "en_US": [
+                "I added a button on the main menu.{VAR BE01}\n",
+                "Please save the game, then go back to\n",
+                "the title screen!"
+            ]
+        },
+        {
+            "id": "a003_055_0011",
+            "en_US": [
+                "Unfortunately, it seems that you don't\n",
+                "remember the password..."
+            ]
+        },
+        {
+            "id": "a003_055_0012",
+            "en_US": "Did you find my Relocator useful?"
+        }
+    ]
+}

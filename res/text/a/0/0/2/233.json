@@ -1,0 +1,31 @@
+{
+    "flags": 208,
+    "messages": [
+        {
+            "id": "a002_233_0000",
+            "en_US": "YES",
+            "flags": 42
+        },
+        {
+            "id": "a002_233_0001",
+            "en_US": "NO",
+            "flags": 42
+        },
+        {
+            "id": "a002_233_0002",
+            "en_US": "FORGET"
+        },
+        {
+            "id": "a002_233_0003",
+            "en_US": "KEEP OLD MOVES!"
+        },
+        {
+            "id": "a002_233_0004",
+            "en_US": "Give up on {VAR 0107 0000}!"
+        },
+        {
+            "id": "a002_233_0005",
+            "en_US": "Don't give up on {VAR 0107 0000}!"
+        }
+    ]
+}

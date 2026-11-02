@@ -1,0 +1,86 @@
+{
+    "flags": 216,
+    "messages": [
+        {
+            "id": "a002_083_0000",
+            "en_US": "{VAR 0100 0000} has joined."
+        },
+        {
+            "id": "a002_083_0001",
+            "en_US": "Would you like to stop drawing?"
+        },
+        {
+            "id": "a002_083_0002",
+            "en_US": "{VAR 0100 0000} has left."
+        },
+        {
+            "id": "a002_083_0003",
+            "en_US": [
+                "{VAR 0100 0000}, the leader, has left.\n",
+                "The group will be disbanded.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_083_0004",
+            "en_US": [
+                "If the leader drops out, the group will\n",
+                "be disbanded. Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_083_0005",
+            "en_US": [
+                "There are no members.\n",
+                "The group will be disbanded.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_083_0006",
+            "en_US": "The drawing session was ended."
+        },
+        {
+            "id": "a002_083_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_083_0008",
+            "en_US": "{VAR 0100 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_083_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_083_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_083_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_083_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_083_0013",
+            "en_US": "Joined a drawing session!"
+        },
+        {
+            "id": "a002_083_0014",
+            "en_US": "YES",
+            "flags": 62
+        },
+        {
+            "id": "a002_083_0015",
+            "en_US": "NO",
+            "flags": 62
+        }
+    ]
+}

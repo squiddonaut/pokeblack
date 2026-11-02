@@ -1,0 +1,367 @@
+{
+    "flags": 224,
+    "pad": "7c7c",
+    "messages": [
+        {
+            "id": "a002_161_0000",
+            "en_US": [
+                "Increases the chance of encountering\n",
+                "wild Pokémon a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0001",
+            "en_US": [
+                "Increases the chance of encountering\n",
+                "wild Pokémon.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0002",
+            "en_US": [
+                "Increases the chance of encountering\n",
+                "wild Pokémon a lot.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0003",
+            "en_US": [
+                "Decreases the chance of encountering\n",
+                "wild Pokémon a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0004",
+            "en_US": [
+                "Decreases the chance of encountering\n",
+                "wild Pokémon.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0005",
+            "en_US": [
+                "Decreases the chance of encountering\n",
+                "wild Pokémon a lot.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0006",
+            "en_US": [
+                "Helps Eggs hatch a little faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0007",
+            "en_US": [
+                "Helps Eggs hatch faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0008",
+            "en_US": [
+                "Helps Eggs hatch much faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0009",
+            "en_US": [
+                "Helps Pokémon grow\n",
+                "friendly a little faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0010",
+            "en_US": [
+                "Helps Pokémon grow\n",
+                "friendly faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0011",
+            "en_US": [
+                "Helps Pokémon grow\n",
+                "friendly much faster.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0012",
+            "en_US": [
+                "Poké Mart gives a 10% discount.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0013",
+            "en_US": [
+                "Poké Mart gives a 25% discount.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0014",
+            "en_US": [
+                "Poké Mart gives a 50% discount.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0015",
+            "en_US": [
+                "Immediately restores the HP\n",
+                "of the lead Pokémon a little.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0016",
+            "en_US": [
+                "Immediately restores the HP\n",
+                "of the lead Pokémon.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0017",
+            "en_US": [
+                "Immediately restores the HP\n",
+                "of the lead Pokémon very much.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0018",
+            "en_US": [
+                "Immediately restores the PP\n",
+                "of the lead Pokémon a little.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0019",
+            "en_US": [
+                "Immediately restores the PP\n",
+                "of the lead Pokémon.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0020",
+            "en_US": [
+                "Immediately restores the PP\n",
+                "of the lead Pokémon very much.\n"
+            ]
+        },
+        {
+            "id": "a002_161_0021",
+            "en_US": [
+                "Increases the Exp. Points \n",
+                "from a battle a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0022",
+            "en_US": [
+                "Increases the Exp. Points \n",
+                "from a battle.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0023",
+            "en_US": [
+                "Increases the Exp. Points \n",
+                "from a battle very much.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0024",
+            "en_US": [
+                "Decreases the Exp. Points\n",
+                "from a battle a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0025",
+            "en_US": [
+                "Decreases the Exp. Points\n",
+                "from a battle.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0026",
+            "en_US": [
+                "Decreases the Exp. Points \n",
+                "from a battle very much.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0027",
+            "en_US": [
+                "Increases the prize money\n",
+                "from a battle a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0028",
+            "en_US": [
+                "Increases the prize money\n",
+                "from a battle.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0029",
+            "en_US": [
+                "Increases the prize money\n",
+                "from a battle very much.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0030",
+            "en_US": [
+                "Increases the chance to catch\n",
+                "Pokémon a little.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0031",
+            "en_US": [
+                "Increases the chance to catch\n",
+                "Pokémon.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0032",
+            "en_US": [
+                "Increases the chance to catch\n",
+                "Pokémon very much.\n",
+                "The effect lasts three minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0033",
+            "en_US": [
+                "Helps Eggs hatch much faster.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0034",
+            "en_US": [
+                "Poké Mart gives a 50% discount.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0035",
+            "en_US": [
+                "Helps Pokémon grow\n",
+                "friendly much faster.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0036",
+            "en_US": [
+                "Increases the Exp. Points\n",
+                "from a battle very much.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0037",
+            "en_US": [
+                "Increases the prize money\n",
+                "from a battle very much.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0038",
+            "en_US": [
+                "Increases the chance to catch\n",
+                "Pokémon very much.\n",
+                "The effect lasts 30 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0039",
+            "en_US": [
+                "When received, every Pokémon in a\n",
+                "party fully recovers."
+            ]
+        },
+        {
+            "id": "a002_161_0040",
+            "en_US": [
+                "Helps Eggs hatch much faster.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0041",
+            "en_US": [
+                "Poké Mart gives a 50% discount.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0042",
+            "en_US": [
+                "Helps Pokémon grow\n",
+                "friendly much faster.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0043",
+            "en_US": [
+                "Increases the Exp. Points\n",
+                "from a battle very much.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0044",
+            "en_US": [
+                "Increases the prize money\n",
+                "from a battle very much.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0045",
+            "en_US": [
+                "Increases the chance to catch\n",
+                "Pokémon very much.\n",
+                "The effect lasts 60 minutes."
+            ]
+        },
+        {
+            "id": "a002_161_0046",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_161_0047",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

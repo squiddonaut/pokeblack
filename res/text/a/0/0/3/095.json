@@ -1,0 +1,97 @@
+{
+    "flags": 224,
+    "pad": "5858",
+    "messages": [
+        {
+            "id": "a003_095_0000",
+            "en_US": "Professor Juniper: Hello, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_095_0001",
+            "en_US": "Cheren: Come here.{VAR BE01}"
+        },
+        {
+            "id": "a003_095_0002",
+            "en_US": [
+                "Professor Juniper: Elesa called and was\n",
+                "asking me all about Electric-type{VAR BE00}\n",
+                "Pokémon, and I thought about you guys.{VAR BE01}\n",
+                "That's why I wanted to see you.\n",
+                "Ta-da! Freebies for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0003",
+            "en_US": "Here, Cheren!{VAR BE01}"
+        },
+        {
+            "id": "a003_095_0004",
+            "en_US": "You, too, {VAR 0100 0000}.{VAR BE01}"
+        },
+        {
+            "id": "a003_095_0005",
+            "en_US": [
+                "If you see a Pokémon that\n",
+                "you want to have join you,{VAR BE00}\n",
+                "be sure to use a good type of Poké Ball.{VAR BE01}\n",
+                "Because this could be the\n",
+                "first and last time you see that Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0006",
+            "en_US": [
+                "I know it might seem strange for me\n",
+                "to say this, since I'm the one who asked{VAR BE00}\n",
+                "you to complete the Pokédex, but please,{VAR BE00}\n",
+                "remember to enjoy your journey!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0007",
+            "en_US": [
+                "Of course, I'm not saying you can just\n",
+                "neglect the Pokédex. But you know that!{VAR BE01}\n",
+                "Now, if you'll please excuse me,\n",
+                "I have to go meet Bianca.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0008",
+            "en_US": [
+                "Cheren: It seems the Professor\n",
+                "gave us the Pokédex as a reason{VAR BE00}\n",
+                "to send us on a journey.{VAR BE01}\n",
+                "At least, that's what my mom told me.{VAR BE01}\n",
+                "They wanted us to go out and see the\n",
+                "world, so my mom, Bianca's mom, and your{VAR BE00}\n",
+                "mom made a request to Professor Juniper.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0009",
+            "en_US": [
+                "{VAR 0100 0000}, what should we do now?{VAR BE01}\n",
+                "I think I'd like to show the professor my\n",
+                "thanks by going to Route 4 and catching{VAR BE00}\n",
+                "some Pokémon I haven't yet caught.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_095_0010",
+            "en_US": [
+                "If you've come from Route 4,\n",
+                "Nimbasa City is ahead.{VAR BE01}\n",
+                "Next! If you've come from Nimbasa City,\n",
+                "Route 4 is ahead!"
+            ]
+        },
+        {
+            "id": "a003_095_0011",
+            "en_US": [
+                "Look at the electric bulletin board to\n",
+                "see what's happening in Nimbasa City!"
+            ]
+        }
+    ]
+}

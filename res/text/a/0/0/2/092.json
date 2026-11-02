@@ -1,0 +1,61 @@
+{
+    "flags": 120,
+    "messages": [
+        {
+            "id": "a002_092_0000",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0001",
+            "en_US": "Link Trade"
+        },
+        {
+            "id": "a002_092_0002",
+            "en_US": "Link Trade"
+        },
+        {
+            "id": "a002_092_0003",
+            "en_US": "Kanto"
+        },
+        {
+            "id": "a002_092_0004",
+            "en_US": "Johto"
+        },
+        {
+            "id": "a002_092_0005",
+            "en_US": "Hoenn"
+        },
+        {
+            "id": "a002_092_0006",
+            "en_US": "Sinnoh"
+        },
+        {
+            "id": "a002_092_0007",
+            "en_US": "Distant Land"
+        },
+        {
+            "id": "a002_092_0008",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0009",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0010",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0011",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0012",
+            "en_US": "{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}{FF0D}"
+        },
+        {
+            "id": "a002_092_0013",
+            "en_US": "Entralink"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_065_0000",
+            "en_US": "Do you want to go up?"
+        },
+        {
+            "id": "a003_065_0001",
+            "en_US": [
+                "I need to check you.{VAR BE01}\n",
+                "Frisk, frisk...\n",
+                "Frisk, frisk... And one more frisk...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_065_0002",
+            "en_US": [
+                "You don't seem to have\n",
+                "anything suspicious.{VAR BE01}\n",
+                "OK! You can go.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_065_0003",
+            "en_US": "OK! You can go."
+        },
+        {
+            "id": "a003_065_0004",
+            "en_US": "...OK. That's fine, then."
+        },
+        {
+            "id": "a003_065_0005",
+            "en_US": "...OK. That's fine, then.{VAR BE01}"
+        },
+        {
+            "id": "a003_065_0006",
+            "en_US": [
+                "I'm invited to a party, but the person\n",
+                "in front of the elevator wants{VAR BE00}\n",
+                "to pat me down.{VAR BE01}\n",
+                "Or is it just my imagination?"
+            ]
+        },
+        {
+            "id": "a003_065_0007",
+            "en_US": [
+                "I talked with a lot of people upstairs.\n",
+                "It was fun!"
+            ]
+        },
+        {
+            "id": "a003_065_0008",
+            "en_US": [
+                "Where are you from?{VAR BE01}\n",
+                "Really? You're from Nuvema Town?\n",
+                "It's a great place!"
+            ]
+        }
+    ]
+}

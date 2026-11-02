@@ -1,0 +1,68 @@
+{
+    "flags": 224,
+    "pad": "1414",
+    "messages": [
+        {
+            "id": "a003_208_0000",
+            "en_US": "Cheren: Oh... {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_208_0001",
+            "en_US": [
+                "Clay: What a surprise. Seein' ya here\n",
+                "while I was inspectin' Twist Mountain.{VAR BE01}\n",
+                "Th' two of ya seem a bit more rugged\n",
+                "than the last time I saw ya.{VAR BE01}\n",
+                "A li'l bit, anyway...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_208_0002",
+            "en_US": "Cheren: Is that so.{VAR BE01}"
+        },
+        {
+            "id": "a003_208_0003",
+            "en_US": [
+                "Clay: By th' by... You folks seen that\n",
+                "Team Plasma crowd lately?{VAR BE01}\n",
+                "After all the trouble, we Gym Leaders\n",
+                "met up and had a chat.{VAR BE01}\n",
+                "But we've got no clue where they are.\n",
+                "It's like they're hidin' under a rock.{VAR BE01}\n",
+                "Well, not much to do but wait for 'em\n",
+                "to move.{VAR BE01}\n",
+                "Anyhow, this's none o' yer concern.{VAR BE01}\n",
+                "Squirts like the two of ya should just\n",
+                "enjoy travelin' with yer Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_208_0004",
+            "en_US": [
+                "Twist Mountain's a fine place\n",
+                "to explore!{VAR BE01}\n",
+                "You'll have some fun if you just leave\n",
+                "this here path...{VAR BE01}\n",
+                "Weeell... Better ya just see it yerself,\n",
+                "'stead o' listenin' to me yammer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_208_0005",
+            "en_US": [
+                "Be seein' ya, sprouts!{VAR BE01}\n",
+                "Feel free to train yerselves on my\n",
+                "mountain fer as long's ya like.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_208_0006",
+            "en_US": [
+                "Cheren: I thought he was going to get us\n",
+                "involved in all that bother again, so I{VAR BE00}\n",
+                "was bracing myself before I knew it.{VAR BE01}\n",
+                "I'm going in first, but I'll be seeing you.{VAR BE01}"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "pad": "3a3a",
+    "messages": [
+        {
+            "id": "a003_133_0000",
+            "en_US": [
+                "This is just between you and me, OK?\n",
+                "I used to be part of Team Plasma.{VAR BE01}\n",
+                "But it's strange when everyone around\n",
+                "you thinks the same way, isn't it?{VAR BE01}\n",
+                "So I left Team Plasma to think for myself\n",
+                "about what I want to do.{VAR BE01}\n",
+                "Don't tell this story to the guy on the\n",
+                "opposite side."
+            ]
+        },
+        {
+            "id": "a003_133_0001",
+            "en_US": [
+                "This is just between you and me, OK?\n",
+                "I'm really not very good as a Trainer.{VAR BE01}\n",
+                "So I think Team Plasma might have the\n",
+                "right idea when they take Pokémon away{VAR BE00}\n",
+                "from weak Trainers.{VAR BE01}\n",
+                "I do feel sorry for the people who were\n",
+                "robbed, though.{VAR BE01}\n",
+                "Don't tell this story to the guy on the\n",
+                "opposite side."
+            ]
+        }
+    ]
+}

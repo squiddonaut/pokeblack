@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "pad": "d6d6",
+    "messages": [
+        {
+            "id": "a003_409_0000",
+            "en_US": [
+                "It is the Great Landorus that protects\n",
+                "this land.{VAR BE01}\n",
+                "With its help, we are assured of rich soil\n",
+                "and a prosperous harvest.{VAR BE01}\n",
+                "You should visit Great Landorus's little\n",
+                "shrine and pay your respects."
+            ]
+        },
+        {
+            "id": "a003_409_0001",
+            "en_US": [
+                "Tornadus brings howling windstorms.\n",
+                "Thundurus pelts us with lightning.{VAR BE01}\n",
+                "When these two are together in the same\n",
+                "place, Great Landorus will come again."
+            ]
+        },
+        {
+            "id": "a003_409_0002",
+            "en_US": [
+                "People and Pokémon should work together\n",
+                "to protect this bounteous land."
+            ]
+        }
+    ]
+}

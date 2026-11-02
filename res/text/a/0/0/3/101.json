@@ -1,0 +1,543 @@
+{
+    "flags": 224,
+    "pad": "8a8a",
+    "messages": [
+        {
+            "id": "a003_101_0000",
+            "en_US": [
+                "Hrmph! So yer the Trainers Elesa was\n",
+                "talkin' about, huh.{VAR BE01}\n",
+                "I'm Clay. I'm the Gym Leader 'round\n",
+                "these parts.{VAR BE01}\n",
+                "Don't be expectin' no welcome, now.{VAR BE01}\n",
+                "'Cause when we lowered that bridge,\n",
+                "the Team Plasma guys we'd caught{VAR BE00}\n",
+                "done escaped in all the ruckus!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0001",
+            "en_US": [
+                "Cheren: What a bother.{VAR BE01}\n",
+                "We're grateful that you lowered the\n",
+                "bridge, but how is it our fault that{VAR BE00}\n",
+                "they escaped?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0002",
+            "en_US": [
+                "Clay: Ya can say whatever ya want.{VAR BE01}\n",
+                "But what's important is y'all showed up,\n",
+                "and then Team Plasma escaped.{VAR BE01}\n",
+                "Maybe it's a little heavy-handed, but\n",
+                "you oughtta start lookin' for{VAR BE00}\n",
+                "Team Plasma, too.{VAR BE01}\n",
+                "Yer both talented Trainers, aren't ya?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0003",
+            "en_US": [
+                "Tell ya what...{VAR BE01}\n",
+                "If ya find Team Plasma, I'll let ya\n",
+                "challenge my Gym!{VAR BE01}\n",
+                "Life's all about give and take!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0004",
+            "en_US": [
+                "Cheren: Well, I suppose that's fair.{VAR BE01}\n",
+                "But really, we would have looked\n",
+                "for Team Plasma even if he hadn't asked.{VAR BE01}\n",
+                "I can get stronger while beating that\n",
+                "bothersome bunch...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0005",
+            "en_US": [
+                "{VAR 0100 0000}!\n",
+                "I'll go on ahead.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0006",
+            "en_US": [
+                "Ghetsis: Clay.\n",
+                "It's a pleasure to meet you.{VAR BE01}\n",
+                "I am Ghetsis, of Team Plasma.{VAR BE01}\n",
+                "I've come to pick up my associates\n",
+                "who are in your care.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0007",
+            "en_US": [
+                "Clay: I don't need no thanks, now.{VAR BE01}\n",
+                "Yer buddies were tryin' to steal\n",
+                "some folks' Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0008",
+            "en_US": [
+                "Ghetsis: What's this? It seems as if\n",
+                "there has been some misunderstanding.{VAR BE01}\n",
+                "We only free Pokémon from wicked people.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0009",
+            "en_US": [
+                "Clay: Well, that sounds real nice,\n",
+                "if it's true.{VAR BE01}\n",
+                "I may not talk purty, but at least\n",
+                "I'm an honest man.{VAR BE01}\n",
+                "You talk real nice, but what yer sayin'\n",
+                "kinda sounds like lyin'.{VAR BE01}\n",
+                "So tell me plain, what are ya tryin'\n",
+                "to say?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0010",
+            "en_US": [
+                "Ghetsis: Team Plasma also has an interest\n",
+                "in Driftveil City.{VAR BE01}\n",
+                "And we have many, many more members\n",
+                "besides those who are here...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0011",
+            "en_US": [
+                "Clay: ...Well, I can't tell if yer lyin' or\n",
+                "not, but I reckon you've won this{VAR BE00}\n",
+                "without a fight.{VAR BE01}\n",
+                "Hrrmph. Fine. Take 'em and git!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0012",
+            "en_US": [
+                "Ghetsis: A decision worthy of a\n",
+                "businessman called the Miner King.{VAR BE01}\n",
+                "Your grasp of the situation\n",
+                "is outstanding.{VAR BE01}\n",
+                "Well then, we will be taking\n",
+                "our colleagues off your hands...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0013",
+            "en_US": [
+                "Zinzolin: Ghetsis...\n",
+                "Thank you very much...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0014",
+            "en_US": [
+                "Ghetsis: Don't worry, my fellow servant\n",
+                "of the king...{VAR BE01}\n",
+                "We are two of the Seven Sages,\n",
+                "are we not?{VAR BE01}\n",
+                "Well then, everyone, I expect that we\n",
+                "will meet again somewhere.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0015",
+            "en_US": [
+                "Clay: Sorry to let Team Plasma go after\n",
+                "you tracked 'em down, fellas.{VAR BE01}\n",
+                "Say, why don't we cheer ourselves up\n",
+                "with a Pokémon battle?{VAR BE01}\n",
+                "Don't keep me waitin'!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0016",
+            "en_US": [
+                "Cheren: Well, we avoided a fight in\n",
+                "the middle of the city, anyway.{VAR BE01}\n",
+                "Still, I can't help but think Ghetsis isn't\n",
+                "just an ordinary person.{VAR BE01}\n",
+                "I'm off to go make my Pokémon stronger.{VAR BE01}\n",
+                "I really don't want to lose\n",
+                "to that Clay guy.{VAR BE01}\n",
+                "Actually, I'm going to win my\n",
+                "Gym Badge in a flawless victory!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_101_0018",
+            "en_US": [
+                "Our Gym Leader, Clay, is in the\n",
+                "middle of something right now.{VAR BE00}\n",
+                "Please come again later."
+            ]
+        },
+        {
+            "id": "a003_101_0019",
+            "en_US": "Bianca: Oh, hi, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_101_0020",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}!!\n",
+                "Guess what, guess what?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0021",
+            "en_US": [
+                "Hey, were you at the Gym just now?{VAR BE01}\n",
+                "Oh, hey! That's Driftveil's Gym Badge!\n",
+                "Oh, that's totally cool. That's amazing.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0022",
+            "en_US": [
+                "No, no, no! I can't get distracted being\n",
+                "all impressed with your shiny new Badge!{VAR BE01}\n",
+                "I'm also a Trainer!\n",
+                "At times like this you battle, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0023",
+            "en_US": [
+                "Bianca: I haven't had a Pokémon battle\n",
+                "with you in a while, {VAR 0100 0000}.{VAR BE01}\n",
+                "You've become totally strong, huh?{VAR BE01}\n",
+                "I'm not that strong, so I don't know\n",
+                "how to say it, but I think you're way{VAR BE00}\n",
+                "tuned in to how your Pokémon feel!{VAR BE01}\n",
+                "Oh, you know what! I want to share this\n",
+                "HM with you, {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0024",
+            "en_US": [
+                "Bianca: My papa gave it to me after\n",
+                "he tried to take me home that time.{VAR BE01}\n",
+                "I'm sure it's so I can come home anytime\n",
+                "he wants, though...{VAR BE01}\n",
+                "Oh, hey, I have to share this with\n",
+                "Cheren, too...{VAR BE01}\n",
+                "See you, {VAR 0100 0000}! Buh-bye!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0025",
+            "en_US": [
+                "So how about this city's pride and joy,\n",
+                "the drawbridge?{VAR BE01}\n",
+                "We also call it the Charizard Bridge\n",
+                "due to its elegant form!"
+            ]
+        },
+        {
+            "id": "a003_101_0026",
+            "en_US": [
+                "Hey there, Trainer!{VAR BE01}\n",
+                "Have you ever battled the Elite Four\n",
+                "of the Pokémon League?{VAR BE01}\n",
+                "You can't battle them unless you\n",
+                "have eight Gym Badges, right?"
+            ]
+        },
+        {
+            "id": "a003_101_0027",
+            "en_US": [
+                "Oh, ocean...{VAR BE01}\n",
+                "I wonder if the tears I've cried\n",
+                "will flow all the way to Olivine City."
+            ]
+        },
+        {
+            "id": "a003_101_0028",
+            "en_US": [
+                "Those Team Plasma meanies forced me\n",
+                "to battle them.{VAR BE01}\n",
+                "And when I lost, they stole my Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_101_0029",
+            "en_US": [
+                "When I win, it's because of my Pokémon.\n",
+                "When I lose, it's because of me.{VAR BE01}\n",
+                "That's how I always think. If you get\n",
+                "conceited, you get sloppy fast."
+            ]
+        },
+        {
+            "id": "a003_101_0030",
+            "en_US": [
+                "The reason I'm hangin' around is\n",
+                "because I want to hang around!{VAR BE01}\n",
+                "Aww! If my Pokémon just knew the move\n",
+                "Surf, I could go on top of the water!"
+            ]
+        },
+        {
+            "id": "a003_101_0031",
+            "en_US": [
+                "Some kids are catching and training\n",
+                "Pokémon close to the Cold Storage."
+            ]
+        },
+        {
+            "id": "a003_101_0032",
+            "en_US": [
+                "The Pokémon of lightning and the Pokémon\n",
+                "of wind are both known to come and go{VAR BE00}\n",
+                "as they please."
+            ]
+        },
+        {
+            "id": "a003_101_0033",
+            "en_US": [
+                "On the other side of the ocean, there\n",
+                "are a lot of different people and a lot of{VAR BE00}\n",
+                "different Pokémon, aren't there?"
+            ]
+        },
+        {
+            "id": "a003_101_0034",
+            "en_US": [
+                "The old guy on Route 6 is searching for\n",
+                "legendary Pokémon.{VAR BE01}\n",
+                "If you're interested, go talk to him!"
+            ]
+        },
+        {
+            "id": "a003_101_0035",
+            "en_US": [
+                "Bridges are amazing. 'Cause they are a\n",
+                "symbol of connecting the world.{VAR BE01}\n",
+                "But the guy on Route 5 is saying the\n",
+                "same thing, isn't he?"
+            ]
+        },
+        {
+            "id": "a003_101_0036",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I wanted to get the attention of a girl\n",
+                "I like, so I learned a new style of{VAR BE00}\n",
+                "Pokémon battling.{VAR BE01}\n",
+                "Its name... Triple Battle!\n",
+                "Want to learn about it?"
+            ]
+        },
+        {
+            "id": "a003_101_0037",
+            "en_US": [
+                "Oh, man! Getting someone's attention is\n",
+                "really hard."
+            ]
+        },
+        {
+            "id": "a003_101_0038",
+            "en_US": [
+                "In Triple Battles, you send out three\n",
+                "Pokémon at a time and battle!{VAR BE01}\n",
+                "The rules are simple: just make all of\n",
+                "your opponent's Pokémon faint.{VAR BE01}\n",
+                "And that's a rough explanation\n",
+                "of Triple Battles.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0039",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "Hey! If you're a Trainer, how about a\n",
+                "Triple Battle?"
+            ]
+        },
+        {
+            "id": "a003_101_0040",
+            "en_US": [
+                "You've got a good attitude, don't you!{VAR BE01}\n",
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I'm always at full throttle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0041",
+            "en_US": [
+                "I hate to burst your bubble when you're\n",
+                "all fired up, but...{VAR BE01}\n",
+                "In Triple Battles, you need three or\n",
+                "more Pokémon to battle."
+            ]
+        },
+        {
+            "id": "a003_101_0042",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I have some advice for you.\n",
+                "Challenge is the essence of life!"
+            ]
+        },
+        {
+            "id": "a003_101_0043",
+            "en_US": [
+                "Sheesh. That's embarrassing. Getting\n",
+                "schooled when I was planning to teach.{VAR BE01}\n",
+                "Still, you have potential!{VAR BE01}\n",
+                "You have to understand your Pokémon\n",
+                "to win in a Triple Battle.{VAR BE01}\n",
+                "If you want more Triple Battles, you\n",
+                "should go to Opelucid City."
+            ]
+        },
+        {
+            "id": "a003_101_0044",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "Riding a bike and becoming the wind fits\n",
+                "a bad boy like me."
+            ]
+        },
+        {
+            "id": "a003_101_0045",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I wanted to get the attention of a girl\n",
+                "I like, so I learned a new style of{VAR BE00}\n",
+                "Pokémon battling.{VAR BE01}\n",
+                "Its name... Rotation Battle!\n",
+                "Want to learn about it?"
+            ]
+        },
+        {
+            "id": "a003_101_0046",
+            "en_US": [
+                "Oh, man! Getting someone's attention is\n",
+                "really hard."
+            ]
+        },
+        {
+            "id": "a003_101_0047",
+            "en_US": [
+                "In Rotation Battles, you send out three\n",
+                "Pokémon at a time and battle!{VAR BE01}\n",
+                "One Pokémon takes the lead position,\n",
+                "and the other two stand on each side.{VAR BE01}\n",
+                "The trick is, each turn you can change\n",
+                "their positions...{VAR BE01}\n",
+                "And that's a rough explanation\n",
+                "of Rotation Battles.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0048",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "Hey! If you're a Trainer, how about a\n",
+                "Rotation Battle?"
+            ]
+        },
+        {
+            "id": "a003_101_0049",
+            "en_US": [
+                "You've got a good attitude, don't you!{VAR BE01}\n",
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I'm always at full throttle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_101_0050",
+            "en_US": [
+                "I hate to burst your bubble when you're\n",
+                "all fired up, but...{VAR BE01}\n",
+                "In Rotation Battles, you need three or\n",
+                "more Pokémon to battle."
+            ]
+        },
+        {
+            "id": "a003_101_0051",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "I have some advice for you.{VAR BE01}\n",
+                "Challenge is the essence of life!"
+            ]
+        },
+        {
+            "id": "a003_101_0052",
+            "en_US": [
+                "Sheesh. That's embarrassing. Getting\n",
+                "schooled when I was planning to teach.{VAR BE01}\n",
+                "Still, you have potential!{VAR BE01}\n",
+                "You have to understand your Pokémon\n",
+                "to win in a Rotation Battle.{VAR BE01}\n",
+                "If you want to have more\n",
+                "Rotation Battles, go to Opelucid City."
+            ]
+        },
+        {
+            "id": "a003_101_0053",
+            "en_US": [
+                "I'm a heartbreaker...\n",
+                "My name... Charles.{VAR BE01}\n",
+                "Riding a bike and becoming the wind fits a\n",
+                "bad boy like me."
+            ]
+        },
+        {
+            "id": "a003_101_0054",
+            "en_US": "Driftveil Drawbridge",
+            "flags": 207
+        },
+        {
+            "id": "a003_101_0055",
+            "en_US": "Welcome to Driftveil City!",
+            "flags": 207
+        },
+        {
+            "id": "a003_101_0056",
+            "en_US": [
+                "Driftveil City\n",
+                "A City of Billowing Sails"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_101_0057",
+            "en_US": "Driftveil Market",
+            "flags": 207
+        },
+        {
+            "id": "a003_101_0058",
+            "en_US": [
+                "Driftveil City Pokémon Gym\n",
+                "Leader: Clay{VAR BE00}\n",
+                "The Underground Boss"
+            ],
+            "flags": 207
+        }
+    ]
+}

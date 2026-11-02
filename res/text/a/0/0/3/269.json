@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "pad": "ecec",
+    "messages": [
+        {
+            "id": "a003_269_0000",
+            "en_US": [
+                "Sometimes, above the bridge, you can\n",
+                "see the shadows of bird Pokémon, right?{VAR BE01}\n",
+                "Their feathers drift to the ground here!{VAR BE01}\n",
+                "And when you try to pick them up,\n",
+                "occasionally, you'll run into a Pokémon."
+            ]
+        },
+        {
+            "id": "a003_269_0001",
+            "en_US": [
+                "When a ship passes, the bridge raises\n",
+                "and lowers.{VAR BE01}\n",
+                "But Clay controls when the ships run\n",
+                "from the start, so when the bridge{VAR BE00}\n",
+                "raises and lowers is up to Clay."
+            ]
+        },
+        {
+            "id": "a003_269_0002",
+            "en_US": [
+                "When Driftveil is mentioned, what comes\n",
+                "to mind is the Cold Storage...{VAR BE00}\n",
+                "and Charles!"
+            ]
+        }
+    ]
+}

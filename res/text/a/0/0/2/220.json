@@ -1,0 +1,98 @@
+{
+    "flags": 192,
+    "pad": "f4f4",
+    "messages": [
+        {
+            "id": "a002_220_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_220_0001",
+            "en_US": "Aquitaine"
+        },
+        {
+            "id": "a002_220_0002",
+            "en_US": "Alsace"
+        },
+        {
+            "id": "a002_220_0003",
+            "en_US": "Île-de-France"
+        },
+        {
+            "id": "a002_220_0004",
+            "en_US": "Auvergne"
+        },
+        {
+            "id": "a002_220_0005",
+            "en_US": "Corse"
+        },
+        {
+            "id": "a002_220_0006",
+            "en_US": "Champagne-Ardenne"
+        },
+        {
+            "id": "a002_220_0007",
+            "en_US": "Nord-Pas-de-Calais"
+        },
+        {
+            "id": "a002_220_0008",
+            "en_US": "Lower Normandy"
+        },
+        {
+            "id": "a002_220_0009",
+            "en_US": "Upper Normandy"
+        },
+        {
+            "id": "a002_220_0010",
+            "en_US": "Picardy"
+        },
+        {
+            "id": "a002_220_0011",
+            "en_US": "Franche-Comté"
+        },
+        {
+            "id": "a002_220_0012",
+            "en_US": "Burgundy"
+        },
+        {
+            "id": "a002_220_0013",
+            "en_US": "Brittany"
+        },
+        {
+            "id": "a002_220_0014",
+            "en_US": "Provence-Alpes-Côte d'Azur"
+        },
+        {
+            "id": "a002_220_0015",
+            "en_US": "Pays-de-la-Loire"
+        },
+        {
+            "id": "a002_220_0016",
+            "en_US": "Poitou-Charentes"
+        },
+        {
+            "id": "a002_220_0017",
+            "en_US": "Midi-Pyrenees"
+        },
+        {
+            "id": "a002_220_0018",
+            "en_US": "Languedoc-Roussillon"
+        },
+        {
+            "id": "a002_220_0019",
+            "en_US": "Limousin"
+        },
+        {
+            "id": "a002_220_0020",
+            "en_US": "Rhône-Alpes"
+        },
+        {
+            "id": "a002_220_0021",
+            "en_US": "Lorraine"
+        },
+        {
+            "id": "a002_220_0022",
+            "en_US": "Centre"
+        }
+    ]
+}

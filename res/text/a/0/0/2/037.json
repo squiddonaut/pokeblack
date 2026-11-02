@@ -1,0 +1,34 @@
+{
+    "flags": 0,
+    "pad": "f2f2",
+    "messages": [
+        {
+            "id": "a002_037_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a002_037_0001",
+            "en_US": ""
+        },
+        {
+            "id": "a002_037_0002",
+            "en_US": [
+                "{VAR 0100 0001} scurried to\n",
+                "a Pokémon Center, protecting\n",
+                "the exhausted and fainted\n",
+                "Pokémon from further harm..."
+            ],
+            "flags": 210
+        },
+        {
+            "id": "a002_037_0003",
+            "en_US": [
+                "{VAR 0100 0001} scurried back\n",
+                "home, protecting the exhausted\n",
+                "and fainted Pokémon \n",
+                "from further harm..."
+            ],
+            "flags": 210
+        }
+    ]
+}

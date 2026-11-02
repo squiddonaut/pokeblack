@@ -1,0 +1,138 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_064_0000",
+            "en_US": [
+                "Me oh my, the Badges you can get in the\n",
+                "Unova region! Want to hear about them?"
+            ]
+        },
+        {
+            "id": "a003_064_0001",
+            "en_US": [
+                "Okey dokey. If you want to know\n",
+                "about them, please come back."
+            ]
+        },
+        {
+            "id": "a003_064_0002",
+            "en_US": [
+                "With the Trio Badge, Pokémon up to Lv. 20\n",
+                "will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0003",
+            "en_US": [
+                "With the Basic Badge, Pokémon up to\n",
+                "Lv. 30 will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0004",
+            "en_US": [
+                "With the Insect Badge, Pokémon up to\n",
+                "Lv. 40 will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0005",
+            "en_US": [
+                "With the Bolt Badge, Pokémon up to Lv. 50\n",
+                "will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0006",
+            "en_US": [
+                "With the Quake Badge, Pokémon up to\n",
+                "Lv. 60 will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0007",
+            "en_US": [
+                "With the Jet Badge, Pokémon up to Lv. 70\n",
+                "will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0008",
+            "en_US": [
+                "With the Freeze Badge, Pokémon up to\n",
+                "Lv. 80 will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0009",
+            "en_US": [
+                "With the Legend Badge, all Pokémon\n",
+                "will obey you without question.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_064_0010",
+            "en_US": "Which Badge do you want to know about?"
+        },
+        {
+            "id": "a003_064_0011",
+            "en_US": "Trio Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0012",
+            "en_US": "Basic Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0013",
+            "en_US": "Insect Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0014",
+            "en_US": "Bolt Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0015",
+            "en_US": "Quake Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0016",
+            "en_US": "Jet Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0017",
+            "en_US": "Freeze Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0018",
+            "en_US": "Legend Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0019",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_064_0020",
+            "en_US": [
+                "When I gaze down at the city from a\n",
+                "tall building, I tremble.{VAR BE01}\n",
+                "Because...\n",
+                "I-I-I'm scared of heights..."
+            ]
+        },
+        {
+            "id": "a003_064_0021",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

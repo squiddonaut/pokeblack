@@ -1,0 +1,230 @@
+{
+    "flags": 195,
+    "pad": "8080",
+    "messages": [
+        {
+            "id": "a002_071_0000",
+            "en_US": [
+                "Loading...\n",
+                "Please wait a moment."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_071_0001",
+            "en_US": [
+                "No compatible Game Card is inserted.\n",
+                "Please turn off the power and\n",
+                "insert a compatible Game Card\n",
+                "before you retry Poké Transfer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0002",
+            "en_US": [
+                "Activating Poké Transfer...\n",
+                "Please stand by."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_071_0003",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_071_0004",
+            "en_US": "The game has been saved.{VAR BE02 003C}"
+        },
+        {
+            "id": "a002_071_0005",
+            "en_US": [
+                "Would you like to use\n",
+                "Poké Transfer again?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0006",
+            "en_US": [
+                "Poké Transfer will close.\n",
+                "Please turn off the power."
+            ]
+        },
+        {
+            "id": "a002_071_0007",
+            "en_US": [
+                "There is not enough room\n",
+                "left in the PC in the other\n",
+                "DS system.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0008",
+            "en_US": [
+                "There aren't six Pokémon in the PC\n",
+                "Boxes for Poké Transfer to catch.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0009",
+            "en_US": [
+                "The saved data\n",
+                "could not be accessed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0010",
+            "en_US": [
+                "Unable to connect\n",
+                "to the other DS system.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0011",
+            "en_US": "Save failed...{VAR BE01}"
+        },
+        {
+            "id": "a002_071_0012",
+            "en_US": [
+                "Pokémon CANNOT be returned\n",
+                "once they transfer.{VAR BE00}\n",
+                "Transfer these Pokémon?"
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_071_0013",
+            "en_US": [
+                "Pokémon were sent back\n",
+                "where they came from.{VAR BE01}"
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_071_0014",
+            "en_US": [
+                "Error reading the save file.\n",
+                "There may not be a save file,\n",
+                "or the save file may be corrupted.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0015",
+            "en_US": [
+                "No compatible Game Card is inserted.\n",
+                "Please turn off the power and\n",
+                "insert a compatible Game Card\n",
+                "before you retry Poké Transfer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_071_0016",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_071_0017",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_071_0018",
+            "en_US": "Lv. {VAR 0202 0000}",
+            "flags": 72
+        },
+        {
+            "id": "a002_071_0019",
+            "en_US": [
+                "An Egg cannot be caught\n",
+                "with Poké Transfer!"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0020",
+            "en_US": [
+                "This Pokémon knows a hidden move.\n",
+                "It cannot be caught with Poké Transfer."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0021",
+            "en_US": [
+                "This Pokémon cannot be\n",
+                "caught with Poké Transfer."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0022",
+            "en_US": "The six chosen Pokémon will be transferred.",
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0023",
+            "en_US": [
+                "Oh! This Pichu needs to stay where it is.{VAR BE01}\n",
+                "It appears to have traveled\n",
+                "through time.{VAR BE01}\n",
+                "It has been affected by traveling\n",
+                "so far through time with Celebi.{VAR BE01}\n",
+                "It'll be very risky to transfer it,\n",
+                "so it's best for Pichu to stay where it is."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_071_0024",
+            "en_US": [
+                "Held items will be put\n",
+                "in the Bag. Is that OK?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0025",
+            "en_US": [
+                "When the Bag is full of a certain item, you'll\n",
+                "lose held items of that kind. Is that OK?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0026",
+            "en_US": "Would you like to end Poké Transfer?",
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0027",
+            "en_US": [
+                "Please choose the six Pokémon\n",
+                "to transfer and slide them\n",
+                "to the frame to the right."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_071_0028",
+            "en_US": [
+                "Catch all the Pokémon\n",
+                "before time runs out!"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_071_0029",
+            "en_US": [
+                "デバッグROM\n",
+                "DP　Y\n",
+                "PT　X\n",
+                "GS　A"
+            ],
+            "flags": 0
+        }
+    ]
+}

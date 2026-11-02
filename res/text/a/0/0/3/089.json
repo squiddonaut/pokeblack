@@ -1,0 +1,98 @@
+{
+    "flags": 224,
+    "pad": "1414",
+    "messages": [
+        {
+            "id": "a003_089_0000",
+            "en_US": [
+                "There is a tennis match\n",
+                "in Small Court now!"
+            ]
+        },
+        {
+            "id": "a003_089_0001",
+            "en_US": [
+                "Tennis players are practicing \n",
+                "in Small Court now!{VAR BE01}\n",
+                "People can watch them practicing!"
+            ]
+        },
+        {
+            "id": "a003_089_0002",
+            "en_US": [
+                "There is a basketball game\n",
+                "in Small Court now!"
+            ]
+        },
+        {
+            "id": "a003_089_0003",
+            "en_US": [
+                "Basketball players are practicing \n",
+                "in Small Court now!{VAR BE01}\n",
+                "People can watch them practicing!"
+            ]
+        },
+        {
+            "id": "a003_089_0004",
+            "en_US": [
+                "We love sports.\n",
+                "Watching games is great, but we enjoy{VAR BE00}\n",
+                "watching practices, too!"
+            ]
+        },
+        {
+            "id": "a003_089_0005",
+            "en_US": [
+                "New styles of basketball and tennis\n",
+                "created by people and Pokémon...{VAR BE00}\n",
+                "These may be advanced forms of sports."
+            ]
+        },
+        {
+            "id": "a003_089_0006",
+            "en_US": [
+                "If you speak to athletes during a\n",
+                "practice, they may challenge you to a{VAR BE00}\n",
+                "Pokémon battle!"
+            ]
+        },
+        {
+            "id": "a003_089_0007",
+            "en_US": [
+                "First-rank Smashers are waiting for you\n",
+                "in the court with their Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_089_0008",
+            "en_US": [
+                "First-rank Hoopsters are waiting for you\n",
+                "in the court with their Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_089_0009",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot enter the court\n",
+                "because a game is in progress."
+            ]
+        },
+        {
+            "id": "a003_089_0010",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot enter the court\n",
+                "because a game is in progress."
+            ]
+        },
+        {
+            "id": "a003_089_0011",
+            "en_US": [
+                "I am sorry.{VAR BE01}\n",
+                "But you cannot enter the court\n",
+                "because a game is in progress."
+            ]
+        }
+    ]
+}

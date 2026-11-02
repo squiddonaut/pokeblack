@@ -1,0 +1,20 @@
+{
+    "flags": 229,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a002_196_0000",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "{VAR 0100 0000}!!{VAR BE01}\n",
+                "Hello?\n",
+                "{VAR 0100 0000}!!{VAR BE01}\n",
+                "Oh! You picked up!\n",
+                "Hey, {VAR 0100 0000}.{VAR BE01}\n",
+                "Come to the museum in Nacrene City\n",
+                "immediately! Right away, got it?{VAR BE01}\n",
+                "I mean right now!{VAR BE01}"
+            ]
+        }
+    ]
+}

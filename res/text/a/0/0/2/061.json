@@ -1,0 +1,43 @@
+{
+    "flags": 0,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a002_061_0000",
+            "en_US": "VIEW CATEGORIES",
+            "flags": 222
+        },
+        {
+            "id": "a002_061_0001",
+            "en_US": "SHOW ALL",
+            "flags": 222
+        },
+        {
+            "id": "a002_061_0002",
+            "en_US": "Please select a category.",
+            "flags": 208
+        },
+        {
+            "id": "a002_061_0003",
+            "en_US": "Please select what you want to read.",
+            "flags": 208
+        },
+        {
+            "id": "a002_061_0004",
+            "en_US": "{VAR 0200 0000}/{VAR 0200 0001}",
+            "flags": 23
+        },
+        {
+            "id": "a002_061_0005",
+            "en_US": ""
+        },
+        {
+            "id": "a002_061_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a002_061_0007",
+            "en_US": ""
+        }
+    ]
+}

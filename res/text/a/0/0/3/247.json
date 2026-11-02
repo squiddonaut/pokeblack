@@ -1,0 +1,142 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_247_0000",
+            "en_US": "Oh, it's just a kid...{VAR BE01}"
+        },
+        {
+            "id": "a003_247_0001",
+            "en_US": [
+                "You... It couldn't be...{VAR BE01}\n",
+                "The fact that you are here means you\n",
+                "came to learn about the secret{VAR BE00}\n",
+                "of Genesect!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0002",
+            "en_US": [
+                "We, Team Plasma, revived Genesect from\n",
+                "a Fossil.{VAR BE01}\n",
+                "Then we enhanced the Pokémon with the\n",
+                "power of science!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0003",
+            "en_US": "It is the strongest Pokémon in history!!{VAR BE01}"
+        },
+        {
+            "id": "a003_247_0004",
+            "en_US": [
+                "But, our lord N was not interested in\n",
+                "this Genesect that was modified by the{VAR BE00}\n",
+                "power of science!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0005",
+            "en_US": [
+                "“Science damages the natural beauty\n",
+                "of Pokémon! They're perfect beings!\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0006",
+            "en_US": [
+                "That's what he said...{VAR BE01}\n",
+                "So our research was halted, and this\n",
+                "facility was closed...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0007",
+            "en_US": [
+                "However!!\n",
+                "The Genesect research is all mine!{VAR BE01}\n",
+                "So if you want to know Genesect's\n",
+                "secret, you'll have to beat me in battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0008",
+            "en_US": "Battle the Scientist?"
+        },
+        {
+            "id": "a003_247_0009",
+            "en_US": [
+                "I've lost everything...{VAR BE01}\n",
+                "I forgot my duty as a Scientist is\n",
+                "to make the world happy.{VAR BE01}\n",
+                "So, this must be what I get for trying to\n",
+                "make a Pokémon into a tool for fighting...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0010",
+            "en_US": [
+                "I'm going to wash my hands of this\n",
+                "Genesect matter...{VAR BE01}\n",
+                "I don't need this anymore...\n",
+                "I'll give it to you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0011",
+            "en_US": [
+                "There was another one in my\n",
+                "other pocket...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0012",
+            "en_US": [
+                "The item I just gave you was made\n",
+                "for Genesect.{VAR BE01}\n",
+                "When it holds an item like this, it\n",
+                "changes the type of the move called{VAR BE00}\n",
+                "Techno Blast, so it can always have{VAR BE00}\n",
+                "an advantage.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_247_0013",
+            "en_US": [
+                "There sure are some very cowardly\n",
+                "Trainers, aren't there!"
+            ]
+        },
+        {
+            "id": "a003_247_0014",
+            "en_US": "So you want to battle me?!"
+        },
+        {
+            "id": "a003_247_0015",
+            "en_US": [
+                "I've given you all of the Drives.\n",
+                "Use them how you wish..."
+            ]
+        },
+        {
+            "id": "a003_247_0016",
+            "en_US": [
+                "There is a memo stuck to the\n",
+                "side of the monitor.{VAR BE01}\n",
+                "Read it?"
+            ]
+        },
+        {
+            "id": "a003_247_0017",
+            "en_US": [
+                "My lord N apparently rejected\n",
+                "my research...{VAR BE01}\n",
+                "But my research is necessary for\n",
+                "Team Plasma to reach its goal...{VAR BE00}\n",
+                "The strongest Pokémon...{VAR BE01}\n",
+                "The rest of the memo is torn and\n",
+                "impossible to read."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "flags": 224,
+    "pad": "8484",
+    "messages": [
+        {
+            "id": "a003_424_0000",
+            "en_US": [
+                "Welcome!\n",
+                "May I help you?"
+            ]
+        },
+        {
+            "id": "a003_424_0001",
+            "en_US": [
+                "Welcome to the Technical Machine\n",
+                "department! May I help you?"
+            ]
+        },
+        {
+            "id": "a003_424_0002",
+            "en_US": [
+                "Is there anything else I may do\n",
+                "for you?"
+            ]
+        },
+        {
+            "id": "a003_424_0003",
+            "en_US": "Please come again!"
+        },
+        {
+            "id": "a003_424_0004",
+            "en_US": "Hello!{VAR BE01}"
+        },
+        {
+            "id": "a003_424_0005",
+            "en_US": "Buy",
+            "flags": 219
+        },
+        {
+            "id": "a003_424_0006",
+            "en_US": "Sell",
+            "flags": 219
+        },
+        {
+            "id": "a003_424_0007",
+            "en_US": "No thanks!",
+            "flags": 219
+        },
+        {
+            "id": "a003_424_0008",
+            "en_US": [
+                "Welcome to the\n",
+                "Exchange Service Corner!{VAR BE01}\n",
+                "Would you like to trade in your BP\n",
+                "for some fabulous prizes?"
+            ]
+        },
+        {
+            "id": "a003_424_0009",
+            "en_US": [
+                "Please save some BP\n",
+                "and come see us again."
+            ]
+        }
+    ]
+}

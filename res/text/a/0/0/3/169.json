@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "pad": "8080",
+    "messages": [
+        {
+            "id": "a003_169_0000",
+            "en_US": [
+                "Ryoku: Ghetsis told us that once again\n",
+                "we should test how much power you have.{VAR BE01}\n",
+                "We will see if you can defeat Team Plasma!"
+            ]
+        },
+        {
+            "id": "a003_169_0001",
+            "en_US": [
+                "Ryoku: Go!\n",
+                "Hurry and fall through the flowing sands!"
+            ]
+        },
+        {
+            "id": "a003_169_0002",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

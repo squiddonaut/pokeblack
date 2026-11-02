@@ -1,0 +1,184 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_007_0000",
+            "en_US": [
+                "Welcome to Black City.{VAR BE01}\n",
+                "This is the city of dreams, greed, and\n",
+                "more greed.{VAR BE01}\n",
+                "And I am Black City's boss, so I'm\n",
+                "a whirlpool of greed!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_007_0001",
+            "en_US": [
+                "This city is filled with vibrant people\n",
+                "who are like big piles of greed.{VAR BE01}\n",
+                "Hmm. Try defeating {VAR 0204 0000} of the\n",
+                "people outside.{VAR BE01}\n",
+                "Then I'll respond to your greed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_007_0002",
+            "en_US": [
+                "I see you've defeated {VAR 0204 0001} of them.\n",
+                "Hmph. Keep trying."
+            ]
+        },
+        {
+            "id": "a003_007_0003",
+            "en_US": [
+                "What?\n",
+                "You've already beaten {VAR 0204 0000} people?{VAR BE01}\n",
+                "You...\n",
+                "You're a greedier one than I expected.{VAR BE00}\n",
+                "Deep down, you want a lot.{VAR BE01}\n",
+                "I like you!\n",
+                "I'll respond to your greed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_007_0004",
+            "en_US": "{VAR 0100 0002} received ${VAR 0204 0003}!"
+        },
+        {
+            "id": "a003_007_0005",
+            "en_US": [
+                "Next, try to defeat {VAR 0204 0004} people.\n",
+                "Show me how greedy you really are."
+            ]
+        },
+        {
+            "id": "a003_007_0006",
+            "en_US": [
+                "Wow! You're the best!{VAR BE01}\n",
+                "You're definitely the greediest\n",
+                "of the greedy!{VAR BE01}\n",
+                "You put the other greedies to shame!"
+            ]
+        },
+        {
+            "id": "a003_007_0007",
+            "en_US": [
+                "Wow! It's all really expensive, so these\n",
+                "things must be great...{VAR BE01}\n",
+                "I want this, and that, and that\n",
+                "thing over there!"
+            ]
+        },
+        {
+            "id": "a003_007_0008",
+            "en_US": [
+                "I want to become more powerful and make\n",
+                "more money!"
+            ]
+        },
+        {
+            "id": "a003_007_0009",
+            "en_US": [
+                "If you have the money, you can get\n",
+                "anything you want in this city!"
+            ]
+        },
+        {
+            "id": "a003_007_0010",
+            "en_US": [
+                "This city has everything!\n",
+                "Absolutely everything!"
+            ]
+        },
+        {
+            "id": "a003_007_0011",
+            "en_US": [
+                "Hmmm... Isn't there a better job where\n",
+                "I can make more money?"
+            ]
+        },
+        {
+            "id": "a003_007_0012",
+            "en_US": [
+                "I wonder how strong this Pokémon\n",
+                "could become..."
+            ]
+        },
+        {
+            "id": "a003_007_0013",
+            "en_US": [
+                "Everything I want is here!\n",
+                "If I only had money! If only!"
+            ]
+        },
+        {
+            "id": "a003_007_0014",
+            "en_US": [
+                "The power of civilization is amazing...\n",
+                "We can make anything people could want!"
+            ]
+        },
+        {
+            "id": "a003_007_0015",
+            "en_US": "Hee hee! Let's have a Rotation Battle!"
+        },
+        {
+            "id": "a003_007_0016",
+            "en_US": [
+                "Prepare three Pokémon for battle, OK?{VAR BE01}\n",
+                "Rotation Battle is a new kind of battle\n",
+                "that uses three Pokémon at a time!"
+            ]
+        },
+        {
+            "id": "a003_007_0017",
+            "en_US": "Heh! Scared of me, aren't you?!"
+        },
+        {
+            "id": "a003_007_0018",
+            "en_US": "Rotation Battles are shocking!"
+        },
+        {
+            "id": "a003_007_0019",
+            "en_US": [
+                "I just got lucky and got some\n",
+                "Pokémon here...{VAR BE01}\n",
+                "I want to use them right now, so let's\n",
+                "have a Rotation Battle!"
+            ]
+        },
+        {
+            "id": "a003_007_0020",
+            "en_US": [
+                "Rotation Battles use three Pokémon!\n",
+                "So get three of yours ready!"
+            ]
+        },
+        {
+            "id": "a003_007_0021",
+            "en_US": "Scared of how lucky I am, huh?"
+        },
+        {
+            "id": "a003_007_0022",
+            "en_US": [
+                "Hmmmph. I only lost today because\n",
+                "I got unlucky."
+            ]
+        },
+        {
+            "id": "a003_007_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_007_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_007_0025",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "flags": 208,
+    "messages": [
+        {
+            "id": "a002_012_0000",
+            "en_US": "{VAR 0107 0000}",
+            "flags": 96
+        },
+        {
+            "id": "a002_012_0001",
+            "en_US": "PP",
+            "flags": 16
+        },
+        {
+            "id": "a002_012_0002",
+            "en_US": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 39
+        },
+        {
+            "id": "a002_012_0003",
+            "en_US": "{VAR 0102 0000}⑭",
+            "flags": 68
+        },
+        {
+            "id": "a002_012_0004",
+            "en_US": "{VAR 0102 0000}⑮",
+            "flags": 68
+        },
+        {
+            "id": "a002_012_0005",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 68
+        },
+        {
+            "id": "a002_012_0006",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_012_0007",
+            "en_US": "/",
+            "flags": 7
+        },
+        {
+            "id": "a002_012_0008",
+            "en_US": "{VAR 0201 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_012_0009",
+            "en_US": [
+                "Playback paused...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_012_0010",
+            "en_US": [
+                "Data is corrupted.\n",
+                "Playback canceled."
+            ]
+        },
+        {
+            "id": "a002_012_0011",
+            "en_US": [
+                "Skipping the video...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_012_0012",
+            "en_US": [
+                "Playback stopped...\n",
+                "Please wait a moment."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a002_169_0000",
+            "en_US": "{VAR BD02} - SURVEY RADAR -"
+        },
+        {
+            "id": "a002_169_0001",
+            "en_US": [
+                "{VAR BD02}You can poll the opinions\n",
+                "{VAR BD02}of people near you."
+            ],
+            "flags": 238
+        },
+        {
+            "id": "a002_169_0002",
+            "en_US": "{VAR BD02}SELECT A SURVEY",
+            "flags": 148
+        },
+        {
+            "id": "a002_169_0003",
+            "en_US": "{VAR BD02}CHECK SURVEY RESULTS",
+            "flags": 148
+        },
+        {
+            "id": "a002_169_0004",
+            "en_US": "{VAR BD02} - THINGS TO FIND OUT -"
+        },
+        {
+            "id": "a002_169_0005",
+            "en_US": [
+                "{VAR BD02}Choose from the items below\n",
+                "{VAR BD02}to start the survey."
+            ],
+            "flags": 238
+        },
+        {
+            "id": "a002_169_0006",
+            "en_US": [
+                "Do you want to ask \n",
+                "people about this item?"
+            ],
+            "flags": 137
+        },
+        {
+            "id": "a002_169_0007",
+            "en_US": "CONFIRM",
+            "flags": 62
+        },
+        {
+            "id": "a002_169_0008",
+            "en_US": "CANCEL",
+            "flags": 62
+        },
+        {
+            "id": "a002_169_0009",
+            "en_US": "{VAR BD02}The survey is starting.",
+            "flags": 230
+        },
+        {
+            "id": "a002_169_0010",
+            "en_US": [
+                "{VAR BD02}The survey is\n",
+                "{VAR BD02}not done yet."
+            ],
+            "flags": 83
+        },
+        {
+            "id": "a002_169_0011",
+            "en_US": "{VAR BD02}Analyzing the results...",
+            "flags": 230
+        },
+        {
+            "id": "a002_169_0012",
+            "en_US": "{VAR BD02}- SURVEY REPORT -"
+        },
+        {
+            "id": "a002_169_0013",
+            "en_US": [
+                "{VAR BD03 000A}No. {VAR 0201 0000}: {VAR 0113 0001}\n",
+                "{VAR BD03 000A}{VAR 0204 0002} Ppl.\n",
+                "{VAR BD03 000A}{VAR 0204 0003}%"
+            ],
+            "flags": 132
+        },
+        {
+            "id": "a002_169_0014",
+            "en_US": [
+                "{VAR BD03 000A}My answer is\n",
+                "{VAR BD03 000A}{VAR 0113 0000}"
+            ],
+            "flags": 102
+        },
+        {
+            "id": "a002_169_0015",
+            "en_US": [
+                "{VAR BD03 000A}Total met today\n",
+                "{VAR BD03 000A}{VAR 0203 0000} Ppl."
+            ],
+            "flags": 103
+        },
+        {
+            "id": "a002_169_0016",
+            "en_US": [
+                "{VAR BD03 0008}Display Mode:\n",
+                "{VAR BD03 0008}People from today"
+            ],
+            "flags": 106
+        },
+        {
+            "id": "a002_169_0017",
+            "en_US": [
+                "{VAR BD03 000A}Total number\n",
+                "{VAR BD03 000A}{VAR 0205 0000} Ppl."
+            ],
+            "flags": 103
+        },
+        {
+            "id": "a002_169_0018",
+            "en_US": [
+                "{VAR BD03 0008}Display Mode:\n",
+                "{VAR BD03 0008}Total No. of people"
+            ],
+            "flags": 106
+        },
+        {
+            "id": "a002_169_0019",
+            "en_US": [
+                "{VAR BD04 0000}Updating\n",
+                "{VAR BD04 0000}data..."
+            ],
+            "flags": 160
+        },
+        {
+            "id": "a002_169_0020",
+            "en_US": "{VAR BD02}Check the survey results",
+            "flags": 144
+        }
+    ]
+}

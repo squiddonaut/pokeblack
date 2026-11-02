@@ -1,0 +1,41 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_213_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_213_0001",
+            "en_US": "Australian Capital Territory"
+        },
+        {
+            "id": "a002_213_0002",
+            "en_US": "New South Wales"
+        },
+        {
+            "id": "a002_213_0003",
+            "en_US": "Northern Territory"
+        },
+        {
+            "id": "a002_213_0004",
+            "en_US": "Queensland"
+        },
+        {
+            "id": "a002_213_0005",
+            "en_US": "South Australia"
+        },
+        {
+            "id": "a002_213_0006",
+            "en_US": "Tasmania"
+        },
+        {
+            "id": "a002_213_0007",
+            "en_US": "Victoria"
+        },
+        {
+            "id": "a002_213_0008",
+            "en_US": "Western Australia"
+        }
+    ]
+}

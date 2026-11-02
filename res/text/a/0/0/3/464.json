@@ -1,0 +1,56 @@
+{
+    "flags": 224,
+    "pad": "4848",
+    "messages": [
+        {
+            "id": "a003_464_0000",
+            "en_US": [
+                "It's a vending machine.\n",
+                "Which drink would you like?"
+            ]
+        },
+        {
+            "id": "a003_464_0001",
+            "en_US": "A {VAR 0109 0000} dropped down!{VAR BE01}"
+        },
+        {
+            "id": "a003_464_0002",
+            "en_US": [
+                "Bonus! Another {VAR 0109 0000}\n",
+                "dropped down.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_464_0003",
+            "en_US": "Not enough money..."
+        },
+        {
+            "id": "a003_464_0004",
+            "en_US": "Decided not to buy a drink."
+        },
+        {
+            "id": "a003_464_0005",
+            "en_US": "Would you like to buy another one?"
+        },
+        {
+            "id": "a003_464_0006",
+            "en_US": "Fresh Water{VAR BD03 0001}$200",
+            "flags": 219
+        },
+        {
+            "id": "a003_464_0007",
+            "en_US": "Soda Pop{VAR BD03 0001}$300",
+            "flags": 219
+        },
+        {
+            "id": "a003_464_0008",
+            "en_US": "Lemonade{VAR BD03 0001}$350",
+            "flags": 219
+        },
+        {
+            "id": "a003_464_0009",
+            "en_US": "Cancel",
+            "flags": 219
+        }
+    ]
+}

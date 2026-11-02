@@ -1,0 +1,288 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_000_0000",
+            "en_US": [
+                "Hi! I am a humble Maid!{VAR BE01}\n",
+                "My master has a big heart to match his\n",
+                "big belly. He's a gourmet!{VAR BE01}\n",
+                "So I am looking for ingredients that will\n",
+                "make his heart jump for joy!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0001",
+            "en_US": [
+                "Sniff, sniff... Sniff, sniff...{VAR BE01}\n",
+                "Oh, that aroma! It smells so gourmet!{VAR BE01}\n",
+                "Do you have a wonderful ingredient in\n",
+                "your Bag?{VAR BE00}\n",
+                "Would you consider selling it to me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0002",
+            "en_US": [
+                "Oh, it smells so good!{VAR BE01}\n",
+                "That {VAR 0109 0000} of yours is a very\n",
+                "rare ingredient indeed!{VAR BE01}\n",
+                "Would you take ${VAR 0207 0001} for it?"
+            ]
+        },
+        {
+            "id": "a003_000_0003",
+            "en_US": [
+                "Turned over the {VAR 0109 0000} and\n",
+                "received ${VAR 0207 0001}!"
+            ]
+        },
+        {
+            "id": "a003_000_0004",
+            "en_US": [
+                "Merci! Thank you!!{VAR BE01}\n",
+                "With this, I can create a superb menu.\n",
+                "My master will be so surprised!"
+            ]
+        },
+        {
+            "id": "a003_000_0005",
+            "en_US": [
+                "Hmmm... This is not quite what I'm\n",
+                "looking for.{VAR BE01}\n",
+                "I don't think my master will be satisfied\n",
+                "with such a smell..."
+            ]
+        },
+        {
+            "id": "a003_000_0006",
+            "en_US": [
+                "Aww... Well, that's OK.{VAR BE01}\n",
+                "If you find a gourmet ingredient for me,\n",
+                "please let me know!"
+            ]
+        },
+        {
+            "id": "a003_000_0007",
+            "en_US": [
+                "Sniff, sniff... Sniff, sniff...{VAR BE01}\n",
+                "Well, I don't smell anything interesting\n",
+                "in your Bag.{VAR BE01}\n",
+                "But if you find a gourmet ingredient,\n",
+                "please let me know!"
+            ]
+        },
+        {
+            "id": "a003_000_0008",
+            "en_US": [
+                "Ore, ore, ore...\n",
+                "Ores that I adore!{VAR BE01}\n",
+                "Ah, this is where you should laugh...{VAR BE01}\n",
+                "Anyway... I will pay you well for\n",
+                "rare ores.{VAR BE01}\n",
+                "And not just ores! Stones, gems,\n",
+                "shards...anything mineral! I love it all!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0009",
+            "en_US": [
+                "Don't you have an adorable ore\n",
+                "that shakes my core?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0010",
+            "en_US": [
+                "Oh, I do adore the ores!{VAR BE01}\n",
+                "That {VAR 0109 0000}, it's shaking me!\n",
+                "Will you sell it for ${VAR 0207 0001}?"
+            ]
+        },
+        {
+            "id": "a003_000_0011",
+            "en_US": [
+                "Turned over the {VAR 0109 0000}\n",
+                "and received ${VAR 0207 0001}!"
+            ]
+        },
+        {
+            "id": "a003_000_0012",
+            "en_US": [
+                "The deal is done!\n",
+                "I've scored an ore I can adore!"
+            ]
+        },
+        {
+            "id": "a003_000_0013",
+            "en_US": [
+                "Huh? What on earth is this?{VAR BE01}\n",
+                "You can't shake my core\n",
+                "with an ore so poor!"
+            ]
+        },
+        {
+            "id": "a003_000_0014",
+            "en_US": [
+                "Hmmm. My core won't change.\n",
+                "I hope you sell it to me someday."
+            ]
+        },
+        {
+            "id": "a003_000_0015",
+            "en_US": [
+                "Don't you have an adorable ore\n",
+                "that shakes my core?{VAR BE01}\n",
+                "Hmmmm. You don't seem to have it.\n",
+                "Come back again."
+            ]
+        },
+        {
+            "id": "a003_000_0016",
+            "en_US": [
+                "As you can see,\n",
+                "I am an ultrarich billionaire!{VAR BE01}\n",
+                "And as you can see,\n",
+                "my hobby is to collect rare items!{VAR BE01}\n",
+                "In fact, this outfit is ultra expensive\n",
+                "and rare.{VAR BE00}\n",
+                "Can you see it? Can you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0017",
+            "en_US": [
+                "There's something that this billionaire\n",
+                "wants to get his hands on, even if it{VAR BE00}\n",
+                "means spending a lot of money.{VAR BE01}\n",
+                "Do you have such a rare item?\n",
+                "Do you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0018",
+            "en_US": [
+                "That {VAR 0109 0000}!! Will you sell it to me\n",
+                "for ${VAR 0207 0001}? Will you?"
+            ]
+        },
+        {
+            "id": "a003_000_0019",
+            "en_US": [
+                "Turned over the {VAR 0109 0000}\n",
+                "and received ${VAR 0207 0001}!"
+            ]
+        },
+        {
+            "id": "a003_000_0020",
+            "en_US": [
+                "I got a very good item!\n",
+                "Don't you think it's great? Don't you?"
+            ]
+        },
+        {
+            "id": "a003_000_0021",
+            "en_US": [
+                "This is slightly different.\n",
+                "Don't you think so, too? Don't you?"
+            ]
+        },
+        {
+            "id": "a003_000_0022",
+            "en_US": [
+                "If you ever change your mind,\n",
+                "will you sell me the rare item? Will you?"
+            ]
+        },
+        {
+            "id": "a003_000_0023",
+            "en_US": [
+                "Actually, it's...\n",
+                "It's a rare treasure, Relic Crown!{VAR BE01}\n",
+                "I was told it was at the innermost part\n",
+                "of the Abyssal Ruins!{VAR BE01}\n",
+                "I think it is understandable that you\n",
+                "want to treasure it, but will you sell it{VAR BE00}\n",
+                "to me for ${VAR 0207 0001}? Will you?"
+            ]
+        },
+        {
+            "id": "a003_000_0024",
+            "en_US": [
+                "There's something that this billionaire\n",
+                "wants to get his hands on, even if it{VAR BE00}\n",
+                "means spending a lot of money.{VAR BE01}\n",
+                "Do you have such a rare item?\n",
+                "Do you?{VAR BE01}\n",
+                "Grrr! You don't have a rare item,\n",
+                "do you?"
+            ]
+        },
+        {
+            "id": "a003_000_0025",
+            "en_US": [
+                "Hey, check it out. I've got a sweet deal\n",
+                "for ya!{VAR BE01}\n",
+                "You know how Pokémon like to hide behind\n",
+                "stones or rocks, yeah?{VAR BE01}\n",
+                "Sometimes they hide cool stuff, too.{VAR BE01}\n",
+                "If you find something cool behind a rock,\n",
+                "you should bring it to me.{VAR BE01}\n",
+                "I'll make it worth your while.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0026",
+            "en_US": [
+                "What's up?\n",
+                "Did you find something cool for me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_000_0027",
+            "en_US": [
+                "Hey, nice! Let me check out\n",
+                "that {VAR 0109 0000}...{VAR BE01}\n",
+                "I'll give you ${VAR 0207 0001} for it.\n",
+                "Whaddaya say?"
+            ]
+        },
+        {
+            "id": "a003_000_0028",
+            "en_US": [
+                "Turned over the {VAR 0109 0000}\n",
+                "and received ${VAR 0207 0001}!"
+            ]
+        },
+        {
+            "id": "a003_000_0029",
+            "en_US": [
+                "Hey, thanks!{VAR BE01}\n",
+                "I bet I can sell this to a collector for\n",
+                "way more than I just gave you.{VAR BE01}\n",
+                "Ha! That's business for ya!"
+            ]
+        },
+        {
+            "id": "a003_000_0030",
+            "en_US": "Nope, this is no good. Not worth my while."
+        },
+        {
+            "id": "a003_000_0031",
+            "en_US": [
+                "Hey, come see me if you find something\n",
+                "cool, got it?{VAR BE01}\n",
+                "I'll make it worth your while."
+            ]
+        },
+        {
+            "id": "a003_000_0032",
+            "en_US": [
+                "What's up?\n",
+                "Did you find something cool for me?{VAR BE01}\n",
+                "...Nope, nothing cool in your Bag.\n",
+                "Oh well. Maybe next time!"
+            ]
+        }
+    ]
+}

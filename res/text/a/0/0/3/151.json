@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "8080",
+    "messages": [
+        {
+            "id": "a003_151_0000",
+            "en_US": [
+                "Do you want to go to\n",
+                "Team Plasma's castle?"
+            ]
+        },
+        {
+            "id": "a003_151_0001",
+            "en_US": "Go!{VAR BE01}"
+        },
+        {
+            "id": "a003_151_0002",
+            "en_US": "I see."
+        }
+    ]
+}

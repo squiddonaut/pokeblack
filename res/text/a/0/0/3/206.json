@@ -1,0 +1,112 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_206_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}!{VAR BE01}\n",
+                "Since we both hold the Jet Badge now,\n",
+                "let's see which of us is stronger!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0001",
+            "en_US": [
+                "Alder: That was a fine Pokémon battle!{VAR BE01}\n",
+                "I'm happy to see you are both growing\n",
+                "as Trainers!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0002",
+            "en_US": [
+                "Cheren: If it isn't the Champion, Alder.\n",
+                "I'm weak, so I lost!{VAR BE01}\n",
+                "...And, honestly, it bothers me when you\n",
+                "call it a fine battle despite that.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0003",
+            "en_US": [
+                "Alder: Oh, honestly, Cheren.{VAR BE01}\n",
+                "Just accept the compliment without the\n",
+                "stinging remark.{VAR BE01}\n",
+                "I've asked you this before, but what do\n",
+                "you plan to do after becoming strong?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0004",
+            "en_US": [
+                "Cheren: If I get strong and become a\n",
+                "Champion, that will be the reason for{VAR BE00}\n",
+                "my existence.{VAR BE00}\n",
+                "I want to prove that I'm really living.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0005",
+            "en_US": [
+                "Alder: Hmmm...\n",
+                "You remind me of Marshal.{VAR BE01}\n",
+                "Of course, having something you want\n",
+                "to become is important.{VAR BE01}\n",
+                "But what is even more important is\n",
+                "what you do with your newfound power.{VAR BE01}\n",
+                "Anyway, take this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0006",
+            "en_US": "Here--you, too.{VAR BE01}"
+        },
+        {
+            "id": "a003_206_0007",
+            "en_US": [
+                "Alder: If you use the move Surf, you can\n",
+                "travel over water.{VAR BE01}\n",
+                "I shall see you again, young Trainers.{VAR BE01}\n",
+                "Don't forget about the needs of the\n",
+                "Pokémon at your side!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0008",
+            "en_US": [
+                "Cheren: What I do with my power...{VAR BE01}\n",
+                "I don't know that answer yet. First, I\n",
+                "want to become a strong Trainer so{VAR BE00}\n",
+                "everyone will acknowledge that power!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0009",
+            "en_US": [
+                "{VAR 0100 0000}...\n",
+                "Next time, I will win!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_206_0010",
+            "en_US": [
+                "You are {VAR 0100 0000}, aren't you?{VAR BE01}\n",
+                "Are you surprised that I know?\n",
+                "Clay told me.{VAR BE01}\n",
+                "Uh-oh! To go inside Twist Mountain,\n",
+                "you need to have a Gym Badge from the{VAR BE00}\n",
+                "Mistralton Gym!{VAR BE01}\n",
+                "The wild Pokémon here are tougher, and\n",
+                "we want to be sure you're ready!"
+            ]
+        },
+        {
+            "id": "a003_206_0011",
+            "en_US": [
+                "Twist Mountain ahead.\n",
+                "Watch out for wild Pokémon."
+            ],
+            "flags": 207
+        }
+    ]
+}

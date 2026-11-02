@@ -1,0 +1,1017 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a002_067_0000",
+            "en_US": "{VAR BD02}“BATTLE MISSION\""
+        },
+        {
+            "id": "a002_067_0001",
+            "en_US": "{VAR BD02}“SUPPORT MISSION\""
+        },
+        {
+            "id": "a002_067_0002",
+            "en_US": "{VAR BD02}“SUPPORT MISSION\""
+        },
+        {
+            "id": "a002_067_0003",
+            "en_US": "{VAR BD02}“ITEM MISSION\""
+        },
+        {
+            "id": "a002_067_0004",
+            "en_US": "{VAR BD02}“ITEM MISSION\""
+        },
+        {
+            "id": "a002_067_0005",
+            "en_US": "{VAR BD02}“RESCUE MISSION\""
+        },
+        {
+            "id": "a002_067_0006",
+            "en_US": ""
+        },
+        {
+            "id": "a002_067_0007",
+            "en_US": ""
+        },
+        {
+            "id": "a002_067_0008",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(The target's HP is fully restored.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0009",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Eggs hatch faster for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0010",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Shop items are on sale for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0011",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Pokémon grow friendly fast for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0012",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Pokémon level up fast for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0013",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(More prize money received for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0014",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Catching Pokémon is easier for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0015",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Eggs hatch faster for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0016",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Shop items are on sale for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0017",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Pokémon grow friendly fast for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0018",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Pokémon level up fast for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0019",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(More prize money received for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0020",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!\n",
+                "(Catching Pokémon is easier for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0021",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Catching Pokémon is easier for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0022",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(More prize money received for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0023",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Pokémon level up fast for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0024",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Pokémon grow friendly fast for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0025",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Items are on sale for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0026",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Eggs hatch faster for an hour.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0027",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(The target's HP is fully restored.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0028",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Catching Pokémon is easier for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0029",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(More prize money received for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0030",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Pokémon level up fast for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0031",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Pokémon grow friendly fast for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0032",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!\n",
+                "(Shop items are on sale for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0033",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “Hatching Power S\"!\n",
+                "(Eggs hatch faster for 30 min.)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0034",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0035",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0036",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0037",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0038",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0039",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0040",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0041",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0042",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\"\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0043",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\"\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0044",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\"\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0045",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\"\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0046",
+            "en_US": [
+                "Stash one {VAR 0109 0000} between\n",
+                "two benches in Nimbasa City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0047",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "house behind the market in Driftveil City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0048",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "second airplane in Mistralton City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0049",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where they were\n",
+                "going round and round in Icirrus City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0050",
+            "en_US": [
+                "Stash one {VAR 0109 0000} before the gate\n",
+                "where you cannot warp in Opelucid City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0051",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the manhole\n",
+                "in Lacunosa Town!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0052",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "fountain in Undella Town!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0053",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "where the Musician was on Route 5!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0054",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the middle\n",
+                "of the northward bridge on Route 6!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0055",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "Celestial Tower on Route 7!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0056",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "sign on Route 8!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0057",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "trash can on Route 9!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0058",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the camper on Route 11!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0059",
+            "en_US": [
+                "Stash one {VAR 0109 0000} at the sign\n",
+                "in the middle of Route 12!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0060",
+            "en_US": [
+                "Stash one {VAR 0109 0000} under the tree\n",
+                "on the grassy island on Route 13!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0061",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where the beach\n",
+                "begins on Route 14!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0062",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the trash can on Route 15!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0063",
+            "en_US": [
+                "Stash one {VAR 0109 0000} by the\n",
+                "missing fence on Route 16!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0064",
+            "en_US": [
+                "Stash one {VAR 0109 0000} between\n",
+                "two benches in Nimbasa City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0065",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "house behind the market in Driftveil City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0066",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "second airplane in Mistralton City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0067",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where they were\n",
+                "going round and round in Icirrus City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0068",
+            "en_US": [
+                "Stash one {VAR 0109 0000} before the gate\n",
+                "where you cannot warp in Opelucid City!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0069",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the manhole\n",
+                "in Lacunosa Town!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0070",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "fountain in Undella Town!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0071",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "where the Musician was on Route 5!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0072",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the middle\n",
+                "of the northward bridge on Route 6!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0073",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "Celestial Tower on Route 7!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0074",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "sign on Route 8!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0075",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "trash can on Route 9!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0076",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the camper on Route 11!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0077",
+            "en_US": [
+                "Stash one {VAR 0109 0000} at the sign\n",
+                "in the middle of Route 12!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0078",
+            "en_US": [
+                "Stash one {VAR 0109 0000} under the tree\n",
+                "on the grassy island on Route 13!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0079",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where the beach\n",
+                "begins on Route 14!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0080",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the trash can on Route 15!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0081",
+            "en_US": [
+                "Stash one {VAR 0109 0000} by the\n",
+                "missing fence on Route 16!\n",
+                "(The mission restarts if talked to!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0082",
+            "en_US": [
+                "Sell one {VAR 0109 0001} to {VAR 0100 0000}\n",
+                "at a reasonable price!\n",
+                "(The mission fails if turned down!)\n",
+                "\n",
+                "\n",
+                "Time Limit: {VAR 0202 0002} seconds\n",
+                "\n",
+                "Prize Pass Orbs: {VAR 0201 0003} "
+            ]
+        },
+        {
+            "id": "a002_067_0083",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

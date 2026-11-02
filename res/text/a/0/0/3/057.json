@@ -1,0 +1,584 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_057_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_057_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_057_0002",
+            "en_US": [
+                "The number of Trainers on the\n",
+                "Royal Unova today is {VAR 0200 0003}.{VAR BE00}\n",
+                "And you've won against {VAR 0200 0004}.{VAR BE01}\n",
+                "The ship is nearing the port.\n",
+                "Would you like to get off the ship?"
+            ]
+        },
+        {
+            "id": "a003_057_0003",
+            "en_US": [
+                "The number of Trainers on the\n",
+                "Royal Unova today is {VAR 0200 0003}.{VAR BE01}\n",
+                "The ship is nearing the port.\n",
+                "Would you like to get off the ship?"
+            ]
+        },
+        {
+            "id": "a003_057_0004",
+            "en_US": [
+                "There are a lot of cabins in this big ship!\n",
+                "I would like to give you advice 'cause{VAR BE00}\n",
+                "you need help finding Trainers!{VAR BE01}\n",
+                "Do you want to listen to my hint?"
+            ]
+        },
+        {
+            "id": "a003_057_0005",
+            "en_US": [
+                "Some guests like to tell really long\n",
+                "stories, and they just keep talking{VAR BE00}\n",
+                "until they hear a whistle!"
+            ]
+        },
+        {
+            "id": "a003_057_0006",
+            "en_US": [
+                "The Royal Unova's renowned observation\n",
+                "deck is just ahead."
+            ]
+        },
+        {
+            "id": "a003_057_0007",
+            "en_US": [
+                "If you’re looking in the cabins with\n",
+                "blue doors for someone to battle,{VAR BE00}\n",
+                "you’ll find only one Trainer there today."
+            ]
+        },
+        {
+            "id": "a003_057_0008",
+            "en_US": [
+                "It seems the number of Trainers in the\n",
+                "cabins with blue doors today is {VAR 0200 0002}."
+            ]
+        },
+        {
+            "id": "a003_057_0009",
+            "en_US": [
+                "It's running on the ocean!\n",
+                "What a peculiar thing to see!"
+            ]
+        },
+        {
+            "id": "a003_057_0010",
+            "en_US": [
+                "I can't make up my mind whether to go to\n",
+                "the observation deck or battle some{VAR BE00}\n",
+                "Trainers in the cabins."
+            ]
+        },
+        {
+            "id": "a003_057_0011",
+            "en_US": [
+                "I'm running with the rhythm of the waves,\n",
+                "but it's a real challenge!"
+            ]
+        },
+        {
+            "id": "a003_057_0012",
+            "en_US": [
+                "Having battles on the ship and seeing\n",
+                "the scenery from the deck...{VAR BE00}\n",
+                "This ship is the best!"
+            ]
+        },
+        {
+            "id": "a003_057_0013",
+            "en_US": "I'm still wondering which cabin to enter."
+        },
+        {
+            "id": "a003_057_0014",
+            "en_US": [
+                "I came here from Johto for business,\n",
+                "but everything is dynamic here."
+            ]
+        },
+        {
+            "id": "a003_057_0015",
+            "en_US": [
+                "Are you from Unova?\n",
+                "I came here from Johto for business.{VAR BE01}\n",
+                "As I thought, a foreign region is\n",
+                "so different! What's the difference?{VAR BE01}\n",
+                "... ... ... ...\n",
+                "... ... ... ... so,{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "Well, ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ... Don't you agree?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0016",
+            "en_US": [
+                "Oh! A whistle is blowing!\n",
+                "Sorry to keep you so long...{VAR BE01}\n",
+                "But it was fun to talk with you.\n",
+                "Thank you!"
+            ]
+        },
+        {
+            "id": "a003_057_0017",
+            "en_US": [
+                "A battle break from work!\n",
+                "It is particularly fun.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0018",
+            "en_US": [
+                "I had a great battle on my break\n",
+                "from work."
+            ]
+        },
+        {
+            "id": "a003_057_0019",
+            "en_US": [
+                "There are yet more Pokémon across\n",
+                "the water!{VAR BE01}\n",
+                "The excitement never stops!"
+            ]
+        },
+        {
+            "id": "a003_057_0020",
+            "en_US": [
+                "I am having a relaxing time in this\n",
+                "opulent cabin."
+            ]
+        },
+        {
+            "id": "a003_057_0021",
+            "en_US": [
+                "I heard that strong Trainers gather\n",
+                "here, so I came all the way from Sinnoh!{VAR BE01}\n",
+                "Let me enjoy some Pokémon battles!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0022",
+            "en_US": [
+                "I can have Pokémon battles while\n",
+                "I'm being rocked in the ship.{VAR BE01}\n",
+                "Plus, I can see Pokémon that are rarely\n",
+                "seen. I am soooo happy!"
+            ]
+        },
+        {
+            "id": "a003_057_0023",
+            "en_US": [
+                "I heard a lot of Trainers in this ship\n",
+                "are from the other side of the ocean.{VAR BE01}\n",
+                "Speaking of which, I am also from Kanto!"
+            ]
+        },
+        {
+            "id": "a003_057_0024",
+            "en_US": [
+                "Did you go to the observation deck?\n",
+                "You can see an incredible view!"
+            ]
+        },
+        {
+            "id": "a003_057_0025",
+            "en_US": [
+                "Having Pokémon battles while on the ship,\n",
+                "being rocked by the ocean waves...{VAR BE00}\n",
+                "Isn't it exciting?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0026",
+            "en_US": [
+                "I lost...\n",
+                "Maybe I will go check out the view..."
+            ]
+        },
+        {
+            "id": "a003_057_0027",
+            "en_US": [
+                "Cool! Cool!{VAR BE01}\n",
+                "What is cool?\n",
+                "This ship! This ship!{VAR BE01}\n",
+                "...Which part is cool?\n",
+                "Hmmmm... It's just cool!"
+            ]
+        },
+        {
+            "id": "a003_057_0028",
+            "en_US": [
+                "A Pokémon battle!{VAR BE01}\n",
+                "I thought about it, but...\n",
+                "I don't have any Pokémon with me!"
+            ]
+        },
+        {
+            "id": "a003_057_0029",
+            "en_US": [
+                "OK, Trainer! I will give you a practical\n",
+                "demonstration that I am not just some{VAR BE00}\n",
+                "kid who wears shorts!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0030",
+            "en_US": [
+                "Argh! I lost!\n",
+                "I take off my socks to you!"
+            ]
+        },
+        {
+            "id": "a003_057_0031",
+            "en_US": [
+                "Listen! Listen!\n",
+                "I love this ship 'cause I can{VAR BE00}\n",
+                "bring my Pokémon on board!"
+            ]
+        },
+        {
+            "id": "a003_057_0032",
+            "en_US": [
+                "Hey! Will you listen to my story?{VAR BE01}\n",
+                "The other day, I went to Nimbasa City!{VAR BE01}\n",
+                "... ... ... ... ...\n",
+                "... ... ... ... I know, right?{VAR BE00}\n",
+                "Then, ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... That's what I heard, anyway!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0033",
+            "en_US": [
+                "Oh! A whistle!{VAR BE01}\n",
+                "I apologize for making you listen\n",
+                "to my long story...{VAR BE00}\n",
+                "But it was fun talking to you. Thanks!"
+            ]
+        },
+        {
+            "id": "a003_057_0034",
+            "en_US": [
+                "I am a Trainer.\n",
+                "I came from a faraway region.{VAR BE00}\n",
+                "I will show you my rarely seen Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0035",
+            "en_US": [
+                "My Pokémon! Weren't they unusual?\n",
+                "In particular, Wormadam is my favorite!"
+            ]
+        },
+        {
+            "id": "a003_057_0036",
+            "en_US": [
+                "This gorgeous ship suits a rich person\n",
+                "like me très bien. Am I right?"
+            ]
+        },
+        {
+            "id": "a003_057_0037",
+            "en_US": [
+                "They blow a whistle five times!\n",
+                "Even if I pretend I don't hear it,{VAR BE00}\n",
+                "when they blow five times, it's the end..."
+            ]
+        },
+        {
+            "id": "a003_057_0038",
+            "en_US": [
+                "I will show you a graceful battle\n",
+                "on this elegant ship!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0039",
+            "en_US": [
+                "Even if I lose the battle, I will not lose\n",
+                "my grace.{VAR BE00}\n",
+                "That's how a Rich Boy behaves."
+            ]
+        },
+        {
+            "id": "a003_057_0040",
+            "en_US": [
+                "Oh, their room service?{VAR BE01}\n",
+                "I tried the specialty, Royal Unova tea.\n",
+                "It tasted wonderful!"
+            ]
+        },
+        {
+            "id": "a003_057_0041",
+            "en_US": [
+                "The beautiful scenery outside the window\n",
+                "is perfection, but I also like the royal{VAR BE00}\n",
+                "atmosphere inside the cabin."
+            ]
+        },
+        {
+            "id": "a003_057_0042",
+            "en_US": [
+                "With a few waltz steps, I will\n",
+                "choreograph a royal Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0043",
+            "en_US": [
+                "I am enraptured with the royal\n",
+                "Pokémon battle..."
+            ]
+        },
+        {
+            "id": "a003_057_0044",
+            "en_US": [
+                "From your standpoint,\n",
+                "I am a Trainer from beyond the sea,{VAR BE00}\n",
+                "and from my standpoint,{VAR BE00}\n",
+                "you are a Trainer from beyond the sea!"
+            ]
+        },
+        {
+            "id": "a003_057_0045",
+            "en_US": [
+                "Oh, what a cute guest!\n",
+                "Would you like a cup of tea?{VAR BE00}\n",
+                "Come! Sit there and listen to my story!{VAR BE01}\n",
+                "... ... ... ... ...\n",
+                "... ... ... but{VAR BE00}\n",
+                "it ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ..., you see!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0046",
+            "en_US": [
+                "Sorry, sorry.\n",
+                "I talked too much.{VAR BE00}\n",
+                "It was fun, though. Thank you!"
+            ]
+        },
+        {
+            "id": "a003_057_0047",
+            "en_US": [
+                "Heh heh. A Pokémon battle?{VAR BE01}\n",
+                "I got tired of relaxing in my cabin.\n",
+                "Well, let's dance, Trainer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0048",
+            "en_US": [
+                "You see two or three moves ahead.\n",
+                "Sure enough, I can't win against youth!"
+            ]
+        },
+        {
+            "id": "a003_057_0049",
+            "en_US": [
+                "Are you looking for Pokémon Trainers?\n",
+                "Sorry, I don't know where to find them.{VAR BE01}\n",
+                "But the crew may know where they are."
+            ]
+        },
+        {
+            "id": "a003_057_0050",
+            "en_US": [
+                "Oh, look at you!\n",
+                "What a cute guest!{VAR BE01}\n",
+                "I could talk to you for ages.\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... exactly.{VAR BE00}\n",
+                "Then, ... ... ... ... {VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... That's how it is!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0051",
+            "en_US": [
+                "Oh, my! The sound of a whistle!\n",
+                "I am so sorry.{VAR BE00}\n",
+                "I rambled on too much!"
+            ]
+        },
+        {
+            "id": "a003_057_0052",
+            "en_US": [
+                "Hi there! You are such a cute guest.\n",
+                "May I have a Pokémon battle with you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0053",
+            "en_US": [
+                "You're not only cute--you're also\n",
+                "strong in Pokémon battles!"
+            ]
+        },
+        {
+            "id": "a003_057_0054",
+            "en_US": [
+                "Oh, I can feel the sound in my stomach!\n",
+                "The sound of that whistle is powerful!"
+            ]
+        },
+        {
+            "id": "a003_057_0055",
+            "en_US": [
+                "You! Did you talk to me?\n",
+                "You came at the right time!{VAR BE01}\n",
+                "I have a very funny story.\n",
+                "I wanted to tell the story to someone.{VAR BE01}\n",
+                "... ... ... ... ...\n",
+                "... ... ... ... That's the thing!{VAR BE01}\n",
+                "Then, ... ... ...\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... ... ...{VAR BE00}\n",
+                "... ... ... That's how it ends.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0056",
+            "en_US": [
+                "Oops. Did I talk your ear off? Sorry,\n",
+                "sorry. But I had a great time. Thanks!"
+            ]
+        },
+        {
+            "id": "a003_057_0057",
+            "en_US": [
+                "To look for someone stronger than me,\n",
+                "I crossed over the mountains,{VAR BE00}\n",
+                "crossed over the sea, and came here.{VAR BE01}\n",
+                "My Pokémon are special because\n",
+                "they went through a lot of difficulties.{VAR BE01}\n",
+                "Now, let's have a fair battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0058",
+            "en_US": [
+                "I can't believe you're stronger than me.\n",
+                "I have traveled around the world!{VAR BE01}\n",
+                "Now I understand...\n",
+                "the world is ridiculously big!"
+            ]
+        },
+        {
+            "id": "a003_057_0059",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_057_0060",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_057_0061",
+            "en_US": [
+                "Today...{VAR BE01}\n",
+                "As for people, we have {VAR 0200 0000} on the\n",
+                "port side and {VAR 0200 0001} on the starboard side."
+            ]
+        },
+        {
+            "id": "a003_057_0062",
+            "en_US": [
+                "Today...{VAR BE01}\n",
+                "The number of people on the starboard\n",
+                "side is {VAR 0200 0001}, and...none on the port side."
+            ]
+        },
+        {
+            "id": "a003_057_0063",
+            "en_US": [
+                "Today...{VAR BE01}\n",
+                "The number of people on the port side is\n",
+                "{VAR 0200 0000}, and...none on the starboard side."
+            ]
+        },
+        {
+            "id": "a003_057_0064",
+            "en_US": [
+                "If you're so inclined, speak to me.\n",
+                "I will give you a hint anytime."
+            ]
+        },
+        {
+            "id": "a003_057_0065",
+            "en_US": [
+                "Do you want to know a hint\n",
+                "about looking for Trainers?"
+            ]
+        },
+        {
+            "id": "a003_057_0066",
+            "en_US": "Certainly. Just a moment, please.{VAR BE01}"
+        },
+        {
+            "id": "a003_057_0067",
+            "en_US": [
+                "Certainly.\n",
+                "Please continue to have a great time!"
+            ]
+        },
+        {
+            "id": "a003_057_0068",
+            "en_US": "Won against every Trainer on the ship!"
+        },
+        {
+            "id": "a003_057_0069",
+            "en_US": [
+                "Thank you very much for sailing with us\n",
+                "on the Royal Unova.{VAR BE01}\n",
+                "The number of Trainers aboard the\n",
+                "Royal Unova today is {VAR 0200 0003}.{VAR BE00}\n",
+                "Please enjoy the trip.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_057_0070",
+            "en_US": [
+                "The number of Trainers aboard the\n",
+                "Royal Unova today is {VAR 0200 0003}.{VAR BE00}\n",
+                "You... Congratulations!{VAR BE01}\n",
+                "You've won against every Trainer\n",
+                "on the ship!{VAR BE01}\n",
+                "The ship is nearing the port.\n",
+                "Would you like to get off the ship?"
+            ]
+        },
+        {
+            "id": "a003_057_0071",
+            "en_US": [
+                "Thank you for sailing with us.{VAR BE01}\n",
+                "This cruise ship will arrive\n",
+                "in Castelia City shortly.{VAR BE01}"
+            ]
+        }
+    ]
+}

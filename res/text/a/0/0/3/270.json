@@ -1,0 +1,263 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_270_0000",
+            "en_US": [
+                "...{VAR BE01}\n",
+                "...Come.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0001",
+            "en_US": [
+                "...{VAR BE01}\n",
+                "Ghetsis. We brought the one you wanted.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0002",
+            "en_US": [
+                "Ghetsis: Excellent. It seems that\n",
+                "you have obtained the Dark Stone.{VAR BE01}\n",
+                "I congratulate you on a job well done.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0003",
+            "en_US": [
+                "Ghetsis: Excellent. It seems that\n",
+                "you have obtained the Light Stone.{VAR BE01}\n",
+                "I congratulate you on a job well done.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0004",
+            "en_US": [
+                "It is my lord N's thought that the two\n",
+                "holders of the legendary Pokémon{VAR BE00}\n",
+                "should put their beliefs on the line{VAR BE00}\n",
+                "and strive to find which is the true hero.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0005",
+            "en_US": [
+                "This is not necessary, however.{VAR BE01}\n",
+                "From his infancy, I provided him with the\n",
+                "education required to become the hero{VAR BE00}\n",
+                "of legend. Indeed, he has been so{VAR BE00}\n",
+                "acknowledged by the legendary Pokémon.{VAR BE01}\n",
+                "...Such purity of purpose is his.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0006",
+            "en_US": [
+                "The liberation of Pokémon of which I... Of\n",
+                "which Team Plasma speaks is the{VAR BE00}\n",
+                "separation of Pokémon from{VAR BE00}\n",
+                "foolish people!{VAR BE01}\n",
+                "That's the truth! All Trainers will become\n",
+                "helpless to resist us!{VAR BE01}\n",
+                "We alone will be able to use Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0007",
+            "en_US": [
+                "The preparations are complete!{VAR BE01}\n",
+                "When my perfect plan is set in motion,\n",
+                "first a few gullible Pokémon Trainers who{VAR BE00}\n",
+                "are unable to resist Team Plasma will{VAR BE00}\n",
+                "release their Pokémon.{VAR BE01}\n",
+                "Then that number will become a hundred,\n",
+                "then a thousand...{VAR BE01}\n",
+                "In no time, even the Gym Leaders and the\n",
+                "Champion will become unable to fight us.{VAR BE01}\n",
+                "Having a Pokémon will be considered\n",
+                "a bad thing!{VAR BE01}\n",
+                "Even people like the sad little Bianca,\n",
+                "whose Pokémon was stolen in Castelia,{VAR BE00}\n",
+                "will be unable to face public opinion{VAR BE00}\n",
+                "and will release their Pokémon!{VAR BE01}\n",
+                "That's the kind of world we'll make!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0008",
+            "en_US": [
+                "You may have the Stone, but there's no\n",
+                "chance whatsoever that the legendary{VAR BE00}\n",
+                "Pokémon will accept you as the hero.{VAR BE01}\n",
+                "So, if you're not willing to hand over\n",
+                "your precious Pokémon, I suggest you{VAR BE00}\n",
+                "search for some courage--{VAR BE00}\n",
+                "because you're going to need it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0009",
+            "en_US": [
+                "When I was running around trying\n",
+                "to outrun the trains,{VAR BE00}\n",
+                "I got overheated. Phew!{VAR BE01}\n",
+                "Anyway, please take this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0010",
+            "en_US": [
+                "This TM contains Flame Charge!\n",
+                "If the move lands, the user's Speed{VAR BE00}\n",
+                "goes up! You'll blow by everyone!"
+            ]
+        },
+        {
+            "id": "a003_270_0011",
+            "en_US": [
+                "Hey, you!{VAR BE01}\n",
+                "It's just my opinion, but it's best if you\n",
+                "avoid this area on weekend evenings.{VAR BE01}\n",
+                "The brats who live around here\n",
+                "often get up to something stupid."
+            ]
+        },
+        {
+            "id": "a003_270_0012",
+            "en_US": [
+                "Hey! Who said ya can pass through here?{VAR BE01}\n",
+                "When Friday night rolls around, this place\n",
+                "belongs to us, the Black {VAR 0101 0000}!{VAR BE00}\n",
+                "It's like our Gym, kid!{VAR BE01}\n",
+                "So scram! Toddle off home to your ma,\n",
+                "ya perfect little goody-two-shoes punk!"
+            ]
+        },
+        {
+            "id": "a003_270_0013",
+            "en_US": [
+                "What didja say, ya little creep?{VAR BE01}\n",
+                "I'll teach ya to take the Black\n",
+                "{VAR 0101 0000} seriously!{VAR BE01}\n",
+                "I'll pummel your pretty Pokémon\n",
+                "right down to the ground! With relish!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0014",
+            "en_US": [
+                "Ha! Fine!\n",
+                "Brats like you with a future so bright...{VAR BE01}\n",
+                "Just go on back home and be nice to your\n",
+                "parents. Don't forget your baby bottle!"
+            ]
+        },
+        {
+            "id": "a003_270_0015",
+            "en_US": [
+                "Ha! Fine!\n",
+                "Brats like you with a future so bright...{VAR BE01}\n",
+                "Just go on back home and be nice to your\n",
+                "parents. Don't forget your baby bottle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0016",
+            "en_US": [
+                "Don't get all high and mighty because\n",
+                "you beat me!{VAR BE01}\n",
+                "If you really want to pick a fight with\n",
+                "the Black {VAR 0101 0000},{VAR BE00}\n",
+                "go duke it out with our leader!{VAR BE00}\n",
+                "He's somewhere on this bridge!"
+            ]
+        },
+        {
+            "id": "a003_270_0017",
+            "en_US": [
+                "Don't get all feeling good because\n",
+                "you beat me!{VAR BE01}\n",
+                "If you really want to start a fight\n",
+                "with the Black {VAR 0101 0000},{VAR BE00}\n",
+                "go duke it out with our leader!{VAR BE00}\n",
+                "He's somewhere on this bridge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0018",
+            "en_US": [
+                "Hey! Yeah, you, the little brat there!\n",
+                "Get over here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0019",
+            "en_US": [
+                "What do you think you're up to, brat?{VAR BE01}\n",
+                "This is the Black {VAR 0101 0000}'s\n",
+                "ultimate paradise...{VAR BE01}\n",
+                "A little pest like you has no\n",
+                "business here...{VAR BE01}\n",
+                "It couldn't be that you think you can\n",
+                "stand up to me, the head of the{VAR BE00}\n",
+                "Black {VAR 0101 0000}?"
+            ]
+        },
+        {
+            "id": "a003_270_0020",
+            "en_US": [
+                "Gwa ha ha ha! Bring it!\n",
+                "You've got your share of guts, kid!{VAR BE01}\n",
+                "I'll show you what the guy who holds the\n",
+                "Black {VAR 0101 0000} together can really do!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_270_0021",
+            "en_US": [
+                "That all you got?\n",
+                "Nah, you got one option left--get lost!{VAR BE01}\n",
+                "This is our place, the Black {VAR 0101 0000}.{VAR BE01}\n",
+                "We got no place else to go, and we\n",
+                "don't want nobody gettin' in our way."
+            ]
+        },
+        {
+            "id": "a003_270_0022",
+            "en_US": [
+                "You ain't half bad, kid...\n",
+                "I like ya.{VAR BE01}\n",
+                "Get a load of this... {VAR BE01}\n",
+                "From now on, our team's name is gonna\n",
+                "be the Black {VAR 0101 0000}!{VAR BE01}\n",
+                "Yeah! We're taking the name of\n",
+                "your rough-and-tough Pokémon!{VAR BE01}\n",
+                "It's a wilder name for a wilder team!{VAR BE01}\n",
+                "The Black {VAR 0101 0000}!\n",
+                "Gwa ha ha ha! That's awesome!"
+            ]
+        },
+        {
+            "id": "a003_270_0023",
+            "en_US": [
+                "The Black {VAR 0101 0000}!\n",
+                "Speed's our only friend!"
+            ]
+        },
+        {
+            "id": "a003_270_0024",
+            "en_US": [
+                "The Black {VAR 0101 0000}!\n",
+                "At a breakneck pace until dawn breaks!"
+            ]
+        },
+        {
+            "id": "a003_270_0025",
+            "en_US": [
+                "The Black {VAR 0101 0000}!\n",
+                "Never stop, and never look back!"
+            ]
+        }
+    ]
+}

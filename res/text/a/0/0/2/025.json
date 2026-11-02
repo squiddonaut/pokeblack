@@ -1,0 +1,47 @@
+{
+    "flags": 216,
+    "messages": [
+        {
+            "id": "a002_025_0000",
+            "en_US": "Please enter the Friend Code."
+        },
+        {
+            "id": "a002_025_0001",
+            "en_US": [
+                "Enter\n",
+                "Train Number (01-{VAR 0201 0000})"
+            ]
+        },
+        {
+            "id": "a002_025_0002",
+            "en_US": [
+                "Enter\n",
+                "Rank (01-{VAR 0201 0000})"
+            ]
+        },
+        {
+            "id": "a002_025_0003",
+            "en_US": "BACK",
+            "flags": 80
+        },
+        {
+            "id": "a002_025_0004",
+            "en_US": "OK",
+            "flags": 80
+        },
+        {
+            "id": "a002_025_0005",
+            "en_US": [
+                "There is no such Train Number.\n",
+                "Please enter a number up to {VAR 0201 0000}."
+            ]
+        },
+        {
+            "id": "a002_025_0006",
+            "en_US": [
+                "There is no such Rank.\n",
+                "Please enter a number up to {VAR 0201 0000}."
+            ]
+        }
+    ]
+}
