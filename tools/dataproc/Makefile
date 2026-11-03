@@ -1,5 +1,5 @@
 CC := gcc
-CFLAGS := -O3 -Wno-unused-result
+CFLAGS := -std=gnu17 -O3 -Wall -Wextra -Wpedantic -Wno-unused-result -Wno-stringop-overflow
 INCLUDE_DIRS := src lib lib/include ../nitroarc/lib/include ../enumproc ../../include
 
 SRCS := src/common/cli.c src/common/driver.c src/common/entries.c src/common/lookups.c src/common/outputs.c src/common/strings.c lib/dataproc.c lib/json.c lib/yyjson.c ../enumproc/libenum.c ../enumproc/libexpr.c ../nitroarc/lib/nitroarc.c
