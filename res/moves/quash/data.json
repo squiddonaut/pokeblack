@@ -1,5 +1,9 @@
 {
     "name": "Quash",
+    "description": [
+        "The user suppresses the target and\n",
+        "makes its move go last."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

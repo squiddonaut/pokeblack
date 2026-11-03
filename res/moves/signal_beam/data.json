@@ -1,5 +1,9 @@
 {
     "name": "Signal Beam",
+    "description": [
+        "The user attacks with a sinister beam of\n",
+        "light. It may also confuse the target."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

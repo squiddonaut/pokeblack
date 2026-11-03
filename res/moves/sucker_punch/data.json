@@ -1,5 +1,10 @@
 {
     "name": "Sucker Punch",
+    "description": [
+        "This move enables the user to attack\n",
+        "first. It fails if the target is not\n",
+        "readying an attack, however."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

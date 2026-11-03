@@ -1,5 +1,10 @@
 {
     "name": "Gunk Shot",
+    "description": [
+        "The user shoots filthy garbage\n",
+        "at the target to attack.\n",
+        "It may also poison the target."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

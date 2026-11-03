@@ -1,5 +1,10 @@
 {
     "name": "Snore",
+    "description": [
+        "An attack that can be used only if the\n",
+        "user is asleep. The harsh noise may also\n",
+        "make the target flinch."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

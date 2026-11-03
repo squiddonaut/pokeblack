@@ -1,5 +1,10 @@
 {
     "name": "Bonemerang",
+    "description": [
+        "The user throws the bone it holds. The\n",
+        "bone loops to hit the target twice,\n",
+        "coming and going."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

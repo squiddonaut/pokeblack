@@ -1,5 +1,10 @@
 {
     "name": "Razor Leaf",
+    "description": [
+        "Sharp-edged leaves are launched\n",
+        "to slash at the opposing team.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

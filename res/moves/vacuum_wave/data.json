@@ -1,5 +1,10 @@
 {
     "name": "Vacuum Wave",
+    "description": [
+        "The user whirls its fists to send a wave\n",
+        "of pure vacuum at the target. This move\n",
+        "always goes first."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

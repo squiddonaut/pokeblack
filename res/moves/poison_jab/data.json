@@ -1,5 +1,10 @@
 {
     "name": "Poison Jab",
+    "description": [
+        "The target is stabbed with a tentacle or\n",
+        "arm steeped in poison. It may also\n",
+        "poison the target."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

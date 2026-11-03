@@ -1,5 +1,9 @@
 {
     "name": "Mega Punch",
+    "description": [
+        "The target is slugged by a punch thrown\n",
+        "with muscle-packed power."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

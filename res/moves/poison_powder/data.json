@@ -1,5 +1,10 @@
 {
     "name": "PoisonPowder",
+    "description": [
+        "The user scatters a cloud of poisonous\n",
+        "dust on the target. It may poison\n",
+        "the target."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

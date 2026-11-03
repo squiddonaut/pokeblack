@@ -1,5 +1,10 @@
 {
     "name": "Fiery Dance",
+    "description": [
+        "Cloaked in flames, the user dances\n",
+        "and flaps its wings. It may also\n",
+        "raise the user's Sp. Atk stat."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

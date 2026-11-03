@@ -1,5 +1,10 @@
 {
     "name": "Tailwind",
+    "description": [
+        "The user whips up a turbulent whirlwind\n",
+        "that ups the Speed of all party Pokémon\n",
+        "for four turns."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

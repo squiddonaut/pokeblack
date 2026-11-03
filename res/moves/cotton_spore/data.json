@@ -1,5 +1,10 @@
 {
     "name": "Cotton Spore",
+    "description": [
+        "The user releases cotton-like spores\n",
+        "that cling to the target,\n",
+        "harshly reducing its Speed stat."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

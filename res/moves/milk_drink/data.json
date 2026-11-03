@@ -1,5 +1,10 @@
 {
     "name": "Milk Drink",
+    "description": [
+        "The user restores its own HP\n",
+        "by up to half of its maximum HP.\n",
+        "May also be used in the field to heal HP."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

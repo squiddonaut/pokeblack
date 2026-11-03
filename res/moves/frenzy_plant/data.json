@@ -1,5 +1,10 @@
 {
     "name": "Frenzy Plant",
+    "description": [
+        "The user slams the target with\n",
+        "an enormous tree.\n",
+        "The user can't move on the next turn."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

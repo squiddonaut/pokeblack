@@ -1,5 +1,9 @@
 {
     "name": "Pound",
+    "description": [
+        "The target is physically pounded with\n",
+        "a long tail or a foreleg, etc."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Pursuit",
+    "description": [
+        "An attack move that inflicts double damage\n",
+        "if used on a target that is switching out\n",
+        "of battle."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

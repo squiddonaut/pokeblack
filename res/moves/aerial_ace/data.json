@@ -1,5 +1,10 @@
 {
     "name": "Aerial Ace",
+    "description": [
+        "The user confounds the target with speed,\n",
+        "then slashes.\n",
+        "The attack lands without fail."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

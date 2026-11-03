@@ -1,5 +1,9 @@
 {
     "name": "Sand Tomb",
+    "description": [
+        "The user traps the target inside a harshly\n",
+        "raging sandstorm for four to five turns."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Swallow",
+    "description": [
+        "The power stored using the move Stockpile\n",
+        "is absorbed by the user to heal its HP.\n",
+        "Storing more power heals more HP."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

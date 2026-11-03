@@ -1,5 +1,10 @@
 {
     "name": "Sing",
+    "description": [
+        "A soothing lullaby is sung in a calming\n",
+        "voice that puts the target into a deep\n",
+        "slumber."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

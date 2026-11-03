@@ -1,5 +1,10 @@
 {
     "name": "Fury Cutter",
+    "description": [
+        "The target is slashed with scythes or\n",
+        "claws. Its power increases if it hits\n",
+        "in succession."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

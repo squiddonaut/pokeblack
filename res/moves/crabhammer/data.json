@@ -1,5 +1,9 @@
 {
     "name": "Crabhammer",
+    "description": [
+        "The target is hammered with a large pincer.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

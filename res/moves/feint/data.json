@@ -1,5 +1,10 @@
 {
     "name": "Feint",
+    "description": [
+        "An attack that hits a target using\n",
+        "Protect or Detect. It also lifts\n",
+        "the effects of those moves."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

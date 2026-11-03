@@ -1,5 +1,10 @@
 {
     "name": "Covet",
+    "description": [
+        "The user endearingly approaches\n",
+        "the target, then steals the target's\n",
+        "held item."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

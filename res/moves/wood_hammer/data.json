@@ -1,5 +1,10 @@
 {
     "name": "Wood Hammer",
+    "description": [
+        "The user slams its rugged body into the\n",
+        "target to attack. The user also sustains\n",
+        "serious damage."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

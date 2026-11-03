@@ -1,5 +1,10 @@
 {
     "name": "Hammer Arm",
+    "description": [
+        "The user swings and hits with its strong\n",
+        "and heavy fist.\n",
+        "It lowers the user's Speed, however."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

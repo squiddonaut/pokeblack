@@ -1,5 +1,10 @@
 {
     "name": "Horn Drill",
+    "description": [
+        "The user stabs the target with a horn\n",
+        "that rotates like a drill.\n",
+        "If it hits, the target faints instantly."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_OHKO",
     "class": "CLASS_PHYSICAL",

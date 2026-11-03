@@ -1,5 +1,10 @@
 {
     "name": "Take Down",
+    "description": [
+        "A reckless, full-body charge attack for\n",
+        "slamming into the target.\n",
+        "It also damages the user a little."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

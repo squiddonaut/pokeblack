@@ -1,5 +1,10 @@
 {
     "name": "Light Screen",
+    "description": [
+        "A wondrous wall of light is put up to\n",
+        "suppress damage from special attacks\n",
+        "for five turns."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

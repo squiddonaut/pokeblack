@@ -1,5 +1,10 @@
 {
     "name": "Iron Defense",
+    "description": [
+        "The user hardens its body's surface\n",
+        "like iron, sharply raising its\n",
+        "Defense stat."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

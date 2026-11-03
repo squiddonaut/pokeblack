@@ -1,5 +1,10 @@
 {
     "name": "Mimic",
+    "description": [
+        "The user copies the target's last move.\n",
+        "The move can be used during battle\n",
+        "until the Pokémon is switched out."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Punishment",
+    "description": [
+        "This attack's power increases\n",
+        "the more the target has powered\n",
+        "up with stat changes."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

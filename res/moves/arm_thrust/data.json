@@ -1,5 +1,10 @@
 {
     "name": "Arm Thrust",
+    "description": [
+        "The user looses a flurry of open-palmed\n",
+        "arm thrusts that hit two to five times in\n",
+        "a row."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

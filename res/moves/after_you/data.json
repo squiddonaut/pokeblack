@@ -1,5 +1,9 @@
 {
     "name": "After You",
+    "description": [
+        "The user helps the target and makes it\n",
+        "use its move right after the user."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

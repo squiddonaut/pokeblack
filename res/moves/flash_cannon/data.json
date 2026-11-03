@@ -1,5 +1,10 @@
 {
     "name": "Flash Cannon",
+    "description": [
+        "The user gathers all its light energy and\n",
+        "releases it at once. It may also lower the\n",
+        "target's Sp. Def stat."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

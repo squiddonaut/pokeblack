@@ -1,5 +1,10 @@
 {
     "name": "Rock Tomb",
+    "description": [
+        "Boulders are hurled at the target. It also\n",
+        "lowers the target's Speed by preventing\n",
+        "its movement."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

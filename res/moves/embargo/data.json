@@ -1,5 +1,10 @@
 {
     "name": "Embargo",
+    "description": [
+        "It prevents the target from using its held\n",
+        "item. Its Trainer is also prevented from\n",
+        "using items on it."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

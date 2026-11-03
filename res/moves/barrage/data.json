@@ -1,5 +1,9 @@
 {
     "name": "Barrage",
+    "description": [
+        "Round objects are hurled at the target\n",
+        "to strike two to five times in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

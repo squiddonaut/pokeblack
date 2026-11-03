@@ -1,5 +1,10 @@
 {
     "name": "Slash",
+    "description": [
+        "The target is attacked with a slash\n",
+        "of claws or blades.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

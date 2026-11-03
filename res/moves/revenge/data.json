@@ -1,5 +1,10 @@
 {
     "name": "Revenge",
+    "description": [
+        "An attack move that inflicts double the\n",
+        "damage if the user has been hurt by the\n",
+        "opponent in the same turn."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

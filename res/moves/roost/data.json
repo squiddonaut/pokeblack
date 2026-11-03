@@ -1,5 +1,10 @@
 {
     "name": "Roost",
+    "description": [
+        "The user lands and rests its body.\n",
+        "It restores the user's HP by up to\n",
+        "half of its max HP."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

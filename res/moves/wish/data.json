@@ -1,5 +1,10 @@
 {
     "name": "Wish",
+    "description": [
+        "One turn after this move is used,\n",
+        "the target's HP is restored by\n",
+        "half the user's maximum HP."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

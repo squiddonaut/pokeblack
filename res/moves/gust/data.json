@@ -1,5 +1,9 @@
 {
     "name": "Gust",
+    "description": [
+        "A gust of wind is whipped up by wings and\n",
+        "launched at the target to inflict damage."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

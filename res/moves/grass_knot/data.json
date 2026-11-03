@@ -1,5 +1,10 @@
 {
     "name": "Grass Knot",
+    "description": [
+        "The user snares the target with grass and\n",
+        "trips it. The heavier the target,\n",
+        "the greater the damage."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

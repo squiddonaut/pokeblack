@@ -1,5 +1,10 @@
 {
     "name": "Substitute",
+    "description": [
+        "The user makes a copy of itself using\n",
+        "some of its HP.\n",
+        "The copy serves as the user's decoy."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

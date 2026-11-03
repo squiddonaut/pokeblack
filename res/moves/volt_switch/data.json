@@ -1,5 +1,10 @@
 {
     "name": "Volt Switch",
+    "description": [
+        "After making its attack, the user\n",
+        "rushes back to switch places with\n",
+        "a party Pokémon in waiting."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

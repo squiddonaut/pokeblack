@@ -1,5 +1,10 @@
 {
     "name": "Air Cutter",
+    "description": [
+        "The user launches razor-like wind to\n",
+        "slash the opposing team.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

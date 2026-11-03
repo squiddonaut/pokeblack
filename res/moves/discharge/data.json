@@ -1,5 +1,10 @@
 {
     "name": "Discharge",
+    "description": [
+        "A flare of electricity is loosed to strike\n",
+        "the area around the user.\n",
+        "It may also cause paralysis."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

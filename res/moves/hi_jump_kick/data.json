@@ -1,5 +1,10 @@
 {
     "name": "Hi Jump Kick",
+    "description": [
+        "The target is attacked with a knee kick\n",
+        "from a jump. If it misses, the user is hurt\n",
+        "instead."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

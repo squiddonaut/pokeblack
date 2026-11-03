@@ -1,5 +1,10 @@
 {
     "name": "Detect",
+    "description": [
+        "It enables the user to evade all attacks.\n",
+        "Its chance of failing rises if it is used\n",
+        "in succession."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

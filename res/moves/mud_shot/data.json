@@ -1,5 +1,10 @@
 {
     "name": "Mud Shot",
+    "description": [
+        "The user attacks by hurling a blob of mud\n",
+        "at the target.\n",
+        "It also reduces the target's Speed."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

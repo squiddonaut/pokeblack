@@ -1,5 +1,10 @@
 {
     "name": "Scald",
+    "description": [
+        "The user shoots boiling hot water at\n",
+        "its target. It may also leave the target\n",
+        "with a burn."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

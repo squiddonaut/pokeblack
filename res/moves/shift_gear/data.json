@@ -1,5 +1,9 @@
 {
     "name": "Shift Gear",
+    "description": [
+        "The user rotates its gears, raising its\n",
+        "Attack and sharply raising its Speed."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Crush Claw",
+    "description": [
+        "The user slashes the target with hard\n",
+        "and sharp claws.\n",
+        "It may also lower the target's Defense."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

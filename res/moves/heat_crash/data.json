@@ -1,5 +1,10 @@
 {
     "name": "Heat Crash",
+    "description": [
+        "The user slams its target with its flame-\n",
+        "covered body. The more the user outweighs\n",
+        "the target, the greater the damage."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

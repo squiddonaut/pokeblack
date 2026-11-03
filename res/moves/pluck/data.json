@@ -1,5 +1,10 @@
 {
     "name": "Pluck",
+    "description": [
+        "The user pecks the target. If the target\n",
+        "is holding a Berry, the user eats it and\n",
+        "gains its effect."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Hex",
+    "description": [
+        "This relentless attack does massive\n",
+        "damage to a target affected\n",
+        "by status problems."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

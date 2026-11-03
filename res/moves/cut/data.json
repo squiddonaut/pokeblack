@@ -1,5 +1,10 @@
 {
     "name": "Cut",
+    "description": [
+        "The target is cut with a scythe or a claw.\n",
+        "It can also be used to cut down\n",
+        "thin trees."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Imprison",
+    "description": [
+        "If the opponents know any move also known\n",
+        "by the user, the opponents are prevented\n",
+        "from using it."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

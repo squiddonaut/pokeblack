@@ -1,5 +1,10 @@
 {
     "name": "Flash",
+    "description": [
+        "The user flashes a bright light that cuts\n",
+        "the target's accuracy.\n",
+        "It can also be used to illuminate caves."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

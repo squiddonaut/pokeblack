@@ -1,5 +1,10 @@
 {
     "name": "Follow Me",
+    "description": [
+        "The user draws attention to itself,\n",
+        "making all targets take aim\n",
+        "only at the user."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

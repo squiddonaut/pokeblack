@@ -1,5 +1,9 @@
 {
     "name": "Switcheroo",
+    "description": [
+        "The user trades held items with the target\n",
+        "faster than the eye can follow."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

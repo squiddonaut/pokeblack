@@ -1,5 +1,9 @@
 {
     "name": "Scary Face",
+    "description": [
+        "The user frightens the target with a scary\n",
+        "face to harshly reduce its Speed stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

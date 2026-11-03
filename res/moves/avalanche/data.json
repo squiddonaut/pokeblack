@@ -1,5 +1,10 @@
 {
     "name": "Avalanche",
+    "description": [
+        "An attack move that inflicts double the\n",
+        "damage if the user has been hurt by the\n",
+        "target in the same turn."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

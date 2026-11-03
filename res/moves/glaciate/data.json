@@ -1,5 +1,10 @@
 {
     "name": "Glaciate",
+    "description": [
+        "The user attacks by blowing freezing cold\n",
+        "air at opposing Pokémon. This attack\n",
+        "reduces the targets' Speed stat."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

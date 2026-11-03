@@ -1,5 +1,10 @@
 {
     "name": "Cross Poison",
+    "description": [
+        "A slashing attack with a poisonous blade\n",
+        "that may also leave the target poisoned.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

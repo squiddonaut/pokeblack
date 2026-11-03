@@ -75,7 +75,7 @@ enum TextFileWrap {
 typedef struct Archive    { const char *filename;                         } Archive;
 typedef struct TextFile   { const char *filename; enum TextFileWrap wrap; } TextFile;
 typedef struct BinaryFile { const char *filename;                         } BinaryFile;
-typedef struct TextBank   { const char *filename; int key;                } TextBank;
+typedef struct TextBank   { const char *filename; int flags; char* pad;   } TextBank;
 
 // Output filenames are read when outputs are written (in `Driver_Finish`), so a
 // driver may rename an output after `Driver_Init`, e.g. to apply a CLI prefix.

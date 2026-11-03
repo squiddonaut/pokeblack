@@ -1,5 +1,10 @@
 {
     "name": "Rollout",
+    "description": [
+        "The user continually rolls into the target\n",
+        "over five turns. It becomes stronger\n",
+        "each time it hits."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

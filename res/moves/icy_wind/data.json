@@ -1,5 +1,10 @@
 {
     "name": "Icy Wind",
+    "description": [
+        "The user attacks with a gust of\n",
+        "chilled air. It also reduces the targets'\n",
+        "Speed stat."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

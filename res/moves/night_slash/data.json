@@ -1,5 +1,10 @@
 {
     "name": "Night Slash",
+    "description": [
+        "The user slashes the target\n",
+        "the instant an opportunity arises.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

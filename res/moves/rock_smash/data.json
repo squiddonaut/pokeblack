@@ -1,5 +1,10 @@
 {
     "name": "Rock Smash",
+    "description": [
+        "The user attacks with a punch that can\n",
+        "shatter a rock. It may also lower the\n",
+        "target's Defense stat."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

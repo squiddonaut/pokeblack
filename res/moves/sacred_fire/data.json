@@ -1,5 +1,10 @@
 {
     "name": "Sacred Fire",
+    "description": [
+        "The target is razed with a mystical fire\n",
+        "of great intensity. It may also leave the\n",
+        "target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

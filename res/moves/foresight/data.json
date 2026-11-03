@@ -1,5 +1,10 @@
 {
     "name": "Foresight",
+    "description": [
+        "Enables a Ghost-type target to be hit by\n",
+        "Normal- and Fighting-type attacks. It also\n",
+        "enables an evasive target to be hit."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

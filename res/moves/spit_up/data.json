@@ -1,5 +1,10 @@
 {
     "name": "Spit Up",
+    "description": [
+        "The power stored using the move Stockpile\n",
+        "is released at once in an attack. The more\n",
+        "power is stored, the greater the damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

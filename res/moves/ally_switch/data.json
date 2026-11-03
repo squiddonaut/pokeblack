@@ -1,5 +1,10 @@
 {
     "name": "Ally Switch",
+    "description": [
+        "The user teleports using a strange power\n",
+        "and switches its place with one of\n",
+        "its allies."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

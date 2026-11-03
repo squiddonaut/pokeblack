@@ -1,5 +1,10 @@
 {
     "name": "Water Pledge",
+    "description": [
+        "A column of water strikes the target. When\n",
+        "combined with its fire equivalent, the\n",
+        "damage increases and a rainbow appears."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

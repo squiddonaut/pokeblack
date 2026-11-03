@@ -1,5 +1,10 @@
 {
     "name": "Toxic Spikes",
+    "description": [
+        "The user lays a trap of poison spikes at\n",
+        "the opponent's feet. They poison\n",
+        "opponents that switch into battle."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Charge Beam",
+    "description": [
+        "The user attacks with an electric\n",
+        "charge. The user may use any remaining\n",
+        "electricity to raise its Sp. Atk stat."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

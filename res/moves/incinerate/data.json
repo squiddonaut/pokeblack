@@ -1,5 +1,10 @@
 {
     "name": "Incinerate",
+    "description": [
+        "The user attacks the target with fire.\n",
+        "If the target is holding a Berry, the\n",
+        "Berry becomes burnt up and unusable."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

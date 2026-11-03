@@ -1,5 +1,10 @@
 {
     "name": "Seed Flare",
+    "description": [
+        "The user emits a shock wave from\n",
+        "its body to attack its target. It may\n",
+        "harshly lower the target's Sp. Def."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

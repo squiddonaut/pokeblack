@@ -1,5 +1,10 @@
 {
     "name": "Force Palm",
+    "description": [
+        "The target is attacked with a shock wave.\n",
+        "It may also leave the target\n",
+        "with paralysis."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

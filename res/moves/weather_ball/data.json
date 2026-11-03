@@ -1,5 +1,9 @@
 {
     "name": "Weather Ball",
+    "description": [
+        "An attack move that varies in power and\n",
+        "type depending on the weather."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

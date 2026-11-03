@@ -1,5 +1,10 @@
 {
     "name": "Fury Swipes",
+    "description": [
+        "The target is raked with sharp claws or\n",
+        "scythes for two to five times in\n",
+        "quick succession."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

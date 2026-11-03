@@ -1,5 +1,10 @@
 {
     "name": "Sunny Day",
+    "description": [
+        "The user intensifies the sun for\n",
+        "five turns, powering up\n",
+        "Fire-type moves."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Whirlwind",
+    "description": [
+        "The target is blown away, to be replaced\n",
+        "by another Pokémon in its party. In the\n",
+        "wild, the battle ends."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_PHAZING",
     "class": "CLASS_STATUS",

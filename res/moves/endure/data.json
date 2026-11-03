@@ -1,5 +1,10 @@
 {
     "name": "Endure",
+    "description": [
+        "The user endures any attack with at least\n",
+        "1 HP. Its chance of failing rises if it is\n",
+        "used in succession."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

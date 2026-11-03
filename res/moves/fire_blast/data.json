@@ -1,5 +1,10 @@
 {
     "name": "Fire Blast",
+    "description": [
+        "The target is attacked with an intense\n",
+        "blast of all-consuming fire.\n",
+        "It may also leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

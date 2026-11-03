@@ -1,5 +1,10 @@
 {
     "name": "Dragon Tail",
+    "description": [
+        "The user knocks away the target and\n",
+        "drags out another Pokémon in its party.\n",
+        "In the wild, the battle ends."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

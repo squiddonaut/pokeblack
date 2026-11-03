@@ -1,5 +1,9 @@
 {
     "name": "ViceGrip",
+    "description": [
+        "The target is gripped and squeezed from\n",
+        "both sides to inflict damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

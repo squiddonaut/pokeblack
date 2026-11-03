@@ -1,5 +1,10 @@
 {
     "name": "Crush Grip",
+    "description": [
+        "The target is crushed with great force.\n",
+        "The attack is more powerful the more\n",
+        "HP the target has left."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

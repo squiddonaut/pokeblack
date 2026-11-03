@@ -1,5 +1,10 @@
 {
     "name": "Synthesis",
+    "description": [
+        "The user restores its own HP.\n",
+        "The amount of HP regained varies\n",
+        "with the weather."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

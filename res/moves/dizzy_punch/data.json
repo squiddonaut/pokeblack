@@ -1,5 +1,10 @@
 {
     "name": "Dizzy Punch",
+    "description": [
+        "The target is hit with rhythmically\n",
+        "launched punches that may also\n",
+        "leave it confused."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

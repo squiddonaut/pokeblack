@@ -1,5 +1,9 @@
 {
     "name": "Curse",
+    "description": [
+        "A move that works differently for the\n",
+        "Ghost type than for all other types."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

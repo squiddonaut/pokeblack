@@ -1,5 +1,10 @@
 {
     "name": "AncientPower",
+    "description": [
+        "The user attacks with a prehistoric power.\n",
+        "It may also raise all the user's stats\n",
+        "at once."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

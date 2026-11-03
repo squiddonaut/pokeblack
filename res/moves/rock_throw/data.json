@@ -1,5 +1,9 @@
 {
     "name": "Rock Throw",
+    "description": [
+        "The user picks up and throws a small\n",
+        "rock at the target to attack."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

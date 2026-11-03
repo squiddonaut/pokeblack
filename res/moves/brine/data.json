@@ -1,5 +1,10 @@
 {
     "name": "Brine",
+    "description": [
+        "If the target's HP is down to about half,\n",
+        "this attack will hit with double\n",
+        "the power."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

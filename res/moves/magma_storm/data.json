@@ -1,5 +1,10 @@
 {
     "name": "Magma Storm",
+    "description": [
+        "The target becomes trapped\n",
+        "within a maelstrom of fire that rages\n",
+        "for four to five turns."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

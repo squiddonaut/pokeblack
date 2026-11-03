@@ -1,5 +1,10 @@
 {
     "name": "Heat Wave",
+    "description": [
+        "The user attacks by exhaling hot breath\n",
+        "on the opposing team. It may also leave\n",
+        "targets with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

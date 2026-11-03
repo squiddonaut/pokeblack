@@ -1,5 +1,10 @@
 {
     "name": "Bind",
+    "description": [
+        "Things such as long bodies or tentacles\n",
+        "are used to bind and squeeze\n",
+        "the target for four to five turns."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

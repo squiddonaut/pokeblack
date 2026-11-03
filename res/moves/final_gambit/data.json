@@ -1,5 +1,10 @@
 {
     "name": "Final Gambit",
+    "description": [
+        "The user risks everything to attack its\n",
+        "target. The user faints but does damage\n",
+        "equal to the user's HP."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

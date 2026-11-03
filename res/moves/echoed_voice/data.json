@@ -1,5 +1,10 @@
 {
     "name": "Echoed Voice",
+    "description": [
+        "The user attacks the target with an\n",
+        "echoing voice. If this move is used\n",
+        "every turn, it does greater damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

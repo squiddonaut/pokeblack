@@ -1,5 +1,9 @@
 {
     "name": "Vine Whip",
+    "description": [
+        "The target is struck with slender,\n",
+        "whiplike vines to inflict damage."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

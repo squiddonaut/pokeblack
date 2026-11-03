@@ -1,5 +1,10 @@
 {
     "name": "Bolt Strike",
+    "description": [
+        "The user charges its target, surrounding\n",
+        "itself with a great amount of electricity.\n",
+        "It may leave the target with paralysis."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

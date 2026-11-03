@@ -1,5 +1,10 @@
 {
     "name": "Shadow Ball",
+    "description": [
+        "The user hurls a shadowy blob at the\n",
+        "target. It may also lower the target's\n",
+        "Sp. Def stat."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

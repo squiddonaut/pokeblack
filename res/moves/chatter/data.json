@@ -1,5 +1,10 @@
 {
     "name": "Chatter",
+    "description": [
+        "The user attacks using a sound wave\n",
+        "based on words it has learned.\n",
+        "It may also confuse the target."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

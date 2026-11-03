@@ -1,5 +1,9 @@
 {
     "name": "Ice Punch",
+    "description": [
+        "The target is punched with an icy fist.\n",
+        "It may also leave the target frozen."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

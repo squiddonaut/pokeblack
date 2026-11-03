@@ -1,5 +1,10 @@
 {
     "name": "Chip Away",
+    "description": [
+        "Looking for an opening, the user strikes\n",
+        "continually. The target's stat changes\n",
+        "don't affect this attack's damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

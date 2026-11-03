@@ -1,5 +1,10 @@
 {
     "name": "Destiny Bond",
+    "description": [
+        "When this move is used, if the user faints,\n",
+        "the Pokémon that landed the knockout\n",
+        "hit also faints."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

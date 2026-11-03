@@ -1,5 +1,10 @@
 {
     "name": "Rage",
+    "description": [
+        "As long as this move is in use, the power\n",
+        "of rage raises the Attack stat each\n",
+        "time the user is hit in battle."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,9 @@
 {
     "name": "Karate Chop",
+    "description": [
+        "The target is attacked with a sharp chop.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

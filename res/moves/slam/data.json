@@ -1,5 +1,9 @@
 {
     "name": "Slam",
+    "description": [
+        "The target is slammed with a long tail,\n",
+        "vines, etc., to inflict damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

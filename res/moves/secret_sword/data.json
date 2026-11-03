@@ -1,5 +1,10 @@
 {
     "name": "Secret Sword",
+    "description": [
+        "The user cuts with its long horn. The odd\n",
+        "power contained in the horn does physical\n",
+        "damage to the target."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

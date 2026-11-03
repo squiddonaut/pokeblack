@@ -1,5 +1,10 @@
 {
     "name": "Razor Shell",
+    "description": [
+        "The user cuts its target with sharp\n",
+        "shells. This attack may also lower the\n",
+        "target's Defense stat."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

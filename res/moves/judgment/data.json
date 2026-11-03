@@ -1,5 +1,10 @@
 {
     "name": "Judgment",
+    "description": [
+        "The user releases countless shots of\n",
+        "light at the target. Its type varies with\n",
+        "the kind of Plate the user is holding."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

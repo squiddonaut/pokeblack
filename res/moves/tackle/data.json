@@ -1,5 +1,10 @@
 {
     "name": "Tackle",
+    "description": [
+        "A physical attack in which the user\n",
+        "charges and slams into the target\n",
+        "with its whole body."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

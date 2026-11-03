@@ -1,5 +1,10 @@
 {
     "name": "Dig",
+    "description": [
+        "The user burrows, then attacks\n",
+        "on the second turn.\n",
+        "It can also be used to exit dungeons."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

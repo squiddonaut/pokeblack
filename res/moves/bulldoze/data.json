@@ -1,5 +1,10 @@
 {
     "name": "Bulldoze",
+    "description": [
+        "The user stomps down on the ground\n",
+        "and attacks everything in the area. Hit\n",
+        "Pokémon's Speed stat is reduced."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

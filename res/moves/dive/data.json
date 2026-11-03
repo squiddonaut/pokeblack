@@ -1,5 +1,10 @@
 {
     "name": "Dive",
+    "description": [
+        "Diving on the first turn, the user floats\n",
+        "up and attacks on the second turn.\n",
+        "It can be used to dive deep in the ocean."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

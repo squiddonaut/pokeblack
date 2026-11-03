@@ -1,5 +1,9 @@
 {
     "name": "Rock Polish",
+    "description": [
+        "The user polishes its body to reduce drag.\n",
+        "It can sharply raise the Speed stat."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

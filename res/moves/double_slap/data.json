@@ -1,5 +1,9 @@
 {
     "name": "DoubleSlap",
+    "description": [
+        "The target is slapped repeatedly, back\n",
+        "and forth, two to five times in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

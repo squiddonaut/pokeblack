@@ -1,5 +1,10 @@
 {
     "name": "ExtremeSpeed",
+    "description": [
+        "The user charges the target at blinding\n",
+        "speed. This attack always goes\n",
+        "before any other move."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

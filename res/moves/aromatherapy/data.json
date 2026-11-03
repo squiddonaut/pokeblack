@@ -1,5 +1,10 @@
 {
     "name": "Aromatherapy",
+    "description": [
+        "The user releases a soothing scent that\n",
+        "heals all status problems affecting\n",
+        "the user's party."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

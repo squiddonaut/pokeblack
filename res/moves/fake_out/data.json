@@ -1,5 +1,10 @@
 {
     "name": "Fake Out",
+    "description": [
+        "An attack that hits first and makes the\n",
+        "target flinch. It only works the first turn\n",
+        "the user is in battle."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

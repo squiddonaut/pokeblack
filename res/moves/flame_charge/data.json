@@ -1,5 +1,10 @@
 {
     "name": "Flame Charge",
+    "description": [
+        "The user cloaks itself with flame and\n",
+        "attacks. Building up more power,\n",
+        "it raises the user's Speed stat."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

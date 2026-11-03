@@ -1,5 +1,10 @@
 {
     "name": "Selfdestruct",
+    "description": [
+        "The user attacks everything around it\n",
+        "by causing an explosion.\n",
+        "The user faints upon using this move."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

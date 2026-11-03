@@ -1,5 +1,10 @@
 {
     "name": "Toxic",
+    "description": [
+        "A move that leaves the target\n",
+        "badly poisoned.\n",
+        "Its poison damage worsens every turn."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

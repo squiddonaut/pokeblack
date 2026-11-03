@@ -1,5 +1,10 @@
 {
     "name": "Blaze Kick",
+    "description": [
+        "The user launches a kick that lands a\n",
+        "critical hit more easily.\n",
+        "It may also leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

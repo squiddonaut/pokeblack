@@ -1,5 +1,10 @@
 {
     "name": "Synchronoise",
+    "description": [
+        "Using an odd shock wave, the user\n",
+        "inflicts damage on any Pokémon of the same\n",
+        "type in the area around it."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

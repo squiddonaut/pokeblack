@@ -1,5 +1,9 @@
 {
     "name": "Sleep Talk",
+    "description": [
+        "While it is asleep, the user randomly uses\n",
+        "one of the moves it knows."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Shock Wave",
+    "description": [
+        "The user strikes the target with a quick\n",
+        "jolt of electricity.\n",
+        "This attack cannot be evaded."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

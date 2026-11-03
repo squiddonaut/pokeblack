@@ -1,5 +1,10 @@
 {
     "name": "Sky Drop",
+    "description": [
+        "The user takes the target into the sky,\n",
+        "then drops it during the next turn.\n",
+        "The target cannot attack while in the sky."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

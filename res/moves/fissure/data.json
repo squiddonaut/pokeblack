@@ -1,5 +1,10 @@
 {
     "name": "Fissure",
+    "description": [
+        "The user opens up a fissure in the ground\n",
+        "and drops the target in.\n",
+        "The target instantly faints if it hits."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_OHKO",
     "class": "CLASS_PHYSICAL",

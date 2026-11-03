@@ -1,5 +1,10 @@
 {
     "name": "Poison Fang",
+    "description": [
+        "The user bites the target with toxic\n",
+        "fangs. It may also leave the target\n",
+        "badly poisoned."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

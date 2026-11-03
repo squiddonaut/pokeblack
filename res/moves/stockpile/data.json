@@ -1,5 +1,10 @@
 {
     "name": "Stockpile",
+    "description": [
+        "The user charges up power and raises\n",
+        "both its Defense and Sp. Def. The move\n",
+        "can be used three times."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Constrict",
+    "description": [
+        "The target is attacked with long, creeping\n",
+        "tentacles or vines.\n",
+        "It may also lower the target's Speed stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

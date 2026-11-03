@@ -1,5 +1,10 @@
 {
     "name": "Growl",
+    "description": [
+        "The user growls in an endearing way,\n",
+        "making the opposing team less wary.\n",
+        "The foes' Attack stats are lowered."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

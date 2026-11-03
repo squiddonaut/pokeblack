@@ -1,5 +1,10 @@
 {
     "name": "Assist",
+    "description": [
+        "The user hurriedly and randomly uses a\n",
+        "move among those known by other\n",
+        "Pokémon in the party."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Psywave",
+    "description": [
+        "The target is attacked with an odd \n",
+        "psychic wave.\n",
+        "The attack varies in intensity."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Lava Plume",
+    "description": [
+        "An inferno of scarlet flames torches\n",
+        "everything around the user. It may\n",
+        "leave targets with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

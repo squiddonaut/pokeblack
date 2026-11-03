@@ -1,5 +1,9 @@
 {
     "name": "Sweet Kiss",
+    "description": [
+        "The user kisses the target with a sweet,\n",
+        "angelic cuteness that causes confusion."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

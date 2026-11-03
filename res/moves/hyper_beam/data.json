@@ -1,5 +1,10 @@
 {
     "name": "Hyper Beam",
+    "description": [
+        "The target is attacked with a powerful\n",
+        "beam. The user must rest on the next\n",
+        "turn to regain its energy."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

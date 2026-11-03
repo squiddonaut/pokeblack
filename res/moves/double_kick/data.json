@@ -1,5 +1,9 @@
 {
     "name": "Double Kick",
+    "description": [
+        "The target is quickly kicked twice in\n",
+        "succession using both feet."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

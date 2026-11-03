@@ -1,5 +1,10 @@
 {
     "name": "Vital Throw",
+    "description": [
+        "The user attacks last.\n",
+        "In return, this throw move is\n",
+        "guaranteed not to miss."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

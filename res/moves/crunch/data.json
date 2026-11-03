@@ -1,5 +1,10 @@
 {
     "name": "Crunch",
+    "description": [
+        "The user crunches up the target\n",
+        "with sharp fangs. It may also lower\n",
+        "the target's Defense stat."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

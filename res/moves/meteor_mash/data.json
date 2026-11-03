@@ -1,5 +1,10 @@
 {
     "name": "Meteor Mash",
+    "description": [
+        "The target is hit with a hard punch fired\n",
+        "like a meteor. It may also raise\n",
+        "the user's Attack."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,9 @@
 {
     "name": "Thunder Wave",
+    "description": [
+        "A weak electric charge is launched at\n",
+        "the target. It causes paralysis if it hits."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

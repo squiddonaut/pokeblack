@@ -1,5 +1,10 @@
 {
     "name": "Thrash",
+    "description": [
+        "The user rampages and attacks for two\n",
+        "to three turns. It then becomes\n",
+        "confused, however."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

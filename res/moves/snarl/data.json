@@ -1,5 +1,10 @@
 {
     "name": "Snarl",
+    "description": [
+        "The user yells as if it is ranting about\n",
+        "something, making the target's Sp. Atk\n",
+        "stat decrease."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

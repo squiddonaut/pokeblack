@@ -1,5 +1,10 @@
 {
     "name": "Inferno",
+    "description": [
+        "The user attacks by engulfing the target\n",
+        "in an intense fire. It leaves the target\n",
+        "with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

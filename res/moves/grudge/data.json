@@ -1,5 +1,10 @@
 {
     "name": "Grudge",
+    "description": [
+        "If the user faints, the user's grudge\n",
+        "fully depletes the PP of the opponent's\n",
+        "move that knocked it out."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

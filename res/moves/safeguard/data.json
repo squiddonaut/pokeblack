@@ -1,5 +1,9 @@
 {
     "name": "Safeguard",
+    "description": [
+        "The user creates a protective field that\n",
+        "prevents status problems for five turns."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

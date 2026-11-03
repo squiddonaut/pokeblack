@@ -1,5 +1,9 @@
 {
     "name": "Wrap",
+    "description": [
+        "A long body or vines are used to wrap and\n",
+        "squeeze the target for four to five turns."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

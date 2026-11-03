@@ -1,5 +1,10 @@
 {
     "name": "Circle Throw",
+    "description": [
+        "The user throws the target and drags out\n",
+        "another Pokémon in its party.\n",
+        "In the wild, the battle ends."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

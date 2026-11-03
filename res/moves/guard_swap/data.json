@@ -1,5 +1,10 @@
 {
     "name": "Guard Swap",
+    "description": [
+        "The user employs its psychic power to\n",
+        "switch changes to its Defense and\n",
+        "Sp. Def with the target."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

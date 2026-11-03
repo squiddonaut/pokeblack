@@ -1,5 +1,10 @@
 {
     "name": "Heart Stamp",
+    "description": [
+        "The user unleashes a vicious blow after\n",
+        "its cute act makes the target less wary.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

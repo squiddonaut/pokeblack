@@ -1,5 +1,10 @@
 {
     "name": "Grass Pledge",
+    "description": [
+        "A column of grass hits opposing Pokémon.\n",
+        "When used with its water equivalent, its\n",
+        "damage increases into a vast swamp."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

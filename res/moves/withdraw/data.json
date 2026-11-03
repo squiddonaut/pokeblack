@@ -1,5 +1,9 @@
 {
     "name": "Withdraw",
+    "description": [
+        "The user withdraws its body into its hard\n",
+        "shell, raising its Defense stat."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

@@ -1,5 +1,9 @@
 {
     "name": "Reflect Type",
+    "description": [
+        "The user reflects the target's type,\n",
+        "making it the same type as the target."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

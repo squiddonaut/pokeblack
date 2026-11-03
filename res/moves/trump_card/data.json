@@ -1,5 +1,9 @@
 {
     "name": "Trump Card",
+    "description": [
+        "The fewer PP this move has, the greater\n",
+        "its attack power."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

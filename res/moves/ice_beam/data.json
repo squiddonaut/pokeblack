@@ -1,5 +1,10 @@
 {
     "name": "Ice Beam",
+    "description": [
+        "The target is struck with an icy-cold\n",
+        "beam of energy.\n",
+        "It may also freeze the target solid."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

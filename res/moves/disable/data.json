@@ -1,5 +1,9 @@
 {
     "name": "Disable",
+    "description": [
+        "For four turns, this move prevents the\n",
+        "target from using the move it last used."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

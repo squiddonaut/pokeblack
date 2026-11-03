@@ -1,5 +1,9 @@
 {
     "name": "Tickle",
+    "description": [
+        "The user tickles the target into laughing,\n",
+        "reducing its Attack and Defense stats."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

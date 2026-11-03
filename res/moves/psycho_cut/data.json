@@ -1,5 +1,10 @@
 {
     "name": "Psycho Cut",
+    "description": [
+        "The user tears at the target with blades\n",
+        "formed by psychic power.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Foul Play",
+    "description": [
+        "The user turns the target's power\n",
+        "against it. The higher the target's\n",
+        "Attack stat, the greater the damage."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

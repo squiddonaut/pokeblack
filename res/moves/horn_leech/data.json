@@ -1,5 +1,10 @@
 {
     "name": "Horn Leech",
+    "description": [
+        "The user drains the target's energy with\n",
+        "its horns. The user's HP is restored\n",
+        "by half the damage taken by the target."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE_AND_RECOVERY",
     "class": "CLASS_PHYSICAL",

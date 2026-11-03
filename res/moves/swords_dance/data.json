@@ -1,5 +1,10 @@
 {
     "name": "Swords Dance",
+    "description": [
+        "A frenetic dance to uplift the fighting\n",
+        "spirit. It sharply raises the user's\n",
+        "Attack stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

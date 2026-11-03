@@ -1,5 +1,9 @@
 {
     "name": "Barrier",
+    "description": [
+        "The user throws up a sturdy wall that\n",
+        "sharply raises its Defense stat."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

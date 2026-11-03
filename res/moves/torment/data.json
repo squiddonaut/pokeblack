@@ -1,5 +1,10 @@
 {
     "name": "Torment",
+    "description": [
+        "The user torments and enrages the\n",
+        "target, making it incapable of using\n",
+        "the same move twice in a row."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

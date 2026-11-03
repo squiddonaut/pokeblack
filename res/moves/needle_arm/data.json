@@ -1,5 +1,10 @@
 {
     "name": "Needle Arm",
+    "description": [
+        "The user attacks by wildly swinging its\n",
+        "thorny arms. It may also make the\n",
+        "target flinch."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

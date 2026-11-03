@@ -1,5 +1,10 @@
 {
     "name": "Pay Day",
+    "description": [
+        "Numerous coins are hurled at the\n",
+        "target to inflict damage.\n",
+        "Money is earned after the battle."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Explosion",
+    "description": [
+        "The user explodes to inflict damage on\n",
+        "those around it.\n",
+        "The user faints upon using this move."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

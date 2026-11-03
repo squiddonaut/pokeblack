@@ -1,5 +1,10 @@
 {
     "name": "SmokeScreen",
+    "description": [
+        "The user releases an obscuring cloud\n",
+        "of smoke or ink. It reduces the\n",
+        "target's accuracy."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

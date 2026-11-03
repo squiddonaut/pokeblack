@@ -1,5 +1,9 @@
 {
     "name": "Psybeam",
+    "description": [
+        "The target is attacked with a peculiar ray.\n",
+        "It may also cause confusion."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

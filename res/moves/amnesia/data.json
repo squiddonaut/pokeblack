@@ -1,5 +1,10 @@
 {
     "name": "Amnesia",
+    "description": [
+        "The user temporarily empties its mind to\n",
+        "forget its concerns.\n",
+        "It sharply raises the user's Sp. Def stat."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

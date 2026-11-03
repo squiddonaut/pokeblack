@@ -1,5 +1,10 @@
 {
     "name": "Calm Mind",
+    "description": [
+        "The user quietly focuses its mind and\n",
+        "calms its spirit to raise its Sp. Atk and\n",
+        "Sp. Def stats."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

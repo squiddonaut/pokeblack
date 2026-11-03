@@ -1,5 +1,10 @@
 {
     "name": "Magic Room",
+    "description": [
+        "The user creates a bizarre area\n",
+        "in which Pokémon's held items\n",
+        "lose their effects for five turns."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

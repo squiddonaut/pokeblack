@@ -1,5 +1,10 @@
 {
     "name": "Water Spout",
+    "description": [
+        "The user spouts water to damage the\n",
+        "opposing team. The lower the user's HP,\n",
+        "the less powerful it becomes."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

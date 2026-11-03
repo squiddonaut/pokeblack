@@ -1,5 +1,10 @@
 {
     "name": "Rapid Spin",
+    "description": [
+        "A spin attack that can also eliminate\n",
+        "such moves as Bind, Wrap, Leech Seed,\n",
+        "and Spikes."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

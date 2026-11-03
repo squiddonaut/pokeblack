@@ -1,5 +1,10 @@
 {
     "name": "Iron Tail",
+    "description": [
+        "The target is slammed with a steel-hard\n",
+        "tail. It may also lower the target's\n",
+        "Defense stat."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

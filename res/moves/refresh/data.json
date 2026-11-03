@@ -1,5 +1,9 @@
 {
     "name": "Refresh",
+    "description": [
+        "The user rests to cure itself of a\n",
+        "poisoning, burn, or paralysis."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

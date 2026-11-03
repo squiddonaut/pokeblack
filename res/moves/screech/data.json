@@ -1,5 +1,9 @@
 {
     "name": "Screech",
+    "description": [
+        "An earsplitting screech harshly reduces\n",
+        "the target's Defense stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

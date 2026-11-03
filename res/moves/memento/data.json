@@ -1,5 +1,10 @@
 {
     "name": "Memento",
+    "description": [
+        "The user faints when using this move.\n",
+        "In return, it harshly lowers the target's\n",
+        "Attack and Sp. Atk."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

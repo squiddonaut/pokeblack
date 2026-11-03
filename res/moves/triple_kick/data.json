@@ -1,5 +1,10 @@
 {
     "name": "Triple Kick",
+    "description": [
+        "A consecutive three-kick attack that\n",
+        "becomes more powerful with each \n",
+        "successive hit."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

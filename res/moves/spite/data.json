@@ -1,5 +1,10 @@
 {
     "name": "Spite",
+    "description": [
+        "The user unleashes its grudge on the move\n",
+        "last used by the target by cutting 4 PP\n",
+        "from it."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

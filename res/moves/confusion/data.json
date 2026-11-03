@@ -1,5 +1,10 @@
 {
     "name": "Confusion",
+    "description": [
+        "The target is hit by a weak telekinetic\n",
+        "force. It may also leave the\n",
+        "target confused."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

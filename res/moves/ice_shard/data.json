@@ -1,5 +1,10 @@
 {
     "name": "Ice Shard",
+    "description": [
+        "The user flash freezes chunks of\n",
+        "ice and hurls them at the target.\n",
+        "This move always goes first."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

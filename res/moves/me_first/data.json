@@ -1,5 +1,10 @@
 {
     "name": "Me First",
+    "description": [
+        "The user tries to cut ahead of the target\n",
+        "to steal and use the target's intended\n",
+        "move with greater power."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_STATUS",

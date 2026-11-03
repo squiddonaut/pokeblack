@@ -1,5 +1,9 @@
 {
     "name": "Glare",
+    "description": [
+        "The user intimidates the target with the\n",
+        "pattern on its belly to cause paralysis."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

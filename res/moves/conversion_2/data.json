@@ -1,5 +1,10 @@
 {
     "name": "Conversion 2",
+    "description": [
+        "The user changes its type to make itself\n",
+        "resistant to the type of the attack the\n",
+        "opponent used last."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

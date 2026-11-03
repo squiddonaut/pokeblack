@@ -1,5 +1,10 @@
 {
     "name": "Tail Whip",
+    "description": [
+        "The user wags its tail cutely, making\n",
+        "opposing Pokémon less wary and\n",
+        "lowering their Defense stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

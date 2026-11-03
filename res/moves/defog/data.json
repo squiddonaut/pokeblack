@@ -1,5 +1,10 @@
 {
     "name": "Defog",
+    "description": [
+        "A strong wind blows away the target's\n",
+        "obstacles such as Reflect or Light Screen.\n",
+        "It also lowers the target's evasiveness."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

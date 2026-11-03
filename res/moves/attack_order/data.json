@@ -1,5 +1,10 @@
 {
     "name": "Attack Order",
+    "description": [
+        "The user calls out its underlings to\n",
+        "pummel the target.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

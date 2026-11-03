@@ -1,5 +1,9 @@
 {
     "name": "Growth",
+    "description": [
+        "The user's body grows all at once,\n",
+        "raising the Attack and Sp. Atk stats."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

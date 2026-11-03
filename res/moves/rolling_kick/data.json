@@ -1,5 +1,9 @@
 {
     "name": "Rolling Kick",
+    "description": [
+        "The user lashes out with a quick, spinning\n",
+        "kick. It may also make the target flinch."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

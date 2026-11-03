@@ -1,5 +1,10 @@
 {
     "name": "Shadow Sneak",
+    "description": [
+        "The user extends its shadow and attacks\n",
+        "the target from behind.\n",
+        "This move always goes first."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

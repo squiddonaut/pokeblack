@@ -1,5 +1,9 @@
 {
     "name": "Swift",
+    "description": [
+        "Star-shaped rays are shot at the opposing\n",
+        "team. This attack never misses."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Roar of Time",
+    "description": [
+        "The user blasts the target with power\n",
+        "that distorts even time.\n",
+        "The user must rest on the next turn."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

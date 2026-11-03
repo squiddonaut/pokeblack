@@ -1,5 +1,10 @@
 {
     "name": "Submission",
+    "description": [
+        "The user grabs the target and recklessly\n",
+        "dives for the ground. It also hurts the\n",
+        "user slightly."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

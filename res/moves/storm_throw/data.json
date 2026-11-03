@@ -1,5 +1,10 @@
 {
     "name": "Storm Throw",
+    "description": [
+        "The user strikes the target with a fierce\n",
+        "blow. This attack always results in a\n",
+        "critical hit."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Blast Burn",
+    "description": [
+        "The target is razed by a fiery explosion.\n",
+        "The user must rest on the\n",
+        "next turn, however."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

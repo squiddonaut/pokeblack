@@ -1,5 +1,9 @@
 {
     "name": "Payback",
+    "description": [
+        "If the user moves after the target,\n",
+        "this attack's power will be doubled."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

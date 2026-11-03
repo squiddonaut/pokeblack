@@ -1,5 +1,10 @@
 {
     "name": "Thunder Fang",
+    "description": [
+        "The user bites with electrified fangs.\n",
+        "It may also make the target flinch or\n",
+        "leave it with paralysis."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

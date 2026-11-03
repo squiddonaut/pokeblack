@@ -1,5 +1,10 @@
 {
     "name": "Dragon Rage",
+    "description": [
+        "This attack hits the target with a shock\n",
+        "wave of pure rage. This attack always\n",
+        "inflicts 40 HP damage."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Worry Seed",
+    "description": [
+        "A seed that causes worry is planted on\n",
+        "the target. It prevents sleep by making\n",
+        "its Ability Insomnia."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Faint Attack",
+    "description": [
+        "The user approaches the target\n",
+        "disarmingly, then throws a sucker punch.\n",
+        "It hits without fail."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

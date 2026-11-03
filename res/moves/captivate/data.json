@@ -1,5 +1,10 @@
 {
     "name": "Captivate",
+    "description": [
+        "If it is the opposite gender of the user,\n",
+        "the target is charmed into harshly\n",
+        "lowering its Sp. Atk stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

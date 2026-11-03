@@ -1,5 +1,9 @@
 {
     "name": "Power Whip",
+    "description": [
+        "The user violently whirls its vines or\n",
+        "tentacles to harshly lash the target."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

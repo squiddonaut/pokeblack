@@ -1,5 +1,10 @@
 {
     "name": "Sky Attack",
+    "description": [
+        "A second-turn attack move where\n",
+        "critical hits land more easily.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

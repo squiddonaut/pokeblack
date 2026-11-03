@@ -1,5 +1,10 @@
 {
     "name": "Techno Blast",
+    "description": [
+        "The user fires a beam of light at\n",
+        "its target. The type changes depending\n",
+        "on the Drive the user holds."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

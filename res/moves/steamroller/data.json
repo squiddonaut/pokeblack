@@ -1,5 +1,10 @@
 {
     "name": "Steamroller",
+    "description": [
+        "The user crushes its targets by rolling\n",
+        "over them with its rolled-up body.\n",
+        "This attack may make the target flinch."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

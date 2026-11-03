@@ -1,5 +1,10 @@
 {
     "name": "Nature Power",
+    "description": [
+        "An attack that makes use of nature's\n",
+        "power. Its effects vary depending on the\n",
+        "user's environment."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

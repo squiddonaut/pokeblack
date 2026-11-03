@@ -1,5 +1,9 @@
 {
     "name": "Mach Punch",
+    "description": [
+        "The user throws a punch at blinding\n",
+        "speed. It is certain to strike first."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

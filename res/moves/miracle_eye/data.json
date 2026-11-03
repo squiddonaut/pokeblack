@@ -1,5 +1,10 @@
 {
     "name": "Miracle Eye",
+    "description": [
+        "Enables a Dark-type target to be hit by\n",
+        "Psychic-type attacks. It also enables\n",
+        "an evasive target to be hit."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

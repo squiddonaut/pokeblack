@@ -1,5 +1,10 @@
 {
     "name": "Coil",
+    "description": [
+        "The user coils up and concentrates.\n",
+        "This raises its Attack and Defense stats\n",
+        "as well as its accuracy."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

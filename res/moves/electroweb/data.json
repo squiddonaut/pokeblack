@@ -1,5 +1,10 @@
 {
     "name": "Electroweb",
+    "description": [
+        "The user captures and attacks opposing\n",
+        "Pokémon by using an electric net. It\n",
+        "reduces the targets' Speed stat."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

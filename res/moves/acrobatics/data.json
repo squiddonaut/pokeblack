@@ -1,5 +1,10 @@
 {
     "name": "Acrobatics",
+    "description": [
+        "The user nimbly strikes the target.\n",
+        "If the user is not holding an item,\n",
+        "this attack inflicts massive damage."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

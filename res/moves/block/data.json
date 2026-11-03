@@ -1,5 +1,9 @@
 {
     "name": "Block",
+    "description": [
+        "The user blocks the target's way with arms\n",
+        "spread wide to prevent escape."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

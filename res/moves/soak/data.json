@@ -1,5 +1,10 @@
 {
     "name": "Soak",
+    "description": [
+        "The user shoots a torrent of water\n",
+        "at the target and changes\n",
+        "the target's type to Water."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

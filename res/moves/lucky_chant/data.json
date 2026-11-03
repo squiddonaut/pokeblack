@@ -1,5 +1,10 @@
 {
     "name": "Lucky Chant",
+    "description": [
+        "The user chants an incantation toward\n",
+        "the sky, preventing opposing Pokémon\n",
+        "from landing critical hits."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

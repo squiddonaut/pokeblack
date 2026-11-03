@@ -1,5 +1,10 @@
 {
     "name": "Drill Run",
+    "description": [
+        "The user crashes into its target while\n",
+        "rotating its body like a drill.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

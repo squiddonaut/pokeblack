@@ -1,5 +1,9 @@
 {
     "name": "Aqua Tail",
+    "description": [
+        "The user attacks by swinging its tail as if\n",
+        "it were a vicious wave in a raging storm."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

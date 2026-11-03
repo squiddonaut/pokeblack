@@ -1,5 +1,9 @@
 {
     "name": "Will-O-Wisp",
+    "description": [
+        "The user shoots a sinister, bluish-white\n",
+        "flame at the target to inflict a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

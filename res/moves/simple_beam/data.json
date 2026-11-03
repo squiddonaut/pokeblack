@@ -1,5 +1,9 @@
 {
     "name": "Simple Beam",
+    "description": [
+        "The user's mysterious psychic wave\n",
+        "changes the target's Ability to Simple."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

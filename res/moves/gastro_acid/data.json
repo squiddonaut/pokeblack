@@ -1,5 +1,10 @@
 {
     "name": "Gastro Acid",
+    "description": [
+        "The user hurls up its stomach acids on\n",
+        "the target. The fluid eliminates the effect\n",
+        "of the target's Ability."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

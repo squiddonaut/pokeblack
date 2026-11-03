@@ -1,5 +1,10 @@
 {
     "name": "Autotomize",
+    "description": [
+        "The user sheds part of its body\n",
+        "to make itself lighter and sharply\n",
+        "raise its Speed stat."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

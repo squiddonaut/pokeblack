@@ -1,5 +1,10 @@
 {
     "name": "V-create",
+    "description": [
+        "With a hot flame on its forehead, the user\n",
+        "hurls itself at its target. It lowers the\n",
+        "user's Defense, Sp. Def, and Speed stats."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

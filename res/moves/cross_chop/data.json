@@ -1,5 +1,10 @@
 {
     "name": "Cross Chop",
+    "description": [
+        "The user delivers a double chop with its\n",
+        "forearms crossed.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

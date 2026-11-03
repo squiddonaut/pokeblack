@@ -1,5 +1,10 @@
 {
     "name": "Fire Spin",
+    "description": [
+        "The target becomes trapped within a\n",
+        "fierce vortex of fire that rages for four\n",
+        "to five turns."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

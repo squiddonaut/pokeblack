@@ -1,5 +1,10 @@
 {
     "name": "Petal Dance",
+    "description": [
+        "The user attacks the target by scattering\n",
+        "petals for two to three turns.\n",
+        "The user then becomes confused."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

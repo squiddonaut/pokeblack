@@ -1,5 +1,9 @@
 {
     "name": "Gear Grind",
+    "description": [
+        "The user attacks by throwing\n",
+        "two steel gears at its target."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

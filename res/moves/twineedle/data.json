@@ -1,5 +1,10 @@
 {
     "name": "Twineedle",
+    "description": [
+        "The user damages the target twice in\n",
+        "succession by jabbing it with two spikes.\n",
+        "It may also poison the target."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

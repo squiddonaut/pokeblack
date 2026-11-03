@@ -1,5 +1,9 @@
 {
     "name": "Fury Attack",
+    "description": [
+        "The target is jabbed repeatedly with a\n",
+        "horn or beak two to five times in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

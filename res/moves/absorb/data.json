@@ -1,5 +1,10 @@
 {
     "name": "Absorb",
+    "description": [
+        "A nutrient-draining attack. The user's\n",
+        "HP is restored by half the damage taken\n",
+        "by the target."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE_AND_RECOVERY",
     "class": "CLASS_SPECIAL",

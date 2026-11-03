@@ -1,5 +1,9 @@
 {
     "name": "Water Gun",
+    "description": [
+        "The target is blasted with a\n",
+        "forceful shot of water."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

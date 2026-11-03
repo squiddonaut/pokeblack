@@ -1,5 +1,10 @@
 {
     "name": "Double-Edge",
+    "description": [
+        "A reckless, life-risking tackle.\n",
+        "It also damages the user by a fairly large\n",
+        "amount, however."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

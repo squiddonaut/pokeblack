@@ -1,5 +1,10 @@
 {
     "name": "Quiver Dance",
+    "description": [
+        "The user lightly performs a beautiful,\n",
+        "mystic dance. It boosts the user's\n",
+        "Sp. Atk, Sp. Def, and Speed stats."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

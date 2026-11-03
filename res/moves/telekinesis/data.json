@@ -1,5 +1,10 @@
 {
     "name": "Telekinesis",
+    "description": [
+        "The user makes the target float with its\n",
+        "psychic power. The target is easier to\n",
+        "hit for three turns."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

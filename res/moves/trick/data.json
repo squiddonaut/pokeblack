@@ -1,5 +1,9 @@
 {
     "name": "Trick",
+    "description": [
+        "The user catches the target off guard\n",
+        "and swaps its held item with its own."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

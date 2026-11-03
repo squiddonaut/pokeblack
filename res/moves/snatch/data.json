@@ -1,5 +1,10 @@
 {
     "name": "Snatch",
+    "description": [
+        "The user steals the effects of any\n",
+        "healing or stat-changing move the\n",
+        "opponent attempts to use."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

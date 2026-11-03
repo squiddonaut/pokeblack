@@ -1,5 +1,10 @@
 {
     "name": "Stun Spore",
+    "description": [
+        "The user scatters a cloud of paralyzing\n",
+        "powder. It may leave the target\n",
+        "with paralysis."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

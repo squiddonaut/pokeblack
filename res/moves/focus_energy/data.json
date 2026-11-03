@@ -1,5 +1,10 @@
 {
     "name": "Focus Energy",
+    "description": [
+        "The user takes a deep breath and\n",
+        "focuses so that critical hits land\n",
+        "more easily."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

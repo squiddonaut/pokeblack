@@ -1,5 +1,10 @@
 {
     "name": "Psychic",
+    "description": [
+        "The target is hit by a strong telekinetic\n",
+        "force. It may also reduce the target's\n",
+        "Sp. Def stat."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

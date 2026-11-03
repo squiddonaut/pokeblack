@@ -1,5 +1,10 @@
 {
     "name": "Gyro Ball",
+    "description": [
+        "The user tackles the target with a\n",
+        "high-speed spin. The slower the\n",
+        "user, the greater the damage."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

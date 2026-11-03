@@ -1,5 +1,10 @@
 {
     "name": "Focus Punch",
+    "description": [
+        "The user focuses its mind before\n",
+        "launching a punch. It will fail if the user\n",
+        "is hit before it is used."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

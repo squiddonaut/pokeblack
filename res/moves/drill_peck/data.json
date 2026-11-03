@@ -1,5 +1,9 @@
 {
     "name": "Drill Peck",
+    "description": [
+        "A corkscrewing attack with the\n",
+        "sharp beak acting as a drill."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

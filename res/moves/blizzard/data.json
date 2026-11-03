@@ -1,5 +1,10 @@
 {
     "name": "Blizzard",
+    "description": [
+        "A howling blizzard is summoned to strike\n",
+        "the opposing team. It may also freeze\n",
+        "them solid."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

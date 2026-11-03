@@ -1,5 +1,10 @@
 {
     "name": "Thunderbolt",
+    "description": [
+        "A strong electric blast is loosed at the\n",
+        "target. It may also leave the target\n",
+        "with paralysis."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

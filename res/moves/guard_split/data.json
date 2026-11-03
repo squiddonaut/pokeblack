@@ -1,5 +1,10 @@
 {
     "name": "Guard Split",
+    "description": [
+        "The user employs its psychic power to\n",
+        "average its Defense and Sp. Def stats\n",
+        "with those of its target's."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

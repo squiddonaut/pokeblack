@@ -1,5 +1,10 @@
 {
     "name": "Tail Slap",
+    "description": [
+        "The user attacks by striking the target\n",
+        "with its hard tail. It hits the target two\n",
+        "to five times in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

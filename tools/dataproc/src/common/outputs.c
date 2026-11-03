@@ -107,7 +107,10 @@ void Output_Init(Outputs *o)
         if (!state->file) abort();
 
         dp_node root = dp_new_object(state->file);
-        dp_put_int(root, "key", o->textBanks[i].key);
+        dp_put_int(root, "flags", o->textBanks[i].flags);
+        if (o->textBanks[i].pad != NULL) {
+            dp_put_string(root, "pad", o->textBanks[i].pad);
+        }
         state->messages = dp_put_array(root, "messages");
     }
 }

@@ -1,5 +1,10 @@
 {
     "name": "Frustration",
+    "description": [
+        "A full-power attack that grows more\n",
+        "powerful the less the user likes\n",
+        "its Trainer."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

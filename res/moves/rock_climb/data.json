@@ -1,5 +1,10 @@
 {
     "name": "Rock Climb",
+    "description": [
+        "The user attacks the target by smashing\n",
+        "into it with incredible force.\n",
+        "It may also confuse the target."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

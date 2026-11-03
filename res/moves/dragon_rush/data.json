@@ -1,5 +1,10 @@
 {
     "name": "Dragon Rush",
+    "description": [
+        "The user tackles the target while\n",
+        "exhibiting overwhelming menace.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

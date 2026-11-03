@@ -1,5 +1,10 @@
 {
     "name": "Heal Pulse",
+    "description": [
+        "The user emits a healing pulse which\n",
+        "restores the target's HP by up to\n",
+        "half of its max HP."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

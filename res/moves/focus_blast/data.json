@@ -1,5 +1,10 @@
 {
     "name": "Focus Blast",
+    "description": [
+        "The user heightens its mental focus and\n",
+        "unleashes its power.\n",
+        "It may also lower the target's Sp. Def."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

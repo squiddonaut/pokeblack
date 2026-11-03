@@ -1,5 +1,10 @@
 {
     "name": "String Shot",
+    "description": [
+        "The targets are bound with silk blown\n",
+        "from the user's mouth. This silk reduces\n",
+        "the targets' Speed stat."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

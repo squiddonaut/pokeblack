@@ -1,5 +1,9 @@
 {
     "name": "Sand-Attack",
+    "description": [
+        "Sand is hurled in the target's face,\n",
+        "reducing its accuracy."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

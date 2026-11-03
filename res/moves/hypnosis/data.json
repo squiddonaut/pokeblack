@@ -1,5 +1,9 @@
 {
     "name": "Hypnosis",
+    "description": [
+        "The user employs hypnotic suggestion\n",
+        "to make the target fall into a deep sleep."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

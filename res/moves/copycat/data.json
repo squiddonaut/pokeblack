@@ -1,5 +1,10 @@
 {
     "name": "Copycat",
+    "description": [
+        "The user mimics the move used immediately\n",
+        "before it. The move fails if no other move\n",
+        "has been used yet."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

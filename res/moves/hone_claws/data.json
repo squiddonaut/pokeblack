@@ -1,5 +1,9 @@
 {
     "name": "Hone Claws",
+    "description": [
+        "The user sharpens its claws to\n",
+        "boost its Attack stat and accuracy."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

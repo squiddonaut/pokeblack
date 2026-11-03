@@ -1,5 +1,10 @@
 {
     "name": "Encore",
+    "description": [
+        "The user compels the target\n",
+        "to keep using only the move\n",
+        "it last used for three turns."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Entrainment",
+    "description": [
+        "The user dances with an odd rhythm that\n",
+        "compels the target to mimic it, making the\n",
+        "target's Ability the same as the user's."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

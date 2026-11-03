@@ -1,5 +1,10 @@
 {
     "name": "Magic Coat",
+    "description": [
+        "A barrier reflects back to the target\n",
+        "moves like Leech Seed and moves\n",
+        "that damage status."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

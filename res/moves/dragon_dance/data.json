@@ -1,5 +1,10 @@
 {
     "name": "Dragon Dance",
+    "description": [
+        "The user vigorously performs a mystic,\n",
+        "powerful dance that boosts its Attack and\n",
+        "Speed stats."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

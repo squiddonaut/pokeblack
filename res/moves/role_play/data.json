@@ -1,5 +1,9 @@
 {
     "name": "Role Play",
+    "description": [
+        "The user mimics the target completely,\n",
+        "copying the target's natural Ability."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

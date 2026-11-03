@@ -1,5 +1,9 @@
 {
     "name": "Confuse Ray",
+    "description": [
+        "The target is exposed to a sinister\n",
+        "ray that triggers confusion."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

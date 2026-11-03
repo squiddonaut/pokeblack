@@ -1,5 +1,10 @@
 {
     "name": "Poison Gas",
+    "description": [
+        "A cloud of poison gas is sprayed\n",
+        "in the face of opposing Pokémon.\n",
+        "It may poison those hit."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

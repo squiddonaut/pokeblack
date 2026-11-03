@@ -1,5 +1,10 @@
 {
     "name": "Last Resort",
+    "description": [
+        "This move can be used only after the user\n",
+        "has used all the other moves it knows\n",
+        "in the battle."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Taunt",
+    "description": [
+        "The target is taunted into a rage that\n",
+        "allows it to use only attack moves\n",
+        "for three turns."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,9 @@
 {
     "name": "Scratch",
+    "description": [
+        "Hard, pointed, and sharp claws rake\n",
+        "the target to inflict damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

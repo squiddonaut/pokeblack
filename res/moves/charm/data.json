@@ -1,5 +1,10 @@
 {
     "name": "Charm",
+    "description": [
+        "The user gazes at the target rather\n",
+        "charmingly, making it less wary.\n",
+        "The target's Attack is harshly lowered."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

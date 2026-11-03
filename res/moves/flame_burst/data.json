@@ -1,5 +1,10 @@
 {
     "name": "Flame Burst",
+    "description": [
+        "The user attacks the target with a\n",
+        "bursting flame. The bursting flame damages\n",
+        "Pokémon next to the target as well."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

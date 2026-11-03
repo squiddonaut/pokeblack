@@ -1,5 +1,10 @@
 {
     "name": "Mean Look",
+    "description": [
+        "The user pins the target with a dark,\n",
+        "arresting look.\n",
+        "The target becomes unable to flee."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

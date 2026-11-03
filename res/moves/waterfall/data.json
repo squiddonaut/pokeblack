@@ -1,5 +1,10 @@
 {
     "name": "Waterfall",
+    "description": [
+        "The user charges at the target\n",
+        "and may make it flinch.\n",
+        "It can also be used to climb a waterfall."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

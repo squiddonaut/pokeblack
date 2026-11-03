@@ -1,5 +1,10 @@
 {
     "name": "Bounce",
+    "description": [
+        "The user bounces up high, then drops on\n",
+        "the target on the second turn. It may\n",
+        "also leave the target with paralysis."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Wring Out",
+    "description": [
+        "The user powerfully wrings the target.\n",
+        "The more HP the target has, the greater\n",
+        "this attack's power."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

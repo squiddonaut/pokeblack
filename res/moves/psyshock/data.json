@@ -1,5 +1,10 @@
 {
     "name": "Psyshock",
+    "description": [
+        "The user materializes an odd\n",
+        "psychic wave to attack the target.\n",
+        "This attack does physical damage."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

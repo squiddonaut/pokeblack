@@ -1,5 +1,9 @@
 {
     "name": "Work Up",
+    "description": [
+        "The user is roused, and its Attack\n",
+        "and Sp. Atk stats increase."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

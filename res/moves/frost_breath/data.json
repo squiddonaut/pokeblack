@@ -1,5 +1,10 @@
 {
     "name": "Frost Breath",
+    "description": [
+        "The user blows a cold breath on the\n",
+        "target. This attack always results in\n",
+        "a critical hit."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

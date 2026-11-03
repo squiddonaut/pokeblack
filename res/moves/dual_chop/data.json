@@ -1,5 +1,10 @@
 {
     "name": "Dual Chop",
+    "description": [
+        "The user attacks its target by hitting\n",
+        "it with brutal strikes.\n",
+        "The target is hit twice in a row."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

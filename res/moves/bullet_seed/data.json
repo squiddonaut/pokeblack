@@ -1,5 +1,10 @@
 {
     "name": "Bullet Seed",
+    "description": [
+        "The user forcefully shoots seeds at the\n",
+        "target. Two to five seeds are shot in\n",
+        "rapid succession."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

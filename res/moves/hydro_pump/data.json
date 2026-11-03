@@ -1,5 +1,9 @@
 {
     "name": "Hydro Pump",
+    "description": [
+        "The target is blasted by a huge volume\n",
+        "of water launched under great pressure."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

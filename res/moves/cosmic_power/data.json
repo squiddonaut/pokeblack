@@ -1,5 +1,10 @@
 {
     "name": "Cosmic Power",
+    "description": [
+        "The user absorbs a mystical power from\n",
+        "space to raise its Defense and\n",
+        "Sp. Def stats."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

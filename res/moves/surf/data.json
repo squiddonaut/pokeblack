@@ -1,5 +1,10 @@
 {
     "name": "Surf",
+    "description": [
+        "It swamps the area around the user\n",
+        "with a giant wave.\n",
+        "It can also be used for crossing water."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

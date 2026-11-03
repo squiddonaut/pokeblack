@@ -1,5 +1,10 @@
 {
     "name": "Shell Smash",
+    "description": [
+        "The user breaks its shell, lowering its\n",
+        "Defense and Sp. Def stats but sharply\n",
+        "raising Attack, Sp. Atk, and Speed stats."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

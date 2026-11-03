@@ -1,5 +1,10 @@
 {
     "name": "U-turn",
+    "description": [
+        "After making its attack, the user\n",
+        "rushes back to switch places with\n",
+        "a party Pokémon in waiting."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

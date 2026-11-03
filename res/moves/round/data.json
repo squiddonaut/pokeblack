@@ -1,5 +1,10 @@
 {
     "name": "Round",
+    "description": [
+        "The user attacks the target with a song.\n",
+        "Others can join in the Round and make\n",
+        "the attack do greater damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

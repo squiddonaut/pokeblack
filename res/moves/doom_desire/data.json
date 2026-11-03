@@ -1,5 +1,10 @@
 {
     "name": "Doom Desire",
+    "description": [
+        "Two turns after this move is used, the\n",
+        "user blasts the target with a\n",
+        "concentrated bundle of light."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_SPECIAL",

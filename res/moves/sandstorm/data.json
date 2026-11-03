@@ -1,5 +1,10 @@
 {
     "name": "Sandstorm",
+    "description": [
+        "A five-turn sandstorm is summoned\n",
+        "to hurt all combatants except the\n",
+        "Rock, Ground, and Steel types."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

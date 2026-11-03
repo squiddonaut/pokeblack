@@ -1,5 +1,10 @@
 {
     "name": "Clear Smog",
+    "description": [
+        "The user attacks by throwing a clump of\n",
+        "special mud. All status changes are\n",
+        "returned to normal."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

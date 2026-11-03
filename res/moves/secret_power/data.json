@@ -1,5 +1,10 @@
 {
     "name": "Secret Power",
+    "description": [
+        "The user attacks the target with a\n",
+        "secret power. Its added effects vary\n",
+        "depending on the user's environment."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

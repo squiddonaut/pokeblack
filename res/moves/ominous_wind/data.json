@@ -1,5 +1,10 @@
 {
     "name": "Ominous Wind",
+    "description": [
+        "The user blasts the target with a gust of\n",
+        "repulsive wind. It may also raise all the\n",
+        "user's stats at once."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

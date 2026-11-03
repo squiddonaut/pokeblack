@@ -1,5 +1,9 @@
 {
     "name": "Earthquake",
+    "description": [
+        "The user sets off an earthquake that\n",
+        "strikes those around it."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

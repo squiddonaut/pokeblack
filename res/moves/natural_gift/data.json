@@ -1,5 +1,10 @@
 {
     "name": "Natural Gift",
+    "description": [
+        "The user draws power to attack by using\n",
+        "its held Berry.\n",
+        "The Berry determines its type and power."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

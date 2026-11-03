@@ -1,5 +1,10 @@
 {
     "name": "Flamethrower",
+    "description": [
+        "The target is scorched with an intense\n",
+        "blast of fire. It may also leave the target\n",
+        "with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Psych Up",
+    "description": [
+        "The user hypnotizes itself into\n",
+        "copying any stat change made\n",
+        "by the target."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Magical Leaf",
+    "description": [
+        "The user scatters curious leaves\n",
+        "that chase the target.\n",
+        "This attack will not miss."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

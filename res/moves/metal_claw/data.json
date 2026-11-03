@@ -1,5 +1,9 @@
 {
     "name": "Metal Claw",
+    "description": [
+        "The target is raked with steel claws.\n",
+        "It may also raise the user's Attack stat."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Hyper Fang",
+    "description": [
+        "The user bites hard on the target\n",
+        "with its sharp front fangs.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

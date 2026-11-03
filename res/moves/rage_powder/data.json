@@ -1,5 +1,10 @@
 {
     "name": "Rage Powder",
+    "description": [
+        "The user scatters a cloud of irritating\n",
+        "powder to draw attention to itself.\n",
+        "Opponents aim only at the user."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Thief",
+    "description": [
+        "The user attacks and steals the target's\n",
+        "held item simultaneously.\n",
+        "It can't steal if the user holds an item."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

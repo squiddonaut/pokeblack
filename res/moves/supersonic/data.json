@@ -1,5 +1,9 @@
 {
     "name": "Supersonic",
+    "description": [
+        "The user generates odd sound waves from\n",
+        "its body. It may confuse the target."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

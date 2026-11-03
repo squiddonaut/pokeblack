@@ -1,5 +1,10 @@
 {
     "name": "Zen Headbutt",
+    "description": [
+        "The user focuses its willpower to its head\n",
+        "and attacks the target.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

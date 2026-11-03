@@ -1,5 +1,10 @@
 {
     "name": "Retaliate",
+    "description": [
+        "The user gets revenge for a fainted ally.\n",
+        "If an ally fainted in the previous turn,\n",
+        "this attack's damage increases."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Bide",
+    "description": [
+        "The user endures attacks for two\n",
+        "turns, then strikes back to cause\n",
+        "double the damage taken."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

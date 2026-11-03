@@ -1,5 +1,10 @@
 {
     "name": "Tri Attack",
+    "description": [
+        "The user strikes with a simultaneous\n",
+        "three-beam attack. May also burn, freeze,\n",
+        "or leave the target with paralysis."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

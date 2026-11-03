@@ -1,5 +1,10 @@
 {
     "name": "Sketch",
+    "description": [
+        "It enables the user to permanently learn\n",
+        "the move last used by the target.\n",
+        "Once used, Sketch disappears."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

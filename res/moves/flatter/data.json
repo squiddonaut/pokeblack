@@ -1,5 +1,10 @@
 {
     "name": "Flatter",
+    "description": [
+        "Flattery is used to confuse the target.\n",
+        "However, it also raises the target's\n",
+        "Sp. Atk stat."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STATUS_AND_STAT_CHANGE",
     "class": "CLASS_STATUS",

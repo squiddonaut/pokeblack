@@ -1,5 +1,10 @@
 {
     "name": "Mist Ball",
+    "description": [
+        "A mistlike flurry of down envelops and\n",
+        "damages the target. It may also lower\n",
+        "the target's Sp. Atk."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

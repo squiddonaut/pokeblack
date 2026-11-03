@@ -1,5 +1,9 @@
 {
     "name": "Howl",
+    "description": [
+        "The user howls loudly to raise its spirit,\n",
+        "boosting its Attack stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

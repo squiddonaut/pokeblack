@@ -1,5 +1,9 @@
 {
     "name": "SonicBoom",
+    "description": [
+        "The target is hit with a destructive shock\n",
+        "wave that always inflicts 20 HP damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Spikes",
+    "description": [
+        "The user lays a trap of spikes at the\n",
+        "opposing team's feet. The trap hurts\n",
+        "Pokémon that switch into battle."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

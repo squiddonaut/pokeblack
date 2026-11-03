@@ -1,5 +1,10 @@
 {
     "name": "Superpower",
+    "description": [
+        "The user attacks the target with great\n",
+        "power. However, it also lowers the\n",
+        "user's Attack and Defense."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

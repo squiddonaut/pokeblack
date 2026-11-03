@@ -1,5 +1,10 @@
 {
     "name": "Uproar",
+    "description": [
+        "The user attacks in an uproar for\n",
+        "three turns. Over that time,\n",
+        "no one can fall asleep."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

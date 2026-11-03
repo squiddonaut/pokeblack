@@ -1,5 +1,10 @@
 {
     "name": "Freeze Shock",
+    "description": [
+        "On the second turn, the user hits the\n",
+        "target with electrically charged ice.\n",
+        "It may leave the target with paralysis."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

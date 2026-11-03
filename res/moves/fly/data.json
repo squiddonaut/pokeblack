@@ -1,5 +1,10 @@
 {
     "name": "Fly",
+    "description": [
+        "The user soars, then strikes its target\n",
+        "on the second turn. It can also be\n",
+        "used for flying to any familiar town."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

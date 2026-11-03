@@ -1,5 +1,10 @@
 {
     "name": "Shadow Force",
+    "description": [
+        "The user disappears, then strikes the\n",
+        "target on the second turn.\n",
+        "It hits even if the target protects itself."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

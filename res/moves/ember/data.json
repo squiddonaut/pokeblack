@@ -1,5 +1,9 @@
 {
     "name": "Ember",
+    "description": [
+        "The target is attacked with small flames.\n",
+        "It may also leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

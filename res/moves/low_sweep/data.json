@@ -1,5 +1,10 @@
 {
     "name": "Low Sweep",
+    "description": [
+        "The user attacks the target's legs\n",
+        "swiftly, reducing the target's\n",
+        "Speed stat."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_PHYSICAL",

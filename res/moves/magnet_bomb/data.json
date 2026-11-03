@@ -1,5 +1,10 @@
 {
     "name": "Magnet Bomb",
+    "description": [
+        "The user launches steel bombs that\n",
+        "stick to the target.\n",
+        "This attack will not miss."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

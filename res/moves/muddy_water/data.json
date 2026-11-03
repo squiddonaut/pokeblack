@@ -1,5 +1,10 @@
 {
     "name": "Muddy Water",
+    "description": [
+        "The user attacks by shooting muddy water\n",
+        "at the opposing team.\n",
+        "It may also lower the targets' accuracy."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

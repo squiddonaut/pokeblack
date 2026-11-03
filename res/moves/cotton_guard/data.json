@@ -1,5 +1,10 @@
 {
     "name": "Cotton Guard",
+    "description": [
+        "The user protects itself by wrapping\n",
+        "its body in soft cotton, drastically\n",
+        "raising the user's Defense stat."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

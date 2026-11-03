@@ -1,5 +1,10 @@
 {
     "name": "Air Slash",
+    "description": [
+        "The user attacks with a blade of air that\n",
+        "slices even the sky. It may also make the\n",
+        "target flinch."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

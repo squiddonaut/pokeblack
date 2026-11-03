@@ -1,5 +1,10 @@
 {
     "name": "DragonBreath",
+    "description": [
+        "The user exhales a mighty gust that\n",
+        "inflicts damage. It may also leave the\n",
+        "target with paralysis."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Fire Pledge",
+    "description": [
+        "A column of fire hits opposing Pokémon.\n",
+        "When used with its Grass equivalent, its\n",
+        "damage increases into a vast sea of fire."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

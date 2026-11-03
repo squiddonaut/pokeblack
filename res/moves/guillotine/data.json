@@ -1,5 +1,10 @@
 {
     "name": "Guillotine",
+    "description": [
+        "A vicious, tearing attack with big pincers.\n",
+        "The target will faint instantly\n",
+        "if this attack hits."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_OHKO",
     "class": "CLASS_PHYSICAL",

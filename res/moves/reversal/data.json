@@ -1,5 +1,9 @@
 {
     "name": "Reversal",
+    "description": [
+        "An all-out attack that becomes more\n",
+        "powerful the less HP the user has."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

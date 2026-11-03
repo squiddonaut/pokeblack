@@ -1,5 +1,9 @@
 {
     "name": "Bone Club",
+    "description": [
+        "The user clubs the target with a bone.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

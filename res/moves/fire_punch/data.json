@@ -1,5 +1,9 @@
 {
     "name": "Fire Punch",
+    "description": [
+        "The target is punched with a fiery fist.\n",
+        "It may also leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

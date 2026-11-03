@@ -1,5 +1,10 @@
 {
     "name": "Acid Spray",
+    "description": [
+        "The user spits fluid that works to melt\n",
+        "the target. This harshly reduces\n",
+        "the target's Sp. Def stat."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

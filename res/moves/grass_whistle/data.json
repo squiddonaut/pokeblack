@@ -1,5 +1,9 @@
 {
     "name": "GrassWhistle",
+    "description": [
+        "The user plays a pleasant melody that\n",
+        "lulls the target into a deep sleep."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

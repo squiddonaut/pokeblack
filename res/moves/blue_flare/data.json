@@ -1,5 +1,10 @@
 {
     "name": "Blue Flare",
+    "description": [
+        "The user attacks by engulfing the target\n",
+        "in an intense, yet beautiful, blue flame.\n",
+        "It may leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

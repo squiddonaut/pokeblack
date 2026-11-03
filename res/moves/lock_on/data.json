@@ -1,5 +1,10 @@
 {
     "name": "Lock-On",
+    "description": [
+        "The user takes sure aim at the target.\n",
+        "It ensures the next attack does not fail\n",
+        "to hit the target."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

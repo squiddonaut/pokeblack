@@ -1,5 +1,10 @@
 {
     "name": "Leaf Blade",
+    "description": [
+        "The user handles a sharp leaf like a\n",
+        "sword and attacks by cutting its target.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

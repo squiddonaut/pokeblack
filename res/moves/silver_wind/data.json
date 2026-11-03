@@ -1,5 +1,10 @@
 {
     "name": "Silver Wind",
+    "description": [
+        "The target is attacked with powdery\n",
+        "scales blown by wind.\n",
+        "It may also raise all the user's stats."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

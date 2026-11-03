@@ -1,5 +1,10 @@
 {
     "name": "Transform",
+    "description": [
+        "The user transforms into a copy of the\n",
+        "target right down to having\n",
+        "the same move set."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

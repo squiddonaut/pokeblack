@@ -1,5 +1,10 @@
 {
     "name": "Strength",
+    "description": [
+        "The target is slugged with a punch thrown\n",
+        "at maximum power. It can also be used\n",
+        "to move heavy boulders."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

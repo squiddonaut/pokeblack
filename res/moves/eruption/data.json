@@ -1,5 +1,10 @@
 {
     "name": "Eruption",
+    "description": [
+        "The user attacks the opposing team with\n",
+        "explosive fury. The lower the user's HP,\n",
+        "the less powerful this attack becomes."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

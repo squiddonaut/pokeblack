@@ -1,5 +1,10 @@
 {
     "name": "Rock Blast",
+    "description": [
+        "The user hurls hard rocks at the target.\n",
+        "Two to five rocks are launched in quick\n",
+        "succession."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

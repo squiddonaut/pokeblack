@@ -1,5 +1,10 @@
 {
     "name": "Dark Void",
+    "description": [
+        "Opposing Pokémon are dragged into\n",
+        "a world of total darkness that makes\n",
+        "them sleep."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

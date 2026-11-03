@@ -1,5 +1,10 @@
 {
     "name": "Quick Guard",
+    "description": [
+        "The user protects itself and its allies\n",
+        "from priority moves. If used in\n",
+        "succession, its chance of failing rises."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

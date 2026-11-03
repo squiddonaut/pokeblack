@@ -1,5 +1,10 @@
 {
     "name": "Knock Off",
+    "description": [
+        "The user slaps down the target's\n",
+        "held item, preventing that item\n",
+        "from being used in the battle."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

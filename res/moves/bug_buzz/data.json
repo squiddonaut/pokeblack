@@ -1,5 +1,10 @@
 {
     "name": "Bug Buzz",
+    "description": [
+        "The user vibrates its wings to generate a\n",
+        "damaging sound wave. It may also lower\n",
+        "the target's Sp. Def stat."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

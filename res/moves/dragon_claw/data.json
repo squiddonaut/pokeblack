@@ -1,5 +1,9 @@
 {
     "name": "Dragon Claw",
+    "description": [
+        "The user slashes the target with huge,\n",
+        "sharp claws."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

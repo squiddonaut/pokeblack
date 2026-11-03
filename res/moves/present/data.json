@@ -1,5 +1,10 @@
 {
     "name": "Present",
+    "description": [
+        "The user attacks by giving the target a\n",
+        "gift with a hidden trap. It restores\n",
+        "HP sometimes, however."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

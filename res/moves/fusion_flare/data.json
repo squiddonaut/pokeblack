@@ -1,5 +1,10 @@
 {
     "name": "Fusion Flare",
+    "description": [
+        "The user brings down a giant flame.\n",
+        "This attack does greater damage when\n",
+        "influenced by an enormous thunderbolt."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

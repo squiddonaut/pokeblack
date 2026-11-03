@@ -1,5 +1,10 @@
 {
     "name": "Fire Fang",
+    "description": [
+        "The user bites with flame-cloaked fangs.\n",
+        "It may also make the target flinch or leave\n",
+        "it burned."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Skull Bash",
+    "description": [
+        "The user tucks in its head to raise its\n",
+        "Defense in the first turn, then\n",
+        "rams the target on the next turn."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

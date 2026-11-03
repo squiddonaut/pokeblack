@@ -1,5 +1,10 @@
 {
     "name": "Gravity",
+    "description": [
+        "Gravity is intensified for five turns,\n",
+        "making moves involving flying unusable\n",
+        "and negating Levitate."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

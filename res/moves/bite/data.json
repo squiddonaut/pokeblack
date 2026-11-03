@@ -1,5 +1,10 @@
 {
     "name": "Bite",
+    "description": [
+        "The target is bitten\n",
+        "with viciously sharp fangs.\n",
+        "It may make the target flinch."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

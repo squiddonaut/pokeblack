@@ -1,5 +1,10 @@
 {
     "name": "Defend Order",
+    "description": [
+        "The user calls out its underlings to\n",
+        "shield its body, raising its Defense\n",
+        "and Sp. Def stats."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Close Combat",
+    "description": [
+        "The user fights the target up close\n",
+        "without guarding itself. It also cuts\n",
+        "the user's Defense and Sp. Def."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_PHYSICAL",

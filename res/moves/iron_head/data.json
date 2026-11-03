@@ -1,5 +1,10 @@
 {
     "name": "Iron Head",
+    "description": [
+        "The user slams the target\n",
+        "with its steel-hard head.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

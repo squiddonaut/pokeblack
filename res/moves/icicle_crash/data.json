@@ -1,5 +1,10 @@
 {
     "name": "Icicle Crash",
+    "description": [
+        "The user attacks by harshly dropping\n",
+        "an icicle onto the target.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

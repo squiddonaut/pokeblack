@@ -1,5 +1,10 @@
 {
     "name": "Lick",
+    "description": [
+        "The target is licked with a long tongue,\n",
+        "causing damage. It may also leave\n",
+        "the target with paralysis."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

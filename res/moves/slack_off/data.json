@@ -1,5 +1,9 @@
 {
     "name": "Slack Off",
+    "description": [
+        "The user slacks off, restoring its own HP\n",
+        "by up to half of its maximum HP."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

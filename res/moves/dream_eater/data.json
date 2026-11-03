@@ -1,5 +1,10 @@
 {
     "name": "Dream Eater",
+    "description": [
+        "The user eats the dreams of a sleeping\n",
+        "target. It absorbs half the damage\n",
+        "caused to heal the user's HP."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_RECOVERY",
     "class": "CLASS_SPECIAL",

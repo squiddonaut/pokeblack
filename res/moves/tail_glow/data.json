@@ -1,5 +1,10 @@
 {
     "name": "Tail Glow",
+    "description": [
+        "The user stares at flashing lights to\n",
+        "focus its mind, drastically raising its\n",
+        "Sp. Atk stat."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

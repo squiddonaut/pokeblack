@@ -1,5 +1,9 @@
 {
     "name": "Whirlpool",
+    "description": [
+        "Traps foes in a violent swirling\n",
+        "whirlpool for four to five turns."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

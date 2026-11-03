@@ -1,5 +1,10 @@
 {
     "name": "Spacial Rend",
+    "description": [
+        "The user tears the target along with the\n",
+        "space around it.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

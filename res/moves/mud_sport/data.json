@@ -1,5 +1,10 @@
 {
     "name": "Mud Sport",
+    "description": [
+        "The user covers itself with mud. It\n",
+        "weakens Electric-type moves while the\n",
+        "user is in the battle."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

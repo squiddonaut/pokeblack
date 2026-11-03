@@ -1,5 +1,10 @@
 {
     "name": "Powder Snow",
+    "description": [
+        "The user attacks with a chilling gust\n",
+        "of powdery snow.\n",
+        "It may also freeze the targets."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

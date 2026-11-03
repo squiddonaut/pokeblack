@@ -1,5 +1,10 @@
 {
     "name": "Swagger",
+    "description": [
+        "The user enrages and confuses the target.\n",
+        "However, it also sharply raises the\n",
+        "target's Attack stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS_AND_STAT_CHANGE",
     "class": "CLASS_STATUS",

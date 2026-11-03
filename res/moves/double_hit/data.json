@@ -1,5 +1,10 @@
 {
     "name": "Double Hit",
+    "description": [
+        "The user slams the target with a long tail,\n",
+        "vines, or tentacle.\n",
+        "The target is hit twice in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,9 @@
 {
     "name": "Comet Punch",
+    "description": [
+        "The target is hit with a flurry of punches\n",
+        "that strike two to five times in a row."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

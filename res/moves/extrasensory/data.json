@@ -1,5 +1,10 @@
 {
     "name": "Extrasensory",
+    "description": [
+        "The user attacks with an odd,\n",
+        "unseeable power.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

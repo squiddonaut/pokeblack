@@ -1,5 +1,10 @@
 {
     "name": "Bubble",
+    "description": [
+        "A spray of countless bubbles is jetted at\n",
+        "the opposing team. It may also lower the\n",
+        "targets' Speed stats."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

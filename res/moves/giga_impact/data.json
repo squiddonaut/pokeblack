@@ -1,5 +1,10 @@
 {
     "name": "Giga Impact",
+    "description": [
+        "The user charges at the target using\n",
+        "every bit of its power.\n",
+        "The user must rest on the next turn."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Future Sight",
+    "description": [
+        "Two turns after this move is used,\n",
+        "a hunk of psychic energy\n",
+        "attacks the target."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_SPECIAL",

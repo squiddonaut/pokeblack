@@ -1,5 +1,10 @@
 {
     "name": "Electro Ball",
+    "description": [
+        "The user hurls an electric orb\n",
+        "at the target. The faster the user is\n",
+        "than the target, the greater the damage."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

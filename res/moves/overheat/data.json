@@ -1,5 +1,10 @@
 {
     "name": "Overheat",
+    "description": [
+        "The user attacks the target at full power.\n",
+        "The attack's recoil harshly reduces the\n",
+        "user's Sp. Atk stat."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

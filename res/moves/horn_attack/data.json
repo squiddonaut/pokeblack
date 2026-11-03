@@ -1,5 +1,9 @@
 {
     "name": "Horn Attack",
+    "description": [
+        "The target is jabbed with a sharply\n",
+        "pointed horn to inflict damage."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

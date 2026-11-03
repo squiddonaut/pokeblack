@@ -1,5 +1,9 @@
 {
     "name": "Defense Curl",
+    "description": [
+        "The user curls up to conceal weak spots\n",
+        "and raise its Defense stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

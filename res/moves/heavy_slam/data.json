@@ -1,5 +1,10 @@
 {
     "name": "Heavy Slam",
+    "description": [
+        "The user slams into the target with its\n",
+        "heavy body. The more the user outweighs\n",
+        "the target, the greater its damage."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

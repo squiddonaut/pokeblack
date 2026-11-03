@@ -1,5 +1,10 @@
 {
     "name": "Leer",
+    "description": [
+        "The opposing team gains an intimidating\n",
+        "leer with sharp eyes. The opposing team's\n",
+        "Defense stats are reduced."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

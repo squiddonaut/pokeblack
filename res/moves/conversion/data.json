@@ -1,5 +1,9 @@
 {
     "name": "Conversion",
+    "description": [
+        "The user changes its type to become the\n",
+        "same type as one of its moves."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Head Smash",
+    "description": [
+        "The user attacks the target with a\n",
+        "hazardous, full-power headbutt.\n",
+        "The user also takes terrible damage."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Sweet Scent",
+    "description": [
+        "A sweet scent that lowers the opposing\n",
+        "team's evasiveness. It also lures wild\n",
+        "Pokémon if used in grass, etc."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

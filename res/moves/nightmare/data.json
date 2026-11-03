@@ -1,5 +1,9 @@
 {
     "name": "Nightmare",
+    "description": [
+        "A sleeping target sees a nightmare\n",
+        "that inflicts some damage every turn."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

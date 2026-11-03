@@ -1,5 +1,10 @@
 {
     "name": "Stored Power",
+    "description": [
+        "The user attacks the target with stored\n",
+        "power. The more the user's stats are\n",
+        "raised, the greater the damage."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

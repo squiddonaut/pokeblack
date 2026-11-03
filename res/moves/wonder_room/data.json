@@ -1,5 +1,10 @@
 {
     "name": "Wonder Room",
+    "description": [
+        "The user creates a bizarre area in which\n",
+        "Pokémon's Defense and Sp. Def\n",
+        "stats are swapped for five turns."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

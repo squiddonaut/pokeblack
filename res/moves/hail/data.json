@@ -1,5 +1,10 @@
 {
     "name": "Hail",
+    "description": [
+        "The user summons a hailstorm lasting five\n",
+        "turns. It damages all Pokémon except the\n",
+        "Ice type."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

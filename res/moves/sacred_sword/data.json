@@ -1,5 +1,10 @@
 {
     "name": "Sacred Sword",
+    "description": [
+        "The user attacks by slicing with its long\n",
+        "horns. The target's stat changes\n",
+        "don't affect this attack's damage."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

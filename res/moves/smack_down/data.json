@@ -1,5 +1,10 @@
 {
     "name": "Smack Down",
+    "description": [
+        "The user throws a stone or projectile to\n",
+        "attack an opponent. A flying Pokémon will\n",
+        "fall to the ground when hit."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

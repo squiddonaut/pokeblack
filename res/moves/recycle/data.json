@@ -1,5 +1,10 @@
 {
     "name": "Recycle",
+    "description": [
+        "The user recycles a held item that\n",
+        "has been used in battle so it can be\n",
+        "used again."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

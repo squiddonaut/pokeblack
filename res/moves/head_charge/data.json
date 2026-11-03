@@ -1,5 +1,10 @@
 {
     "name": "Head Charge",
+    "description": [
+        "The user charges its head into its\n",
+        "target, using its powerful guard hair.\n",
+        "It also damages the user a little."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

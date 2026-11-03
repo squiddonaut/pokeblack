@@ -1,5 +1,10 @@
 {
     "name": "Water Sport",
+    "description": [
+        "The user soaks itself with water. The move\n",
+        "weakens Fire-type moves while the user\n",
+        "is in the battle."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

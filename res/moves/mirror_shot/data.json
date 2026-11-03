@@ -1,5 +1,10 @@
 {
     "name": "Mirror Shot",
+    "description": [
+        "The user looses a flash of energy at\n",
+        "the target from its polished body.\n",
+        "It may also lower the target's accuracy."
+    ],
     "type": "TYPE_STEEL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

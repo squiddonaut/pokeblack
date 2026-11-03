@@ -1,5 +1,10 @@
 {
     "name": "Ice Fang",
+    "description": [
+        "The user bites with cold-infused fangs.\n",
+        "It may also make the target flinch or\n",
+        "leave it frozen."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

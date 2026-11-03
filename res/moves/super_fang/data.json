@@ -1,5 +1,10 @@
 {
     "name": "Super Fang",
+    "description": [
+        "The user chomps hard on the\n",
+        "target with its sharp front fangs.\n",
+        "It cuts the target's HP to half."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,9 @@
 {
     "name": "Mirror Move",
+    "description": [
+        "The user counters the target by mimicking\n",
+        "the target's last move."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

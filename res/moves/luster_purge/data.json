@@ -1,5 +1,10 @@
 {
     "name": "Luster Purge",
+    "description": [
+        "The user lets loose a damaging burst\n",
+        "of light. It may also reduce the target's\n",
+        "Sp. Def stat."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

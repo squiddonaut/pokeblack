@@ -1,5 +1,10 @@
 {
     "name": "Pin Missile",
+    "description": [
+        "Sharp spikes are shot at the target\n",
+        "in rapid succession.\n",
+        "They hit two to five times in a row."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

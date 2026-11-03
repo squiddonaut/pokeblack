@@ -1,5 +1,10 @@
 {
     "name": "Brick Break",
+    "description": [
+        "The user attacks with a swift chop. It\n",
+        "can also break any barrier such as Light\n",
+        "Screen and Reflect."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

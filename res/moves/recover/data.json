@@ -1,5 +1,10 @@
 {
     "name": "Recover",
+    "description": [
+        "Restoring its own cells, the user\n",
+        "restores its own HP by half of\n",
+        "its max HP."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_RECOVERY",
     "class": "CLASS_STATUS",

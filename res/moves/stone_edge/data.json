@@ -1,5 +1,10 @@
 {
     "name": "Stone Edge",
+    "description": [
+        "The user stabs the foe with\n",
+        "sharpened stones from below.\n",
+        "It has a high critical-hit ratio."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

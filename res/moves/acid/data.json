@@ -1,5 +1,10 @@
 {
     "name": "Acid",
+    "description": [
+        "The opposing team is attacked with a spray\n",
+        "of harsh acid. The acid may also lower\n",
+        "the targets' Sp. Def stats."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

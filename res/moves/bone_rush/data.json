@@ -1,5 +1,9 @@
 {
     "name": "Bone Rush",
+    "description": [
+        "The user strikes the target with a hard\n",
+        "bone two to five times in a row."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

@@ -1,5 +1,10 @@
 {
     "name": "Smog",
+    "description": [
+        "The target is attacked with a\n",
+        "discharge of filthy gases.\n",
+        "It may also poison the target."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

@@ -1,5 +1,10 @@
 {
     "name": "Lovely Kiss",
+    "description": [
+        "With a scary face, the user tries to\n",
+        "force a kiss on the target. If it\n",
+        "succeeds, the target falls asleep."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

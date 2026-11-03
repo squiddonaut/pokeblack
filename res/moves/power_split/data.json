@@ -1,5 +1,10 @@
 {
     "name": "Power Split",
+    "description": [
+        "The user employs its psychic power to\n",
+        "average its Attack and Sp. Atk stats\n",
+        "with those of the target's."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Sharpen",
+    "description": [
+        "The user reduces its polygon count to\n",
+        "make itself more jagged, raising the\n",
+        "Attack stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

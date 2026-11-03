@@ -15,7 +15,12 @@ static const char *enumFile = NULL;
 static const char *baseDir  = NULL;
 
 enum { A_MOVE_DATA };
-enum { T_MOVE_NAMES };
+enum {
+    T_MOVES_USED_IN_BATTLE,
+    T_MOVE_DESCRIPTIONS,
+    T_MOVE_NAMES,
+    T_MOVE_NAMES_UPPERCASE
+};
 
 #define L_MOVE_CATEGORY "enum MoveCategory"
 #define L_MOVE_CLASS    "enum MoveClass"
@@ -54,7 +59,10 @@ static Driver driver = {
         },
 
         .textBanks = (TextBank[]) {
-            [T_MOVE_NAMES] = { .filename = "move_names.json" },
+            [T_MOVES_USED_IN_BATTLE] = { .filename = "moves_used_in_battle.json", .flags = 240, .pad = "3434" },
+            [T_MOVE_DESCRIPTIONS]    = { .filename = "move_descriptions.json",    .flags = 232 },
+            [T_MOVE_NAMES]           = { .filename = "move_names.json",           .flags = 84,  .pad = "1212" },
+            [T_MOVE_NAMES_UPPERCASE] = { .filename = "move_names_uppercase.json", .flags = 84 },
             { 0 }
         }
     }
@@ -127,6 +135,34 @@ static void ProcText(dp_node root, size_t i, const char *stem) {
     const char *name = dp_string_at(root, ".name");
     if (name == NULL) return; // error is already staged
     TextBank_PushString(T_MOVE_NAMES, name, "MoveNames_Text_%s", stem);
+
+    char *upper = String_ToUpper(name);
+    if (i == MOVE_NONE) {
+        TextBank_PushString(T_MOVE_NAMES_UPPERCASE, "", "MoveNamesUppercase_Text_%s", stem);
+    } else {
+        TextBank_PushString(T_MOVE_NAMES_UPPERCASE, upper, "MoveNamesUppercase_Text_%s", stem);
+    }
+    free(upper);
+
+    TextBank_PushNode(T_MOVE_DESCRIPTIONS, dp_at(root, ".description"), "MoveDescriptions_Text_%s", stem);
+
+    if (i == MOVE_NONE) {
+        TextBank_PushString(T_MOVES_USED_IN_BATTLE, "!", "MovesUsedInBattle_Text_%s_Ally", stem);
+        TextBank_PushString(T_MOVES_USED_IN_BATTLE, "!", "MovesUsedInBattle_Text_%s_Wild", stem);
+        TextBank_PushString(T_MOVES_USED_IN_BATTLE, "!", "MovesUsedInBattle_Text_%s_Foe",  stem);
+        return;
+    }
+
+    char *nameLine = String_Format("%s!", name);
+    const char *ally[] = { "{VAR 0101 0000} used\n",          nameLine };
+    const char *wild[] = { "The wild {VAR 0101 0000} used\n", nameLine };
+    const char *foe[]  = { "The foe's {VAR 0101 0000} used\n", nameLine };
+    TextBank_PushLines(T_MOVES_USED_IN_BATTLE, ally, NELEMS(ally), "MovesUsedInBattle_Text_%s_Ally", stem);
+    TextBank_PushLines(T_MOVES_USED_IN_BATTLE, wild, NELEMS(wild), "MovesUsedInBattle_Text_%s_Wild", stem);
+    TextBank_PushLines(T_MOVES_USED_IN_BATTLE, foe,  NELEMS(foe),  "MovesUsedInBattle_Text_%s_Foe",  stem);
+    free(nameLine);
+
+
 }
 
 int main(int argc, char **argv) {

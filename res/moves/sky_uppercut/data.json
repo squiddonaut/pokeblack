@@ -1,5 +1,9 @@
 {
     "name": "Sky Uppercut",
+    "description": [
+        "The user attacks the target with an\n",
+        "uppercut thrown skyward with force."
+    ],
     "type": "TYPE_FIGHTING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

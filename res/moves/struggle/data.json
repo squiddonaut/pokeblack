@@ -1,5 +1,10 @@
 {
     "name": "Struggle",
+    "description": [
+        "An attack that is used in desperation\n",
+        "only if the user has no PP. It also hurts\n",
+        "the user slightly."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

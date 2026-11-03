@@ -1,5 +1,10 @@
 {
     "name": "Wild Charge",
+    "description": [
+        "The user shrouds itself in electricity\n",
+        "and smashes into its target.\n",
+        "It also damages the user a little."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

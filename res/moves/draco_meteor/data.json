@@ -1,5 +1,10 @@
 {
     "name": "Draco Meteor",
+    "description": [
+        "Comets are summoned down from the sky\n",
+        "onto the target. The attack's recoil\n",
+        "harshly reduces the user's Sp. Atk stat."
+    ],
     "type": "TYPE_DRAGON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
     "class": "CLASS_SPECIAL",

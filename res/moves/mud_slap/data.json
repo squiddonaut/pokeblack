@@ -1,5 +1,9 @@
 {
     "name": "Mud-Slap",
+    "description": [
+        "The user hurls mud in the target's face to\n",
+        "inflict damage and lower its accuracy."
+    ],
     "type": "TYPE_GROUND",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

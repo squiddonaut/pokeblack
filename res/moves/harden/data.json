@@ -1,5 +1,9 @@
 {
     "name": "Harden",
+    "description": [
+        "The user stiffens all the muscles in its\n",
+        "body to raise its Defense stat."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

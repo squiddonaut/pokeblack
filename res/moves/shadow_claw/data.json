@@ -1,5 +1,10 @@
 {
     "name": "Shadow Claw",
+    "description": [
+        "The user slashes with a sharp claw made\n",
+        "from shadows.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

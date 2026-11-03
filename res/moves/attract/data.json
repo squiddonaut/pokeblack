@@ -1,5 +1,10 @@
 {
     "name": "Attract",
+    "description": [
+        "If it is the opposite gender of the user,\n",
+        "the target becomes infatuated and less\n",
+        "likely to attack."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Flame Wheel",
+    "description": [
+        "The user cloaks itself in fire and\n",
+        "charges at the target.\n",
+        "It may also leave the target with a burn."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

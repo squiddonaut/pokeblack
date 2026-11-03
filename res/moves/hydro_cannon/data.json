@@ -1,5 +1,10 @@
 {
     "name": "Hydro Cannon",
+    "description": [
+        "The target is hit with a watery blast.\n",
+        "The user must rest on the\n",
+        "next turn, however."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

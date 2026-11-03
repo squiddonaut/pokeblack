@@ -1,5 +1,10 @@
 {
     "name": "Aeroblast",
+    "description": [
+        "A vortex of air is shot at the target to\n",
+        "inflict damage.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

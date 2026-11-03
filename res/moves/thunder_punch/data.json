@@ -1,5 +1,10 @@
 {
     "name": "ThunderPunch",
+    "description": [
+        "The target is punched with an electrified\n",
+        "fist. It may also leave the target\n",
+        "with paralysis."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

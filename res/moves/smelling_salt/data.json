@@ -1,5 +1,10 @@
 {
     "name": "SmellingSalt",
+    "description": [
+        "This attack inflicts double damage on a\n",
+        "target with paralysis. It also cures the\n",
+        "target's paralysis, however."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

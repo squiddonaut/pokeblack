@@ -1,5 +1,10 @@
 {
     "name": "Fusion Bolt",
+    "description": [
+        "The user throws down a giant thunderbolt.\n",
+        "This attack does greater damage\n",
+        "when influenced by an enormous flame."
+    ],
     "type": "TYPE_ELECTRIC",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

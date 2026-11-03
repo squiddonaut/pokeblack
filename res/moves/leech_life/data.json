@@ -1,5 +1,10 @@
 {
     "name": "Leech Life",
+    "description": [
+        "The user drains the target's blood.\n",
+        "The user's HP is restored by half the\n",
+        "damage taken by the target."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE_AND_RECOVERY",
     "class": "CLASS_PHYSICAL",

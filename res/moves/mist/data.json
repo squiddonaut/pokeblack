@@ -1,5 +1,10 @@
 {
     "name": "Mist",
+    "description": [
+        "The user cloaks its body with a white mist\n",
+        "that prevents any of its stats from being\n",
+        "cut for five turns."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
     "class": "CLASS_STATUS",

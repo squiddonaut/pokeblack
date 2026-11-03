@@ -1,5 +1,10 @@
 {
     "name": "Camouflage",
+    "description": [
+        "The user's type is changed depending on\n",
+        "its environment, such as at water's edge,\n",
+        "in grass, or in a cave."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Bestow",
+    "description": [
+        "The user passes its held item to the\n",
+        "target when the target isn't holding\n",
+        "an item."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

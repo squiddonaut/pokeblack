@@ -1,5 +1,9 @@
 {
     "name": "Stomp",
+    "description": [
+        "The target is stomped with a big foot.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

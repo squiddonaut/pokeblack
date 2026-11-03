@@ -1,5 +1,10 @@
 {
     "name": "Night Shade",
+    "description": [
+        "The user makes the target see a\n",
+        "frightening mirage. It inflicts damage\n",
+        "matching the user's level."
+    ],
     "type": "TYPE_GHOST",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

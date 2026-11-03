@@ -1,5 +1,9 @@
 {
     "name": "Power Gem",
+    "description": [
+        "The user attacks with a ray of light that\n",
+        "sparkles as if it were made of gemstones."
+    ],
     "type": "TYPE_ROCK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_SPECIAL",

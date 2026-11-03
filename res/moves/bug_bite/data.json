@@ -1,5 +1,10 @@
 {
     "name": "Bug Bite",
+    "description": [
+        "The user bites the target. If the target\n",
+        "is holding a Berry, the user eats it and\n",
+        "gains its effect."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

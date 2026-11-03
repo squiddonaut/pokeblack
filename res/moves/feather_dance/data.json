@@ -1,5 +1,10 @@
 {
     "name": "FeatherDance",
+    "description": [
+        "The user covers the target's body with a\n",
+        "mass of down that harshly lowers its\n",
+        "Attack stat."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

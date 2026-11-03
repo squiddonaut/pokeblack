@@ -1,5 +1,10 @@
 {
     "name": "Relic Song",
+    "description": [
+        "The user sings an ancient song and attacks\n",
+        "by appealing to the hearts of those\n",
+        "listening. It may also induce sleep."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

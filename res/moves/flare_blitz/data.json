@@ -1,5 +1,10 @@
 {
     "name": "Flare Blitz",
+    "description": [
+        "The user cloaks itself in fire and charges\n",
+        "at the target. The user sustains serious\n",
+        "damage and may leave the target burned."
+    ],
     "type": "TYPE_FIRE",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

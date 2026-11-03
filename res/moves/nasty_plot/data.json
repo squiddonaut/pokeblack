@@ -1,5 +1,10 @@
 {
     "name": "Nasty Plot",
+    "description": [
+        "The user stimulates its brain by thinking\n",
+        "bad thoughts.\n",
+        "It sharply raises the user's Sp. Atk."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

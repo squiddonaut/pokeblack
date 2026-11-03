@@ -1,5 +1,10 @@
 {
     "name": "Leaf Tornado",
+    "description": [
+        "The user attacks its target by\n",
+        "encircling it in sharp leaves. This attack\n",
+        "may also lower the target's accuracy."
+    ],
     "type": "TYPE_GRASS",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

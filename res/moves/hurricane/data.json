@@ -1,5 +1,10 @@
 {
     "name": "Hurricane",
+    "description": [
+        "The user attacks by wrapping its opponent\n",
+        "in a fierce wind that flies up into the sky.\n",
+        "It may also confuse the target."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

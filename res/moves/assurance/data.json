@@ -1,5 +1,10 @@
 {
     "name": "Assurance",
+    "description": [
+        "If the target has already taken some\n",
+        "damage in the same turn, this attack's\n",
+        "power is doubled."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

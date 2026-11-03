@@ -1,5 +1,10 @@
 {
     "name": "Sludge Wave",
+    "description": [
+        "It swamps the area around the user with a\n",
+        "giant sludge wave.\n",
+        "It may also poison those hit."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_SPECIAL",

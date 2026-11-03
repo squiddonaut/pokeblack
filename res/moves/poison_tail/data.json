@@ -1,5 +1,10 @@
 {
     "name": "Poison Tail",
+    "description": [
+        "The user hits the target with its tail.\n",
+        "It may also poison the target.\n",
+        "Critical hits land more easily."
+    ],
     "type": "TYPE_POISON",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
     "class": "CLASS_PHYSICAL",

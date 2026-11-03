@@ -1,5 +1,10 @@
 {
     "name": "Facade",
+    "description": [
+        "An attack move that doubles its power if\n",
+        "the user is poisoned, burned, or\n",
+        "has paralysis."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

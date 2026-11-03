@@ -1,5 +1,9 @@
 {
     "name": "Spider Web",
+    "description": [
+        "The user ensnares the target with thin,\n",
+        "gooey silk so it can't flee from battle."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_SPECIAL",
     "class": "CLASS_STATUS",

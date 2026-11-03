@@ -1,5 +1,10 @@
 {
     "name": "Kinesis",
+    "description": [
+        "The user distracts the target\n",
+        "by bending a spoon.\n",
+        "It lowers the target's accuracy."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

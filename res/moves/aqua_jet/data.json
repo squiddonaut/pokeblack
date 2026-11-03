@@ -1,5 +1,10 @@
 {
     "name": "Aqua Jet",
+    "description": [
+        "The user lunges at the target at a speed\n",
+        "that makes it almost invisible. It is sure\n",
+        "to strike first."
+    ],
     "type": "TYPE_WATER",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

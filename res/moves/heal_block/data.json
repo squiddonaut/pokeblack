@@ -1,5 +1,10 @@
 {
     "name": "Heal Block",
+    "description": [
+        "For five turns, the user prevents the\n",
+        "opposing team from using any moves,\n",
+        "Abilities, or held items that recover HP."
+    ],
     "type": "TYPE_PSYCHIC",
     "category": "MOVE_CATEGORY_STATUS",
     "class": "CLASS_STATUS",

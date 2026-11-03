@@ -1,5 +1,10 @@
 {
     "name": "X-Scissor",
+    "description": [
+        "The user slashes at the target by\n",
+        "crossing its scythes or claws as if\n",
+        "they were a pair of scissors."
+    ],
     "type": "TYPE_BUG",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

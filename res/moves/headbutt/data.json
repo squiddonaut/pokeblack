@@ -1,5 +1,10 @@
 {
     "name": "Headbutt",
+    "description": [
+        "The user sticks out its head and attacks\n",
+        "by charging straight into the target.\n",
+        "It may also make the target flinch."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

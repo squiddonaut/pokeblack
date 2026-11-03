@@ -1,5 +1,10 @@
 {
     "name": "Minimize",
+    "description": [
+        "The user compresses its body\n",
+        "to make itself look smaller,\n",
+        "which sharply raises its evasiveness."
+    ],
     "type": "TYPE_NORMAL",
     "category": "MOVE_CATEGORY_STAT_CHANGE",
     "class": "CLASS_STATUS",

@@ -1,5 +1,10 @@
 {
     "name": "Night Daze",
+    "description": [
+        "The user lets loose a pitch-black shock\n",
+        "wave at its target. It may also lower the\n",
+        "target's accuracy."
+    ],
     "type": "TYPE_DARK",
     "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_TARGET",
     "class": "CLASS_SPECIAL",

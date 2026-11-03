@@ -1,5 +1,10 @@
 {
     "name": "Icicle Spear",
+    "description": [
+        "The user launches sharp icicles at the\n",
+        "target. It strikes two to five times in\n",
+        "a row."
+    ],
     "type": "TYPE_ICE",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",

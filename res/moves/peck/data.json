@@ -1,5 +1,9 @@
 {
     "name": "Peck",
+    "description": [
+        "The target is jabbed with a sharply\n",
+        "pointed beak or horn."
+    ],
     "type": "TYPE_FLYING",
     "category": "MOVE_CATEGORY_DAMAGE",
     "class": "CLASS_PHYSICAL",
