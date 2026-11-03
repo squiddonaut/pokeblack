@@ -1,8 +1,8 @@
 CC := gcc
 CFLAGS := -O3 -Wno-unused-result
-INCLUDE_DIRS := src lib lib/include ../nitroarc/lib/include ../../include
+INCLUDE_DIRS := src lib lib/include ../nitroarc/lib/include ../enumproc ../../include
 
-SRCS := src/common/cli.c src/common/driver.c src/common/entries.c src/common/lookups.c src/common/outputs.c src/common/strings.c lib/dataproc.c lib/json.c lib/yyjson.c lib/libenum.c lib/libexpr.c ../nitroarc/lib/nitroarc.c
+SRCS := src/common/cli.c src/common/driver.c src/common/entries.c src/common/lookups.c src/common/outputs.c src/common/strings.c lib/dataproc.c lib/json.c lib/yyjson.c ../enumproc/libenum.c ../enumproc/libexpr.c ../nitroarc/lib/nitroarc.c
 INCLUDES = $(addprefix -I,$(INCLUDE_DIRS))
 
 TEMPLATES_DIR := \"tools/dataproc/templates\"
