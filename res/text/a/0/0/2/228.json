@@ -1,0 +1,98 @@
+{
+    "flags": 192,
+    "pad": "5a5a",
+    "messages": [
+        {
+            "id": "a002_228_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_228_0001",
+            "en_US": "Blekinge"
+        },
+        {
+            "id": "a002_228_0002",
+            "en_US": "Dalarna"
+        },
+        {
+            "id": "a002_228_0003",
+            "en_US": "Gävleborg"
+        },
+        {
+            "id": "a002_228_0004",
+            "en_US": "Gotland"
+        },
+        {
+            "id": "a002_228_0005",
+            "en_US": "Halland"
+        },
+        {
+            "id": "a002_228_0006",
+            "en_US": "Jamtland"
+        },
+        {
+            "id": "a002_228_0007",
+            "en_US": "Jönköping"
+        },
+        {
+            "id": "a002_228_0008",
+            "en_US": "Kalmar"
+        },
+        {
+            "id": "a002_228_0009",
+            "en_US": "Kronoberg"
+        },
+        {
+            "id": "a002_228_0010",
+            "en_US": "Norrbotten"
+        },
+        {
+            "id": "a002_228_0011",
+            "en_US": "Oland"
+        },
+        {
+            "id": "a002_228_0012",
+            "en_US": "Örebro"
+        },
+        {
+            "id": "a002_228_0013",
+            "en_US": "Östergötland"
+        },
+        {
+            "id": "a002_228_0014",
+            "en_US": "Skane"
+        },
+        {
+            "id": "a002_228_0015",
+            "en_US": "Sodermanland"
+        },
+        {
+            "id": "a002_228_0016",
+            "en_US": "Stockholm"
+        },
+        {
+            "id": "a002_228_0017",
+            "en_US": "Uppsala"
+        },
+        {
+            "id": "a002_228_0018",
+            "en_US": "Varmland"
+        },
+        {
+            "id": "a002_228_0019",
+            "en_US": "Vasterbotten"
+        },
+        {
+            "id": "a002_228_0020",
+            "en_US": "Västernorrland"
+        },
+        {
+            "id": "a002_228_0021",
+            "en_US": "Vastmanland"
+        },
+        {
+            "id": "a002_228_0022",
+            "en_US": "Västra Götaland"
+        }
+    ]
+}

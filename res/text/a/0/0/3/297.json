@@ -1,0 +1,62 @@
+{
+    "flags": 224,
+    "pad": "b8b8",
+    "messages": [
+        {
+            "id": "a003_297_0000",
+            "en_US": [
+                "It's a basketball that looks like\n",
+                "it's been used a lot.{VAR BE00}\n",
+                "It says Harmonia on it..."
+            ]
+        },
+        {
+            "id": "a003_297_0001",
+            "en_US": "It's a home-style basketball hoop..."
+        },
+        {
+            "id": "a003_297_0002",
+            "en_US": "This toy box is full of new toys..."
+        },
+        {
+            "id": "a003_297_0003",
+            "en_US": [
+                "A skateboard is resting on\n",
+                "a pile of wheels."
+            ]
+        },
+        {
+            "id": "a003_297_0004",
+            "en_US": [
+                "A halfpipe for skateboards...{VAR BE01}\n",
+                "It has Pokémon scratch marks\n",
+                "on it here and there..."
+            ]
+        },
+        {
+            "id": "a003_297_0005",
+            "en_US": [
+                "An art panel with a\n",
+                "printed geometric pattern."
+            ]
+        },
+        {
+            "id": "a003_297_0006",
+            "en_US": "This panel has a dart stuck in it."
+        },
+        {
+            "id": "a003_297_0007",
+            "en_US": [
+                "It's a set of trains and tracks.\n",
+                "Has it been played with recently?"
+            ]
+        },
+        {
+            "id": "a003_297_0008",
+            "en_US": [
+                "This toy box contains\n",
+                "pieces of a train set."
+            ]
+        }
+    ]
+}

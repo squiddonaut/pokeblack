@@ -1,0 +1,114 @@
+{
+    "flags": 229,
+    "messages": [
+        {
+            "id": "a002_004_0000",
+            "en_US": "Welcome to Battle Competition!"
+        },
+        {
+            "id": "a002_004_0001",
+            "en_US": [
+                "There are two kinds of Battle Competition.\n",
+                "One is the Wi-Fi Competition, which is held{VAR BE00}\n",
+                "via Nintendo Wi-Fi Connection, and the{VAR BE00}\n",
+                "other is the Live Competition, which is{VAR BE00}\n",
+                "held at certain events.{VAR BE01}\n",
+                "Only Pokémon registered in your\n",
+                "Battle Box can participate.{VAR BE01}\n",
+                "Once registered, you cannot move\n",
+                "your Pokémon to and from your{VAR BE00}\n",
+                "Battle Box.{VAR BE01}\n",
+                "When you participate in a competition,\n",
+                "your Digital Player ID will be updated.{VAR BE00}\n",
+                "Please check it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_004_0002",
+            "en_US": "To the Wi-Fi Competition",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0003",
+            "en_US": "To the Live Competition",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0004",
+            "en_US": "Check your Digital Player ID",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0005",
+            "en_US": "Info",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0006",
+            "en_US": "Back",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0007",
+            "en_US": "Participate",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0008",
+            "en_US": [
+                "To participate in the Wi-Fi Competition,\n",
+                "you'll need to access the webpage{VAR BE00}\n",
+                "of the Pokémon Global Link to register.{VAR BE00}\n",
+                "http://www.pokemon-gl.com{VAR BE01}\n",
+                "Please check the Pokémon Global Link\n",
+                "webpage for the competition regulations,{VAR BE00}\n",
+                "its duration, and other information.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_004_0009",
+            "en_US": [
+                "Will you participate in\n",
+                "the Wi-Fi Competition?"
+            ]
+        },
+        {
+            "id": "a002_004_0010",
+            "en_US": ""
+        },
+        {
+            "id": "a002_004_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_004_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_004_0013",
+            "en_US": "Cancel participation",
+            "flags": 211
+        },
+        {
+            "id": "a002_004_0014",
+            "en_US": [
+                "Will you participate in\n",
+                "the Live Competition?"
+            ]
+        },
+        {
+            "id": "a002_004_0015",
+            "en_US": [
+                "You can check the information\n",
+                "regarding the Live Competition at the{VAR BE00}\n",
+                "Pokémon official website:{VAR BE00}\n",
+                "http://www.pokemon.com.{VAR BE01}\n",
+                "Please check the Pokémon official website\n",
+                "for the competition regulations,{VAR BE00}\n",
+                "its duration, and other information.{VAR BE01}"
+            ]
+        }
+    ]
+}

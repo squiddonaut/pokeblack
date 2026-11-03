@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "pad": "5454",
+    "messages": [
+        {
+            "id": "a003_320_0000",
+            "en_US": [
+                "Back home, I'm a boy.\n",
+                "But when I looked at a mirror earlier...{VAR BE01}\n",
+                "Why? Why did I become like this?!\n",
+                "Is this also a power of the Entralink?"
+            ]
+        },
+        {
+            "id": "a003_320_0001",
+            "en_US": [
+                "Hmmm. I came back here again.\n",
+                "I was fast asleep until a while ago.{VAR BE01}\n",
+                "Maybe this is a dream world.\n",
+                "A dream world is always black and white."
+            ]
+        },
+        {
+            "id": "a003_320_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_320_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

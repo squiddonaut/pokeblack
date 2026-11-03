@@ -1,0 +1,30 @@
+{
+    "name": "Perish Song",
+    "description": [
+        "Any Pokémon that hears this song\n",
+        "faints in three turns, unless it switches\n",
+        "out of battle."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_STATUS",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 5,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_PERISH_SONG",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_TURN_COUNT",
+    "minTurns": 4,
+    "maxTurns": 4,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 114,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_ALL_POKEMON",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_SOUND_BASED", "MOVE_FLAG_HITS_NONADJACENT_TARGETS", "MOVE_FLAG_BYPASSES_SUBSTITUTE"]
+}

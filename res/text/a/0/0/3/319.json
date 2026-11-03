@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_319_0000",
+            "en_US": [
+                "W-what? We came here to watch\n",
+                "the airplanes.{VAR BE01}\n",
+                "Why did everyone disappear?\n",
+                "Yoo-hoo, anybody here?"
+            ]
+        },
+        {
+            "id": "a003_319_0001",
+            "en_US": [
+                "Wow! I've become a Pilot!\n",
+                "It was my dream to be a Pilot!"
+            ]
+        },
+        {
+            "id": "a003_319_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_319_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

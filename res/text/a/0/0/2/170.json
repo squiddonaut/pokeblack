@@ -1,0 +1,976 @@
+{
+    "flags": 175,
+    "pad": "c6c6",
+    "messages": [
+        {
+            "id": "a002_170_0000",
+            "en_US": "Champion Ribbon"
+        },
+        {
+            "id": "a002_170_0001",
+            "en_US": "Sinnoh Champ Ribbon"
+        },
+        {
+            "id": "a002_170_0002",
+            "en_US": "Cool Ribbon"
+        },
+        {
+            "id": "a002_170_0003",
+            "en_US": "Cool Ribbon Super"
+        },
+        {
+            "id": "a002_170_0004",
+            "en_US": "Cool Ribbon Hyper"
+        },
+        {
+            "id": "a002_170_0005",
+            "en_US": "Cool Ribbon Master"
+        },
+        {
+            "id": "a002_170_0006",
+            "en_US": "Beauty Ribbon"
+        },
+        {
+            "id": "a002_170_0007",
+            "en_US": "Beauty Ribbon Super"
+        },
+        {
+            "id": "a002_170_0008",
+            "en_US": "Beauty Ribbon Hyper"
+        },
+        {
+            "id": "a002_170_0009",
+            "en_US": "Beauty Ribbon Master"
+        },
+        {
+            "id": "a002_170_0010",
+            "en_US": "Cute Ribbon"
+        },
+        {
+            "id": "a002_170_0011",
+            "en_US": "Cute Ribbon Super"
+        },
+        {
+            "id": "a002_170_0012",
+            "en_US": "Cute Ribbon Hyper"
+        },
+        {
+            "id": "a002_170_0013",
+            "en_US": "Cute Ribbon Master"
+        },
+        {
+            "id": "a002_170_0014",
+            "en_US": "Smart Ribbon"
+        },
+        {
+            "id": "a002_170_0015",
+            "en_US": "Smart Ribbon Super"
+        },
+        {
+            "id": "a002_170_0016",
+            "en_US": "Smart Ribbon Hyper"
+        },
+        {
+            "id": "a002_170_0017",
+            "en_US": "Smart Ribbon Master"
+        },
+        {
+            "id": "a002_170_0018",
+            "en_US": "Tough Ribbon"
+        },
+        {
+            "id": "a002_170_0019",
+            "en_US": "Tough Ribbon Super"
+        },
+        {
+            "id": "a002_170_0020",
+            "en_US": "Tough Ribbon Hyper"
+        },
+        {
+            "id": "a002_170_0021",
+            "en_US": "Tough Ribbon Master"
+        },
+        {
+            "id": "a002_170_0022",
+            "en_US": "Cool Ribbon"
+        },
+        {
+            "id": "a002_170_0023",
+            "en_US": "Cool Ribbon Great"
+        },
+        {
+            "id": "a002_170_0024",
+            "en_US": "Cool Ribbon Ultra"
+        },
+        {
+            "id": "a002_170_0025",
+            "en_US": "Cool Ribbon Master"
+        },
+        {
+            "id": "a002_170_0026",
+            "en_US": "Beauty Ribbon"
+        },
+        {
+            "id": "a002_170_0027",
+            "en_US": "Beauty Ribbon Great"
+        },
+        {
+            "id": "a002_170_0028",
+            "en_US": "Beauty Ribbon Ultra"
+        },
+        {
+            "id": "a002_170_0029",
+            "en_US": "Beauty Ribbon Master"
+        },
+        {
+            "id": "a002_170_0030",
+            "en_US": "Cute Ribbon"
+        },
+        {
+            "id": "a002_170_0031",
+            "en_US": "Cute Ribbon Great"
+        },
+        {
+            "id": "a002_170_0032",
+            "en_US": "Cute Ribbon Ultra"
+        },
+        {
+            "id": "a002_170_0033",
+            "en_US": "Cute Ribbon Master"
+        },
+        {
+            "id": "a002_170_0034",
+            "en_US": "Smart Ribbon"
+        },
+        {
+            "id": "a002_170_0035",
+            "en_US": "Smart Ribbon Great"
+        },
+        {
+            "id": "a002_170_0036",
+            "en_US": "Smart Ribbon Ultra"
+        },
+        {
+            "id": "a002_170_0037",
+            "en_US": "Smart Ribbon Master"
+        },
+        {
+            "id": "a002_170_0038",
+            "en_US": "Tough Ribbon"
+        },
+        {
+            "id": "a002_170_0039",
+            "en_US": "Tough Ribbon Great"
+        },
+        {
+            "id": "a002_170_0040",
+            "en_US": "Tough Ribbon Ultra"
+        },
+        {
+            "id": "a002_170_0041",
+            "en_US": "Tough Ribbon Master"
+        },
+        {
+            "id": "a002_170_0042",
+            "en_US": "Winning Ribbon"
+        },
+        {
+            "id": "a002_170_0043",
+            "en_US": "Victory Ribbon"
+        },
+        {
+            "id": "a002_170_0044",
+            "en_US": "Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0045",
+            "en_US": "Great Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0046",
+            "en_US": "Double Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0047",
+            "en_US": "Multi Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0048",
+            "en_US": "Pair Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0049",
+            "en_US": "World Ability Ribbon"
+        },
+        {
+            "id": "a002_170_0050",
+            "en_US": "Artist Ribbon"
+        },
+        {
+            "id": "a002_170_0051",
+            "en_US": "Effort Ribbon"
+        },
+        {
+            "id": "a002_170_0052",
+            "en_US": "Alert Ribbon"
+        },
+        {
+            "id": "a002_170_0053",
+            "en_US": "Shock Ribbon"
+        },
+        {
+            "id": "a002_170_0054",
+            "en_US": "Downcast Ribbon"
+        },
+        {
+            "id": "a002_170_0055",
+            "en_US": "Careless Ribbon"
+        },
+        {
+            "id": "a002_170_0056",
+            "en_US": "Relax Ribbon"
+        },
+        {
+            "id": "a002_170_0057",
+            "en_US": "Snooze Ribbon"
+        },
+        {
+            "id": "a002_170_0058",
+            "en_US": "Smile Ribbon"
+        },
+        {
+            "id": "a002_170_0059",
+            "en_US": "Gorgeous Ribbon"
+        },
+        {
+            "id": "a002_170_0060",
+            "en_US": "Royal Ribbon"
+        },
+        {
+            "id": "a002_170_0061",
+            "en_US": "Gorgeous Royal Ribbon"
+        },
+        {
+            "id": "a002_170_0062",
+            "en_US": "Footprint Ribbon"
+        },
+        {
+            "id": "a002_170_0063",
+            "en_US": "Record Ribbon"
+        },
+        {
+            "id": "a002_170_0064",
+            "en_US": "Legend Ribbon"
+        },
+        {
+            "id": "a002_170_0065",
+            "en_US": "Country Ribbon"
+        },
+        {
+            "id": "a002_170_0066",
+            "en_US": "National Ribbon"
+        },
+        {
+            "id": "a002_170_0067",
+            "en_US": "Earth Ribbon"
+        },
+        {
+            "id": "a002_170_0068",
+            "en_US": "World Ribbon"
+        },
+        {
+            "id": "a002_170_0069",
+            "en_US": "Classic Ribbon"
+        },
+        {
+            "id": "a002_170_0070",
+            "en_US": "Premier Ribbon"
+        },
+        {
+            "id": "a002_170_0071",
+            "en_US": "Event Ribbon"
+        },
+        {
+            "id": "a002_170_0072",
+            "en_US": "Birthday Ribbon"
+        },
+        {
+            "id": "a002_170_0073",
+            "en_US": "Special Ribbon"
+        },
+        {
+            "id": "a002_170_0074",
+            "en_US": "Souvenir Ribbon"
+        },
+        {
+            "id": "a002_170_0075",
+            "en_US": "Wishing Ribbon"
+        },
+        {
+            "id": "a002_170_0076",
+            "en_US": "Battle Champion Ribbon"
+        },
+        {
+            "id": "a002_170_0077",
+            "en_US": "Regional Champion Ribbon"
+        },
+        {
+            "id": "a002_170_0078",
+            "en_US": "National Champion Ribbon"
+        },
+        {
+            "id": "a002_170_0079",
+            "en_US": "World Champion Ribbon"
+        },
+        {
+            "id": "a002_170_0080",
+            "en_US": [
+                "Ribbon for clearing the Pokémon League and\n",
+                "entering the Hall of Fame in another region."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0081",
+            "en_US": [
+                "Ribbon awarded for beating the Sinnoh\n",
+                "Champion and entering the Hall of Fame."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0082",
+            "en_US": [
+                "Hoenn Cool Contest\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0083",
+            "en_US": [
+                "Hoenn Cool Contest\n",
+                "Super Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0084",
+            "en_US": [
+                "Hoenn Cool Contest\n",
+                "Hyper Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0085",
+            "en_US": [
+                "Hoenn Cool Contest\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0086",
+            "en_US": [
+                "Hoenn Beauty Contest\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0087",
+            "en_US": [
+                "Hoenn Beauty Contest\n",
+                "Super Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0088",
+            "en_US": [
+                "Hoenn Beauty Contest\n",
+                "Hyper Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0089",
+            "en_US": [
+                "Hoenn Beauty Contest\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0090",
+            "en_US": [
+                "Hoenn Cute Contest\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0091",
+            "en_US": [
+                "Hoenn Cute Contest\n",
+                "Super Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0092",
+            "en_US": [
+                "Hoenn Cute Contest\n",
+                "Hyper Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0093",
+            "en_US": [
+                "Hoenn Cute Contest\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0094",
+            "en_US": [
+                "Hoenn Smart Contest\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0095",
+            "en_US": [
+                "Hoenn Smart Contest\n",
+                "Super Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0096",
+            "en_US": [
+                "Hoenn Smart Contest\n",
+                "Hyper Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0097",
+            "en_US": [
+                "Hoenn Smart Contest\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0098",
+            "en_US": [
+                "Hoenn Tough Contest\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0099",
+            "en_US": [
+                "Hoenn Tough Contest\n",
+                "Super Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0100",
+            "en_US": [
+                "Hoenn Tough Contest\n",
+                "Hyper Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0101",
+            "en_US": [
+                "Hoenn Tough Contest\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0102",
+            "en_US": [
+                "Super Contest Cool Category\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0103",
+            "en_US": [
+                "Super Contest Cool Category\n",
+                "Great Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0104",
+            "en_US": [
+                "Super Contest Cool Category\n",
+                "Ultra Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0105",
+            "en_US": [
+                "Super Contest Cool Category\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0106",
+            "en_US": [
+                "Super Contest Beauty Category\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0107",
+            "en_US": [
+                "Super Contest Beauty Category\n",
+                "Great Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0108",
+            "en_US": [
+                "Super Contest Beauty Category\n",
+                "Ultra Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0109",
+            "en_US": [
+                "Super Contest Beauty Category\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0110",
+            "en_US": [
+                "Super Contest Cute Category\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0111",
+            "en_US": [
+                "Super Contest Cute Category\n",
+                "Great Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0112",
+            "en_US": [
+                "Super Contest Cute Category\n",
+                "Ultra Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0113",
+            "en_US": [
+                "Super Contest Cute Category\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0114",
+            "en_US": [
+                "Super Contest Smart Category\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0115",
+            "en_US": [
+                "Super Contest Smart Category\n",
+                "Great Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0116",
+            "en_US": [
+                "Super Contest Smart Category\n",
+                "Ultra Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0117",
+            "en_US": [
+                "Super Contest Smart Category\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0118",
+            "en_US": [
+                "Super Contest Tough Category\n",
+                "Normal Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0119",
+            "en_US": [
+                "Super Contest Tough Category\n",
+                "Great Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0120",
+            "en_US": [
+                "Super Contest Tough Category\n",
+                "Ultra Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0121",
+            "en_US": [
+                "Super Contest Tough Category\n",
+                "Master Rank winner!"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0122",
+            "en_US": [
+                "Ribbon awarded for clearing Hoenn's\n",
+                "Battle Tower's Lv. 50 challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0123",
+            "en_US": [
+                "Ribbon awarded for clearing Hoenn's\n",
+                "Battle Tower's Lv. 100 challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0124",
+            "en_US": [
+                "A Ribbon awarded for defeating the\n",
+                "Tower Tycoon at the Battle Tower."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0125",
+            "en_US": [
+                "A Ribbon awarded for defeating the\n",
+                "Tower Tycoon at the Battle Tower."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0126",
+            "en_US": [
+                "A Ribbon awarded for completing the\n",
+                "Battle Tower Double challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0127",
+            "en_US": [
+                "A Ribbon awarded for completing the\n",
+                "Battle Tower Multi challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0128",
+            "en_US": [
+                "A Ribbon awarded for completing the\n",
+                "Battle Tower Link Multi challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0129",
+            "en_US": [
+                "A Ribbon awarded for completing the\n",
+                "Wi-Fi Battle Tower challenge."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0130",
+            "en_US": [
+                "Ribbon awarded for being chosen as\n",
+                "a super sketch model in Hoenn."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0131",
+            "en_US": [
+                "Ribbon awarded for being an\n",
+                "exceptionally hard worker."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0132",
+            "en_US": [
+                "A Ribbon for recalling an invigorating\n",
+                "event that created life energy."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0133",
+            "en_US": [
+                "A Ribbon for recalling a thrilling\n",
+                "event that made life more exciting."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0134",
+            "en_US": [
+                "A Ribbon for recalling feelings of\n",
+                "sadness that added spice to life."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0135",
+            "en_US": [
+                "A Ribbon for recalling a careless error\n",
+                "that helped steer life decisions."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0136",
+            "en_US": [
+                "A Ribbon for recalling a refreshing\n",
+                "event that added sparkle to life."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0137",
+            "en_US": [
+                "A Ribbon for recalling a deep\n",
+                "slumber that made life soothing."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0138",
+            "en_US": [
+                "A Ribbon for recalling that smiles\n",
+                "enrich the quality of life."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0139",
+            "en_US": [
+                "An extraordinarily gorgeous and\n",
+                "extravagant Ribbon."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0140",
+            "en_US": [
+                "An incredibly regal Ribbon with an\n",
+                "air of nobility."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0141",
+            "en_US": [
+                "A gorgeous and regal Ribbon that\n",
+                "is the peak of fabulous."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0142",
+            "en_US": [
+                "A Ribbon awarded to a Pokémon deemed\n",
+                "to have a top-quality footprint."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0143",
+            "en_US": [
+                "A Ribbon awarded for setting an\n",
+                "incredible record."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0144",
+            "en_US": [
+                "A Ribbon awarded for setting a\n",
+                "legendary record."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0145",
+            "en_US": [
+                "Pokémon League\n",
+                "Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0146",
+            "en_US": [
+                "A Ribbon awarded for overcoming all\n",
+                "difficult challenges."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0147",
+            "en_US": [
+                "A Ribbon awarded for winning 100\n",
+                "matches in a row."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0148",
+            "en_US": [
+                "Pokémon League\n",
+                "Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0149",
+            "en_US": [
+                "A Ribbon that proclaims love for\n",
+                "Pokémon."
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0150",
+            "en_US": "Special Holiday Ribbon",
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0151",
+            "en_US": [
+                "Pokémon Event\n",
+                "Participation Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0152",
+            "en_US": "A Ribbon to celebrate a birthday.",
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0153",
+            "en_US": "A special Ribbon for a special day.",
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0154",
+            "en_US": "A Ribbon to cherish a special memory.",
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0155",
+            "en_US": "A Ribbon said to make your wish come true.",
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0156",
+            "en_US": [
+                "Battle Competition\n",
+                "Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0157",
+            "en_US": [
+                "Pokémon World Championships\n",
+                "Regional Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0158",
+            "en_US": [
+                "Pokémon World Championships\n",
+                "National Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0159",
+            "en_US": [
+                "Pokémon World Championships\n",
+                "World Champion Ribbon"
+            ],
+            "flags": 239
+        },
+        {
+            "id": "a002_170_0160",
+            "en_US": "League Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "id": "a002_170_0161",
+            "en_US": "Contest Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "id": "a002_170_0162",
+            "en_US": "Tower Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "id": "a002_170_0163",
+            "en_US": "Memorial Ribbon{VAR 0201 0000}",
+            "flags": 116
+        },
+        {
+            "id": "a002_170_0164",
+            "en_US": "Gift Ribbon{VAR 0201 0000}",
+            "flags": 116
+        }
+    ]
+}

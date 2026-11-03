@@ -1,0 +1,32 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_272_0000",
+            "en_US": [
+                "Wahaha. Isn't this a beautiful bridge?{VAR BE01}\n",
+                "This old bridge was built when my\n",
+                "great-great-great-grandfather{VAR BE00}\n",
+                "was around."
+            ]
+        },
+        {
+            "id": "a003_272_0001",
+            "en_US": [
+                "My grandpa is a stonecutter for\n",
+                "Village Bridge!"
+            ]
+        },
+        {
+            "id": "a003_272_0002",
+            "en_US": [
+                "Isn't this a unique sort of bridge?{VAR BE01}\n",
+                "A long time ago, the river overflowed,\n",
+                "and all the houses were washed away.{VAR BE01}\n",
+                "So people built new houses on top of the\n",
+                "bridge to keep them safe from flooding!{VAR BE00}\n",
+                "It's a simple solution, but it's genius!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "pad": "9696",
+    "messages": [
+        {
+            "id": "a003_292_0000",
+            "en_US": [
+                "A battle between you and our lord N will\n",
+                "reveal whether our lord N is a true hero.{VAR BE01}\n",
+                "It will also reveal how you feel about\n",
+                "protecting the current world,{VAR BE00}\n",
+                "where people live with Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_292_0001",
+            "en_US": [
+                "A battle between you and our lord N\n",
+                "will reveal whether our lord N is{VAR BE00}\n",
+                "an ideal hero.{VAR BE01}\n",
+                "It will also reveal how you feel about\n",
+                "protecting the current world,{VAR BE00}\n",
+                "where people live with Pokémon.{VAR BE01}"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Disable",
+    "description": [
+        "For four turns, this move prevents the\n",
+        "target from using the move it last used."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_DISABLE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_TURN_COUNT",
+    "minTurns": 4,
+    "maxTurns": 4,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 86,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_AFFECTED_BY_MAGIC_COAT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE", "MOVE_FLAG_BYPASSES_SUBSTITUTE"]
+}

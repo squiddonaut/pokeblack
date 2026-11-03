@@ -1,0 +1,180 @@
+{
+    "flags": 224,
+    "pad": "9090",
+    "messages": [
+        {
+            "id": "a003_468_0000",
+            "en_US": [
+                "Ho! Hoo!\n",
+                "Welcome to White Forest!{VAR BE01}\n",
+                "In White Forest, people live\n",
+                "in harmony with nature and with Pokémon.{VAR BE01}\n",
+                "Please listen to the voice of the forest.{VAR BE01}\n",
+                "It's saying “Bienvenue!\"\n",
+                "Ho! Hoo! Hoo!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_468_0001",
+            "en_US": [
+                "I do research into the Pokémon\n",
+                "that live in this forest.{VAR BE01}\n",
+                "In theory, you should find {VAR 0101 0000}\n",
+                "living in this forest.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_468_0002",
+            "en_US": [
+                "Hoo!\n",
+                "That's {VAR 0101 0000}!{VAR BE01}\n",
+                "So it lives in this forest, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_468_0003",
+            "en_US": [
+                "What's more, you caught it today!\n",
+                "Ho hoo!{VAR BE01}\n",
+                "This means there are {VAR 0101 0000}\n",
+                "in White Forest.{VAR BE01}\n",
+                "For you, my skilled Pokémon catcher--\n",
+                "this small trifle. Hoo!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_468_0004",
+            "en_US": [
+                "If you return here tomorrow, I'm sure\n",
+                "the forest will say “Bienvenue\" again!"
+            ]
+        },
+        {
+            "id": "a003_468_0005",
+            "en_US": [
+                "Thank you very much for today.\n",
+                "See you again tomorrow!{VAR BE01}\n",
+                "The forest is murmuring, “À très vite!\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_468_0006",
+            "en_US": [
+                "I'm researching the Pokémon\n",
+                "that live in this forest. Hoo!{VAR BE01}\n",
+                "But there haven't been any Pokémon\n",
+                "recently, and the forest is forlorn."
+            ]
+        },
+        {
+            "id": "a003_468_0007",
+            "en_US": [
+                "If you see {VAR 0101 0000} in this forest,\n",
+                "please let me know.{VAR BE01}\n",
+                "That will be proof that Pokémon\n",
+                "are living in this forest."
+            ]
+        },
+        {
+            "id": "a003_468_0008",
+            "en_US": [
+                "But--that {VAR 0101 0000} wasn't caught\n",
+                "today, was it? Hoo!{VAR BE01}\n",
+                "What I want to know is whether\n",
+                "{VAR 0101 0000} is still living in the forest.{VAR BE01}\n",
+                "The forest itself wants to know, too!"
+            ]
+        },
+        {
+            "id": "a003_468_0009",
+            "en_US": [
+                "Did you notice the sky's beauty today?\n",
+                "Tomorrow will be fine, too!"
+            ]
+        },
+        {
+            "id": "a003_468_0010",
+            "en_US": "Let's go Berry picking together!"
+        },
+        {
+            "id": "a003_468_0011",
+            "en_US": [
+                "I need Berries for tomorrow's dinner,\n",
+                "so go pick some, OK?"
+            ]
+        },
+        {
+            "id": "a003_468_0012",
+            "en_US": [
+                "Let's have a Triple Battle with the\n",
+                "Pokémon I have worked so hard to raise!"
+            ]
+        },
+        {
+            "id": "a003_468_0013",
+            "en_US": [
+                "A Triple Battle is a new style of battle\n",
+                "in which you use three Pokémon!{VAR BE01}\n",
+                "Please get three Pokémon together\n",
+                "to use in battle!"
+            ]
+        },
+        {
+            "id": "a003_468_0014",
+            "en_US": [
+                "Oh... I wanted to see\n",
+                "the Pokémon you've raised."
+            ]
+        },
+        {
+            "id": "a003_468_0015",
+            "en_US": "I'll work even harder raising my Pokémon!"
+        },
+        {
+            "id": "a003_468_0016",
+            "en_US": [
+                "I have always lived with these Pokémon.{VAR BE01}\n",
+                "Hmm. How would you like to try a\n",
+                "Triple Battle with me?"
+            ]
+        },
+        {
+            "id": "a003_468_0017",
+            "en_US": [
+                "In order to have a Triple Battle,\n",
+                "you need to have at least three{VAR BE00}\n",
+                "Pokémon able to battle."
+            ]
+        },
+        {
+            "id": "a003_468_0018",
+            "en_US": [
+                "Oh...\n",
+                "I hope I'll get to see them another time!"
+            ]
+        },
+        {
+            "id": "a003_468_0019",
+            "en_US": [
+                "There are so many things to consider,\n",
+                "but that is part of the fun of{VAR BE00}\n",
+                "Triple Battles!"
+            ]
+        },
+        {
+            "id": "a003_468_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_468_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_468_0022",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

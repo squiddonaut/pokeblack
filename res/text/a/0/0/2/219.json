@@ -1,0 +1,33 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_219_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_219_0001",
+            "en_US": "Åland Islands"
+        },
+        {
+            "id": "a002_219_0002",
+            "en_US": "Lapland"
+        },
+        {
+            "id": "a002_219_0003",
+            "en_US": "East Finland"
+        },
+        {
+            "id": "a002_219_0004",
+            "en_US": "South Finland"
+        },
+        {
+            "id": "a002_219_0005",
+            "en_US": "Oulu"
+        },
+        {
+            "id": "a002_219_0006",
+            "en_US": "West Finland"
+        }
+    ]
+}

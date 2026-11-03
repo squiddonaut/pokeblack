@@ -1,0 +1,90 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_348_0000",
+            "en_US": [
+                "Good morning. You must be {VAR 0100 0000}.{VAR BE01}\n",
+                "I've received a Mystery Gift for you.\n",
+                "Here you go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_348_0001",
+            "en_US": [
+                "Good day. You must be {VAR 0100 0000}.{VAR BE01}\n",
+                "I've received a Mystery Gift for you.\n",
+                "Here you go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_348_0002",
+            "en_US": [
+                "Good evening. You must be {VAR 0100 0000}.{VAR BE01}\n",
+                "I've received a Mystery Gift for you.\n",
+                "Here you go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_348_0003",
+            "en_US": [
+                "I haven't received any other gifts\n",
+                "for you.{VAR BE01}\n",
+                "We look forward to your next visit."
+            ]
+        },
+        {
+            "id": "a003_348_0004",
+            "en_US": "We look forward to your next visit."
+        },
+        {
+            "id": "a003_348_0005",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "{VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a003_348_0006",
+            "en_US": [
+                "Your party is full. Please make room\n",
+                "to receive the gift."
+            ]
+        },
+        {
+            "id": "a003_348_0007",
+            "en_US": [
+                "{VAR 0100 0000} obtained\n",
+                "the {VAR FF00 0002}{VAR 0109 0001}{VAR FF00 0000}!"
+            ]
+        },
+        {
+            "id": "a003_348_0008",
+            "en_US": [
+                "Another {VAR 0109 0000}? You already\n",
+                "have too many to accept any more."
+            ]
+        },
+        {
+            "id": "a003_348_0009",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "{VAR 0110 0001}!"
+            ]
+        },
+        {
+            "id": "a003_348_0010",
+            "en_US": [
+                "{VAR 0100 0000} already\n",
+                "knows {VAR 0110 0001}."
+            ]
+        },
+        {
+            "id": "a003_348_0011",
+            "en_US": [
+                "{VAR 0100 0000} obtained\n",
+                "a Pokémon Egg!"
+            ]
+        }
+    ]
+}

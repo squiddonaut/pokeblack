@@ -1,0 +1,14 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_003_0000",
+            "en_US": [
+                "Many people come here from White Forest.{VAR BE01}\n",
+                "If you enter White Forest and invite\n",
+                "people, they might move here."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Leaf Blade",
+    "description": [
+        "The user handles a sharp leaf like a\n",
+        "sword and attacks by cutting its target.\n",
+        "Critical hits land more easily."
+    ],
+    "type": "TYPE_GRASS",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_PHYSICAL",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 1,
+    "flinchChance": 0,
+    "aiScript": 43,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_MAKES_CONTACT", "MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

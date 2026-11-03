@@ -1,0 +1,822 @@
+{
+    "flags": 216,
+    "pad": "5c5c",
+    "messages": [
+        {
+            "id": "a002_209_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0002",
+            "en_US": [
+                "{VAR 0100 0000} is seeking someone\n",
+                "to battle."
+            ]
+        },
+        {
+            "id": "a002_209_0003",
+            "en_US": [
+                "{VAR 0100 0000} is seeking someone\n",
+                "to trade with."
+            ]
+        },
+        {
+            "id": "a002_209_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0005",
+            "en_US": "What would you like to seek?"
+        },
+        {
+            "id": "a002_209_0006",
+            "en_US": "Seeking participants..."
+        },
+        {
+            "id": "a002_209_0007",
+            "en_US": "Suspend your invitation?"
+        },
+        {
+            "id": "a002_209_0008",
+            "en_US": "Communicating. Please stand by..."
+        },
+        {
+            "id": "a002_209_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0011",
+            "en_US": [
+                "{VAR 0100 0000} invites you for\n",
+                "a Voice Chat!"
+            ]
+        },
+        {
+            "id": "a002_209_0012",
+            "en_US": "{VAR 0100 0000} appears to be busy..."
+        },
+        {
+            "id": "a002_209_0013",
+            "en_US": [
+                "You can't connect with\n",
+                "{VAR 0100 0000}."
+            ]
+        },
+        {
+            "id": "a002_209_0014",
+            "en_US": "Communicating with {VAR 0100 0000}...",
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0015",
+            "en_US": "{VAR 0100 0000} failed to respond..."
+        },
+        {
+            "id": "a002_209_0016",
+            "en_US": "{VAR 0100 0000} ended the Voice Chat."
+        },
+        {
+            "id": "a002_209_0017",
+            "en_US": [
+                "Would you like to end\n",
+                "this Voice Chat?"
+            ]
+        },
+        {
+            "id": "a002_209_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0022",
+            "en_US": "Battle",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0025",
+            "en_US": "Trade",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0027",
+            "en_US": "Voice Chat",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0030",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0031",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0032",
+            "en_US": "Cancel",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0033",
+            "en_US": "{VAR 0100 0000}",
+            "flags": 60
+        },
+        {
+            "id": "a002_209_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0035",
+            "en_US": "BATTLE RECORD",
+            "flags": 106
+        },
+        {
+            "id": "a002_209_0036",
+            "en_US": "W: {VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 63
+        },
+        {
+            "id": "a002_209_0037",
+            "en_US": "L: {VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 63
+        },
+        {
+            "id": "a002_209_0038",
+            "en_US": "POKÉMON TRADES",
+            "flags": 104
+        },
+        {
+            "id": "a002_209_0039",
+            "en_US": "{VAR BD03 0001}{VAR 0203 0000}",
+            "flags": 25
+        },
+        {
+            "id": "a002_209_0040",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0041",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0042",
+            "en_US": "DATE LAST PLAYED",
+            "flags": 143
+        },
+        {
+            "id": "a002_209_0043",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0044",
+            "en_US": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 87
+        },
+        {
+            "id": "a002_209_0045",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0046",
+            "en_US": "{VAR 0100 0000} wants to join you!{VAR BE02 003C}"
+        },
+        {
+            "id": "a002_209_0047",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0048",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0049",
+            "en_US": "Standing by...",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0050",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0051",
+            "en_US": "{VAR 0100 0000} is in a battle."
+        },
+        {
+            "id": "a002_209_0052",
+            "en_US": "{VAR 0100 0000} is trading."
+        },
+        {
+            "id": "a002_209_0053",
+            "en_US": "{VAR 0100 0000} is in a Voice Chat."
+        },
+        {
+            "id": "a002_209_0054",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0055",
+            "en_US": "Reconnect to Nintendo WFC?"
+        },
+        {
+            "id": "a002_209_0056",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0057",
+            "en_US": "Voice Chat was turned on."
+        },
+        {
+            "id": "a002_209_0058",
+            "en_US": "Voice Chat was turned off."
+        },
+        {
+            "id": "a002_209_0059",
+            "en_US": "???",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0060",
+            "en_US": "Single Battle",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0061",
+            "en_US": "Double Battle",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0062",
+            "en_US": "Triple Battle",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0063",
+            "en_US": "Rotation Battle",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0064",
+            "en_US": "No Restrictions",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0065",
+            "en_US": "Flat rule",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0066",
+            "en_US": "Wonder Launcher On",
+            "flags": 144
+        },
+        {
+            "id": "a002_209_0067",
+            "en_US": "Wonder Launcher Off",
+            "flags": 144
+        },
+        {
+            "id": "a002_209_0068",
+            "en_US": [
+                "Your friend ended\n",
+                "the communication battle."
+            ]
+        },
+        {
+            "id": "a002_209_0069",
+            "en_US": "Communicating. Please stand by...",
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0070",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0071",
+            "en_US": "Suspend your request?"
+        },
+        {
+            "id": "a002_209_0072",
+            "en_US": [
+                "Voice Chat will be turned on\n",
+                "while you are playing with this friend.{VAR BE01}\n",
+                "Do you want to play with this friend?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a002_209_0073",
+            "en_US": [
+                "Voice Chat will be turned off\n",
+                "while you are playing with this friend.{VAR BE01}\n",
+                "Do you want to play with this friend?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a002_209_0074",
+            "en_US": "The request has been suspended."
+        },
+        {
+            "id": "a002_209_0075",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0076",
+            "en_US": [
+                "Awaiting your friend's decision.\n",
+                "Please wait."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0077",
+            "en_US": "みちぼしゅうちゅう"
+        },
+        {
+            "id": "a002_209_0078",
+            "en_US": "じょうたいかいじょ"
+        },
+        {
+            "id": "a002_209_0079",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0080",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0081",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0082",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0083",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0084",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0085",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0086",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0087",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0088",
+            "en_US": "Xtransceiver",
+            "flags": 120
+        },
+        {
+            "id": "a002_209_0089",
+            "en_US": [
+                "{VAR 0100 0000} seems\n",
+                "to be busy."
+            ]
+        },
+        {
+            "id": "a002_209_0090",
+            "en_US": [
+                "{VAR 0100 0000} wants to\n",
+                "have a Voice Chat."
+            ]
+        },
+        {
+            "id": "a002_209_0091",
+            "en_US": [
+                "{VAR 0100 0000} is using\n",
+                "the Xtransceiver."
+            ]
+        },
+        {
+            "id": "a002_209_0092",
+            "en_US": [
+                "{VAR 0100 0000} is looking for someone\n",
+                "to chat with on the Xtransceiver."
+            ]
+        },
+        {
+            "id": "a002_209_0093",
+            "en_US": "Connect",
+            "flags": 104
+        },
+        {
+            "id": "a002_209_0094",
+            "en_US": [
+                "{VAR 0100 0000} has\n",
+                "contacted you..."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0095",
+            "en_US": [
+                "Do you want to play\n",
+                "with {VAR 0100 0000}?"
+            ]
+        },
+        {
+            "id": "a002_209_0096",
+            "en_US": [
+                "What would you like to\n",
+                "do with {VAR 0100 0000}?"
+            ]
+        },
+        {
+            "id": "a002_209_0097",
+            "en_US": [
+                "Would you like to talk with\n",
+                "{VAR 0100 0000} using Voice Chat?"
+            ]
+        },
+        {
+            "id": "a002_209_0098",
+            "en_US": [
+                "Would you like to talk with\n",
+                "{VAR 0100 0000} using the Xtransceiver?"
+            ]
+        },
+        {
+            "id": "a002_209_0099",
+            "en_US": "Trade with {VAR 0100 0000}?"
+        },
+        {
+            "id": "a002_209_0100",
+            "en_US": "Confirm",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0101",
+            "en_US": "Rules",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0102",
+            "en_US": "In party",
+            "flags": 128
+        },
+        {
+            "id": "a002_209_0103",
+            "en_US": "Battle Box",
+            "flags": 128
+        },
+        {
+            "id": "a002_209_0104",
+            "en_US": [
+                "You do not meet the conditions,\n",
+                "so you cannot battle."
+            ]
+        },
+        {
+            "id": "a002_209_0105",
+            "en_US": [
+                "Will you have a Single Battle\n",
+                "with no restrictions?"
+            ]
+        },
+        {
+            "id": "a002_209_0106",
+            "en_US": [
+                "Will you have a Double Battle\n",
+                "with no restrictions?"
+            ]
+        },
+        {
+            "id": "a002_209_0107",
+            "en_US": [
+                "Will you have a Triple Battle\n",
+                "with no restrictions?"
+            ]
+        },
+        {
+            "id": "a002_209_0108",
+            "en_US": [
+                "Will you have a Rotation Battle\n",
+                "with no restrictions?"
+            ]
+        },
+        {
+            "id": "a002_209_0109",
+            "en_US": [
+                "Will you have a Single Battle\n",
+                "with flat rules?"
+            ]
+        },
+        {
+            "id": "a002_209_0110",
+            "en_US": [
+                "Will you have a Double Battle\n",
+                "with flat rules?"
+            ]
+        },
+        {
+            "id": "a002_209_0111",
+            "en_US": [
+                "Will you have a Triple Battle\n",
+                "with flat rules?"
+            ]
+        },
+        {
+            "id": "a002_209_0112",
+            "en_US": [
+                "Will you have a Rotation Battle\n",
+                "with flat rules?"
+            ]
+        },
+        {
+            "id": "a002_209_0113",
+            "en_US": [
+                "Please select whether to use your\n",
+                "party Pokémon or your Battle Box."
+            ]
+        },
+        {
+            "id": "a002_209_0114",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_209_0115",
+            "en_US": [
+                "Your friend is apparently\n",
+                "unable to participate."
+            ]
+        },
+        {
+            "id": "a002_209_0116",
+            "en_US": "L{VAR 0202 0000}",
+            "flags": 38
+        },
+        {
+            "id": "a002_209_0117",
+            "en_US": "{VAR FF00 0002}⑭{VAR FF00 0000}",
+            "flags": 10
+        },
+        {
+            "id": "a002_209_0118",
+            "en_US": "{VAR FF00 0001}⑮{VAR FF00 0000}",
+            "flags": 10
+        },
+        {
+            "id": "a002_209_0119",
+            "en_US": [
+                "Would you like to play with\n",
+                "{VAR 0100 0000} again?"
+            ]
+        },
+        {
+            "id": "a002_209_0120",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0121",
+            "en_US": [
+                "You need at least two Pokémon\n",
+                "if you want to trade!"
+            ]
+        },
+        {
+            "id": "a002_209_0122",
+            "en_US": "Talking",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0123",
+            "en_US": [
+                "Press the B Button\n",
+                "to end Voice Chat."
+            ]
+        },
+        {
+            "id": "a002_209_0124",
+            "en_US": "You ended the conversation."
+        },
+        {
+            "id": "a002_209_0125",
+            "en_US": [
+                "Your friend is busy.\n",
+                "Ending communication..."
+            ]
+        },
+        {
+            "id": "a002_209_0126",
+            "en_US": "Awaiting {VAR 0100 0000}'s response...",
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0127",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0128",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0129",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0130",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0131",
+            "en_US": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Single Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0132",
+            "en_US": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Double Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0133",
+            "en_US": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Triple Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0134",
+            "en_US": "Battle Format{VAR BD05 0078}: {VAR FF00 0002}Rotation Battle{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0135",
+            "en_US": "Battle Rule{VAR BD05 0078}: {VAR FF00 0002}No Restrictions{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0136",
+            "en_US": "Battle Rule{VAR BD05 0078}: {VAR FF00 0002}Flat rules{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0137",
+            "en_US": "Wonder Launcher{VAR BD05 0078}: {VAR FF00 0002}On{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0138",
+            "en_US": "Wonder Launcher{VAR BD05 0078}: {VAR FF00 0002}Off{VAR FF00 0000}",
+            "flags": 224
+        },
+        {
+            "id": "a002_209_0139",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_209_0140",
+            "en_US": "It looks like you can't talk now."
+        },
+        {
+            "id": "a002_209_0141",
+            "en_US": "Single",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0142",
+            "en_US": "Double",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0143",
+            "en_US": "Triple",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0144",
+            "en_US": "Rotation",
+            "flags": 122
+        },
+        {
+            "id": "a002_209_0145",
+            "en_US": [
+                "Please choose the Pokémon that\n",
+                "will participate."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0146",
+            "en_US": [
+                "Please select three Pokémon that\n",
+                "will participate."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0147",
+            "en_US": [
+                "Please select four Pokémon that\n",
+                "will participate."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0148",
+            "en_US": [
+                "Please select six Pokémon that\n",
+                "will participate."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_209_0149",
+            "en_US": [
+                "This uses the camera function\n",
+                "to send image data to your friends.{VAR BE00}\n",
+                "Is this OK?"
+            ],
+            "flags": 205
+        }
+    ]
+}

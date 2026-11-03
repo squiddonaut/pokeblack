@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "pad": "4848",
+    "messages": [
+        {
+            "id": "a003_422_0000",
+            "en_US": [
+                "Click!{VAR BE01}\n",
+                "The sound reverberates."
+            ]
+        },
+        {
+            "id": "a003_422_0001",
+            "en_US": "A dull sound came from far away."
+        },
+        {
+            "id": "a003_422_0002",
+            "en_US": "A dull sound echoed."
+        },
+        {
+            "id": "a003_422_0003",
+            "en_US": "The dull sound is close!"
+        },
+        {
+            "id": "a003_422_0004",
+            "en_US": "It's a torrent of water!"
+        },
+        {
+            "id": "a003_422_0005",
+            "en_US": "The wall moved, and you can proceed now!"
+        }
+    ]
+}

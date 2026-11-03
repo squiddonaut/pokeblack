@@ -1,0 +1,62 @@
+{
+    "flags": 224,
+    "pad": "8484",
+    "messages": [
+        {
+            "id": "a003_368_0000",
+            "en_US": [
+                "It's about the season to go to the\n",
+                "Celestial Tower on Route 7.{VAR BE01}\n",
+                "I have to ring the bell for my Petilil..."
+            ]
+        },
+        {
+            "id": "a003_368_0001",
+            "en_US": [
+                "It's about the season to go to the\n",
+                "Celestial Tower on Route 7.{VAR BE01}\n",
+                "I have to ring the bell for\n",
+                "my Cottonee..."
+            ]
+        },
+        {
+            "id": "a003_368_0002",
+            "en_US": [
+                "Mister!\n",
+                "Here, have this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_368_0003",
+            "en_US": [
+                "Miss!\n",
+                "Here, have this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_368_0004",
+            "en_US": [
+                "Know what? When I gave my Minccino a\n",
+                "Shiny Stone, it evolved and became a{VAR BE00}\n",
+                "different Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_368_0005",
+            "en_US": [
+                "What's this? Your Pokémon seem to be\n",
+                "full of energy!"
+            ]
+        },
+        {
+            "id": "a003_368_0006",
+            "en_US": [
+                "Oh, dear! Your Pokémon...\n",
+                "Somehow, they don't seem well.{VAR BE01}\n",
+                "You should rest here for a little while.\n",
+                "You can't go anywhere when you're not{VAR BE00}\n",
+                "feeling well.{VAR BE01}"
+            ]
+        }
+    ]
+}

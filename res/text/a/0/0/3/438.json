@@ -1,0 +1,32 @@
+{
+    "flags": 224,
+    "pad": "1c1c",
+    "messages": [
+        {
+            "id": "a003_438_0000",
+            "en_US": [
+                "It is important to train your Pokémon in\n",
+                "battle, but when their HP goes down,{VAR BE00}\n",
+                "take them to a Pokémon Center."
+            ]
+        },
+        {
+            "id": "a003_438_0001",
+            "en_US": [
+                "Trainer, how many Poké Balls do\n",
+                "you have?{VAR BE01}\n",
+                "If you think you don't have enough,\n",
+                "it's a good idea to buy some{VAR BE00}\n",
+                "at a shop in a Pokémon Center!"
+            ]
+        },
+        {
+            "id": "a003_438_0002",
+            "en_US": [
+                "Oh! Your Pokémon!\n",
+                "You're so lucky. I envy you.{VAR BE00}\n",
+                "I want to be a Trainer, too!"
+            ]
+        }
+    ]
+}

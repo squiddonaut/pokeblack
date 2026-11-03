@@ -1,0 +1,354 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_118_0000",
+            "en_US": [
+                "Cedric: Hello, {VAR 0100 0000}!\n",
+                "How is {VAR 0101 0001}?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0001",
+            "en_US": [
+                "Ah! This {VAR 0101 0001} has really taken\n",
+                "a shine to you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0002",
+            "en_US": [
+                "I can tell you're paying a lot of\n",
+                "attention to training {VAR 0101 0001}.{VAR BE00}\n",
+                "Careful not to be too strict!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0003",
+            "en_US": [
+                "The Pokédex is important, but time spent\n",
+                "having fun together is also important.{VAR BE01}\n",
+                "Say, I just had a thought--\n",
+                "have you heard of Dragonspiral Tower?"
+            ]
+        },
+        {
+            "id": "a003_118_0004",
+            "en_US": [
+                "Really?\n",
+                "Quite impressive.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0005",
+            "en_US": [
+                "Eh... I'm not surprised you haven't\n",
+                "heard of it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0006",
+            "en_US": [
+                "OK. Give this story a listen.{VAR BE01}\n",
+                "Dragonspiral Tower is said to be\n",
+                "the Unova region's oldest building.{VAR BE01}\n",
+                "Stories say it's the place where\n",
+                "legendary Pokémon came to life or{VAR BE00}\n",
+                "where they remain in deep slumber.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0007",
+            "en_US": [
+                "OK. Give this story a listen.{VAR BE01}\n",
+                "Dragonspiral Tower is said to be\n",
+                "the Unova region's oldest building.{VAR BE01}\n",
+                "Stories say it's the place where\n",
+                "legendary Pokémon came to life or{VAR BE00}\n",
+                "where they remain in deep slumber.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0008",
+            "en_US": [
+                "I know it's just past Icirrus City,\n",
+                "but that's all I know about it.{VAR BE01}\n",
+                "That's all anyone knows,\n",
+                "because no one has ever been inside.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0009",
+            "en_US": [
+                "My daughter has wanted to investigate\n",
+                "that tower for a long time.{VAR BE01}\n",
+                "“What! There's something I don't know?!\"\n",
+                "That kind of feeling is pure adventure.{VAR BE01}\n",
+                "And I'm not too old for some adventuring.\n",
+                "Away I go to have a look at{VAR BE00}\n",
+                "Dragonspiral Tower!{VAR BE00}\n",
+                "Catch you later!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0010",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, I've been talking\n",
+                "with Bianca, and I'm wondering...{VAR BE01}\n",
+                "Since we left Nuvema Town, has\n",
+                "something about me...changed?{VAR BE01}\n",
+                "Thinking about what I want to do...\n",
+                "Thinking about what I should do...{VAR BE01}\n",
+                "It felt like there was nothing...{VAR BE01}\n",
+                "Have I really become stronger?\n",
+                "Or is it just my Pokémon that have?{VAR BE01}\n",
+                "I don't know anymore!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0011",
+            "en_US": [
+                "Bianca: Hey, hey. Cheer up, Cheren...\n",
+                "Isn't it nice to see everyone?!{VAR BE01}\n",
+                "{VAR 0100 0000}! Know what? This time,\n",
+                "I'll go to the Pokémon Fan Club.{VAR BE01}\n",
+                "I'm really searching...\n",
+                "for what I want to do and what I can do!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0012",
+            "en_US": "Brycen: Who are you?{VAR BE01}"
+        },
+        {
+            "id": "a003_118_0013",
+            "en_US": [
+                "Bianca: Who? Us?{VAR BE01}\n",
+                "I'm Bianca, and this is Cheren...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0014",
+            "en_US": [
+                "Brycen: I know you are there!\n",
+                "Why don't you show yourselves?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0015",
+            "en_US": [
+                "... {VAR BE01}\n",
+                "Impressive, Gym Leader of Icirrus City.{VAR BE01}\n",
+                "We, the Shadow Triad, are beings of the\n",
+                "shadows...and not easily noticed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0016",
+            "en_US": [
+                "Our mission was to speak only\n",
+                "with {VAR 0100 0000}, but so be it.{VAR BE01}\n",
+                "Ghetsis has a message for you:\n",
+                "come to Dragonspiral Tower.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0017",
+            "en_US": [
+                "It is there that our lord N\n",
+                "waits for you.{VAR BE01}\n",
+                "...Now, our mission is complete.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0018",
+            "en_US": [
+                "Brycen: Dragonspiral Tower?!\n",
+                "What's going on?{VAR BE01}\n",
+                "Hey! Tell me...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0019",
+            "en_US": [
+                "Brycen: Now, hang on.{VAR BE01}\n",
+                "Young man, if you're here for\n",
+                "a Gym challenge, hang on for a bit.{VAR BE01}\n",
+                "I've got to head to Dragonspiral Tower!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0020",
+            "en_US": [
+                "Cheren: I'm going, too.{VAR BE01}\n",
+                "Dragonspiral Tower is to the north\n",
+                "of here, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0021",
+            "en_US": [
+                "Bianca: Whoooooa! Whoa.\n",
+                "Wh-what should I do?{VAR BE01}\n",
+                "F-for now, I have to go to\n",
+                "Dragonspiral Tower...{VAR BE00}\n",
+                "OK! I'm heading north!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_118_0022",
+            "en_US": [
+                "Bianca: Whoa, whoa, whoa!\n",
+                "Wh-what should I do?{VAR BE01}\n",
+                "F-for now, I have to go to\n",
+                "Dragonspiral Tower...{VAR BE00}\n",
+                "OK! I'm heading north!"
+            ]
+        },
+        {
+            "id": "a003_118_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_118_0024",
+            "en_US": [
+                "The legendary Pokémon Reshiram\n",
+                "shared its wisdom with the hero{VAR BE00}\n",
+                "and defied foes with columns of fire.{VAR BE01}\n",
+                "The hero and that Pokémon were as\n",
+                "close as a parent and child.{VAR BE01}\n",
+                "People were filled with awe and looked up\n",
+                "to them, and that is said to be the{VAR BE00}\n",
+                "beginning of what became ancient Unova."
+            ]
+        },
+        {
+            "id": "a003_118_0025",
+            "en_US": [
+                "The legendary Pokémon Zekrom\n",
+                "shared its wisdom with the hero{VAR BE00}\n",
+                "and defied foes with fierce lightning.{VAR BE01}\n",
+                "The hero and that Pokémon were as\n",
+                "close as a parent and child.{VAR BE01}\n",
+                "People were filled with awe and looked up\n",
+                "to them, and that is said to be the{VAR BE00}\n",
+                "beginning of what became ancient Unova."
+            ]
+        },
+        {
+            "id": "a003_118_0026",
+            "en_US": [
+                "Always, the tower looms,\n",
+                "disdainful of the wind and snow.{VAR BE01}\n",
+                "Perhaps its presence has\n",
+                "a special meaning for people."
+            ]
+        },
+        {
+            "id": "a003_118_0027",
+            "en_US": [
+                "The legendary Pokémon gave help to\n",
+                "the hero who sought truth.{VAR BE00}\n",
+                "Because of that, a region was created.{VAR BE01}\n",
+                "Then, when its physical form was lost,\n",
+                "the Pokémon became the Light Stone,{VAR BE00}\n",
+                "waiting patiently for a new hero.{VAR BE01}\n",
+                "I heard that story when I was little."
+            ]
+        },
+        {
+            "id": "a003_118_0028",
+            "en_US": [
+                "The legendary Pokémon gave help to\n",
+                "the hero who sought ideals.{VAR BE00}\n",
+                "Because of that, a region was created.{VAR BE01}\n",
+                "Then, when its physical form was lost,\n",
+                "the Pokémon became the Dark Stone,{VAR BE00}\n",
+                "waiting patiently for a new hero.{VAR BE01}\n",
+                "I've heard that story since I was little."
+            ]
+        },
+        {
+            "id": "a003_118_0029",
+            "en_US": [
+                "The Gym Leader Brycen\n",
+                "is the strong and silent type.{VAR BE01}\n",
+                "I can understand why some people\n",
+                "call him a fighting machine."
+            ]
+        },
+        {
+            "id": "a003_118_0030",
+            "en_US": [
+                "Dance, dance!\n",
+                "Two dragons!"
+            ]
+        },
+        {
+            "id": "a003_118_0031",
+            "en_US": [
+                "Spin! ♪ Spin! ♪\n",
+                "Turn and spin! ♪"
+            ]
+        },
+        {
+            "id": "a003_118_0032",
+            "en_US": [
+                "Spin apart!\n",
+                "Mix and twirl!"
+            ]
+        },
+        {
+            "id": "a003_118_0033",
+            "en_US": [
+                "Mix it up, day and night!\n",
+                "'Cause today, everything's all right! ♪"
+            ]
+        },
+        {
+            "id": "a003_118_0034",
+            "en_US": [
+                "If you walk in the wetlands, you might\n",
+                "surprise wild Pokémon into popping out!"
+            ]
+        },
+        {
+            "id": "a003_118_0035",
+            "en_US": [
+                "When the wetlands freeze, it's slippery.\n",
+                "I wonder how wetland Pokémon manage?"
+            ]
+        },
+        {
+            "id": "a003_118_0036",
+            "en_US": [
+                "Icirrus City\n",
+                "Sky Glittering with Flowers of Snow"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_118_0037",
+            "en_US": [
+                "Fans of Everything Pokémon\n",
+                "The Pokémon Fan Club"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_118_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_118_0039",
+            "en_US": [
+                "Icirrus City Pokémon Gym\n",
+                "Leader: Brycen{VAR BE00}\n",
+                "Ice Mask"
+            ],
+            "flags": 207
+        }
+    ]
+}

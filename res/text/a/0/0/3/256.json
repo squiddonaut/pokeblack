@@ -1,0 +1,46 @@
+{
+    "flags": 215,
+    "pad": "eeee",
+    "messages": [
+        {
+            "id": "a003_256_0000",
+            "en_US": [
+                "IRSPE③HIXEIJIH\n",
+                "KRMO"
+            ]
+        },
+        {
+            "id": "a003_256_0001",
+            "en_US": [
+                "CEHERM\n",
+                "KRMOHIRMSN④"
+            ]
+        },
+        {
+            "id": "a003_256_0002",
+            "en_US": [
+                "WKRMIF⑤HIPPEG\n",
+                "KRMO"
+            ]
+        },
+        {
+            "id": "a003_256_0003",
+            "en_US": [
+                "IVYXYJHREITSL\n",
+                "WMKRMO"
+            ]
+        },
+        {
+            "id": "a003_256_0004",
+            "en_US": "⑥KRMOXEIVKILX"
+        },
+        {
+            "id": "a003_256_0005",
+            "en_US": [
+                "It looks like you can climb down here!{VAR BE01}\n",
+                "Will you return to the lower floor?"
+            ],
+            "flags": 224
+        }
+    ]
+}

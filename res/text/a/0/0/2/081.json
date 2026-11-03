@@ -1,0 +1,92 @@
+{
+    "flags": 240,
+    "pad": "8e8e",
+    "messages": [
+        {
+            "id": "a002_081_0000",
+            "en_US": "Your name?"
+        },
+        {
+            "id": "a002_081_0001",
+            "en_US": "{VAR 0101 0000}'s nickname?"
+        },
+        {
+            "id": "a002_081_0002",
+            "en_US": "Box name?"
+        },
+        {
+            "id": "a002_081_0003",
+            "en_US": "Your rival's name?"
+        },
+        {
+            "id": "a002_081_0004",
+            "en_US": "Your friend's name?"
+        },
+        {
+            "id": "a002_081_0005",
+            "en_US": "How do you greet passersby?"
+        },
+        {
+            "id": "a002_081_0006",
+            "en_US": "How do you thank passersby?"
+        },
+        {
+            "id": "a002_081_0007",
+            "en_US": [
+                "What's your message\n",
+                "to passersby?"
+            ]
+        },
+        {
+            "id": "a002_081_0008",
+            "en_US": "Please enter the name."
+        },
+        {
+            "id": "a002_081_0009",
+            "en_US": [
+                "Numbers may contain\n",
+                "only up to four digits."
+            ]
+        },
+        {
+            "id": "a002_081_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_081_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_081_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_081_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_081_0014",
+            "en_US": "Shiro*",
+            "flags": 60
+        },
+        {
+            "id": "a002_081_0015",
+            "en_US": "Kuro*",
+            "flags": 60
+        },
+        {
+            "id": "a002_081_0016",
+            "en_US": "⑭",
+            "flags": 16
+        },
+        {
+            "id": "a002_081_0017",
+            "en_US": "⑮",
+            "flags": 16
+        }
+    ]
+}

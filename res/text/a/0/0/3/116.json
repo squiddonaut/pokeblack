@@ -1,0 +1,141 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_116_0000",
+            "en_US": [
+                "When you use the move Fly, you can\n",
+                "return to a Pokémon Center{VAR BE00}\n",
+                "you've already visited.{VAR BE01}\n",
+                "But if Pokémon don't know their\n",
+                "destinations, they cannot fly there!"
+            ]
+        },
+        {
+            "id": "a003_116_0001",
+            "en_US": [
+                "Because I know a lot about planes,\n",
+                "I can maintain them!{VAR BE01}\n",
+                "Because I know a lot about Pokémon,\n",
+                "I can be strong!"
+            ]
+        },
+        {
+            "id": "a003_116_0002",
+            "en_US": [
+                "For the places that I cannot reach,\n",
+                "I ask Flying- or Psychic-type Pokémon{VAR BE00}\n",
+                "for help sometimes.{VAR BE01}\n",
+                "I cannot even imagine everyday life\n",
+                "without Pokémon."
+            ]
+        },
+        {
+            "id": "a003_116_0003",
+            "en_US": "Chulululuwa!"
+        },
+        {
+            "id": "a003_116_0004",
+            "en_US": [
+                "Because of this control tower, planes\n",
+                "can fly safely in the sky where there{VAR BE00}\n",
+                "are no roads.{VAR BE01}\n",
+                "From that, I take this lesson:\n",
+                "If Trainers lead Pokémon correctly,{VAR BE00}\n",
+                "Pokémon will feel safe and fight well."
+            ]
+        },
+        {
+            "id": "a003_116_0005",
+            "en_US": [
+                "My dream was to become a Pilot and\n",
+                "fly away, far away...{VAR BE00}\n",
+                "I still have that dream in my heart."
+            ]
+        },
+        {
+            "id": "a003_116_0006",
+            "en_US": [
+                "Welcome to the sky city, Mistralton!\n",
+                "Take this as a keepsake!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_116_0007",
+            "en_US": [
+                "If a Pokémon holds an item called\n",
+                "Sharp Beak, its Flying-type{VAR BE00}\n",
+                "moves will be powered up!"
+            ]
+        },
+        {
+            "id": "a003_116_0008",
+            "en_US": [
+                "Hello!{VAR BE01}\n",
+                "Deliver a lot of cargo quickly!\n",
+                "This is Mistralton Cargo Service."
+            ]
+        },
+        {
+            "id": "a003_116_0009",
+            "en_US": [
+                "Sweets, lovely Sweet Heart! ♪\n",
+                "Check feelings between two people.{VAR BE01}\n",
+                "If you are a great match, you can\n",
+                "get sweet on Sweet Heart! ♪{VAR BE00}\n",
+                "Meltingly sweet Sweet Heart! ♪{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_116_0010",
+            "en_US": [
+                "Oh, uh, you?\n",
+                "You have Sweet Heart!{VAR BE01}\n",
+                "Will you trade ten pieces of your\n",
+                "Sweet Heart for my Heart Scale?"
+            ]
+        },
+        {
+            "id": "a003_116_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_116_0012",
+            "en_US": [
+                "If you bring a lot of Sweet Heart pieces,\n",
+                "I will trade you for something happy!"
+            ]
+        },
+        {
+            "id": "a003_116_0013",
+            "en_US": [
+                "Yaaaay!\n",
+                "I have a lot of your heart!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_116_0014",
+            "en_US": [
+                "Oh... What a pity.\n",
+                "What a great pity!{VAR BE01}\n",
+                "You must have a lot of\n",
+                "Heart Scales already."
+            ]
+        },
+        {
+            "id": "a003_116_0015",
+            "en_US": [
+                "OK...\n",
+                "Aww...that's too bad."
+            ]
+        },
+        {
+            "id": "a003_116_0016",
+            "en_US": [
+                "Gave the Sweet Hearts and received\n",
+                "a {VAR 0109 0000} in return.{VAR BE01}"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "flags": 84,
+    "messages": [
+        {
+            "id": "a002_155_0000",
+            "en_US": "PGL"
+        },
+        {
+            "id": "a002_155_0001",
+            "en_US": "GTS"
+        },
+        {
+            "id": "a002_155_0002",
+            "en_US": "POKÉMON DW"
+        },
+        {
+            "id": "a002_155_0003",
+            "en_US": "Wi-Fi"
+        },
+        {
+            "id": "a002_155_0004",
+            "en_US": "SPIN"
+        },
+        {
+            "id": "a002_155_0005",
+            "en_US": "GAME SYNC"
+        },
+        {
+            "id": "a002_155_0006",
+            "en_US": "COLOSSEUM"
+        },
+        {
+            "id": "a002_155_0007",
+            "en_US": "SUBWAY"
+        },
+        {
+            "id": "a002_155_0008",
+            "en_US": "GEONET"
+        },
+        {
+            "id": "a002_155_0009",
+            "en_US": "SINGLE"
+        },
+        {
+            "id": "a002_155_0010",
+            "en_US": "INFRARED"
+        },
+        {
+            "id": "a002_155_0011",
+            "en_US": "DOUBLE"
+        },
+        {
+            "id": "a002_155_0012",
+            "en_US": "CHAT"
+        },
+        {
+            "id": "a002_155_0013",
+            "en_US": "CONNECTION"
+        },
+        {
+            "id": "a002_155_0014",
+            "en_US": "FRIEND CODE"
+        },
+        {
+            "id": "a002_155_0015",
+            "en_US": "TRIPLE"
+        },
+        {
+            "id": "a002_155_0016",
+            "en_US": "ENTRALINK"
+        },
+        {
+            "id": "a002_155_0017",
+            "en_US": "BATTLE VIDEOS"
+        },
+        {
+            "id": "a002_155_0018",
+            "en_US": "VOICE CHAT"
+        },
+        {
+            "id": "a002_155_0019",
+            "en_US": "POKÉ TRANSFER"
+        },
+        {
+            "id": "a002_155_0020",
+            "en_US": "MULTI BATTLE"
+        },
+        {
+            "id": "a002_155_0021",
+            "en_US": "MUSICAL"
+        },
+        {
+            "id": "a002_155_0022",
+            "en_US": "UNION"
+        },
+        {
+            "id": "a002_155_0023",
+            "en_US": "TAG LOG"
+        },
+        {
+            "id": "a002_155_0024",
+            "en_US": "ROTATION"
+        },
+        {
+            "id": "a002_155_0025",
+            "en_US": "WIRELESS"
+        }
+    ]
+}

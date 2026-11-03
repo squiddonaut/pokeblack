@@ -1,0 +1,113 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_030_0000",
+            "en_US": [
+                "Burgh used this warehouse until\n",
+                "two years ago!{VAR BE01}\n",
+                "When Burgh gets artist's block,\n",
+                "he comes back here to Nacrene City!"
+            ]
+        },
+        {
+            "id": "a003_030_0001",
+            "en_US": [
+                "Burgh is an artist, and also the\n",
+                "Gym Leader in Castelia City.{VAR BE00}\n",
+                "We want to be like him!"
+            ]
+        },
+        {
+            "id": "a003_030_0002",
+            "en_US": [
+                "That thing you have is a Pokédex,\n",
+                "isn't it?{VAR BE01}\n",
+                "Wow! Coooooool! You collect Pokémon!\n",
+                "OK! I'll help you.{VAR BE01}\n",
+                "Which Pokémon did you choose at the\n",
+                "beginning of your journey?"
+            ]
+        },
+        {
+            "id": "a003_030_0003",
+            "en_US": [
+                "You have Snivy! Then I will give you this!{VAR BE01}\n",
+                "When you let your Pokémon hold it, it can\n",
+                "raise the power of Grass-type moves!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_030_0004",
+            "en_US": [
+                "You have Oshawott! Then I will give\n",
+                "you this!{VAR BE01}\n",
+                "When you let your Pokémon hold it, it can\n",
+                "raise the power of Water-type moves!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_030_0005",
+            "en_US": [
+                "You have Tepig! Then I will give you this!{VAR BE01}\n",
+                "When you let your Pokémon hold it, it can\n",
+                "raise the power of Fire-type moves!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_030_0006",
+            "en_US": [
+                "A lot of items have effects when Pokémon\n",
+                "hold them, so try to find them!{VAR BE01}\n",
+                "Well, work hard to fill up your Pokédex!\n",
+                "Good luck!"
+            ]
+        },
+        {
+            "id": "a003_030_0007",
+            "en_US": "Snivy",
+            "flags": 219
+        },
+        {
+            "id": "a003_030_0008",
+            "en_US": "Oshawott",
+            "flags": 219
+        },
+        {
+            "id": "a003_030_0009",
+            "en_US": "Tepig",
+            "flags": 219
+        },
+        {
+            "id": "a003_030_0010",
+            "en_US": "Quit",
+            "flags": 219
+        },
+        {
+            "id": "a003_030_0011",
+            "en_US": "Do you have Snivy?"
+        },
+        {
+            "id": "a003_030_0012",
+            "en_US": "Do you have Oshawott?"
+        },
+        {
+            "id": "a003_030_0013",
+            "en_US": "Do you have Tepig?"
+        },
+        {
+            "id": "a003_030_0014",
+            "en_US": [
+                "Then, what is the Pokémon you chose\n",
+                "at the beginning of your journey?"
+            ]
+        },
+        {
+            "id": "a003_030_0015",
+            "en_US": [
+                "If you want to tell me, please speak\n",
+                "to me!"
+            ]
+        }
+    ]
+}

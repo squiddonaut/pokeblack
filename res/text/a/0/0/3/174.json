@@ -1,0 +1,10 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_174_0000",
+            "en_US": "Team Plasma: !!{VAR BE01}"
+        }
+    ]
+}

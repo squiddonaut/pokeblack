@@ -1,0 +1,224 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_052_0000",
+            "en_US": "..."
+        },
+        {
+            "id": "a003_052_0001",
+            "en_US": [
+                "'Cause he is alone and looks lonely,\n",
+                "I was reading a book to him!{VAR BE00}\n",
+                "I will read it to you, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0002",
+            "en_US": [
+                "'Cause he is alone and looks lonely,\n",
+                "I was reading a book to him!{VAR BE00}\n",
+                "I will read it to you, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0003",
+            "en_US": [
+                "Here, I'll keep reading!{VAR BE01}\n",
+                "...\n",
+                "Zorua, who was left alone, wandered{VAR BE00}\n",
+                "around looking for its mother...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0004",
+            "en_US": [
+                "Have you seen Zorua? See, it's\n",
+                "the Pokémon that looks like this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0005",
+            "en_US": [
+                "They say Zorua has the power\n",
+                "to bewitch people!{VAR BE01}\n",
+                "It would be scary if I were bewitched,\n",
+                "but I like Zorua!{VAR BE00}\n",
+                "'Cause it's cute!{VAR BE01}\n",
+                "...Huh?\n",
+                "Why are you blushing?"
+            ]
+        },
+        {
+            "id": "a003_052_0006",
+            "en_US": [
+                "Castelia City is so big\n",
+                "that I feel dizzy.{VAR BE00}\n",
+                "Even I can get lost!"
+            ]
+        },
+        {
+            "id": "a003_052_0007",
+            "en_US": [
+                "This little boy got lost!\n",
+                "He looks lonely, so{VAR BE00}\n",
+                "please talk to him!"
+            ]
+        },
+        {
+            "id": "a003_052_0008",
+            "en_US": [
+                "This little boy got lost!\n",
+                "He looks lonely, so {VAR BE00}\n",
+                "please talk to him!"
+            ]
+        },
+        {
+            "id": "a003_052_0009",
+            "en_US": "Yip yap!"
+        },
+        {
+            "id": "a003_052_0010",
+            "en_US": "Lululalala!"
+        },
+        {
+            "id": "a003_052_0011",
+            "en_US": [
+                "Oh, that little boy was really Zorua!\n",
+                "So cooooool!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0012",
+            "en_US": [
+                "It looks like Zorua and Celebi are really\n",
+                "good friends!{VAR BE01}\n",
+                "I'm sure Zorua wants to go with you\n",
+                "and Celebi!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0013",
+            "en_US": "Will you add Zorua to your party?"
+        },
+        {
+            "id": "a003_052_0014",
+            "en_US": "Zorua joined your party!"
+        },
+        {
+            "id": "a003_052_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_052_0016",
+            "en_US": "...Yip?{VAR BE01}"
+        },
+        {
+            "id": "a003_052_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_052_0018",
+            "en_US": [
+                "Zorua had been waiting for Celebi here!\n",
+                "Now, I am relieved!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0019",
+            "en_US": [
+                "It looks like Zorua and Celebi are really\n",
+                "good friends!{VAR BE01}\n",
+                "I'm sure Zorua wants to go with you\n",
+                "and Celebi!{VAR BE01}\n",
+                "...But do you have room for Zorua\n",
+                "in your party?{VAR BE01}\n",
+                "You can't take more than six Pokémon\n",
+                "with you. Right?"
+            ]
+        },
+        {
+            "id": "a003_052_0020",
+            "en_US": [
+                "It looks like Zorua and Celebi are really\n",
+                "good friends!{VAR BE01}\n",
+                "I'm sure Zorua wants to go with you\n",
+                "and Celebi!{VAR BE01}\n",
+                "...But do you have room for Zorua\n",
+                "in your party?{VAR BE01}\n",
+                "You can't take more than six Pokémon\n",
+                "with you. Right?"
+            ]
+        },
+        {
+            "id": "a003_052_0021",
+            "en_US": [
+                "So you won't take Zorua with you...\n",
+                "Poor thing. It looks lonely...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0022",
+            "en_US": [
+                "So you won't take Zorua with you...\n",
+                "Poor thing. It looks lonely..."
+            ]
+        },
+        {
+            "id": "a003_052_0023",
+            "en_US": "Zorua is waiting for you!"
+        },
+        {
+            "id": "a003_052_0024",
+            "en_US": "Trainer, do you have a Poké Ball?{VAR BE01}"
+        },
+        {
+            "id": "a003_052_0025",
+            "en_US": "Trainer, do you have a Poké Ball?{VAR BE01}"
+        },
+        {
+            "id": "a003_052_0026",
+            "en_US": "...Can't you take Zorua with you?{VAR BE01}"
+        },
+        {
+            "id": "a003_052_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_052_0028",
+            "en_US": [
+                "It looks like Zorua and Celebi are really\n",
+                "good friends!{VAR BE01}\n",
+                "I'm sure Zorua wants to go with you\n",
+                "and Celebi!{VAR BE01}\n",
+                "...But do you have room for Zorua\n",
+                "in your party?{VAR BE01}\n",
+                "You can't take more than six Pokémon\n",
+                "with you. Right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0029",
+            "en_US": [
+                "It looks like Zorua and Celebi are really\n",
+                "good friends!{VAR BE01}\n",
+                "I'm sure Zorua wants to go with you\n",
+                "and Celebi!{VAR BE01}\n",
+                "...But do you have room for Zorua\n",
+                "in your party?{VAR BE01}\n",
+                "You can't take more than six Pokémon\n",
+                "with you. Right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_052_0030",
+            "en_US": [
+                "Would you like to give a nickname\n",
+                "to the Zorua who joined your party?"
+            ]
+        }
+    ]
+}

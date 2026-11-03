@@ -1,0 +1,57 @@
+{
+    "flags": 224,
+    "pad": "e6e6",
+    "messages": [
+        {
+            "id": "a003_295_0000",
+            "en_US": "Skreeree..."
+        },
+        {
+            "id": "a003_295_0001",
+            "en_US": [
+                "This Pokémon has become attached to me.{VAR BE01}\n",
+                "But as far as I'm concerned, a Pokémon\n",
+                "is just a simple tool.{VAR BE01}\n",
+                "I don't understand..."
+            ]
+        },
+        {
+            "id": "a003_295_0002",
+            "en_US": "Will you go to the Pokémon League?"
+        },
+        {
+            "id": "a003_295_0003",
+            "en_US": "Go!{VAR BE01}"
+        },
+        {
+            "id": "a003_295_0004",
+            "en_US": "I see."
+        },
+        {
+            "id": "a003_295_0005",
+            "en_US": [
+                "I don't need an item to catch\n",
+                "Pokémon anymore...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_295_0006",
+            "en_US": [
+                "Poké Balls...{VAR BE01}\n",
+                "From my point of view, they are items\n",
+                "that keep Pokémon confined.{VAR BE01}\n",
+                "But for Trainers like you, they are a way\n",
+                "to bond with Pokémon...{VAR BE01}\n",
+                "If you run out of Poké Balls,\n",
+                "come see me. I will give one to you."
+            ]
+        },
+        {
+            "id": "a003_295_0007",
+            "en_US": [
+                "You need a Poké Ball?\n",
+                "OK. Take this.{VAR BE01}"
+            ]
+        }
+    ]
+}

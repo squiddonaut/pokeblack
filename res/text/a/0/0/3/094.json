@@ -1,0 +1,48 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_094_0000",
+            "en_US": [
+                "A sports game, like baseball or football,\n",
+                "starts at a certain time every day.{VAR BE01}\n",
+                "That's in Big Stadium!"
+            ]
+        },
+        {
+            "id": "a003_094_0001",
+            "en_US": [
+                "In the Small Court, you can find games of\n",
+                "basketball and tennis."
+            ]
+        },
+        {
+            "id": "a003_094_0002",
+            "en_US": [
+                "Oh...?{VAR BE01}\n",
+                "Oh, my!{VAR BE01}\n",
+                "Your {VAR 0101 0000} seems to like you!{VAR BE01}\n",
+                "That's so nice to see. Makes me want\n",
+                "to give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_094_0003",
+            "en_US": [
+                "If a Pokémon holds a Soothe Bell, it will\n",
+                "become more friendly to you."
+            ]
+        },
+        {
+            "id": "a003_094_0004",
+            "en_US": [
+                "Oh...?{VAR BE01}\n",
+                "Oh, my!{VAR BE01}\n",
+                "Your {VAR 0101 0000}'s feelings\n",
+                "toward you seem to be neutral.{VAR BE01}\n",
+                "If you can win its friendship,\n",
+                "I will give you something nice!"
+            ]
+        }
+    ]
+}

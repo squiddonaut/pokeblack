@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "baba",
+    "messages": [
+        {
+            "id": "a003_006_0000",
+            "en_US": [
+                "The country, huh?{VAR BE01}\n",
+                "I'm amazed anyone can live in a place\n",
+                "that's so inconvenient."
+            ]
+        },
+        {
+            "id": "a003_006_0001",
+            "en_US": [
+                "Nature and slow-paced living?\n",
+                "I don't need a boring life like that!"
+            ]
+        }
+    ]
+}

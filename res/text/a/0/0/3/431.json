@@ -1,0 +1,82 @@
+{
+    "flags": 224,
+    "pad": "1e1e",
+    "messages": [
+        {
+            "id": "a003_431_0000",
+            "en_US": "No, no, a thousand times no!{VAR BE01}"
+        },
+        {
+            "id": "a003_431_0001",
+            "en_US": [
+                "Bianca: But, I'm...{VAR BE01}\n",
+                "I'm a good Trainer who got\n",
+                "a Pokémon and everything!{VAR BE00}\n",
+                "I can totally go on an adventure!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_431_0002",
+            "en_US": [
+                "Bianca: Oh...\n",
+                "It's OK.{VAR BE01}\n",
+                "...It's fine!{VAR BE01}\n",
+                "I'll be waiting for you in front\n",
+                "of the lab, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_431_0003",
+            "en_US": [
+                "Bianca's Dad: What nonsense is this?{VAR BE01}\n",
+                "How could my daughter, who knows\n",
+                "nothing about the world,{VAR BE00}\n",
+                "be going on a journey with Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_431_0004",
+            "en_US": [
+                "Bianca's Mom: Don't mind my husband,\n",
+                "dear. He's just being overprotective.{VAR BE01}\n",
+                "All children go on adventures\n",
+                "with Pokémon.{VAR BE00}\n",
+                "It's part of growing up."
+            ]
+        },
+        {
+            "id": "a003_431_0005",
+            "en_US": [
+                "Bianca's Dad: Well, then.\n",
+                "I look forward to the stories Bianca will{VAR BE00}\n",
+                "have for us next time she comes home."
+            ]
+        },
+        {
+            "id": "a003_431_0006",
+            "en_US": [
+                "Bianca's Dad: Even if there are many\n",
+                "things you want to do,{VAR BE00}\n",
+                "you're only one person.{VAR BE01}\n",
+                "It's frustrating, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_431_0007",
+            "en_US": [
+                "Bianca's Mom: Choosing one thing means\n",
+                "having to give up something else.{VAR BE01}\n",
+                "So, of course it's very hard to decide."
+            ]
+        },
+        {
+            "id": "a003_431_0008",
+            "en_US": [
+                "Bianca: I was just looking over\n",
+                "my Pokédex again and thinking...{VAR BE01}\n",
+                "I sure have met a lot\n",
+                "of different Pokémon."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,600 @@
+{
+    "flags": 224,
+    "pad": "a8a8",
+    "messages": [
+        {
+            "id": "a003_457_0000",
+            "en_US": [
+                "A beautiful tune is spreading\n",
+                "throughout the town..."
+            ]
+        },
+        {
+            "id": "a003_457_0001",
+            "en_US": [
+                "Anville Town\n",
+                "Rolling Out the Steel Rails"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_457_0002",
+            "en_US": "It's a subway map of the Unova region.{VAR BE01}"
+        },
+        {
+            "id": "a003_457_0003",
+            "en_US": [
+                "Oh, are you also curious about\n",
+                "that train?"
+            ]
+        },
+        {
+            "id": "a003_457_0004",
+            "en_US": [
+                "Unfortunately, no train has\n",
+                "come here today.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0005",
+            "en_US": "See the train there?"
+        },
+        {
+            "id": "a003_457_0006",
+            "en_US": [
+                "All righty!\n",
+                "Let me explain!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0007",
+            "en_US": [
+                "All righty!\n",
+                "All aboard!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0008",
+            "en_US": "Oh, that's a shame.{VAR BE01}"
+        },
+        {
+            "id": "a003_457_0009",
+            "en_US": [
+                "Hahaha!\n",
+                "You're right.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0010",
+            "en_US": [
+                "Today's train car is a Hyperspeed Train!\n",
+                "It runs faster than a rocket!{VAR BE00}\n",
+                "It runs quieter than an air conditioner!"
+            ]
+        },
+        {
+            "id": "a003_457_0011",
+            "en_US": [
+                "This is a Single Train! It's the oldest\n",
+                "train in the Battle Subway."
+            ]
+        },
+        {
+            "id": "a003_457_0012",
+            "en_US": [
+                "This Super Single Train is\n",
+                "a new mass-produced car!"
+            ]
+        },
+        {
+            "id": "a003_457_0013",
+            "en_US": [
+                "This car is a Double Train!\n",
+                "This is a mass-produced car{VAR BE00}\n",
+                "from a decade ago!"
+            ]
+        },
+        {
+            "id": "a003_457_0014",
+            "en_US": [
+                "This Super Double Train is\n",
+                "a new mass-produced car!"
+            ]
+        },
+        {
+            "id": "a003_457_0015",
+            "en_US": [
+                "This car is a Multi Train!\n",
+                "Few cars of this model were produced."
+            ]
+        },
+        {
+            "id": "a003_457_0016",
+            "en_US": [
+                "This train car is a Super Multi Train!\n",
+                "This is the latest train car!"
+            ]
+        },
+        {
+            "id": "a003_457_0017",
+            "en_US": [
+                "This train car is a Wi-Fi Train!\n",
+                "It is the fastest long-distance{VAR BE00}\n",
+                "high-speed train in the Battle Subway!"
+            ]
+        },
+        {
+            "id": "a003_457_0018",
+            "en_US": [
+                "As you know, this is a local train to\n",
+                "Anville Town! Isn't it just so cute?"
+            ]
+        },
+        {
+            "id": "a003_457_0019",
+            "en_US": [
+                "This train car is the kind that ran\n",
+                "a long time ago."
+            ]
+        },
+        {
+            "id": "a003_457_0020",
+            "en_US": [
+                "This train car is a new train\n",
+                "to run in the future!"
+            ]
+        },
+        {
+            "id": "a003_457_0021",
+            "en_US": [
+                "I can see!\n",
+                "I can see it!{VAR BE01}\n",
+                "That lovely smooth curve! Ah, I wish\n",
+                "I could reach out and touch it!"
+            ]
+        },
+        {
+            "id": "a003_457_0022",
+            "en_US": [
+                "It's for a loop line to go around the\n",
+                "Unova region!"
+            ]
+        },
+        {
+            "id": "a003_457_0023",
+            "en_US": [
+                "It's an environmentally friendly train,\n",
+                "because they revised all the parts{VAR BE00}\n",
+                "to drastically reduce power consumption!"
+            ]
+        },
+        {
+            "id": "a003_457_0024",
+            "en_US": [
+                "Compared to a Single Train,\n",
+                "the number of parts was reduced{VAR BE00}\n",
+                "so it could be built for a lower cost."
+            ]
+        },
+        {
+            "id": "a003_457_0025",
+            "en_US": [
+                "Such a streamlined and refined design!\n",
+                "Beauty and utility working together!{VAR BE01}\n",
+                "That kind of beautility is unique to\n",
+                "mass-produced train cars!"
+            ]
+        },
+        {
+            "id": "a003_457_0026",
+            "en_US": [
+                "This is a test car to develop future\n",
+                "mass-produced cars that will replace{VAR BE00}\n",
+                "the old Double Trains."
+            ]
+        },
+        {
+            "id": "a003_457_0027",
+            "en_US": [
+                "Improved acceleration and deceleration!\n",
+                "Automated train-car controls!{VAR BE00}\n",
+                "It's full of cutting-edge technologies."
+            ]
+        },
+        {
+            "id": "a003_457_0028",
+            "en_US": [
+                "This is called a pendulum car.\n",
+                "Its body tilts while going around curves,{VAR BE00}\n",
+                "so it can run without slowing down!"
+            ]
+        },
+        {
+            "id": "a003_457_0029",
+            "en_US": [
+                "This one is a little slow and heavy.\n",
+                "When it runs, the whole train sways."
+            ]
+        },
+        {
+            "id": "a003_457_0030",
+            "en_US": [
+                "Compared to contemporary train cars, it\n",
+                "has more parts, so I heard it was{VAR BE00}\n",
+                "difficult to build."
+            ]
+        },
+        {
+            "id": "a003_457_0031",
+            "en_US": [
+                "Wooo! Cool! Super cool!\n",
+                "The latest motor breathes fire!"
+            ]
+        },
+        {
+            "id": "a003_457_0032",
+            "en_US": [
+                "I can see it so clearly! But I cannot\n",
+                "touch the Hyperspeed Train!{VAR BE01}\n",
+                "It really is hyper technology!{VAR BE01}\n",
+                "As you can see, we engineers are\n",
+                "always seriously dreaming that someday{VAR BE00}\n",
+                "the dream will become a reality!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0033",
+            "en_US": [
+                "Do you know Tubeline Bridge?{VAR BE01}\n",
+                "The train that runs on it is\n",
+                "this Single Train.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0034",
+            "en_US": [
+                "Newer trains have to be built\n",
+                "in a way that's both functional{VAR BE00}\n",
+                "and environmentally friendly.{VAR BE01}\n",
+                "Compared to the past, they've\n",
+                "improved significantly.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0035",
+            "en_US": [
+                "The number of parts influences the\n",
+                "budget and construction time.{VAR BE01}\n",
+                "The streamlined and beautiful design\n",
+                "of the Double Train is still valued today.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0036",
+            "en_US": [
+                "It uses the same train car\n",
+                "as a Super Single Train.{VAR BE01}\n",
+                "The only difference is the appearance.{VAR BE01}\n",
+                "It is a superb train car that will go down\n",
+                "in the history of the Battle Subway!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0037",
+            "en_US": [
+                "The technology born during the creation\n",
+                "of this train car made the Super Single{VAR BE00}\n",
+                "Train and Super Double Train possible!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0038",
+            "en_US": [
+                "Also, a regeneration brake system,\n",
+                "a car-body tilting system,{VAR BE00}\n",
+                "a whatchamacallit system,{VAR BE00}\n",
+                "a thingamabob system...{VAR BE01}\n",
+                "I don't remember all the details,\n",
+                "but it's just a big festival of all{VAR BE00}\n",
+                "the latest technology!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0039",
+            "en_US": [
+                "Faster! Farther!\n",
+                "Our engineers' spirits are infused in it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0040",
+            "en_US": [
+                "The train car is the same model as a\n",
+                "Single Train.{VAR BE01}\n",
+                "Because it is an old train car, I hear the\n",
+                "maintenance is hard, but it's the one I{VAR BE00}\n",
+                "always ride, because I loved it as a kid!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0041",
+            "en_US": [
+                "The old train cars built with lots of small\n",
+                "parts have their own unique beauty and{VAR BE00}\n",
+                "attract a lot of fans.{VAR BE01}\n",
+                "Those cars no longer run in the\n",
+                "Battle Subway, but I hear they're still{VAR BE00}\n",
+                "used in a faraway region.{VAR BE01}\n",
+                "Ah... I'd love to be on that train!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0042",
+            "en_US": [
+                "Uh-oh, if it really breathed fire, that\n",
+                "would be bad!{VAR BE01}\n",
+                "But it is full of the latest technologies!\n",
+                "It's undergoing a lot of testing.{VAR BE01}\n",
+                "It's called a gauge-convertible train.{VAR BE01}\n",
+                "It's a sweet car that can adjust its\n",
+                "wheels to run on any rail!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0043",
+            "en_US": [
+                "A train to Nimbasa City is leaving\n",
+                "the station shortly.{VAR BE01}\n",
+                "Would you like to board?"
+            ]
+        },
+        {
+            "id": "a003_457_0044",
+            "en_US": "Then, please get on the train and wait.{VAR BE01}"
+        },
+        {
+            "id": "a003_457_0045",
+            "en_US": [
+                "This is a quiet town!\n",
+                "Relax and stay for a while."
+            ]
+        },
+        {
+            "id": "a003_457_0046",
+            "en_US": [
+                "Gave the {VAR 0109 0000} in exchange for\n",
+                "the {VAR 0109 0002}!"
+            ]
+        },
+        {
+            "id": "a003_457_0047",
+            "en_US": [
+                "Ah... I'm in trouble.{VAR BE01}\n",
+                "I was so engrossed in my trip that I ran\n",
+                "out of {VAR 0109 0000}.{VAR BE01}\n",
+                "Let me see...\n",
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000}{VAR BE00}\n",
+                "for my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0048",
+            "en_US": [
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000}\n",
+                "for my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0049",
+            "en_US": "Great, let's trade!{VAR BE01}"
+        },
+        {
+            "id": "a003_457_0050",
+            "en_US": "Oh, that's a shame."
+        },
+        {
+            "id": "a003_457_0051",
+            "en_US": [
+                "Hehe! It was a delightful trade,\n",
+                "wasn't it?"
+            ]
+        },
+        {
+            "id": "a003_457_0052",
+            "en_US": [
+                "...Uh-oh. You don't have\n",
+                "enough {VAR 0109 0000}s."
+            ]
+        },
+        {
+            "id": "a003_457_0053",
+            "en_US": [
+                "...Uh-oh. You don't have enough room for\n",
+                "the {VAR 0109 0002}."
+            ]
+        },
+        {
+            "id": "a003_457_0054",
+            "en_US": [
+                "I am a {VAR 0109 0000} collector!{VAR BE01}\n",
+                "You, over there! Let's have a\n",
+                "businesslike exchange.{VAR BE01}\n",
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000} for\n",
+                "my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0055",
+            "en_US": [
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000}\n",
+                "for my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0056",
+            "en_US": "Excellent. Let's do business!{VAR BE01}"
+        },
+        {
+            "id": "a003_457_0057",
+            "en_US": "Why? Do you think this is a bad deal?"
+        },
+        {
+            "id": "a003_457_0058",
+            "en_US": [
+                "Hah! It was a mutually beneficial trade!\n",
+                "This is a win-win relationship, right?"
+            ]
+        },
+        {
+            "id": "a003_457_0059",
+            "en_US": [
+                "Hah! You don't have\n",
+                "any {VAR 0109 0000}s."
+            ]
+        },
+        {
+            "id": "a003_457_0060",
+            "en_US": [
+                "Hah! You don't have enough room for\n",
+                "the {VAR 0109 0002}."
+            ]
+        },
+        {
+            "id": "a003_457_0061",
+            "en_US": [
+                "With that face, I bet you have\n",
+                "something I want.{VAR BE01}\n",
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000} for\n",
+                "my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0062",
+            "en_US": [
+                "Will you trade your {VAR 0201 0001} {VAR 0109 0000} for\n",
+                "my {VAR 0201 0003} {VAR 0109 0002}?"
+            ]
+        },
+        {
+            "id": "a003_457_0063",
+            "en_US": [
+                "Yay!\n",
+                "Then, let's trade!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0064",
+            "en_US": "Oh, it seems I was mistaken..."
+        },
+        {
+            "id": "a003_457_0065",
+            "en_US": [
+                "Ooh-la-la! This luster!\n",
+                "I really like {VAR 0109 0000}s.{VAR BE01}\n",
+                "An experienced person like me can tell\n",
+                "the difference of the luster of each one!"
+            ]
+        },
+        {
+            "id": "a003_457_0066",
+            "en_US": [
+                "Ooh-la-la!\n",
+                "You don't have enough {VAR 0109 0000}s."
+            ]
+        },
+        {
+            "id": "a003_457_0067",
+            "en_US": [
+                "Ooh-la-la! You don't have room for\n",
+                "the {VAR 0109 0002}."
+            ]
+        },
+        {
+            "id": "a003_457_0068",
+            "en_US": [
+                "It's so lively on weekends!\n",
+                "Oh, me? I came here to watch the trains."
+            ]
+        },
+        {
+            "id": "a003_457_0069",
+            "en_US": [
+                "You can trade lots of items.\n",
+                "It was surprisingly fun when I tried!"
+            ]
+        },
+        {
+            "id": "a003_457_0070",
+            "en_US": "What delicious air!"
+        },
+        {
+            "id": "a003_457_0071",
+            "en_US": [
+                "I wanted to get a picture from\n",
+                "this angle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0072",
+            "en_US": [
+                "Why do people love trains?{VAR BE01}\n",
+                "Maybe it's the design, the way they can\n",
+                "run so fast and still be so comfortable.{VAR BE01}\n",
+                "All the essential parts work together...\n",
+                "It's simple but so beautiful!"
+            ]
+        },
+        {
+            "id": "a003_457_0073",
+            "en_US": [
+                "Trains are so cooooool!{VAR BE01}\n",
+                "My mom brought me, but now she's\n",
+                "taking pictures somewhere.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_457_0074",
+            "en_US": [
+                "On weekends, a lot of people come here\n",
+                "to watch the trains."
+            ]
+        },
+        {
+            "id": "a003_457_0075",
+            "en_US": [
+                "They are full of people today, too.\n",
+                "Do you also trade items?"
+            ]
+        },
+        {
+            "id": "a003_457_0076",
+            "en_US": [
+                "This is a rare weekend when there aren't\n",
+                "any trains."
+            ]
+        },
+        {
+            "id": "a003_457_0077",
+            "en_US": "A lot of train cars have a rest here."
+        },
+        {
+            "id": "a003_457_0078",
+            "en_US": [
+                "If there are a lot of people,\n",
+                "I feel that the trains are happy!"
+            ]
+        },
+        {
+            "id": "a003_457_0079",
+            "en_US": "Today all the train cars are resting!"
+        },
+        {
+            "id": "a003_457_0080",
+            "en_US": [
+                "The girl on the bridge...{VAR BE01}\n",
+                "She's playing a lullaby for all the\n",
+                "sleeping trains of this town."
+            ]
+        }
+    ]
+}

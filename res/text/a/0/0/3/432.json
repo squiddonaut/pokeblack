@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_432_0000",
+            "en_US": [
+                "{VAR 0100 0000} checked the PC!{VAR BE01}\n",
+                "Pokémon Basics...{VAR BE01}\n",
+                "People live alongside Pokémon in\n",
+                "this world.{VAR BE01}\n",
+                "The people who battle with Pokémon are\n",
+                "called Pokémon Trainers."
+            ]
+        }
+    ]
+}

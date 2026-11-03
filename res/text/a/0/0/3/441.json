@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_441_0000",
+            "en_US": [
+                "Wow, you have that great Bag that can\n",
+                "store anything!{VAR BE01}\n",
+                "Why don't you buy a lot of Potions\n",
+                "and put them in your Bag?"
+            ]
+        },
+        {
+            "id": "a003_441_0001",
+            "en_US": [
+                "Weak Pokémon, strong Pokémon,\n",
+                "cool Pokémon, cute Pokémon...{VAR BE01}\n",
+                "Many Pokémon look forward\n",
+                "to meeting you!"
+            ]
+        }
+    ]
+}

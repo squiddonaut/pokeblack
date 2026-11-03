@@ -1,0 +1,70 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_054_0000",
+            "en_US": [
+                "I am the Feeling Reader.{VAR BE01}\n",
+                "I've heard a lot of people take\n",
+                "Feeling Checks using the C-Gear."
+            ]
+        },
+        {
+            "id": "a003_054_0001",
+            "en_US": [
+                "I am the Feeling Reader.{VAR BE01}\n",
+                "From the results of your Feeling Checks,\n",
+                "I'll tell you your lucky person{VAR BE00}\n",
+                "for today!{VAR BE01}\n",
+                "Are you interested?\n",
+                "Do you want to know your lucky person?"
+            ]
+        },
+        {
+            "id": "a003_054_0002",
+            "en_US": [
+                "The person who can make your day\n",
+                "exceptionally happy...{VAR BE01}\n",
+                "It's {VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a003_054_0003",
+            "en_US": [
+                "Oh, you don't have to hesitate.\n",
+                "I will read it for free!"
+            ]
+        },
+        {
+            "id": "a003_054_0004",
+            "en_US": [
+                "The person who can make your day\n",
+                "exceptionally happy is...{VAR BE01}\n",
+                "Oh dear. You've taken a Feeling Check\n",
+                "only with {VAR 0100 0000}.{VAR BE01}\n",
+                "I suggest that you take Feeling Checks\n",
+                "with a lot of people!"
+            ]
+        },
+        {
+            "id": "a003_054_0005",
+            "en_US": [
+                "You can't change the name of a Pokémon\n",
+                "you got from someone.{VAR BE01}\n",
+                "Because the name contains wishes\n",
+                "of the person who named it!"
+            ]
+        },
+        {
+            "id": "a003_054_0006",
+            "en_US": "Gesundheit: Gyu gyu?"
+        },
+        {
+            "id": "a003_054_0007",
+            "en_US": [
+                "By taking a Feeling Check, you can get\n",
+                "a Sweet Heart. That's a good item, right?"
+            ]
+        }
+    ]
+}

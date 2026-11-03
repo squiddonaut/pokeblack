@@ -97,11 +97,14 @@ export LM_LICENSE_FILE := $(TOOLSDIR)/mwccarm/license.dat
 # Native tools
 NDSTOOL      := $(TOOLSDIR)/ndstool/ndstool$(EXE)
 NDSDISASM    := $(TOOLSDIR)/ndsdisasm/ndsdisasm$(EXE)
-
 ASM_PROCESSOR := bash $(TOOLSDIR)/asm_processor/compile.sh
 PYTHON        := python3
 
-TOOLDIRS := $(foreach tool,$(NATIVE_TOOLS),$(dir $(tool)))
+MOVEPROC	 := $(TOOLSDIR)/dataproc/moveproc
+
+NATIVE_TOOLS := $(MOVEPROC)
+
+TOOLDIRS := $(sort $(foreach tool,$(NATIVE_TOOLS),$(dir $(tool))))
 
 # Directories
 SRC_SUBDIR                := src

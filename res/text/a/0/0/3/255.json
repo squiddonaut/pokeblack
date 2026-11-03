@@ -1,0 +1,57 @@
+{
+    "flags": 215,
+    "pad": "9696",
+    "messages": [
+        {
+            "id": "a003_255_0000",
+            "en_US": [
+                "VJQLHEOODRWVNODW\n",
+                "JQLN"
+            ]
+        },
+        {
+            "id": "a003_255_0001",
+            "en_US": [
+                "VHYDZPRUIOOD\n",
+                "GHYDV"
+            ]
+        },
+        {
+            "id": "a003_255_0002",
+            "en_US": [
+                "OODURIHSRK\n",
+                "VLJQLN"
+            ]
+        },
+        {
+            "id": "a003_255_0003",
+            "en_US": [
+                "HYROKWLZ\n",
+                "WFDNQLKW"
+            ]
+        },
+        {
+            "id": "a003_255_0004",
+            "en_US": [
+                "GHHUJDIL\n",
+                "JQRUWVWFD"
+            ]
+        },
+        {
+            "id": "a003_255_0005",
+            "en_US": [
+                "It looks like you can climb up here!{VAR BE01}\n",
+                "Will you proceed to the upper floor?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_255_0006",
+            "en_US": [
+                "It looks like you can climb down here!{VAR BE01}\n",
+                "Will you return to the lower floor?"
+            ],
+            "flags": 224
+        }
+    ]
+}

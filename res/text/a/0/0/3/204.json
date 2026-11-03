@@ -1,0 +1,43 @@
+{
+    "flags": 224,
+    "pad": "5050",
+    "messages": [
+        {
+            "id": "a003_204_0000",
+            "en_US": [
+                "Hi! We're the Nugget brothers.\n",
+                "I am the big brother.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_204_0001",
+            "en_US": [
+                "And I am the little brother\n",
+                "of the Nugget brothers!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_204_0002",
+            "en_US": [
+                "Glad you showed up!\n",
+                "I want to give you this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_204_0003",
+            "en_US": "I want to give you this, too.{VAR BE01}"
+        },
+        {
+            "id": "a003_204_0004",
+            "en_US": [
+                "That's a Nugget!{VAR BE01}\n",
+                "How'd it get so golden without\n",
+                "deep-frying? Trade secret!"
+            ]
+        },
+        {
+            "id": "a003_204_0005",
+            "en_US": "Nuggetaboutit!"
+        }
+    ]
+}

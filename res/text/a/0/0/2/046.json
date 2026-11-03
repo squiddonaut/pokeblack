@@ -1,0 +1,284 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_046_0000",
+            "en_US": "BATTLE",
+            "flags": 64
+        },
+        {
+            "id": "a002_046_0001",
+            "en_US": "TRADE",
+            "flags": 72
+        },
+        {
+            "id": "a002_046_0002",
+            "en_US": "QUIT",
+            "flags": 71
+        },
+        {
+            "id": "a002_046_0003",
+            "en_US": "BATTLES FOR TWO",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0004",
+            "en_US": "BATTLES FOR FOUR",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0005",
+            "en_US": "SINGLE BATTLE",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0006",
+            "en_US": "DOUBLE BATTLE",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0007",
+            "en_US": "TRIPLE BATTLE",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0008",
+            "en_US": [
+                "Make an Infrared Connection\n",
+                "with your opponent(s)."
+            ]
+        },
+        {
+            "id": "a002_046_0009",
+            "en_US": [
+                "Make an Infrared Connection\n",
+                "with your partner."
+            ]
+        },
+        {
+            "id": "a002_046_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0011",
+            "en_US": [
+                "Make an Infrared Connection\n",
+                "with your opponents' leader."
+            ]
+        },
+        {
+            "id": "a002_046_0012",
+            "en_US": "Please wait a moment."
+        },
+        {
+            "id": "a002_046_0013",
+            "en_US": "FRIEND CODE",
+            "flags": 94
+        },
+        {
+            "id": "a002_046_0014",
+            "en_US": [
+                "FEELING\n",
+                "CHECK"
+            ],
+            "flags": 80
+        },
+        {
+            "id": "a002_046_0015",
+            "en_US": "Will you quit?"
+        },
+        {
+            "id": "a002_046_0016",
+            "en_US": [
+                "Make an Infrared Connection\n",
+                "with your trade partner."
+            ]
+        },
+        {
+            "id": "a002_046_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_046_0023",
+            "en_US": "Please wait a moment."
+        },
+        {
+            "id": "a002_046_0024",
+            "en_US": [
+                "You and your friend(s) did not select the\n",
+                "same thing. Returning to previous menu."
+            ]
+        },
+        {
+            "id": "a002_046_0025",
+            "en_US": "Would you like to save the game?",
+            "flags": 240
+        },
+        {
+            "id": "a002_046_0026",
+            "en_US": "YES",
+            "flags": 42
+        },
+        {
+            "id": "a002_046_0027",
+            "en_US": "NO",
+            "flags": 42
+        },
+        {
+            "id": "a002_046_0028",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_046_0029",
+            "en_US": [
+                "The trade will be started...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_046_0030",
+            "en_US": [
+                "The battle will be started...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_046_0031",
+            "en_US": "ROTATION BATTLE",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0032",
+            "en_US": [
+                "Please make an Infrared Connection\n",
+                "with a friend to exchange Friend Codes."
+            ]
+        },
+        {
+            "id": "a002_046_0033",
+            "en_US": [
+                "Your Friend Roster is full.\n",
+                "You cannot register a new friend."
+            ]
+        },
+        {
+            "id": "a002_046_0034",
+            "en_US": [
+                "{VAR BD02}Registered Friends\n",
+                "{VAR BD02}{VAR 0201 0000}/32"
+            ],
+            "flags": 144
+        },
+        {
+            "id": "a002_046_0035",
+            "en_US": "CONFIRM",
+            "flags": 84
+        },
+        {
+            "id": "a002_046_0036",
+            "en_US": "Is the number of members OK?"
+        },
+        {
+            "id": "a002_046_0037",
+            "en_US": [
+                "Please make an Infrared Connection\n",
+                "with all of the participants."
+            ]
+        },
+        {
+            "id": "a002_046_0038",
+            "en_US": [
+                "Make an Infrared Connection with the\n",
+                "leader who decided the show."
+            ]
+        },
+        {
+            "id": "a002_046_0039",
+            "en_US": [
+                "Communicating with {VAR 0200 0000} people.\n",
+                "CONFIRM: Proceed"
+            ],
+            "flags": 184
+        },
+        {
+            "id": "a002_046_0040",
+            "en_US": "BATTLE USING THE BATTLE BOX",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0041",
+            "en_US": "BATTLE USING YOUR PARTY",
+            "flags": 166
+        },
+        {
+            "id": "a002_046_0042",
+            "en_US": [
+                "Your friend has been registered\n",
+                "in the Friend Roster!"
+            ]
+        },
+        {
+            "id": "a002_046_0043",
+            "en_US": "The Friend Roster has been updated!"
+        },
+        {
+            "id": "a002_046_0044",
+            "en_US": [
+                "You need at least two Pokémon\n",
+                "in your party if you want to trade!"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_046_0045",
+            "en_US": [
+                "There is already a saved game file.\n",
+                "It is impossible to save.{VAR BE01}\n",
+                "Please refer to the Instruction\n",
+                "Booklet for details.{VAR BE01}\n",
+                "Press Up + SELECT + B Button on\n",
+                "the title screen if you want to erase{VAR BE00}\n",
+                "the current saved game file."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_046_0046",
+            "en_US": [
+                "Please make an Infrared Connection\n",
+                "with the friend you want to play with."
+            ]
+        }
+    ]
+}

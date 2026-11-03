@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_214_0000",
+            "en_US": [
+                "Team Plasma: Earlier, the Gym Leader\n",
+                "went up the tower.{VAR BE01}\n",
+                "If you are lucky, you might witness\n",
+                "a legend!"
+            ]
+        }
+    ]
+}

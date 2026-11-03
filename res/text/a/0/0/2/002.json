@@ -1,0 +1,35 @@
+{
+    "flags": 240,
+    "pad": "8c8c",
+    "messages": [
+        {
+            "id": "a002_002_0000",
+            "en_US": [
+                "The save data could not be\n",
+                "accessed.\n",
+                "\n",
+                "Please turn the power off and\n",
+                "reinsert the Game Card."
+            ]
+        },
+        {
+            "id": "a002_002_0001",
+            "en_US": [
+                "The save data could not be\n",
+                "accessed.\n",
+                "\n",
+                "Please turn the power off and\n",
+                "reinsert the Game Card."
+            ]
+        },
+        {
+            "id": "a002_002_0002",
+            "en_US": [
+                "The save data could not be accessed.\n",
+                "\n",
+                "Please turn off the power \n",
+                "and reinsert the DS Card."
+            ]
+        }
+    ]
+}

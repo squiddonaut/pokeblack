@@ -1,0 +1,314 @@
+{
+    "flags": 0,
+    "pad": "7e7e",
+    "messages": [
+        {
+            "id": "a002_117_0000",
+            "en_US": "RADIO"
+        },
+        {
+            "id": "a002_117_0001",
+            "en_US": "RAGE"
+        },
+        {
+            "id": "a002_117_0002",
+            "en_US": "RAGEPOWDER"
+        },
+        {
+            "id": "a002_117_0003",
+            "en_US": "RAICHU"
+        },
+        {
+            "id": "a002_117_0004",
+            "en_US": "RAIKOU"
+        },
+        {
+            "id": "a002_117_0005",
+            "en_US": "RAINDANCE"
+        },
+        {
+            "id": "a002_117_0006",
+            "en_US": "RAINDISH"
+        },
+        {
+            "id": "a002_117_0007",
+            "en_US": "RALTS"
+        },
+        {
+            "id": "a002_117_0008",
+            "en_US": "RAMPARDOS"
+        },
+        {
+            "id": "a002_117_0009",
+            "en_US": "RAPIDASH"
+        },
+        {
+            "id": "a002_117_0010",
+            "en_US": "RAPIDSPIN"
+        },
+        {
+            "id": "a002_117_0011",
+            "en_US": "RARE"
+        },
+        {
+            "id": "a002_117_0012",
+            "en_US": "RATICATE"
+        },
+        {
+            "id": "a002_117_0013",
+            "en_US": "RATTATA"
+        },
+        {
+            "id": "a002_117_0014",
+            "en_US": "RATTLED"
+        },
+        {
+            "id": "a002_117_0015",
+            "en_US": "RAYQUAZA"
+        },
+        {
+            "id": "a002_117_0016",
+            "en_US": "RAZORLEAF"
+        },
+        {
+            "id": "a002_117_0017",
+            "en_US": "RAZORSHELL"
+        },
+        {
+            "id": "a002_117_0018",
+            "en_US": "RAZORWIND"
+        },
+        {
+            "id": "a002_117_0019",
+            "en_US": "RECKLESS"
+        },
+        {
+            "id": "a002_117_0020",
+            "en_US": "RECOMMEND"
+        },
+        {
+            "id": "a002_117_0021",
+            "en_US": "RECOVER"
+        },
+        {
+            "id": "a002_117_0022",
+            "en_US": "RECYCLE"
+        },
+        {
+            "id": "a002_117_0023",
+            "en_US": "REFLECT"
+        },
+        {
+            "id": "a002_117_0024",
+            "en_US": "REFLECTTYPE"
+        },
+        {
+            "id": "a002_117_0025",
+            "en_US": "REFRESH"
+        },
+        {
+            "id": "a002_117_0026",
+            "en_US": "REGARDS"
+        },
+        {
+            "id": "a002_117_0027",
+            "en_US": "REGENERATOR"
+        },
+        {
+            "id": "a002_117_0028",
+            "en_US": "REGICE"
+        },
+        {
+            "id": "a002_117_0029",
+            "en_US": "REGIGIGAS"
+        },
+        {
+            "id": "a002_117_0030",
+            "en_US": "REGIROCK"
+        },
+        {
+            "id": "a002_117_0031",
+            "en_US": "REGISTEEL"
+        },
+        {
+            "id": "a002_117_0032",
+            "en_US": "REGRET"
+        },
+        {
+            "id": "a002_117_0033",
+            "en_US": "RELICANTH"
+        },
+        {
+            "id": "a002_117_0034",
+            "en_US": "REMORAID"
+        },
+        {
+            "id": "a002_117_0035",
+            "en_US": "RENTAL"
+        },
+        {
+            "id": "a002_117_0036",
+            "en_US": "RESHIRAM"
+        },
+        {
+            "id": "a002_117_0037",
+            "en_US": "REST"
+        },
+        {
+            "id": "a002_117_0038",
+            "en_US": "RETALIATE"
+        },
+        {
+            "id": "a002_117_0039",
+            "en_US": "RETURN"
+        },
+        {
+            "id": "a002_117_0040",
+            "en_US": "REUNICLUS"
+        },
+        {
+            "id": "a002_117_0041",
+            "en_US": "REVENGE"
+        },
+        {
+            "id": "a002_117_0042",
+            "en_US": "REVERSAL"
+        },
+        {
+            "id": "a002_117_0043",
+            "en_US": "REVIVE"
+        },
+        {
+            "id": "a002_117_0044",
+            "en_US": "RHYDON"
+        },
+        {
+            "id": "a002_117_0045",
+            "en_US": "RHYHORN"
+        },
+        {
+            "id": "a002_117_0046",
+            "en_US": "RHYPERIOR"
+        },
+        {
+            "id": "a002_117_0047",
+            "en_US": "RIOLU"
+        },
+        {
+            "id": "a002_117_0048",
+            "en_US": "RIVAL"
+        },
+        {
+            "id": "a002_117_0049",
+            "en_US": "RIVALRY"
+        },
+        {
+            "id": "a002_117_0050",
+            "en_US": "ROAR"
+        },
+        {
+            "id": "a002_117_0051",
+            "en_US": "ROAROFTIME"
+        },
+        {
+            "id": "a002_117_0052",
+            "en_US": "ROCK"
+        },
+        {
+            "id": "a002_117_0053",
+            "en_US": "ROCKBLAST"
+        },
+        {
+            "id": "a002_117_0054",
+            "en_US": "ROCKCLIMB"
+        },
+        {
+            "id": "a002_117_0055",
+            "en_US": "ROCKHEAD"
+        },
+        {
+            "id": "a002_117_0056",
+            "en_US": "ROCKPOLISH"
+        },
+        {
+            "id": "a002_117_0057",
+            "en_US": "ROCKSLIDE"
+        },
+        {
+            "id": "a002_117_0058",
+            "en_US": "ROCKSMASH"
+        },
+        {
+            "id": "a002_117_0059",
+            "en_US": "ROCKTHROW"
+        },
+        {
+            "id": "a002_117_0060",
+            "en_US": "ROCKTOMB"
+        },
+        {
+            "id": "a002_117_0061",
+            "en_US": "ROCKWRECKER"
+        },
+        {
+            "id": "a002_117_0062",
+            "en_US": "ROFL"
+        },
+        {
+            "id": "a002_117_0063",
+            "en_US": "ROGGENROLA"
+        },
+        {
+            "id": "a002_117_0064",
+            "en_US": "ROLEPLAY"
+        },
+        {
+            "id": "a002_117_0065",
+            "en_US": "ROLLINGKICK"
+        },
+        {
+            "id": "a002_117_0066",
+            "en_US": "ROLLOUT"
+        },
+        {
+            "id": "a002_117_0067",
+            "en_US": "ROOOAAR"
+        },
+        {
+            "id": "a002_117_0068",
+            "en_US": "ROOST"
+        },
+        {
+            "id": "a002_117_0069",
+            "en_US": "ROSELIA"
+        },
+        {
+            "id": "a002_117_0070",
+            "en_US": "ROSERADE"
+        },
+        {
+            "id": "a002_117_0071",
+            "en_US": "ROTATION"
+        },
+        {
+            "id": "a002_117_0072",
+            "en_US": "ROTOM"
+        },
+        {
+            "id": "a002_117_0073",
+            "en_US": "ROUGHSKIN"
+        },
+        {
+            "id": "a002_117_0074",
+            "en_US": "ROUND"
+        },
+        {
+            "id": "a002_117_0075",
+            "en_US": "RUFFLET"
+        },
+        {
+            "id": "a002_117_0076",
+            "en_US": "RUNAWAY"
+        }
+    ]
+}

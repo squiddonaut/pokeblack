@@ -1,0 +1,168 @@
+{
+    "flags": 0,
+    "pad": "9c9c",
+    "messages": [
+        {
+            "id": "a003_470_0000",
+            "en_US": [
+                "Welcome to the Pokémon Wi-Fi Club!{VAR BE01}\n",
+                "Would you like to use\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0001",
+            "en_US": "Please do visit again.",
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0002",
+            "en_US": [
+                "Would you like to launch\n",
+                "Nintendo WFC?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0003",
+            "en_US": "Right this way, please.{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0004",
+            "en_US": [
+                "...Oh?{VAR BE01}\n",
+                "I'm sorry, but you don't have any\n",
+                "friends registered in your Pal Pad.{VAR BE01}\n",
+                "The Wi-Fi Club cannot be used if\n",
+                "no friends are in your Pal Pad.{VAR BE01}\n",
+                "Would you like to get your own\n",
+                "Friend Code at least?{VAR 0200 0000}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0005",
+            "en_US": [
+                "...Oh?{VAR BE01}\n",
+                "I'm sorry, but you don't have any\n",
+                "friends registered in your Pal Pad.{VAR BE01}\n",
+                "The Wi-Fi Club cannot be used if\n",
+                "no friends are in your Pal Pad.{VAR BE01}\n",
+                "Please register friends in your\n",
+                "Pal Pad, and then come back.{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0006",
+            "en_US": [
+                "At any Wi-Fi Club, you may play using\n",
+                "Nintendo Wi-Fi Connection.{VAR BE01}\n",
+                "By doing so, you may trade or battle with\n",
+                "friends you have registered in your{VAR BE00}\n",
+                "Pal Pad.{VAR BE01}\n",
+                "Check the monitor inside the room to find\n",
+                "other people to play with.{VAR BE01}\n",
+                "Or you may play with your friends\n",
+                "by talking to them directly.{VAR BE01}\n",
+                "Would you like to use\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0007",
+            "en_US": [
+                "Sorry, we're getting things ready.\n",
+                "Please come back later."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0008",
+            "en_US": [
+                "You have at least one Pokémon\n",
+                "that can't be taken."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0009",
+            "en_US": "Communication error.",
+            "flags": 224
+        },
+        {
+            "id": "a003_470_0010",
+            "en_US": "Go to Wi-Fi Club",
+            "flags": 219
+        },
+        {
+            "id": "a003_470_0011",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_470_0012",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_470_0013",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0014",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0015",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0016",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0017",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0018",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0019",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0020",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0021",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0022",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0023",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0024",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0025",
+            "en_US": ""
+        },
+        {
+            "id": "a003_470_0026",
+            "en_US": ""
+        }
+    ]
+}

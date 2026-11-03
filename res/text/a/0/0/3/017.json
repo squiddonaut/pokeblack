@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "pad": "4848",
+    "messages": [
+        {
+            "id": "a003_017_0000",
+            "en_US": [
+                "Do your Pokémon have nicknames?{VAR BE01}\n",
+                "When we give a Pokémon a nickname,\n",
+                "we grow attached to it. Don't you agree?"
+            ]
+        },
+        {
+            "id": "a003_017_0001",
+            "en_US": "I went abroad to have Pokémon battles!"
+        },
+        {
+            "id": "a003_017_0002",
+            "en_US": [
+                "Hi, traveling Trainer!{VAR BE01}\n",
+                "Your family must be talking about you\n",
+                "right now!"
+            ]
+        }
+    ]
+}

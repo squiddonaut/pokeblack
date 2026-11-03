@@ -1,0 +1,115 @@
+{
+    "flags": 239,
+    "messages": [
+        {
+            "id": "a002_051_0000",
+            "en_US": [
+                "The Feeling Check results for\n",
+                "you and {VAR 0100 0000} show that..."
+            ]
+        },
+        {
+            "id": "a002_051_0001",
+            "en_US": "RESULTS",
+            "flags": 160
+        },
+        {
+            "id": "a002_051_0002",
+            "en_US": [
+                "You are touching the screen incorrectly. \n",
+                "Please play according to the guide."
+            ]
+        },
+        {
+            "id": "a002_051_0003",
+            "en_US": [
+                "Your feelings are at Rank I!\n",
+                "Close enough to say a friendly hello."
+            ]
+        },
+        {
+            "id": "a002_051_0004",
+            "en_US": [
+                "Your feelings are at Rank H!\n",
+                "You have an interest in each other."
+            ]
+        },
+        {
+            "id": "a002_051_0005",
+            "en_US": [
+                "Your feelings are at Rank G!\n",
+                "Close enough to go for a walk together."
+            ]
+        },
+        {
+            "id": "a002_051_0006",
+            "en_US": [
+                "Your feelings are at Rank F!\n",
+                "You probably have nicknames for each other."
+            ]
+        },
+        {
+            "id": "a002_051_0007",
+            "en_US": [
+                "Your feelings are at Rank E!\n",
+                "You are as close as best friends."
+            ]
+        },
+        {
+            "id": "a002_051_0008",
+            "en_US": [
+                "Your feelings are at Rank D!\n",
+                "Close enough to make good-night calls."
+            ]
+        },
+        {
+            "id": "a002_051_0009",
+            "en_US": [
+                "Your feelings are at Rank C!\n",
+                "Close enough for traveling together."
+            ]
+        },
+        {
+            "id": "a002_051_0010",
+            "en_US": [
+                "Your feelings are at Rank B!\n",
+                "Everybody's quite envious of you two."
+            ]
+        },
+        {
+            "id": "a002_051_0011",
+            "en_US": [
+                "Your feelings are at Rank A!\n",
+                "You are emotionally united."
+            ]
+        },
+        {
+            "id": "a002_051_0012",
+            "en_US": [
+                "Your feelings are at Rank S!\n",
+                "Undoubtedly a fated pair!"
+            ]
+        },
+        {
+            "id": "a002_051_0013",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 0200 0002} {VAR 0109 0001}\n",
+                "in the {VAR FF00 0002}Medicine{VAR FF00 0000} Case."
+            ]
+        },
+        {
+            "id": "a002_051_0014",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 0200 0002} {VAR 0109 0001}\n",
+                "in the {VAR FF00 0002}Medicine{VAR FF00 0000} Case."
+            ]
+        },
+        {
+            "id": "a002_051_0015",
+            "en_US": [
+                "Too bad!\n",
+                "The Bag is full..."
+            ]
+        }
+    ]
+}

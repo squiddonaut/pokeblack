@@ -1,0 +1,243 @@
+{
+    "flags": 229,
+    "pad": "d4d4",
+    "messages": [
+        {
+            "id": "a002_087_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_087_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_087_0002",
+            "en_US": [
+                "Is it OK to create data\n",
+                "to play Game Sync?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_087_0003",
+            "en_US": [
+                "Creating data...\n",
+                "Please wait a moment."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_087_0004",
+            "en_US": "YES",
+            "flags": 86
+        },
+        {
+            "id": "a002_087_0005",
+            "en_US": "NO",
+            "flags": 86
+        },
+        {
+            "id": "a002_087_0006",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_087_0007",
+            "en_US": [
+                "Use a computer to access the\n",
+                "Pokémon Global Link website\n",
+                "and enter the Game Sync ID above\n",
+                "to set up Game Sync.\n",
+                "\n",
+                "http://www.pokemon-gl.com"
+            ]
+        },
+        {
+            "id": "a002_087_0008",
+            "en_US": [
+                "Your Game Sync ID has been issued.\n",
+                "\n",
+                "You can check your Game Sync ID\n",
+                "in Game Sync Settings on the main menu."
+            ]
+        },
+        {
+            "id": "a002_087_0009",
+            "en_US": [
+                "Use a computer to access the\n",
+                "Pokémon Global Link website\n",
+                "and enter the Game Sync ID above\n",
+                "to set up Game Sync.\n",
+                "\n",
+                "http://www.pokemon-gl.com"
+            ]
+        },
+        {
+            "id": "a002_087_0010",
+            "en_US": "Game Sync ID",
+            "flags": 176
+        },
+        {
+            "id": "a002_087_0011",
+            "en_US": [
+                "The Game Sync ID\n",
+                "has been saved."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_087_0012",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13201"
+            ]
+        },
+        {
+            "id": "a002_087_0013",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13202"
+            ]
+        },
+        {
+            "id": "a002_087_0014",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13203"
+            ]
+        },
+        {
+            "id": "a002_087_0015",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13204"
+            ]
+        },
+        {
+            "id": "a002_087_0016",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13205"
+            ]
+        },
+        {
+            "id": "a002_087_0017",
+            "en_US": [
+                "This service has been discontinued.\n",
+                "\n",
+                "Error Code: 13206"
+            ]
+        },
+        {
+            "id": "a002_087_0018",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13207"
+            ]
+        },
+        {
+            "id": "a002_087_0019",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13208"
+            ]
+        },
+        {
+            "id": "a002_087_0020",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13209"
+            ]
+        },
+        {
+            "id": "a002_087_0021",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13210"
+            ]
+        },
+        {
+            "id": "a002_087_0022",
+            "en_US": [
+                "The server is experiencing high\n",
+                "traffic volumes.\n",
+                "Unable to connect.\n",
+                "Please wait a little while and try again.\n",
+                "\n",
+                "Error Code: 13211"
+            ]
+        },
+        {
+            "id": "a002_087_0023",
+            "en_US": [
+                "The server is undergoing maintenance.\n",
+                "\n",
+                "The details can be reviewed at the\n",
+                "Pokémon Global Link website.\n",
+                "\n",
+                "http://www.pokemon-gl.com\n",
+                "\n",
+                "Error code: 13212"
+            ]
+        }
+    ]
+}

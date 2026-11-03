@@ -1,0 +1,129 @@
+{
+    "flags": 224,
+    "pad": "e8e8",
+    "messages": [
+        {
+            "id": "a003_316_0000",
+            "en_US": [
+                "My name is Loblolly.\n",
+                "I'm a designer of Décor items.{VAR BE01}\n",
+                "But I'm stuck now... I just can't come\n",
+                "up with a good design.{VAR BE01}\n",
+                "I've been thinking about Décor\n",
+                "so great that it will appear in a dream..."
+            ]
+        },
+        {
+            "id": "a003_316_0001",
+            "en_US": [
+                "Loblolly: Hmmm... I still can't think of a\n",
+                "great new Décor item.{VAR BE01}\n",
+                "Will you come back again?"
+            ]
+        },
+        {
+            "id": "a003_316_0002",
+            "en_US": [
+                "Loblolly: When I come up with some good\n",
+                "designs, please help me again!"
+            ]
+        },
+        {
+            "id": "a003_316_0003",
+            "en_US": [
+                "Loblolly: I finally came up with some new\n",
+                "designs. I'm really proud of them!{VAR BE01}\n",
+                "But I'd like your opinion! Look at these\n",
+                "Décor items and tell me which one you'd{VAR BE00}\n",
+                "dream about!"
+            ]
+        },
+        {
+            "id": "a003_316_0004",
+            "en_US": [
+                "I think I've finally designed Décor\n",
+                "items so great that people will dream{VAR BE00}\n",
+                "about them!{VAR BE01}\n",
+                "Here! Which one would you dream about?"
+            ]
+        },
+        {
+            "id": "a003_316_0005",
+            "en_US": [
+                "Loblolly: Oh, are you going to help me\n",
+                "with my dream Décor design?{VAR BE01}\n",
+                "Great! Which of these Décor items would\n",
+                "you dream about?"
+            ]
+        },
+        {
+            "id": "a003_316_0006",
+            "en_US": [
+                "Well, if you'd like to give me your opinion\n",
+                "on my dream Décor, please come back!"
+            ]
+        },
+        {
+            "id": "a003_316_0007",
+            "en_US": [
+                "Oh, you have impeccable taste!{VAR BE01}\n",
+                "That's it. This Décor is so great that\n",
+                "people will dream about it!{VAR BE01}\n",
+                "Your advice was very helpful. Next time I\n",
+                "come up with great designs, I'd love to{VAR BE00}\n",
+                "bounce my ideas off you again!"
+            ]
+        },
+        {
+            "id": "a003_316_0008",
+            "en_US": [
+                "Everybody is talking about Décor\n",
+                "they dream about. Do you know it?"
+            ]
+        },
+        {
+            "id": "a003_316_0009",
+            "en_US": [
+                "Hello! My name is Loblolly, and I'm\n",
+                "a Décor designer.{VAR BE01}\n",
+                "I am trying to design Décor items that\n",
+                "everybody loves and dreams about.{VAR BE01}\n",
+                "Tables and chairs so great you can't\n",
+                "stop thinking about them, even in{VAR BE00}\n",
+                "your sleep...{VAR BE01}\n",
+                "That's the kind of Décor I'm\n",
+                "talking about.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_316_0010",
+            "en_US": "{VAR 0132 0000}",
+            "flags": 219
+        },
+        {
+            "id": "a003_316_0011",
+            "en_US": "{VAR 0132 0001}",
+            "flags": 219
+        },
+        {
+            "id": "a003_316_0012",
+            "en_US": "{VAR 0132 0002}",
+            "flags": 219
+        },
+        {
+            "id": "a003_316_0013",
+            "en_US": "{VAR 0132 0003}",
+            "flags": 219
+        },
+        {
+            "id": "a003_316_0014",
+            "en_US": "{VAR 0132 0004}",
+            "flags": 219
+        },
+        {
+            "id": "a003_316_0015",
+            "en_US": "Cancel",
+            "flags": 219
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_289_0000",
+            "en_US": [
+                "Our lord N proved that he is stronger\n",
+                "than the Champion!{VAR BE01}\n",
+                "Now many Trainers will admire our lord N\n",
+                "and follow his orders!{VAR BE01}\n",
+                "In other words, they will do whatever\n",
+                "Team Plasma says!"
+            ]
+        },
+        {
+            "id": "a003_289_0001",
+            "en_US": [
+                "Ha ha! We, Team Plasma, were using the\n",
+                "Pokémon we took from others all along!{VAR BE01}\n",
+                "Aww, poor widdle Pokémon.\n",
+                "They had to do what we told them."
+            ]
+        }
+    ]
+}

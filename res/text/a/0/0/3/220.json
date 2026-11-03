@@ -1,0 +1,143 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_220_0000",
+            "en_US": "Burn, baby, burn!"
+        },
+        {
+            "id": "a003_220_0001",
+            "en_US": "It's shocking!!"
+        },
+        {
+            "id": "a003_220_0002",
+            "en_US": [
+                "It sounds like something is on a rampage\n",
+                "at the top of the tower!"
+            ]
+        },
+        {
+            "id": "a003_220_0003",
+            "en_US": [
+                "Giallo: It's finally time.\n",
+                "Our lord N will become the hero!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0004",
+            "en_US": [
+                "What?!\n",
+                "Someone made it clear up here?!{VAR BE01}\n",
+                "Now! Stop that Trainer!\n",
+                "For our lord N!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0005",
+            "en_US": [
+                "Giallo: Everyone who isn't Team Plasma\n",
+                "is an enemy!{VAR BE00}\n",
+                "Use all your powers to take them out!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0006",
+            "en_US": [
+                "Giallo: The hero will open up the\n",
+                "way to a new world!{VAR BE01}\n",
+                "Which means you Trainers can all prepare\n",
+                "to lose your Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_220_0007",
+            "en_US": [
+                "Team Plasma: No one can interfere\n",
+                "with Unova's new dawn!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0008",
+            "en_US": [
+                "Team Plasma: Sheesh...\n",
+                "Losing to a kid...{VAR BE01}\n",
+                "But Team Plasma is\n",
+                "more than one person!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0009",
+            "en_US": [
+                "Team Plasma: Sheesh...\n",
+                "Losing to a kid...{VAR BE01}\n",
+                "But Team Plasma is\n",
+                "more than one person!"
+            ]
+        },
+        {
+            "id": "a003_220_0010",
+            "en_US": [
+                "Team Plasma: Our dream is about\n",
+                "to come true!{VAR BE01}\n",
+                "No one will be able to stop us!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0011",
+            "en_US": [
+                "Team Plasma: You may have stopped me,\n",
+                "but my teammate will stop you here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0012",
+            "en_US": [
+                "Team Plasma: So your Pokémon have\n",
+                "gotten used to being your weapons..."
+            ]
+        },
+        {
+            "id": "a003_220_0013",
+            "en_US": [
+                "Team Plasma: Here I come!\n",
+                "Plasmaaaa!!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0014",
+            "en_US": [
+                "Team Plasma: Our king will create\n",
+                "a new world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0015",
+            "en_US": [
+                "Team Plasma: Our king will create\n",
+                "a new world."
+            ]
+        },
+        {
+            "id": "a003_220_0016",
+            "en_US": [
+                "Team Plasma: Bring it on!\n",
+                "Can you take on four in a row?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0017",
+            "en_US": [
+                "Team Plasma: I don't understand...\n",
+                "Why do you keep trying so hard?{VAR BE01}\n",
+                "W-well, we'll let you through for now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_220_0018",
+            "en_US": [
+                "Team Plasma: I don't understand...\n",
+                "Why do you keep trying so hard?"
+            ]
+        }
+    ]
+}

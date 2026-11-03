@@ -1,0 +1,663 @@
+{
+    "flags": 200,
+    "messages": [
+        {
+            "id": "a002_185_0000",
+            "en_US": "Fly to where?",
+            "flags": 152
+        },
+        {
+            "id": "a002_185_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_185_0002",
+            "en_US": [
+                "A rural town whose sea breezes give\n",
+                "the sense of something coming."
+            ]
+        },
+        {
+            "id": "a002_185_0003",
+            "en_US": "Juniper Pokémon Lab",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0004",
+            "en_US": [
+                "This town offers great views\n",
+                "due to its many hills."
+            ]
+        },
+        {
+            "id": "a002_185_0005",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0006",
+            "en_US": [
+                "Entry stairs built in memory of a\n",
+                "former home in a snowier climate."
+            ]
+        },
+        {
+            "id": "a002_185_0007",
+            "en_US": "Striaton City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0008",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0009",
+            "en_US": "Trainers' School",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0010",
+            "en_US": "Fennel's Lab",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0011",
+            "en_US": [
+                "A city established in restored\n",
+                "storehouses built 100 years ago."
+            ]
+        },
+        {
+            "id": "a002_185_0012",
+            "en_US": "Nacrene City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0013",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0014",
+            "en_US": "Nacrene Museum",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0015",
+            "en_US": "Café Warehouse",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0016",
+            "en_US": [
+                "A big city with skyscrapers\n",
+                "piercing the clouds."
+            ]
+        },
+        {
+            "id": "a002_185_0017",
+            "en_US": "Castelia City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0018",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0019",
+            "en_US": "Passerby Analytics",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0020",
+            "en_US": "Name-Rating Services",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0021",
+            "en_US": "Pokémon Massage",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0022",
+            "en_US": "Royal Unova",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0023",
+            "en_US": [
+                "A bustling city of entertainment,\n",
+                "with many theme parks."
+            ]
+        },
+        {
+            "id": "a002_185_0024",
+            "en_US": "Nimbasa City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0025",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0026",
+            "en_US": "Musical Theater",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0027",
+            "en_US": "Battle Subway",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0028",
+            "en_US": "Big Stadium",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0029",
+            "en_US": "Small Court",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0030",
+            "en_US": [
+                "A port town distributing many goods,\n",
+                "and a gateway to the Unova region."
+            ]
+        },
+        {
+            "id": "a002_185_0031",
+            "en_US": "Driftveil City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0032",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0033",
+            "en_US": "Driftveil Market",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0034",
+            "en_US": "Move Tutor's House",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0035",
+            "en_US": [
+                "Vegetables are grown by the runway\n",
+                "and transported by cargo plane."
+            ]
+        },
+        {
+            "id": "a002_185_0036",
+            "en_US": "Mistralton City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0037",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0038",
+            "en_US": "Move Family's House",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0039",
+            "en_US": "Cargo Service",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0040",
+            "en_US": [
+                "In winter, the city is covered with\n",
+                "snow as far as the eye can see."
+            ]
+        },
+        {
+            "id": "a002_185_0041",
+            "en_US": "Icirrus City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0042",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0043",
+            "en_US": "Pokémon Fan Club",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0044",
+            "en_US": [
+                "A city that respects history\n",
+                "and values old things."
+            ]
+        },
+        {
+            "id": "a002_185_0045",
+            "en_US": [
+                "A convenient city of rapid change,\n",
+                "showing no traces of the past."
+            ]
+        },
+        {
+            "id": "a002_185_0046",
+            "en_US": "Opelucid City Gym",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0047",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0048",
+            "en_US": "Battle House",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0049",
+            "en_US": [
+                "Only Trainers who win at all the\n",
+                "Pokémon Gyms may challenge it."
+            ]
+        },
+        {
+            "id": "a002_185_0050",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0051",
+            "en_US": [
+                "A town where all honor old customs,\n",
+                "living as methodically as clockwork."
+            ]
+        },
+        {
+            "id": "a002_185_0052",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0053",
+            "en_US": [
+                "A summer retreat with a beach full of\n",
+                "people who enjoy summer vacations."
+            ]
+        },
+        {
+            "id": "a002_185_0054",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0055",
+            "en_US": [
+                "A city with a rail yard where\n",
+                "trains park for an overhaul."
+            ]
+        },
+        {
+            "id": "a002_185_0056",
+            "en_US": [
+                "A modern city of ongoing development\n",
+                "that draws people to it."
+            ]
+        },
+        {
+            "id": "a002_185_0057",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0058",
+            "en_US": [
+                "A place of nature's bounty, it\n",
+                "attracts people who long for nature."
+            ]
+        },
+        {
+            "id": "a002_185_0059",
+            "en_US": "Pokémon Center",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0060",
+            "en_US": [
+                "A skyscraper where people from\n",
+                "all over the world can communicate."
+            ]
+        },
+        {
+            "id": "a002_185_0061",
+            "en_US": [
+                "A facility to study Pokémon\n",
+                "from faraway regions."
+            ]
+        },
+        {
+            "id": "a002_185_0062",
+            "en_US": [
+                "A plant site used as a playground\n",
+                "for children and Pokémon."
+            ]
+        },
+        {
+            "id": "a002_185_0063",
+            "en_US": [
+                "You can go through hollows\n",
+                "of fallen trees, too."
+            ]
+        },
+        {
+            "id": "a002_185_0064",
+            "en_US": [
+                "It is a popular place for tourists,\n",
+                "but too harsh to be a resort."
+            ]
+        },
+        {
+            "id": "a002_185_0065",
+            "en_US": [
+                "Ancient ruins with a glorious history,\n",
+                "buried in the sand as time went by."
+            ]
+        },
+        {
+            "id": "a002_185_0066",
+            "en_US": [
+                "A lot of collected products are\n",
+                "stored at a constant temperature."
+            ]
+        },
+        {
+            "id": "a002_185_0067",
+            "en_US": [
+                "A cave where electrically charged\n",
+                "stones float."
+            ]
+        },
+        {
+            "id": "a002_185_0068",
+            "en_US": [
+                "It has a reputation as a mine\n",
+                "littered with valuable ore."
+            ]
+        },
+        {
+            "id": "a002_185_0069",
+            "en_US": [
+                "The oldest tower in the Unova\n",
+                "region. No one knows its history."
+            ]
+        },
+        {
+            "id": "a002_185_0070",
+            "en_US": [
+                "These steep slopes are the last\n",
+                "obstacle before the Pokémon League!"
+            ]
+        },
+        {
+            "id": "a002_185_0071",
+            "en_US": [
+                "Legend says if you approach this\n",
+                "big chasm, disasters surely follow."
+            ]
+        },
+        {
+            "id": "a002_185_0072",
+            "en_US": [
+                "An island symbol of hope for a world\n",
+                "where humans and Pokémon live free."
+            ]
+        },
+        {
+            "id": "a002_185_0073",
+            "en_US": [
+                "Team Plasma's secret lab is located\n",
+                "on a quiet little island."
+            ]
+        },
+        {
+            "id": "a002_185_0074",
+            "en_US": [
+                "This underwater pool grew from\n",
+                "rainwater soaking into the ground."
+            ]
+        },
+        {
+            "id": "a002_185_0075",
+            "en_US": [
+                "A forgotten cave sealed with\n",
+                "hints of a legend's presence."
+            ]
+        },
+        {
+            "id": "a002_185_0076",
+            "en_US": [
+                "A tall tower with a large bell whose\n",
+                "tones are said to purify the spirit."
+            ]
+        },
+        {
+            "id": "a002_185_0077",
+            "en_US": [
+                "They say water collecting in hollows\n",
+                "on the flat land created the moor."
+            ]
+        },
+        {
+            "id": "a002_185_0078",
+            "en_US": [
+                "People once lived in this village, and\n",
+                "it still feels the same as it did then."
+            ]
+        },
+        {
+            "id": "a002_185_0079",
+            "en_US": "A world-famous sea of shining waves."
+        },
+        {
+            "id": "a002_185_0080",
+            "en_US": [
+                "A mysterious forest where people get\n",
+                "lost despite the simple landscape."
+            ]
+        },
+        {
+            "id": "a002_185_0081",
+            "en_US": [
+                "A small road by the shore, where you\n",
+                "can enjoy the seascape in peace."
+            ]
+        },
+        {
+            "id": "a002_185_0082",
+            "en_US": [
+                "A pastoral road where novice\n",
+                "Trainers can challenge one another."
+            ]
+        },
+        {
+            "id": "a002_185_0083",
+            "en_US": [
+                "A long and winding road with lots\n",
+                "of ponds and tall grass."
+            ]
+        },
+        {
+            "id": "a002_185_0084",
+            "en_US": [
+                "A sandstorm delayed the road\n",
+                "construction to connect two cities."
+            ]
+        },
+        {
+            "id": "a002_185_0085",
+            "en_US": [
+                "A busy road where\n",
+                "performers gather."
+            ]
+        },
+        {
+            "id": "a002_185_0086",
+            "en_US": [
+                "A road with many trees\n",
+                "for nature lovers."
+            ]
+        },
+        {
+            "id": "a002_185_0087",
+            "en_US": [
+                "Raised walkways help you\n",
+                "avoid the tall grass."
+            ]
+        },
+        {
+            "id": "a002_185_0088",
+            "en_US": [
+                "It rains a lot here, and the marshy\n",
+                "swamp holds many Pokémon."
+            ]
+        },
+        {
+            "id": "a002_185_0089",
+            "en_US": [
+                "This paved road attracts\n",
+                "those who love bikes."
+            ]
+        },
+        {
+            "id": "a002_185_0090",
+            "en_US": "Shopping Mall Nine",
+            "flags": 112
+        },
+        {
+            "id": "a002_185_0091",
+            "en_US": [
+                "A road leading to the Badge Check\n",
+                "Gates, chock full of showoffs."
+            ]
+        },
+        {
+            "id": "a002_185_0092",
+            "en_US": [
+                "Limpid streams carved beautiful\n",
+                "scenery on this road."
+            ]
+        },
+        {
+            "id": "a002_185_0093",
+            "en_US": [
+                "A place of fun, where it's enjoyable\n",
+                "just walking over its gentle hills."
+            ]
+        },
+        {
+            "id": "a002_185_0094",
+            "en_US": [
+                "This seaside route is famous for\n",
+                "sand bars that cross the ocean."
+            ]
+        },
+        {
+            "id": "a002_185_0095",
+            "en_US": [
+                "A road covered with mist from\n",
+                "the waterfalls."
+            ]
+        },
+        {
+            "id": "a002_185_0096",
+            "en_US": [
+                "A road whose sharp cliffs may scare\n",
+                "some people off."
+            ]
+        },
+        {
+            "id": "a002_185_0097",
+            "en_US": [
+                "Many who visit Nimbasa City\n",
+                "drop by to take a break."
+            ]
+        },
+        {
+            "id": "a002_185_0098",
+            "en_US": [
+                "The fast current here makes it\n",
+                "difficult to surf."
+            ]
+        },
+        {
+            "id": "a002_185_0099",
+            "en_US": [
+                "Some researchers believe it was once\n",
+                "contiguous with Desert Resort."
+            ]
+        },
+        {
+            "id": "a002_185_0100",
+            "en_US": [
+                "The biggest, longest bridge in Unova\n",
+                "has four supporting towers."
+            ]
+        },
+        {
+            "id": "a002_185_0101",
+            "en_US": [
+                "A drawbridge raises and lowers,\n",
+                "depending on the ship schedules."
+            ]
+        },
+        {
+            "id": "a002_185_0102",
+            "en_US": [
+                "A sturdy steel bridge that won't\n",
+                "budge an inch when trains cross it."
+            ]
+        },
+        {
+            "id": "a002_185_0103",
+            "en_US": [
+                "An old bridge that settlers of the\n",
+                "Unova region built and now live on."
+            ]
+        },
+        {
+            "id": "a002_185_0104",
+            "en_US": [
+                "The most advanced bridge in Unova,\n",
+                "designed to soften any impact."
+            ]
+        },
+        {
+            "id": "a002_185_0105",
+            "en_US": [
+                "In the middle of the Unova region,\n",
+                "it is a place of mysterious power."
+            ]
+        },
+        {
+            "id": "a002_185_0106",
+            "en_US": [
+                "Trainers seeking further strength\n",
+                "enter the cavern despite the risks."
+            ]
+        }
+    ]
+}

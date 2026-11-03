@@ -1,0 +1,227 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_314_0000",
+            "en_US": "{VAR 0100 0000} booted up the PC.{VAR BE01}"
+        },
+        {
+            "id": "a003_314_0001",
+            "en_US": "Which PC should be accessed?"
+        },
+        {
+            "id": "a003_314_0002",
+            "en_US": "Someone's PC",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0003",
+            "en_US": "Amanita's PC",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0004",
+            "en_US": "{VAR 0100 0000}'s PC",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0005",
+            "en_US": "Professor's PC",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0006",
+            "en_US": "Records",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0007",
+            "en_US": "Help",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0008",
+            "en_US": "Switch off",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_314_0010",
+            "en_US": [
+                "Your Hall of Fame data is corrupted.{VAR BE01}\n",
+                "It will be fixed if you enter the\n",
+                "Hall of Fame again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_314_0011",
+            "en_US": [
+                "Congratulations!{VAR BE01}\n",
+                "More wallpapers were added\n",
+                "to commemorate your success.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_314_0012",
+            "en_US": [
+                "Congratulations!{VAR BE01}\n",
+                "Wallpapers were added to commemorate\n",
+                "your victory against the Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_314_0013",
+            "en_US": [
+                "The Pokémon Storage System\n",
+                "was accessed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_314_0014",
+            "en_US": "Deposit Pokémon",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0015",
+            "en_US": "Withdraw Pokémon",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0016",
+            "en_US": "Move Pokémon",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0017",
+            "en_US": "Move items",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0018",
+            "en_US": "No thanks!",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0019",
+            "en_US": "Battle Box",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0020",
+            "en_US": [
+                "Pokémon in your party may be stored\n",
+                "in the storage system's Boxes."
+            ]
+        },
+        {
+            "id": "a003_314_0021",
+            "en_US": [
+                "Pokémon stored in Boxes may be added\n",
+                "to your party."
+            ]
+        },
+        {
+            "id": "a003_314_0022",
+            "en_US": [
+                "You may sort the Pokémon in Boxes\n",
+                "and in your party."
+            ]
+        },
+        {
+            "id": "a003_314_0023",
+            "en_US": [
+                "You may sort the items held by your\n",
+                "Pokémon in Boxes and in your party."
+            ]
+        },
+        {
+            "id": "a003_314_0024",
+            "en_US": [
+                "Log out of the\n",
+                "Pokémon Storage System."
+            ]
+        },
+        {
+            "id": "a003_314_0025",
+            "en_US": [
+                "You can register Pokémon you will use in\n",
+                "battles against other players."
+            ]
+        },
+        {
+            "id": "a003_314_0026",
+            "en_US": "Accessed {VAR 0100 0000}'s PC.{VAR BE01}"
+        },
+        {
+            "id": "a003_314_0027",
+            "en_US": "Mailbox",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0028",
+            "en_US": "Log out",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0029",
+            "en_US": "Up to 20 pieces of Mail can be stored."
+        },
+        {
+            "id": "a003_314_0030",
+            "en_US": "Log out of your PC."
+        },
+        {
+            "id": "a003_314_0031",
+            "en_US": "First game clear",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0032",
+            "en_US": "Hall of Fame",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0033",
+            "en_US": "Log out",
+            "flags": 219
+        },
+        {
+            "id": "a003_314_0034",
+            "en_US": "Accessed the Record System!{VAR BE01}"
+        },
+        {
+            "id": "a003_314_0035",
+            "en_US": [
+                "You can see the members at the time\n",
+                "when you first finished the game."
+            ]
+        },
+        {
+            "id": "a003_314_0036",
+            "en_US": [
+                "You can see the members at the time\n",
+                "when you entered the Hall of Fame."
+            ]
+        },
+        {
+            "id": "a003_314_0037",
+            "en_US": "Log out of the Record System."
+        },
+        {
+            "id": "a003_314_0038",
+            "en_US": "Accessed Professor Juniper's PC.{VAR BE01}"
+        },
+        {
+            "id": "a003_314_0039",
+            "en_US": "Accessed the Help System.{VAR BE01}"
+        },
+        {
+            "id": "a003_314_0040",
+            "en_US": ""
+        }
+    ]
+}

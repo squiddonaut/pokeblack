@@ -1,0 +1,205 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_034_0000",
+            "en_US": [
+                "Thanks again for your help.{VAR BE01}\n",
+                "My bug Pokémon are scurrying with\n",
+                "excitement about getting to battle you.{VAR BE01}\n",
+                "Let's get straight to it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0001",
+            "en_US": [
+                "Aww...\n",
+                "I lost.{VAR BE01}\n",
+                "Whatever! Losing to you doesn't bug me\n",
+                "because you are a-MAZ-ingly strong!{VAR BE01}\n",
+                "This is the Gym Badge!\n",
+                "You beat me, so it's yours!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0002",
+            "en_US": [
+                "{VAR 0100 0000} received the\n",
+                "Insect Badge from Burgh.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0003",
+            "en_US": [
+                "It's the Insect Badge!\n",
+                "It's insectible--I mean, incredible!{VAR BE01}\n",
+                "If you have three Badges,\n",
+                "Pokémon up to Lv. 40 will obey you,{VAR BE00}\n",
+                "including traded Pokémon.{VAR BE01}\n",
+                "Because I'm a generous guy,\n",
+                "I'll also give you this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0004",
+            "en_US": [
+                "Struggle Bug also lowers the\n",
+                "Sp. Atk of the target that was damaged.{VAR BE01}\n",
+                "I'm the best guy to tell you,\n",
+                "it's the little things that count!"
+            ]
+        },
+        {
+            "id": "a003_034_0005",
+            "en_US": [
+                "How many discoveries have you made\n",
+                "since you started your adventure?{VAR BE01}\n",
+                "When I was a kid, my innocent heart was\n",
+                "captured by the beauty of bug Pokémon.{VAR BE01}\n",
+                "I drew with them and battled with them,\n",
+                "and after all this time, I continue{VAR BE00}\n",
+                "to discover new things.{VAR BE01}\n",
+                "A world shared with Pokémon is a world\n",
+                "swarming with mysteries."
+            ]
+        },
+        {
+            "id": "a003_034_0006",
+            "en_US": [
+                "Burgh: Heya!\n",
+                "This is what I do.{VAR BE01}\n",
+                "I keep raising Pokémon and drawing\n",
+                "pictures inspired by the Pokémon I raise.{VAR BE01}\n",
+                "It's what I love to do. My life hums\n",
+                "with energy. What could be better?"
+            ]
+        },
+        {
+            "id": "a003_034_0007",
+            "en_US": [
+                "When you step on the switch,\n",
+                "the one that pops out is--moi!{VAR BE01}\n",
+                "On that note, have a battle with moi!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0008",
+            "en_US": [
+                "Hiding makes battle instincts dull,\n",
+                "you know."
+            ]
+        },
+        {
+            "id": "a003_034_0009",
+            "en_US": [
+                "Now. Come. On.{VAR BE01}\n",
+                "Step on this switch, and what happens?\n",
+                "Moi!"
+            ]
+        },
+        {
+            "id": "a003_034_0010",
+            "en_US": [
+                "Yeeeeeeeeah! Thank you for going\n",
+                "to the trouble of calling me out!{VAR BE01}\n",
+                "I'll channel my gratitude into my\n",
+                "Pokémon's moves and...{VAR BE00}\n",
+                "make sure it gets to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0011",
+            "en_US": [
+                "If you hadn't stepped on that switch,\n",
+                "I'd still be stuck hidden away.{VAR BE01}\n",
+                "That's right! Bug Gym Trainers like to\n",
+                "be bugged!"
+            ]
+        },
+        {
+            "id": "a003_034_0012",
+            "en_US": [
+                "Hiding beneath the floor, I understand\n",
+                "how a Bug-type Pokémon feels."
+            ]
+        },
+        {
+            "id": "a003_034_0013",
+            "en_US": [
+                "What do you think of Castelia City?{VAR BE01}\n",
+                "I bet, with all of the bustling people,\n",
+                "you started feeling worn down on your{VAR BE00}\n",
+                "way to the Gym!{VAR BE01}\n",
+                "Never mind! This will help. Take it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0014",
+            "en_US": [
+                "The theme of this Gym is\n",
+                "walking through walls.{VAR BE01}\n",
+                "At first glance, these funny honey walls\n",
+                "may look impassable or even impossible.{VAR BE00}\n",
+                "If you try hard, it'll work out. So I say.{VAR BE01}\n",
+                "But...if it doesn't, here's a sweet tip:\n",
+                "step on the switches on the floor!"
+            ]
+        },
+        {
+            "id": "a003_034_0015",
+            "en_US": [
+                "Wow! That's amazing!{VAR BE01}\n",
+                "You swatted aside our Gym Leader\n",
+                "Burgh's tricky attacks...{VAR BE01}\n",
+                "I can barely imagine how much\n",
+                "stronger you're going to get!"
+            ]
+        },
+        {
+            "id": "a003_034_0016",
+            "en_US": [
+                "The Gym Leader said he was going to\n",
+                "Prime Pier and left for a little bit.{VAR BE01}\n",
+                "You're welcome to go track him down."
+            ]
+        },
+        {
+            "id": "a003_034_0017",
+            "en_US": [
+                "The Gym Leader said he was going to\n",
+                "Prime Pier and left for a little bit.{VAR BE00}\n",
+                "You're welcome to go track him down.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_034_0018",
+            "en_US": [
+                "Castelia Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Burgh\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "Cheren"
+            ]
+        },
+        {
+            "id": "a003_034_0019",
+            "en_US": [
+                "Castelia Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Burgh\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_034_0020",
+            "en_US": [
+                "Castelia Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Burgh\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

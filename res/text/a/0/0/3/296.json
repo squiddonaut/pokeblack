@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "9090",
+    "messages": [
+        {
+            "id": "a003_296_0000",
+            "en_US": [
+                "That room was the world\n",
+                "that was provided to our lord N...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_296_0001",
+            "en_US": [
+                "I don't feel anything, even when\n",
+                "I go into the room...{VAR BE00}\n",
+                "But you may feel something.{VAR BE01}"
+            ]
+        }
+    ]
+}

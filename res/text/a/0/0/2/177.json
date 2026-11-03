@@ -1,0 +1,1610 @@
+{
+    "flags": 256,
+    "pad": "1c1c",
+    "messages": [
+        {
+            "id": "a002_177_0000",
+            "en_US": "Director"
+        },
+        {
+            "id": "a002_177_0001",
+            "en_US": "Junichi  Masuda"
+        },
+        {
+            "id": "a002_177_0002",
+            "en_US": "2-D  Art  Director"
+        },
+        {
+            "id": "a002_177_0003",
+            "en_US": "Ken  Sugimori"
+        },
+        {
+            "id": "a002_177_0004",
+            "en_US": "3-D  Art  Director"
+        },
+        {
+            "id": "a002_177_0005",
+            "en_US": "Takao  Unno"
+        },
+        {
+            "id": "a002_177_0006",
+            "en_US": "Program  Director"
+        },
+        {
+            "id": "a002_177_0007",
+            "en_US": "Tetsuya  Watanabe"
+        },
+        {
+            "id": "a002_177_0008",
+            "en_US": "Planning  Director"
+        },
+        {
+            "id": "a002_177_0009",
+            "en_US": "Takeshi  Kawachimaru"
+        },
+        {
+            "id": "a002_177_0010",
+            "en_US": "Scenario"
+        },
+        {
+            "id": "a002_177_0011",
+            "en_US": "Toshinobu  Matsumiya"
+        },
+        {
+            "id": "a002_177_0012",
+            "en_US": "Online,  Wireless,  and  IR  Programming"
+        },
+        {
+            "id": "a002_177_0013",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0014",
+            "en_US": "Katsumi  Ohno"
+        },
+        {
+            "id": "a002_177_0015",
+            "en_US": "Yoshinori  Matsuda"
+        },
+        {
+            "id": "a002_177_0016",
+            "en_US": "Toru  Nagihashi"
+        },
+        {
+            "id": "a002_177_0017",
+            "en_US": "Nobuhiko  Ariizumi"
+        },
+        {
+            "id": "a002_177_0018",
+            "en_US": "Battle  Programming"
+        },
+        {
+            "id": "a002_177_0019",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0020",
+            "en_US": "Hisashi  Sogabe"
+        },
+        {
+            "id": "a002_177_0021",
+            "en_US": "Masao  Taya"
+        },
+        {
+            "id": "a002_177_0022",
+            "en_US": "Field  Programming"
+        },
+        {
+            "id": "a002_177_0023",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0024",
+            "en_US": "Sosuke  Tamada"
+        },
+        {
+            "id": "a002_177_0025",
+            "en_US": "Keita  Kagaya"
+        },
+        {
+            "id": "a002_177_0026",
+            "en_US": "Miyuki  Iwasawa"
+        },
+        {
+            "id": "a002_177_0027",
+            "en_US": "Nozomu  Saito"
+        },
+        {
+            "id": "a002_177_0028",
+            "en_US": "Tomoya  Takahashi"
+        },
+        {
+            "id": "a002_177_0029",
+            "en_US": "Toshihiro  Obata"
+        },
+        {
+            "id": "a002_177_0030",
+            "en_US": "User  Interface  Programming"
+        },
+        {
+            "id": "a002_177_0031",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0032",
+            "en_US": "Akito  Mori"
+        },
+        {
+            "id": "a002_177_0033",
+            "en_US": "Hiroyuki  Nakamura"
+        },
+        {
+            "id": "a002_177_0034",
+            "en_US": "Koji  Kawada"
+        },
+        {
+            "id": "a002_177_0035",
+            "en_US": "Genya  Hosaka"
+        },
+        {
+            "id": "a002_177_0036",
+            "en_US": "Battle  System  Programming"
+        },
+        {
+            "id": "a002_177_0037",
+            "en_US": "Masao  Taya"
+        },
+        {
+            "id": "a002_177_0038",
+            "en_US": "Gym--Main  Programming"
+        },
+        {
+            "id": "a002_177_0039",
+            "en_US": "Nozomu  Saito"
+        },
+        {
+            "id": "a002_177_0040",
+            "en_US": "Rail  System  Programming"
+        },
+        {
+            "id": "a002_177_0041",
+            "en_US": "Tomoya  Takahashi"
+        },
+        {
+            "id": "a002_177_0042",
+            "en_US": "3-D  Graphics  Support  Programming"
+        },
+        {
+            "id": "a002_177_0043",
+            "en_US": "Miyuki  Iwasawa"
+        },
+        {
+            "id": "a002_177_0044",
+            "en_US": "System  Programming"
+        },
+        {
+            "id": "a002_177_0045",
+            "en_US": "Tetsuya  Watanabe"
+        },
+        {
+            "id": "a002_177_0046",
+            "en_US": "Hisashi  Sogabe"
+        },
+        {
+            "id": "a002_177_0047",
+            "en_US": "Sosuke  Tamada"
+        },
+        {
+            "id": "a002_177_0048",
+            "en_US": "Katsumi  Ohno"
+        },
+        {
+            "id": "a002_177_0049",
+            "en_US": "Masao  Taya"
+        },
+        {
+            "id": "a002_177_0050",
+            "en_US": "Director  of  Pokémon  Characters"
+        },
+        {
+            "id": "a002_177_0051",
+            "en_US": "Ken  Sugimori"
+        },
+        {
+            "id": "a002_177_0052",
+            "en_US": "Pokémon  Character  Design"
+        },
+        {
+            "id": "a002_177_0053",
+            "en_US": "Ken  Sugimori"
+        },
+        {
+            "id": "a002_177_0054",
+            "en_US": "Takao  Unno"
+        },
+        {
+            "id": "a002_177_0055",
+            "en_US": "Motofumi  Fujiwara"
+        },
+        {
+            "id": "a002_177_0056",
+            "en_US": "Hironobu  Yoshida"
+        },
+        {
+            "id": "a002_177_0057",
+            "en_US": "Kenkichi  Toyama"
+        },
+        {
+            "id": "a002_177_0058",
+            "en_US": "Hiroki  Fuchino"
+        },
+        {
+            "id": "a002_177_0059",
+            "en_US": "Yusuke  Ohmura"
+        },
+        {
+            "id": "a002_177_0060",
+            "en_US": "Saya  Tsuruta"
+        },
+        {
+            "id": "a002_177_0061",
+            "en_US": "Lee  Hyunjung"
+        },
+        {
+            "id": "a002_177_0062",
+            "en_US": "Mana  Ibe"
+        },
+        {
+            "id": "a002_177_0063",
+            "en_US": "Reiko  Tanoue"
+        },
+        {
+            "id": "a002_177_0064",
+            "en_US": "Tomohiro  Kitakaze"
+        },
+        {
+            "id": "a002_177_0065",
+            "en_US": "Maiko  Fujiwara"
+        },
+        {
+            "id": "a002_177_0066",
+            "en_US": "Megumi  Mizutani"
+        },
+        {
+            "id": "a002_177_0067",
+            "en_US": "Tomohiko  Ohkubo"
+        },
+        {
+            "id": "a002_177_0068",
+            "en_US": "James  Turner"
+        },
+        {
+            "id": "a002_177_0069",
+            "en_US": "Keiko  Moritsugu"
+        },
+        {
+            "id": "a002_177_0070",
+            "en_US": "Atsuko  Nishida"
+        },
+        {
+            "id": "a002_177_0071",
+            "en_US": "2-D  Dot  Graphics"
+        },
+        {
+            "id": "a002_177_0072",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0073",
+            "en_US": "Hironobu  Yoshida"
+        },
+        {
+            "id": "a002_177_0074",
+            "en_US": "Motofumi  Fujiwara"
+        },
+        {
+            "id": "a002_177_0075",
+            "en_US": "Kenkichi  Toyama"
+        },
+        {
+            "id": "a002_177_0076",
+            "en_US": "Yusuke  Ohmura"
+        },
+        {
+            "id": "a002_177_0077",
+            "en_US": "Saya  Tsuruta"
+        },
+        {
+            "id": "a002_177_0078",
+            "en_US": "Tomohiro  Kitakaze"
+        },
+        {
+            "id": "a002_177_0079",
+            "en_US": "Megumi  Mizutani"
+        },
+        {
+            "id": "a002_177_0080",
+            "en_US": "3-D  Map  Graphics"
+        },
+        {
+            "id": "a002_177_0081",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0082",
+            "en_US": "Hiroki  Fuchino"
+        },
+        {
+            "id": "a002_177_0083",
+            "en_US": "Lee  Hyunjung"
+        },
+        {
+            "id": "a002_177_0084",
+            "en_US": "Mana  Ibe"
+        },
+        {
+            "id": "a002_177_0085",
+            "en_US": "Reiko  Tanoue"
+        },
+        {
+            "id": "a002_177_0086",
+            "en_US": "Maiko  Fujiwara"
+        },
+        {
+            "id": "a002_177_0087",
+            "en_US": "Tomohiko  Ohkubo"
+        },
+        {
+            "id": "a002_177_0088",
+            "en_US": "James  Turner"
+        },
+        {
+            "id": "a002_177_0089",
+            "en_US": "3-D  Graphics  System  Design"
+        },
+        {
+            "id": "a002_177_0090",
+            "en_US": "Takao  Unno"
+        },
+        {
+            "id": "a002_177_0091",
+            "en_US": "Trainer  Graphics--Main  Design"
+        },
+        {
+            "id": "a002_177_0092",
+            "en_US": "Yusuke  Ohmura"
+        },
+        {
+            "id": "a002_177_0093",
+            "en_US": "Battle  Graphics  Design"
+        },
+        {
+            "id": "a002_177_0094",
+            "en_US": "Hironobu  Yoshida"
+        },
+        {
+            "id": "a002_177_0095",
+            "en_US": "Battle-Effects  Graphics  Design"
+        },
+        {
+            "id": "a002_177_0096",
+            "en_US": "Motofumi  Fujiwara"
+        },
+        {
+            "id": "a002_177_0097",
+            "en_US": "User  Interface  Graphics--Main  Design"
+        },
+        {
+            "id": "a002_177_0098",
+            "en_US": "Kenkichi  Toyama"
+        },
+        {
+            "id": "a002_177_0099",
+            "en_US": "Digital  Movie--Main  Design"
+        },
+        {
+            "id": "a002_177_0100",
+            "en_US": "James  Turner"
+        },
+        {
+            "id": "a002_177_0101",
+            "en_US": "Concept  Illustration"
+        },
+        {
+            "id": "a002_177_0102",
+            "en_US": "Keiko  Moritsugu"
+        },
+        {
+            "id": "a002_177_0103",
+            "en_US": "Pokémon  Concept  &  Pokédex  Text"
+        },
+        {
+            "id": "a002_177_0104",
+            "en_US": "Kenji  Matsushima"
+        },
+        {
+            "id": "a002_177_0105",
+            "en_US": "Music"
+        },
+        {
+            "id": "a002_177_0106",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0107",
+            "en_US": "Shota  Kageyama"
+        },
+        {
+            "id": "a002_177_0108",
+            "en_US": "Go  Ichinose"
+        },
+        {
+            "id": "a002_177_0109",
+            "en_US": "Hitomi  Sato"
+        },
+        {
+            "id": "a002_177_0110",
+            "en_US": "Junichi  Masuda"
+        },
+        {
+            "id": "a002_177_0111",
+            "en_US": "Minako  Adachi"
+        },
+        {
+            "id": "a002_177_0112",
+            "en_US": "Pokémon  Voice  Design"
+        },
+        {
+            "id": "a002_177_0113",
+            "en_US": "Go  Ichinose"
+        },
+        {
+            "id": "a002_177_0114",
+            "en_US": "Sound  Effects"
+        },
+        {
+            "id": "a002_177_0115",
+            "en_US": "Minako  Adachi"
+        },
+        {
+            "id": "a002_177_0116",
+            "en_US": "Interactive  Sound  System  Design"
+        },
+        {
+            "id": "a002_177_0117",
+            "en_US": "Shota  Kageyama"
+        },
+        {
+            "id": "a002_177_0118",
+            "en_US": "Go  Ichinose"
+        },
+        {
+            "id": "a002_177_0119",
+            "en_US": "Music--Entralink,  Route  10,"
+        },
+        {
+            "id": "a002_177_0120",
+            "en_US": "Ending  Theme,"
+        },
+        {
+            "id": "a002_177_0121",
+            "en_US": "and  More"
+        },
+        {
+            "id": "a002_177_0122",
+            "en_US": "Shota  Kageyama"
+        },
+        {
+            "id": "a002_177_0123",
+            "en_US": "Music--Opelucid  City,  Anville  Town,"
+        },
+        {
+            "id": "a002_177_0124",
+            "en_US": "Village  Bridge,"
+        },
+        {
+            "id": "a002_177_0125",
+            "en_US": "and  More"
+        },
+        {
+            "id": "a002_177_0126",
+            "en_US": "Go  Ichinose"
+        },
+        {
+            "id": "a002_177_0127",
+            "en_US": "Music--Bicycle,  Poké  Transfer  Lab,"
+        },
+        {
+            "id": "a002_177_0128",
+            "en_US": "Lacunosa  Town,"
+        },
+        {
+            "id": "a002_177_0129",
+            "en_US": "and  More"
+        },
+        {
+            "id": "a002_177_0130",
+            "en_US": "Hitomi  Sato"
+        },
+        {
+            "id": "a002_177_0131",
+            "en_US": "All  Battle  Music"
+        },
+        {
+            "id": "a002_177_0132",
+            "en_US": "Junichi  Masuda"
+        },
+        {
+            "id": "a002_177_0133",
+            "en_US": "User  Interface  System  Design"
+        },
+        {
+            "id": "a002_177_0134",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0135",
+            "en_US": "Tetsuji  Ohta"
+        },
+        {
+            "id": "a002_177_0136",
+            "en_US": "Teruyuki  Shimoyamada"
+        },
+        {
+            "id": "a002_177_0137",
+            "en_US": "Kazumasa  Iwao"
+        },
+        {
+            "id": "a002_177_0138",
+            "en_US": "Hiro  Nakamura"
+        },
+        {
+            "id": "a002_177_0139",
+            "en_US": "Dialogue  Design"
+        },
+        {
+            "id": "a002_177_0140",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0141",
+            "en_US": "Toshinobu  Matsumiya"
+        },
+        {
+            "id": "a002_177_0142",
+            "en_US": "Suguru  Nakatsui"
+        },
+        {
+            "id": "a002_177_0143",
+            "en_US": "Katsunori  Suginaka"
+        },
+        {
+            "id": "a002_177_0144",
+            "en_US": "Yukiko  Hozumi"
+        },
+        {
+            "id": "a002_177_0145",
+            "en_US": "Action  Script  Design"
+        },
+        {
+            "id": "a002_177_0146",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0147",
+            "en_US": "Masafumi  Saito"
+        },
+        {
+            "id": "a002_177_0148",
+            "en_US": "Mai  Mizuguchi"
+        },
+        {
+            "id": "a002_177_0149",
+            "en_US": "Katsunori  Suginaka"
+        },
+        {
+            "id": "a002_177_0150",
+            "en_US": "Naoto  Murakami"
+        },
+        {
+            "id": "a002_177_0151",
+            "en_US": "Battle  System  Design"
+        },
+        {
+            "id": "a002_177_0152",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0153",
+            "en_US": "Shigeki  Morimoto"
+        },
+        {
+            "id": "a002_177_0154",
+            "en_US": "Koji  Nishino"
+        },
+        {
+            "id": "a002_177_0155",
+            "en_US": "Game  Design  of  Special  Elements"
+        },
+        {
+            "id": "a002_177_0156",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0157",
+            "en_US": "Shigeru  Ohmori"
+        },
+        {
+            "id": "a002_177_0158",
+            "en_US": "Yukiko  Hozumi"
+        },
+        {
+            "id": "a002_177_0159",
+            "en_US": "Akira  Nakamura"
+        },
+        {
+            "id": "a002_177_0160",
+            "en_US": "Map  Design"
+        },
+        {
+            "id": "a002_177_0161",
+            "en_US": "Lead"
+        },
+        {
+            "id": "a002_177_0162",
+            "en_US": "Suguru  Nakatsui"
+        },
+        {
+            "id": "a002_177_0163",
+            "en_US": "Tadashi  Takahashi"
+        },
+        {
+            "id": "a002_177_0164",
+            "en_US": "Kazumasa  Iwao"
+        },
+        {
+            "id": "a002_177_0165",
+            "en_US": "Katsunori  Suginaka"
+        },
+        {
+            "id": "a002_177_0166",
+            "en_US": "Shigeru  Ohmori"
+        },
+        {
+            "id": "a002_177_0167",
+            "en_US": "Yukiko  Hozumi"
+        },
+        {
+            "id": "a002_177_0168",
+            "en_US": "Naoto  Murakami"
+        },
+        {
+            "id": "a002_177_0169",
+            "en_US": "User  Interface--Main  Design"
+        },
+        {
+            "id": "a002_177_0170",
+            "en_US": "Tetsuji  Ohta"
+        },
+        {
+            "id": "a002_177_0171",
+            "en_US": "Map  Supervisor  &  Map  Set  Design"
+        },
+        {
+            "id": "a002_177_0172",
+            "en_US": "Suguru  Nakatsui"
+        },
+        {
+            "id": "a002_177_0173",
+            "en_US": "Survey  Radar  &  Tag  Mode  Design"
+        },
+        {
+            "id": "a002_177_0174",
+            "en_US": "Shigeru  Ohmori"
+        },
+        {
+            "id": "a002_177_0175",
+            "en_US": "Wi-Fi  Battle  System  Design"
+        },
+        {
+            "id": "a002_177_0176",
+            "en_US": "Teruyuki  Shimoyamada"
+        },
+        {
+            "id": "a002_177_0177",
+            "en_US": "Pokémon  &  Trainer  Parameter  Design"
+        },
+        {
+            "id": "a002_177_0178",
+            "en_US": "Koji  Nishino"
+        },
+        {
+            "id": "a002_177_0179",
+            "en_US": "Shigeki  Morimoto"
+        },
+        {
+            "id": "a002_177_0180",
+            "en_US": "Kazumasa  Iwao"
+        },
+        {
+            "id": "a002_177_0181",
+            "en_US": "Teruyuki  Shimoyamada"
+        },
+        {
+            "id": "a002_177_0182",
+            "en_US": "Battle  Subway  Parameter  Design"
+        },
+        {
+            "id": "a002_177_0183",
+            "en_US": "Shigeki  Morimoto"
+        },
+        {
+            "id": "a002_177_0184",
+            "en_US": "Tetsuji  Ohta"
+        },
+        {
+            "id": "a002_177_0185",
+            "en_US": "Kazumasa  Iwao"
+        },
+        {
+            "id": "a002_177_0186",
+            "en_US": "Wi-Fi  Server  Development"
+        },
+        {
+            "id": "a002_177_0187",
+            "en_US": "Takahiro  Yamaguchi"
+        },
+        {
+            "id": "a002_177_0188",
+            "en_US": "Ryo  Yamaguchi"
+        },
+        {
+            "id": "a002_177_0189",
+            "en_US": "Kazutomo  Niwa"
+        },
+        {
+            "id": "a002_177_0190",
+            "en_US": "Takaaki  Takeuchi"
+        },
+        {
+            "id": "a002_177_0191",
+            "en_US": "Mikihiro  Ishikawa"
+        },
+        {
+            "id": "a002_177_0192",
+            "en_US": "Director  of  Linked  Websites"
+        },
+        {
+            "id": "a002_177_0193",
+            "en_US": "Takeshi  Kawachimaru"
+        },
+        {
+            "id": "a002_177_0194",
+            "en_US": "Linked  Website  Design"
+        },
+        {
+            "id": "a002_177_0195",
+            "en_US": "Mai  Mizuguchi"
+        },
+        {
+            "id": "a002_177_0196",
+            "en_US": "Makiko  Takahashi"
+        },
+        {
+            "id": "a002_177_0197",
+            "en_US": "Takashi  Orikata"
+        },
+        {
+            "id": "a002_177_0198",
+            "en_US": "Mitsuyo  Matsunaga"
+        },
+        {
+            "id": "a002_177_0199",
+            "en_US": "Tomoko  Nakayama"
+        },
+        {
+            "id": "a002_177_0200",
+            "en_US": "Basement  Factory  Productions"
+        },
+        {
+            "id": "a002_177_0201",
+            "en_US": "English  Localization"
+        },
+        {
+            "id": "a002_177_0202",
+            "en_US": "Yasuhiro  Usui"
+        },
+        {
+            "id": "a002_177_0203",
+            "en_US": "Mikiko  Ryu"
+        },
+        {
+            "id": "a002_177_0204",
+            "en_US": "Satomi  Honda"
+        },
+        {
+            "id": "a002_177_0205",
+            "en_US": "David  Numrich"
+        },
+        {
+            "id": "a002_177_0206",
+            "en_US": "English  Translation"
+        },
+        {
+            "id": "a002_177_0207",
+            "en_US": "Hisato  Yamamori"
+        },
+        {
+            "id": "a002_177_0208",
+            "en_US": "Tim  Hove"
+        },
+        {
+            "id": "a002_177_0209",
+            "en_US": "Sayuri  Munday"
+        },
+        {
+            "id": "a002_177_0210",
+            "en_US": "English  Editing"
+        },
+        {
+            "id": "a002_177_0211",
+            "en_US": "Michael  G.  Ryan"
+        },
+        {
+            "id": "a002_177_0212",
+            "en_US": "Kellyn  Ballard"
+        },
+        {
+            "id": "a002_177_0213",
+            "en_US": "Blaise  Selby"
+        },
+        {
+            "id": "a002_177_0214",
+            "en_US": "Hollie  Beg"
+        },
+        {
+            "id": "a002_177_0215",
+            "en_US": "Wolfgang  Baur"
+        },
+        {
+            "id": "a002_177_0216",
+            "en_US": "Eoin  Sanders"
+        },
+        {
+            "id": "a002_177_0217",
+            "en_US": "English  Localization  Support"
+        },
+        {
+            "id": "a002_177_0218",
+            "en_US": "Rey  Perez"
+        },
+        {
+            "id": "a002_177_0219",
+            "en_US": "Antoin  Johnson  "
+        },
+        {
+            "id": "a002_177_0220",
+            "en_US": "NOA  Localization  Coordinators"
+        },
+        {
+            "id": "a002_177_0221",
+            "en_US": "Rie  Fujiwara"
+        },
+        {
+            "id": "a002_177_0222",
+            "en_US": "Seth  McMahill"
+        },
+        {
+            "id": "a002_177_0223",
+            "en_US": "Joel  Simon"
+        },
+        {
+            "id": "a002_177_0224",
+            "en_US": "NOA  Product  Testing"
+        },
+        {
+            "id": "a002_177_0225",
+            "en_US": "Masayasu  Nakata"
+        },
+        {
+            "id": "a002_177_0226",
+            "en_US": "Kyle  Hudson"
+        },
+        {
+            "id": "a002_177_0227",
+            "en_US": "Eric  Bush"
+        },
+        {
+            "id": "a002_177_0228",
+            "en_US": "Sean  Egan"
+        },
+        {
+            "id": "a002_177_0229",
+            "en_US": "Tom  Hertzog"
+        },
+        {
+            "id": "a002_177_0230",
+            "en_US": "Ed  Ridgeway"
+        },
+        {
+            "id": "a002_177_0231",
+            "en_US": "Teresa  Lillygren"
+        },
+        {
+            "id": "a002_177_0232",
+            "en_US": "Makiko  Szolas"
+        },
+        {
+            "id": "a002_177_0233",
+            "en_US": "Leland  Jones"
+        },
+        {
+            "id": "a002_177_0234",
+            "en_US": "Marko  Wallenius"
+        },
+        {
+            "id": "a002_177_0235",
+            "en_US": "Kathy  Huguenard"
+        },
+        {
+            "id": "a002_177_0236",
+            "en_US": "Joshua  Newman"
+        },
+        {
+            "id": "a002_177_0237",
+            "en_US": "Kindra  Timmerwilke"
+        },
+        {
+            "id": "a002_177_0238",
+            "en_US": "NOE  Quality  Assurance"
+        },
+        {
+            "id": "a002_177_0239",
+            "en_US": "Natalie  Lunt"
+        },
+        {
+            "id": "a002_177_0240",
+            "en_US": "Richard  Wylie"
+        },
+        {
+            "id": "a002_177_0241",
+            "en_US": "Aatish  Pattni"
+        },
+        {
+            "id": "a002_177_0242",
+            "en_US": "Ben  Howard-Hale"
+        },
+        {
+            "id": "a002_177_0243",
+            "en_US": "David  Wall"
+        },
+        {
+            "id": "a002_177_0244",
+            "en_US": "Patrick  Gleeson"
+        },
+        {
+            "id": "a002_177_0245",
+            "en_US": "Sam  Trodd"
+        },
+        {
+            "id": "a002_177_0246",
+            "en_US": "Sarah  Rutherford-Bryant"
+        },
+        {
+            "id": "a002_177_0247",
+            "en_US": "Localization"
+        },
+        {
+            "id": "a002_177_0248",
+            "en_US": "Teruki  Murakawa"
+        },
+        {
+            "id": "a002_177_0249",
+            "en_US": "Kimiko  Nakamichi"
+        },
+        {
+            "id": "a002_177_0250",
+            "en_US": "Akira  Kinashi"
+        },
+        {
+            "id": "a002_177_0251",
+            "en_US": "Noriko  Nakao"
+        },
+        {
+            "id": "a002_177_0252",
+            "en_US": "Ryusuke  Niitani"
+        },
+        {
+            "id": "a002_177_0253",
+            "en_US": "Hironori  Ichibayashi"
+        },
+        {
+            "id": "a002_177_0254",
+            "en_US": "Shuhei  Furukawa"
+        },
+        {
+            "id": "a002_177_0255",
+            "en_US": "Debug  Management"
+        },
+        {
+            "id": "a002_177_0256",
+            "en_US": "Yuki  Tanikawa"
+        },
+        {
+            "id": "a002_177_0257",
+            "en_US": "Masashi  Mihune"
+        },
+        {
+            "id": "a002_177_0258",
+            "en_US": "Yoshikazu  Tanaka"
+        },
+        {
+            "id": "a002_177_0259",
+            "en_US": "Tsuyoshi  Komura"
+        },
+        {
+            "id": "a002_177_0260",
+            "en_US": "Mieko  Yamaji"
+        },
+        {
+            "id": "a002_177_0261",
+            "en_US": "Takeshi  Tamura"
+        },
+        {
+            "id": "a002_177_0262",
+            "en_US": "Debug"
+        },
+        {
+            "id": "a002_177_0263",
+            "en_US": "Mario  Club"
+        },
+        {
+            "id": "a002_177_0264",
+            "en_US": "World  &  Plot"
+        },
+        {
+            "id": "a002_177_0265",
+            "en_US": "Junichi  Masuda"
+        },
+        {
+            "id": "a002_177_0266",
+            "en_US": "Graphics--Special  Thanks"
+        },
+        {
+            "id": "a002_177_0267",
+            "en_US": "Daisuke  Nagata"
+        },
+        {
+            "id": "a002_177_0268",
+            "en_US": "Rika  Kunishita"
+        },
+        {
+            "id": "a002_177_0269",
+            "en_US": "Natsumi  Nishihata"
+        },
+        {
+            "id": "a002_177_0270",
+            "en_US": "Chihiro  Takahashi"
+        },
+        {
+            "id": "a002_177_0271",
+            "en_US": "Shinichi  Ohnishi"
+        },
+        {
+            "id": "a002_177_0272",
+            "en_US": "Special  Thanks"
+        },
+        {
+            "id": "a002_177_0273",
+            "en_US": "Kenji  Tominaga"
+        },
+        {
+            "id": "a002_177_0274",
+            "en_US": "Yuichiro  Mori"
+        },
+        {
+            "id": "a002_177_0275",
+            "en_US": "Yoshio  Tajiri"
+        },
+        {
+            "id": "a002_177_0276",
+            "en_US": "Teiko  Sasaki"
+        },
+        {
+            "id": "a002_177_0277",
+            "en_US": "Emi  Endo"
+        },
+        {
+            "id": "a002_177_0278",
+            "en_US": "Asami  Sato"
+        },
+        {
+            "id": "a002_177_0279",
+            "en_US": "Shiho  Haraguchi"
+        },
+        {
+            "id": "a002_177_0280",
+            "en_US": "Nagaaki  Fukase"
+        },
+        {
+            "id": "a002_177_0281",
+            "en_US": "Hiroto  Ito"
+        },
+        {
+            "id": "a002_177_0282",
+            "en_US": "Masayuki  Onoue"
+        },
+        {
+            "id": "a002_177_0283",
+            "en_US": "Katsuhiko  Ichiraku"
+        },
+        {
+            "id": "a002_177_0284",
+            "en_US": "Mayo  Ohtani"
+        },
+        {
+            "id": "a002_177_0285",
+            "en_US": "Yuki  Kawamoto"
+        },
+        {
+            "id": "a002_177_0286",
+            "en_US": "Sachiko  Hamano"
+        },
+        {
+            "id": "a002_177_0287",
+            "en_US": "Haruka  Sunaga"
+        },
+        {
+            "id": "a002_177_0288",
+            "en_US": "Kenjiro  Ito"
+        },
+        {
+            "id": "a002_177_0289",
+            "en_US": "Tomotaka  Komura"
+        },
+        {
+            "id": "a002_177_0290",
+            "en_US": "Susumu  Fukunaga"
+        },
+        {
+            "id": "a002_177_0291",
+            "en_US": "Toshio  Miyahara"
+        },
+        {
+            "id": "a002_177_0292",
+            "en_US": "Jiro  Koga"
+        },
+        {
+            "id": "a002_177_0293",
+            "en_US": "Osamu  Suzuki"
+        },
+        {
+            "id": "a002_177_0294",
+            "en_US": "Gakuji  Nomoto"
+        },
+        {
+            "id": "a002_177_0295",
+            "en_US": "Misuzu  Kanayama"
+        },
+        {
+            "id": "a002_177_0296",
+            "en_US": "Michiko  Takizawa"
+        },
+        {
+            "id": "a002_177_0297",
+            "en_US": "Ayako  Kajiwara"
+        },
+        {
+            "id": "a002_177_0298",
+            "en_US": "Yuichiro  Tsumita"
+        },
+        {
+            "id": "a002_177_0299",
+            "en_US": "Osamu  Fujita"
+        },
+        {
+            "id": "a002_177_0300",
+            "en_US": "Masayuki  Soga"
+        },
+        {
+            "id": "a002_177_0301",
+            "en_US": "Fumie  Yokota"
+        },
+        {
+            "id": "a002_177_0302",
+            "en_US": "Kenji  Okubo"
+        },
+        {
+            "id": "a002_177_0303",
+            "en_US": "Soichi  Yamamoto"
+        },
+        {
+            "id": "a002_177_0304",
+            "en_US": "Tohru  Inage"
+        },
+        {
+            "id": "a002_177_0305",
+            "en_US": "Hiroshi  Akune"
+        },
+        {
+            "id": "a002_177_0306",
+            "en_US": "Daisuke  Komai"
+        },
+        {
+            "id": "a002_177_0307",
+            "en_US": "Toshio  Mukai"
+        },
+        {
+            "id": "a002_177_0308",
+            "en_US": "Chiaki  Takahara"
+        },
+        {
+            "id": "a002_177_0309",
+            "en_US": "Sachiko  Ikeda"
+        },
+        {
+            "id": "a002_177_0310",
+            "en_US": "Ilho  Kim"
+        },
+        {
+            "id": "a002_177_0311",
+            "en_US": "Jonghoon  Park"
+        },
+        {
+            "id": "a002_177_0312",
+            "en_US": "English  Version  Artwork"
+        },
+        {
+            "id": "a002_177_0313",
+            "en_US": "Eric  Medalle"
+        },
+        {
+            "id": "a002_177_0314",
+            "en_US": "Bridget  O'Neill"
+        },
+        {
+            "id": "a002_177_0315",
+            "en_US": "Artwork"
+        },
+        {
+            "id": "a002_177_0316",
+            "en_US": "Kiyomi  Itani"
+        },
+        {
+            "id": "a002_177_0317",
+            "en_US": "Yasuko  Sugiyama"
+        },
+        {
+            "id": "a002_177_0318",
+            "en_US": "Ryuichi  Suzuki"
+        },
+        {
+            "id": "a002_177_0319",
+            "en_US": "Sachiko  Nakamichi"
+        },
+        {
+            "id": "a002_177_0320",
+            "en_US": "Globalization  Coordinators"
+        },
+        {
+            "id": "a002_177_0321",
+            "en_US": "Akira  Kinashi"
+        },
+        {
+            "id": "a002_177_0322",
+            "en_US": "Noriko  Nakao"
+        },
+        {
+            "id": "a002_177_0323",
+            "en_US": "Hironori  Ichibayashi"
+        },
+        {
+            "id": "a002_177_0324",
+            "en_US": "Information  Coordinators"
+        },
+        {
+            "id": "a002_177_0325",
+            "en_US": "Yuri  Sakurai"
+        },
+        {
+            "id": "a002_177_0326",
+            "en_US": "Toya  Yoneda"
+        },
+        {
+            "id": "a002_177_0327",
+            "en_US": "Coordinators"
+        },
+        {
+            "id": "a002_177_0328",
+            "en_US": "Shunsuke  Kohori"
+        },
+        {
+            "id": "a002_177_0329",
+            "en_US": "Kazuki  Yoshihara"
+        },
+        {
+            "id": "a002_177_0330",
+            "en_US": "Kaori  Ando"
+        },
+        {
+            "id": "a002_177_0331",
+            "en_US": "Hideaki  Araki"
+        },
+        {
+            "id": "a002_177_0332",
+            "en_US": "Producers"
+        },
+        {
+            "id": "a002_177_0333",
+            "en_US": "Junichi  Masuda"
+        },
+        {
+            "id": "a002_177_0334",
+            "en_US": "Hitoshi  Yamagami"
+        },
+        {
+            "id": "a002_177_0335",
+            "en_US": "Shusaku  Egami"
+        },
+        {
+            "id": "a002_177_0336",
+            "en_US": "Hiroaki  Tsuru"
+        },
+        {
+            "id": "a002_177_0337",
+            "en_US": "Executive  Producers"
+        },
+        {
+            "id": "a002_177_0338",
+            "en_US": "Satoshi  Tajiri"
+        },
+        {
+            "id": "a002_177_0339",
+            "en_US": "Satoru  Iwata"
+        },
+        {
+            "id": "a002_177_0340",
+            "en_US": "Tsunekazu  Ishihara"
+        },
+        {
+            "id": "a002_177_0341",
+            "en_US": "Developed  By"
+        },
+        {
+            "id": "a002_177_0342",
+            "en_US": "GAME  FREAK  inc."
+        },
+        {
+            "id": "a002_177_0343",
+            "en_US": "Pokémon  Black  Version"
+        },
+        {
+            "id": "a002_177_0344",
+            "en_US": "Pokémon  White  Version"
+        },
+        {
+            "id": "a002_177_0345",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0346",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0347",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0348",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0349",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0350",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0351",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0352",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0353",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0354",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0355",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0356",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0357",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0358",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0359",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0360",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0361",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0362",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0363",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0364",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0365",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0366",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0367",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0368",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0369",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0370",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0371",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0372",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0373",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0374",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0375",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0376",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0377",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0378",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0379",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0380",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0381",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0382",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0383",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0384",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0385",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0386",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0387",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0388",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0389",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0390",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0391",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0392",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0393",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0394",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0395",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0396",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0397",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0398",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0399",
+            "en_US": ""
+        },
+        {
+            "id": "a002_177_0400",
+            "en_US": ""
+        }
+    ]
+}

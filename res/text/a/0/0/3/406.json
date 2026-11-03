@@ -1,0 +1,143 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_406_0000",
+            "en_US": [
+                "Giallo: Greetings to you, strong Pokémon\n",
+                "Trainer who came to Dragonspiral Tower.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0001",
+            "en_US": [
+                "Are you and Zekrom building\n",
+                "a mutual understanding?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0002",
+            "en_US": [
+                "Are you not making friends\n",
+                "with Zekrom?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0003",
+            "en_US": [
+                "Are you and Reshiram building\n",
+                "a mutual understanding?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0004",
+            "en_US": "Are you not making friends with Reshiram?{VAR BE01}"
+        },
+        {
+            "id": "a003_406_0005",
+            "en_US": [
+                "There is a saying...{VAR BE01}\n",
+                "If somewhere in this world there is\n",
+                "someone who understands you,{VAR BE00}\n",
+                "it feels like that person is right beside{VAR BE00}\n",
+                "you, even if you’re as far apart as the{VAR BE00}\n",
+                "end of the land and the top of the sky.{VAR BE01}\n",
+                "As my lord N and his Pokémon understand\n",
+                "one another, so, too, do you and your{VAR BE00}\n",
+                "Pokémon understand one another.{VAR BE01}\n",
+                "Which is my reason for giving you this...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0006",
+            "en_US": [
+                "Giallo: The legend of Unova is about\n",
+                "Pokémon and people working together{VAR BE00}\n",
+                "to build a new world!{VAR BE01}\n",
+                "The message is that simple\n",
+                "and that strong.{VAR BE01}\n",
+                "If changing the world makes you a hero,\n",
+                "anyone can become a hero.{VAR BE01}\n",
+                "As each of us changes what is\n",
+                "in our power to change, so the world{VAR BE00}\n",
+                "itself changes.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0007",
+            "en_US": [
+                "Looker: Regarding Team Plasma...{VAR BE01}\n",
+                "I am an officer of the International\n",
+                "Police, and you must supply the{VAR BE00}\n",
+                "information I request!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0008",
+            "en_US": [
+                "Giallo: Indeed, I shall.{VAR BE01}\n",
+                "Team Plasma changed me, but it could not\n",
+                "change the world. I'm looking forward to{VAR BE00}\n",
+                "seeing how you lot will do.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0009",
+            "en_US": [
+                "Looker: I beg you will accept my thanks!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding,\n",
+                "there yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "What do they think of?\n",
+                "What do they hope for?{VAR BE01}\n",
+                "I am intensely interested to know this.\n",
+                "To depart at once!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0010",
+            "en_US": [
+                "Looker: I thank you extremely!{VAR BE01}\n",
+                "Curiously, {VAR 0100 0000}...\n",
+                "There is a topic on which we must speak.{VAR BE01}\n",
+                "A report has reached my ears of someone\n",
+                "far from here. Indeed, this someone has{VAR BE00}\n",
+                "spotted a person like N and a...{VAR BE00}\n",
+                "dragon Pokémon.{VAR BE01}\n",
+                "I depart to substantiate the substance\n",
+                "of this information.{VAR BE00}\n",
+                "Until next time, I say cheers to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_406_0011",
+            "en_US": "Route 14",
+            "flags": 207
+        },
+        {
+            "id": "a003_406_0012",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "The maximum number of Boxes is now 24!{VAR BE01}\n",
+                "In other words, you can store\n",
+                "720 Pokémon!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_406_0013",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Change your type on the Trainer Card\n",
+                "to change how other players see you.{VAR BE01}\n",
+                "You'll look different to others in the\n",
+                "Union Room and the Tag Log!{VAR BE01}\n",
+                "Match it with your introduction or\n",
+                "character to show your individuality!"
+            ],
+            "flags": 207
+        }
+    ]
+}

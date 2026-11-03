@@ -1,0 +1,15 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_383_0000",
+            "en_US": [
+                "This mountain of cardboard...{VAR BE01}\n",
+                "They're all full of electronics we can't\n",
+                "sell anymore.{VAR BE01}\n",
+                "They're just going to waste. I wonder if\n",
+                "someone could put them to good use?"
+            ]
+        }
+    ]
+}

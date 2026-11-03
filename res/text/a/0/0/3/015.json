@@ -1,0 +1,438 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_015_0000",
+            "en_US": [
+                "So like I said, I'm Fennel, and as you can\n",
+                "see, I'm a scientist.{VAR BE01}\n",
+                "In fact, the subject I'm researching\n",
+                "is Trainers!{VAR BE01}\n",
+                "Professor Juniper is my friend\n",
+                "from college.{VAR BE01}\n",
+                "She asked me to help you guys.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0001",
+            "en_US": [
+                "So!{VAR BE01}\n",
+                "I'll give you something to help you.\n",
+                "This is a Hidden Machine for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0005",
+            "en_US": [
+                "There are some moves that a Pokémon can\n",
+                "use even when it is not fighting!{VAR BE01}\n",
+                "With this Hidden Machine, you can teach\n",
+                "your Pokémon a move called Cut.{VAR BE00}\n",
+                "It can cut down a small tree.{VAR BE01}\n",
+                "And you can use the Hidden Machine as\n",
+                "many times as you want, like a TM.{VAR BE00}\n",
+                "Isn't that great?{VAR BE01}\n",
+                "But it's difficult to make a Pokémon\n",
+                "forget a hidden move once it learns it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0006",
+            "en_US": [
+                "And I'd like to ask you a favor, too!{VAR BE01}\n",
+                "There is a place called the Dreamyard\n",
+                "on the outskirts of Striaton City.{VAR BE01}\n",
+                "I'd like some of the Dream Mist that a\n",
+                "Pokémon there called Munna gives off.{VAR BE01}\n",
+                "With that, I'll be able to use\n",
+                "{VAR FF00 0002}Game Sync {VAR FF00 0000}to collect save files of{VAR BE00}\n",
+                "various Trainers!"
+            ]
+        },
+        {
+            "id": "a003_015_0007",
+            "en_US": [
+                "Fennel: Did Juniper ask you to complete\n",
+                "the Pokédex?{VAR BE01}\n",
+                "It is a challenge to update the Pokédex\n",
+                "regularly, isn't it?{VAR BE01}\n",
+                "Oops! I got distracted! Please bring me\n",
+                "some of the Dream Mist that Munna{VAR BE00}\n",
+                "gives off in the Dreamyard!"
+            ]
+        },
+        {
+            "id": "a003_015_0008",
+            "en_US": [
+                "Fennel: Ta-da!{VAR BE01}\n",
+                "Thanks to you, I got some Dream Mist,\n",
+                "and now I can collect save files of{VAR BE00}\n",
+                "various Trainers!{VAR BE00}\n",
+                "Thank you very much!{VAR BE01}\n",
+                "As a token of my appreciation,\n",
+                "I will give you this C-Gear to use!{VAR BE01}\n",
+                "The C-Gear is a device related to\n",
+                "communications, such as{VAR BE00}\n",
+                "Infrared Connection or{VAR BE00}\n",
+                "Nintendo Wi-Fi Connection.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0009",
+            "en_US": "{VAR 0100 0000} obtained the {VAR FF00 0002}C-Gear{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_015_0010",
+            "en_US": [
+                "Turn on the C-Gear and\n",
+                "establish communications?"
+            ]
+        },
+        {
+            "id": "a003_015_0011",
+            "en_US": "Yes",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0012",
+            "en_US": "No",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0013",
+            "en_US": [
+                "Some functions of the C-Gear\n",
+                "will be restricted. Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_015_0014",
+            "en_US": [
+                "Wireless communications\n",
+                "are turned OFF.{VAR BE01}\n",
+                "Turn wireless communications\n",
+                "ON in the System Settings.{VAR BE00}\n",
+                "Error code: 50699{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0015",
+            "en_US": [
+                "You see! The C-Gear was activated, and\n",
+                "that screen showed up!{VAR BE01}\n",
+                "If you touch the “?\" icon at the\n",
+                "bottom-right of the screen, you can read{VAR BE00}\n",
+                "about the C-Gear.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0016",
+            "en_US": [
+                "If you want to turn on the C-Gear, touch\n",
+                "the Power symbol at the bottom right of{VAR BE00}\n",
+                "the screen.{VAR BE01}\n",
+                "Then, after turning on the power, if you\n",
+                "touch the “?\" icon at the bottom right{VAR BE00}\n",
+                "of the screen, you can read about{VAR BE00}\n",
+                "the C-Gear.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0017",
+            "en_US": [
+                "About {VAR FF00 0002}Game Sync{VAR FF00 0000}...{VAR BE01}\n",
+                "I'd like to explain a little more about the\n",
+                "system to collect Trainers' save files.{VAR BE01}\n",
+                "Do you have time to learn more?"
+            ]
+        },
+        {
+            "id": "a003_015_0018",
+            "en_US": [
+                "I am sorry!\n",
+                "I am so happy, so I will explain about it!{VAR BE01}\n",
+                "Because, thanks to you, we can do a\n",
+                "great thing!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0019",
+            "en_US": [
+                "Now {VAR FF00 0002}Game Sync {VAR FF00 0000}can retrieve memories\n",
+                "of sleeping Pokémon using Dream Mist!{VAR BE01}\n",
+                "That's right! We can collect save files of\n",
+                "Trainers from all over the world!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0020",
+            "en_US": [
+                "What's more, we learned that if you use\n",
+                "{VAR FF00 0002}Game Sync{VAR FF00 0000} to make a Pokémon sleep,{VAR BE00}\n",
+                "it will have dreams.{VAR BE01}\n",
+                "Then, when you wake up that Pokémon,\n",
+                "its dream becomes the reality in a{VAR BE00}\n",
+                "space called {VAR FF00 0001}Entralink {VAR FF00 0000}in the middle of{VAR BE00}\n",
+                "the Unova region.{VAR BE01}\n",
+                "Isn't Game Sync interesting?\n",
+                "If you like, please send your save file.{VAR BE01}\n",
+                "I've summed up the details in the PC, so\n",
+                "please check it if you get a chance!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0021",
+            "en_US": [
+                "Fennel: {VAR FF00 0002}Game Sync{VAR FF00 0000} is fascinating, I think.\n",
+                "Do you think so, too?{VAR BE01}\n",
+                "If you get interested, please send your\n",
+                "save file.{VAR BE01}\n",
+                "I've summed up the details in the PC\n",
+                "at the back.{VAR BE00}\n",
+                "So, please check it, if you'd like!"
+            ]
+        },
+        {
+            "id": "a003_015_0022",
+            "en_US": [
+                "Fennel: Oh, thank you! {VAR BE01}\n",
+                "You also sent your save file. I saw it\n",
+                "while I was researching Trainers!{VAR BE01}\n",
+                "Isn't {VAR FF00 0002}Game Sync{VAR FF00 0000} great?"
+            ]
+        },
+        {
+            "id": "a003_015_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0025",
+            "en_US": [
+                "Are you a Trainer?{VAR BE01}\n",
+                "Do you use the PC at Pokémon Centers?{VAR BE01}\n",
+                "I am Amanita. I maintain the Box system.\n",
+                "Do you know about the Battle Box?"
+            ]
+        },
+        {
+            "id": "a003_015_0026",
+            "en_US": [
+                "Amanita: Impressive!{VAR BE01}\n",
+                "If there's a Pokémon you often use in\n",
+                "your battles, you can register it in the{VAR BE00}\n",
+                "Battle Box!"
+            ]
+        },
+        {
+            "id": "a003_015_0027",
+            "en_US": [
+                "Amanita: Let me give you a quick how-to!{VAR BE01}\n",
+                "If there's a Pokémon you often use in\n",
+                "your battles, you can register it in the{VAR BE00}\n",
+                "Battle Box!"
+            ]
+        },
+        {
+            "id": "a003_015_0028",
+            "en_US": [
+                "Amanita: Please do use the Battle Box.{VAR BE01}\n",
+                "You can register Pokémon in the PC\n",
+                "over there, too!"
+            ]
+        },
+        {
+            "id": "a003_015_0029",
+            "en_US": [
+                "Amanita: Oh, Trainer! Thank you very\n",
+                "much for helping Fennel!{VAR BE01}\n",
+                "This is from me. Please take it.\n",
+                "Don't be shy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0030",
+            "en_US": [
+                "You can register your friends in your\n",
+                "Pal Pad.{VAR BE01}\n",
+                "After you register, you can link with\n",
+                "those friends over Nintendo Wi-Fi{VAR BE00}\n",
+                "Connection to do all kinds of fun things!{VAR BE01}\n",
+                "You can trade Pokémon, challenge\n",
+                "your friends to a battle, and so on.{VAR BE01}\n",
+                "Let me give you a quick how-to on\n",
+                "registering your friends.{VAR BE01}\n",
+                "You can either input your friend's code\n",
+                "directly by using your Pal Pad...{VAR BE01}\n",
+                "Or you can use the IR Connection\n",
+                "feature of the C-Gear.{VAR BE01}\n",
+                "Then, you can register your friend!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0031",
+            "en_US": [
+                "Amanita: Is there something you'd like\n",
+                "to ask me?"
+            ]
+        },
+        {
+            "id": "a003_015_0032",
+            "en_US": [
+                "In the Battle Box, you can register up\n",
+                "to six Pokémon that you often use{VAR BE00}\n",
+                "in battles.{VAR BE01}\n",
+                "When you battle using Infrared\n",
+                "Connection, you can choose to battle{VAR BE00}\n",
+                "with either your party Pokémon or with{VAR BE00}\n",
+                "the Pokémon in the Battle Box!"
+            ]
+        },
+        {
+            "id": "a003_015_0033",
+            "en_US": [
+                "In order to register your friend\n",
+                "in your Pal Pad...{VAR BE01}\n",
+                "You can either input your friend's code\n",
+                "directly by using your Pal Pad...{VAR BE01}\n",
+                "Or you can use the IR Connection\n",
+                "feature of the C-Gear.{VAR BE01}\n",
+                "Then, you can register your friend!"
+            ]
+        },
+        {
+            "id": "a003_015_0034",
+            "en_US": [
+                "Catch a lot of Pokémon,\n",
+                "and use the Box a lot!"
+            ]
+        },
+        {
+            "id": "a003_015_0035",
+            "en_US": "Battle Box",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0036",
+            "en_US": "Pal Pad",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0037",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0038",
+            "en_US": [
+                "Trainer! Do you use the PC in a\n",
+                "Pokémon Center?{VAR BE01}\n",
+                "I am the one who maintains the\n",
+                "Box system.{VAR BE01}\n",
+                "Do you know about the Battle Box?"
+            ]
+        },
+        {
+            "id": "a003_015_0039",
+            "en_US": [
+                "C-Gear Help{VAR BE01}\n",
+                "If you have trouble using it, touch the\n",
+                "“?\" icon on the screen!"
+            ]
+        },
+        {
+            "id": "a003_015_0040",
+            "en_US": [
+                "What is the Pokémon Storage System?{VAR BE01}\n",
+                "The person who developed the\n",
+                "Pokémon Storage System for the PC{VAR BE00}\n",
+                "connection is Bill in the Kanto region."
+            ]
+        },
+        {
+            "id": "a003_015_0041",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_015_0042",
+            "en_US": [
+                "The monitor of the PC does not\n",
+                "show anything..."
+            ]
+        },
+        {
+            "id": "a003_015_0043",
+            "en_US": "Fennel's Memo{VAR BE01}"
+        },
+        {
+            "id": "a003_015_0044",
+            "en_US": "Read which topic?"
+        },
+        {
+            "id": "a003_015_0045",
+            "en_US": "Game Sync",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0046",
+            "en_US": "Pokémon Dreams",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0047",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_015_0048",
+            "en_US": [
+                "Game Sync is a system to collect save\n",
+                "files from Trainers all over the world{VAR BE00}\n",
+                "through Nintendo Wi-Fi Connection{VAR BE00}\n",
+                "by making Pokémon sleep and retrieving{VAR BE00}\n",
+                "their dreams.{VAR BE01}\n",
+                "Touch the Online button on the C-Gear\n",
+                "screen, and a button called{VAR BE00}\n",
+                "{VAR FF00 0001}Game Sync {VAR FF00 0000}appears.{VAR BE01}\n",
+                "Choose a Pokémon to send to sleep, then\n",
+                "you can send your save file through{VAR BE00}\n",
+                "Nintendo Wi-Fi Connection.{VAR BE01}\n",
+                "You should be able to make more Pokémon\n",
+                "sleep as a result of the research.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_015_0049",
+            "en_US": [
+                "Pokémon Dreams...{VAR BE01}\n",
+                "If you use Game Sync to make a\n",
+                "Pokémon sleep, it will have dreams.{VAR BE01}\n",
+                "When you wake up the Pokémon with\n",
+                "Game Sync, its dream becomes{VAR BE00}\n",
+                "the reality in a space called {VAR FF00 0001}Entralink{VAR BE00}\n",
+                "{VAR FF00 0000}in the middle of the Unova region...{VAR BE01}"
+            ]
+        }
+    ]
+}

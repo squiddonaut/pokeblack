@@ -1,0 +1,254 @@
+{
+    "flags": 240,
+    "pad": "b0b0",
+    "messages": [
+        {
+            "id": "a002_010_0000",
+            "en_US": "{VAR 0102 0000} is selected."
+        },
+        {
+            "id": "a002_010_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0002",
+            "en_US": "Release this Pokémon?"
+        },
+        {
+            "id": "a002_010_0003",
+            "en_US": "{VAR 0102 0000} was released."
+        },
+        {
+            "id": "a002_010_0004",
+            "en_US": "Bye-bye, {VAR 0102 0000}!"
+        },
+        {
+            "id": "a002_010_0005",
+            "en_US": "Your party's full!"
+        },
+        {
+            "id": "a002_010_0006",
+            "en_US": "That's your last Pokémon!"
+        },
+        {
+            "id": "a002_010_0007",
+            "en_US": "What do you want to do?"
+        },
+        {
+            "id": "a002_010_0008",
+            "en_US": "Jump to which Box?",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0009",
+            "en_US": "Please pick a theme."
+        },
+        {
+            "id": "a002_010_0010",
+            "en_US": "Pick the wallpaper."
+        },
+        {
+            "id": "a002_010_0011",
+            "en_US": "Continue Box operations?"
+        },
+        {
+            "id": "a002_010_0012",
+            "en_US": "The Box is full."
+        },
+        {
+            "id": "a002_010_0013",
+            "en_US": "The Bag is full."
+        },
+        {
+            "id": "a002_010_0014",
+            "en_US": "Took the {VAR 0109 0000}."
+        },
+        {
+            "id": "a002_010_0015",
+            "en_US": "{VAR 0109 0000} is now being held."
+        },
+        {
+            "id": "a002_010_0016",
+            "en_US": "Which one will you take?"
+        },
+        {
+            "id": "a002_010_0017",
+            "en_US": "Place it in which Box?",
+            "flags": 152
+        },
+        {
+            "id": "a002_010_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0021",
+            "en_US": "Take this {VAR 0109 0000}?"
+        },
+        {
+            "id": "a002_010_0022",
+            "en_US": "Mail can't be taken away."
+        },
+        {
+            "id": "a002_010_0023",
+            "en_US": "{VAR 0109 0000} is selected."
+        },
+        {
+            "id": "a002_010_0024",
+            "en_US": "Put away {VAR 0109 0000}?"
+        },
+        {
+            "id": "a002_010_0025",
+            "en_US": "Placed {VAR 0109 0000} in the Bag."
+        },
+        {
+            "id": "a002_010_0026",
+            "en_US": "It can hold an item."
+        },
+        {
+            "id": "a002_010_0027",
+            "en_US": "Please remove the Mail."
+        },
+        {
+            "id": "a002_010_0028",
+            "en_US": "You can't release an Egg."
+        },
+        {
+            "id": "a002_010_0029",
+            "en_US": "{VAR 0102 0000} came back!"
+        },
+        {
+            "id": "a002_010_0030",
+            "en_US": "Was it worried about you?"
+        },
+        {
+            "id": "a002_010_0031",
+            "en_US": "An Egg can't hold an item."
+        },
+        {
+            "id": "a002_010_0032",
+            "en_US": "Touch the Mark!"
+        },
+        {
+            "id": "a002_010_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0035",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_010_0037",
+            "en_US": "DEPOSIT POKÉMON",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0038",
+            "en_US": "WITHDRAW POKÉMON",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0039",
+            "en_US": "MOVE POKÉMON",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0040",
+            "en_US": "MOVE ITEMS",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0041",
+            "en_US": "BATTLE BOX",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0042",
+            "en_US": "SELECT A SLEEPY POKÉMON",
+            "flags": 144
+        },
+        {
+            "id": "a002_010_0043",
+            "en_US": "Mail cannot be moved!"
+        },
+        {
+            "id": "a002_010_0044",
+            "en_US": "It cannot hold {VAR 0109 0000}!"
+        },
+        {
+            "id": "a002_010_0045",
+            "en_US": "It has Mail!"
+        },
+        {
+            "id": "a002_010_0046",
+            "en_US": "You're out of Pokémon that can fight!"
+        },
+        {
+            "id": "a002_010_0047",
+            "en_US": "Mail cannot be moved!"
+        },
+        {
+            "id": "a002_010_0048",
+            "en_US": "It cannot hold Mail here."
+        },
+        {
+            "id": "a002_010_0049",
+            "en_US": "Eggs cannot be selected!"
+        },
+        {
+            "id": "a002_010_0050",
+            "en_US": [
+                "{VAR 0102 0000} will be tucked in.\n",
+                "OK?"
+            ]
+        },
+        {
+            "id": "a002_010_0051",
+            "en_US": [
+                "This Pokémon doesn't seem\n",
+                "sleepy now."
+            ]
+        },
+        {
+            "id": "a002_010_0052",
+            "en_US": "Select another Pokémon?"
+        },
+        {
+            "id": "a002_010_0053",
+            "en_US": [
+                "Your Battle Box is locked.\n",
+                "You cannot move your Pokémon."
+            ]
+        },
+        {
+            "id": "a002_010_0054",
+            "en_US": [
+                "Your Battle Box is locked.\n",
+                "Items cannot be given or taken."
+            ]
+        }
+    ]
+}

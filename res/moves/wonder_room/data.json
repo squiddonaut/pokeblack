@@ -1,0 +1,30 @@
+{
+    "name": "Wonder Room",
+    "description": [
+        "The user creates a bizarre area in which\n",
+        "Pokémon's Defense and Sp. Def\n",
+        "stats are swapped for five turns."
+    ],
+    "type": "TYPE_PSYCHIC",
+    "category": "MOVE_CATEGORY_ENTIRE_FIELD_EFFECT",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 10,
+    "priority": -7,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 281,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_FIELD",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

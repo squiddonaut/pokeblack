@@ -1,0 +1,30 @@
+{
+    "name": "Rock Blast",
+    "description": [
+        "The user hurls hard rocks at the target.\n",
+        "Two to five rocks are launched in quick\n",
+        "succession."
+    ],
+    "type": "TYPE_ROCK",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_PHYSICAL",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "minHits": 2,
+    "maxHits": 5,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 29,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

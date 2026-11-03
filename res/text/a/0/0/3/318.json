@@ -1,0 +1,35 @@
+{
+    "flags": 224,
+    "pad": "2c2c",
+    "messages": [
+        {
+            "id": "a003_318_0000",
+            "en_US": [
+                "Pass Orbs are often found under\n",
+                "signboards of cities or towns!{VAR BE00}\n",
+                "...But where am I?{VAR BE01}\n",
+                "When I passed under a signboard,\n",
+                "everybody disappeared."
+            ]
+        },
+        {
+            "id": "a003_318_0001",
+            "en_US": [
+                "People say Pass Orbs are created by\n",
+                "feelings of gratitude!{VAR BE01}\n",
+                "They say the orbs will pour out if you\n",
+                "help someone!"
+            ]
+        },
+        {
+            "id": "a003_318_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_318_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

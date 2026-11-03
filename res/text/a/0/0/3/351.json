@@ -1,0 +1,155 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_351_0000",
+            "en_US": "The Xtransceiver is ringing."
+        },
+        {
+            "id": "a003_351_0001",
+            "en_US": "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}"
+        },
+        {
+            "id": "a003_351_0002",
+            "en_US": "Mom: {VAR 0100 0000}?{VAR BE01}"
+        },
+        {
+            "id": "a003_351_0003",
+            "en_US": [
+                "I finally caught up with you...\n",
+                "And look how far you've come already!{VAR BE01}\n",
+                "Professor Juniper said that you were\n",
+                "probably headed for Striaton City by now.{VAR BE01}\n",
+                "I have another present for you.\n",
+                "{VAR 0100 0000}! Try these on!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_351_0004",
+            "en_US": [
+                "{VAR 0100 0000} received a pair of\n",
+                "{VAR FF00 0002}Running Shoes{VAR FF00 0000}!"
+            ]
+        },
+        {
+            "id": "a003_351_0005",
+            "en_US": [
+                "When you're wearing the Running Shoes,\n",
+                "you can go anywhere in a flash!{VAR BE01}\n",
+                "Let me read you the instructions...{VAR BE01}\n",
+                "“Hold the B Button to run faster than\n",
+                "normal. Put on the Running Shoes and{VAR BE00}\n",
+                "tear around to your heart's content!\"{VAR BE01}\n",
+                "That's what it says.{VAR BE01}\n",
+                "I bought these a long time ago\n",
+                "and stashed them away somewhere.{VAR BE01}\n",
+                "I found them when I was cleaning up.\n",
+                "Guess it's good to clean occasionally!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_351_0006",
+            "en_US": [
+                "{VAR 0100 0000}, you understand that\n",
+                "you're never really alone, right?{VAR BE01}\n",
+                "You're with Pokémon, you have friends,\n",
+                "and you're always in my thoughts.{VAR BE01}\n",
+                "That's all right, then. Enjoy your trip!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_351_0007",
+            "en_US": "Bianca: Ohhhhh! Hi, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_351_0008",
+            "en_US": "Bianca: {VAR 0100 0000}! C'mon, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_351_0009",
+            "en_US": [
+                "Bianca: Hey, listen!\n",
+                "Let's have a Pokémon battle!{VAR BE01}\n",
+                "Pleeeease? The Pokémon I caught\n",
+                "have become a little stronger!{VAR BE01}\n",
+                "Ready or not, here I come!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_351_0010",
+            "en_US": [
+                "Bianca: Woo-hoo!{VAR BE01}\n",
+                "You are a tough cookie, {VAR 0100 0000}.{VAR BE01}\n",
+                "I'm gonna work hard on training my\n",
+                "Pokémon so we won't lose anymore!{VAR BE00}\n",
+                "OK, bye-bye!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_351_0011",
+            "en_US": [
+                "Hey, you!{VAR BE01}\n",
+                "I'm gonna do something amazing!\n",
+                "Wanna watch?"
+            ]
+        },
+        {
+            "id": "a003_351_0012",
+            "en_US": "OK! Wait one second!{VAR BE01}"
+        },
+        {
+            "id": "a003_351_0013",
+            "en_US": "Wooo!"
+        },
+        {
+            "id": "a003_351_0014",
+            "en_US": [
+                "Hey! Were you watching?{VAR BE01}\n",
+                "You can take a shortcut by\n",
+                "jumping off ledges! Amazing, eh?"
+            ]
+        },
+        {
+            "id": "a003_351_0015",
+            "en_US": "No need to be shy!"
+        },
+        {
+            "id": "a003_351_0016",
+            "en_US": [
+                "When your Pokémon don't have\n",
+                "enough energy to fight...{VAR BE00}\n",
+                "Just walk on the road!{VAR BE01}\n",
+                "Pokémon only appear in the tall grass!"
+            ]
+        },
+        {
+            "id": "a003_351_0017",
+            "en_US": [
+                "Battles between Pokémon Trainers\n",
+                "are serious affairs you can't run from!"
+            ]
+        },
+        {
+            "id": "a003_351_0018",
+            "en_US": "Route 2",
+            "flags": 207
+        },
+        {
+            "id": "a003_351_0019",
+            "en_US": "Route 2",
+            "flags": 207
+        },
+        {
+            "id": "a003_351_0020",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Pokémon that participate in battle\n",
+                "receive Exp. Points.{VAR BE01}\n",
+                "Have your Pokémon battle often,\n",
+                "and make them stronger and stronger!"
+            ],
+            "flags": 207
+        }
+    ]
+}

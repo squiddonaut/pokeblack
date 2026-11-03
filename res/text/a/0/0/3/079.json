@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_079_0000",
+            "en_US": "It's a subway map of the Unova region.{VAR BE01}"
+        },
+        {
+            "id": "a003_079_0001",
+            "en_US": [
+                "This is the platform for the train to\n",
+                "Anville Town."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "flags": 205,
+    "pad": "7272",
+    "messages": [
+        {
+            "id": "a002_096_0000",
+            "en_US": [
+                "Please!\n",
+                "{VAR 011C 0000}"
+            ]
+        },
+        {
+            "id": "a002_096_0001",
+            "en_US": "Go! {VAR 011C 0000}!"
+        },
+        {
+            "id": "a002_096_0002",
+            "en_US": [
+                "I'll battle with\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_096_0003",
+            "en_US": [
+                "{VAR 011C 0000} is\n",
+                "{VAR 011C 0001}, right?"
+            ]
+        },
+        {
+            "id": "a002_096_0004",
+            "en_US": [
+                "{VAR 011C 0000}, I'm going\n",
+                "with {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_096_0005",
+            "en_US": "In comes {VAR 011C 0000}."
+        },
+        {
+            "id": "a002_096_0006",
+            "en_US": [
+                "Watch my {VAR 011C 0000} power\n",
+                "take care of {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_096_0007",
+            "en_US": [
+                "Now {VAR 011C 0000}\n",
+                "begins!"
+            ]
+        },
+        {
+            "id": "a002_096_0008",
+            "en_US": [
+                "I'll show you my\n",
+                "{VAR 011C 0000} strategy!"
+            ]
+        },
+        {
+            "id": "a002_096_0009",
+            "en_US": [
+                "I'll shock you with\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_096_0010",
+            "en_US": [
+                "{VAR 011C 0000}, I see...\n",
+                "Go, {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_096_0011",
+            "en_US": [
+                "Ta-da!\n",
+                "Here comes {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_096_0012",
+            "en_US": [
+                "I don't think I'll\n",
+                "ever lose to {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_096_0013",
+            "en_US": [
+                "{VAR 011C 0000}!\n",
+                "{VAR 011C 0001} is here!"
+            ]
+        },
+        {
+            "id": "a002_096_0014",
+            "en_US": [
+                "Good luck,\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_096_0015",
+            "en_US": [
+                "Behold my {VAR 011C 0000}\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_096_0016",
+            "en_US": [
+                "The power of {VAR 011C 0000}!\n",
+                "Let me show you!"
+            ]
+        },
+        {
+            "id": "a002_096_0017",
+            "en_US": [
+                "You'll choose {VAR 011C 0000} \n",
+                "if I choose {VAR 011C 0001}, right?"
+            ]
+        },
+        {
+            "id": "a002_096_0018",
+            "en_US": [
+                "I beg you, {VAR 011C 0000}.\n",
+                "Please go with {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_096_0019",
+            "en_US": [
+                "May {VAR 011C 0000} safely\n",
+                "land on {VAR 011C 0001}!"
+            ]
+        }
+    ]
+}

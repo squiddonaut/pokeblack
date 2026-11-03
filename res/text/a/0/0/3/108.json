@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "pad": "e0e0",
+    "messages": [
+        {
+            "id": "a003_108_0000",
+            "en_US": [
+                "I work... ♪\n",
+                "in the Cold Storage... ♪{VAR BE01}\n",
+                "Hm? The Cold Storage is in the\n",
+                "southernmost part of the city."
+            ]
+        },
+        {
+            "id": "a003_108_0001",
+            "en_US": [
+                "A terrific Trainer!\n",
+                "Let me share a training tip with you.{VAR BE01}\n",
+                "During a battle with a Trainer, even if\n",
+                "your Pokémon's items are taken away,{VAR BE00}\n",
+                "don't worry.{VAR BE01}\n",
+                "They will be returned to you safely\n",
+                "after the battle.{VAR BE01}\n",
+                "...But disposable items seem\n",
+                "to disappear."
+            ]
+        }
+    ]
+}

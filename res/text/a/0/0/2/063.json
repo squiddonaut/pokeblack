@@ -1,0 +1,1840 @@
+{
+    "flags": 248,
+    "pad": "5252",
+    "messages": [
+        {
+            "id": "a002_063_0000",
+            "en_US": "MAIN MENU",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0001",
+            "en_US": "POKÉMON CENTER INFO",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0002",
+            "en_US": "C-GEAR INFO",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0003",
+            "en_US": "ABOUT “MENU\"",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0004",
+            "en_US": "ABOUT “BATTLE\"",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0005",
+            "en_US": "POKÉMON INFO",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0006",
+            "en_US": "OTHER TOPICS",
+            "flags": 206
+        },
+        {
+            "id": "a002_063_0007",
+            "en_US": "CONTINUE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0008",
+            "en_US": "NEW GAME",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0009",
+            "en_US": "MYSTERY GIFT",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0010",
+            "en_US": "BATTLE COMPETITION",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0011",
+            "en_US": "DIGITAL PLAYER ID",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0012",
+            "en_US": "GAME SYNC SETTINGS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0013",
+            "en_US": "NINTENDO Wi-Fi CONNECTION SETTINGS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0014",
+            "en_US": "MIC TEST",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0015",
+            "en_US": "POKÉMON CENTER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0016",
+            "en_US": "MOVE POKÉMON IN THE PC",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0017",
+            "en_US": "BATTLE BOX",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0018",
+            "en_US": "HOW TO START A LINK TRADE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0019",
+            "en_US": "HOW TO START A LINK BATTLE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0020",
+            "en_US": "SINGLE BATTLE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0021",
+            "en_US": "DOUBLE BATTLE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0022",
+            "en_US": "TRIPLE BATTLE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0023",
+            "en_US": "ROTATION BATTLE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0024",
+            "en_US": "WONDER LAUNCHER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0025",
+            "en_US": "UNION ROOM",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0026",
+            "en_US": "Wi-Fi CLUB",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0027",
+            "en_US": "GLOBAL TERMINAL",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0028",
+            "en_US": "FRIEND CODE",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0029",
+            "en_US": "C-GEAR",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0030",
+            "en_US": "TAG LOG",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0031",
+            "en_US": "WHAT IS A PASSERBY SURVEY?",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0032",
+            "en_US": "ACCEPTING A PASSERBY SURVEY REQUEST",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0033",
+            "en_US": "STARTING A PASSERBY SURVEY",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0034",
+            "en_US": "REPORTING PASSERBY SURVEY RESULTS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0035",
+            "en_US": "INFRARED CONNECTION",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0036",
+            "en_US": "GAME SYNC",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0037",
+            "en_US": "ENTRALINK",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0038",
+            "en_US": "PASS POWER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0039",
+            "en_US": "PASS ORB",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0040",
+            "en_US": "BAG",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0041",
+            "en_US": "TRAINER CARD",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0042",
+            "en_US": "POKÉDEX",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0043",
+            "en_US": "TIPS ON CATCHING POKÉMON",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0044",
+            "en_US": "TYPES AND TYPE MATCHUP",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0045",
+            "en_US": "“PHYSICAL,\" “SPECIAL,\" AND “STATUS\"",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0046",
+            "en_US": "FAINTED",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0047",
+            "en_US": "POISON",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0048",
+            "en_US": "PARALYSIS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0049",
+            "en_US": "SLEEP",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0050",
+            "en_US": "FROZEN",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0051",
+            "en_US": "BURNED",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0052",
+            "en_US": "CONFUSED",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0053",
+            "en_US": "INFATUATION",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0054",
+            "en_US": "EXP. POINTS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0055",
+            "en_US": "EVOLUTION",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0056",
+            "en_US": "“NATURE\" AND “CHARACTERISTIC\"",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0057",
+            "en_US": "POKÉRUS",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0058",
+            "en_US": "RUNNING",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0059",
+            "en_US": "DOWSING MCHN",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0060",
+            "en_US": "XTRANSCEIVER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0061",
+            "en_US": "GYM BADGES",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0062",
+            "en_US": "READY BUTTON",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0063",
+            "en_US": "TRANSFER POKÉMON WITH POKÉ TRANSFER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0064",
+            "en_US": "CATCH POKÉMON WITH POKÉ TRANSFER",
+            "flags": 207
+        },
+        {
+            "id": "a002_063_0065",
+            "en_US": [
+                "When you are playing, press the X Button\n",
+                "to open the menu and save often.\n",
+                "\n",
+                "Once saved, you can select “CONTINUE\"\n",
+                "from the main menu to continue playing\n",
+                "the game from that location even if you've\n",
+                "turned off your Nintendo DS since."
+            ]
+        },
+        {
+            "id": "a002_063_0066",
+            "en_US": [
+                "To delete your saved data and\n",
+                "start a new game, go to the\n",
+                "title screen and press the\n",
+                "following buttons at the same time.\n",
+                "\n",
+                "UP + SELECT + B Button"
+            ]
+        },
+        {
+            "id": "a002_063_0067",
+            "en_US": [
+                "You can receive special gifts at events and\n",
+                "other locations in the following three ways.\n",
+                "\n",
+                "-GET VIA WIRELESS\n",
+                "-GET VIA NINTENDO WFC\n",
+                "-GET VIA INFRARED\n",
+                "\n",
+                "Please note that each event has its own way\n",
+                "of distributing gifts."
+            ]
+        },
+        {
+            "id": "a002_063_0068",
+            "en_US": [
+                "When you receive a Wonder Card\n",
+                "for a special Pokémon or an item,\n",
+                "a deliveryman with a blue cap\n",
+                "will appear in the Pokémon Center.\n",
+                "\n",
+                "Please talk to him to receive\n",
+                "the Pokémon or item."
+            ]
+        },
+        {
+            "id": "a002_063_0069",
+            "en_US": [
+                "You can keep up to 12 Wonder Cards.\n",
+                "\n",
+                "To receive another Wonder Card\n",
+                "when you already have 12, go to\n",
+                "“CHECK THE CARD ALBUM\"\n",
+                "and delete one to make room\n",
+                "for a new Wonder Card."
+            ]
+        },
+        {
+            "id": "a002_063_0070",
+            "en_US": [
+                "You can participate in competitions\n",
+                "using Nintendo Wi-Fi Connection\n",
+                "and at events.\n",
+                "\n",
+                "For details on the Battle Competition,\n",
+                "go to “BATTLE COMPETITION\"\n",
+                "on the main menu and select\n",
+                "“Info.\""
+            ]
+        },
+        {
+            "id": "a002_063_0071",
+            "en_US": [
+                "For more details on Battle Competition,\n",
+                "including Battle Competition rules and\n",
+                "how to register as a user,\n",
+                "visit the following official websites.\n",
+                "\n",
+                "Pokémon Global Link website\n",
+                "The Official Pokémon website"
+            ]
+        },
+        {
+            "id": "a002_063_0072",
+            "en_US": [
+                "Pokémon in your Battle Box\n",
+                "can participate in Battle Competitions.\n",
+                "\n",
+                "Once registered, you cannot change\n",
+                "the Pokémon in your Battle Box\n",
+                "during the competition.\n",
+                "\n",
+                "Please carefully select the right Pokémon\n",
+                "before you start the competition."
+            ]
+        },
+        {
+            "id": "a002_063_0073",
+            "en_US": [
+                "Once you have completed\n",
+                "the registration for Battle Competition,\n",
+                "you will be able to check your\n",
+                "Digital Player ID.\n",
+                "\n",
+                "For more details, please visit\n",
+                "the Pokémon Global Link."
+            ]
+        },
+        {
+            "id": "a002_063_0074",
+            "en_US": [
+                "Before adjusting Game Sync settings,\n",
+                "you must complete your\n",
+                "Nintendo Wi-Fi Connection settings.\n",
+                "\n",
+                "When these settings are done,\n",
+                "adjust the Game Sync settings\n",
+                "to have the Game Sync ID issued.\n",
+                "This is a unique ID assigned to you."
+            ]
+        },
+        {
+            "id": "a002_063_0075",
+            "en_US": [
+                "You must have a Game Sync ID\n",
+                "to register at the\n",
+                "Pokémon Global Link using\n",
+                "a computer with Internet access."
+            ]
+        },
+        {
+            "id": "a002_063_0076",
+            "en_US": [
+                "When you delete a saved game,\n",
+                "your Game Sync ID will also be lost.\n",
+                "\n",
+                "When you change your Game Sync ID,\n",
+                "you must also renew your registration\n",
+                "at the Pokémon Global Link."
+            ]
+        },
+        {
+            "id": "a002_063_0077",
+            "en_US": [
+                "You can set up your DS system\n",
+                "for Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "Once your Nintendo Wi-Fi Connection\n",
+                "settings are complete, you can trade\n",
+                "and battle with people all over the world\n",
+                "through the Internet."
+            ]
+        },
+        {
+            "id": "a002_063_0078",
+            "en_US": [
+                "You need to set up the Nintendo Wi-Fi\n",
+                "Connection settings to connect your game\n",
+                "with the Pokémon Global Link, which allows\n",
+                "Battle Competition, Game Sync settings,\n",
+                "and so on."
+            ]
+        },
+        {
+            "id": "a002_063_0079",
+            "en_US": [
+                "You can check to see\n",
+                "if your DS system's\n",
+                "microphone is functioning.\n",
+                "\n",
+                "The microphone is functioning properly\n",
+                "if Jigglypuff on the top screen\n",
+                "reacts when you talk\n",
+                "or blow into it."
+            ]
+        },
+        {
+            "id": "a002_063_0080",
+            "en_US": [
+                "You can restore your tired Pokémon and buy\n",
+                "useful items. You'll find the PC where you\n",
+                "can keep captured Pokémon.\n",
+                "\n",
+                "You can hear\n",
+                "Professor Juniper's evaluation\n",
+                "of your Pokédex.\n",
+                "\n",
+                "Visit 2F for Link Trade and Link Battle."
+            ]
+        },
+        {
+            "id": "a002_063_0081",
+            "en_US": [
+                "You can use the PC to store and organize\n",
+                "Pokémon.\n",
+                "\n",
+                "When you have six Pokémon in your party,\n",
+                "any Pokémon you catch will be sent to the PC."
+            ]
+        },
+        {
+            "id": "a002_063_0082",
+            "en_US": [
+                "You can register up to six Pokémon\n",
+                "you use most often in battles.\n",
+                "\n",
+                "For a Link Battle, you can choose to battle\n",
+                "with either your party Pokémon or with\n",
+                "the Pokémon in the Battle Box.\n",
+                "\n",
+                "If your Battle Box is empty,\n",
+                "you always battle with your party Pokémon."
+            ]
+        },
+        {
+            "id": "a002_063_0083",
+            "en_US": [
+                "There are four ways to offer a Link Trade.\n",
+                "\n",
+                "-Through an IR Connection\n",
+                "-Through the Union Room\n",
+                "-Through the Wi-Fi Club\n",
+                "-Through the Global Terminal"
+            ]
+        },
+        {
+            "id": "a002_063_0084",
+            "en_US": [
+                "-Through an IR Connection\n",
+                "\n",
+                "If your friends are nearby, IR Connection is\n",
+                "a quick way to trade.\n",
+                "\n",
+                "Select IR from your C-Gear and select Trade."
+            ]
+        },
+        {
+            "id": "a002_063_0085",
+            "en_US": [
+                "-Through the Union Room\n",
+                "\n",
+                "When you are playing with lots of friends,\n",
+                "you can use the Union Room for trades.\n",
+                "\n",
+                "The Union Room is in Pokémon Center 2F."
+            ]
+        },
+        {
+            "id": "a002_063_0086",
+            "en_US": [
+                "-Through the Wi-Fi Club\n",
+                "\n",
+                "When your friends are far away,\n",
+                "you can trade through the Wi-Fi Club.\n",
+                "\n",
+                "You must have exchanged your Friend Codes\n",
+                "ahead of time to use the Wi-Fi Club."
+            ]
+        },
+        {
+            "id": "a002_063_0087",
+            "en_US": [
+                "-Through the Global Terminal\n",
+                "\n",
+                "Using the Global Terminal, you can trade\n",
+                "Pokémon with people all over the world.\n",
+                "\n",
+                "When the trade conditions are met,\n",
+                "your Pokémon are traded automatically."
+            ]
+        },
+        {
+            "id": "a002_063_0088",
+            "en_US": [
+                "There are four ways to offer a Link Battle.\n",
+                "\n",
+                "-Through an IR Connection\n",
+                "-Through the Union Room\n",
+                "-Through the Wi-Fi Club\n",
+                "-Through the Global Terminal"
+            ]
+        },
+        {
+            "id": "a002_063_0089",
+            "en_US": [
+                "-Through an IR Connection\n",
+                "If your friends are nearby, an IR Connection\n",
+                "is a quick way to battle.\n",
+                "\n",
+                "Select IR from your C-Gear and select Battle\n",
+                "for a Level 50 Flat Battle with the\n",
+                "Wonder Launcher."
+            ]
+        },
+        {
+            "id": "a002_063_0090",
+            "en_US": [
+                "-Through the Union Room\n",
+                "\n",
+                "When you are playing with lots of friends,\n",
+                "you can go to the Union Room for battles.\n",
+                "\n",
+                "The Union Room is located in Pokémon\n",
+                "Center 2F."
+            ]
+        },
+        {
+            "id": "a002_063_0091",
+            "en_US": [
+                "-Through the Wi-Fi Club\n",
+                "\n",
+                "When your friends are far away, you can\n",
+                "battle using the Wi-Fi Club.\n",
+                "\n",
+                "You must have exchanged your Friend Codes\n",
+                "ahead of time to use the Wi-Fi Club."
+            ]
+        },
+        {
+            "id": "a002_063_0092",
+            "en_US": [
+                "-Through the Global Terminal\n",
+                "Using the Global Terminal, you can battle with\n",
+                "people all over the world using various rules\n",
+                "to hone your skills.\n",
+                "\n",
+                "The Global Terminal is located in Pokémon\n",
+                "Center 2F."
+            ]
+        },
+        {
+            "id": "a002_063_0093",
+            "en_US": [
+                "A battle where each Trainer chooses one\n",
+                "Pokémon to fight is called Single Battle.\n",
+                "\n",
+                "Including Single Battle, there are four kinds\n",
+                "of battles.\n",
+                "\n",
+                "You can always press the A Button\n",
+                "while holding down the L Button to\n",
+                "read move information when choosing a move."
+            ]
+        },
+        {
+            "id": "a002_063_0094",
+            "en_US": [
+                "Having a battle with two Pokémon from each\n",
+                "Trainer is called Double Battle."
+            ]
+        },
+        {
+            "id": "a002_063_0095",
+            "en_US": [
+                "A battle with three Pokémon from each\n",
+                "Trainer is called Triple Battle.\n",
+                "\n",
+                "In a Triple Battle challenge, Pokémon cannot\n",
+                "attack others if they are too far away.\n",
+                "\n",
+                "The one in the middle position can attack\n",
+                "any of the other Trainer's Pokémon."
+            ]
+        },
+        {
+            "id": "a002_063_0096",
+            "en_US": [
+                "Some moves can reach Pokémon\n",
+                "even when they are far away.\n",
+                "\n",
+                "You can switch Pokémon locations\n",
+                "during battle.\n",
+                "\n",
+                "You can select “SHIFT\" while selecting\n",
+                "a move and the right or left Pokémon will\n",
+                "switch places with the middle Pokémon."
+            ]
+        },
+        {
+            "id": "a002_063_0097",
+            "en_US": [
+                "Rotation Battle is a new and evolved\n",
+                "style of Single Battle.\n",
+                "\n",
+                "You'll need three of your Pokémon\n",
+                "for Rotation Battle.\n",
+                "\n",
+                "Only one Pokémon can act every turn,\n",
+                "but you choose which one takes action."
+            ]
+        },
+        {
+            "id": "a002_063_0098",
+            "en_US": [
+                "If you want to move a Pokémon to the front,\n",
+                "select the Rotation icon while selecting\n",
+                "a move.\n",
+                "\n",
+                "The Pokémon will rotate to the front and\n",
+                "will use its selected move in the same turn."
+            ]
+        },
+        {
+            "id": "a002_063_0099",
+            "en_US": [
+                "When you select Wonder Launcher “ON,\"\n",
+                "you and the other Trainer can use items\n",
+                "during a Link Battle.\n",
+                "\n",
+                "Each item has points needed to launch.\n",
+                "You'll gain points in battle.\n",
+                "\n",
+                "You choose whether to use items immediately\n",
+                "or collect points for powerful items."
+            ]
+        },
+        {
+            "id": "a002_063_0100",
+            "en_US": [
+                "In the Union Room, you can trade and\n",
+                "battle with people nearby.\n",
+                "\n",
+                "Go to Pokémon Center 2F and enter\n",
+                "the room to your left. Press the A Button\n",
+                "to talk to anyone there.\n",
+                "\n",
+                "For more information, talk to the lady\n",
+                "at the far left in the Union Room."
+            ]
+        },
+        {
+            "id": "a002_063_0101",
+            "en_US": [
+                "At the Wi-Fi Club in Pokémon Center 2F,\n",
+                "you can make Link Trades, fight Link Battles,\n",
+                "and use Voice Chat or the Xtransceiver with\n",
+                "people you've registered on your Pal Pad.\n",
+                "\n",
+                "Refer to the “FRIEND CODE\" section\n",
+                "of this guide to learn how to register\n",
+                "your friends."
+            ]
+        },
+        {
+            "id": "a002_063_0102",
+            "en_US": [
+                "Once in the room, press the A Button\n",
+                "near the friend you want to link to.\n",
+                "\n",
+                "Your friends who have decided what to do\n",
+                "will be jumping up and down while waiting.\n",
+                "\n",
+                "When you've decided what you want to do,\n",
+                "press the A Button near the monitor\n",
+                "at the far end of the room."
+            ]
+        },
+        {
+            "id": "a002_063_0103",
+            "en_US": [
+                "You can talk to your friends with Voice Chat.\n",
+                "It works like a telephone.\n",
+                "\n",
+                "Press the X Button in the room to indicate\n",
+                "whether you want to use Voice Chat or not."
+            ]
+        },
+        {
+            "id": "a002_063_0104",
+            "en_US": [
+                "At the Global Terminal, you can set up\n",
+                "Link Trades and you can Link Battle with\n",
+                "people all around the world.\n",
+                "\n",
+                "Go to the right counter in Pokémon Center 2F."
+            ]
+        },
+        {
+            "id": "a002_063_0105",
+            "en_US": [
+                "This personal number is issued when you\n",
+                "establish a Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "If you exchange Friend Codes, you can battle\n",
+                "and trade with friends far away.\n",
+                "\n",
+                "Please check the Pal Pad in the Key Items\n",
+                "in your Bag for your own Friend Code."
+            ]
+        },
+        {
+            "id": "a002_063_0106",
+            "en_US": [
+                "You can register a Friend Code in two\n",
+                "different ways.\n",
+                "\n",
+                "- Use the Pal Pad in the Key Items in your\n",
+                "   Bag to enter your friend's Friend Code\n",
+                "- Use an Infrared Connection from your\n",
+                "   C-Gear"
+            ]
+        },
+        {
+            "id": "a002_063_0107",
+            "en_US": [
+                "C-Gear is a multi-functional device that lets\n",
+                "you use the Entralink, the Xtransceiver, and\n",
+                "Game Sync.\n",
+                "\n",
+                "Your C-Gear can also help you Link Trade\n",
+                "and Link Battle with people nearby.\n",
+                "\n",
+                "Tap the power icon in the bottom-right corner\n",
+                "of your C-Gear to turn it on or off."
+            ]
+        },
+        {
+            "id": "a002_063_0108",
+            "en_US": [
+                "When your C-Gear is turned on, your\n",
+                "DS system's wireless communications\n",
+                "are always on.\n",
+                "\n",
+                "Turn your C-Gear off in places where\n",
+                "wireless communications are prohibited,\n",
+                "such as airplanes and hospitals."
+            ]
+        },
+        {
+            "id": "a002_063_0109",
+            "en_US": [
+                "Tap the wrench icon in the bottom-right\n",
+                "corner of the C-Gear to customize it.\n",
+                "\n",
+                "Try tapping on the colorful frames\n",
+                "after you've tapped the wrench icon.\n",
+                "You can customize them to your liking.\n",
+                "\n",
+                "Tap the ? icon for help with your C-Gear."
+            ]
+        },
+        {
+            "id": "a002_063_0110",
+            "en_US": [
+                "The long icon at the bottom of your C-Gear\n",
+                "is for the Tag Log. Tap it to see people\n",
+                "who are using their C-Gear around you.\n",
+                "\n",
+                "You can see their profiles, tell what they\n",
+                "are doing, and exchange messages.\n",
+                "\n",
+                "Others can see what you are doing, as well."
+            ]
+        },
+        {
+            "id": "a002_063_0111",
+            "en_US": [
+                "When you see other players who have their\n",
+                "C-Gear on, you can select them to see their\n",
+                "play time, location in the game, and more."
+            ]
+        },
+        {
+            "id": "a002_063_0112",
+            "en_US": [
+                "Tap the triangle icon in the Tag Log to use\n",
+                "a Pass Power received from your Entree.\n",
+                "\n",
+                "To receive a Pass Power, complete missions\n",
+                "at someone else's Entree and then check\n",
+                "your own Entree."
+            ]
+        },
+        {
+            "id": "a002_063_0113",
+            "en_US": [
+                "Tap the speech-bubble icon to send messages\n",
+                "to another player with his or her C-Gear\n",
+                "turned on.\n",
+                "\n",
+                "Never send offensive messages or messages\n",
+                "that contain personal information such as\n",
+                "names and telephone numbers."
+            ]
+        },
+        {
+            "id": "a002_063_0114",
+            "en_US": [
+                "Tap the smile icon and you can send\n",
+                "a thank-you message.\n",
+                "\n",
+                "Tap the icon and then select whom to thank."
+            ]
+        },
+        {
+            "id": "a002_063_0115",
+            "en_US": [
+                "A Passerby Survey can tell you\n",
+                "how many people around you\n",
+                "like certain hobbies, for example."
+            ]
+        },
+        {
+            "id": "a002_063_0116",
+            "en_US": [
+                "You can accept Passerby Survey requests\n",
+                "at the Passerby Analytics HQ in Castelia City."
+            ]
+        },
+        {
+            "id": "a002_063_0117",
+            "en_US": [
+                "When the leader asks you to take a survey,\n",
+                "tap the pie-chart icon in the bottom-left\n",
+                "corner of your C-Gear to decide which survey\n",
+                "to run.\n",
+                "\n",
+                "The survey you are running will be marked\n",
+                "in your list."
+            ]
+        },
+        {
+            "id": "a002_063_0118",
+            "en_US": [
+                "Once you've decided which survey to run,\n",
+                "just turn your C-Gear on.\n",
+                "\n",
+                "The survey will take place automatically\n",
+                "as people pass by you.\n",
+                "\n",
+                "The survey will continue even when your\n",
+                "DS system is closed or when you are playing\n",
+                "the game."
+            ]
+        },
+        {
+            "id": "a002_063_0119",
+            "en_US": [
+                "Before you report to the leader in Castelia\n",
+                "City, check the results using “CHECK SURVEY\n",
+                "RESULTS\" in your C-Gear.\n",
+                "\n",
+                "Once you know that the survey is complete,\n",
+                "go to Passerby Analytics HQ in Castelia City\n",
+                "to report to your leader."
+            ]
+        },
+        {
+            "id": "a002_063_0120",
+            "en_US": [
+                "When you tap the red-framed “INFRARED\"\n",
+                "in your C-Gear, you can enjoy Link Trade and\n",
+                "Link Battle with people nearby.\n",
+                "\n",
+                "You can also exchange Friend Codes and check\n",
+                "how close you are to someone else."
+            ]
+        },
+        {
+            "id": "a002_063_0121",
+            "en_US": [
+                "Select the same item and let your and your\n",
+                "friend's DS systems face each other to start\n",
+                "the connection.\n",
+                "\n",
+                "Once they are connected, your DS systems\n",
+                "no longer need to face each other."
+            ]
+        },
+        {
+            "id": "a002_063_0122",
+            "en_US": [
+                "When you tap the blue-framed\n",
+                "“ONLINE\" on your C-Gear,\n",
+                "the Game Sync option will appear.\n",
+                "\n",
+                "Game Sync is a system to make a Pokémon in\n",
+                "the PC fall asleep and to send the saved\n",
+                "data of Trainers all over the world."
+            ]
+        },
+        {
+            "id": "a002_063_0123",
+            "en_US": [
+                "You'll see different colors display\n",
+                "inside the “ONLINE\" C-Gear frame,\n",
+                "depending on the situation.\n",
+                "\n",
+                "It is green when the\n",
+                "Nintendo Wi-Fi Connection Settings\n",
+                "of the DS system are complete."
+            ]
+        },
+        {
+            "id": "a002_063_0124",
+            "en_US": [
+                "The frame will be blue when you are\n",
+                "somewhere with a wireless access point\n",
+                "that enables Nintendo Wi-Fi Connection,\n",
+                "such as Nintendo Zone."
+            ]
+        },
+        {
+            "id": "a002_063_0125",
+            "en_US": [
+                "When you are near wireless access points,\n",
+                "but your Nintendo Wi-Fi Connection Settings\n",
+                "are not complete, the background\n",
+                "inside the “ONLINE\" frame will be red."
+            ]
+        },
+        {
+            "id": "a002_063_0126",
+            "en_US": [
+                "The saved data sent through Game Sync\n",
+                "goes to the Pokémon Dream World.\n",
+                "\n",
+                "The Pokémon Dream World is located\n",
+                "on the official Pokémon Global Link website."
+            ]
+        },
+        {
+            "id": "a002_063_0127",
+            "en_US": [
+                "To play in the Pokémon Dream World,\n",
+                "you must set up the following items:\n",
+                "\n",
+                "-Nintendo Wi-Fi Connection Settings\n",
+                "-Game Sync Settings\n",
+                "-User registration with your own computer\n",
+                "  at the official website for\n",
+                "  the Pokémon Global Link."
+            ]
+        },
+        {
+            "id": "a002_063_0128",
+            "en_US": [
+                "You can move to the center of the Unova\n",
+                "region, called the Entralink, by tapping the\n",
+                "yellow frame with “WIRELESS\"\n",
+                "on it on your C-Gear.\n",
+                "\n",
+                "In the center of your Entralink is a tree\n",
+                "called the Entree."
+            ]
+        },
+        {
+            "id": "a002_063_0129",
+            "en_US": [
+                "The Entralink creates bridges to visit\n",
+                "other people's worlds when they are near you\n",
+                "and their C-Gear is turned on.\n",
+                "\n",
+                "*Note that you cannot enter your Entralink\n",
+                " when someone else is in your Entralink."
+            ]
+        },
+        {
+            "id": "a002_063_0130",
+            "en_US": [
+                "Please wait on the left or right bridge\n",
+                "at the Entralink for establishing a bridge\n",
+                "with the other Trainer.\n",
+                "\n",
+                "You can only establish a bridge\n",
+                "when the other Trainer is at one of the eight\n",
+                "cities or routes surrounding the Entralink.\n",
+                "The other Trainer cannot be in a building."
+            ]
+        },
+        {
+            "id": "a002_063_0131",
+            "en_US": [
+                "When the Entralink bridge is established,\n",
+                "your Touch Screen will inform you\n",
+                "who the other Trainer is.\n",
+                "\n",
+                "You can enter the other Trainer's world\n",
+                "through the bridge.\n",
+                "\n",
+                "The other world looks grayish, and\n",
+                "your appearance will change, too."
+            ]
+        },
+        {
+            "id": "a002_063_0132",
+            "en_US": [
+                "The other Trainer's Entralink contains\n",
+                "an Entree, as well.\n",
+                "\n",
+                "Press the A Button in front of the Entree,\n",
+                "and you will receive a mission.\n",
+                "\n",
+                "The missions have a time limit and may take\n",
+                "various forms, such as talking to a person\n",
+                "or fighting a Pokémon battle."
+            ]
+        },
+        {
+            "id": "a002_063_0133",
+            "en_US": [
+                "Once you accept the first mission,\n",
+                "you can warp to any city you want\n",
+                "to visit.\n",
+                "\n",
+                "To find the other Trainer, tap a city near\n",
+                "them on the Touch Screen to be sent to,\n",
+                "then start looking around for them."
+            ]
+        },
+        {
+            "id": "a002_063_0134",
+            "en_US": [
+                "Once you complete a mission received from the\n",
+                "other Trainer's Entree, you'll return to\n",
+                "your own Entree.\n",
+                "\n",
+                "You'll then receive a mysterious Pass Power\n",
+                "from your own Entree."
+            ]
+        },
+        {
+            "id": "a002_063_0135",
+            "en_US": [
+                "Options not available while in the Entralink.\n",
+                "\n",
+                "-Save the game\n",
+                "-Use Key Items\n",
+                "-Use an HM or other moves that can be\n",
+                " used outside of battle.\n",
+                "\n",
+                "You cannot use these options in your own\n",
+                "Entralink or in someone else's world."
+            ]
+        },
+        {
+            "id": "a002_063_0136",
+            "en_US": [
+                "A Pass Power is a mysterious power you\n",
+                "receive from the Entree in your Entralink.\n",
+                "\n",
+                "You receive it after you've successfully\n",
+                "completed missions from the Entree\n",
+                "in someone else's Entralink."
+            ]
+        },
+        {
+            "id": "a002_063_0137",
+            "en_US": [
+                "You cannot use a Pass Power in your Entralink\n",
+                "or in someone else's world.\n",
+                "\n",
+                "If you want to use your Pass Power, please\n",
+                "exit the Entralink and tap the Tag Log at the\n",
+                "bottom of your C-Gear, then tap the\n",
+                "triangle icon."
+            ]
+        },
+        {
+            "id": "a002_063_0138",
+            "en_US": [
+                "To use Pass Power, you need a certain number\n",
+                "of Pass Orbs.\n",
+                "\n",
+                "You can obtain Pass Orbs by completing\n",
+                "missions from someone else's Entree."
+            ]
+        },
+        {
+            "id": "a002_063_0139",
+            "en_US": [
+                "You need to have a certain number\n",
+                "of Pass Orbs to use your Pass Power.\n",
+                "\n",
+                "You can obtain Pass Orbs by completing\n",
+                "missions from someone else's Entree."
+            ]
+        },
+        {
+            "id": "a002_063_0140",
+            "en_US": [
+                "■ Bag function\n",
+                "Your Bag always sorts items by their types.\n",
+                "\n",
+                "Items in the Key Items Case\n",
+                "have checkboxes next to them.\n",
+                "\n",
+                "Check the box to set up the item\n",
+                "to use it by pressing the Y Button,\n",
+                "without having to open your Bag."
+            ]
+        },
+        {
+            "id": "a002_063_0141",
+            "en_US": [
+                "Pressing the green icon on the Touch Screen\n",
+                "or START sorts items in the Case.\n",
+                "\n",
+                "Pressing SELECT allows you to move items\n",
+                "in a Case freely. You can switch between\n",
+                "pages with the L Button or R Button."
+            ]
+        },
+        {
+            "id": "a002_063_0142",
+            "en_US": [
+                "■ Item types\n",
+                "-ITEMS\n",
+                "Pokémon can hold some items to raise their\n",
+                "stats or move power. Those items are marked.\n",
+                "\n",
+                "Try letting your Pokémon hold these items\n",
+                "to see what effects they have."
+            ]
+        },
+        {
+            "id": "a002_063_0143",
+            "en_US": [
+                "There are some items you can use\n",
+                "only in a battle to raise Pokémon stats or\n",
+                "moves powers.\n",
+                "\n",
+                "Some items may last for a limited time.\n",
+                "Some last until the Pokémon switches out."
+            ]
+        },
+        {
+            "id": "a002_063_0144",
+            "en_US": [
+                "The Poké Balls you need to catch Pokémon\n",
+                "are kept in the ITEMS Case, as are items\n",
+                "related to Pokémon evolution.\n",
+                "\n",
+                "You can combine phrases and words\n",
+                "to form Mail. Your Pokémon can hold Mail,\n",
+                "and if you trade the Pokémon with\n",
+                "your friends, they can deliver your Mail."
+            ]
+        },
+        {
+            "id": "a002_063_0145",
+            "en_US": [
+                "-MEDICINE\n",
+                "This area holds items that restore\n",
+                "your Pokémon's HP, PP, and heal\n",
+                "status conditions.\n",
+                "\n",
+                "-TMs & HMs\n",
+                "This area holds your TMs & HMs.\n",
+                "They can be reused as often as you like."
+            ]
+        },
+        {
+            "id": "a002_063_0146",
+            "en_US": [
+                "-BERRIES\n",
+                "This holds Berries that create special\n",
+                "effects when your Pokémon hold them\n",
+                "or use them.\n",
+                "\n",
+                "-KEY ITEMS\n",
+                "This is a place to keep Key Items. You can\n",
+                "assign some of them to the Ready button\n",
+                "for instant use."
+            ]
+        },
+        {
+            "id": "a002_063_0147",
+            "en_US": [
+                "Open the menu using the X Button, then\n",
+                "select your name to check how many\n",
+                "Gym Badges you have.\n",
+                "\n",
+                "You can tap the mark in the bottom-left\n",
+                "corner of the Touch Screen to check\n",
+                "your Trainer Card."
+            ]
+        },
+        {
+            "id": "a002_063_0148",
+            "en_US": [
+                "The Trainer Card displays your total\n",
+                "play time, prize money, and more.\n",
+                "Tap your title and characteristic to change\n",
+                "them, and select a new one you like.\n",
+                "\n",
+                "Touch the white frame underneath\n",
+                "to edit your message. Fill in the boxes\n",
+                "to complete your message."
+            ]
+        },
+        {
+            "id": "a002_063_0149",
+            "en_US": [
+                "You can sign the back of your card\n",
+                "using the stylus.\n",
+                "\n",
+                "Tap the pen and eraser icons to switch\n",
+                "between writing and erasing.\n",
+                "\n",
+                "Tap the plus icon to magnify the screen.\n",
+                "Tap the triangle icon to split the signature\n",
+                "area in two for animation."
+            ]
+        },
+        {
+            "id": "a002_063_0150",
+            "en_US": [
+                "This high-tech Pokédex records Pokémon\n",
+                "automatically.\n",
+                "\n",
+                "You can check a Pokémon's info, area, cry,\n",
+                "height, weight, type, footprint, and more."
+            ]
+        },
+        {
+            "id": "a002_063_0151",
+            "en_US": [
+                "As you progress in your adventure, the\n",
+                "Pokédex will gain the search feature.\n",
+                "\n",
+                "When it's added, press START to search\n",
+                "for Pokémon that match certain conditions,\n",
+                "such as Pokédex number, alphabetical order,\n",
+                "color, or form."
+            ]
+        },
+        {
+            "id": "a002_063_0152",
+            "en_US": [
+                "Your chances of capturing a Pokémon\n",
+                "are better if you lower your target's HP\n",
+                "before you throw Poké Balls.\n",
+                "\n",
+                "If you use Pokémon moves to inflict a Sleep\n",
+                "or Paralysis condition on the target,\n",
+                "capturing it will be even easier."
+            ]
+        },
+        {
+            "id": "a002_063_0153",
+            "en_US": [
+                "Pokémon and their moves fall into\n",
+                "17 different types. Each type has\n",
+                "its own advantageous and disadvantageous\n",
+                "matchups against the others.\n",
+                "\n",
+                "For example, Fire-type moves are more\n",
+                "effective against Bug- and Grass-type\n",
+                "Pokémon but are less effective against\n",
+                "Water- or Rock-type Pokémon."
+            ]
+        },
+        {
+            "id": "a002_063_0154",
+            "en_US": [
+                "When the move type matches the type of the\n",
+                "Pokémon using it, the power of the move\n",
+                "is greater than usual.\n",
+                "\n",
+                "When a Pokémon has two types, either one\n",
+                "can affect the power.\n",
+                "\n",
+                "Some move types have no effect at all\n",
+                "on Pokémon of certain types."
+            ]
+        },
+        {
+            "id": "a002_063_0155",
+            "en_US": [
+                "Moves are classified as Physical, Special, or\n",
+                "Status moves. You can tell which is which\n",
+                "by their icons.\n",
+                "\n",
+                "-Physical Moves\n",
+                "Pokémon's Attack and Defense stats\n",
+                "determine the overall damage of this type\n",
+                "of move."
+            ]
+        },
+        {
+            "id": "a002_063_0156",
+            "en_US": [
+                "-Special Moves\n",
+                "Pokémon's Sp. Attack and Sp. Defense stats\n",
+                "determine the overall damage of these types\n",
+                "of moves.\n",
+                "\n",
+                "-Status Moves\n",
+                "This type of move is not a direct attack, but\n",
+                "it can raise the Pokémon's stats and inflict\n",
+                "status conditions that help them in battles."
+            ]
+        },
+        {
+            "id": "a002_063_0157",
+            "en_US": [
+                "The Pokémon's HP has reached zero.\n",
+                "You must restore its HP before\n",
+                "it can battle again.\n",
+                "Some of the moves usable outside battle can\n",
+                "still be used when its HP reaches zero.\n",
+                "■ To heal your Pokémon:\n",
+                "-Let Pokémon rest at a Pokémon Center\n",
+                "-Use Revive\n",
+                "-Use Max Revive"
+            ]
+        },
+        {
+            "id": "a002_063_0158",
+            "en_US": [
+                "The Pokémon has been poisoned.\n",
+                "Its HP will gradually decrease in battle.\n",
+                "This will stop when it returns to its Poké Ball\n",
+                "or when the battle ends, but the poisoned\n",
+                "Pokémon will not cure itself.\n",
+                "\n",
+                "■ To heal a poisoned Pokémon:\n",
+                "-Let Pokémon rest at a Pokémon Center\n",
+                "-Use Antidote, Pecha Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0159",
+            "en_US": [
+                "The Pokémon has paralysis.\n",
+                "Its Speed stat drops, and\n",
+                "it sometimes fails to use moves.\n",
+                "A Pokémon with paralysis will not\n",
+                "cure itself.\n",
+                "\n",
+                "■ To heal a Pokémon with paralysis:\n",
+                "-Let Pokémon rest at a Pokémon Center\n",
+                "-Use Parlyz Heal, Cheri Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0160",
+            "en_US": [
+                "The Pokémon is asleep. Only certain moves\n",
+                "can be used in this state.\n",
+                "\n",
+                "The Pokémon can wake up during a battle, but\n",
+                "it stays asleep if the battle ends before it\n",
+                "wakes up.\n",
+                "■ To heal a sleeping Pokémon:\n",
+                "-Let the Pokémon rest at a Pokémon Center\n",
+                "-Use Awakening, Chesto Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0161",
+            "en_US": [
+                "The Pokémon is frozen and cannot use\n",
+                "most moves. It can be defrosted during\n",
+                "a battle, but it stays frozen if the battle\n",
+                "ends before it is defrosted.\n",
+                "\n",
+                "■ To heal a frozen Pokémon:\n",
+                "-Let the Pokémon rest at a Pokémon Center\n",
+                "-Use Ice Heal, Aspear Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0162",
+            "en_US": [
+                "The Pokémon is burned.\n",
+                "Its Attack stat drops, and its HP gradually\n",
+                "decreases. This HP loss stops when it returns\n",
+                "to its Poké Ball or when the battle ends,\n",
+                "but the burned Pokémon will not\n",
+                "cure itself.\n",
+                "■ To heal a burned Pokémon:\n",
+                "-Let the Pokémon rest at a Pokémon Center\n",
+                "-Use Burn Heal, Rawst Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0163",
+            "en_US": [
+                "The Pokémon is confused.\n",
+                "It sometimes attacks itself instead of\n",
+                "using the selected move.\n",
+                "It is cured after the battle, and the Pokémon\n",
+                "can sometimes cure itself during a battle.\n",
+                "\n",
+                "■ To heal a confused Pokémon:\n",
+                "-Switch out the affected Pokémon in a battle\n",
+                "-Use Persim Berry, etc."
+            ]
+        },
+        {
+            "id": "a002_063_0164",
+            "en_US": [
+                "The Pokémon is infatuated\n",
+                "by a Pokémon of the opposite gender.\n",
+                "It has a crush on the other Pokémon\n",
+                "and sometimes fails to use its moves.\n",
+                "\n",
+                "It will be cured when switched out\n",
+                "or when the other Pokémon is defeated."
+            ]
+        },
+        {
+            "id": "a002_063_0165",
+            "en_US": [
+                "Pokémon earn Exp. Points\n",
+                "after a battle. They grow as they\n",
+                "receive Exp. Points and level up.\n",
+                "\n",
+                "The stronger the Pokémon it defeats,\n",
+                "the more Exp. Points it earns.\n",
+                "\n",
+                "The weaker the Pokémon it defeats,\n",
+                "the fewer Exp. Points it earns."
+            ]
+        },
+        {
+            "id": "a002_063_0166",
+            "en_US": [
+                "Exp. Points are shared among\n",
+                "the Pokémon in a battle. To help\n",
+                "a weak Pokémon receive Exp. Points,\n",
+                "take it out and switch in a strong Pokémon.\n",
+                "\n",
+                "When you trade and receive a Pokémon\n",
+                "from another Trainer, it'll gain more\n",
+                "Exp. Points than Pokémon that\n",
+                "you've caught yourself."
+            ]
+        },
+        {
+            "id": "a002_063_0167",
+            "en_US": [
+                "Pokémon sometimes evolve.\n",
+                "When they do, their appearance changes\n",
+                "and their stats increase.\n",
+                "\n",
+                "There are many ways to evolve.\n",
+                "You can evolve some Pokémon by leveling up,\n",
+                "some by using items that evolve Pokémon,\n",
+                "and some by trading a Pokémon with a friend.\n",
+                "Each Pokémon has its own way to evolve."
+            ]
+        },
+        {
+            "id": "a002_063_0168",
+            "en_US": [
+                "If you press the B Button while a Pokémon\n",
+                "is evolving, it will be surprised\n",
+                "and will stop evolving.\n",
+                "\n",
+                "You can also obtain an item that\n",
+                "prevents Pokémon from evolving."
+            ]
+        },
+        {
+            "id": "a002_063_0169",
+            "en_US": [
+                "Pokémon can grow differently,\n",
+                "depending on each one's Nature\n",
+                "and Characteristic.\n",
+                "\n",
+                "Sometimes Pokémon stats such as\n",
+                "Attack and Defense may be colored\n",
+                "red or blue. Red means the stat is\n",
+                "more likely to increase, and blue means\n",
+                "the stat is less likely to increase."
+            ]
+        },
+        {
+            "id": "a002_063_0170",
+            "en_US": [
+                "Pokérus is a beneficial virus seldom\n",
+                "seen on Pokémon.\n",
+                "\n",
+                "Pokérus seems to help Pokémon grow faster.\n",
+                "After several days, Pokémon will return to\n",
+                "normal and are immune to Pokérus.\n",
+                "\n",
+                "Pokérus may spread to other Pokémon\n",
+                "in your party."
+            ]
+        },
+        {
+            "id": "a002_063_0171",
+            "en_US": [
+                "Once you've received the Running Shoes,\n",
+                "press the B Button to run."
+            ]
+        },
+        {
+            "id": "a002_063_0172",
+            "en_US": [
+                "The Dowsing MCHN can indicate where items\n",
+                "are hidden on the Touch Screen.\n",
+                "\n",
+                "Follow the directions to find them. When\n",
+                "you stand on a hidden item, it will blink.\n",
+                "\n",
+                "You cannot pick up items if you are standing\n",
+                "directly on them. Step away, face toward\n",
+                "the hidden item, and press the A Button."
+            ]
+        },
+        {
+            "id": "a002_063_0173",
+            "en_US": [
+                "This item lets you talk to your friends\n",
+                "using DS Wireless Communications\n",
+                "or Nintendo Wi-Fi Connection.\n",
+                "\n",
+                "With a Nintendo DSi or Nintendo DSi XL,\n",
+                "you can use the camera to see each\n",
+                "other while talking.\n",
+                "You must both register Friend Codes before\n",
+                "talking with friends on the Xtransceiver."
+            ]
+        },
+        {
+            "id": "a002_063_0174",
+            "en_US": [
+                "■ Using DS Wireless Communications\n",
+                "Touch the “WIRELESS\" button on your C-Gear\n",
+                "to select the Xtransceiver.\n",
+                "The names and ID numbers of Trainers\n",
+                "you've exchanged Friend Codes with\n",
+                "will appear on the Touch Screen.\n",
+                "Select the people you want to talk to\n",
+                "and give them a call. You can call\n",
+                "up to three people at once."
+            ]
+        },
+        {
+            "id": "a002_063_0175",
+            "en_US": [
+                "The “WIRELESS\" button on your C-Gear will\n",
+                "flash, and the C-Gear will ring.\n",
+                "\n",
+                "The Xtransceiver will show your friend's name.\n",
+                "Tap it to pick up the phone.\n",
+                "\n",
+                "You will not be able to answer if you tap\n",
+                "the Xtransceiver."
+            ]
+        },
+        {
+            "id": "a002_063_0176",
+            "en_US": [
+                "■ Using Wi-Fi Club\n",
+                "You can talk to one Trainer in the Wi-Fi Club."
+            ]
+        },
+        {
+            "id": "a002_063_0177",
+            "en_US": [
+                "■ How to Use the Xtransceiver\n",
+                "Use the Touch Screen. Touch the button\n",
+                "in the middle while you are talking into it.\n",
+                "\n",
+                "Use the gauge to your left to change\n",
+                "the pitch of your voice."
+            ]
+        },
+        {
+            "id": "a002_063_0178",
+            "en_US": [
+                "With the Nintendo DSi and Nintendo DSi XL,\n",
+                "you'll see another player's face on the top\n",
+                "screen. You can cover it with graffiti using\n",
+                "the button in the top-right corner. You can\n",
+                "also freeze the picture using the button in\n",
+                "the bottom-right corner.\n",
+                "\n",
+                "“SOUND ONLY\" will be displayed\n",
+                "if the DS system lacks a camera."
+            ]
+        },
+        {
+            "id": "a002_063_0179",
+            "en_US": [
+                "The Unova region has eight Gyms. Each Gym\n",
+                "has its own Gym Leader, and you can win\n",
+                "Gym Badges by defeating those Gym Leaders.\n",
+                "\n",
+                "Press the X Button to open the menu and\n",
+                "select your name to check how many\n",
+                "Gym Badges you've collected."
+            ]
+        },
+        {
+            "id": "a002_063_0180",
+            "en_US": [
+                "As you collect Badges, the Pokémon you've\n",
+                "picked up by trading will start to obey you\n",
+                "without question, even if their level is high."
+            ]
+        },
+        {
+            "id": "a002_063_0181",
+            "en_US": [
+                "The Ready button is an easy shortcut\n",
+                "to frequently used functions and items.\n",
+                "\n",
+                "Once you register something with the\n",
+                "Ready button, just press the Y Button\n",
+                "to use that item or function instantly."
+            ]
+        },
+        {
+            "id": "a002_063_0182",
+            "en_US": [
+                "You may see boxes on the Touch Screen when\n",
+                "you open the menu by pressing the X Button.\n",
+                "\n",
+                "Tap the box and a check mark will appear in it.\n",
+                "\n",
+                "Functions and items with check marks\n",
+                "next to them are the ones that\n",
+                "are registered to the Ready button."
+            ]
+        },
+        {
+            "id": "a002_063_0183",
+            "en_US": [
+                "You will see boxes next to item names\n",
+                "in the Key Items Case, as well.\n",
+                "\n",
+                "Tap to check them, and they will be\n",
+                "registered to work with the Ready button."
+            ]
+        },
+        {
+            "id": "a002_063_0184",
+            "en_US": [
+                "You can register up to 25 functions and items\n",
+                "with the Ready button.\n",
+                "\n",
+                "To unregister, tap a checked box to remove\n",
+                "the check mark.\n",
+                "\n",
+                "Press SELECT to change the order of the\n",
+                "functions and items on the list."
+            ]
+        },
+        {
+            "id": "a002_063_0185",
+            "en_US": [
+                "Insert one of the following games in another\n",
+                "DS system and turn the power ON.\n",
+                "- Pokémon Diamond Version\n",
+                "- Pokémon Pearl Version\n",
+                "- Pokémon Platinum Version\n",
+                "- Pokémon HeartGold Version\n",
+                "- Pokémon SoulSilver Version\n",
+                "Then tap DS Download Play in the DS Menu\n",
+                "to select Poké Transfer."
+            ]
+        },
+        {
+            "id": "a002_063_0186",
+            "en_US": [
+                "When the Pokémon have been received,\n",
+                "select the six Pokémon you'd like\n",
+                "to transfer to Pokémon Black Version or\n",
+                "Pokémon White Version and slide them\n",
+                "into the frame to your right.\n",
+                "\n",
+                "Pokémon sent by Poké Transfer CANNOT\n",
+                "be returned to the games they came from."
+            ]
+        },
+        {
+            "id": "a002_063_0187",
+            "en_US": [
+                "Tap the Touch Screen to pull back\n",
+                "the Poké Ball, aim it at the Pokémon,\n",
+                "and release the Poké Ball.\n",
+                "\n",
+                "Some Pokémon may be hiding in the grass\n",
+                "or behind trees."
+            ]
+        },
+        {
+            "id": "a002_063_0188",
+            "en_US": [
+                "When hit by a Poké Ball, a Pokémon will\n",
+                "come out from where it's been hiding.\n",
+                "Throw a second Poké Ball to catch it.\n",
+                "\n",
+                "Try to catch all six Pokémon\n",
+                "within the time limit."
+            ]
+        },
+        {
+            "id": "a002_063_0189",
+            "en_US": [
+                "You may see pink mist from time to time.\n",
+                "If you hit it with your Poké Ball,\n",
+                "the Pokémon will fall asleep.\n",
+                "\n",
+                "Pokémon cannot move while sleeping,\n",
+                "so this makes it easier to catch them."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "flags": 224,
+    "pad": "6060",
+    "messages": [
+        {
+            "id": "a003_395_0000",
+            "en_US": [
+                "Halt! The key to open this gate\n",
+                "is the Legend Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_395_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_395_0002",
+            "en_US": [
+                "Oh, holder of the Legend Badge!{VAR BE01}\n",
+                "Pass through Victory Road,\n",
+                "which lies beyond here, and head for{VAR BE00}\n",
+                "the Pokémon League.{VAR BE01}\n",
+                "Prove that you, too, can be a legend!"
+            ]
+        },
+        {
+            "id": "a003_395_0003",
+            "en_US": [
+                "First, obtain the Legend Badge\n",
+                "from the Opelucid Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_395_0004",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

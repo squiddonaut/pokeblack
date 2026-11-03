@@ -1,0 +1,164 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_053_0000",
+            "en_US": [
+                "Hi there!\n",
+                "I am the Game Director.{VAR BE01}\n",
+                "Oh! You are working on your Pokédex!\n",
+                "If you fill it up a lot, please let me see!"
+            ]
+        },
+        {
+            "id": "a003_053_0001",
+            "en_US": [
+                "Hi there!\n",
+                "I am the Game Director.{VAR BE01}\n",
+                "Oh! You've caught every kind of\n",
+                "Pokémon in Unova!{VAR BE01}\n",
+                "Wow! Excellent!\n",
+                "We'll give you an award!!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_053_0002",
+            "en_US": [
+                "I will send this award certificate\n",
+                "to your house!"
+            ]
+        },
+        {
+            "id": "a003_053_0003",
+            "en_US": [
+                "Hi there!\n",
+                "I am the Game Director.{VAR BE01}\n",
+                "Oh! Excellent! You've finally collected\n",
+                "all the Pokémon and completed{VAR BE00}\n",
+                "your Pokédex!{VAR BE01}\n",
+                "To honor the efforts you have made in\n",
+                "completing this Pokédex...{VAR BE01}\n",
+                "Allow me to present you with this award!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_053_0004",
+            "en_US": [
+                "How did you meet all the Pokémon\n",
+                "to fill up your Pokédex?{VAR BE01}\n",
+                "Did you work long and hard to catch\n",
+                "and raise them?{VAR BE01}\n",
+                "Did you receive them as gifts from\n",
+                "friends?{VAR BE01}\n",
+                "Maybe you got some in trades from\n",
+                "around the world?{VAR BE01}\n",
+                "Though everyone's Pokédex may look the\n",
+                "same, the stories they contain are{VAR BE00}\n",
+                "all unique!"
+            ]
+        },
+        {
+            "id": "a003_053_0005",
+            "en_US": [
+                "I will send this award certificate\n",
+                "to your house, too!"
+            ]
+        },
+        {
+            "id": "a003_053_0006",
+            "en_US": [
+                "Beware of spoilers! What I'm working on\n",
+                "is the ending of the game.{VAR BE01}\n",
+                "Don't look at it here! You'll have\n",
+                "to play it for yourself."
+            ]
+        },
+        {
+            "id": "a003_053_0007",
+            "en_US": [
+                "I am the Graphic Designer. I am devoting\n",
+                "all my energy to every dot!{VAR BE01}\n",
+                "Hup! I should put one dot here as if I'm\n",
+                "making this part hollow!"
+            ]
+        },
+        {
+            "id": "a003_053_0008",
+            "en_US": [
+                "A tip for getting strong\n",
+                "in Pokémon battles...{VAR BE01}\n",
+                "Let me see.\n",
+                "I guess the most important thing is...{VAR BE00}\n",
+                "having a lot of battles!{VAR BE01}\n",
+                "If you become very strong, come back\n",
+                "and have a Pokémon battle with me!"
+            ]
+        },
+        {
+            "id": "a003_053_0009",
+            "en_US": [
+                "Oh! You've become strong! I can tell.\n",
+                "Do you want to have a battle with me?"
+            ]
+        },
+        {
+            "id": "a003_053_0010",
+            "en_US": "Well, let's begin!{VAR BE01}"
+        },
+        {
+            "id": "a003_053_0011",
+            "en_US": [
+                "You think about battles very thoroughly.{VAR BE01}\n",
+                "I lost, but I learned a lot from you.\n",
+                "Besides, it was fun!{VAR BE01}\n",
+                "Come back again tomorrow."
+            ]
+        },
+        {
+            "id": "a003_053_0012",
+            "en_US": [
+                "No?{VAR BE01}\n",
+                "I've been raising Pokémon, thinking about\n",
+                "their Abilities and just the right{VAR BE00}\n",
+                "combination of held items.{VAR BE01}\n",
+                "What a pity...\n"
+            ]
+        },
+        {
+            "id": "a003_053_0013",
+            "en_US": [
+                "I'm Snorlax.{VAR BE01}\n",
+                "No, no. I'm the Planner!{VAR BE01}\n",
+                "I don't mean to butt in, but the\n",
+                "Leftovers item is important, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_053_0014",
+            "en_US": [
+                "I am the Sound Designer!{VAR BE01}\n",
+                "I put in a lot of wonderful mechanisms\n",
+                "to change the game's music!{VAR BE01}\n",
+                "How many of them have you noticed?"
+            ]
+        },
+        {
+            "id": "a003_053_0015",
+            "en_US": [
+                "I can tell you take the sound seriously,\n",
+                "so here's a treat for you!{VAR BE01}\n",
+                "What do you think about this\n",
+                "dramatic sound?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_053_0016",
+            "en_US": [
+                "Were you surprised?{VAR BE01}\n",
+                "Well, for a strong Trainer like you,\n",
+                "winning against Team Rocket{VAR BE00}\n",
+                "would be a piece of cake!"
+            ]
+        }
+    ]
+}

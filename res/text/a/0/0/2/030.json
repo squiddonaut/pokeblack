@@ -1,0 +1,217 @@
+{
+    "flags": 240,
+    "pad": "7070",
+    "messages": [
+        {
+            "id": "a002_030_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_030_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_030_0002",
+            "en_US": "{VAR 0200 0000} more needed.",
+            "flags": 144
+        },
+        {
+            "id": "a002_030_0003",
+            "en_US": "Up to {VAR 0200 0000} more allowed.",
+            "flags": 144
+        },
+        {
+            "id": "a002_030_0004",
+            "en_US": "Seeking Multi Battle participants!",
+            "flags": 224
+        },
+        {
+            "id": "a002_030_0005",
+            "en_US": "Seeking Musical participants!",
+            "flags": 224
+        },
+        {
+            "id": "a002_030_0006",
+            "en_US": "Seeking Battle Subway participants!",
+            "flags": 224
+        },
+        {
+            "id": "a002_030_0007",
+            "en_US": "{VAR 0100 0000}{VAR BD05 0046}ID: {VAR 0204 0001}",
+            "flags": 144
+        },
+        {
+            "id": "a002_030_0008",
+            "en_US": [
+                "Awaiting participating members...\n",
+                "B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_030_0009",
+            "en_US": [
+                "When the group is ready:\n",
+                "A Button: Proceed   B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_030_0010",
+            "en_US": [
+                "{VAR 0100 0000} has contacted you.\n",
+                "Add to your group?"
+            ]
+        },
+        {
+            "id": "a002_030_0011",
+            "en_US": "Is this group OK?"
+        },
+        {
+            "id": "a002_030_0012",
+            "en_US": "Will you cancel Multi Battle?"
+        },
+        {
+            "id": "a002_030_0013",
+            "en_US": "Will you cancel the Musical?"
+        },
+        {
+            "id": "a002_030_0014",
+            "en_US": "Will you cancel Battle Subway?"
+        },
+        {
+            "id": "a002_030_0015",
+            "en_US": [
+                "If the leader drops out, the group will\n",
+                "be disbanded. Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_030_0016",
+            "en_US": [
+                "Multi Battle will be\n",
+                "canceled."
+            ]
+        },
+        {
+            "id": "a002_030_0017",
+            "en_US": [
+                "The Musical will be\n",
+                "canceled."
+            ]
+        },
+        {
+            "id": "a002_030_0018",
+            "en_US": [
+                "Battle Subway will be\n",
+                "canceled."
+            ]
+        },
+        {
+            "id": "a002_030_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_030_0020",
+            "en_US": [
+                "There are no members.\n",
+                "Multi Battle will be canceled."
+            ]
+        },
+        {
+            "id": "a002_030_0021",
+            "en_US": [
+                "Please wait.\n",
+                "B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_030_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_030_0023",
+            "en_US": [
+                "There appears to be a problem.\n",
+                "Multi Battle will be canceled.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_030_0024",
+            "en_US": [
+                "There appears to be a problem.\n",
+                "The Musical will be canceled.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_030_0025",
+            "en_US": [
+                "There appears to be a problem.\n",
+                "Battle Subway will be canceled.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_030_0026",
+            "en_US": "{VAR 0201 0000}:",
+            "flags": 163
+        },
+        {
+            "id": "a002_030_0027",
+            "en_US": "{VAR 0201 0000}:{VAR 0100 0001}{VAR BD05 006A}ID: {VAR 0204 0002}",
+            "flags": 163
+        },
+        {
+            "id": "a002_030_0028",
+            "en_US": [
+                "Choose the Musical you would\n",
+                "like to join."
+            ]
+        },
+        {
+            "id": "a002_030_0029",
+            "en_US": [
+                "Choose the Battle Subway you would\n",
+                "like to join."
+            ]
+        },
+        {
+            "id": "a002_030_0030",
+            "en_US": [
+                "The members have gathered.\n",
+                "Please enter the room."
+            ]
+        },
+        {
+            "id": "a002_030_0031",
+            "en_US": "{VAR 0100 0000} refused...{VAR BE02 003C}"
+        },
+        {
+            "id": "a002_030_0032",
+            "en_US": [
+                "Awaiting {VAR 0100 0000}'s response...\n",
+                "B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_030_0033",
+            "en_US": "{VAR 0100 0000} replied, “OK.\""
+        },
+        {
+            "id": "a002_030_0034",
+            "en_US": [
+                "Please wait.\n",
+                "B Button: Cancel"
+            ]
+        },
+        {
+            "id": "a002_030_0035",
+            "en_US": "Do you want to leave the group?"
+        },
+        {
+            "id": "a002_030_0036",
+            "en_US": "There appears to be a problem...{VAR BE02 003C}"
+        }
+    ]
+}

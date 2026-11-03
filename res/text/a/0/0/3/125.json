@@ -1,0 +1,681 @@
+{
+    "flags": 224,
+    "pad": "b4b4",
+    "messages": [
+        {
+            "id": "a003_125_0000",
+            "en_US": [
+                "Alder: Hello, {VAR 0100 0000}.\n",
+                "This way.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0001",
+            "en_US": [
+                "Ghetsis... What a liar.{VAR BE01}\n",
+                "Desperately trying to con\n",
+                "everyone with his speech.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0002",
+            "en_US": [
+                "That's correct!{VAR BE01}\n",
+                "Our lord N has combined his power with\n",
+                "the legendary Dragon-type Pokémon{VAR BE00}\n",
+                "and intends to create a new world.{VAR BE01}\n",
+                "We herald the return of the hero of\n",
+                "Unova, founder of this region."
+            ]
+        },
+        {
+            "id": "a003_125_0003",
+            "en_US": "Hero?",
+            "flags": 126
+        },
+        {
+            "id": "a003_125_0004",
+            "en_US": "Dragon?",
+            "flags": 126
+        },
+        {
+            "id": "a003_125_0005",
+            "en_US": "Legend!",
+            "flags": 126
+        },
+        {
+            "id": "a003_125_0006",
+            "en_US": [
+                "Pokémon are different from people.{VAR BE01}\n",
+                "They are living beings who contain\n",
+                "unknown potential.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0007",
+            "en_US": [
+                "They are living beings from whom we\n",
+                "humans have much to learn.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0008",
+            "en_US": [
+                "They are beings whose greatness we\n",
+                "should acknowledge!{VAR BE01}\n",
+                "Beings who should be freed\n",
+                "from our oppression!"
+            ]
+        },
+        {
+            "id": "a003_125_0009",
+            "en_US": "Freed?",
+            "flags": 126
+        },
+        {
+            "id": "a003_125_0010",
+            "en_US": "Pokémon?",
+            "flags": 126
+        },
+        {
+            "id": "a003_125_0011",
+            "en_US": [
+                "We, Team Plasma, invite you to join us!{VAR BE01}\n",
+                "We all want to create a new world where\n",
+                "people and Pokémon are both free!{VAR BE01}\n",
+                "Ladies and gentlemen, I ask you now...\n",
+                "Please, release your Pokémon.{VAR BE01}\n",
+                "And so I end my plea to you today.{VAR BE01}\n",
+                "Thank you one and all for your attention.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0012",
+            "en_US": [
+                "Is it true?{VAR BE01}\n",
+                "Have we been making Pokémon suffer?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0013",
+            "en_US": [
+                "Hmm...{VAR BE01}\n",
+                "Maybe we should release our Pokémon\n",
+                "like Team Plasma says...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0014",
+            "en_US": [
+                "No way!{VAR BE01}\n",
+                "Without Pokémon, I'll be lonely and sad!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0015",
+            "en_US": [
+                "What was that about?\n",
+                "That speech was off-the-charts strange!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0016",
+            "en_US": [
+                "The cooperation of people and Pokémon is\n",
+                "how Unova came to exist to begin with.{VAR BE01}\n",
+                "If a Pokémon really didn't want\n",
+                "anything to do with humans,{VAR BE00}\n",
+                "it would simply leave...{VAR BE01}\n",
+                "Capturing a Pokémon in a Poké Ball\n",
+                "doesn't mean you've captured its heart.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0017",
+            "en_US": "Alder: Let's go, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_125_0018",
+            "en_US": [
+                "Alder: It's been a while, Iris\n",
+                "and Drayden.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0019",
+            "en_US": [
+                "Iris: Oh! Mr. Alder!\n",
+                "...And the guy who helped out that time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0020",
+            "en_US": [
+                "Iris: Oh! Mr. Alder!\n",
+                "...And the girl who helped out that time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0021",
+            "en_US": [
+                "Drayden: What's wrong?{VAR BE01}\n",
+                "What does the wandering Champion who\n",
+                "left the Pokémon League need from us?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0022",
+            "en_US": [
+                "Alder: Briefly, my request is this.{VAR BE01}\n",
+                "Tell us about the legendary\n",
+                "Dragon-type Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0023",
+            "en_US": [
+                "Iris: Are you talking about Reshiram?\n",
+                "Or Zekrom?{VAR BE00}\n",
+                "What's the sudden interest?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0024",
+            "en_US": [
+                "Iris: Are you talking about Zekrom?\n",
+                "Or Reshiram?{VAR BE00}\n",
+                "What's the sudden interest?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0025",
+            "en_US": [
+                "Drayden: Moments ago, a troublemaker\n",
+                "known as Ghetsis was here.{VAR BE01}\n",
+                "He said a Trainer named N has\n",
+                "reawakened Reshiram...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0026",
+            "en_US": [
+                "Drayden: Moments ago, a troublemaker\n",
+                "known as Ghetsis was here.{VAR BE01}\n",
+                "He said a Trainer named N has\n",
+                "reawakened Zekrom...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0027",
+            "en_US": [
+                "Alder: Yes!{VAR BE01}\n",
+                "That Trainer called N apparently told\n",
+                "{VAR 0100 0000} here to search for the{VAR BE00}\n",
+                "other Dragon-type Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0028",
+            "en_US": [
+                "Drayden: Let me check that I have\n",
+                "this straight.{VAR BE01}\n",
+                "This N, or what have you, presumes\n",
+                "to set the two Dragon-type Pokémon{VAR BE00}\n",
+                "against each other in battle{VAR BE00}\n",
+                "to test his convictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0029",
+            "en_US": [
+                "Iris: Oh, no!{VAR BE01}\n",
+                "The Dragon-type Pokémon\n",
+                "get along so well!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0030",
+            "en_US": [
+                "Alder: That's right, Iris.{VAR BE01}\n",
+                "The ones who make Pokémon battle\n",
+                "are the Trainers...{VAR BE01}\n",
+                "And it's so the Trainers and the Pokémon\n",
+                "can get to know each other better.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0031",
+            "en_US": [
+                "I'm going to the Pokémon League.{VAR BE01}\n",
+                "No, I guess in this case I should say I'm\n",
+                "“returning\" to the Pokémon League!{VAR BE01}\n",
+                "Of course, I'll defeat N!{VAR BE01}\n",
+                "I'll teach him about the beauty of this\n",
+                "world, where Pokémon and Trainers{VAR BE00}\n",
+                "live together in harmony!{VAR BE01}\n",
+                "Also, {VAR 0100 0000}, I'll await your arrival.{VAR BE01}\n",
+                "Once you've obtained the Opelucid Badge,\n",
+                "come to the League!{VAR BE01}\n",
+                "The Opelucid Gym Leader is tough.\n",
+                "Take care!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0032",
+            "en_US": [
+                "Farewell.\n",
+                "I'm counting on you, Drayden and Iris!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0033",
+            "en_US": [
+                "Iris: Aww...\n",
+                "He's gone.{VAR BE01}\n",
+                "Is he OK?\n",
+                "He looked kinda scary.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0034",
+            "en_US": [
+                "Drayden: Don't worry, Iris.{VAR BE01}\n",
+                "He is the strongest Trainer\n",
+                "in all of Unova.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0035",
+            "en_US": [
+                "Well, {VAR 0100 0000}, is it?\n",
+                "Come to my home.{VAR BE01}\n",
+                "As Alder asked, I'll tell you\n",
+                "everything I can about the{VAR BE00}\n",
+                "legendary Dragon-type Pokémon.{VAR BE01}\n",
+                "Iris, child, please show the way.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0036",
+            "en_US": [
+                "Iris: You bet! If it's Opelucid City,\n",
+                "I can take you anywhere.{VAR BE01}\n",
+                "As for the story of Reshiram and Zekrom,\n",
+                "we'll tell you all we know about it!{VAR BE01}\n",
+                "This way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0037",
+            "en_US": [
+                "Iris: You bet! If it's Opelucid City,\n",
+                "I can take you anywhere.{VAR BE01}\n",
+                "As for the story of Zekrom and Reshiram,\n",
+                "we'll tell you all we know about it!{VAR BE01}\n",
+                "This way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0038",
+            "en_US": "Iris: That way!{VAR BE01}"
+        },
+        {
+            "id": "a003_125_0039",
+            "en_US": "Iris: Just a little farther!{VAR BE01}"
+        },
+        {
+            "id": "a003_125_0040",
+            "en_US": "Iris: This is it!{VAR BE01}"
+        },
+        {
+            "id": "a003_125_0041",
+            "en_US": [
+                "A challenger?{VAR BE01}\n",
+                "I'm sorry, but currently,\n",
+                "our Gym Leader is at home."
+            ]
+        },
+        {
+            "id": "a003_125_0042",
+            "en_US": [
+                "If all Pokémon are released, Trainers and\n",
+                "Gym Leaders will no longer exist.{VAR BE01}\n",
+                "For better or worse, the world\n",
+                "would surely change..."
+            ]
+        },
+        {
+            "id": "a003_125_0043",
+            "en_US": [
+                "The memories of everyone who has lived\n",
+                "in this city have built up over the years{VAR BE00}\n",
+                "without changing much."
+            ]
+        },
+        {
+            "id": "a003_125_0044",
+            "en_US": [
+                "This city changes endlessly.{VAR BE01}\n",
+                "And every change is engraved in the\n",
+                "memories of the people who live here."
+            ]
+        },
+        {
+            "id": "a003_125_0045",
+            "en_US": [
+                "I spent so many happy days training my\n",
+                "Pokémon as we grew stronger together...{VAR BE01}\n",
+                "If it will make my beloved Pokémon\n",
+                "a perfect being, however,{VAR BE00}\n",
+                "I can't help but let it go."
+            ]
+        },
+        {
+            "id": "a003_125_0046",
+            "en_US": [
+                "Even if it is inconvenient, I think\n",
+                "some things shouldn't be changed."
+            ]
+        },
+        {
+            "id": "a003_125_0047",
+            "en_US": [
+                "Even if you love them, I think\n",
+                "some things have to be changed."
+            ]
+        },
+        {
+            "id": "a003_125_0048",
+            "en_US": [
+                "Hey hey! That person called N had the\n",
+                "legendary Pokémon with him, so he has{VAR BE00}\n",
+                "to be the legendary hero, right?{VAR BE01}\n",
+                "He's going to change the world, isn't he?"
+            ]
+        },
+        {
+            "id": "a003_125_0049",
+            "en_US": [
+                "I like older things better than new ones.\n",
+                "They're just more relaxing!"
+            ]
+        },
+        {
+            "id": "a003_125_0050",
+            "en_US": [
+                "I like newer things better than old ones.\n",
+                "They're just so cool!"
+            ]
+        },
+        {
+            "id": "a003_125_0051",
+            "en_US": [
+                "...No way! Without Pokémon, I'll be too\n",
+                "lonely and sad!{VAR BE01}\n",
+                "But am I only using my Pokémon, then...?"
+            ]
+        },
+        {
+            "id": "a003_125_0052",
+            "en_US": [
+                "The Gym Leader Iris is still a child, but\n",
+                "the mayor Drayden has recognized{VAR BE00}\n",
+                "her power!"
+            ]
+        },
+        {
+            "id": "a003_125_0053",
+            "en_US": [
+                "The Gym Leader Drayden is the mayor who\n",
+                "leads Opelucid.{VAR BE01}\n",
+                "He is always training by wrestling\n",
+                "with Pokémon."
+            ]
+        },
+        {
+            "id": "a003_125_0054",
+            "en_US": [
+                "So, have we really been making\n",
+                "our Pokémon suffer...?"
+            ]
+        },
+        {
+            "id": "a003_125_0055",
+            "en_US": [
+                "Yes, I will keep moving forward together\n",
+                "with my Pokémon.{VAR BE01}\n",
+                "Even if I were to part ways with my\n",
+                "Pokémon, it wouldn't be because someone{VAR BE00}\n",
+                "else said to, but because we decided to."
+            ]
+        },
+        {
+            "id": "a003_125_0056",
+            "en_US": [
+                "I'll definitely keep moving forward\n",
+                "together with my Pokémon.{VAR BE01}\n",
+                "I won't take their company for granted.\n",
+                "I'll appreciate how amazing that is!"
+            ]
+        },
+        {
+            "id": "a003_125_0057",
+            "en_US": [
+                "The legendary Pokémon is the symbol\n",
+                "of Unova.{VAR BE01}\n",
+                "Does that mean Team Plasma is right?\n",
+                "...I don't know."
+            ]
+        },
+        {
+            "id": "a003_125_0058",
+            "en_US": [
+                "Pursuing ideals is different from person\n",
+                "to person and Pokémon to Pokémon.{VAR BE01}\n",
+                "In this city, it seems the ideal is\n",
+                "to cherish the past."
+            ]
+        },
+        {
+            "id": "a003_125_0059",
+            "en_US": [
+                "The truth people pursue is different\n",
+                "from person to person and{VAR BE00}\n",
+                "Pokémon to Pokémon.{VAR BE01}\n",
+                "In this city, it seems the truth is\n",
+                "constant change."
+            ]
+        },
+        {
+            "id": "a003_125_0060",
+            "en_US": [
+                "The hopes of an ancient people are put\n",
+                "into this melody...{VAR BE01}\n",
+                "I will bring them back to us now."
+            ]
+        },
+        {
+            "id": "a003_125_0061",
+            "en_US": [
+                "Our hopes are put into this melody...\n",
+                "I will send them to the future."
+            ]
+        },
+        {
+            "id": "a003_125_0062",
+            "en_US": [
+                "Professor Juniper: ...Hello!\n",
+                "How was Iris doing?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0063",
+            "en_US": [
+                "Professor Juniper: ...Hello!\n",
+                "Was Drayden as tough as ever?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0064",
+            "en_US": [
+                "Oh, I came to report on how to\n",
+                "resurrect the legendary Zekrom.{VAR BE01}\n",
+                "I thought it would be better to tell you\n",
+                "in person than over the Xtransceiver.{VAR BE01}\n",
+                "And as for the conclusion...\n",
+                "Well, I haven't figured it out yet.{VAR BE01}\n",
+                "I'm sure the Pokémon will wake up\n",
+                "when it deems someone worthy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0065",
+            "en_US": [
+                "Oh, I came to report on how to\n",
+                "resurrect the legendary Reshiram.{VAR BE01}\n",
+                "I thought it would be better to tell you\n",
+                "in person than over the Xtransceiver.{VAR BE01}\n",
+                "And as for the conclusion...\n",
+                "Well, I haven't figured it out yet.{VAR BE01}\n",
+                "I'm sure the Pokémon will wake up\n",
+                "when it deems someone worthy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0066",
+            "en_US": [
+                "More importantly, aren't you amazing!{VAR BE01}\n",
+                "You have all eight of Unova's Gym Badges\n",
+                "now, right?{VAR BE01}\n",
+                "You've become so strong!{VAR BE01}\n",
+                "You probably don't even know it, but\n",
+                "you've changed a lot since you left{VAR BE00}\n",
+                "Nuvema Town.{VAR BE01}\n",
+                "Well then, I'll show you where such a\n",
+                "strong Trainer should head next!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0067",
+            "en_US": [
+                "Professor Juniper: Pass through that\n",
+                "gate, go down Route 10, and you'll arrive{VAR BE00}\n",
+                "at the Badge Check Gates!{VAR BE01}\n",
+                "Once you get through Victory Road,\n",
+                "which is past the gates, you're finally{VAR BE00}\n",
+                "at the Pokémon League!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0068",
+            "en_US": [
+                "Oh, that just made me think of when I was\n",
+                "showing you around the Pokémon Center{VAR BE00}\n",
+                "in Accumula Town.{VAR BE01}\n",
+                "{VAR 0100 0000}? Do you regret setting out\n",
+                "on your Pokémon journey?"
+            ]
+        },
+        {
+            "id": "a003_125_0069",
+            "en_US": [
+                "Professor Juniper: Oh! That's OK,\n",
+                "don't worry! You don't have to tell{VAR BE00}\n",
+                "me everything.{VAR BE01}\n",
+                "But I'm very happy that you three\n",
+                "chose to train Pokémon!{VAR BE01}\n",
+                "Because they create chances to meet\n",
+                "more wonderful people and Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0070",
+            "en_US": [
+                "Professor Juniper: Thanks! That's the\n",
+                "greatest answer you could give!{VAR BE01}\n",
+                "I was really happy to be able to give\n",
+                "you three those Pokémon as a present!{VAR BE01}\n",
+                "Because Pokémon create chances to meet\n",
+                "more wonderful people and Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0071",
+            "en_US": "{VAR 0100 0000}, this is a present for you!{VAR BE01}"
+        },
+        {
+            "id": "a003_125_0072",
+            "en_US": [
+                "Professor Juniper: This Master Ball is\n",
+                "the most powerful kind of Poké Ball.{VAR BE01}\n",
+                "It can catch any Pokémon without fail.{VAR BE01}\n",
+                "This is the only way I can support you,\n",
+                "except to say...{VAR BE00}\n",
+                "Be true to yourself.{VAR BE01}\n",
+                "No matter what happens, stay strong\n",
+                "and keep going with your Pokémon!{VAR BE01}\n",
+                "See you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_125_0073",
+            "en_US": [
+                "Opelucid City\n",
+                "Time's Dividing Line"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0074",
+            "en_US": "Drayden's House",
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0075",
+            "en_US": [
+                "Battle House\n",
+                "Triple Battle!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0076",
+            "en_US": [
+                "Battle House\n",
+                "Rotation Battle!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0077",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Mayor Drayden will teach you if he\n",
+                "recognizes you as a strong Trainer.{VAR BE01}\n",
+                "Visit his home to learn the\n",
+                "most powerful Dragon-type move!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0078",
+            "en_US": [
+                "Opelucid City Pokémon Gym\n",
+                "Leader: Iris{VAR BE00}\n",
+                "The Girl Who Knows{VAR BE00}\n",
+                "the Hearts of Dragons"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_125_0079",
+            "en_US": [
+                "Opelucid City Pokémon Gym\n",
+                "Leader: Drayden{VAR BE00}\n",
+                "The Spartan Mayor"
+            ],
+            "flags": 207
+        }
+    ]
+}

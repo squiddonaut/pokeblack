@@ -1,0 +1,99 @@
+{
+    "flags": 224,
+    "pad": "3838",
+    "messages": [
+        {
+            "id": "a003_412_0000",
+            "en_US": [
+                "I decided to find a new Pokémon partner\n",
+                "around Route 13."
+            ]
+        },
+        {
+            "id": "a003_412_0001",
+            "en_US": [
+                "Marvelous Bridge is really mind boggling!\n",
+                "So I am taking a rest!"
+            ]
+        },
+        {
+            "id": "a003_412_0002",
+            "en_US": [
+                "Did you know? Before Marvelous Bridge\n",
+                "was built, there was a girl who always{VAR BE00}\n",
+                "played with Abra around here.{VAR BE01}\n",
+                "She was so full of energy..."
+            ]
+        },
+        {
+            "id": "a003_412_0003",
+            "en_US": [
+                "What do people buy from the\n",
+                "vending machine?{VAR BE01}\n",
+                "To keep checking on that...\n",
+                "This is my life."
+            ]
+        },
+        {
+            "id": "a003_412_0004",
+            "en_US": [
+                "Hey, you!\n",
+                "Don't you want to try a Triple Battle?"
+            ]
+        },
+        {
+            "id": "a003_412_0005",
+            "en_US": [
+                "Triple Battles are battles with\n",
+                "three Pokémon!{VAR BE01}\n",
+                "Please get three Pokémon ready\n",
+                "for battle!"
+            ]
+        },
+        {
+            "id": "a003_412_0006",
+            "en_US": [
+                "You are a Trainer, yet you are not\n",
+                "prepared to battle?"
+            ]
+        },
+        {
+            "id": "a003_412_0007",
+            "en_US": [
+                "They say chance favors\n",
+                "the prepared mind."
+            ]
+        },
+        {
+            "id": "a003_412_0008",
+            "en_US": [
+                "I want to research an effective\n",
+                "fighting method for Rotation Battles.{VAR BE01}\n",
+                "Would you have a battle with me?"
+            ]
+        },
+        {
+            "id": "a003_412_0009",
+            "en_US": [
+                "A Rotation Battle is a new kind of battle\n",
+                "that uses three Pokémon.{VAR BE01}\n",
+                "Please prepare at least three Pokémon\n",
+                "for battle!"
+            ]
+        },
+        {
+            "id": "a003_412_0010",
+            "en_US": [
+                "If you're a Trainer, you should be\n",
+                "more aggressive."
+            ]
+        },
+        {
+            "id": "a003_412_0011",
+            "en_US": [
+                "Now you can have Rotation Battles with\n",
+                "your friends!"
+            ]
+        }
+    ]
+}

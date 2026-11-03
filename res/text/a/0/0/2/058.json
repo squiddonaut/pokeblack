@@ -1,0 +1,300 @@
+{
+    "flags": 229,
+    "pad": "2626",
+    "messages": [
+        {
+            "id": "a002_058_0000",
+            "en_US": [
+                "To participate in the Live Competition,\n",
+                "you need to update your Digital Player ID.{VAR BE01}\n",
+                "Is it OK to update it?"
+            ]
+        },
+        {
+            "id": "a002_058_0001",
+            "en_US": [
+                "To participate in the Live Competition,\n",
+                "the Digital Player ID will be updated.{VAR BE01}\n",
+                "The Battle Box from the previous\n",
+                "tournament will be unregistered.{VAR BE01}\n",
+                "Is it OK to update your Digital Player ID?"
+            ]
+        },
+        {
+            "id": "a002_058_0002",
+            "en_US": [
+                "A Digital Player ID will be received\n",
+                "via Infrared Connection.{VAR BE01}\n",
+                "Please point your Nintendo Game Card\n",
+                "at the sending Game Card{VAR BE00}\n",
+                "and press the A Button.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0003",
+            "en_US": [
+                "You have registered and unregistered\n",
+                "from this tournament already.{VAR BE01}\n",
+                "You cannot reregister\n",
+                "for this tournament.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0004",
+            "en_US": [
+                "You have registered and participated\n",
+                "in this tournament already.{VAR BE01}\n",
+                "You cannot reregister for a tournament\n",
+                "you've already participated in.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0005",
+            "en_US": [
+                "Your Battle Box will be registered\n",
+                "for the tournament.{VAR BE01}\n",
+                "Caution!\n",
+                "Once registered,{VAR BE00}\n",
+                "you will not be able to{VAR BE00}\n",
+                "move your Pokémon to or from{VAR BE00}\n",
+                "your Battle Box.{VAR BE01}\n",
+                "Will you still register the Pokémon\n",
+                "in your Battle Box?"
+            ]
+        },
+        {
+            "id": "a002_058_0006",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_058_0007",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_058_0008",
+            "en_US": [
+                "Will you cancel registering\n",
+                "the Pokémon to participate?"
+            ]
+        },
+        {
+            "id": "a002_058_0009",
+            "en_US": [
+                "The conditions for the tournament\n",
+                "have not been met.{VAR BE01}\n",
+                "Please place your Pokémon\n",
+                "in the Battle Box.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0010",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_058_0011",
+            "en_US": [
+                "Your Battle Box has been registered\n",
+                "for the tournament.{VAR BE01}\n",
+                "You will not be able to\n",
+                "move your Pokémon to or from{VAR BE00}\n",
+                "your Battle Box.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0012",
+            "en_US": [
+                "Pokémon Battle Competition!\n",
+                "What would you like to do?"
+            ]
+        },
+        {
+            "id": "a002_058_0013",
+            "en_US": "Battle",
+            "flags": 211
+        },
+        {
+            "id": "a002_058_0014",
+            "en_US": "Look back",
+            "flags": 211
+        },
+        {
+            "id": "a002_058_0015",
+            "en_US": "Cancel participation",
+            "flags": 211
+        },
+        {
+            "id": "a002_058_0016",
+            "en_US": [
+                "The last battle will be\n",
+                "played back.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0017",
+            "en_US": [
+                "Once unregistered, you will not be able to\n",
+                "participate in the same tournament.{VAR BE01}\n",
+                "Is it OK to unregister?"
+            ]
+        },
+        {
+            "id": "a002_058_0018",
+            "en_US": [
+                "You will be unregistered.\n",
+                "Are you sure about this?"
+            ]
+        },
+        {
+            "id": "a002_058_0019",
+            "en_US": [
+                "Your Battle Box has been\n",
+                "unregistered.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0020",
+            "en_US": [
+                "You will communicate with your opponent\n",
+                "via Infrared Connection.{VAR BE01}\n",
+                "Please face your Nintendo Game Card\n",
+                "at your opponent's Game Card{VAR BE00}\n",
+                "and press the A Button.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0021",
+            "en_US": "Will you cancel the Infrared Connection?"
+        },
+        {
+            "id": "a002_058_0022",
+            "en_US": [
+                "The selected tournaments do not match.{VAR BE01}\n",
+                "Please check the Digital Player ID\n",
+                "and follow the instructions{VAR BE00}\n",
+                "given by tournament staff.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0023",
+            "en_US": "An opponent has been found!"
+        },
+        {
+            "id": "a002_058_0024",
+            "en_US": [
+                "Follow the instructions given by \n",
+                "tournament staff and press the A Button.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0025",
+            "en_US": [
+                "The battle has ended.\n",
+                "The Pokémon in your Battle Box{VAR BE00}\n",
+                "are now unregistered.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0026",
+            "en_US": [
+                "Failed to receive\n",
+                "your Digital Player ID.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0027",
+            "en_US": [
+                "Failed to receive\n",
+                "your Digital Player ID.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0028",
+            "en_US": [
+                "The connection\n",
+                "failed.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0029",
+            "en_US": "Live Competition will be ended.{VAR BE01}"
+        },
+        {
+            "id": "a002_058_0030",
+            "en_US": "DONE",
+            "flags": 211
+        },
+        {
+            "id": "a002_058_0031",
+            "en_US": [
+                "Live Competition is ended.\n",
+                "Thank you for participating.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0032",
+            "en_US": [
+                "Receiving data...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_058_0033",
+            "en_US": [
+                "Searching for your opponent...\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_058_0034",
+            "en_US": [
+                "There was a problem\n",
+                "with the last battle.{VAR BE00}\n",
+                "It cannot be played back.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0035",
+            "en_US": "Communicating. Please stand by...",
+            "flags": 225
+        },
+        {
+            "id": "a002_058_0036",
+            "en_US": [
+                "You have already had a battle\n",
+                "with this person.{VAR BE01}\n",
+                "You cannot battle\n",
+                "the same opponent again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0037",
+            "en_US": [
+                "There are no Pokémon in\n",
+                "your Battle Box.{VAR BE01}\n",
+                "Please check the tournament\n",
+                "rules to place Pokémon{VAR BE00}\n",
+                "in your Battle Box.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_058_0038",
+            "en_US": "Please choose your Pokémon.",
+            "flags": 225
+        },
+        {
+            "id": "a002_058_0039",
+            "en_US": [
+                "An error occurred, and\n",
+                "the battle has been disrupted.{VAR BE01}\n",
+                "Please follow the instructions\n",
+                "given by tournament staff.{VAR BE01}"
+            ]
+        }
+    ]
+}

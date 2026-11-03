@@ -1,0 +1,30 @@
+{
+    "name": "Defend Order",
+    "description": [
+        "The user calls out its underlings to\n",
+        "shield its body, raising its Defense\n",
+        "and Sp. Def stats."
+    ],
+    "type": "TYPE_BUG",
+    "category": "MOVE_CATEGORY_STAT_CHANGE",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 10,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 206,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [["STAT_DEFENSE", 1, 0], ["STAT_SP_DEFENSE", 1, 0]],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_SNATCH"]
+}

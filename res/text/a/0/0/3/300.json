@@ -1,0 +1,92 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_300_0000",
+            "en_US": [
+                "Ghetsis: Welcome,\n",
+                "holder of the Dark Stone.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0001",
+            "en_US": [
+                "Ghetsis: Welcome,\n",
+                "holder of the Light Stone.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0002",
+            "en_US": [
+                "The castle that appeared as if it were\n",
+                "enveloping the Pokémon League{VAR BE00}\n",
+                "is a symbol.{VAR BE00}\n",
+                "It means Unova will change.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0003",
+            "en_US": [
+                "The king of this castle is the strongest\n",
+                "Trainer in the world.{VAR BE01}\n",
+                "He is accompanied by the\n",
+                "legendary Pokémon.{VAR BE01}\n",
+                "He has defeated the Champion.{VAR BE01}\n",
+                "Added to all that, his heart burns\n",
+                "with the desire to improve the world.{VAR BE01}\n",
+                "If that's not what makes a hero,\n",
+                "what more do you need?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0004",
+            "en_US": [
+                "Now that the stage is set, we can\n",
+                "seize people's minds and hearts.{VAR BE01}\n",
+                "We can bring into being the world\n",
+                "that I--no, that Team Plasma--desires{VAR BE00}\n",
+                "more easily than you can imagine!{VAR BE01}\n",
+                "We and only we will use Pokémon, and\n",
+                "we shall rule the powerless populace!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0005",
+            "en_US": [
+                "I've been waiting so long for this!{VAR BE01}\n",
+                "I've kept my silence so no one\n",
+                "could piece together what I planned.{VAR BE00}\n",
+                "Now, those painful days are at an end!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0006",
+            "en_US": "Go! Onward!{VAR BE01}"
+        },
+        {
+            "id": "a003_300_0007",
+            "en_US": [
+                "Discover whether you have what\n",
+                "it takes to be a hero!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_300_0008",
+            "en_US": [
+                "Ghetsis: Go!\n",
+                "Holder of the Dark Stone!{VAR BE01}\n",
+                "In this room, you can learn whether\n",
+                "you, too, can be a hero!"
+            ]
+        },
+        {
+            "id": "a003_300_0009",
+            "en_US": [
+                "Ghetsis: Go!\n",
+                "Holder of the Light Stone!{VAR BE01}\n",
+                "In this room, you can learn whether\n",
+                "you, too, can be a hero!"
+            ]
+        }
+    ]
+}

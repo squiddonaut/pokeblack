@@ -1,0 +1,401 @@
+{
+    "flags": 224,
+    "pad": "7272",
+    "messages": [
+        {
+            "id": "a003_428_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}! {VAR BE01}\n",
+                "I understand the feeling.\n",
+                "I want to go somewhere with{VAR BE00}\n",
+                "my Pokémon too, but first{VAR BE00}\n",
+                "we have to go thank Professor Juniper.{VAR BE01}\n",
+                "Come on. The lab is this way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0001",
+            "en_US": [
+                "Cheren: I'm sorry, but could you\n",
+                "go to Bianca's house?{VAR BE01}\n",
+                "I'll bet she's spacing out\n",
+                "like she usually does.{VAR BE00}\n",
+                "She's totally flighty."
+            ]
+        },
+        {
+            "id": "a003_428_0002",
+            "en_US": "Bianca: ...That's a secret, OK?"
+        },
+        {
+            "id": "a003_428_0003",
+            "en_US": [
+                "Cheren: OK!\n",
+                "Let's go meet the professor.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0004",
+            "en_US": [
+                "Bianca: Heeey!\n",
+                "{VAR 0100 0000}, wait up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0005",
+            "en_US": [
+                "Bianca: Come on!\n",
+                "{VAR 0100 0000}, wait up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0006",
+            "en_US": [
+                "Mom: Oh, there you are! And...?\n",
+                "What did the professor have to say?{VAR BE01}\n",
+                "She asked you to complete the Pokédex?!\n",
+                "I can't believe it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0007",
+            "en_US": [
+                "Well, actually, I can.\n",
+                "I already knew she was going to ask.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0008",
+            "en_US": [
+                "That's why I brought you three of\n",
+                "these Town Maps. Take them with you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0009",
+            "en_US": "Mom: Here you are, Cheren.{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0010",
+            "en_US": "Cheren: I'll take good care of it.{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0011",
+            "en_US": "Mom: And one for you, too, Bianca.{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0012",
+            "en_US": "Bianca: Th-thank you so much!{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0013",
+            "en_US": [
+                "Mom: As for your room, {VAR 0100 0000}--\n",
+                "or what's left of it...{VAR BE01}\n",
+                "No need for any of you to worry.\n",
+                "I'll take care of tidying up.{VAR BE01}\n",
+                "OK, {VAR 0100 0000}?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0014",
+            "en_US": [
+                "Mom: Ah, Pokémon. They are so cute,\n",
+                "but they have enough power to destroy{VAR BE00}\n",
+                "a bedroom! They are really something.{VAR BE01}\n",
+                "With Pokémon like that at your side,\n",
+                "you'll be safe wherever you go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0015",
+            "en_US": [
+                "I'll let your parents know!{VAR BE01}\n",
+                "I hope that, in addition to Pokémon,\n",
+                "you'll find lots and lots of places{VAR BE00}\n",
+                "you like in the Unova region--{VAR BE00}\n",
+                "and become wonderful adults!{VAR BE01}\n",
+                "Have a great trip!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0016",
+            "en_US": [
+                "Cheren: If I use the Town Map,\n",
+                "I'll always know where I am...{VAR BE00}\n",
+                "That's certainly helpful.{VAR BE01}\n",
+                "Shall we head to Route 1?\n",
+                "The professor's waiting.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0017",
+            "en_US": [
+                "Bianca: Let's go, let's go!\n",
+                "{VAR 0100 0000}, hurry and come too, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0018",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}...\n",
+                "It's this way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0019",
+            "en_US": [
+                "Cheren: Bianca says if we're starting a\n",
+                "journey together, she wants us all to{VAR BE00}\n",
+                "take our first step at the same time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0020",
+            "en_US": [
+                "Bianca: Hey, {VAR 0100 0000}!{VAR BE01}\n",
+                "Let's all take our first step\n",
+                "on Route 1 together!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0021",
+            "en_US": "Cheren: OK, here we go!{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_428_0023",
+            "en_US": "One, two!{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0024",
+            "en_US": [
+                "The power of science is amazing!{VAR BE01}\n",
+                "Now you can use infrared to do all\n",
+                "sorts of things in the blink of an eye!"
+            ]
+        },
+        {
+            "id": "a003_428_0025",
+            "en_US": [
+                "Do you think traveling with Pokémon\n",
+                "changes people?"
+            ]
+        },
+        {
+            "id": "a003_428_0026",
+            "en_US": [
+                "Me too! Traveling and thinking about many\n",
+                "things can definitely make a difference."
+            ]
+        },
+        {
+            "id": "a003_428_0027",
+            "en_US": [
+                "You're right! It's fine to just enjoy the\n",
+                "journey without overthinking it!"
+            ]
+        },
+        {
+            "id": "a003_428_0028",
+            "en_US": [
+                "I've heard there are a lot of Pokémon\n",
+                "and many different people in the world.{VAR BE01}\n",
+                "When I hear stories about them,\n",
+                "I get very excited!"
+            ]
+        },
+        {
+            "id": "a003_428_0029",
+            "en_US": [
+                "Bianca: Oh! I wonder what will happen!\n",
+                "Isn't this so exciting?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0030",
+            "en_US": [
+                "Cheren: It sure is!\n",
+                "C'mon, the professor's waiting.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0031",
+            "en_US": [
+                "Nuvema Town\n",
+                "The Start of Something Big!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_428_0032",
+            "en_US": "{VAR 0100 0000}'s House",
+            "flags": 207
+        },
+        {
+            "id": "a003_428_0033",
+            "en_US": "Cheren's House",
+            "flags": 207
+        },
+        {
+            "id": "a003_428_0034",
+            "en_US": "Bianca's House",
+            "flags": 207
+        },
+        {
+            "id": "a003_428_0035",
+            "en_US": "Juniper Pokémon Lab",
+            "flags": 207
+        },
+        {
+            "id": "a003_428_0036",
+            "en_US": [
+                "Cheren: Hey, {VAR 0100 0000}.\n",
+                "Is Looker through talking to you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0037",
+            "en_US": [
+                "Bianca: ...I'm sorry.{VAR BE01}\n",
+                "By the time I went to get the\n",
+                "Striaton City Gym Leaders,{VAR BE00}\n",
+                "everything was over...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0038",
+            "en_US": [
+                "Cheren: If that's the case...{VAR BE01}\n",
+                "I let Ghetsis escape when the\n",
+                "Shadow Triad created an opening.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0039",
+            "en_US": [
+                "Bianca: ...Ghetsis?\n",
+                "The Shadow Triad?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0040",
+            "en_US": [
+                "Cheren: I'll tell you later about what\n",
+                "happened in the castle.{VAR BE01}\n",
+                "It's more important to ask what you plan\n",
+                "to do now, Bianca.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0041",
+            "en_US": [
+                "Bianca: You know what? You know what!\n",
+                "I'm gonna go to White Forest!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0042",
+            "en_US": [
+                "Bianca: You know what? You know what!\n",
+                "I'm gonna go to Black City!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0043",
+            "en_US": [
+                "Cheren: That's the city on the other side\n",
+                "of Route 16 when you leave from{VAR BE00}\n",
+                "Nimbasa City. Hmm.{VAR BE01}\n",
+                "If you go that way, you might be able to\n",
+                "meet all sorts of Pokémon{VAR BE00}\n",
+                "you've never seen before.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0044",
+            "en_US": [
+                "Cedric: Oh!\n",
+                "Well, this is nice timing!{VAR BE00}\n",
+                "I see you're all here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0045",
+            "en_US": [
+                "Just a moment ago, I got some National\n",
+                "Pokédex data from an acquaintance.{VAR BE01}\n",
+                "Since you're here, let's upgrade your\n",
+                "Pokédex with the National Pokédex data.{VAR BE01}\n",
+                "I'm sure you'll be visiting a wider range\n",
+                "of places. Naturally, that means{VAR BE00}\n",
+                "you'll be encountering more Pokémon.{VAR BE01}\n",
+                "Let me see your Pokédex for a sec!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0046",
+            "en_US": "There you go, Bianca!{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0047",
+            "en_US": "Next up is Cheren!{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0048",
+            "en_US": "And last, but not least...{VAR BE01}"
+        },
+        {
+            "id": "a003_428_0049",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokédex was upgraded\n",
+                "with the National Mode!"
+            ]
+        },
+        {
+            "id": "a003_428_0050",
+            "en_US": [
+                "Cedric: You can now switch your\n",
+                "Pokédexes to the National Mode Pokédex.{VAR BE01}\n",
+                "Completing the National Pokédex will\n",
+                "surely be a big challenge.{VAR BE01}\n",
+                "So, take your time, enjoy yourselves,\n",
+                "and meet lots of Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0051",
+            "en_US": [
+                "Bianca: Wow, the National Pokédex...{VAR BE01}\n",
+                "It looks like there are tons of Pokémon\n",
+                "I don't know yet! {VAR BE01}\n",
+                "Oh! Ooh! I want to show Mom and Dad\n",
+                "my Pokédex! I gotta go!{VAR BE01}\n",
+                "Let's meet again somewhere, OK?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0052",
+            "en_US": [
+                "Cheren: Huh. Bianca's as impetuous as\n",
+                "ever, no matter what is going on.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_428_0053",
+            "en_US": [
+                "I think I'll travel all the way around\n",
+                "Unova, starting at Route 1 again.{VAR BE01}\n",
+                "I'm sure I'll discover lots of new things.{VAR BE01}\n",
+                "Could be I'll encounter the Seven Sages\n",
+                "along the way...{VAR BE01}\n",
+                "And, {VAR 0100 0000}, if we spy each other\n",
+                "along the way, let's battle again, OK?{VAR BE01}"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "flags": 120,
+    "pad": "e8e8",
+    "messages": [
+        {
+            "id": "a002_191_0000",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0001",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0002",
+            "en_US": "Youngster"
+        },
+        {
+            "id": "a002_191_0003",
+            "en_US": "Lass"
+        },
+        {
+            "id": "a002_191_0004",
+            "en_US": "School Kid"
+        },
+        {
+            "id": "a002_191_0005",
+            "en_US": "School Kid"
+        },
+        {
+            "id": "a002_191_0006",
+            "en_US": "Smasher"
+        },
+        {
+            "id": "a002_191_0007",
+            "en_US": "Linebacker"
+        },
+        {
+            "id": "a002_191_0008",
+            "en_US": "Waiter"
+        },
+        {
+            "id": "a002_191_0009",
+            "en_US": "Waitress"
+        },
+        {
+            "id": "a002_191_0010",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0011",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0012",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0013",
+            "en_US": "Nursery Aide"
+        },
+        {
+            "id": "a002_191_0014",
+            "en_US": "Preschooler"
+        },
+        {
+            "id": "a002_191_0015",
+            "en_US": "Preschooler"
+        },
+        {
+            "id": "a002_191_0016",
+            "en_US": "Twins"
+        },
+        {
+            "id": "a002_191_0017",
+            "en_US": "⒆⒇ Breeder"
+        },
+        {
+            "id": "a002_191_0018",
+            "en_US": "⒆⒇ Breeder"
+        },
+        {
+            "id": "a002_191_0019",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0020",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0021",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0022",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0023",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0024",
+            "en_US": "⒆⒇ Ranger"
+        },
+        {
+            "id": "a002_191_0025",
+            "en_US": "⒆⒇ Ranger"
+        },
+        {
+            "id": "a002_191_0026",
+            "en_US": "Worker"
+        },
+        {
+            "id": "a002_191_0027",
+            "en_US": "Backpacker"
+        },
+        {
+            "id": "a002_191_0028",
+            "en_US": "Backpacker"
+        },
+        {
+            "id": "a002_191_0029",
+            "en_US": "Fisherman"
+        },
+        {
+            "id": "a002_191_0030",
+            "en_US": "Musician"
+        },
+        {
+            "id": "a002_191_0031",
+            "en_US": "Dancer"
+        },
+        {
+            "id": "a002_191_0032",
+            "en_US": "Harlequin"
+        },
+        {
+            "id": "a002_191_0033",
+            "en_US": "Artist"
+        },
+        {
+            "id": "a002_191_0034",
+            "en_US": "Baker"
+        },
+        {
+            "id": "a002_191_0035",
+            "en_US": "Psychic"
+        },
+        {
+            "id": "a002_191_0036",
+            "en_US": "Psychic"
+        },
+        {
+            "id": "a002_191_0037",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0038",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0039",
+            "en_US": "Team Plasma"
+        },
+        {
+            "id": "a002_191_0040",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0041",
+            "en_US": "Rich Boy"
+        },
+        {
+            "id": "a002_191_0042",
+            "en_US": "Lady"
+        },
+        {
+            "id": "a002_191_0043",
+            "en_US": "Pilot"
+        },
+        {
+            "id": "a002_191_0044",
+            "en_US": "Worker"
+        },
+        {
+            "id": "a002_191_0045",
+            "en_US": "Hoopster"
+        },
+        {
+            "id": "a002_191_0046",
+            "en_US": "Scientist"
+        },
+        {
+            "id": "a002_191_0047",
+            "en_US": "Team Plasma"
+        },
+        {
+            "id": "a002_191_0048",
+            "en_US": "Clerk ⑮"
+        },
+        {
+            "id": "a002_191_0049",
+            "en_US": "Ace Trainer"
+        },
+        {
+            "id": "a002_191_0050",
+            "en_US": "Ace Trainer"
+        },
+        {
+            "id": "a002_191_0051",
+            "en_US": "Black Belt"
+        },
+        {
+            "id": "a002_191_0052",
+            "en_US": "Scientist"
+        },
+        {
+            "id": "a002_191_0053",
+            "en_US": "Striker"
+        },
+        {
+            "id": "a002_191_0054",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0055",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0056",
+            "en_US": "Leader"
+        },
+        {
+            "id": "a002_191_0057",
+            "en_US": "Roughneck"
+        },
+        {
+            "id": "a002_191_0058",
+            "en_US": "Janitor"
+        },
+        {
+            "id": "a002_191_0059",
+            "en_US": "Pokéfan"
+        },
+        {
+            "id": "a002_191_0060",
+            "en_US": "Pokéfan"
+        },
+        {
+            "id": "a002_191_0061",
+            "en_US": "Doctor"
+        },
+        {
+            "id": "a002_191_0062",
+            "en_US": "Nurse"
+        },
+        {
+            "id": "a002_191_0063",
+            "en_US": "Hooligans"
+        },
+        {
+            "id": "a002_191_0064",
+            "en_US": "Battle Girl"
+        },
+        {
+            "id": "a002_191_0065",
+            "en_US": "Parasol Lady"
+        },
+        {
+            "id": "a002_191_0066",
+            "en_US": "Clerk ⑭"
+        },
+        {
+            "id": "a002_191_0067",
+            "en_US": "Clerk ⑭"
+        },
+        {
+            "id": "a002_191_0068",
+            "en_US": "Backers"
+        },
+        {
+            "id": "a002_191_0069",
+            "en_US": "Backers"
+        },
+        {
+            "id": "a002_191_0070",
+            "en_US": "Veteran"
+        },
+        {
+            "id": "a002_191_0071",
+            "en_US": "Veteran"
+        },
+        {
+            "id": "a002_191_0072",
+            "en_US": "Biker"
+        },
+        {
+            "id": "a002_191_0073",
+            "en_US": "Infielder"
+        },
+        {
+            "id": "a002_191_0074",
+            "en_US": "Hiker"
+        },
+        {
+            "id": "a002_191_0075",
+            "en_US": "Socialite"
+        },
+        {
+            "id": "a002_191_0076",
+            "en_US": "Gentleman"
+        },
+        {
+            "id": "a002_191_0077",
+            "en_US": "Team Plasma"
+        },
+        {
+            "id": "a002_191_0078",
+            "en_US": "Elite Four"
+        },
+        {
+            "id": "a002_191_0079",
+            "en_US": "Elite Four"
+        },
+        {
+            "id": "a002_191_0080",
+            "en_US": "Elite Four"
+        },
+        {
+            "id": "a002_191_0081",
+            "en_US": "Elite Four"
+        },
+        {
+            "id": "a002_191_0082",
+            "en_US": "Team Plasma"
+        },
+        {
+            "id": "a002_191_0083",
+            "en_US": "Depot Agent"
+        },
+        {
+            "id": "a002_191_0084",
+            "en_US": "Swimmer ⑭"
+        },
+        {
+            "id": "a002_191_0085",
+            "en_US": "Swimmer ⑮"
+        },
+        {
+            "id": "a002_191_0086",
+            "en_US": "Policeman"
+        },
+        {
+            "id": "a002_191_0087",
+            "en_US": "Maid"
+        },
+        {
+            "id": "a002_191_0088",
+            "en_US": "Subway Boss"
+        },
+        {
+            "id": "a002_191_0089",
+            "en_US": "Champion"
+        },
+        {
+            "id": "a002_191_0090",
+            "en_US": "Cyclist"
+        },
+        {
+            "id": "a002_191_0091",
+            "en_US": "Cyclist"
+        },
+        {
+            "id": "a002_191_0092",
+            "en_US": "Motorcyclist"
+        },
+        {
+            "id": "a002_191_0093",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0094",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0095",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0096",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0097",
+            "en_US": "GAME FREAK"
+        },
+        {
+            "id": "a002_191_0098",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0099",
+            "en_US": "The Riches"
+        },
+        {
+            "id": "a002_191_0100",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0101",
+            "en_US": "Team Plasma"
+        },
+        {
+            "id": "a002_191_0102",
+            "en_US": "Subway Boss"
+        },
+        {
+            "id": "a002_191_0103",
+            "en_US": "⒆⒇ Trainer"
+        },
+        {
+            "id": "a002_191_0104",
+            "en_US": "⒆⒇ Trainer"
+        }
+    ]
+}

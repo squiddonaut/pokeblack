@@ -1,0 +1,30 @@
+{
+    "name": "Double-Edge",
+    "description": [
+        "A reckless, life-risking tackle.\n",
+        "It also damages the user by a fairly large\n",
+        "amount, however."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_PHYSICAL",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 198,
+    "recoveryByDamage": 223,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_MAKES_CONTACT", "MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

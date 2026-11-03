@@ -1,0 +1,190 @@
+{
+    "flags": 224,
+    "pad": "aaaa",
+    "messages": [
+        {
+            "id": "a003_446_0000",
+            "en_US": [
+                "Oh, Shaymin!{VAR BE01}\n",
+                "When it comes to Shaymin,\n",
+                "Gracidea flowers are important!{VAR BE01}\n",
+                "I have a lot of Gracidea flowers,\n",
+                "so let me share one with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_446_0001",
+            "en_US": [
+                "Since early times in Sinnoh, people\n",
+                "made a bouquet of Gracidea flowers{VAR BE00}\n",
+                "to give someone to show their{VAR BE00}\n",
+                "feelings of appreciation.{VAR BE01}\n",
+                "Isn't that interesting?{VAR BE01}\n",
+                "By giving a Gracidea bouquet,\n",
+                "you don't have to say a word, and{VAR BE00}\n",
+                "someone will know how grateful you are.{VAR BE01}\n",
+                "Quite a delightful custom!"
+            ]
+        },
+        {
+            "id": "a003_446_0002",
+            "en_US": [
+                "Do you know about Gracidea flowers?{VAR BE01}\n",
+                "Since early times in Sinnoh, people\n",
+                "made a bouquet of Gracidea flowers{VAR BE00}\n",
+                "to give someone to show their{VAR BE00}\n",
+                "feelings of appreciation."
+            ]
+        },
+        {
+            "id": "a003_446_0003",
+            "en_US": [
+                "Every Gym Badge tells the story\n",
+                "of a hard-won victory against{VAR BE00}\n",
+                "a worthy opponent.{VAR BE01}\n",
+                "I can look at a Gym Badge and\n",
+                "tell you that story.{VAR BE01}\n",
+                "Can I see one of your Gym Badges?"
+            ]
+        },
+        {
+            "id": "a003_446_0004",
+            "en_US": [
+                "OK. You don't have to show me anything.\n",
+                "I'm sure your memories are all you need!"
+            ]
+        },
+        {
+            "id": "a003_446_0005",
+            "en_US": "Which Badge are you going to show me?"
+        },
+        {
+            "id": "a003_446_0006",
+            "en_US": "You got the Trio Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0007",
+            "en_US": "You got the Basic Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0008",
+            "en_US": "You got the Insect Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0009",
+            "en_US": "You got the Bolt Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0010",
+            "en_US": "You got the Quake Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0011",
+            "en_US": "You got the Jet Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0012",
+            "en_US": "You got the Freeze Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0013",
+            "en_US": "You got the Legend Badge with...{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0014",
+            "en_US": "{VAR 0101 0000}.{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0015",
+            "en_US": "{VAR 0101 0000} and {VAR 0101 0001}.{VAR BE01}"
+        },
+        {
+            "id": "a003_446_0016",
+            "en_US": [
+                "{VAR 0101 0000}, {VAR 0101 0001}, and\n",
+                "{VAR 0101 0002}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_446_0017",
+            "en_US": [
+                "{VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, and {VAR 0101 0003}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_446_0018",
+            "en_US": [
+                "{VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, and{VAR BE00}\n",
+                "{VAR 0101 0004}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_446_0019",
+            "en_US": [
+                "{VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003},{VAR BE00}\n",
+                "{VAR 0101 0004}, and {VAR 0101 0005}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_446_0020",
+            "en_US": "Want to show me another Gym Badge?"
+        },
+        {
+            "id": "a003_446_0021",
+            "en_US": "Trio Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0022",
+            "en_US": "Basic Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0023",
+            "en_US": "Insect Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0024",
+            "en_US": "Bolt Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0025",
+            "en_US": "Quake Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0026",
+            "en_US": "Jet Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0027",
+            "en_US": "Freeze Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0028",
+            "en_US": "Legend Badge",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0029",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_446_0030",
+            "en_US": [
+                "I don't have anything to do ever since\n",
+                "I took a post here.{VAR BE01}\n",
+                "Since nobody goes outside at night,\n",
+                "it's very peaceful."
+            ]
+        }
+    ]
+}

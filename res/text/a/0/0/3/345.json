@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "pad": "4c4c",
+    "messages": [
+        {
+            "id": "a003_345_0000",
+            "en_US": [
+                "People say the ruins of the Entralink\n",
+                "have existed since long before we{VAR BE00}\n",
+                "started living with Pokémon.{VAR BE01}\n",
+                "It's unbelievable that this power has\n",
+                "existed for such a long time."
+            ]
+        },
+        {
+            "id": "a003_345_0001",
+            "en_US": [
+                "Huh? Where did everybody go?{VAR BE01}\n",
+                "I came to the sea with other people, and\n",
+                "I was playing with them..."
+            ]
+        },
+        {
+            "id": "a003_345_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_345_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

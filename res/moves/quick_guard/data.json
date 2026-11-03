@@ -1,0 +1,30 @@
+{
+    "name": "Quick Guard",
+    "description": [
+        "The user protects itself and its allies\n",
+        "from priority moves. If used in\n",
+        "succession, its chance of failing rises."
+    ],
+    "type": "TYPE_FIGHTING",
+    "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 15,
+    "priority": 3,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 306,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER_SIDE",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_SNATCH"]
+}

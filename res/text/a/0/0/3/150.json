@@ -1,0 +1,45 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_150_0000",
+            "en_US": [
+                "Alder: This room is the Hall of Fame.{VAR BE01}\n",
+                "It exists to commemorate the Trainers\n",
+                "and Pokémon who have demonstrated their{VAR BE00}\n",
+                "stellar strength and kindness of heart.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_150_0001",
+            "en_US": [
+                "Alder: No matter how many times I visit,\n",
+                "I always feel a little awed by the names{VAR BE00}\n",
+                "engraved here.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_150_0002",
+            "en_US": "Well, now, {VAR 0100 0000}.{VAR BE01}"
+        },
+        {
+            "id": "a003_150_0003",
+            "en_US": "Well, now, {VAR 0100 0000}.{VAR BE01}"
+        },
+        {
+            "id": "a003_150_0004",
+            "en_US": [
+                "With your skill and persistence, you have\n",
+                "earned your place in this Hall of Fame.{VAR BE01}\n",
+                "Your name, the account of your journey,\n",
+                "and the history of your battles will all{VAR BE00}\n",
+                "be recorded here.{VAR BE01}\n",
+                "I hope all of this becomes a support\n",
+                "to you and helps you grow stronger.{VAR BE01}\n",
+                "Now, Trainer, you and the Pokémon\n",
+                "who fought by your side will be recorded{VAR BE00}\n",
+                "in this machine!{VAR BE01}"
+            ]
+        }
+    ]
+}

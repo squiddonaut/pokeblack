@@ -1,0 +1,337 @@
+{
+    "flags": 62,
+    "pad": "8686",
+    "messages": [
+        {
+            "id": "a003_159_0000",
+            "en_US": [
+                "I may walk fast, but I live a slow and\n",
+                "relaxing life."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0001",
+            "en_US": [
+                "I'm going home early today to have\n",
+                "Pokémon battles with my sisters."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0002",
+            "en_US": [
+                "Hello!\n",
+                "Greeting is important, isn't it?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0003",
+            "en_US": [
+                "They say time is money. But when you\n",
+                "spend time, you can't get it back."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0004",
+            "en_US": "There are always so many people here...",
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0005",
+            "en_US": [
+                "Even when I loaf, I do it all-out.\n",
+                "I am always serious!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0006",
+            "en_US": [
+                "This city is a sleepless city...\n",
+                "But I need my beauty sleep."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0007",
+            "en_US": [
+                "I wish there were shoes\n",
+                "that recharge energy by walking!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0008",
+            "en_US": "My big customer must be waiting...",
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0009",
+            "en_US": [
+                "I just keep walking...today, tomorrow,\n",
+                "and the day after tomorrow."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0010",
+            "en_US": [
+                "Good luck! Me!\n",
+                "Good luck! You!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0011",
+            "en_US": [
+                "I will watch a baseball game\n",
+                "this weekend."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0012",
+            "en_US": [
+                "I am having a battle called a job!\n",
+                "This is quite tough. That's why it's fun!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0013",
+            "en_US": [
+                "Hmmm... It may be a good idea\n",
+                "to Dress Up your Pokémon."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0014",
+            "en_US": [
+                "Have you had a Pokémon battle\n",
+                "with the Gym Leader, Burgh?{VAR BE01}\n",
+                "He's a strange one, but he likes Pokémon\n",
+                "very much."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0015",
+            "en_US": [
+                "I haven't traveled with my Pokémon\n",
+                "for a long time. I feel like doing that..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0016",
+            "en_US": [
+                "I will go to the Kanto region\n",
+                "for business."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0017",
+            "en_US": [
+                "People from different countries\n",
+                "gather here in Castelia City."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0018",
+            "en_US": "Everyone is a professional walker!",
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0019",
+            "en_US": [
+                "Even in the crowd of people,\n",
+                "don't lose sight of yourself!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0020",
+            "en_US": "Every day, everybody goes their own way.",
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0021",
+            "en_US": [
+                "My business card has a picture of\n",
+                "the Pokémon I like best."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0022",
+            "en_US": [
+                "I always walk here, so\n",
+                "I am good at dodging people."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0023",
+            "en_US": [
+                "Argh! You distracted me! I was trying\n",
+                "to count all the pedestrians!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0024",
+            "en_US": [
+                "Hey, hey, kid!\n",
+                "It's dangerous!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0025",
+            "en_US": [
+                "Will you become a motorbike rider\n",
+                "when you grow up?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0026",
+            "en_US": [
+                "The night wind is piercing right through\n",
+                "me... My motorbike is freezing, too..."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0027",
+            "en_US": "Zowieee!",
+            "flags": 224
+        },
+        {
+            "id": "a003_159_0028",
+            "en_US": "Wooooo!"
+        },
+        {
+            "id": "a003_159_0029",
+            "en_US": "Is that so?"
+        },
+        {
+            "id": "a003_159_0030",
+            "en_US": "Yes."
+        },
+        {
+            "id": "a003_159_0031",
+            "en_US": "Huh?"
+        },
+        {
+            "id": "a003_159_0032",
+            "en_US": "Oh, no!"
+        },
+        {
+            "id": "a003_159_0033",
+            "en_US": "What's up?"
+        },
+        {
+            "id": "a003_159_0034",
+            "en_US": "Sorry."
+        },
+        {
+            "id": "a003_159_0035",
+            "en_US": "Bye-bye!"
+        },
+        {
+            "id": "a003_159_0036",
+            "en_US": "Nah."
+        },
+        {
+            "id": "a003_159_0037",
+            "en_US": "Eep!"
+        },
+        {
+            "id": "a003_159_0038",
+            "en_US": "I see!"
+        },
+        {
+            "id": "a003_159_0039",
+            "en_US": "How is it?"
+        },
+        {
+            "id": "a003_159_0040",
+            "en_US": "Hello!"
+        },
+        {
+            "id": "a003_159_0041",
+            "en_US": "...?"
+        },
+        {
+            "id": "a003_159_0042",
+            "en_US": "Ouch..."
+        },
+        {
+            "id": "a003_159_0043",
+            "en_US": "Hi!"
+        },
+        {
+            "id": "a003_159_0044",
+            "en_US": "!!"
+        },
+        {
+            "id": "a003_159_0045",
+            "en_US": "Hungry..."
+        },
+        {
+            "id": "a003_159_0046",
+            "en_US": "One, two..."
+        },
+        {
+            "id": "a003_159_0047",
+            "en_US": "What?"
+        },
+        {
+            "id": "a003_159_0048",
+            "en_US": "10Q!"
+        },
+        {
+            "id": "a003_159_0049",
+            "en_US": "Zooom!"
+        },
+        {
+            "id": "a003_159_0050",
+            "en_US": "Yahooo!"
+        },
+        {
+            "id": "a003_159_0051",
+            "en_US": "Bleah."
+        },
+        {
+            "id": "a003_159_0052",
+            "en_US": "Move it!"
+        },
+        {
+            "id": "a003_159_0053",
+            "en_US": "Yuck!"
+        },
+        {
+            "id": "a003_159_0054",
+            "en_US": "Wait!"
+        },
+        {
+            "id": "a003_159_0055",
+            "en_US": "Fffweee!"
+        },
+        {
+            "id": "a003_159_0056",
+            "en_US": "Faster!"
+        },
+        {
+            "id": "a003_159_0057",
+            "en_US": "Wahaha!"
+        }
+    ]
+}

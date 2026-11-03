@@ -1,0 +1,485 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_102_0000",
+            "en_US": "CACNEA"
+        },
+        {
+            "id": "a002_102_0001",
+            "en_US": "CACTURNE"
+        },
+        {
+            "id": "a002_102_0002",
+            "en_US": "CALMMIND"
+        },
+        {
+            "id": "a002_102_0003",
+            "en_US": "CAMERA"
+        },
+        {
+            "id": "a002_102_0004",
+            "en_US": "CAMERUPT"
+        },
+        {
+            "id": "a002_102_0005",
+            "en_US": "CAMOUFLAGE"
+        },
+        {
+            "id": "a002_102_0006",
+            "en_US": "CAPTIVATE"
+        },
+        {
+            "id": "a002_102_0007",
+            "en_US": "CARDS"
+        },
+        {
+            "id": "a002_102_0008",
+            "en_US": "CARNIVINE"
+        },
+        {
+            "id": "a002_102_0009",
+            "en_US": "CARRACOSTA"
+        },
+        {
+            "id": "a002_102_0010",
+            "en_US": "CARVANHA"
+        },
+        {
+            "id": "a002_102_0011",
+            "en_US": "CASCOON"
+        },
+        {
+            "id": "a002_102_0012",
+            "en_US": "CASTFORM"
+        },
+        {
+            "id": "a002_102_0013",
+            "en_US": "CATERPIE"
+        },
+        {
+            "id": "a002_102_0014",
+            "en_US": "CELEBI"
+        },
+        {
+            "id": "a002_102_0015",
+            "en_US": "CGEAR"
+        },
+        {
+            "id": "a002_102_0016",
+            "en_US": "CHALLENGE"
+        },
+        {
+            "id": "a002_102_0017",
+            "en_US": "CHAMPION"
+        },
+        {
+            "id": "a002_102_0018",
+            "en_US": "CHANDELURE"
+        },
+        {
+            "id": "a002_102_0019",
+            "en_US": "CHANNEL"
+        },
+        {
+            "id": "a002_102_0020",
+            "en_US": "CHANSEY"
+        },
+        {
+            "id": "a002_102_0021",
+            "en_US": "CHARGE"
+        },
+        {
+            "id": "a002_102_0022",
+            "en_US": "CHARGEBEAM"
+        },
+        {
+            "id": "a002_102_0023",
+            "en_US": "CHARIZARD"
+        },
+        {
+            "id": "a002_102_0024",
+            "en_US": "CHARM"
+        },
+        {
+            "id": "a002_102_0025",
+            "en_US": "CHARMANDER"
+        },
+        {
+            "id": "a002_102_0026",
+            "en_US": "CHARMELEON"
+        },
+        {
+            "id": "a002_102_0027",
+            "en_US": "CHAT"
+        },
+        {
+            "id": "a002_102_0028",
+            "en_US": "CHATOT"
+        },
+        {
+            "id": "a002_102_0029",
+            "en_US": "CHATTER"
+        },
+        {
+            "id": "a002_102_0030",
+            "en_US": "CHEERS"
+        },
+        {
+            "id": "a002_102_0031",
+            "en_US": "CHERRIM"
+        },
+        {
+            "id": "a002_102_0032",
+            "en_US": "CHERUBI"
+        },
+        {
+            "id": "a002_102_0033",
+            "en_US": "CHIKORITA"
+        },
+        {
+            "id": "a002_102_0034",
+            "en_US": "CHIMCHAR"
+        },
+        {
+            "id": "a002_102_0035",
+            "en_US": "CHIMECHO"
+        },
+        {
+            "id": "a002_102_0036",
+            "en_US": "CHINCHOU"
+        },
+        {
+            "id": "a002_102_0037",
+            "en_US": "CHINGLING"
+        },
+        {
+            "id": "a002_102_0038",
+            "en_US": "CHIPAWAY"
+        },
+        {
+            "id": "a002_102_0039",
+            "en_US": "CHITCHAT"
+        },
+        {
+            "id": "a002_102_0040",
+            "en_US": "CHLOROPHYLL"
+        },
+        {
+            "id": "a002_102_0041",
+            "en_US": "CIAO"
+        },
+        {
+            "id": "a002_102_0042",
+            "en_US": "CINCCINO"
+        },
+        {
+            "id": "a002_102_0043",
+            "en_US": "CIRCLETHROW"
+        },
+        {
+            "id": "a002_102_0044",
+            "en_US": "CLAMP"
+        },
+        {
+            "id": "a002_102_0045",
+            "en_US": "CLAMPERL"
+        },
+        {
+            "id": "a002_102_0046",
+            "en_US": "CLASS"
+        },
+        {
+            "id": "a002_102_0047",
+            "en_US": "CLAYDOL"
+        },
+        {
+            "id": "a002_102_0048",
+            "en_US": "CLEARBODY"
+        },
+        {
+            "id": "a002_102_0049",
+            "en_US": "CLEARSMOG"
+        },
+        {
+            "id": "a002_102_0050",
+            "en_US": "CLEFABLE"
+        },
+        {
+            "id": "a002_102_0051",
+            "en_US": "CLEFAIRY"
+        },
+        {
+            "id": "a002_102_0052",
+            "en_US": "CLEFFA"
+        },
+        {
+            "id": "a002_102_0053",
+            "en_US": "CLEVERNESS"
+        },
+        {
+            "id": "a002_102_0054",
+            "en_US": "CLOSECOMBAT"
+        },
+        {
+            "id": "a002_102_0055",
+            "en_US": "CLOUDNINE"
+        },
+        {
+            "id": "a002_102_0056",
+            "en_US": "CLOYSTER"
+        },
+        {
+            "id": "a002_102_0057",
+            "en_US": "COBALION"
+        },
+        {
+            "id": "a002_102_0058",
+            "en_US": "COFAGRIGUS"
+        },
+        {
+            "id": "a002_102_0059",
+            "en_US": "COIL"
+        },
+        {
+            "id": "a002_102_0060",
+            "en_US": "COLLECTION"
+        },
+        {
+            "id": "a002_102_0061",
+            "en_US": "COLORCHANGE"
+        },
+        {
+            "id": "a002_102_0062",
+            "en_US": "COLOSSEUM"
+        },
+        {
+            "id": "a002_102_0063",
+            "en_US": "COMBEE"
+        },
+        {
+            "id": "a002_102_0064",
+            "en_US": "COMBUSKEN"
+        },
+        {
+            "id": "a002_102_0065",
+            "en_US": "COMEON"
+        },
+        {
+            "id": "a002_102_0066",
+            "en_US": "COMETPUNCH"
+        },
+        {
+            "id": "a002_102_0067",
+            "en_US": "COMICS"
+        },
+        {
+            "id": "a002_102_0068",
+            "en_US": "COMPLETE"
+        },
+        {
+            "id": "a002_102_0069",
+            "en_US": "COMPOUNDEYES"
+        },
+        {
+            "id": "a002_102_0070",
+            "en_US": "COMPUTER"
+        },
+        {
+            "id": "a002_102_0071",
+            "en_US": "CONFUSERAY"
+        },
+        {
+            "id": "a002_102_0072",
+            "en_US": "CONFUSION"
+        },
+        {
+            "id": "a002_102_0073",
+            "en_US": "CONKELDURR"
+        },
+        {
+            "id": "a002_102_0074",
+            "en_US": "CONNECTION"
+        },
+        {
+            "id": "a002_102_0075",
+            "en_US": "CONSTRICT"
+        },
+        {
+            "id": "a002_102_0076",
+            "en_US": "CONTRARY"
+        },
+        {
+            "id": "a002_102_0077",
+            "en_US": "CONVERSATION"
+        },
+        {
+            "id": "a002_102_0078",
+            "en_US": "CONVERSION"
+        },
+        {
+            "id": "a002_102_0079",
+            "en_US": "CONVERSION2"
+        },
+        {
+            "id": "a002_102_0080",
+            "en_US": "COOL"
+        },
+        {
+            "id": "a002_102_0081",
+            "en_US": "COOLNESS"
+        },
+        {
+            "id": "a002_102_0082",
+            "en_US": "COPYCAT"
+        },
+        {
+            "id": "a002_102_0083",
+            "en_US": "CORPHISH"
+        },
+        {
+            "id": "a002_102_0084",
+            "en_US": "CORSOLA"
+        },
+        {
+            "id": "a002_102_0085",
+            "en_US": "COSMICPOWER"
+        },
+        {
+            "id": "a002_102_0086",
+            "en_US": "COTTONEE"
+        },
+        {
+            "id": "a002_102_0087",
+            "en_US": "COTTONGUARD"
+        },
+        {
+            "id": "a002_102_0088",
+            "en_US": "COTTONSPORE"
+        },
+        {
+            "id": "a002_102_0089",
+            "en_US": "COUNTER"
+        },
+        {
+            "id": "a002_102_0090",
+            "en_US": "COURAGE"
+        },
+        {
+            "id": "a002_102_0091",
+            "en_US": "COVET"
+        },
+        {
+            "id": "a002_102_0092",
+            "en_US": "CRABHAMMER"
+        },
+        {
+            "id": "a002_102_0093",
+            "en_US": "CRADILY"
+        },
+        {
+            "id": "a002_102_0094",
+            "en_US": "CRANIDOS"
+        },
+        {
+            "id": "a002_102_0095",
+            "en_US": "CRAWDAUNT"
+        },
+        {
+            "id": "a002_102_0096",
+            "en_US": "CRAZE"
+        },
+        {
+            "id": "a002_102_0097",
+            "en_US": "CRESSELIA"
+        },
+        {
+            "id": "a002_102_0098",
+            "en_US": "CRIES"
+        },
+        {
+            "id": "a002_102_0099",
+            "en_US": "CRITICALHIT"
+        },
+        {
+            "id": "a002_102_0100",
+            "en_US": "CROAGUNK"
+        },
+        {
+            "id": "a002_102_0101",
+            "en_US": "CROBAT"
+        },
+        {
+            "id": "a002_102_0102",
+            "en_US": "CROCONAW"
+        },
+        {
+            "id": "a002_102_0103",
+            "en_US": "CROSSCHOP"
+        },
+        {
+            "id": "a002_102_0104",
+            "en_US": "CROSSPOISON"
+        },
+        {
+            "id": "a002_102_0105",
+            "en_US": "CRUNCH"
+        },
+        {
+            "id": "a002_102_0106",
+            "en_US": "CRUSHCLAW"
+        },
+        {
+            "id": "a002_102_0107",
+            "en_US": "CRUSHGRIP"
+        },
+        {
+            "id": "a002_102_0108",
+            "en_US": "CRUSTLE"
+        },
+        {
+            "id": "a002_102_0109",
+            "en_US": "CRYOGONAL"
+        },
+        {
+            "id": "a002_102_0110",
+            "en_US": "CUBCHOO"
+        },
+        {
+            "id": "a002_102_0111",
+            "en_US": "CUBONE"
+        },
+        {
+            "id": "a002_102_0112",
+            "en_US": "CURSE"
+        },
+        {
+            "id": "a002_102_0113",
+            "en_US": "CURSEDBODY"
+        },
+        {
+            "id": "a002_102_0114",
+            "en_US": "CUT"
+        },
+        {
+            "id": "a002_102_0115",
+            "en_US": "CUTE"
+        },
+        {
+            "id": "a002_102_0116",
+            "en_US": "CUTECHARM"
+        },
+        {
+            "id": "a002_102_0117",
+            "en_US": "CUTELAUGH"
+        },
+        {
+            "id": "a002_102_0118",
+            "en_US": "CUTENESS"
+        },
+        {
+            "id": "a002_102_0119",
+            "en_US": "CYNDAQUIL"
+        }
+    ]
+}

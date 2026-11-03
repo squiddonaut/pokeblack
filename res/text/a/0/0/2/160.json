@@ -1,0 +1,197 @@
+{
+    "flags": 128,
+    "messages": [
+        {
+            "id": "a002_160_0000",
+            "en_US": "Encounter Power ↑"
+        },
+        {
+            "id": "a002_160_0001",
+            "en_US": "Encounter Power ↑↑"
+        },
+        {
+            "id": "a002_160_0002",
+            "en_US": "Encounter Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0003",
+            "en_US": "Encounter Power ↓"
+        },
+        {
+            "id": "a002_160_0004",
+            "en_US": "Encounter Power ↓↓"
+        },
+        {
+            "id": "a002_160_0005",
+            "en_US": "Encounter Power ↓↓↓"
+        },
+        {
+            "id": "a002_160_0006",
+            "en_US": "Hatching Power ↑"
+        },
+        {
+            "id": "a002_160_0007",
+            "en_US": "Hatching Power ↑↑"
+        },
+        {
+            "id": "a002_160_0008",
+            "en_US": "Hatching Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0009",
+            "en_US": "Befriending Power ↑"
+        },
+        {
+            "id": "a002_160_0010",
+            "en_US": "Befriending Power ↑↑"
+        },
+        {
+            "id": "a002_160_0011",
+            "en_US": "Befriending Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0012",
+            "en_US": "Bargain Power ↑"
+        },
+        {
+            "id": "a002_160_0013",
+            "en_US": "Bargain Power ↑↑"
+        },
+        {
+            "id": "a002_160_0014",
+            "en_US": "Bargain Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0015",
+            "en_US": "HP Restoring Power ↑"
+        },
+        {
+            "id": "a002_160_0016",
+            "en_US": "HP Restoring Power ↑↑"
+        },
+        {
+            "id": "a002_160_0017",
+            "en_US": "HP Restoring Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0018",
+            "en_US": "PP Restoring Power ↑"
+        },
+        {
+            "id": "a002_160_0019",
+            "en_US": "PP Restoring Power ↑↑"
+        },
+        {
+            "id": "a002_160_0020",
+            "en_US": "PP Restoring Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0021",
+            "en_US": "Exp. Point Power ↑"
+        },
+        {
+            "id": "a002_160_0022",
+            "en_US": "Exp. Point Power ↑↑"
+        },
+        {
+            "id": "a002_160_0023",
+            "en_US": "Exp. Point Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0024",
+            "en_US": "Exp. Point Power ↓"
+        },
+        {
+            "id": "a002_160_0025",
+            "en_US": "Exp. Point Power ↓↓"
+        },
+        {
+            "id": "a002_160_0026",
+            "en_US": "Exp. Point Power ↓↓↓"
+        },
+        {
+            "id": "a002_160_0027",
+            "en_US": "Prize Money Power ↑"
+        },
+        {
+            "id": "a002_160_0028",
+            "en_US": "Prize Money Power ↑↑"
+        },
+        {
+            "id": "a002_160_0029",
+            "en_US": "Prize Money Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0030",
+            "en_US": "Capture Power ↑"
+        },
+        {
+            "id": "a002_160_0031",
+            "en_US": "Capture Power ↑↑"
+        },
+        {
+            "id": "a002_160_0032",
+            "en_US": "Capture Power ↑↑↑"
+        },
+        {
+            "id": "a002_160_0033",
+            "en_US": "Hatching Power S"
+        },
+        {
+            "id": "a002_160_0034",
+            "en_US": "Bargain Power S"
+        },
+        {
+            "id": "a002_160_0035",
+            "en_US": "Befriending Power S"
+        },
+        {
+            "id": "a002_160_0036",
+            "en_US": "Exp. Point Power S"
+        },
+        {
+            "id": "a002_160_0037",
+            "en_US": "Prize Money Power S"
+        },
+        {
+            "id": "a002_160_0038",
+            "en_US": "Capture Power S"
+        },
+        {
+            "id": "a002_160_0039",
+            "en_US": "Full Recovery Power"
+        },
+        {
+            "id": "a002_160_0040",
+            "en_US": "Hatching Power MAX"
+        },
+        {
+            "id": "a002_160_0041",
+            "en_US": "Bargain Power MAX"
+        },
+        {
+            "id": "a002_160_0042",
+            "en_US": "Befriending Power MAX"
+        },
+        {
+            "id": "a002_160_0043",
+            "en_US": "Exp. Point Power MAX"
+        },
+        {
+            "id": "a002_160_0044",
+            "en_US": "Prize Money Power MAX"
+        },
+        {
+            "id": "a002_160_0045",
+            "en_US": "Capture Power MAX"
+        },
+        {
+            "id": "a002_160_0046",
+            "en_US": ""
+        },
+        {
+            "id": "a002_160_0047",
+            "en_US": ""
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_056_0000",
+            "en_US": [
+                "Bianca: Heeey, {VAR 0100 0000}!{VAR BE01}\n",
+                "You remember the promise you\n",
+                "made on the Xtransceiver, right?{VAR BE01}\n",
+                "So, let's get right to our\n",
+                "Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_056_0001",
+            "en_US": [
+                "Bianca: Hello, {VAR 0100 0000}!{VAR BE01}\n",
+                "You remember the promise you\n",
+                "made on the Xtransceiver, right?{VAR BE01}\n",
+                "So, let's get right to our\n",
+                "Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_056_0002",
+            "en_US": "But, before that...{VAR BE01}"
+        },
+        {
+            "id": "a003_056_0003",
+            "en_US": [
+                "They said we can have a Pokémon battle\n",
+                "in the gate as long as we're careful not{VAR BE00}\n",
+                "to break the electric bulletin board.{VAR BE01}\n",
+                "I'm the new-and-improved version of me!\n",
+                "It's gonna go great this time!{VAR BE01}\n",
+                "Let's start up our Pokémon battle again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_056_0004",
+            "en_US": [
+                "Bianca: I'll never be a strong Trainer\n",
+                "like you or Cheren or Iris, but...{VAR BE01}\n",
+                "You know, since we left Nuvema Town,\n",
+                "I've met a lot of people and I've been{VAR BE00}\n",
+                "thinking about what I want to do in life!{VAR BE01}\n",
+                "When you look at it that way, Pokémon\n",
+                "have given me a lot of new experiences.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_056_0005",
+            "en_US": [
+                "Having my Pokémon stolen was just\n",
+                "really hard, and I felt really unsure...{VAR BE01}\n",
+                "Still, I gotta say I'm really glad I went!{VAR BE01}\n",
+                "I've learned so much on this journey.\n",
+                "And I also learned that being with{VAR BE00}\n",
+                "Pokémon is really, really important!{VAR BE01}\n",
+                "OK, well, I hope to see you again soon!\n",
+                "Bye-bye, {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_056_0006",
+            "en_US": [
+                "Maybe I should try to find a\n",
+                "Pokémon on Route 4 to catch!"
+            ]
+        },
+        {
+            "id": "a003_056_0007",
+            "en_US": [
+                "Route 4 is long!\n",
+                "Be careful if you plan to follow it!"
+            ]
+        },
+        {
+            "id": "a003_056_0008",
+            "en_US": [
+                "Nimbasa City is at the end\n",
+                "of Route 4."
+            ]
+        }
+    ]
+}

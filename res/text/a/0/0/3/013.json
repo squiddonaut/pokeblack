@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "pad": "cece",
+    "messages": [
+        {
+            "id": "a003_013_0000",
+            "en_US": [
+                "I've just learned that the more\n",
+                "Gym Badges you win, the more items{VAR BE00}\n",
+                "you can buy at a shop!"
+            ]
+        },
+        {
+            "id": "a003_013_0001",
+            "en_US": [
+                "Have you been catching Pokémon?{VAR BE01}\n",
+                "When you have more Pokémon,\n",
+                "you're less likely to lose in battles,{VAR BE00}\n",
+                "and it's more fun to look at{VAR BE00}\n",
+                "your Pokédex and PC Box!"
+            ]
+        }
+    ]
+}

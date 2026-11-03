@@ -1,0 +1,30 @@
+{
+    "name": "Heal Pulse",
+    "description": [
+        "The user emits a healing pulse which\n",
+        "restores the target's HP by up to\n",
+        "half of its max HP."
+    ],
+    "type": "TYPE_PSYCHIC",
+    "category": "MOVE_CATEGORY_RECOVERY",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 10,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 309,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 50,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_AFFECTED_BY_MAGIC_COAT", "MOVE_FLAG_HITS_NONADJACENT_TARGETS", "MOVE_FLAG_HEALING"]
+}

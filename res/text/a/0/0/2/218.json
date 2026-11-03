@@ -1,0 +1,78 @@
+{
+    "flags": 192,
+    "pad": "0404",
+    "messages": [
+        {
+            "id": "a002_218_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_218_0001",
+            "en_US": "Andalusia"
+        },
+        {
+            "id": "a002_218_0002",
+            "en_US": "Aragon"
+        },
+        {
+            "id": "a002_218_0003",
+            "en_US": "Asturias"
+        },
+        {
+            "id": "a002_218_0004",
+            "en_US": "Balearic Islands"
+        },
+        {
+            "id": "a002_218_0005",
+            "en_US": "Basque Country"
+        },
+        {
+            "id": "a002_218_0006",
+            "en_US": "Canary Islands"
+        },
+        {
+            "id": "a002_218_0007",
+            "en_US": "Cantabria"
+        },
+        {
+            "id": "a002_218_0008",
+            "en_US": "Castile-La Mancha"
+        },
+        {
+            "id": "a002_218_0009",
+            "en_US": "Castile and León"
+        },
+        {
+            "id": "a002_218_0010",
+            "en_US": "Catalonia"
+        },
+        {
+            "id": "a002_218_0011",
+            "en_US": "Extremadura"
+        },
+        {
+            "id": "a002_218_0012",
+            "en_US": "Galicia"
+        },
+        {
+            "id": "a002_218_0013",
+            "en_US": "Madrid"
+        },
+        {
+            "id": "a002_218_0014",
+            "en_US": "Murcia"
+        },
+        {
+            "id": "a002_218_0015",
+            "en_US": "Navarre"
+        },
+        {
+            "id": "a002_218_0016",
+            "en_US": "La Rioja"
+        },
+        {
+            "id": "a002_218_0017",
+            "en_US": "Valencia"
+        }
+    ]
+}

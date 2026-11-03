@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_317_0000",
+            "en_US": [
+                "Oh! I was looking for a Pass Orb, and I\n",
+                "somehow ended up here.{VAR BE01}\n",
+                "They are often found at the entrance of\n",
+                "a Pokémon Center, though."
+            ]
+        },
+        {
+            "id": "a003_317_0001",
+            "en_US": [
+                "Hey! When I looked at myself, I noticed\n",
+                "I've become an Infielder!{VAR BE00}\n",
+                "How did this happen?!{VAR BE01}\n",
+                "Whatever shall I do?\n",
+                "I have to go to school soon!"
+            ]
+        },
+        {
+            "id": "a003_317_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_317_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

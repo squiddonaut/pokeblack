@@ -1,0 +1,141 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_216_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_216_0001",
+            "en_US": "Anhui"
+        },
+        {
+            "id": "a002_216_0002",
+            "en_US": "Beijing"
+        },
+        {
+            "id": "a002_216_0003",
+            "en_US": "Chongqing"
+        },
+        {
+            "id": "a002_216_0004",
+            "en_US": "Fujian"
+        },
+        {
+            "id": "a002_216_0005",
+            "en_US": "Gansu"
+        },
+        {
+            "id": "a002_216_0006",
+            "en_US": "Guangdong"
+        },
+        {
+            "id": "a002_216_0007",
+            "en_US": "Guangxi"
+        },
+        {
+            "id": "a002_216_0008",
+            "en_US": "Guizhou"
+        },
+        {
+            "id": "a002_216_0009",
+            "en_US": "Hainan"
+        },
+        {
+            "id": "a002_216_0010",
+            "en_US": "Hebei"
+        },
+        {
+            "id": "a002_216_0011",
+            "en_US": "Heilongjiang"
+        },
+        {
+            "id": "a002_216_0012",
+            "en_US": "Henan"
+        },
+        {
+            "id": "a002_216_0013",
+            "en_US": "Hubei"
+        },
+        {
+            "id": "a002_216_0014",
+            "en_US": "Hunan"
+        },
+        {
+            "id": "a002_216_0015",
+            "en_US": "Jiangsu"
+        },
+        {
+            "id": "a002_216_0016",
+            "en_US": "Jiangxi"
+        },
+        {
+            "id": "a002_216_0017",
+            "en_US": "Jilin"
+        },
+        {
+            "id": "a002_216_0018",
+            "en_US": "Liaoning"
+        },
+        {
+            "id": "a002_216_0019",
+            "en_US": "Inner Mongolia"
+        },
+        {
+            "id": "a002_216_0020",
+            "en_US": "Ningxia"
+        },
+        {
+            "id": "a002_216_0021",
+            "en_US": "Qinghai"
+        },
+        {
+            "id": "a002_216_0022",
+            "en_US": "Shaanxi"
+        },
+        {
+            "id": "a002_216_0023",
+            "en_US": "Shandong"
+        },
+        {
+            "id": "a002_216_0024",
+            "en_US": "Shanghai"
+        },
+        {
+            "id": "a002_216_0025",
+            "en_US": "Shanxi"
+        },
+        {
+            "id": "a002_216_0026",
+            "en_US": "Sichuan"
+        },
+        {
+            "id": "a002_216_0027",
+            "en_US": "Tianjin"
+        },
+        {
+            "id": "a002_216_0028",
+            "en_US": "Xinjiang"
+        },
+        {
+            "id": "a002_216_0029",
+            "en_US": "Tibet"
+        },
+        {
+            "id": "a002_216_0030",
+            "en_US": "Yunnan"
+        },
+        {
+            "id": "a002_216_0031",
+            "en_US": "Zhejiang"
+        },
+        {
+            "id": "a002_216_0032",
+            "en_US": "Hong Kong"
+        },
+        {
+            "id": "a002_216_0033",
+            "en_US": "Macau"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_166_0000",
+            "en_US": "Professor Juniper: Hi there, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_166_0001",
+            "en_US": [
+                "I heard about these Pokémon statues,\n",
+                "and I came to look into their origins!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0002",
+            "en_US": [
+                "I've learned that each of these Pokémon\n",
+                "statues is actually a real Pokémon!{VAR BE01}\n",
+                "It's called Darmanitan. It's sleeping,\n",
+                "so it's become like a stone.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0003",
+            "en_US": [
+                "When I quickly measured how long\n",
+                "they've existed...{VAR BE01}\n",
+                "It was amazing! Around 2,500 years!\n",
+                "Seems like they went to sleep that{VAR BE00}\n",
+                "long ago.{VAR BE01}\n",
+                "That means they've been here since\n",
+                "before this place was in ruins, when{VAR BE00}\n",
+                "the Relic Castle was flourishing.{VAR BE01}\n",
+                "Perhaps they were guarding the city.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0004",
+            "en_US": [
+                "These Pokémon...{VAR BE01}\n",
+                "They are either in a state of hibernation\n",
+                "or meditation, so if you wake them, they{VAR BE00}\n",
+                "will become active once again.{VAR BE01}\n",
+                "And the item that wakes up Darmanitan is\n",
+                "actually...this RageCandyBar!{VAR BE01}\n",
+                "That's why I will share one with you,\n",
+                "too, {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0005",
+            "en_US": [
+                "Well, I'm headed back to the\n",
+                "Pokémon Research Lab.{VAR BE00}\n",
+                "Be seeing you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0006",
+            "en_US": "It appears to be a statue of a Pokémon."
+        },
+        {
+            "id": "a003_166_0007",
+            "en_US": [
+                "Give the RageCandyBar to the\n",
+                "Pokémon statue?"
+            ]
+        },
+        {
+            "id": "a003_166_0008",
+            "en_US": [
+                "The ancient Pokémon statue responded to\n",
+                "the RageCandyBar.{VAR BE01}\n",
+                "The Pokémon was a sleeping Darmanitan!{VAR BE01}\n",
+                "The awakened Darmanitan attacked!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0009",
+            "en_US": "Cheren: Stop, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_166_0010",
+            "en_US": [
+                "Cheren: That's the entrance to the\n",
+                "Relic Castle.{VAR BE01}\n",
+                "You're impressive, {VAR 0100 0000},\n",
+                "making it here before I did.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0011",
+            "en_US": [
+                "Dealing with the Desert Resort's Pokémon\n",
+                "took longer than I would've thought.{VAR BE01}\n",
+                "I only made it all the way out here\n",
+                "thanks to my Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0012",
+            "en_US": "Alder went on ahead. Let's hurry."
+        },
+        {
+            "id": "a003_166_0013",
+            "en_US": [
+                "Cheren: It's hard to put into words...\n",
+                "but I'll never forgive them for this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0014",
+            "en_US": [
+                "Alder: What could that guy called\n",
+                "N possibly want?{VAR BE01}\n",
+                "Could he be trying to prove he is\n",
+                "right by winning the battle of the{VAR BE00}\n",
+                "two dragons?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_166_0016",
+            "en_US": "The Xtransceiver is ringing."
+        },
+        {
+            "id": "a003_166_0017",
+            "en_US": "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}"
+        },
+        {
+            "id": "a003_166_0018",
+            "en_US": [
+                "Alder: I could hear Professor Juniper's\n",
+                "voice from clear over here!{VAR BE00}\n",
+                "Seems like something big is happening.{VAR BE01}\n",
+                "I wonder what is waiting at the museum\n",
+                "in Nacrene City.{VAR BE00}\n",
+                "I'll go on ahead!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0019",
+            "en_US": [
+                "Cheren: I'll look around here once more.{VAR BE01}\n",
+                "I don't want to believe what\n",
+                "that Ghetsis says...{VAR BE01}\n",
+                "You should head for the\n",
+                "Nacrene City Museum."
+            ]
+        },
+        {
+            "id": "a003_166_0020",
+            "en_US": [
+                "I came clear out to the Desert Resort\n",
+                "to train, but...{VAR BE01}\n",
+                "There are so many Ground-type Pokémon,\n",
+                "and I'm already in tatters..."
+            ]
+        },
+        {
+            "id": "a003_166_0021",
+            "en_US": [
+                "You're the first person to come\n",
+                "clear out here to talk to me!{VAR BE01}\n",
+                "I'm so moved!\n",
+                "So, I'll give you this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_166_0022",
+            "en_US": [
+                "If a Pokémon holds this Soft Sand, the\n",
+                "power of its Ground-type moves goes up!"
+            ]
+        },
+        {
+            "id": "a003_166_0023",
+            "en_US": [
+                "According to what I've heard, that\n",
+                "Relic Castle is the ruins of a city built{VAR BE00}\n",
+                "by the hero of old and the dragon{VAR BE00}\n",
+                "Pokémon that accompanied the hero."
+            ]
+        },
+        {
+            "id": "a003_166_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_166_0025",
+            "en_US": [
+                "Oh! A sea of sand! I don't need\n",
+                "Go-Goggles here!{VAR BE01}\n",
+                "Oh, I've come here all the way from\n",
+                "the Hoenn region."
+            ]
+        }
+    ]
+}

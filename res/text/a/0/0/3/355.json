@@ -1,0 +1,16 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_355_0000",
+            "en_US": [
+                "When I picked up the Pokémon\n",
+                "I left in the Day Care,{VAR BE00}\n",
+                "it had learned different moves{VAR BE00}\n",
+                "than it knew when I left it there!{VAR BE01}\n",
+                "Pokémon can only learn four moves,\n",
+                "so you have to be careful!"
+            ]
+        }
+    ]
+}

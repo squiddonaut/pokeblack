@@ -1,0 +1,146 @@
+{
+    "flags": 0,
+    "pad": "a0a0",
+    "messages": [
+        {
+            "id": "a002_121_0000",
+            "en_US": "VACATION"
+        },
+        {
+            "id": "a002_121_0001",
+            "en_US": "VACUUMWAVE"
+        },
+        {
+            "id": "a002_121_0002",
+            "en_US": "VANILLISH"
+        },
+        {
+            "id": "a002_121_0003",
+            "en_US": "VANILLITE"
+        },
+        {
+            "id": "a002_121_0004",
+            "en_US": "VANILLUXE"
+        },
+        {
+            "id": "a002_121_0005",
+            "en_US": "VAPOREON"
+        },
+        {
+            "id": "a002_121_0006",
+            "en_US": "VENIPEDE"
+        },
+        {
+            "id": "a002_121_0007",
+            "en_US": "VENOMOTH"
+        },
+        {
+            "id": "a002_121_0008",
+            "en_US": "VENONAT"
+        },
+        {
+            "id": "a002_121_0009",
+            "en_US": "VENOSHOCK"
+        },
+        {
+            "id": "a002_121_0010",
+            "en_US": "VENUSAUR"
+        },
+        {
+            "id": "a002_121_0011",
+            "en_US": "VERSUS"
+        },
+        {
+            "id": "a002_121_0012",
+            "en_US": "VESPIQUEN"
+        },
+        {
+            "id": "a002_121_0013",
+            "en_US": "VIBRAVA"
+        },
+        {
+            "id": "a002_121_0014",
+            "en_US": "VICEGRIP"
+        },
+        {
+            "id": "a002_121_0015",
+            "en_US": "VICTINI"
+        },
+        {
+            "id": "a002_121_0016",
+            "en_US": "VICTORY"
+        },
+        {
+            "id": "a002_121_0017",
+            "en_US": "VICTORYSTAR"
+        },
+        {
+            "id": "a002_121_0018",
+            "en_US": "VICTREEBEL"
+        },
+        {
+            "id": "a002_121_0019",
+            "en_US": "VIEWING"
+        },
+        {
+            "id": "a002_121_0020",
+            "en_US": "VIGOROTH"
+        },
+        {
+            "id": "a002_121_0021",
+            "en_US": "VILEPLUME"
+        },
+        {
+            "id": "a002_121_0022",
+            "en_US": "VINEWHIP"
+        },
+        {
+            "id": "a002_121_0023",
+            "en_US": "VIRIZION"
+        },
+        {
+            "id": "a002_121_0024",
+            "en_US": "VITALSPIRIT"
+        },
+        {
+            "id": "a002_121_0025",
+            "en_US": "VITALTHROW"
+        },
+        {
+            "id": "a002_121_0026",
+            "en_US": "VOICECHAT"
+        },
+        {
+            "id": "a002_121_0027",
+            "en_US": "VOLBEAT"
+        },
+        {
+            "id": "a002_121_0028",
+            "en_US": "VOLCARONA"
+        },
+        {
+            "id": "a002_121_0029",
+            "en_US": "VOLTABSORB"
+        },
+        {
+            "id": "a002_121_0030",
+            "en_US": "VOLTORB"
+        },
+        {
+            "id": "a002_121_0031",
+            "en_US": "VOLTSWITCH"
+        },
+        {
+            "id": "a002_121_0032",
+            "en_US": "VOLTTACKLE"
+        },
+        {
+            "id": "a002_121_0033",
+            "en_US": "VULLABY"
+        },
+        {
+            "id": "a002_121_0034",
+            "en_US": "VULPIX"
+        }
+    ]
+}

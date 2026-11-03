@@ -1,0 +1,85 @@
+{
+    "flags": 224,
+    "pad": "4c4c",
+    "messages": [
+        {
+            "id": "a003_245_0000",
+            "en_US": [
+                "The one who obtains this Pokémon is said\n",
+                "to be victorious in any type{VAR BE00}\n",
+                "of competition...{VAR BE01}\n",
+                "We can obtain a power that would make\n",
+                "us invincible!{VAR BE01}\n",
+                "That is the value of this mythical\n",
+                "Pokémon, Victini!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_245_0001",
+            "en_US": [
+                "This is a secret room meant\n",
+                "to hide Victini!{VAR BE01}\n",
+                "Two hundred years ago, a certain rich\n",
+                "person bought this entire island and hid{VAR BE00}\n",
+                "Victini in this underground room.{VAR BE01}\n",
+                "After that, no one saw Victini, and it\n",
+                "became a mythical Pokémon...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_245_0002",
+            "en_US": [
+                "We, Team Plasma, will liberate Victini\n",
+                "from this room and use its powers to make{VAR BE00}\n",
+                "our goal a reality!{VAR BE01}\n",
+                "We won't let a brat like you get in\n",
+                "our way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_245_0003",
+            "en_US": [
+                "It looks like I underestimated\n",
+                "your strength.{VAR BE01}\n",
+                "But Victini won't be so simple!\n",
+                "Look!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_245_0004",
+            "en_US": [
+                "Looks like it's waiting to test your\n",
+                "strength. You'd better get ready!"
+            ]
+        },
+        {
+            "id": "a003_245_0005",
+            "en_US": [
+                "Living with Victini means accepting\n",
+                "Victini's cruel destiny...{VAR BE01}\n",
+                "Someday we will test you to see if you are\n",
+                "truly ready for that.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_245_0006",
+            "en_US": [
+                "Victini is still close by and watching\n",
+                "your movements...{VAR BE01}\n",
+                "If you exit this room and come back, it\n",
+                "might return..."
+            ]
+        },
+        {
+            "id": "a003_245_0007",
+            "en_US": "Ta-ta-ta-tah!"
+        },
+        {
+            "id": "a003_245_0008",
+            "en_US": [
+                "Victini vanished from the\n",
+                "underground room...{VAR BE01}"
+            ]
+        }
+    ]
+}

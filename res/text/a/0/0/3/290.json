@@ -1,0 +1,72 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_290_0000",
+            "en_US": [
+                "I am Anthea...{VAR BE01}\n",
+                "Trainer. Before you go to confront my\n",
+                "lord N, please take a moment to rest...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_290_0001",
+            "en_US": [
+                "Ah, good. Both you and your Pokémon\n",
+                "regained energy...{VAR BE01}\n",
+                "Trainers battle to practice their skills\n",
+                "and to grow in experience, but never{VAR BE00}\n",
+                "to hurt their Pokémon.{VAR BE01}\n",
+                "My lord N has realized this, deep down in\n",
+                "his heart...but he has spent too much{VAR BE00}\n",
+                "painful time here in this castle to{VAR BE00}\n",
+                "admit it..."
+            ]
+        },
+        {
+            "id": "a003_290_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_290_0003",
+            "en_US": [
+                "I am Concordia.\n",
+                "I give peace and comfort to N.{VAR BE01}\n",
+                "N has been separated from people\n",
+                "since he was young. He was brought up{VAR BE00}\n",
+                "with Pokémon...{VAR BE01}\n",
+                "Pokémon that were betrayed, mistreated\n",
+                "and hurt by bad people...{VAR BE01}\n",
+                "Ghetsis deliberately brought only those\n",
+                "poor Pokémon closer to N.{VAR BE01}\n",
+                "N was touched by their plight, and\n",
+                "started pursuing the truth,{VAR BE00}\n",
+                "thinking only of Pokémon.{VAR BE01}\n",
+                "N's heart is pure and innocent.{VAR BE01}\n",
+                "But there is nothing more beautiful\n",
+                "and terrifying than innocence."
+            ]
+        },
+        {
+            "id": "a003_290_0004",
+            "en_US": [
+                "I am Concordia.\n",
+                "I give peace and comfort to N.{VAR BE01}\n",
+                "N has been separated from people\n",
+                "since he was young. He was brought up{VAR BE00}\n",
+                "with Pokémon...{VAR BE01}\n",
+                "Pokémon that were betrayed, mistreated\n",
+                "and hurt by bad people...{VAR BE01}\n",
+                "Ghetsis deliberately brought only those\n",
+                "poor Pokémon closer to N.{VAR BE01}\n",
+                "N was touched by their plight, and\n",
+                "started pursuing his ideals,{VAR BE00}\n",
+                "thinking only of Pokémon.{VAR BE01}\n",
+                "N's heart is pure and innocent.{VAR BE01}\n",
+                "But there is nothing more beautiful\n",
+                "and terrifying than innocence."
+            ]
+        }
+    ]
+}

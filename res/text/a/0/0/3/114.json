@@ -1,0 +1,68 @@
+{
+    "flags": 224,
+    "pad": "1414",
+    "messages": [
+        {
+            "id": "a003_114_0000",
+            "en_US": [
+                "When a Pokémon learns the move\n",
+                "Hidden Power, somehow I can tell{VAR BE00}\n",
+                "what type that move will be!{VAR BE01}\n",
+                "Should I tell you what type of\n",
+                "Hidden Power your Pokémon will learn?"
+            ]
+        },
+        {
+            "id": "a003_114_0001",
+            "en_US": [
+                "Now that I'm aware of my hidden power,\n",
+                "I can tell you what type of Hidden Power{VAR BE00}\n",
+                "your Pokémon will learn!{VAR BE00}\n",
+                "Do you want to know?"
+            ]
+        },
+        {
+            "id": "a003_114_0002",
+            "en_US": [
+                "If this Pokémon were to learn\n",
+                "Hidden Power, the move's type{VAR BE00}\n",
+                "would be {VAR 0103 0000}!"
+            ]
+        },
+        {
+            "id": "a003_114_0003",
+            "en_US": [
+                "The type of this Pokémon's\n",
+                "Hidden Power would be {VAR 0103 0000}!"
+            ]
+        },
+        {
+            "id": "a003_114_0004",
+            "en_US": [
+                "If you want to know, ask me, and I'll\n",
+                "activate my hidden power for you!"
+            ]
+        },
+        {
+            "id": "a003_114_0005",
+            "en_US": [
+                "It's not possible for an Egg to use\n",
+                "Hidden Power!"
+            ]
+        },
+        {
+            "id": "a003_114_0006",
+            "en_US": [
+                "I'm sorry, but this Pokémon can't learn\n",
+                "to use Hidden Power."
+            ]
+        },
+        {
+            "id": "a003_114_0007",
+            "en_US": [
+                "The Entree and Pass Power...\n",
+                "What in the world is the Entralink?"
+            ]
+        }
+    ]
+}

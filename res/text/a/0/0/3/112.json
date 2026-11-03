@@ -1,0 +1,414 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_112_0000",
+            "en_US": [
+                "Oh! Hey!\n",
+                "{VAR 0100 0000}, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0001",
+            "en_US": [
+                "Let me see your Pokédex for a moment.{VAR BE01}\n",
+                "What do we have here?{VAR BE01}\n",
+                "So, you've found {VAR 0202 0000} Pokémon, eh?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0002",
+            "en_US": [
+                "Staggering! You've seen a Klink!\n",
+                "You're becoming quite the Trainer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0003",
+            "en_US": [
+                "Hmmm...\n",
+                "You haven't seen a Klink yet, eh?{VAR BE01}\n",
+                "Still, that's a great Pokédex!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0004",
+            "en_US": [
+                "Excuse me! I was a little excited\n",
+                "and forgot my manners.{VAR BE01}\n",
+                "My name is Juniper, too! Cedric Juniper.{VAR BE01}\n",
+                "Heh! The professor who gave you\n",
+                "the Pokédex is my daughter!{VAR BE01}\n",
+                "That girl has told me a lot about you.{VAR BE01}\n",
+                "It really makes my day to meet you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0005",
+            "en_US": [
+                "In honor of our meeting,\n",
+                "I'm going to upgrade your Pokédex!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0006",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokédex has\n",
+                "been upgraded!"
+            ]
+        },
+        {
+            "id": "a003_112_0007",
+            "en_US": [
+                "Cedric: Some Pokémon can change forms\n",
+                "even when it's the same individual.{VAR BE01}\n",
+                "If you have already seen a form, you\n",
+                "can check it with this whenever you want.{VAR BE01}\n",
+                "I also added a function to make\n",
+                "searching easier.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0008",
+            "en_US": "???: Professor, who's that Trainer?{VAR BE01}"
+        },
+        {
+            "id": "a003_112_0009",
+            "en_US": [
+                "Cedric: Oh! I forgot my introductions!\n",
+                "Skyla, this is a friend of my daughter's.{VAR BE01}\n",
+                "{VAR 0100 0000} is traveling around\n",
+                "Unova to complete the Pokédex.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0010",
+            "en_US": [
+                "Skyla: Oh, I see! So that means you'll\n",
+                "be challenging the Gym!{VAR BE00}\n",
+                "Oh boy! I'm really looking forward to it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0011",
+            "en_US": [
+                "Cedric: That's right, {VAR 0100 0000}.\n",
+                "You should challenge this Gym!{VAR BE01}\n",
+                "If nothing else, this Gym\n",
+                "is really out there!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0012",
+            "en_US": [
+                "See you, Skyla. If something comes\n",
+                "up again, I'll let you know!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0013",
+            "en_US": [
+                "Skyla: Professor, my plane\n",
+                "is a cargo plane!{VAR BE01}\n",
+                "It carries cargo, not people!{VAR BE01}\n",
+                "And you're talking as if places like Kanto\n",
+                "and Sinnoh are right around the corner!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0014",
+            "en_US": [
+                "Cedric: Aww, Skyla.\n",
+                "If you keep frowning, your face might{VAR BE00}\n",
+                "freeze like that, and that'd be a shame.{VAR BE01}\n",
+                "People and Pokémon, we all have\n",
+                "to help each other out!{VAR BE01}\n",
+                "See you later!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0015",
+            "en_US": [
+                "Skyla: Sheesh!{VAR BE01}\n",
+                "It's hard to believe a happy-go-lucky\n",
+                "guy like that could be a world-renowned{VAR BE00}\n",
+                "Pokémon professor.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0016",
+            "en_US": [
+                "Heads-up, {VAR 0100 0000}.{VAR BE01}\n",
+                "As a Gym Leader, I'd be happy to have\n",
+                "you challenge the Gym, but there's{VAR BE00}\n",
+                "something I need to take care of first.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0017",
+            "en_US": [
+                "Heads-up, {VAR 0100 0000}.{VAR BE01}\n",
+                "As a Gym Leader, I'd be happy to have\n",
+                "you challenge the Gym, but there's{VAR BE00}\n",
+                "something I need to take care of first.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0018",
+            "en_US": [
+                "Just now, as I was flying the\n",
+                "cargo plane, I saw something{VAR BE00}\n",
+                "on top of the Celestial Tower.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0019",
+            "en_US": [
+                "I'm sure that it is a sick Pokémon!\n",
+                "If it is, I can't just leave it there!{VAR BE01}\n",
+                "I have to look into this right away.{VAR BE01}\n",
+                "I'm leaving for Route 7's Celestial Tower.\n",
+                "You can come along if you want.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0020",
+            "en_US": [
+                "Skyla completed her cargo-plane run.\n",
+                "She must have gone somewhere after.{VAR BE01}\n",
+                "Maybe to the Celestial Tower on Route 7?"
+            ]
+        },
+        {
+            "id": "a003_112_0021",
+            "en_US": [
+                "N: {VAR BE09 0001}They may say it is for understanding\n",
+                "one another better, but what Trainers{VAR BE00}\n",
+                "really use battles for is to compete...{VAR BE00}\n",
+                "And they hurt each other's Pokémon!{VAR BE01}\n",
+                "Am I the only one who finds this\n",
+                "terribly painful?{VAR BE01}\n",
+                "Whatever...\n",
+                "I'm going to talk to your Pokémon.{VAR BE01}\n",
+                "I've been living with Pokémon\n",
+                "since I was born, so it's easier for{VAR BE00}\n",
+                "me to talk with them than with people.{VAR BE01}\n",
+                "...Because Pokémon never tell lies.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0022",
+            "en_US": [
+                "{VAR BE09 0001}Hey, {VAR 0101 0000}.{VAR BE01}\n",
+                "Would you tell me what kind of Trainer\n",
+                "{VAR 0100 0001} is?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0023",
+            "en_US": [
+                "{VAR BE09 0001}OK, OK, got it.{VAR BE01}\n",
+                "So {VAR 0100 0001} was born in Nuvema Town,\n",
+                "lives with Mom, and was given the Pokédex{VAR BE00}\n",
+                "to start off a journey to see the world.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0024",
+            "en_US": [
+                "{VAR BE09 0001}Still, this {VAR 0101 0001} trusts you\n",
+                "for some reason. That's good!{VAR BE01}\n",
+                "If every person and Pokémon cared about\n",
+                "one another like you two do,{VAR BE00}\n",
+                "I could watch over the future of people{VAR BE00}\n",
+                "and Pokémon without having to liberate{VAR BE00}\n",
+                "Pokémon from people who just use them.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0025",
+            "en_US": [
+                "{VAR BE09 0001}Ghetsis is using Team Plasma\n",
+                "to search for some special stones--{VAR BE01}\n",
+                "the Light Stone and the Dark Stone...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0026",
+            "en_US": [
+                "{VAR BE09 0001}These stones hold the essence of two\n",
+                "legendary Pokémon. It is said that when{VAR BE00}\n",
+                "they lost their physical form, they fell{VAR BE00}\n",
+                "into a slumber and were transformed.{VAR BE01}\n",
+                "Now, they wait for the hero's arrival...{VAR BE01}\n",
+                "I shall resurrect a legendary\n",
+                "Dragon-type Pokémon from one of{VAR BE00}\n",
+                "these stones, and become its friend.{VAR BE01}\n",
+                "That will show the world that\n",
+                "I am the new hero.{VAR BE00}\n",
+                "Everyone will follow what I say!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0027",
+            "en_US": [
+                "{VAR BE09 0001}My vision is to change the world\n",
+                "without using force.{VAR BE01}\n",
+                "Trying to change the world by force\n",
+                "will just make others resist.{VAR BE01}\n",
+                "If people resist, the ones that will be\n",
+                "hurt are the innocent Pokémon{VAR BE00}\n",
+                "used by foolish Trainers.{VAR BE01}\n",
+                "You understand.{VAR BE01}\n",
+                "Pokémon are not just tools\n",
+                "for people to use!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0028",
+            "en_US": [
+                "{VAR BE09 0001}As a result...{VAR BE01}\n",
+                "Pokémon and Trainers who care about\n",
+                "one another, like you and your Pokémon,{VAR BE00}\n",
+                "will be separated.{VAR BE00}\n",
+                "And that does break my heart a little. {VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0029",
+            "en_US": [
+                "Planes! Their shapes!\n",
+                "They are perfectly designed to fly!{VAR BE01}\n",
+                "There is no excess in the\n",
+                "mechanics for flying!"
+            ]
+        },
+        {
+            "id": "a003_112_0030",
+            "en_US": [
+                "The only planes that fly out of\n",
+                "Mistralton Airport are cargo planes.{VAR BE01}\n",
+                "If Trainers want to fly, they can go\n",
+                "with a Pokémon that knows the move Fly."
+            ]
+        },
+        {
+            "id": "a003_112_0031",
+            "en_US": [
+                "Skyla's grandfather was\n",
+                "a legendary Pilot.{VAR BE01}\n",
+                "Skyla is our city's Gym Leader.\n",
+                "She's a really nice person!"
+            ]
+        },
+        {
+            "id": "a003_112_0032",
+            "en_US": [
+                "Pokémon and people worked together\n",
+                "to open up desolate land and make{VAR BE00}\n",
+                "a place where everyone could live.{VAR BE01}\n",
+                "I'm certain that this cooperative\n",
+                "spirit will remain unchanged."
+            ]
+        },
+        {
+            "id": "a003_112_0033",
+            "en_US": [
+                "It's dangerous to play in a landing strip,\n",
+                "but you should be OK on ours.{VAR BE01}\n",
+                "We only have one cargo flight a day."
+            ]
+        },
+        {
+            "id": "a003_112_0034",
+            "en_US": [
+                "I hear many people have had their\n",
+                "Pokémon stolen by Team Plasma..."
+            ]
+        },
+        {
+            "id": "a003_112_0035",
+            "en_US": [
+                "If you want to eat delicious vegetables,\n",
+                "the ones grown in the wild are the best.{VAR BE01}\n",
+                "As the weather and the seasons change,\n",
+                "wild vegetables get more and more tasty.{VAR BE01}\n",
+                "Even Pokémon like to eat wild vegetables!"
+            ]
+        },
+        {
+            "id": "a003_112_0036",
+            "en_US": [
+                "Vegetables grown in a greenhouse\n",
+                "are the best.{VAR BE01}\n",
+                "The temperature and their nutrients\n",
+                "are all managed systematically.{VAR BE01}\n",
+                "Vegetables grown in a completely\n",
+                "efficient way taste extra delicious!"
+            ]
+        },
+        {
+            "id": "a003_112_0037",
+            "en_US": "Oh! You found our treasure!{VAR BE01}"
+        },
+        {
+            "id": "a003_112_0038",
+            "en_US": "Found it!{VAR BE01}"
+        },
+        {
+            "id": "a003_112_0039",
+            "en_US": [
+                "Just kidding.{VAR BE01}\n",
+                "We don't have a Pokémon, so we planned\n",
+                "to hide this TM until we got one.{VAR BE01}\n",
+                "But that would be a waste, so--here!\n",
+                "You can use it!{VAR BE01}\n",
+                "We'll get another one from Skyla.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0040",
+            "en_US": [
+                "Just kidding.{VAR BE01}\n",
+                "We don't have a Pokémon, so we planned\n",
+                "to hide this TM until we got one.{VAR BE01}\n",
+                "But that would be a waste, so--here!\n",
+                "You can use it!{VAR BE01}\n",
+                "We'll get another one from Skyla.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_112_0041",
+            "en_US": "Yoooo-ooou can uuu-uuuuuse it!{VAR BE01}"
+        },
+        {
+            "id": "a003_112_0042",
+            "en_US": "See you! Bye-bye!{VAR BE01}"
+        },
+        {
+            "id": "a003_112_0043",
+            "en_US": [
+                "Mistralton City\n",
+                "Strewn with Windblown Leaves"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_112_0044",
+            "en_US": [
+                "Mistralton Cargo Service\n",
+                "Our slogan is “Quick and Safe!\""
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_112_0045",
+            "en_US": [
+                "Mistralton City Pokémon Gym\n",
+                "Leader: Skyla{VAR BE00}\n",
+                "The Highflying Girl"
+            ],
+            "flags": 207
+        }
+    ]
+}

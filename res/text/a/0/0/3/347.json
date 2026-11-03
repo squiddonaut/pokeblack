@@ -1,0 +1,346 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_347_0000",
+            "en_US": [
+                "Er...\n",
+                "Who was I again?{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "...Oh, that's right!\n",
+                "I am the Move Deleter!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0001",
+            "en_US": [
+                "You've come to make me force your\n",
+                "Pokémon to forget some moves?"
+            ]
+        },
+        {
+            "id": "a003_347_0002",
+            "en_US": "Which Pokémon should forget a move?{VAR BE01}"
+        },
+        {
+            "id": "a003_347_0003",
+            "en_US": [
+                "Remember me if there are moves that\n",
+                "need to be forgotten."
+            ]
+        },
+        {
+            "id": "a003_347_0004",
+            "en_US": [
+                "That Pokémon knows only one move,\n",
+                "so it can't be forgotten...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0005",
+            "en_US": [
+                "What? That's an Egg.\n",
+                "No Egg should know any moves.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0006",
+            "en_US": [
+                "OK, then.\n",
+                "Which move should be forgotten?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0007",
+            "en_US": [
+                "Hm! The move {VAR 0107 0000}?\n",
+                "Should that move be forgotten?"
+            ]
+        },
+        {
+            "id": "a003_347_0008",
+            "en_US": [
+                "It worked perfectly!{VAR BE01}\n",
+                "Your Pokémon has forgotten the move\n",
+                "{VAR 0107 0000} completely."
+            ]
+        },
+        {
+            "id": "a003_347_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0016",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0020",
+            "en_US": [
+                "Which move should\n",
+                "{VAR 0102 0000} remember?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0021",
+            "en_US": [
+                "Should the move {VAR 0107 0001}\n",
+                "be remembered?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0022",
+            "en_US": [
+                "Give up trying to make \n",
+                "{VAR 0102 0000} remember a move?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0023",
+            "en_US": [
+                "{VAR 0102 0000} remembered the move\n",
+                "{VAR 0107 0001} it had forgotten!{VAR BE01}"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0024",
+            "en_US": [
+                "{VAR 0102 0000} wants to remember\n",
+                "the move {VAR 0107 0001}.{VAR BE01}\n",
+                "But {VAR 0102 0000} can't learn more\n",
+                "than four moves.{VAR BE01}\n",
+                "Delete an existing move to make \n",
+                "room for {VAR 0107 0001}?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0025",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0005}{VAR BE01}\n",
+                "{VAR BE01}\n",
+                "{VAR 0102 0000} forgot how to\n",
+                "use {VAR 0107 0001}.{VAR BE01}\n",
+                "And...{VAR BE01}"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0026",
+            "en_US": [
+                "{VAR 0102 0000} remembered the move\n",
+                "{VAR 0107 0001} it had forgotten!{VAR BE01}"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0027",
+            "en_US": [
+                "Give up on making the Pokémon\n",
+                "remember {VAR 0107 0001}?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0028",
+            "en_US": [
+                "{VAR 0102 0000} did not remember the\n",
+                "move {VAR 0107 0001}.{VAR BE01}"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0029",
+            "en_US": [
+                "{VAR 0100 0000} handed over one\n",
+                "Heart Scale in exchange."
+            ]
+        },
+        {
+            "id": "a003_347_0030",
+            "en_US": [
+                "Is it OK to forget the\n",
+                "move {VAR 0107 0000}?"
+            ],
+            "flags": 205
+        },
+        {
+            "id": "a003_347_0031",
+            "en_US": [
+                "Everybody calls me the reminder girl.{VAR BE01}\n",
+                "I know every move that Pokémon learn\n",
+                "while they're leveling up.{VAR BE01}\n",
+                "And I can make Pokémon remember\n",
+                "those moves!{VAR BE01}\n",
+                "If you bring me a Heart Scale, I'll make\n",
+                "a Pokémon remember a move.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_347_0032",
+            "en_US": "Should a move be remembered?"
+        },
+        {
+            "id": "a003_347_0033",
+            "en_US": "Which Pokémon should learn it?{VAR BE01}"
+        },
+        {
+            "id": "a003_347_0034",
+            "en_US": [
+                "If any of your Pokémon needs to\n",
+                "remember a move, bring me a Heart Scale!"
+            ]
+        },
+        {
+            "id": "a003_347_0035",
+            "en_US": "Eggs can't remember moves!"
+        },
+        {
+            "id": "a003_347_0036",
+            "en_US": [
+                "This Pokémon hasn't forgotten\n",
+                "any moves."
+            ]
+        },
+        {
+            "id": "a003_347_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0038",
+            "en_US": "POWER",
+            "flags": 44
+        },
+        {
+            "id": "a003_347_0039",
+            "en_US": "ACCURACY",
+            "flags": 60
+        },
+        {
+            "id": "a003_347_0040",
+            "en_US": "PP",
+            "flags": 21
+        },
+        {
+            "id": "a003_347_0041",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0042",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0043",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0044",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a003_347_0045",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a003_347_0046",
+            "en_US": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "id": "a003_347_0047",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0048",
+            "en_US": "---",
+            "flags": 24
+        },
+        {
+            "id": "a003_347_0049",
+            "en_US": "QUIT",
+            "flags": 41
+        },
+        {
+            "id": "a003_347_0050",
+            "en_US": "TEACH",
+            "flags": 54
+        },
+        {
+            "id": "a003_347_0051",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_347_0052",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 72
+        },
+        {
+            "id": "a003_347_0053",
+            "en_US": "Lv. {VAR 0202 0000}",
+            "flags": 45
+        },
+        {
+            "id": "a003_347_0054",
+            "en_US": "LEARNED MOVES",
+            "flags": 160
+        }
+    ]
+}

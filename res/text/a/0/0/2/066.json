@@ -1,0 +1,329 @@
+{
+    "flags": 240,
+    "pad": "1c1c",
+    "messages": [
+        {
+            "id": "a002_066_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_066_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_066_0002",
+            "en_US": [
+                "Let {VAR 0100 0000} talk to you and\n",
+                "give “{VAR 0110 0001}\" in return!"
+            ]
+        },
+        {
+            "id": "a002_066_0003",
+            "en_US": [
+                "Talk to {VAR 0100 0000} and\n",
+                "give “{VAR 0110 0001}\"!"
+            ]
+        },
+        {
+            "id": "a002_066_0004",
+            "en_US": [
+                "Challenge {VAR 0100 0000} to a battle!\n",
+                "Flat Battle: Lv. {VAR 0202 0001}, two Pokémon"
+            ]
+        },
+        {
+            "id": "a002_066_0005",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\""
+            ]
+        },
+        {
+            "id": "a002_066_0006",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\""
+            ]
+        },
+        {
+            "id": "a002_066_0007",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\""
+            ]
+        },
+        {
+            "id": "a002_066_0008",
+            "en_US": [
+                "Talk to {VAR 0100 0000} in a battle\n",
+                "and give “HP Restoring Power.\""
+            ]
+        },
+        {
+            "id": "a002_066_0009",
+            "en_US": [
+                "Stash one {VAR 0109 0000} between\n",
+                "two benches in Nimbasa City!"
+            ]
+        },
+        {
+            "id": "a002_066_0010",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "house behind the market in Driftveil City!"
+            ]
+        },
+        {
+            "id": "a002_066_0011",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "second airplane in Mistralton City!"
+            ]
+        },
+        {
+            "id": "a002_066_0012",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where they\n",
+                "were going round and round in Icirrus City!"
+            ]
+        },
+        {
+            "id": "a002_066_0013",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the gate\n",
+                "where you cannot warp in Opelucid City!"
+            ]
+        },
+        {
+            "id": "a002_066_0014",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the manhole\n",
+                "in Lacunosa Town!"
+            ]
+        },
+        {
+            "id": "a002_066_0015",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "fountain in Undella Town!"
+            ]
+        },
+        {
+            "id": "a002_066_0016",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "where the Musician was on Route 5!"
+            ]
+        },
+        {
+            "id": "a002_066_0017",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the middle of the\n",
+                "northward bridge on Route 6!"
+            ]
+        },
+        {
+            "id": "a002_066_0018",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "Celestial Tower on Route 7!"
+            ]
+        },
+        {
+            "id": "a002_066_0019",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "sign on Route 8!"
+            ]
+        },
+        {
+            "id": "a002_066_0020",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "trash can on Route 9!"
+            ]
+        },
+        {
+            "id": "a002_066_0021",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the camper on Route 11!"
+            ]
+        },
+        {
+            "id": "a002_066_0022",
+            "en_US": [
+                "Stash one {VAR 0109 0000} at the sign\n",
+                "in the middle of Route 12!"
+            ]
+        },
+        {
+            "id": "a002_066_0023",
+            "en_US": [
+                "Stash one {VAR 0109 0000} under the tree\n",
+                "on the grassy island on Route 13!"
+            ]
+        },
+        {
+            "id": "a002_066_0024",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where the beach\n",
+                "begins on Route 14!"
+            ]
+        },
+        {
+            "id": "a002_066_0025",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the trash can on Route 15!"
+            ]
+        },
+        {
+            "id": "a002_066_0026",
+            "en_US": [
+                "Stash one {VAR 0109 0000} by the\n",
+                "missing fence on Route 16!"
+            ]
+        },
+        {
+            "id": "a002_066_0027",
+            "en_US": [
+                "Stash one {VAR 0109 0000} between\n",
+                "two benches in Nimbasa City!"
+            ]
+        },
+        {
+            "id": "a002_066_0028",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "house behind the market in Driftveil City!"
+            ]
+        },
+        {
+            "id": "a002_066_0029",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "second airplane in Mistralton City!"
+            ]
+        },
+        {
+            "id": "a002_066_0030",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where they\n",
+                "were going round and round in Icirrus City!"
+            ]
+        },
+        {
+            "id": "a002_066_0031",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the gate\n",
+                "where you cannot warp in Opelucid City!"
+            ]
+        },
+        {
+            "id": "a002_066_0032",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the manhole\n",
+                "in Lacunosa Town!"
+            ]
+        },
+        {
+            "id": "a002_066_0033",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "fountain in Undella Town!"
+            ]
+        },
+        {
+            "id": "a002_066_0034",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "where the Musician was on Route 5!"
+            ]
+        },
+        {
+            "id": "a002_066_0035",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in the middle of the\n",
+                "northward bridge on Route 6!"
+            ]
+        },
+        {
+            "id": "a002_066_0036",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "Celestial Tower on Route 7!"
+            ]
+        },
+        {
+            "id": "a002_066_0037",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "sign on Route 8!"
+            ]
+        },
+        {
+            "id": "a002_066_0038",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of the\n",
+                "trash can on Route 9!"
+            ]
+        },
+        {
+            "id": "a002_066_0039",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the camper on Route 11!"
+            ]
+        },
+        {
+            "id": "a002_066_0040",
+            "en_US": [
+                "Stash one {VAR 0109 0000} at the sign\n",
+                "in the middle of Route 12!"
+            ]
+        },
+        {
+            "id": "a002_066_0041",
+            "en_US": [
+                "Stash one {VAR 0109 0000} under the tree\n",
+                "on the grassy island on Route 13!"
+            ]
+        },
+        {
+            "id": "a002_066_0042",
+            "en_US": [
+                "Stash one {VAR 0109 0000} where the beach\n",
+                "begins on Route 14!"
+            ]
+        },
+        {
+            "id": "a002_066_0043",
+            "en_US": [
+                "Stash one {VAR 0109 0000} in front of\n",
+                "the trash can on Route 15!"
+            ]
+        },
+        {
+            "id": "a002_066_0044",
+            "en_US": [
+                "Stash one {VAR 0109 0000} by the\n",
+                "missing fence on Route 16!"
+            ]
+        },
+        {
+            "id": "a002_066_0045",
+            "en_US": [
+                "Sell one {VAR 0109 0001} to {VAR 0100 0000}\n",
+                "at a reasonable price!"
+            ]
+        },
+        {
+            "id": "a002_066_0046",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

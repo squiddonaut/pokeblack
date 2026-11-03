@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_393_0000",
+            "en_US": [
+                "Halt! The key to open this gate\n",
+                "is the Jet Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_393_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_393_0002",
+            "en_US": [
+                "Oh, holder of the Jet Badge!\n",
+                "Blast ahead with tremendous force!"
+            ]
+        },
+        {
+            "id": "a003_393_0003",
+            "en_US": [
+                "First, obtain the Jet Badge\n",
+                "from the Mistralton Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_393_0004",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

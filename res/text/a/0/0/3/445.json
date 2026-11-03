@@ -1,0 +1,125 @@
+{
+    "flags": 224,
+    "pad": "fcfc",
+    "messages": [
+        {
+            "id": "a003_445_0000",
+            "en_US": [
+                "Lacunosa Town\n",
+                "Methodical and Orderly"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_445_0001",
+            "en_US": [
+                "Welcome to Lacunosa Town.{VAR BE01}\n",
+                "In this town, people live as methodically\n",
+                "as clockwork from morning to night.{VAR BE01}\n",
+                "If you live your life soaking up sunlight,\n",
+                "you can sleep very well at night."
+            ]
+        },
+        {
+            "id": "a003_445_0002",
+            "en_US": [
+                "Well, hello there, young traveler!{VAR BE01}\n",
+                "Would you like to hear an old story\n",
+                "of Lacunosa Town?{VAR BE01}\n",
+                "Bear with me, because I'm an old lady who\n",
+                "likes telling tales the old-fashioned way!"
+            ]
+        },
+        {
+            "id": "a003_445_0003",
+            "en_US": [
+                "There's a great big hole at the back\n",
+                "of this town.{VAR BE01}\n",
+                "A long time ago, a huge meteor fell from\n",
+                "the sky and made the big hole.{VAR BE01}\n",
+                "A very scary monster was hiding\n",
+                "inside the meteor!{VAR BE01}\n",
+                "People say the monster appeared in the\n",
+                "village at night, bringing a cold wind, and{VAR BE00}\n",
+                "it stole away people and Pokémon...{VAR BE01}\n",
+                "So the villagers built big walls to keep\n",
+                "the monster out and made a rule that{VAR BE00}\n",
+                "no one could go out after dark.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_445_0004",
+            "en_US": [
+                "...Of course, nowadays nobody believes in\n",
+                "such things.{VAR BE01}\n",
+                "But you know...{VAR BE01}\n",
+                "Even now, the people of this town\n",
+                "stay inside after dark.{VAR BE00}\n",
+                "Isn't that strange?{VAR BE01}\n",
+                "I guess old stories and old traditions\n",
+                "have some influence on our current life."
+            ]
+        },
+        {
+            "id": "a003_445_0005",
+            "en_US": [
+                "Oh, well, that's too bad. Come talk to me\n",
+                "if you're ever in the mood for a story!"
+            ]
+        },
+        {
+            "id": "a003_445_0006",
+            "en_US": [
+                "At night, a scary monster comes out of\n",
+                "the big hole, so you have to go home{VAR BE00}\n",
+                "and be good!"
+            ]
+        },
+        {
+            "id": "a003_445_0007",
+            "en_US": [
+                "Along the road ahead, there is a\n",
+                "coastline that fishing fans love.{VAR BE01}\n",
+                "Whirrrrr...plunk!{VAR BE01}\n",
+                "That's the sound my fishing rod makes.\n",
+                "I like to hear it every day!"
+            ]
+        },
+        {
+            "id": "a003_445_0008",
+            "en_US": [
+                "My grandma loves to tell old stories.{VAR BE01}\n",
+                "She makes me listen to her long stories\n",
+                "all the time!"
+            ]
+        },
+        {
+            "id": "a003_445_0009",
+            "en_US": [
+                "There are a lot of people in the world,\n",
+                "and there are just as many different{VAR BE00}\n",
+                "characteristics and ideas."
+            ]
+        },
+        {
+            "id": "a003_445_0010",
+            "en_US": [
+                "I don't have anything to do ever since\n",
+                "I took a post here.{VAR BE01}\n",
+                "Since nobody goes outside at night,\n",
+                "it's very peaceful."
+            ]
+        },
+        {
+            "id": "a003_445_0011",
+            "en_US": "Gahoo! Gahoo!"
+        },
+        {
+            "id": "a003_445_0012",
+            "en_US": [
+                "My Pokémon always goes out\n",
+                "for fun without me."
+            ]
+        }
+    ]
+}

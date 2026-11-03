@@ -1,0 +1,30 @@
+{
+    "name": "Ally Switch",
+    "description": [
+        "The user teleports using a strange power\n",
+        "and switches its place with one of\n",
+        "its allies."
+    ],
+    "type": "TYPE_PSYCHIC",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 15,
+    "priority": 1,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 307,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [],
+    "flags": []
+}

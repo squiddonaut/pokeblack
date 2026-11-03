@@ -1,0 +1,39 @@
+{
+    "flags": 224,
+    "pad": "c2c2",
+    "messages": [
+        {
+            "id": "a003_016_0000",
+            "en_US": [
+                "Oh! Trainer!\n",
+                "Do you have enough Poké Balls?{VAR BE01}\n",
+                "Don't be shy.\n",
+                "Take this with you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_016_0001",
+            "en_US": [
+                "You cannot have too many Poké Balls!{VAR BE01}\n",
+                "My advice is that when you use a better\n",
+                "Poké Ball, it's easier to catch Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_016_0002",
+            "en_US": [
+                "The beginning of my relationship with\n",
+                "my wife was our Pokémon battles.{VAR BE01}\n",
+                "I could not defeat her, even\n",
+                "though I tried many times!"
+            ]
+        },
+        {
+            "id": "a003_016_0003",
+            "en_US": [
+                "My husband and I are compatible...\n",
+                "because he cannot beat me in battle!"
+            ]
+        }
+    ]
+}

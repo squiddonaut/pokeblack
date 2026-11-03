@@ -1,0 +1,1333 @@
+{
+    "flags": 18,
+    "pad": "3636",
+    "messages": [
+        {
+            "id": "a002_208_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0002",
+            "en_US": "{VAR 0102 0000} was not traded.{VAR BE01}",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0003",
+            "en_US": [
+                "{VAR 0102 0000} appears to have\n",
+                "fled...{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0004",
+            "en_US": "Are you seeking or offering a Pokémon?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0005",
+            "en_US": "Do what with this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0006",
+            "en_US": "Will you take this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0007",
+            "en_US": [
+                "Is it OK to disconnect from\n",
+                "Nintendo Wi-Fi Connection?"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0008",
+            "en_US": "What kind of Pokémon are you seeking?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0009",
+            "en_US": "Please choose the Pokémon you want.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0010",
+            "en_US": "Please choose its gender.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0011",
+            "en_US": "Please choose the level.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0012",
+            "en_US": "Please choose the Pokémon you want!",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0013",
+            "en_US": "Searching for the Pokémon you want...",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0014",
+            "en_US": "None were found!",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0015",
+            "en_US": "Stop searching?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0016",
+            "en_US": "Trade Pokémon with this Trainer?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0017",
+            "en_US": "Choose the Pokémon you are trading.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0018",
+            "en_US": "Do what with this {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0021",
+            "en_US": "Choose the Pokémon you want to offer.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0022",
+            "en_US": "Offer {VAR 0102 0000}?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0023",
+            "en_US": "Are these conditions OK?",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0024",
+            "en_US": "Checking GTS's status...",
+            "flags": 201
+        },
+        {
+            "id": "a002_208_0025",
+            "en_US": [
+                "The Ball Capsule will be detached.\n",
+                "Is that OK?"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0026",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0027",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13266)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0028",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13267)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0029",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13268)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0030",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13269)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0031",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13270)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0032",
+            "en_US": [
+                "That Pokémon may not be offered\n",
+                "for trade (13271)!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0033",
+            "en_US": [
+                "An Egg may not be offered\n",
+                "for trade!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0035",
+            "en_US": [
+                "Your Storage Boxes are full.\n",
+                "You can't receive a Pokémon!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0036",
+            "en_US": "A trade partner has been found!",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0038",
+            "en_US": "Touch “SELECT\" to set trade partner.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0039",
+            "en_US": "Please change your conditions.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0040",
+            "en_US": "Please wait a while.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0041",
+            "en_US": [
+                "Your party is full. You can't receive\n",
+                "a Pokémon that is holding Mail.{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0042",
+            "en_US": "There is no room in your party.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0043",
+            "en_US": [
+                "It has a special Ribbon.\n",
+                "It can't be offered for a trade.{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0044",
+            "en_US": "GTS check failed.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0045",
+            "en_US": "{VAR BD02}GLOBAL TRADE SYSTEM",
+            "flags": 224
+        },
+        {
+            "id": "a002_208_0046",
+            "en_US": "{VAR BD02}SUMMARY",
+            "flags": 120
+        },
+        {
+            "id": "a002_208_0047",
+            "en_US": "{VAR BD02}DEPOSIT POKÉMON",
+            "flags": 120
+        },
+        {
+            "id": "a002_208_0048",
+            "en_US": "{VAR BD02}SEEK POKÉMON",
+            "flags": 120
+        },
+        {
+            "id": "a002_208_0049",
+            "en_US": "{VAR BD02}QUIT",
+            "flags": 120
+        },
+        {
+            "id": "a002_208_0050",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0051",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0052",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0053",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0054",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0055",
+            "en_US": "OFFERER",
+            "flags": 76
+        },
+        {
+            "id": "a002_208_0056",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0057",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0058",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0059",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0060",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0061",
+            "en_US": "TAKE BACK",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0062",
+            "en_US": "LEAVE AS IS",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0063",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_208_0064",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_208_0065",
+            "en_US": "NAME",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0066",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0067",
+            "en_US": "POKÉMON",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0068",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0069",
+            "en_US": "GENDER",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0070",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0071",
+            "en_US": "LEVEL",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0072",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0073",
+            "en_US": "SEARCH",
+            "flags": 80
+        },
+        {
+            "id": "a002_208_0074",
+            "en_US": "{VAR BD02}BACK",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0075",
+            "en_US": "SELECT",
+            "flags": 80
+        },
+        {
+            "id": "a002_208_0076",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0077",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0078",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0079",
+            "en_US": "ITEM",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0080",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0081",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0082",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0083",
+            "en_US": "WANTED",
+            "flags": 93
+        },
+        {
+            "id": "a002_208_0084",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0085",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0086",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0087",
+            "en_US": "OT'S LOCATION",
+            "flags": 93
+        },
+        {
+            "id": "a002_208_0088",
+            "en_US": "{VAR 0124 0008}",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0089",
+            "en_US": "{VAR 0125 0009}",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0090",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0091",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0092",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0093",
+            "en_US": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0094",
+            "en_US": "TRADE",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0095",
+            "en_US": "CANCEL",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0096",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0097",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0098",
+            "en_US": "IN PARTY",
+            "flags": 104
+        },
+        {
+            "id": "a002_208_0099",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0100",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0101",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0102",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0103",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0104",
+            "en_US": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0105",
+            "en_US": "DEPOSIT",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0106",
+            "en_US": "CANCEL",
+            "flags": 86
+        },
+        {
+            "id": "a002_208_0107",
+            "en_US": "WANTED",
+            "flags": 93
+        },
+        {
+            "id": "a002_208_0108",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0109",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0110",
+            "en_US": "OFFER POKÉMON",
+            "flags": 96
+        },
+        {
+            "id": "a002_208_0111",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0112",
+            "en_US": "Lv.",
+            "flags": 21
+        },
+        {
+            "id": "a002_208_0113",
+            "en_US": "{VAR 0202 0003}",
+            "flags": 32
+        },
+        {
+            "id": "a002_208_0114",
+            "en_US": "Lv. {VAR 0202 0003}",
+            "flags": 96
+        },
+        {
+            "id": "a002_208_0115",
+            "en_US": "CANCEL",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0116",
+            "en_US": "ABC"
+        },
+        {
+            "id": "a002_208_0117",
+            "en_US": "DEF"
+        },
+        {
+            "id": "a002_208_0118",
+            "en_US": "GHI"
+        },
+        {
+            "id": "a002_208_0119",
+            "en_US": "JKL"
+        },
+        {
+            "id": "a002_208_0120",
+            "en_US": "MNO"
+        },
+        {
+            "id": "a002_208_0121",
+            "en_US": "PQR"
+        },
+        {
+            "id": "a002_208_0122",
+            "en_US": "STU"
+        },
+        {
+            "id": "a002_208_0123",
+            "en_US": "VWX"
+        },
+        {
+            "id": "a002_208_0124",
+            "en_US": "YZ"
+        },
+        {
+            "id": "a002_208_0125",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0126",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0127",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0128",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0129",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0130",
+            "en_US": "EITHER",
+            "flags": 70
+        },
+        {
+            "id": "a002_208_0131",
+            "en_US": "⑭",
+            "flags": 9
+        },
+        {
+            "id": "a002_208_0132",
+            "en_US": "⑮",
+            "flags": 9
+        },
+        {
+            "id": "a002_208_0133",
+            "en_US": "{VAR BD02}Back",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0134",
+            "en_US": "ANY",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0135",
+            "en_US": "Lv. 9 and under",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0136",
+            "en_US": "Lv. 10 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0137",
+            "en_US": "Lv. 20 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0138",
+            "en_US": "Lv. 30 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0139",
+            "en_US": "Lv. 40 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0140",
+            "en_US": "Lv. 50 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0141",
+            "en_US": "Lv. 60 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0142",
+            "en_US": "Lv. 70 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0143",
+            "en_US": "Lv. 80 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0144",
+            "en_US": "Lv. 90 and up",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0145",
+            "en_US": "Lv. 100",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0146",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0147",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0148",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0149",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0150",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0151",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0152",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0153",
+            "en_US": [
+                "Unfortunately, it was traded to\n",
+                "another Trainer.{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0154",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 201
+        },
+        {
+            "id": "a002_208_0155",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0156",
+            "en_US": [
+                "The GTS is currently\n",
+                "undergoing maintenance.{VAR BE01}\n",
+                "Please try again later.{VAR BE01}"
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0157",
+            "en_US": [
+                "The GTS is very crowded now.\n",
+                "Please try again later (13261).{VAR BE01}"
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0158",
+            "en_US": "The search failed...",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0159",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com."
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0160",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13272{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0161",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13275{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0162",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13263{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0163",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13265{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0164",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13264{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0165",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13273{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0166",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13281{VAR BE01}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_208_0167",
+            "en_US": [
+                "Communication error.\n",
+                "For help, visit support.nintendo.com.{VAR BE00}\n",
+                "Error code: 13282{VAR BE01}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_208_0168",
+            "en_US": "Unable to connect to the GTS.{VAR BE01}",
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0169",
+            "en_US": [
+                "You were disconnected from the GTS.\n",
+                "Error code: 13262{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0170",
+            "en_US": [
+                "You were disconnected from the GTS.\n",
+                "Error code: 13274{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0171",
+            "en_US": "The connection has been lost.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0172",
+            "en_US": "Returning to the reception counter.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0173",
+            "en_US": "ANY",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0174",
+            "en_US": "Lv. 1 to 10",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0175",
+            "en_US": "Lv. 11 to 20",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0176",
+            "en_US": "Lv. 21 to 30",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0177",
+            "en_US": "Lv. 31 to 40",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0178",
+            "en_US": "Lv. 41 to 50",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0179",
+            "en_US": "Lv. 51 to 60",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0180",
+            "en_US": "Lv. 61 to 70",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0181",
+            "en_US": "Lv. 71 to 80",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0182",
+            "en_US": "Lv. 81 to 90",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0183",
+            "en_US": "Lv. 91 to 100",
+            "flags": 88
+        },
+        {
+            "id": "a002_208_0184",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0185",
+            "en_US": "LOCATION",
+            "flags": 100
+        },
+        {
+            "id": "a002_208_0186",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0187",
+            "en_US": "ANY",
+            "flags": 215
+        },
+        {
+            "id": "a002_208_0188",
+            "en_US": " ANY",
+            "flags": 72
+        },
+        {
+            "id": "a002_208_0189",
+            "en_US": "{VAR BD02}Back",
+            "flags": 48
+        },
+        {
+            "id": "a002_208_0190",
+            "en_US": "Please choose a Pokémon location.",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0191",
+            "en_US": "",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0192",
+            "en_US": "",
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0193",
+            "en_US": [
+                "This Pokémon cannot be traded while\n",
+                "holding that item!{VAR BE01}"
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a002_208_0194",
+            "en_US": "O.T.",
+            "flags": 32
+        },
+        {
+            "id": "a002_208_0195",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0196",
+            "en_US": "",
+            "flags": 240
+        },
+        {
+            "id": "a002_208_0197",
+            "en_US": "",
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0198",
+            "en_US": "",
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0199",
+            "en_US": "",
+            "flags": 225
+        },
+        {
+            "id": "a002_208_0200",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0201",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_208_0202",
+            "en_US": "A"
+        },
+        {
+            "id": "a002_208_0203",
+            "en_US": "B"
+        },
+        {
+            "id": "a002_208_0204",
+            "en_US": "C"
+        },
+        {
+            "id": "a002_208_0205",
+            "en_US": "D"
+        },
+        {
+            "id": "a002_208_0206",
+            "en_US": "E"
+        },
+        {
+            "id": "a002_208_0207",
+            "en_US": "F"
+        },
+        {
+            "id": "a002_208_0208",
+            "en_US": "G"
+        },
+        {
+            "id": "a002_208_0209",
+            "en_US": "H"
+        },
+        {
+            "id": "a002_208_0210",
+            "en_US": "I"
+        },
+        {
+            "id": "a002_208_0211",
+            "en_US": "J"
+        },
+        {
+            "id": "a002_208_0212",
+            "en_US": "K"
+        },
+        {
+            "id": "a002_208_0213",
+            "en_US": "L"
+        },
+        {
+            "id": "a002_208_0214",
+            "en_US": "M"
+        },
+        {
+            "id": "a002_208_0215",
+            "en_US": "N"
+        },
+        {
+            "id": "a002_208_0216",
+            "en_US": "O"
+        },
+        {
+            "id": "a002_208_0217",
+            "en_US": "P"
+        },
+        {
+            "id": "a002_208_0218",
+            "en_US": "Q"
+        },
+        {
+            "id": "a002_208_0219",
+            "en_US": "R"
+        },
+        {
+            "id": "a002_208_0220",
+            "en_US": "S"
+        },
+        {
+            "id": "a002_208_0221",
+            "en_US": "T"
+        },
+        {
+            "id": "a002_208_0222",
+            "en_US": "U"
+        },
+        {
+            "id": "a002_208_0223",
+            "en_US": "V"
+        },
+        {
+            "id": "a002_208_0224",
+            "en_US": "W"
+        },
+        {
+            "id": "a002_208_0225",
+            "en_US": "X"
+        },
+        {
+            "id": "a002_208_0226",
+            "en_US": "Y"
+        },
+        {
+            "id": "a002_208_0227",
+            "en_US": "Z"
+        },
+        {
+            "id": "a002_208_0228",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0229",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0230",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0231",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0232",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0233",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0234",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0235",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0236",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0237",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0238",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0239",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0240",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0241",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0242",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0243",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0244",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0245",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0246",
+            "en_US": ""
+        },
+        {
+            "id": "a002_208_0247",
+            "en_US": "GTS",
+            "flags": 144
+        },
+        {
+            "id": "a002_208_0248",
+            "en_US": [
+                "GTS\n",
+                "TRADE POKÉMON"
+            ],
+            "flags": 144
+        },
+        {
+            "id": "a002_208_0249",
+            "en_US": [
+                "GTS\n",
+                "SUMMARY"
+            ],
+            "flags": 144
+        },
+        {
+            "id": "a002_208_0250",
+            "en_US": [
+                "GTS\n",
+                "DEPOSIT POKÉMON"
+            ],
+            "flags": 144
+        },
+        {
+            "id": "a002_208_0251",
+            "en_US": [
+                "GTS\n",
+                "SEEK POKÉMON"
+            ],
+            "flags": 144
+        },
+        {
+            "id": "a002_208_0252",
+            "en_US": "CANCEL",
+            "flags": 80
+        },
+        {
+            "id": "a002_208_0253",
+            "en_US": "{VAR 0200 0000}",
+            "flags": 16
+        },
+        {
+            "id": "a002_208_0254",
+            "en_US": "/",
+            "flags": 16
+        }
+    ]
+}

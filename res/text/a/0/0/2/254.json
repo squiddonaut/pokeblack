@@ -1,0 +1,1981 @@
+{
+    "flags": 60,
+    "messages": [
+        {
+            "id": "a002_254_0000",
+            "en_US": "-----"
+        },
+        {
+            "id": "a002_254_0001",
+            "en_US": "Bulbizarre"
+        },
+        {
+            "id": "a002_254_0002",
+            "en_US": "Herbizarre"
+        },
+        {
+            "id": "a002_254_0003",
+            "en_US": "Florizarre"
+        },
+        {
+            "id": "a002_254_0004",
+            "en_US": "Salamèche"
+        },
+        {
+            "id": "a002_254_0005",
+            "en_US": "Reptincel"
+        },
+        {
+            "id": "a002_254_0006",
+            "en_US": "Dracaufeu"
+        },
+        {
+            "id": "a002_254_0007",
+            "en_US": "Carapuce"
+        },
+        {
+            "id": "a002_254_0008",
+            "en_US": "Carabaffe"
+        },
+        {
+            "id": "a002_254_0009",
+            "en_US": "Tortank"
+        },
+        {
+            "id": "a002_254_0010",
+            "en_US": "Chenipan"
+        },
+        {
+            "id": "a002_254_0011",
+            "en_US": "Chrysacier"
+        },
+        {
+            "id": "a002_254_0012",
+            "en_US": "Papilusion"
+        },
+        {
+            "id": "a002_254_0013",
+            "en_US": "Aspicot"
+        },
+        {
+            "id": "a002_254_0014",
+            "en_US": "Coconfort"
+        },
+        {
+            "id": "a002_254_0015",
+            "en_US": "Dardargnan"
+        },
+        {
+            "id": "a002_254_0016",
+            "en_US": "Roucool"
+        },
+        {
+            "id": "a002_254_0017",
+            "en_US": "Roucoups"
+        },
+        {
+            "id": "a002_254_0018",
+            "en_US": "Roucarnage"
+        },
+        {
+            "id": "a002_254_0019",
+            "en_US": "Rattata"
+        },
+        {
+            "id": "a002_254_0020",
+            "en_US": "Rattatac"
+        },
+        {
+            "id": "a002_254_0021",
+            "en_US": "Piafabec"
+        },
+        {
+            "id": "a002_254_0022",
+            "en_US": "Rapasdepic"
+        },
+        {
+            "id": "a002_254_0023",
+            "en_US": "Abo"
+        },
+        {
+            "id": "a002_254_0024",
+            "en_US": "Arbok"
+        },
+        {
+            "id": "a002_254_0025",
+            "en_US": "Pikachu"
+        },
+        {
+            "id": "a002_254_0026",
+            "en_US": "Raichu"
+        },
+        {
+            "id": "a002_254_0027",
+            "en_US": "Sabelette"
+        },
+        {
+            "id": "a002_254_0028",
+            "en_US": "Sablaireau"
+        },
+        {
+            "id": "a002_254_0029",
+            "en_US": "Nidoran⑮"
+        },
+        {
+            "id": "a002_254_0030",
+            "en_US": "Nidorina"
+        },
+        {
+            "id": "a002_254_0031",
+            "en_US": "Nidoqueen"
+        },
+        {
+            "id": "a002_254_0032",
+            "en_US": "Nidoran⑭"
+        },
+        {
+            "id": "a002_254_0033",
+            "en_US": "Nidorino"
+        },
+        {
+            "id": "a002_254_0034",
+            "en_US": "Nidoking"
+        },
+        {
+            "id": "a002_254_0035",
+            "en_US": "Mélofée"
+        },
+        {
+            "id": "a002_254_0036",
+            "en_US": "Mélodelfe"
+        },
+        {
+            "id": "a002_254_0037",
+            "en_US": "Goupix"
+        },
+        {
+            "id": "a002_254_0038",
+            "en_US": "Feunard"
+        },
+        {
+            "id": "a002_254_0039",
+            "en_US": "Rondoudou"
+        },
+        {
+            "id": "a002_254_0040",
+            "en_US": "Grodoudou"
+        },
+        {
+            "id": "a002_254_0041",
+            "en_US": "Nosferapti"
+        },
+        {
+            "id": "a002_254_0042",
+            "en_US": "Nosferalto"
+        },
+        {
+            "id": "a002_254_0043",
+            "en_US": "Mystherbe"
+        },
+        {
+            "id": "a002_254_0044",
+            "en_US": "Ortide"
+        },
+        {
+            "id": "a002_254_0045",
+            "en_US": "Rafflesia"
+        },
+        {
+            "id": "a002_254_0046",
+            "en_US": "Paras"
+        },
+        {
+            "id": "a002_254_0047",
+            "en_US": "Parasect"
+        },
+        {
+            "id": "a002_254_0048",
+            "en_US": "Mimitoss"
+        },
+        {
+            "id": "a002_254_0049",
+            "en_US": "Aéromite"
+        },
+        {
+            "id": "a002_254_0050",
+            "en_US": "Taupiqueur"
+        },
+        {
+            "id": "a002_254_0051",
+            "en_US": "Triopikeur"
+        },
+        {
+            "id": "a002_254_0052",
+            "en_US": "Miaouss"
+        },
+        {
+            "id": "a002_254_0053",
+            "en_US": "Persian"
+        },
+        {
+            "id": "a002_254_0054",
+            "en_US": "Psykokwak"
+        },
+        {
+            "id": "a002_254_0055",
+            "en_US": "Akwakwak"
+        },
+        {
+            "id": "a002_254_0056",
+            "en_US": "Férosinge"
+        },
+        {
+            "id": "a002_254_0057",
+            "en_US": "Colossinge"
+        },
+        {
+            "id": "a002_254_0058",
+            "en_US": "Caninos"
+        },
+        {
+            "id": "a002_254_0059",
+            "en_US": "Arcanin"
+        },
+        {
+            "id": "a002_254_0060",
+            "en_US": "Ptitard"
+        },
+        {
+            "id": "a002_254_0061",
+            "en_US": "Têtarte"
+        },
+        {
+            "id": "a002_254_0062",
+            "en_US": "Tartard"
+        },
+        {
+            "id": "a002_254_0063",
+            "en_US": "Abra"
+        },
+        {
+            "id": "a002_254_0064",
+            "en_US": "Kadabra"
+        },
+        {
+            "id": "a002_254_0065",
+            "en_US": "Alakazam"
+        },
+        {
+            "id": "a002_254_0066",
+            "en_US": "Machoc"
+        },
+        {
+            "id": "a002_254_0067",
+            "en_US": "Machopeur"
+        },
+        {
+            "id": "a002_254_0068",
+            "en_US": "Mackogneur"
+        },
+        {
+            "id": "a002_254_0069",
+            "en_US": "Chétiflor"
+        },
+        {
+            "id": "a002_254_0070",
+            "en_US": "Boustiflor"
+        },
+        {
+            "id": "a002_254_0071",
+            "en_US": "Empiflor"
+        },
+        {
+            "id": "a002_254_0072",
+            "en_US": "Tentacool"
+        },
+        {
+            "id": "a002_254_0073",
+            "en_US": "Tentacruel"
+        },
+        {
+            "id": "a002_254_0074",
+            "en_US": "Racaillou"
+        },
+        {
+            "id": "a002_254_0075",
+            "en_US": "Gravalanch"
+        },
+        {
+            "id": "a002_254_0076",
+            "en_US": "Grolem"
+        },
+        {
+            "id": "a002_254_0077",
+            "en_US": "Ponyta"
+        },
+        {
+            "id": "a002_254_0078",
+            "en_US": "Galopa"
+        },
+        {
+            "id": "a002_254_0079",
+            "en_US": "Ramoloss"
+        },
+        {
+            "id": "a002_254_0080",
+            "en_US": "Flagadoss"
+        },
+        {
+            "id": "a002_254_0081",
+            "en_US": "Magnéti"
+        },
+        {
+            "id": "a002_254_0082",
+            "en_US": "Magnéton"
+        },
+        {
+            "id": "a002_254_0083",
+            "en_US": "Canarticho"
+        },
+        {
+            "id": "a002_254_0084",
+            "en_US": "Doduo"
+        },
+        {
+            "id": "a002_254_0085",
+            "en_US": "Dodrio"
+        },
+        {
+            "id": "a002_254_0086",
+            "en_US": "Otaria"
+        },
+        {
+            "id": "a002_254_0087",
+            "en_US": "Lamantine"
+        },
+        {
+            "id": "a002_254_0088",
+            "en_US": "Tadmorv"
+        },
+        {
+            "id": "a002_254_0089",
+            "en_US": "Grotadmorv"
+        },
+        {
+            "id": "a002_254_0090",
+            "en_US": "Kokiyas"
+        },
+        {
+            "id": "a002_254_0091",
+            "en_US": "Crustabri"
+        },
+        {
+            "id": "a002_254_0092",
+            "en_US": "Fantominus"
+        },
+        {
+            "id": "a002_254_0093",
+            "en_US": "Spectrum"
+        },
+        {
+            "id": "a002_254_0094",
+            "en_US": "Ectoplasma"
+        },
+        {
+            "id": "a002_254_0095",
+            "en_US": "Onix"
+        },
+        {
+            "id": "a002_254_0096",
+            "en_US": "Soporifik"
+        },
+        {
+            "id": "a002_254_0097",
+            "en_US": "Hypnomade"
+        },
+        {
+            "id": "a002_254_0098",
+            "en_US": "Krabby"
+        },
+        {
+            "id": "a002_254_0099",
+            "en_US": "Krabboss"
+        },
+        {
+            "id": "a002_254_0100",
+            "en_US": "Voltorbe"
+        },
+        {
+            "id": "a002_254_0101",
+            "en_US": "Électrode"
+        },
+        {
+            "id": "a002_254_0102",
+            "en_US": "Noeunoeuf"
+        },
+        {
+            "id": "a002_254_0103",
+            "en_US": "Noadkoko"
+        },
+        {
+            "id": "a002_254_0104",
+            "en_US": "Osselait"
+        },
+        {
+            "id": "a002_254_0105",
+            "en_US": "Ossatueur"
+        },
+        {
+            "id": "a002_254_0106",
+            "en_US": "Kicklee"
+        },
+        {
+            "id": "a002_254_0107",
+            "en_US": "Tygnon"
+        },
+        {
+            "id": "a002_254_0108",
+            "en_US": "Excelangue"
+        },
+        {
+            "id": "a002_254_0109",
+            "en_US": "Smogo"
+        },
+        {
+            "id": "a002_254_0110",
+            "en_US": "Smogogo"
+        },
+        {
+            "id": "a002_254_0111",
+            "en_US": "Rhinocorne"
+        },
+        {
+            "id": "a002_254_0112",
+            "en_US": "Rhinoféros"
+        },
+        {
+            "id": "a002_254_0113",
+            "en_US": "Leveinard"
+        },
+        {
+            "id": "a002_254_0114",
+            "en_US": "Saquedeneu"
+        },
+        {
+            "id": "a002_254_0115",
+            "en_US": "Kangourex"
+        },
+        {
+            "id": "a002_254_0116",
+            "en_US": "Hypotrempe"
+        },
+        {
+            "id": "a002_254_0117",
+            "en_US": "Hypocéan"
+        },
+        {
+            "id": "a002_254_0118",
+            "en_US": "Poissirène"
+        },
+        {
+            "id": "a002_254_0119",
+            "en_US": "Poissoroy"
+        },
+        {
+            "id": "a002_254_0120",
+            "en_US": "Stari"
+        },
+        {
+            "id": "a002_254_0121",
+            "en_US": "Staross"
+        },
+        {
+            "id": "a002_254_0122",
+            "en_US": "M. Mime"
+        },
+        {
+            "id": "a002_254_0123",
+            "en_US": "Insécateur"
+        },
+        {
+            "id": "a002_254_0124",
+            "en_US": "Lippoutou"
+        },
+        {
+            "id": "a002_254_0125",
+            "en_US": "Élektek"
+        },
+        {
+            "id": "a002_254_0126",
+            "en_US": "Magmar"
+        },
+        {
+            "id": "a002_254_0127",
+            "en_US": "Scarabrute"
+        },
+        {
+            "id": "a002_254_0128",
+            "en_US": "Tauros"
+        },
+        {
+            "id": "a002_254_0129",
+            "en_US": "Magicarpe"
+        },
+        {
+            "id": "a002_254_0130",
+            "en_US": "Léviator"
+        },
+        {
+            "id": "a002_254_0131",
+            "en_US": "Lokhlass"
+        },
+        {
+            "id": "a002_254_0132",
+            "en_US": "Métamorph"
+        },
+        {
+            "id": "a002_254_0133",
+            "en_US": "Évoli"
+        },
+        {
+            "id": "a002_254_0134",
+            "en_US": "Aquali"
+        },
+        {
+            "id": "a002_254_0135",
+            "en_US": "Voltali"
+        },
+        {
+            "id": "a002_254_0136",
+            "en_US": "Pyroli"
+        },
+        {
+            "id": "a002_254_0137",
+            "en_US": "Porygon"
+        },
+        {
+            "id": "a002_254_0138",
+            "en_US": "Amonita"
+        },
+        {
+            "id": "a002_254_0139",
+            "en_US": "Amonistar"
+        },
+        {
+            "id": "a002_254_0140",
+            "en_US": "Kabuto"
+        },
+        {
+            "id": "a002_254_0141",
+            "en_US": "Kabutops"
+        },
+        {
+            "id": "a002_254_0142",
+            "en_US": "Ptéra"
+        },
+        {
+            "id": "a002_254_0143",
+            "en_US": "Ronflex"
+        },
+        {
+            "id": "a002_254_0144",
+            "en_US": "Artikodin"
+        },
+        {
+            "id": "a002_254_0145",
+            "en_US": "Électhor"
+        },
+        {
+            "id": "a002_254_0146",
+            "en_US": "Sulfura"
+        },
+        {
+            "id": "a002_254_0147",
+            "en_US": "Minidraco"
+        },
+        {
+            "id": "a002_254_0148",
+            "en_US": "Draco"
+        },
+        {
+            "id": "a002_254_0149",
+            "en_US": "Dracolosse"
+        },
+        {
+            "id": "a002_254_0150",
+            "en_US": "Mewtwo"
+        },
+        {
+            "id": "a002_254_0151",
+            "en_US": "Mew"
+        },
+        {
+            "id": "a002_254_0152",
+            "en_US": "Germignon"
+        },
+        {
+            "id": "a002_254_0153",
+            "en_US": "Macronium"
+        },
+        {
+            "id": "a002_254_0154",
+            "en_US": "Méganium"
+        },
+        {
+            "id": "a002_254_0155",
+            "en_US": "Héricendre"
+        },
+        {
+            "id": "a002_254_0156",
+            "en_US": "Feurisson"
+        },
+        {
+            "id": "a002_254_0157",
+            "en_US": "Typhlosion"
+        },
+        {
+            "id": "a002_254_0158",
+            "en_US": "Kaiminus"
+        },
+        {
+            "id": "a002_254_0159",
+            "en_US": "Crocrodil"
+        },
+        {
+            "id": "a002_254_0160",
+            "en_US": "Aligatueur"
+        },
+        {
+            "id": "a002_254_0161",
+            "en_US": "Fouinette"
+        },
+        {
+            "id": "a002_254_0162",
+            "en_US": "Fouinar"
+        },
+        {
+            "id": "a002_254_0163",
+            "en_US": "Hoothoot"
+        },
+        {
+            "id": "a002_254_0164",
+            "en_US": "Noarfang"
+        },
+        {
+            "id": "a002_254_0165",
+            "en_US": "Coxy"
+        },
+        {
+            "id": "a002_254_0166",
+            "en_US": "Coxyclaque"
+        },
+        {
+            "id": "a002_254_0167",
+            "en_US": "Mimigal"
+        },
+        {
+            "id": "a002_254_0168",
+            "en_US": "Migalos"
+        },
+        {
+            "id": "a002_254_0169",
+            "en_US": "Nostenfer"
+        },
+        {
+            "id": "a002_254_0170",
+            "en_US": "Loupio"
+        },
+        {
+            "id": "a002_254_0171",
+            "en_US": "Lanturn"
+        },
+        {
+            "id": "a002_254_0172",
+            "en_US": "Pichu"
+        },
+        {
+            "id": "a002_254_0173",
+            "en_US": "Mélo"
+        },
+        {
+            "id": "a002_254_0174",
+            "en_US": "Toudoudou"
+        },
+        {
+            "id": "a002_254_0175",
+            "en_US": "Togepi"
+        },
+        {
+            "id": "a002_254_0176",
+            "en_US": "Togetic"
+        },
+        {
+            "id": "a002_254_0177",
+            "en_US": "Natu"
+        },
+        {
+            "id": "a002_254_0178",
+            "en_US": "Xatu"
+        },
+        {
+            "id": "a002_254_0179",
+            "en_US": "Wattouat"
+        },
+        {
+            "id": "a002_254_0180",
+            "en_US": "Lainergie"
+        },
+        {
+            "id": "a002_254_0181",
+            "en_US": "Pharamp"
+        },
+        {
+            "id": "a002_254_0182",
+            "en_US": "Joliflor"
+        },
+        {
+            "id": "a002_254_0183",
+            "en_US": "Marill"
+        },
+        {
+            "id": "a002_254_0184",
+            "en_US": "Azumarill"
+        },
+        {
+            "id": "a002_254_0185",
+            "en_US": "Simularbre"
+        },
+        {
+            "id": "a002_254_0186",
+            "en_US": "Tarpaud"
+        },
+        {
+            "id": "a002_254_0187",
+            "en_US": "Granivol"
+        },
+        {
+            "id": "a002_254_0188",
+            "en_US": "Floravol"
+        },
+        {
+            "id": "a002_254_0189",
+            "en_US": "Cotovol"
+        },
+        {
+            "id": "a002_254_0190",
+            "en_US": "Capumain"
+        },
+        {
+            "id": "a002_254_0191",
+            "en_US": "Tournegrin"
+        },
+        {
+            "id": "a002_254_0192",
+            "en_US": "Héliatronc"
+        },
+        {
+            "id": "a002_254_0193",
+            "en_US": "Yanma"
+        },
+        {
+            "id": "a002_254_0194",
+            "en_US": "Axoloto"
+        },
+        {
+            "id": "a002_254_0195",
+            "en_US": "Maraiste"
+        },
+        {
+            "id": "a002_254_0196",
+            "en_US": "Mentali"
+        },
+        {
+            "id": "a002_254_0197",
+            "en_US": "Noctali"
+        },
+        {
+            "id": "a002_254_0198",
+            "en_US": "Cornèbre"
+        },
+        {
+            "id": "a002_254_0199",
+            "en_US": "Roigada"
+        },
+        {
+            "id": "a002_254_0200",
+            "en_US": "Feuforêve"
+        },
+        {
+            "id": "a002_254_0201",
+            "en_US": "Zarbi"
+        },
+        {
+            "id": "a002_254_0202",
+            "en_US": "Qulbutoké"
+        },
+        {
+            "id": "a002_254_0203",
+            "en_US": "Girafarig"
+        },
+        {
+            "id": "a002_254_0204",
+            "en_US": "Pomdepik"
+        },
+        {
+            "id": "a002_254_0205",
+            "en_US": "Foretress"
+        },
+        {
+            "id": "a002_254_0206",
+            "en_US": "Insolourdo"
+        },
+        {
+            "id": "a002_254_0207",
+            "en_US": "Scorplane"
+        },
+        {
+            "id": "a002_254_0208",
+            "en_US": "Steelix"
+        },
+        {
+            "id": "a002_254_0209",
+            "en_US": "Snubbull"
+        },
+        {
+            "id": "a002_254_0210",
+            "en_US": "Granbull"
+        },
+        {
+            "id": "a002_254_0211",
+            "en_US": "Qwilfish"
+        },
+        {
+            "id": "a002_254_0212",
+            "en_US": "Cizayox"
+        },
+        {
+            "id": "a002_254_0213",
+            "en_US": "Caratroc"
+        },
+        {
+            "id": "a002_254_0214",
+            "en_US": "Scarhino"
+        },
+        {
+            "id": "a002_254_0215",
+            "en_US": "Farfuret"
+        },
+        {
+            "id": "a002_254_0216",
+            "en_US": "Teddiursa"
+        },
+        {
+            "id": "a002_254_0217",
+            "en_US": "Ursaring"
+        },
+        {
+            "id": "a002_254_0218",
+            "en_US": "Limagma"
+        },
+        {
+            "id": "a002_254_0219",
+            "en_US": "Volcaropod"
+        },
+        {
+            "id": "a002_254_0220",
+            "en_US": "Marcacrin"
+        },
+        {
+            "id": "a002_254_0221",
+            "en_US": "Cochignon"
+        },
+        {
+            "id": "a002_254_0222",
+            "en_US": "Corayon"
+        },
+        {
+            "id": "a002_254_0223",
+            "en_US": "Rémoraid"
+        },
+        {
+            "id": "a002_254_0224",
+            "en_US": "Octillery"
+        },
+        {
+            "id": "a002_254_0225",
+            "en_US": "Cadoizo"
+        },
+        {
+            "id": "a002_254_0226",
+            "en_US": "Démanta"
+        },
+        {
+            "id": "a002_254_0227",
+            "en_US": "Airmure"
+        },
+        {
+            "id": "a002_254_0228",
+            "en_US": "Malosse"
+        },
+        {
+            "id": "a002_254_0229",
+            "en_US": "Démolosse"
+        },
+        {
+            "id": "a002_254_0230",
+            "en_US": "Hyporoi"
+        },
+        {
+            "id": "a002_254_0231",
+            "en_US": "Phanpy"
+        },
+        {
+            "id": "a002_254_0232",
+            "en_US": "Donphan"
+        },
+        {
+            "id": "a002_254_0233",
+            "en_US": "Porygon2"
+        },
+        {
+            "id": "a002_254_0234",
+            "en_US": "Cerfrousse"
+        },
+        {
+            "id": "a002_254_0235",
+            "en_US": "Queulorior"
+        },
+        {
+            "id": "a002_254_0236",
+            "en_US": "Debugant"
+        },
+        {
+            "id": "a002_254_0237",
+            "en_US": "Kapoera"
+        },
+        {
+            "id": "a002_254_0238",
+            "en_US": "Lippouti"
+        },
+        {
+            "id": "a002_254_0239",
+            "en_US": "Élekid"
+        },
+        {
+            "id": "a002_254_0240",
+            "en_US": "Magby"
+        },
+        {
+            "id": "a002_254_0241",
+            "en_US": "Écrémeuh"
+        },
+        {
+            "id": "a002_254_0242",
+            "en_US": "Leuphorie"
+        },
+        {
+            "id": "a002_254_0243",
+            "en_US": "Raikou"
+        },
+        {
+            "id": "a002_254_0244",
+            "en_US": "Entei"
+        },
+        {
+            "id": "a002_254_0245",
+            "en_US": "Suicune"
+        },
+        {
+            "id": "a002_254_0246",
+            "en_US": "Embrylex"
+        },
+        {
+            "id": "a002_254_0247",
+            "en_US": "Ymphect"
+        },
+        {
+            "id": "a002_254_0248",
+            "en_US": "Tyranocif"
+        },
+        {
+            "id": "a002_254_0249",
+            "en_US": "Lugia"
+        },
+        {
+            "id": "a002_254_0250",
+            "en_US": "Ho-Oh"
+        },
+        {
+            "id": "a002_254_0251",
+            "en_US": "Celebi"
+        },
+        {
+            "id": "a002_254_0252",
+            "en_US": "Arcko"
+        },
+        {
+            "id": "a002_254_0253",
+            "en_US": "Massko"
+        },
+        {
+            "id": "a002_254_0254",
+            "en_US": "Jungko"
+        },
+        {
+            "id": "a002_254_0255",
+            "en_US": "Poussifeu"
+        },
+        {
+            "id": "a002_254_0256",
+            "en_US": "Galifeu"
+        },
+        {
+            "id": "a002_254_0257",
+            "en_US": "Braségali"
+        },
+        {
+            "id": "a002_254_0258",
+            "en_US": "Gobou"
+        },
+        {
+            "id": "a002_254_0259",
+            "en_US": "Flobio"
+        },
+        {
+            "id": "a002_254_0260",
+            "en_US": "Laggron"
+        },
+        {
+            "id": "a002_254_0261",
+            "en_US": "Medhyèna"
+        },
+        {
+            "id": "a002_254_0262",
+            "en_US": "Grahyèna"
+        },
+        {
+            "id": "a002_254_0263",
+            "en_US": "Zigzaton"
+        },
+        {
+            "id": "a002_254_0264",
+            "en_US": "Linéon"
+        },
+        {
+            "id": "a002_254_0265",
+            "en_US": "Chenipotte"
+        },
+        {
+            "id": "a002_254_0266",
+            "en_US": "Armulys"
+        },
+        {
+            "id": "a002_254_0267",
+            "en_US": "Charmillon"
+        },
+        {
+            "id": "a002_254_0268",
+            "en_US": "Blindalys"
+        },
+        {
+            "id": "a002_254_0269",
+            "en_US": "Papinox"
+        },
+        {
+            "id": "a002_254_0270",
+            "en_US": "Nénupiot"
+        },
+        {
+            "id": "a002_254_0271",
+            "en_US": "Lombre"
+        },
+        {
+            "id": "a002_254_0272",
+            "en_US": "Ludicolo"
+        },
+        {
+            "id": "a002_254_0273",
+            "en_US": "Grainipiot"
+        },
+        {
+            "id": "a002_254_0274",
+            "en_US": "Pifeuil"
+        },
+        {
+            "id": "a002_254_0275",
+            "en_US": "Tengalice"
+        },
+        {
+            "id": "a002_254_0276",
+            "en_US": "Nirondelle"
+        },
+        {
+            "id": "a002_254_0277",
+            "en_US": "Hélédelle"
+        },
+        {
+            "id": "a002_254_0278",
+            "en_US": "Goélise"
+        },
+        {
+            "id": "a002_254_0279",
+            "en_US": "Bekipan"
+        },
+        {
+            "id": "a002_254_0280",
+            "en_US": "Tarsal"
+        },
+        {
+            "id": "a002_254_0281",
+            "en_US": "Kirlia"
+        },
+        {
+            "id": "a002_254_0282",
+            "en_US": "Gardevoir"
+        },
+        {
+            "id": "a002_254_0283",
+            "en_US": "Arakdo"
+        },
+        {
+            "id": "a002_254_0284",
+            "en_US": "Maskadra"
+        },
+        {
+            "id": "a002_254_0285",
+            "en_US": "Balignon"
+        },
+        {
+            "id": "a002_254_0286",
+            "en_US": "Chapignon"
+        },
+        {
+            "id": "a002_254_0287",
+            "en_US": "Parecool"
+        },
+        {
+            "id": "a002_254_0288",
+            "en_US": "Vigoroth"
+        },
+        {
+            "id": "a002_254_0289",
+            "en_US": "Monaflèmit"
+        },
+        {
+            "id": "a002_254_0290",
+            "en_US": "Ningale"
+        },
+        {
+            "id": "a002_254_0291",
+            "en_US": "Ninjask"
+        },
+        {
+            "id": "a002_254_0292",
+            "en_US": "Munja"
+        },
+        {
+            "id": "a002_254_0293",
+            "en_US": "Chuchmur"
+        },
+        {
+            "id": "a002_254_0294",
+            "en_US": "Ramboum"
+        },
+        {
+            "id": "a002_254_0295",
+            "en_US": "Brouhabam"
+        },
+        {
+            "id": "a002_254_0296",
+            "en_US": "Makuhita"
+        },
+        {
+            "id": "a002_254_0297",
+            "en_US": "Hariyama"
+        },
+        {
+            "id": "a002_254_0298",
+            "en_US": "Azurill"
+        },
+        {
+            "id": "a002_254_0299",
+            "en_US": "Tarinor"
+        },
+        {
+            "id": "a002_254_0300",
+            "en_US": "Skitty"
+        },
+        {
+            "id": "a002_254_0301",
+            "en_US": "Delcatty"
+        },
+        {
+            "id": "a002_254_0302",
+            "en_US": "Ténéfix"
+        },
+        {
+            "id": "a002_254_0303",
+            "en_US": "Mysdibule"
+        },
+        {
+            "id": "a002_254_0304",
+            "en_US": "Galekid"
+        },
+        {
+            "id": "a002_254_0305",
+            "en_US": "Galegon"
+        },
+        {
+            "id": "a002_254_0306",
+            "en_US": "Galeking"
+        },
+        {
+            "id": "a002_254_0307",
+            "en_US": "Méditikka"
+        },
+        {
+            "id": "a002_254_0308",
+            "en_US": "Charmina"
+        },
+        {
+            "id": "a002_254_0309",
+            "en_US": "Dynavolt"
+        },
+        {
+            "id": "a002_254_0310",
+            "en_US": "Élecsprint"
+        },
+        {
+            "id": "a002_254_0311",
+            "en_US": "Posipi"
+        },
+        {
+            "id": "a002_254_0312",
+            "en_US": "Négapi"
+        },
+        {
+            "id": "a002_254_0313",
+            "en_US": "Muciole"
+        },
+        {
+            "id": "a002_254_0314",
+            "en_US": "Lumivole"
+        },
+        {
+            "id": "a002_254_0315",
+            "en_US": "Rosélia"
+        },
+        {
+            "id": "a002_254_0316",
+            "en_US": "Gloupti"
+        },
+        {
+            "id": "a002_254_0317",
+            "en_US": "Avaltout"
+        },
+        {
+            "id": "a002_254_0318",
+            "en_US": "Carvanha"
+        },
+        {
+            "id": "a002_254_0319",
+            "en_US": "Sharpedo"
+        },
+        {
+            "id": "a002_254_0320",
+            "en_US": "Wailmer"
+        },
+        {
+            "id": "a002_254_0321",
+            "en_US": "Wailord"
+        },
+        {
+            "id": "a002_254_0322",
+            "en_US": "Chamallot"
+        },
+        {
+            "id": "a002_254_0323",
+            "en_US": "Camérupt"
+        },
+        {
+            "id": "a002_254_0324",
+            "en_US": "Chartor"
+        },
+        {
+            "id": "a002_254_0325",
+            "en_US": "Spoink"
+        },
+        {
+            "id": "a002_254_0326",
+            "en_US": "Groret"
+        },
+        {
+            "id": "a002_254_0327",
+            "en_US": "Spinda"
+        },
+        {
+            "id": "a002_254_0328",
+            "en_US": "Kraknoix"
+        },
+        {
+            "id": "a002_254_0329",
+            "en_US": "Vibraninf"
+        },
+        {
+            "id": "a002_254_0330",
+            "en_US": "Libégon"
+        },
+        {
+            "id": "a002_254_0331",
+            "en_US": "Cacnea"
+        },
+        {
+            "id": "a002_254_0332",
+            "en_US": "Cacturne"
+        },
+        {
+            "id": "a002_254_0333",
+            "en_US": "Tylton"
+        },
+        {
+            "id": "a002_254_0334",
+            "en_US": "Altaria"
+        },
+        {
+            "id": "a002_254_0335",
+            "en_US": "Mangriff"
+        },
+        {
+            "id": "a002_254_0336",
+            "en_US": "Séviper"
+        },
+        {
+            "id": "a002_254_0337",
+            "en_US": "Séléroc"
+        },
+        {
+            "id": "a002_254_0338",
+            "en_US": "Solaroc"
+        },
+        {
+            "id": "a002_254_0339",
+            "en_US": "Barloche"
+        },
+        {
+            "id": "a002_254_0340",
+            "en_US": "Barbicha"
+        },
+        {
+            "id": "a002_254_0341",
+            "en_US": "Écrapince"
+        },
+        {
+            "id": "a002_254_0342",
+            "en_US": "Colhomard"
+        },
+        {
+            "id": "a002_254_0343",
+            "en_US": "Balbuto"
+        },
+        {
+            "id": "a002_254_0344",
+            "en_US": "Kaorine"
+        },
+        {
+            "id": "a002_254_0345",
+            "en_US": "Lilia"
+        },
+        {
+            "id": "a002_254_0346",
+            "en_US": "Vacilys"
+        },
+        {
+            "id": "a002_254_0347",
+            "en_US": "Anorith"
+        },
+        {
+            "id": "a002_254_0348",
+            "en_US": "Armaldo"
+        },
+        {
+            "id": "a002_254_0349",
+            "en_US": "Barpau"
+        },
+        {
+            "id": "a002_254_0350",
+            "en_US": "Milobellus"
+        },
+        {
+            "id": "a002_254_0351",
+            "en_US": "Morphéo"
+        },
+        {
+            "id": "a002_254_0352",
+            "en_US": "Kecleon"
+        },
+        {
+            "id": "a002_254_0353",
+            "en_US": "Polichombr"
+        },
+        {
+            "id": "a002_254_0354",
+            "en_US": "Branette"
+        },
+        {
+            "id": "a002_254_0355",
+            "en_US": "Skelénox"
+        },
+        {
+            "id": "a002_254_0356",
+            "en_US": "Téraclope"
+        },
+        {
+            "id": "a002_254_0357",
+            "en_US": "Tropius"
+        },
+        {
+            "id": "a002_254_0358",
+            "en_US": "Éoko"
+        },
+        {
+            "id": "a002_254_0359",
+            "en_US": "Absol"
+        },
+        {
+            "id": "a002_254_0360",
+            "en_US": "Okéoké"
+        },
+        {
+            "id": "a002_254_0361",
+            "en_US": "Stalgamin"
+        },
+        {
+            "id": "a002_254_0362",
+            "en_US": "Oniglali"
+        },
+        {
+            "id": "a002_254_0363",
+            "en_US": "Obalie"
+        },
+        {
+            "id": "a002_254_0364",
+            "en_US": "Phogleur"
+        },
+        {
+            "id": "a002_254_0365",
+            "en_US": "Kaimorse"
+        },
+        {
+            "id": "a002_254_0366",
+            "en_US": "Coquiperl"
+        },
+        {
+            "id": "a002_254_0367",
+            "en_US": "Serpang"
+        },
+        {
+            "id": "a002_254_0368",
+            "en_US": "Rosabyss"
+        },
+        {
+            "id": "a002_254_0369",
+            "en_US": "Relicanth"
+        },
+        {
+            "id": "a002_254_0370",
+            "en_US": "Lovdisc"
+        },
+        {
+            "id": "a002_254_0371",
+            "en_US": "Draby"
+        },
+        {
+            "id": "a002_254_0372",
+            "en_US": "Drackhaus"
+        },
+        {
+            "id": "a002_254_0373",
+            "en_US": "Drattak"
+        },
+        {
+            "id": "a002_254_0374",
+            "en_US": "Terhal"
+        },
+        {
+            "id": "a002_254_0375",
+            "en_US": "Métang"
+        },
+        {
+            "id": "a002_254_0376",
+            "en_US": "Métalosse"
+        },
+        {
+            "id": "a002_254_0377",
+            "en_US": "Regirock"
+        },
+        {
+            "id": "a002_254_0378",
+            "en_US": "Regice"
+        },
+        {
+            "id": "a002_254_0379",
+            "en_US": "Registeel"
+        },
+        {
+            "id": "a002_254_0380",
+            "en_US": "Latias"
+        },
+        {
+            "id": "a002_254_0381",
+            "en_US": "Latios"
+        },
+        {
+            "id": "a002_254_0382",
+            "en_US": "Kyogre"
+        },
+        {
+            "id": "a002_254_0383",
+            "en_US": "Groudon"
+        },
+        {
+            "id": "a002_254_0384",
+            "en_US": "Rayquaza"
+        },
+        {
+            "id": "a002_254_0385",
+            "en_US": "Jirachi"
+        },
+        {
+            "id": "a002_254_0386",
+            "en_US": "Deoxys"
+        },
+        {
+            "id": "a002_254_0387",
+            "en_US": "Tortipouss"
+        },
+        {
+            "id": "a002_254_0388",
+            "en_US": "Boskara"
+        },
+        {
+            "id": "a002_254_0389",
+            "en_US": "Torterra"
+        },
+        {
+            "id": "a002_254_0390",
+            "en_US": "Ouisticram"
+        },
+        {
+            "id": "a002_254_0391",
+            "en_US": "Chimpenfeu"
+        },
+        {
+            "id": "a002_254_0392",
+            "en_US": "Simiabraz"
+        },
+        {
+            "id": "a002_254_0393",
+            "en_US": "Tiplouf"
+        },
+        {
+            "id": "a002_254_0394",
+            "en_US": "Prinplouf"
+        },
+        {
+            "id": "a002_254_0395",
+            "en_US": "Pingoléon"
+        },
+        {
+            "id": "a002_254_0396",
+            "en_US": "Étourmi"
+        },
+        {
+            "id": "a002_254_0397",
+            "en_US": "Étourvol"
+        },
+        {
+            "id": "a002_254_0398",
+            "en_US": "Étouraptor"
+        },
+        {
+            "id": "a002_254_0399",
+            "en_US": "Keunotor"
+        },
+        {
+            "id": "a002_254_0400",
+            "en_US": "Castorno"
+        },
+        {
+            "id": "a002_254_0401",
+            "en_US": "Crikzik"
+        },
+        {
+            "id": "a002_254_0402",
+            "en_US": "Mélokrik"
+        },
+        {
+            "id": "a002_254_0403",
+            "en_US": "Lixy"
+        },
+        {
+            "id": "a002_254_0404",
+            "en_US": "Luxio"
+        },
+        {
+            "id": "a002_254_0405",
+            "en_US": "Luxray"
+        },
+        {
+            "id": "a002_254_0406",
+            "en_US": "Rozbouton"
+        },
+        {
+            "id": "a002_254_0407",
+            "en_US": "Roserade"
+        },
+        {
+            "id": "a002_254_0408",
+            "en_US": "Kranidos"
+        },
+        {
+            "id": "a002_254_0409",
+            "en_US": "Charkos"
+        },
+        {
+            "id": "a002_254_0410",
+            "en_US": "Dinoclier"
+        },
+        {
+            "id": "a002_254_0411",
+            "en_US": "Bastiodon"
+        },
+        {
+            "id": "a002_254_0412",
+            "en_US": "Cheniti"
+        },
+        {
+            "id": "a002_254_0413",
+            "en_US": "Cheniselle"
+        },
+        {
+            "id": "a002_254_0414",
+            "en_US": "Papilord"
+        },
+        {
+            "id": "a002_254_0415",
+            "en_US": "Apitrini"
+        },
+        {
+            "id": "a002_254_0416",
+            "en_US": "Apireine"
+        },
+        {
+            "id": "a002_254_0417",
+            "en_US": "Pachirisu"
+        },
+        {
+            "id": "a002_254_0418",
+            "en_US": "Mustébouée"
+        },
+        {
+            "id": "a002_254_0419",
+            "en_US": "Mustéflott"
+        },
+        {
+            "id": "a002_254_0420",
+            "en_US": "Ceribou"
+        },
+        {
+            "id": "a002_254_0421",
+            "en_US": "Ceriflor"
+        },
+        {
+            "id": "a002_254_0422",
+            "en_US": "Sancoki"
+        },
+        {
+            "id": "a002_254_0423",
+            "en_US": "Tritosor"
+        },
+        {
+            "id": "a002_254_0424",
+            "en_US": "Capidextre"
+        },
+        {
+            "id": "a002_254_0425",
+            "en_US": "Baudrive"
+        },
+        {
+            "id": "a002_254_0426",
+            "en_US": "Grodrive"
+        },
+        {
+            "id": "a002_254_0427",
+            "en_US": "Laporeille"
+        },
+        {
+            "id": "a002_254_0428",
+            "en_US": "Lockpin"
+        },
+        {
+            "id": "a002_254_0429",
+            "en_US": "Magirêve"
+        },
+        {
+            "id": "a002_254_0430",
+            "en_US": "Corboss"
+        },
+        {
+            "id": "a002_254_0431",
+            "en_US": "Chaglam"
+        },
+        {
+            "id": "a002_254_0432",
+            "en_US": "Chaffreux"
+        },
+        {
+            "id": "a002_254_0433",
+            "en_US": "Korillon"
+        },
+        {
+            "id": "a002_254_0434",
+            "en_US": "Moufouette"
+        },
+        {
+            "id": "a002_254_0435",
+            "en_US": "Moufflair"
+        },
+        {
+            "id": "a002_254_0436",
+            "en_US": "Archéomire"
+        },
+        {
+            "id": "a002_254_0437",
+            "en_US": "Archéodong"
+        },
+        {
+            "id": "a002_254_0438",
+            "en_US": "Manzaï"
+        },
+        {
+            "id": "a002_254_0439",
+            "en_US": "Mime Jr."
+        },
+        {
+            "id": "a002_254_0440",
+            "en_US": "Ptiravi"
+        },
+        {
+            "id": "a002_254_0441",
+            "en_US": "Pijako"
+        },
+        {
+            "id": "a002_254_0442",
+            "en_US": "Spiritomb"
+        },
+        {
+            "id": "a002_254_0443",
+            "en_US": "Griknot"
+        },
+        {
+            "id": "a002_254_0444",
+            "en_US": "Carmache"
+        },
+        {
+            "id": "a002_254_0445",
+            "en_US": "Carchacrok"
+        },
+        {
+            "id": "a002_254_0446",
+            "en_US": "Goinfrex"
+        },
+        {
+            "id": "a002_254_0447",
+            "en_US": "Riolu"
+        },
+        {
+            "id": "a002_254_0448",
+            "en_US": "Lucario"
+        },
+        {
+            "id": "a002_254_0449",
+            "en_US": "Hippopotas"
+        },
+        {
+            "id": "a002_254_0450",
+            "en_US": "Hippodocus"
+        },
+        {
+            "id": "a002_254_0451",
+            "en_US": "Rapion"
+        },
+        {
+            "id": "a002_254_0452",
+            "en_US": "Drascore"
+        },
+        {
+            "id": "a002_254_0453",
+            "en_US": "Cradopaud"
+        },
+        {
+            "id": "a002_254_0454",
+            "en_US": "Coatox"
+        },
+        {
+            "id": "a002_254_0455",
+            "en_US": "Vortente"
+        },
+        {
+            "id": "a002_254_0456",
+            "en_US": "Écayon"
+        },
+        {
+            "id": "a002_254_0457",
+            "en_US": "Luminéon"
+        },
+        {
+            "id": "a002_254_0458",
+            "en_US": "Babimanta"
+        },
+        {
+            "id": "a002_254_0459",
+            "en_US": "Blizzi"
+        },
+        {
+            "id": "a002_254_0460",
+            "en_US": "Blizzaroi"
+        },
+        {
+            "id": "a002_254_0461",
+            "en_US": "Dimoret"
+        },
+        {
+            "id": "a002_254_0462",
+            "en_US": "Magnézone"
+        },
+        {
+            "id": "a002_254_0463",
+            "en_US": "Coudlangue"
+        },
+        {
+            "id": "a002_254_0464",
+            "en_US": "Rhinastoc"
+        },
+        {
+            "id": "a002_254_0465",
+            "en_US": "Bouldeneu"
+        },
+        {
+            "id": "a002_254_0466",
+            "en_US": "Élekable"
+        },
+        {
+            "id": "a002_254_0467",
+            "en_US": "Maganon"
+        },
+        {
+            "id": "a002_254_0468",
+            "en_US": "Togekiss"
+        },
+        {
+            "id": "a002_254_0469",
+            "en_US": "Yanmega"
+        },
+        {
+            "id": "a002_254_0470",
+            "en_US": "Phyllali"
+        },
+        {
+            "id": "a002_254_0471",
+            "en_US": "Givrali"
+        },
+        {
+            "id": "a002_254_0472",
+            "en_US": "Scorvol"
+        },
+        {
+            "id": "a002_254_0473",
+            "en_US": "Mammochon"
+        },
+        {
+            "id": "a002_254_0474",
+            "en_US": "Porygon-Z"
+        },
+        {
+            "id": "a002_254_0475",
+            "en_US": "Gallame"
+        },
+        {
+            "id": "a002_254_0476",
+            "en_US": "Tarinorme"
+        },
+        {
+            "id": "a002_254_0477",
+            "en_US": "Noctunoir"
+        },
+        {
+            "id": "a002_254_0478",
+            "en_US": "Momartik"
+        },
+        {
+            "id": "a002_254_0479",
+            "en_US": "Motisma"
+        },
+        {
+            "id": "a002_254_0480",
+            "en_US": "Créhelf"
+        },
+        {
+            "id": "a002_254_0481",
+            "en_US": "Créfollet"
+        },
+        {
+            "id": "a002_254_0482",
+            "en_US": "Créfadet"
+        },
+        {
+            "id": "a002_254_0483",
+            "en_US": "Dialga"
+        },
+        {
+            "id": "a002_254_0484",
+            "en_US": "Palkia"
+        },
+        {
+            "id": "a002_254_0485",
+            "en_US": "Heatran"
+        },
+        {
+            "id": "a002_254_0486",
+            "en_US": "Regigigas"
+        },
+        {
+            "id": "a002_254_0487",
+            "en_US": "Giratina"
+        },
+        {
+            "id": "a002_254_0488",
+            "en_US": "Cresselia"
+        },
+        {
+            "id": "a002_254_0489",
+            "en_US": "Phione"
+        },
+        {
+            "id": "a002_254_0490",
+            "en_US": "Manaphy"
+        },
+        {
+            "id": "a002_254_0491",
+            "en_US": "Darkrai"
+        },
+        {
+            "id": "a002_254_0492",
+            "en_US": "Shaymin"
+        },
+        {
+            "id": "a002_254_0493",
+            "en_US": "Arceus"
+        }
+    ]
+}

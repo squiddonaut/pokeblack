@@ -1,0 +1,51 @@
+{
+    "flags": 238,
+    "messages": [
+        {
+            "id": "a002_033_0000",
+            "en_US": [
+                "Let's Dress Up {VAR 0102 0000}\n",
+                "with Props!"
+            ]
+        },
+        {
+            "id": "a002_033_0001",
+            "en_US": "Is this look OK?"
+        },
+        {
+            "id": "a002_033_0002",
+            "en_US": [
+                "Waiting for other participants\n",
+                "to Dress Up."
+            ]
+        },
+        {
+            "id": "a002_033_0003",
+            "en_US": [
+                "{VAR 010A 0000}: A Prop that looks\n",
+                "nice on the {VAR 0131 0001}."
+            ]
+        },
+        {
+            "id": "a002_033_0004",
+            "en_US": [
+                "Props that look nice on the {VAR 0131 0000}\n",
+                "were sorted at the beginning."
+            ]
+        },
+        {
+            "id": "a002_033_0005",
+            "en_US": [
+                "The order of Props was\n",
+                "restored to the original order."
+            ]
+        },
+        {
+            "id": "a002_033_0006",
+            "en_US": [
+                "You can pull out Props from the list\n",
+                "and put them on your Pokémon."
+            ]
+        }
+    ]
+}

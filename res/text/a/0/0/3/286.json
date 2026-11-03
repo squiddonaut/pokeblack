@@ -1,0 +1,517 @@
+{
+    "flags": 224,
+    "pad": "e6e6",
+    "messages": [
+        {
+            "id": "a003_286_0000",
+            "en_US": [
+                "Welcome to the Pokémon Musical!{VAR BE01}\n",
+                "Here you can participate in\n",
+                "a musical alone.{VAR BE01}\n",
+                "Would you like to participate?"
+            ]
+        },
+        {
+            "id": "a003_286_0001",
+            "en_US": "Great! Please walk this way!{VAR BE01}"
+        },
+        {
+            "id": "a003_286_0002",
+            "en_US": "Please visit us again."
+        },
+        {
+            "id": "a003_286_0003",
+            "en_US": [
+                "Which show would you like\n",
+                "to participate in?"
+            ]
+        },
+        {
+            "id": "a003_286_0004",
+            "en_US": [
+                "Please choose the Pokémon that\n",
+                "will participate.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0005",
+            "en_US": [
+                "Oh, {VAR 0100 0000}, {VAR 0100 0000}...{VAR BE01}\n",
+                "I'm so very moved, I'm at a loss\n",
+                "for words..."
+            ]
+        },
+        {
+            "id": "a003_286_0006",
+            "en_US": [
+                "Your Pokémon gleamed like a superstar!{VAR BE01}\n",
+                "I want to follow in your\n",
+                "stylish footsteps!"
+            ]
+        },
+        {
+            "id": "a003_286_0007",
+            "en_US": [
+                "I'll come watch again, {VAR 0100 0000}.{VAR BE01}\n",
+                "That was so wonderful...\n",
+                "It may have changed my life."
+            ]
+        },
+        {
+            "id": "a003_286_0008",
+            "en_US": [
+                "{VAR 0100 0000}! That musical was the\n",
+                "best ever!{VAR BE01}\n",
+                "It made me feel so energetic! Please\n",
+                "come back and perform for us again!"
+            ]
+        },
+        {
+            "id": "a003_286_0009",
+            "en_US": [
+                "Oh, that performance was so inspiring!{VAR BE01}\n",
+                "It was so full of hopes and dreams! It\n",
+                "made me feel like I could climb mountains!"
+            ]
+        },
+        {
+            "id": "a003_286_0010",
+            "en_US": [
+                "{VAR 0100 0000}! Great show today!{VAR BE01}\n",
+                "I'm moved no matter how many\n",
+                "times I see your performance!"
+            ]
+        },
+        {
+            "id": "a003_286_0011",
+            "en_US": [
+                "Everyone's talking about the musical\n",
+                "at work, and it's all thanks to you!{VAR BE01}\n",
+                "We all love your innovative Dress Up.\n",
+                "You're like our fashion muse!"
+            ]
+        },
+        {
+            "id": "a003_286_0012",
+            "en_US": [
+                "I'm so glad I got to see your Pokémon on\n",
+                "stage. I'm overwhelmed with emotion!{VAR BE01}\n",
+                "I'm not exaggerating!"
+            ]
+        },
+        {
+            "id": "a003_286_0013",
+            "en_US": [
+                "Your performance... Before I knew what\n",
+                "was happening, I was drawn into it.{VAR BE01}\n",
+                "It's almost as if it had some\n",
+                "strange power..."
+            ]
+        },
+        {
+            "id": "a003_286_0014",
+            "en_US": [
+                "Your performances are so very artistic!{VAR BE01}\n",
+                "If an artist like me tells you so, there's\n",
+                "no mistaking it!"
+            ]
+        },
+        {
+            "id": "a003_286_0015",
+            "en_US": [
+                "Oh, {VAR 0100 0000}, {VAR 0100 0000}...{VAR BE01}\n",
+                "I'm so very moved, I'm at a loss\n",
+                "for words...{VAR BE01}\n",
+                "Please take this Prop\n",
+                "as a token of my feelings!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0016",
+            "en_US": [
+                "Your Pokémon gleamed like a superstar!{VAR BE01}\n",
+                "I want to follow in your\n",
+                "stylish footsteps!{VAR BE01}\n",
+                "Perhaps this Prop can enhance\n",
+                "your brilliance!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0017",
+            "en_US": [
+                "I'll come watch again, {VAR 0100 0000}.{VAR BE01}\n",
+                "That was so wonderful...\n",
+                "It may have changed my life.{VAR BE01}\n",
+                "I hope you like this Prop...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0018",
+            "en_US": [
+                "{VAR 0100 0000}! That musical was the\n",
+                "best ever!{VAR BE01}\n",
+                "It made me feel so energetic! Please\n",
+                "come back and perform for us again!{VAR BE01}\n",
+                "Hey, maybe you can use this Prop\n",
+                "next time!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0019",
+            "en_US": [
+                "Oh, that performance was so inspiring!{VAR BE01}\n",
+                "It was so full of hopes and dreams! It\n",
+                "made me feel like I could climb mountains!{VAR BE01}\n",
+                "Here, this is for you. Thank you for\n",
+                "the inspiration!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0020",
+            "en_US": [
+                "{VAR 0100 0000}! Great show today!{VAR BE01}\n",
+                "I'm moved no matter how many\n",
+                "times I see your performance!{VAR BE01}\n",
+                "I'd love to see you use this on stage!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0021",
+            "en_US": [
+                "Everyone's talking about the musical\n",
+                "at work, and it's all thanks to you!{VAR BE01}\n",
+                "We all love your innovative Dress Up.\n",
+                "You're like our fashion muse!{VAR BE01}\n",
+                "Maybe you could work this Prop into one\n",
+                "of your fabulous Dress Up designs!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0022",
+            "en_US": [
+                "I'm so glad I got to see your Pokémon on\n",
+                "stage. I'm overwhelmed with emotion!{VAR BE01}\n",
+                "I'm not exaggerating!{VAR BE01}\n",
+                "Here, please take this small token of\n",
+                "my appreciation.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0023",
+            "en_US": [
+                "Your performance... Before I knew what\n",
+                "was happening, I was drawn into it.{VAR BE01}\n",
+                "It's almost as if it had some\n",
+                "strange power...{VAR BE01}\n",
+                "I charmed this so that it will be useful.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0024",
+            "en_US": [
+                "Your performances are so very artistic!{VAR BE01}\n",
+                "If an artist like me tells you so, there's\n",
+                "no mistaking it!{VAR BE01}\n",
+                "Here's a new Prop to use in your art!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0025",
+            "en_US": "In fact, this person does not exist..."
+        },
+        {
+            "id": "a003_286_0026",
+            "en_US": "Received the {VAR FF00 0002}{VAR 010A 0001}{VAR FF00 0000}!"
+        },
+        {
+            "id": "a003_286_0027",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 010A 0001}\n",
+                "in the {VAR FF00 0002}Prop Case{VAR FF00 0000}!"
+            ]
+        },
+        {
+            "id": "a003_286_0028",
+            "en_US": [
+                "{VAR 0100 0000} put the {VAR 010A 0001}\n",
+                "in the {VAR FF00 0002}Prop Case{VAR FF00 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0029",
+            "en_US": "Stardom",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0030",
+            "en_US": "Forest Stroll",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0031",
+            "en_US": "A Sweet Soirée",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0032",
+            "en_US": "Exciting Nimbasa",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0033",
+            "en_US": "{VAR 0122 0000}",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0034",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0035",
+            "en_US": "Yes",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0036",
+            "en_US": "No",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0037",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0038",
+            "en_US": "Become leader",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0039",
+            "en_US": "Join group",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0040",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0041",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_286_0042",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_286_0043",
+            "en_US": [
+                "Welcome to the Pokémon Musical!{VAR BE01}\n",
+                "Here you and your friends can\n",
+                "perform together!{VAR BE01}\n",
+                "Would you like to participate?"
+            ]
+        },
+        {
+            "id": "a003_286_0044",
+            "en_US": [
+                "I'm sorry, but you don't have an\n",
+                "eligible Pokémon in your party.{VAR BE01}\n",
+                "Please come back again with\n",
+                "different Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0045",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_286_0046",
+            "en_US": [
+                "Would you like to use\n",
+                "Infrared Communication or{VAR BE00}\n",
+                "DS Wireless Communications?"
+            ]
+        },
+        {
+            "id": "a003_286_0047",
+            "en_US": "Infrared Communication",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0048",
+            "en_US": "DS Wireless Communications",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0049",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_286_0050",
+            "en_US": [
+                "Would you like to launch\n",
+                "Infrared Communication and{VAR BE00}\n",
+                "DS Wireless Communications?"
+            ]
+        },
+        {
+            "id": "a003_286_0051",
+            "en_US": [
+                "One of you will become the leader.\n",
+                "That person will get to choose the show{VAR BE00}\n",
+                "you'll perform!{VAR BE01}\n",
+                "The other members should select\n",
+                "“Join group.\""
+            ]
+        },
+        {
+            "id": "a003_286_0052",
+            "en_US": "Launch DS Wireless Communications?"
+        },
+        {
+            "id": "a003_286_0053",
+            "en_US": [
+                "Thank you for waiting.\n",
+                "This way, please!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a003_286_0054",
+            "en_US": "Participate in the musical?"
+        },
+        {
+            "id": "a003_286_0055",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_286_0056",
+            "en_US": [
+                "Welcome to the Pokémon Musical!{VAR BE01}\n",
+                "This is a changing room for Dress Up only.\n",
+                "Would you like to Dress Up your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_286_0057",
+            "en_US": "This way, please!{VAR BE01}"
+        },
+        {
+            "id": "a003_286_0058",
+            "en_US": "Would you like to Dress Up your Pokémon?"
+        },
+        {
+            "id": "a003_286_0059",
+            "en_US": "What would you like me to explain?"
+        },
+        {
+            "id": "a003_286_0060",
+            "en_US": "What's the Pokémon Musical?",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0061",
+            "en_US": [
+                "The Pokémon Musical is a show where\n",
+                "Pokémon wearing Props perform on stage.{VAR BE00}\n",
+                "Anyone can participate!{VAR BE01}\n",
+                "We encourage all Trainers to show the\n",
+                "world how charming their Pokémon are!{VAR BE01}\n",
+                "The audience is looking forward to seeing\n",
+                "how you Dress Up your Pokémon, and how{VAR BE00}\n",
+                "your Pokémon perform!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0062",
+            "en_US": "How to Participate",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0063",
+            "en_US": [
+                "You can join the musical from any of the\n",
+                "three reception areas.{VAR BE01}\n",
+                "The reception area in the center is for\n",
+                "participating alone.{VAR BE01}\n",
+                "When you participate alone, you will\n",
+                "be joined by other Trainers from around{VAR BE00}\n",
+                "the Unova region.{VAR BE01}\n",
+                "If you want to put on a musical with your\n",
+                "friends, go to the left reception area.{VAR BE01}\n",
+                "You'll be asked to pick a Leader who\n",
+                "will choose which show to perform,{VAR BE00}\n",
+                "and the others will join the group.{VAR BE01}\n",
+                "The reception area to the right is where\n",
+                "you go to Dress Up only.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0064",
+            "en_US": "Eligible Pokémon",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0065",
+            "en_US": [
+                "The Pokémon that will participate in the\n",
+                "musical are chosen from your party at{VAR BE00}\n",
+                "the reception area.{VAR BE01}\n",
+                "Because of their shape, some Pokémon\n",
+                "have a hard time wearing certain Props.{VAR BE01}\n",
+                "You might want to try Dress Up in the\n",
+                "changing room first if you're worried!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0066",
+            "en_US": "Dress Up",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0067",
+            "en_US": [
+                "Oh, Dress Up is my favorite part! That's\n",
+                "where you put the Props you've collected{VAR BE00}\n",
+                "on the Pokémon that will be performing.{VAR BE01}\n",
+                "Depending on the Pokémon, you can put\n",
+                "the Props in different places.{VAR BE01}\n",
+                "When you use Props that fit the theme of\n",
+                "the show you've chosen, the audience{VAR BE00}\n",
+                "will notice your Pokémon more!{VAR BE01}\n",
+                "Sometimes a Prop that doesn't fit the\n",
+                "theme will also make your Pokémon{VAR BE00}\n",
+                "stand out.{VAR BE01}\n",
+                "If you want to get an idea of how it's\n",
+                "done, you can watch how other people{VAR BE00}\n",
+                "Dress Up and then try it yourself!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_286_0068",
+            "en_US": "Shows",
+            "flags": 219
+        },
+        {
+            "id": "a003_286_0069",
+            "en_US": [
+                "You can choose which show to perform\n",
+                "when you participate in the musical.{VAR BE01}\n",
+                "There is no need for Trainers to give\n",
+                "commands, but if your Pokémon is carrying{VAR BE00}\n",
+                "a Prop in its arms, it can use that Prop{VAR BE00}\n",
+                "to show off and appeal to the audience.{VAR BE01}\n",
+                "Depending on how you Dress Up your\n",
+                "Pokémon, the reactions from the audience{VAR BE00}\n",
+                "will change!{VAR BE01}"
+            ]
+        }
+    ]
+}

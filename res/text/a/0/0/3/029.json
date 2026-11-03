@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_029_0000",
+            "en_US": [
+                "DS Wireless Communications is great!{VAR BE01}\n",
+                "We can trade Pokémon with people\n",
+                "who are far away!"
+            ]
+        },
+        {
+            "id": "a003_029_0001",
+            "en_US": [
+                "Just now, I traded a Pokémon holding an\n",
+                "item! So, it's like the item is a present!"
+            ]
+        },
+        {
+            "id": "a003_029_0002",
+            "en_US": [
+                "Dire Hit? In Unova, it's called Dire Hit.\n",
+                "Huh? No difference?{VAR BE01}\n",
+                "...Anyway, in a battle, it's very powerful\n",
+                "when a move is a critical hit!"
+            ]
+        },
+        {
+            "id": "a003_029_0003",
+            "en_US": "I started a shop in this warehouse!{VAR BE01}"
+        }
+    ]
+}

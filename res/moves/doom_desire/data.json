@@ -1,0 +1,30 @@
+{
+    "name": "Doom Desire",
+    "description": [
+        "Two turns after this move is used, the\n",
+        "user blasts the target with a\n",
+        "concentrated bundle of light."
+    ],
+    "type": "TYPE_STEEL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_SPECIAL",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 148,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": []
+}

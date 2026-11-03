@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_291_0000",
+            "en_US": [
+                "We had been secretly building this castle\n",
+                "for several years by overworking{VAR BE00}\n",
+                "Pokémon that we took away.{VAR BE00}\n",
+                "Without being noticed by anyone..."
+            ]
+        },
+        {
+            "id": "a003_291_0001",
+            "en_US": [
+                "Everything is going perfectly as\n",
+                "Ghetsis of the Seven Sages{VAR BE00}\n",
+                "calculated and planned.{VAR BE01}\n",
+                "He's been thinking about how he can\n",
+                "manipulate people's hearts as he wishes."
+            ]
+        }
+    ]
+}

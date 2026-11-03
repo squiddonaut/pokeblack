@@ -1,0 +1,98 @@
+{
+    "flags": 192,
+    "pad": "7a7a",
+    "messages": [
+        {
+            "id": "a002_225_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_225_0001",
+            "en_US": "Akershus"
+        },
+        {
+            "id": "a002_225_0002",
+            "en_US": "Aust-Agder"
+        },
+        {
+            "id": "a002_225_0003",
+            "en_US": "Buskerud"
+        },
+        {
+            "id": "a002_225_0004",
+            "en_US": "Finnmark"
+        },
+        {
+            "id": "a002_225_0005",
+            "en_US": "Hedmark"
+        },
+        {
+            "id": "a002_225_0006",
+            "en_US": "Hordaland"
+        },
+        {
+            "id": "a002_225_0007",
+            "en_US": "Jan Mayen Island"
+        },
+        {
+            "id": "a002_225_0008",
+            "en_US": "Lofoten"
+        },
+        {
+            "id": "a002_225_0009",
+            "en_US": "Møre og Romsdal"
+        },
+        {
+            "id": "a002_225_0010",
+            "en_US": "Nordland"
+        },
+        {
+            "id": "a002_225_0011",
+            "en_US": "Nord-Trøndelag"
+        },
+        {
+            "id": "a002_225_0012",
+            "en_US": "Oppland"
+        },
+        {
+            "id": "a002_225_0013",
+            "en_US": "Oslo"
+        },
+        {
+            "id": "a002_225_0014",
+            "en_US": "Rogaland"
+        },
+        {
+            "id": "a002_225_0015",
+            "en_US": "Sogn og Fjordane"
+        },
+        {
+            "id": "a002_225_0016",
+            "en_US": "Sør-Trøndelag"
+        },
+        {
+            "id": "a002_225_0017",
+            "en_US": "Svalbard"
+        },
+        {
+            "id": "a002_225_0018",
+            "en_US": "Telemark"
+        },
+        {
+            "id": "a002_225_0019",
+            "en_US": "Troms"
+        },
+        {
+            "id": "a002_225_0020",
+            "en_US": "Vest-Agder"
+        },
+        {
+            "id": "a002_225_0021",
+            "en_US": "Vestfold"
+        },
+        {
+            "id": "a002_225_0022",
+            "en_US": "Østfold"
+        }
+    ]
+}

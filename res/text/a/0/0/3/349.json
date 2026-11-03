@@ -1,0 +1,262 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_349_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_349_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_349_0002",
+            "en_US": [
+                "Cheren: Professor Juniper, I'm sorry\n",
+                "to have kept you waiting.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0003",
+            "en_US": [
+                "Professor Juniper: Now that everyone's\n",
+                "here, I'll explain.{VAR BE01}\n",
+                "The Pokédex's pages update automatically\n",
+                "whenever you meet a Pokémon!{VAR BE01}\n",
+                "Moreover, it's set up so that\n",
+                "you obtain even more information{VAR BE00}\n",
+                "when you catch a Pokémon!{VAR BE01}\n",
+                "To make this clear, I'm going to\n",
+                "demonstrate how to catch a Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0004",
+            "en_US": [
+                "Professor Juniper: Did you see that,\n",
+                "just now?{VAR BE01}\n",
+                "Here's how it goes, step by step.\n",
+                "First, reduce the Pokémon's HP!{VAR BE01}\n",
+                "Pokémon that still have all of\n",
+                "their energy are difficult to catch.{VAR BE01}\n",
+                "If you can, use your Pokémon's moves to\n",
+                "make the Pokémon you want to catch{VAR BE00}\n",
+                "fall asleep. Or paralyze it!{VAR BE01}\n",
+                "And to wrap this up in the best way,\n",
+                "I have a gift for you--some Poké Balls!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_349_0006",
+            "en_US": [
+                "Professor Juniper: Poké Balls are used\n",
+                "for catching Pokémon and for carrying{VAR BE00}\n",
+                "the Pokémon you catch!{VAR BE01}\n",
+                "I'm going on ahead.\n",
+                "I'll be waiting for you in Accumula Town!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0007",
+            "en_US": [
+                "Cheren: She forgot to say that Pokémon\n",
+                "jump out at you in the tall grass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0008",
+            "en_US": "I'm heading to Accumula Town, too.{VAR BE01}"
+        },
+        {
+            "id": "a003_349_0009",
+            "en_US": [
+                "Bianca: I think I'll go, too.{VAR BE01}\n",
+                "I'm looking forward to the next town\n",
+                "so I can go shopping for Poké Balls!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0010",
+            "en_US": [
+                "Bianca: Wait a minute!{VAR BE01}\n",
+                "Hey, listen!\n",
+                "{VAR 0100 0000}, Cheren,{VAR BE00}\n",
+                "I thought of something fun!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0011",
+            "en_US": [
+                "Cheren: But we need to get going!\n",
+                "I'd imagine the professor's waiting, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0012",
+            "en_US": [
+                "Bianca: Would you just listen a sec?\n",
+                "Seriously!{VAR BE01}\n",
+                "Why don't we see who can catch\n",
+                "the most Pokémon?{VAR BE01}\n",
+                "The person carrying the most Pokémon,\n",
+                "including the one received from{VAR BE00}\n",
+                "Professor Juniper, is the winner!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0013",
+            "en_US": [
+                "Cheren: Huh.\n",
+                "Actually, that sounds interesting.{VAR BE01}\n",
+                "It will fill up Pokédex pages, so I'm\n",
+                "sure it will please the professor, too.{VAR BE01}\n",
+                "OK, then. Until we reach Accumula Town,\n",
+                "take care of healing your Pokémon{VAR BE00}\n",
+                "at your own house.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0014",
+            "en_US": [
+                "Bianca: Me and {VAR 0101 0000}\n",
+                "will do the best for sure!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0015",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, are you going to\n",
+                "compare yourself with Bianca?{VAR BE01}\n",
+                "Both Bianca and I have two Pokémon\n",
+                "with us."
+            ]
+        },
+        {
+            "id": "a003_349_0016",
+            "en_US": [
+                "Bianca: How about it, {VAR 0100 0000}?{VAR BE01}\n",
+                "Do you want to compare which one\n",
+                "of us has the most Pokémon with them?"
+            ]
+        },
+        {
+            "id": "a003_349_0017",
+            "en_US": [
+                "Bianca: Hmm...\n",
+                "Guess I'll be waiting here, then.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0018",
+            "en_US": [
+                "Bianca: Wow, {VAR 0200 0000}?! That's awesome!{VAR BE01}\n",
+                "Are you excited to have that many\n",
+                "Pokémon with you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0019",
+            "en_US": [
+                "Bianca: Seems the number of Pokémon\n",
+                "{VAR 0100 0000} has is...{VAR BE01}\n",
+                "Two!\n",
+                "We all have the same number, then!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0020",
+            "en_US": [
+                "Bianca: What? What? What?\n",
+                "You only have {VAR 0101 0000}?!{VAR BE01}\n",
+                "If you don't catch any Pokémon, won't\n",
+                "{VAR 0101 0000} get lonely?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0021",
+            "en_US": [
+                "Cheren: Incidentally, if you check your\n",
+                "Pokédex, you'll see how many Pokémon{VAR BE00}\n",
+                "you've found and how many{VAR BE00}\n",
+                "you've caught.{VAR BE01}\n",
+                "I'm off to Accumula Town!\n",
+                "The professor is waiting.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_349_0023",
+            "en_US": "The Xtransceiver is ringing."
+        },
+        {
+            "id": "a003_349_0024",
+            "en_US": "{VAR 0100 0000} picked up the Xtransceiver.{VAR BE01}"
+        },
+        {
+            "id": "a003_349_0025",
+            "en_US": "Cheren: Well, I'm going on ahead.{VAR BE01}"
+        },
+        {
+            "id": "a003_349_0026",
+            "en_US": [
+                "Is your Pokémon's HP all right?{VAR BE01}\n",
+                "When your Pokémon's HP decreases while\n",
+                "you're on the road, it can be{VAR BE00}\n",
+                "a big problem, so I'll give you this.{VAR BE01}\n",
+                "Put it in your Bag's Medicine Case.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_349_0027",
+            "en_US": [
+                "When your Pokémon's HP decreases,\n",
+                "they no longer have the energy to fight.{VAR BE01}\n",
+                "So, don't push your Pokémon too hard,\n",
+                "and let them rest often."
+            ]
+        },
+        {
+            "id": "a003_349_0028",
+            "en_US": [
+                "Wild Pokémon are hiding in the tall grass.\n",
+                "What does this mean for you?{VAR BE01}\n",
+                "It means when you want to battle\n",
+                "or capture wild Pokémon,{VAR BE00}\n",
+                "you should go walk in the tall grass."
+            ]
+        },
+        {
+            "id": "a003_349_0029",
+            "en_US": "Route 1",
+            "flags": 207
+        },
+        {
+            "id": "a003_349_0030",
+            "en_US": "Route 1",
+            "flags": 207
+        },
+        {
+            "id": "a003_349_0031",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Make an effort to talk to all the\n",
+                "people you meet during your journey!{VAR BE01}\n",
+                "Chances are they will have something\n",
+                "useful to tell you."
+            ],
+            "flags": 207
+        }
+    ]
+}

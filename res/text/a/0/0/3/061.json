@@ -1,0 +1,320 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_061_0000",
+            "en_US": [
+                "Ghetsis: My word, if it isn't\n",
+                "the Gym Leader, Burgh.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0001",
+            "en_US": [
+                "Burgh: So, what would you say is the\n",
+                "guiding principle of Team Plasma, anyway?{VAR BE01}\n",
+                "“Take what you want from people\"?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0002",
+            "en_US": [
+                "Bronius: I thought it would be amusing\n",
+                "to prepare a hideout right in front of a{VAR BE00}\n",
+                "Pokémon Gym, but we were detected{VAR BE00}\n",
+                "more quickly than I imagined.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0003",
+            "en_US": [
+                "Ghetsis: Indeed...{VAR BE01}\n",
+                "No matter. We already have an\n",
+                "exceptional base of operations.{VAR BE01}\n",
+                "Is everyone familiar with the legend\n",
+                "of the founding of the Unova region?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0004",
+            "en_US": [
+                "Iris: I am! It's the white\n",
+                "Dragon-type Pokémon, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0005",
+            "en_US": [
+                "Iris: I am! It's the black\n",
+                "Dragon-type Pokémon, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0006",
+            "en_US": [
+                "Ghetsis: The truth is this...{VAR BE01}\n",
+                "The white dragon appeared before a hero\n",
+                "who sought the true way to knit together{VAR BE00}\n",
+                "a world full of many warring people.{VAR BE01}\n",
+                "This white Dragon-type Pokémon shared\n",
+                "its knowledge--and bared its fangs{VAR BE00}\n",
+                "at those who stood against it.{VAR BE01}\n",
+                "Together, the power of this Pokémon and\n",
+                "the hero brought unity to the hearts of{VAR BE00}\n",
+                "everyone in the land,{VAR BE00}\n",
+                "and that is how Unova was created.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0007",
+            "en_US": [
+                "Ghetsis: The truth is this...{VAR BE01}\n",
+                "The black dragon appeared before a hero\n",
+                "who sought the ideal way to knit{VAR BE00}\n",
+                "together a world full of warring people.{VAR BE01}\n",
+                "This black Dragon-type Pokémon shared\n",
+                "its knowledge--and bared its fangs{VAR BE00}\n",
+                "at those who stood against it.{VAR BE01}\n",
+                "Together, the power of this Pokémon and\n",
+                "the hero brought unity to the hearts of{VAR BE00}\n",
+                "everyone in the land,{VAR BE00}\n",
+                "and that is how Unova was created.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0008",
+            "en_US": [
+                "We shall bring back the hero and\n",
+                "that Pokémon to Unova once again!{VAR BE01}\n",
+                "If we can win people's hearts and minds,\n",
+                "we can easily create the world that{VAR BE00}\n",
+                "I--I mean, Team Plasma--desires!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0009",
+            "en_US": [
+                "Burgh: Here in Castelia, we have\n",
+                "a lot of different kinds of people.{VAR BE01}\n",
+                "Everyone's ways of thinking and\n",
+                "lifestyles are very different.{VAR BE01}\n",
+                "Honestly, there's something about what\n",
+                "you're saying I don't quite understand."
+            ]
+        },
+        {
+            "id": "a003_061_0010",
+            "en_US": "Yes?",
+            "flags": 126
+        },
+        {
+            "id": "a003_061_0011",
+            "en_US": "What is it?",
+            "flags": 126
+        },
+        {
+            "id": "a003_061_0012",
+            "en_US": [
+                "Burgh: One thing we all have in\n",
+                "common is that we all care a lot{VAR BE00}\n",
+                "about Pokémon.{VAR BE01}\n",
+                "Even people meeting for the first time\n",
+                "can talk about Pokémon.{VAR BE00}\n",
+                "Talk or battle or trade...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0013",
+            "en_US": [
+                "Remember your speech at Accumula Town?{VAR BE01}\n",
+                "You were responsible for leading me to\n",
+                "rethink my relationship with Pokémon.{VAR BE00}\n",
+                "For that, I thank you.{VAR BE01}\n",
+                "At that time, I made a promise...{VAR BE01}\n",
+                "I swore to myself that I would dedicate\n",
+                "myself to Pokémon even more strongly!{VAR BE01}\n",
+                "What you guys are doing... Aren't you\n",
+                "going to strengthen the bond between{VAR BE00}\n",
+                "people and Pokémon even more?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0014",
+            "en_US": [
+                "Ghetsis: Myah-ha-ha-ha!{VAR BE01}\n",
+                "You are quite hard to figure out--a little\n",
+                "more intelligent than I'd expected.{VAR BE01}\n",
+                "I am fond of intelligent people, you see.\n",
+                "You'll enjoy hearing about this...{VAR BE01}\n",
+                "From every corner of the world,\n",
+                "I have gathered knowledgeable people{VAR BE00}\n",
+                "for our king's benefit.{VAR BE01}\n",
+                "You could call them the Seven Sages.{VAR BE01}\n",
+                "Very well! We will submit to your\n",
+                "opinion and be on our way.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0015",
+            "en_US": [
+                "That girl over there...\n",
+                "Return her Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0016",
+            "en_US": [
+                "Bianca: Th-thank you!{VAR BE01}\n",
+                "Munny, I'm so glad to see you again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0017",
+            "en_US": [
+                "Iris: Bianca!{VAR BE01}\n",
+                "Why are you thanking them?\n",
+                "They take people's precious Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0018",
+            "en_US": [
+                "Bianca: It's just... I'm...I'm so happy\n",
+                "that my Munna is safe.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0019",
+            "en_US": [
+                "Ghetsis: The friendship between Pokémon\n",
+                "and people can be very touching.{VAR BE01}\n",
+                "But, in order to liberate Pokémon from\n",
+                "foolish people, we will revive the legend{VAR BE00}\n",
+                "of Unova--and win the hearts and minds{VAR BE00}\n",
+                "of everyone. Farewell...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0020",
+            "en_US": [
+                "Iris: What are you doing?\n",
+                "Why are you letting them get away?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0021",
+            "en_US": [
+                "Burgh: Gah!{VAR BE01}\n",
+                "What do we do if anything's happened\n",
+                "to the other stolen Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0022",
+            "en_US": [
+                "Bianca: It's OK. Thank you, Iris!{VAR BE01}\n",
+                "No one was hurt. More than anything,\n",
+                "I got my darling Pokémon back again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0023",
+            "en_US": "Iris: OK, if you're happy...{VAR BE01}"
+        },
+        {
+            "id": "a003_061_0024",
+            "en_US": [
+                "Burgh: What is everyone\n",
+                "planning to do now?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0025",
+            "en_US": [
+                "Bianca: Oh, it would be sensational to\n",
+                "look around Castelia City, but...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0026",
+            "en_US": [
+                "Iris: Don't worry!\n",
+                "I'll keep on being your bodyguard!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0027",
+            "en_US": "Bianca: Iris...{VAR BE01}"
+        },
+        {
+            "id": "a003_061_0028",
+            "en_US": [
+                "Burgh: Uh-hm. That's great!{VAR BE01}\n",
+                "Iris is a dazzling Pokémon Trainer,\n",
+                "but maybe not at home in the{VAR BE00}\n",
+                "big city yet.{VAR BE01}\n",
+                "So, a little give-and-take, hm! People and\n",
+                "Pokémon need to help each other out!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0029",
+            "en_US": [
+                "Iris: Also, thanks for looking\n",
+                "for the Pokémon!{VAR BE01}\n",
+                "Here, this is for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0030",
+            "en_US": [
+                "Iris: Also, thanks for looking\n",
+                "for the Pokémon!{VAR BE01}\n",
+                "Here, this is for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0031",
+            "en_US": "Iris: See you!{VAR BE01}"
+        },
+        {
+            "id": "a003_061_0032",
+            "en_US": "Wha...",
+            "flags": 126
+        },
+        {
+            "id": "a003_061_0033",
+            "en_US": "Waaait!",
+            "flags": 126
+        },
+        {
+            "id": "a003_061_0034",
+            "en_US": [
+                "Burgh: Well, then, {VAR 0100 0000}.\n",
+                "I'll be waiting in the Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0035",
+            "en_US": [
+                "Burgh: Well, then, {VAR 0100 0000}.\n",
+                "I'll be waiting in the Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_061_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_061_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_061_0038",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

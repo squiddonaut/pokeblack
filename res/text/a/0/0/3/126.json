@@ -1,0 +1,272 @@
+{
+    "flags": 224,
+    "pad": "f6f6",
+    "messages": [
+        {
+            "id": "a003_126_0000",
+            "en_US": [
+                "Hi! I'm Iris, the amazingly strong\n",
+                "Gym Leader!{VAR BE01}\n",
+                "Tell me... What Pokémon are you using?\n",
+                "How will you fight?{VAR BE01}\n",
+                "Ooh, I'm super curious, so let's just\n",
+                "get started!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0001",
+            "en_US": [
+                "Whoooa!\n",
+                "That was so cool!{VAR BE01}\n",
+                "I'm sooo happy I could battle a Trainer\n",
+                "as strong as you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0002",
+            "en_US": [
+                "{VAR 0100 0000} received the Legend Badge\n",
+                "from Iris.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0003",
+            "en_US": [
+                "Hey, that's your eighth Badge, right?\n",
+                "That's so cool!{VAR BE01}\n",
+                "Now every Pokémon will do what you ask,\n",
+                "no matter how big they are!{VAR BE01}\n",
+                "Know what? I'll give you this TM, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0004",
+            "en_US": [
+                "Dragon Tail doesn't just do damage.{VAR BE01}\n",
+                "It sends the other Pokémon back to its\n",
+                "Poké Ball, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0005",
+            "en_US": [
+                "Ooh, hey!\n",
+                "I wonder how Mister Alder is doing?{VAR BE01}\n",
+                "I wonder if he's battling that Trainer\n",
+                "called N in the Pokémon League right now?{VAR BE01}\n",
+                "Do you know about the Pokémon League?{VAR BE01}\n",
+                "It's past Victory Road, at the end of\n",
+                "Route 10!"
+            ]
+        },
+        {
+            "id": "a003_126_0006",
+            "en_US": [
+                "You've been on a journey and seen a lot\n",
+                "of the world.{VAR BE01}\n",
+                "I'm like that, too! I'm from way out in\n",
+                "the country.{VAR BE01}\n",
+                "I'm really happy that I've gotten to\n",
+                "meet lots of different people{VAR BE00}\n",
+                "and Pokémon!!"
+            ]
+        },
+        {
+            "id": "a003_126_0007",
+            "en_US": [
+                "You've been on a journey and seen a lot\n",
+                "of the world.{VAR BE01}\n",
+                "I'm like that, too! I'm from way out in\n",
+                "the country.{VAR BE01}\n",
+                "I'm really happy that I've gotten to\n",
+                "meet lots of different people{VAR BE00}\n",
+                "and Pokémon!!"
+            ]
+        },
+        {
+            "id": "a003_126_0008",
+            "en_US": [
+                "Welcome. Thank you for coming. I am\n",
+                "Opelucid Pokémon Gym's Leader, Drayden.{VAR BE01}\n",
+                "As the mayor, I've given everything\n",
+                "to developing the city.{VAR BE01}\n",
+                "As a Trainer, I've simply been pursuing\n",
+                "greater strength.{VAR BE01}\n",
+                "But what I'm searching for now is a young\n",
+                "Trainer who can show me a bright future.{VAR BE01}\n",
+                "Perhaps you can show me that future,\n",
+                "the way Iris has?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0009",
+            "en_US": [
+                "Wonderful.{VAR BE01}\n",
+                "I'm grateful we had a chance to meet\n",
+                "and battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0010",
+            "en_US": [
+                "{VAR 0100 0000} received the Legend Badge\n",
+                "from Drayden!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0011",
+            "en_US": [
+                "Well, now. You've obtained all of the\n",
+                "Gym Badges in Unova.{VAR BE01}\n",
+                "Now, all Pokémon will obediently follow\n",
+                "your commands.{VAR BE01}\n",
+                "I also want you to have this.\n",
+                "It's a TM I'm particularly fond of.{VAR BE01}\n",
+                "It's called Dragon Tail.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0012",
+            "en_US": [
+                "Dragon Tail is a move that returns the\n",
+                "damaged Pokémon to its Poké Ball.{VAR BE01}\n",
+                "In other words, it switches your\n",
+                "opponent's Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0013",
+            "en_US": [
+                "Now, I have something to ask of you.{VAR BE01}\n",
+                "Head for the Pokémon League and\n",
+                "go after Alder.{VAR BE01}\n",
+                "The Pokémon League is past Route 10,\n",
+                "which runs from Opelucid City{VAR BE00}\n",
+                "to Victory Road.{VAR BE01}\n",
+                "I know Alder's strength, but I don't\n",
+                "know the depths of N's power..."
+            ]
+        },
+        {
+            "id": "a003_126_0014",
+            "en_US": [
+                "Pokémon and people do not age because of\n",
+                "the passage of time.{VAR BE01}\n",
+                "They get old when the energy flowing in\n",
+                "their hearts dries up.{VAR BE01}\n",
+                "This energy in our hearts is powered by\n",
+                "truth, ideals, or maybe dreams...{VAR BE01}\n",
+                "That probably changes with what you most\n",
+                "hope for in your life."
+            ]
+        },
+        {
+            "id": "a003_126_0015",
+            "en_US": [
+                "Thanks for coming!\n",
+                "I happily welcome you!{VAR BE01}\n",
+                "But...\n",
+                "I may be a little rough on you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0016",
+            "en_US": [
+                "Advancing or retreating is up to you.\n",
+                "But if you proceed, prepare yourself!{VAR BE01}\n",
+                "Moving forward halfheartedly is\n",
+                "disrespectful to your Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_126_0017",
+            "en_US": [
+                "Welcome to the Opelucid Gym, the Unova\n",
+                "region's strongest and biggest trial!{VAR BE01}\n",
+                "First off, please take this Fresh Water.\n",
+                "It'll help you in the challenge ahead.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_126_0018",
+            "en_US": [
+                "Let me give you a brief explanation of\n",
+                "the trick to the Opelucid Gym!{VAR BE01}\n",
+                "The path around this Gym is shaped like\n",
+                "two dragons.{VAR BE01}\n",
+                "This path changes when you step on\n",
+                "the switches on the dragons' arms.{VAR BE01}\n",
+                "Pay attention to how the dragons'\n",
+                "necks move!"
+            ]
+        },
+        {
+            "id": "a003_126_0019",
+            "en_US": [
+                "You beat the Gym Leader?\n",
+                "Wow, that's amazing!{VAR BE01}\n",
+                "Oh, by the way, since I gave you all that\n",
+                "Fresh Water...{VAR BE00}\n",
+                "Don't you owe me some of your winnings?{VAR BE01}\n",
+                "...I'm kidding! It's just a joke!\n",
+                "No, seriously, congratulations!"
+            ]
+        },
+        {
+            "id": "a003_126_0020",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Iris\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_126_0021",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Iris\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_126_0022",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Iris\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        },
+        {
+            "id": "a003_126_0023",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Drayden\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_126_0024",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Drayden\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_126_0025",
+            "en_US": [
+                "Opelucid Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Drayden\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

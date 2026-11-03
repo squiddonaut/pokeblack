@@ -1,0 +1,90 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_063_0000",
+            "en_US": [
+                "I am a Pokémon fanatic.\n",
+                "I am famous in Castelia, too!{VAR BE01}\n",
+                "Oh, look!\n",
+                "You have a Pokédex!{VAR BE01}\n",
+                "How many Pokémon\n",
+                "have you found so far?{VAR BE01}\n",
+                "...\n",
+                "{VAR 0202 0000} Pokémon!{VAR BE01}\n",
+                "If you have 20 Pokémon or more,\n",
+                "I'll give you something good!"
+            ]
+        },
+        {
+            "id": "a003_063_0001",
+            "en_US": [
+                "I am a Pokémon fanatic.\n",
+                "I am famous in Castelia, too!{VAR BE01}\n",
+                "Oh, look!\n",
+                "You have a Pokédex!{VAR BE01}\n",
+                "Well, how many Pokémon\n",
+                "have you found so far?{VAR BE01}\n",
+                "...\n",
+                "{VAR 0202 0000} Pokémon!{VAR BE00}\n",
+                "This is quite a Pokédex!{VAR BE01}\n",
+                "I am quite impressed, so\n",
+                "I will give this to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_063_0002",
+            "en_US": [
+                "Eviolite is great!{VAR BE01}\n",
+                "Both Defense and Special Defense\n",
+                "of the Pokémon who holds it will increase!{VAR BE01}\n",
+                "However, it's a peculiar stone because\n",
+                "it's only effective on Pokémon that{VAR BE00}\n",
+                "can still evolve."
+            ]
+        },
+        {
+            "id": "a003_063_0003",
+            "en_US": [
+                "I've been thinking about starting\n",
+                "a new business...{VAR BE01}\n",
+                "But it's quite a chore."
+            ]
+        },
+        {
+            "id": "a003_063_0004",
+            "en_US": [
+                "Do you think it's a good idea to provide\n",
+                "a service to raise Pokémon for Trainers?{VAR BE01}\n",
+                "What?\n",
+                "There's a Pokémon Day Care on Route 3?!"
+            ]
+        },
+        {
+            "id": "a003_063_0005",
+            "en_US": [
+                "What kinds of Abilities do\n",
+                "your Pokémon have?"
+            ]
+        },
+        {
+            "id": "a003_063_0006",
+            "en_US": [
+                "My Patrat's Ability is Keen Eye!{VAR BE01}\n",
+                "Even SmokeScreen and Sand-Attack\n",
+                "cannot lower its accuracy!"
+            ]
+        },
+        {
+            "id": "a003_063_0007",
+            "en_US": "Skeeree!"
+        },
+        {
+            "id": "a003_063_0008",
+            "en_US": [
+                "Hmmm! Fantastic! Excellent!\n",
+                "Burgh's paintings are magnificent!"
+            ]
+        }
+    ]
+}

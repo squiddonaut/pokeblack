@@ -1,0 +1,883 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a002_159_0000",
+            "en_US": "OFFER",
+            "flags": 86
+        },
+        {
+            "id": "a002_159_0001",
+            "en_US": "QUIT",
+            "flags": 86
+        },
+        {
+            "id": "a002_159_0002",
+            "en_US": "SHOW",
+            "flags": 86
+        },
+        {
+            "id": "a002_159_0003",
+            "en_US": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "id": "a002_159_0004",
+            "en_US": "TRADE",
+            "flags": 86
+        },
+        {
+            "id": "a002_159_0005",
+            "en_US": "CANCEL",
+            "flags": 72
+        },
+        {
+            "id": "a002_159_0006",
+            "en_US": "Communicating. Please stand by..."
+        },
+        {
+            "id": "a002_159_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0010",
+            "en_US": ""
+        },
+        {
+            "id": "a002_159_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0016",
+            "en_US": "IN PARTY",
+            "flags": 84
+        },
+        {
+            "id": "a002_159_0017",
+            "en_US": [
+                "Trade {VAR 0102 0000} in return for\n",
+                "{VAR 0102 0001}?"
+            ]
+        },
+        {
+            "id": "a002_159_0018",
+            "en_US": "Lv. {VAR 0202 0000}",
+            "flags": 46
+        },
+        {
+            "id": "a002_159_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0024",
+            "en_US": "YES",
+            "flags": 84
+        },
+        {
+            "id": "a002_159_0025",
+            "en_US": "NO",
+            "flags": 84
+        },
+        {
+            "id": "a002_159_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0027",
+            "en_US": "No. {VAR 0202 0001}",
+            "flags": 56
+        },
+        {
+            "id": "a002_159_0028",
+            "en_US": "{VAR 0101 0000}",
+            "flags": 60
+        },
+        {
+            "id": "a002_159_0029",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 60
+        },
+        {
+            "id": "a002_159_0030",
+            "en_US": "HP",
+            "flags": 56
+        },
+        {
+            "id": "a002_159_0031",
+            "en_US": "Attack",
+            "flags": 64
+        },
+        {
+            "id": "a002_159_0032",
+            "en_US": "Defense",
+            "flags": 64
+        },
+        {
+            "id": "a002_159_0033",
+            "en_US": "Sp. Atk",
+            "flags": 64
+        },
+        {
+            "id": "a002_159_0034",
+            "en_US": "Sp. Def",
+            "flags": 64
+        },
+        {
+            "id": "a002_159_0035",
+            "en_US": "Speed",
+            "flags": 64
+        },
+        {
+            "id": "a002_159_0036",
+            "en_US": "Nature",
+            "flags": 48
+        },
+        {
+            "id": "a002_159_0037",
+            "en_US": "Ability",
+            "flags": 48
+        },
+        {
+            "id": "a002_159_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0039",
+            "en_US": "{VAR 0202 0000}/{VAR 0202 0001}",
+            "flags": 56
+        },
+        {
+            "id": "a002_159_0040",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_159_0041",
+            "en_US": "{VAR 0108 0000}",
+            "flags": 84
+        },
+        {
+            "id": "a002_159_0042",
+            "en_US": "{VAR 0106 0000}",
+            "flags": 84
+        },
+        {
+            "id": "a002_159_0043",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 100
+        },
+        {
+            "id": "a002_159_0044",
+            "en_US": "MOVES LEARNED",
+            "flags": 94
+        },
+        {
+            "id": "a002_159_0045",
+            "en_US": "{VAR 0107 0000}",
+            "flags": 94
+        },
+        {
+            "id": "a002_159_0046",
+            "en_US": "⑭",
+            "flags": 9
+        },
+        {
+            "id": "a002_159_0047",
+            "en_US": "⑮",
+            "flags": 9
+        },
+        {
+            "id": "a002_159_0048",
+            "en_US": [
+                "{VAR 0100 0000} sent over\n",
+                "{VAR 0102 0001}."
+            ]
+        },
+        {
+            "id": "a002_159_0049",
+            "en_US": "Take good care of {VAR 0102 0001}!"
+        },
+        {
+            "id": "a002_159_0050",
+            "en_US": [
+                "Stopping communications...\n",
+                "Please wait."
+            ]
+        },
+        {
+            "id": "a002_159_0051",
+            "en_US": [
+                "Select the first letter in the name of\n",
+                "the Pokémon you want to find."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_159_0052",
+            "en_US": [
+                "No Pokémon with the selected\n",
+                "letter was found."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_159_0053",
+            "en_US": "{VAR BD02}A",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0054",
+            "en_US": "{VAR BD02}B",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0055",
+            "en_US": "{VAR BD02}C",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0056",
+            "en_US": "{VAR BD02}D",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0057",
+            "en_US": "{VAR BD02}E",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0058",
+            "en_US": "{VAR BD02}F",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0059",
+            "en_US": "{VAR BD02}G",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0060",
+            "en_US": "{VAR BD02}H",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0061",
+            "en_US": "{VAR BD02}I",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0062",
+            "en_US": "{VAR BD02}J",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0063",
+            "en_US": "{VAR BD02}K",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0064",
+            "en_US": "{VAR BD02}L",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0065",
+            "en_US": "{VAR BD02}M",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0066",
+            "en_US": "{VAR BD02}N",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0067",
+            "en_US": "{VAR BD02}O",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0068",
+            "en_US": "{VAR BD02}P",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0069",
+            "en_US": "{VAR BD02}Q",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0070",
+            "en_US": "{VAR BD02}R",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0071",
+            "en_US": "{VAR BD02}S",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0072",
+            "en_US": "{VAR BD02}T",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0073",
+            "en_US": "{VAR BD02}U",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0074",
+            "en_US": "{VAR BD02}V",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0075",
+            "en_US": "{VAR BD02}W",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0076",
+            "en_US": "{VAR BD02}X",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0077",
+            "en_US": "{VAR BD02}Y",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0078",
+            "en_US": "{VAR BD02}Z",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0079",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0080",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0081",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0082",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0083",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0084",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0085",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0086",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0087",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0088",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0089",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0090",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0091",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0092",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0093",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0094",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0095",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0096",
+            "en_US": "",
+            "flags": 16
+        },
+        {
+            "id": "a002_159_0097",
+            "en_US": "The trade has been canceled."
+        },
+        {
+            "id": "a002_159_0098",
+            "en_US": [
+                "You need that Pokémon to\n",
+                "get through your adventure!"
+            ]
+        },
+        {
+            "id": "a002_159_0099",
+            "en_US": [
+                "There is a Pokémon that cannot be\n",
+                "traded in the other Trainer's party."
+            ]
+        },
+        {
+            "id": "a002_159_0100",
+            "en_US": [
+                "There is a Pokémon that cannot be\n",
+                "traded in your party."
+            ]
+        },
+        {
+            "id": "a002_159_0101",
+            "en_US": [
+                "It has learned an HM move.\n",
+                "You cannot let it leave your party."
+            ]
+        },
+        {
+            "id": "a002_159_0102",
+            "en_US": [
+                "The other Trainer apparently wants to\n",
+                "trade Pokémon with you."
+            ]
+        },
+        {
+            "id": "a002_159_0103",
+            "en_US": "Cancel trading?"
+        },
+        {
+            "id": "a002_159_0104",
+            "en_US": "Waiting for the other player to finish..."
+        },
+        {
+            "id": "a002_159_0105",
+            "en_US": "Egg",
+            "flags": 60
+        },
+        {
+            "id": "a002_159_0106",
+            "en_US": [
+                "The Mail held by the Pokémon\n",
+                "was sent to your PC."
+            ]
+        },
+        {
+            "id": "a002_159_0107",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0108",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0109",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0110",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0111",
+            "en_US": [
+                "The other Trainer cannot\n",
+                "receive Mail. The trade will be canceled."
+            ]
+        },
+        {
+            "id": "a002_159_0112",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0113",
+            "en_US": [
+                "Please choose your Pokémon to offer.\n",
+                "You can select up to three Pokémon."
+            ]
+        },
+        {
+            "id": "a002_159_0114",
+            "en_US": "{VAR BD03 0000}Selecting...",
+            "flags": 96
+        },
+        {
+            "id": "a002_159_0115",
+            "en_US": "{VAR BD03 0000}Selected",
+            "flags": 96
+        },
+        {
+            "id": "a002_159_0116",
+            "en_US": "{VAR BD03 0000}Waiting...",
+            "flags": 96
+        },
+        {
+            "id": "a002_159_0117",
+            "en_US": [
+                "The Pokémon that\n",
+                "{VAR 0100 0000} wants"
+            ],
+            "flags": 108
+        },
+        {
+            "id": "a002_159_0118",
+            "en_US": "Any Pokémon",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0119",
+            "en_US": "Cool Pokémon",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0120",
+            "en_US": "Cute Pokémon",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0121",
+            "en_US": "Scary Pokémon",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0122",
+            "en_US": "Strange Pokémon",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0123",
+            "en_US": "Any",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0124",
+            "en_US": "Lv. 1 through 49",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0125",
+            "en_US": "Lv. 50",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0126",
+            "en_US": "Lv. 51 through 100",
+            "flags": 104
+        },
+        {
+            "id": "a002_159_0127",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_159_0128",
+            "en_US": "{VAR 0100 0000}",
+            "flags": 108
+        },
+        {
+            "id": "a002_159_0129",
+            "en_US": [
+                "Sending {VAR 0102 0000} to {VAR 0100 0001}.\n",
+                "Good-bye, {VAR 0102 0000}!"
+            ]
+        },
+        {
+            "id": "a002_159_0130",
+            "en_US": [
+                "Returning {VAR 0102 0000} to {VAR 0100 0001}.\n",
+                "Good-bye, {VAR 0102 0000}!"
+            ]
+        },
+        {
+            "id": "a002_159_0131",
+            "en_US": [
+                "{VAR 0102 0001} came back\n",
+                "from {VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a002_159_0132",
+            "en_US": "Welcome back, {VAR 0102 0001}!"
+        },
+        {
+            "id": "a002_159_0133",
+            "en_US": "TRADE WANTED",
+            "flags": 120
+        },
+        {
+            "id": "a002_159_0134",
+            "en_US": [
+                "Please choose your Pokémon to offer.\n",
+                "You can select up to three Pokémon."
+            ]
+        },
+        {
+            "id": "a002_159_0135",
+            "en_US": "Are you OK with your selection?"
+        },
+        {
+            "id": "a002_159_0136",
+            "en_US": [
+                "Awaiting your friend's decision.\n",
+                "Please wait..."
+            ]
+        },
+        {
+            "id": "a002_159_0137",
+            "en_US": [
+                "Is it OK to select one each\n",
+                "from the chosen Pokémon?"
+            ]
+        },
+        {
+            "id": "a002_159_0138",
+            "en_US": "The other Trainer canceled the trade."
+        },
+        {
+            "id": "a002_159_0139",
+            "en_US": [
+                "The other Trainer apparently\n",
+                "wants to trade Pokémon."
+            ]
+        },
+        {
+            "id": "a002_159_0140",
+            "en_US": [
+                "The trade will be ended.\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_159_0141",
+            "en_US": "The trade has ended."
+        },
+        {
+            "id": "a002_159_0142",
+            "en_US": "You cannot choose that Pokémon."
+        },
+        {
+            "id": "a002_159_0143",
+            "en_US": [
+                "There is one or more party Pokémon\n",
+                "that cannot be traded. Select again."
+            ]
+        },
+        {
+            "id": "a002_159_0144",
+            "en_US": [
+                "The other Trainer has a Pokémon\n",
+                "that cannot be traded. Select again."
+            ]
+        },
+        {
+            "id": "a002_159_0145",
+            "en_US": [
+                "Please select a Pokémon out of\n",
+                "the Pokémon offered for trade."
+            ]
+        },
+        {
+            "id": "a002_159_0146",
+            "en_US": [
+                "Is it OK to trade {VAR 0102 0000}\n",
+                "for your {VAR 0102 0001}?"
+            ]
+        },
+        {
+            "id": "a002_159_0147",
+            "en_US": [
+                "The other Trainer canceled\n",
+                "the trade. Please select again."
+            ]
+        },
+        {
+            "id": "a002_159_0148",
+            "en_US": [
+                "Will you reselect the Pokémon you want\n",
+                "to offer?"
+            ]
+        },
+        {
+            "id": "a002_159_0149",
+            "en_US": [
+                "The trade was canceled.\n",
+                "Please select again."
+            ]
+        },
+        {
+            "id": "a002_159_0150",
+            "en_US": [
+                "The trade was canceled.\n",
+                "Please reselect one Pokémon again."
+            ]
+        },
+        {
+            "id": "a002_159_0151",
+            "en_US": [
+                "The other Trainer canceled the trade.\n",
+                "Please select a Pokémon again."
+            ]
+        },
+        {
+            "id": "a002_159_0152",
+            "en_US": "{VAR 0102 0000} will be offered."
+        },
+        {
+            "id": "a002_159_0153",
+            "en_US": "{VAR 0102 0001} was taken out."
+        },
+        {
+            "id": "a002_159_0154",
+            "en_US": "LOG OUT",
+            "flags": 112
+        },
+        {
+            "id": "a002_159_0155",
+            "en_US": [
+                "{VAR 0102 0000} will be\n",
+                "sent to {VAR 0100 0001}."
+            ]
+        },
+        {
+            "id": "a002_159_0156",
+            "en_US": [
+                "{VAR 0100 0000} sent over\n",
+                "{VAR 0102 0001}."
+            ]
+        },
+        {
+            "id": "a002_159_0157",
+            "en_US": "Communication failed."
+        },
+        {
+            "id": "a002_159_0158",
+            "en_US": [
+                "Communication error.\n",
+                "(Error Code: 13280)"
+            ]
+        },
+        {
+            "id": "a002_159_0159",
+            "en_US": [
+                "Communication error.\n",
+                "(Error Code: 13281)"
+            ]
+        },
+        {
+            "id": "a002_159_0160",
+            "en_US": [
+                "Communication error.\n",
+                "(Error Code: 13282)"
+            ]
+        },
+        {
+            "id": "a002_159_0161",
+            "en_US": [
+                "Communication error.\n",
+                "(Error Code: 13283)"
+            ]
+        },
+        {
+            "id": "a002_159_0162",
+            "en_US": "???",
+            "flags": 56
+        }
+    ]
+}

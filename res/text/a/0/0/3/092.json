@@ -1,0 +1,23 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_092_0000",
+            "en_US": [
+                "A fight against your opponent can end in\n",
+                "the blink of an eye!{VAR BE01}\n",
+                "The important thing is how much you\n",
+                "prepare before the fight."
+            ]
+        },
+        {
+            "id": "a003_092_0001",
+            "en_US": [
+                "I don't play basketball just because\n",
+                "I'm tall.{VAR BE01}\n",
+                "Maybe I grew tall because I wanted to\n",
+                "play basketball so badly?!"
+            ]
+        }
+    ]
+}

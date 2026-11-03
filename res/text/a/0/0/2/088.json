@@ -1,0 +1,55 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_088_0000",
+            "en_US": [
+                "It will forget the saying it knows\n",
+                "now. Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_088_0001",
+            "en_US": [
+                "Press the A Button, then speak\n",
+                "into the microphone.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_088_0002",
+            "en_US": "{VAR 0102 0000} learned a new saying!{VAR BE01}"
+        },
+        {
+            "id": "a002_088_0003",
+            "en_US": [
+                "{VAR 0102 0000} failed to learn a\n",
+                "new saying.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_088_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_088_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_088_0006",
+            "en_US": "Preparing microphone...",
+            "flags": 224
+        },
+        {
+            "id": "a002_088_0007",
+            "en_US": "YES",
+            "flags": 42
+        },
+        {
+            "id": "a002_088_0008",
+            "en_US": "NO",
+            "flags": 42
+        }
+    ]
+}

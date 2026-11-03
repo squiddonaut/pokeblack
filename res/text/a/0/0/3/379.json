@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_379_0000",
+            "en_US": [
+                "How do I describe this...{VAR BE01}\n",
+                "You know that vibration you feel on the\n",
+                "soles of your feet when you're crossing{VAR BE00}\n",
+                "the Tubeline Bridge?{VAR BE01}\n",
+                "It's the coolest!"
+            ]
+        },
+        {
+            "id": "a003_379_0001",
+            "en_US": [
+                "For anyone obsessed with railroads,\n",
+                "especially train photographers like me,{VAR BE00}\n",
+                "the Tubeline Bridge and Anville Town are{VAR BE00}\n",
+                "both perfect spots for taking pictures!"
+            ]
+        },
+        {
+            "id": "a003_379_0002",
+            "en_US": [
+                "A giant steel bridge towering over\n",
+                "the road ahead...{VAR BE01}\n",
+                "I get excited just looking at this model\n",
+                "of the Tubeline Bridge!"
+            ]
+        }
+    ]
+}

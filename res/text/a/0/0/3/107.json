@@ -1,0 +1,18 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_107_0000",
+            "en_US": ""
+        },
+        {
+            "id": "a003_107_0001",
+            "en_US": [
+                "Water Pledge, Fire Pledge, and\n",
+                "Grass Pledge.{VAR BE01}\n",
+                "These three moves will create a special\n",
+                "effect if they are combined in a battle!"
+            ]
+        }
+    ]
+}

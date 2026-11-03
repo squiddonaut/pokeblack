@@ -1,0 +1,30 @@
+{
+    "name": "Follow Me",
+    "description": [
+        "The user draws attention to itself,\n",
+        "making all targets take aim\n",
+        "only at the user."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 20,
+    "priority": 3,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 172,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [],
+    "flags": []
+}

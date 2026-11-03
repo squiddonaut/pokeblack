@@ -1,0 +1,179 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_367_0000",
+            "en_US": "Kawbraa!"
+        },
+        {
+            "id": "a003_367_0001",
+            "en_US": [
+                "The Pokémon climbed up the rock wall and\n",
+                "disappeared somewhere into the cave...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0002",
+            "en_US": [
+                "The Pokémon climbed up the rock wall and\n",
+                "disappeared somewhere into the cave..."
+            ]
+        },
+        {
+            "id": "a003_367_0003",
+            "en_US": [
+                "The strength you exhibited communicating\n",
+                "with your Pokémon also got through{VAR BE00}\n",
+                "to Cobalion.{VAR BE01}\n",
+                "If you and your Pokémon train together\n",
+                "and get even stronger, it will probably{VAR BE00}\n",
+                "return to this place.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0004",
+            "en_US": [
+                "It seems that thanks to you, Cobalion\n",
+                "has sensed a change in the world.{VAR BE01}\n",
+                "It's a world where people and Pokémon\n",
+                "help each other and live together.{VAR BE01}\n",
+                "I believe Cobalion wants to remain\n",
+                "with you and travel by your side.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0005",
+            "en_US": [
+                "The fact that you battled Cobalion and\n",
+                "you related to each other should be{VAR BE00}\n",
+                "easily communicated to Terrakion and{VAR BE00}\n",
+                "Virizion because of the close bond{VAR BE00}\n",
+                "between the three.{VAR BE01}\n",
+                "I'm sure they will also give you a chance\n",
+                "to prove your worth.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0006",
+            "en_US": [
+                "The obstacles that separated Terrakion\n",
+                "and Virizion from people are probably{VAR BE00}\n",
+                "gone now.{VAR BE01}\n",
+                "Whether you want to search\n",
+                "for those two is up to you,{VAR BE00}\n",
+                "but they are definitely waiting for you...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0007",
+            "en_US": [
+                "I saw your skill. It's impressive for one\n",
+                "so young.{VAR BE01}\n",
+                "Maybe you're the one...\n",
+                "Hmmm... It may be possible...{VAR BE01}\n",
+                "How about it? Will you listen to\n",
+                "an old man's story?"
+            ]
+        },
+        {
+            "id": "a003_367_0008",
+            "en_US": [
+                "In the distant past, when Pokémon and\n",
+                "people lived in different worlds,{VAR BE00}\n",
+                "a war between people started{VAR BE00}\n",
+                "an intense fire in a forest where{VAR BE00}\n",
+                "many Pokémon lived.{VAR BE01}\n",
+                "The Pokémon were surrounded by smoke\n",
+                "and flames. They were in big trouble.{VAR BE01}\n",
+                "And then, the legends Cobalion,\n",
+                "Terrakion, and Virizion appeared!{VAR BE01}\n",
+                "Terrakion used its amazing strength to\n",
+                "destroy rocks blocking the{VAR BE00}\n",
+                "escape route.{VAR BE01}\n",
+                "Virizion used its quick movements\n",
+                "to protect Pokémon from looming flames.{VAR BE01}\n",
+                "And Cobalion led the frightened\n",
+                "Pokémon out of the burning woods.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0009",
+            "en_US": [
+                "The people who started the war were\n",
+                "routed by the power of the legends.{VAR BE01}\n",
+                "Because of Cobalion, Terrakion, and\n",
+                "Virizion, the war was ended.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0010",
+            "en_US": [
+                "When people fight, there's no peace for\n",
+                "Pokémon, either.{VAR BE01}\n",
+                "The three legends learned that\n",
+                "the deeds of humans could lead{VAR BE00}\n",
+                "to dire consequences for their world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0011",
+            "en_US": [
+                "They cut themselves off from people\n",
+                "and disappeared.{VAR BE01}\n",
+                "No one saw much of them after that, and\n",
+                "the three faded into myth...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0012",
+            "en_US": [
+                "I've been searching for them for\n",
+                "decades, and I finally figured out that{VAR BE00}\n",
+                "one of them was deep in this cave.{VAR BE01}\n",
+                "But the legendary three do not\n",
+                "trust people.{VAR BE01}\n",
+                "If people approach, they bare their\n",
+                "fangs and attack.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0013",
+            "en_US": [
+                "It can't be helped, because they only\n",
+                "know the old world...{VAR BE01}\n",
+                "They still don't know the world has\n",
+                "become a place where people and Pokémon{VAR BE00}\n",
+                "try to understand and help each other.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0014",
+            "en_US": [
+                "You seem like you might be able to show\n",
+                "them that people and Pokémon can trust{VAR BE00}\n",
+                "each other and live together.{VAR BE01}\n",
+                "If they take another look at people,\n",
+                "I think they will stop hiding from us...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_367_0015",
+            "en_US": [
+                "It's not just about bonds between\n",
+                "people and Pokémon.{VAR BE01}\n",
+                "Having all living things appreciate and\n",
+                "trust each other would be best."
+            ]
+        },
+        {
+            "id": "a003_367_0016",
+            "en_US": [
+                "If you don't listen to what your elders\n",
+                "have to say, I can't expect much{VAR BE00}\n",
+                "from you!{VAR BE01}\n",
+                "You shouldn't have come to this place!\n",
+                "Leave now!{VAR BE01}"
+            ]
+        }
+    ]
+}

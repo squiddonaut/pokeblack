@@ -1,0 +1,377 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_101_0000",
+            "en_US": "BABY"
+        },
+        {
+            "id": "a002_101_0001",
+            "en_US": "BADDREAMS"
+        },
+        {
+            "id": "a002_101_0002",
+            "en_US": "BADGE"
+        },
+        {
+            "id": "a002_101_0003",
+            "en_US": "BADMATCHUP"
+        },
+        {
+            "id": "a002_101_0004",
+            "en_US": "BAGON"
+        },
+        {
+            "id": "a002_101_0005",
+            "en_US": "BALL"
+        },
+        {
+            "id": "a002_101_0006",
+            "en_US": "BALTOY"
+        },
+        {
+            "id": "a002_101_0007",
+            "en_US": "BANETTE"
+        },
+        {
+            "id": "a002_101_0008",
+            "en_US": "BARBOACH"
+        },
+        {
+            "id": "a002_101_0009",
+            "en_US": "BARRAGE"
+        },
+        {
+            "id": "a002_101_0010",
+            "en_US": "BARRIER"
+        },
+        {
+            "id": "a002_101_0011",
+            "en_US": "BASCULIN"
+        },
+        {
+            "id": "a002_101_0012",
+            "en_US": "BASTIODON"
+        },
+        {
+            "id": "a002_101_0013",
+            "en_US": "BATH"
+        },
+        {
+            "id": "a002_101_0014",
+            "en_US": "BATONPASS"
+        },
+        {
+            "id": "a002_101_0015",
+            "en_US": "BATTLE"
+        },
+        {
+            "id": "a002_101_0016",
+            "en_US": "BATTLEARMOR"
+        },
+        {
+            "id": "a002_101_0017",
+            "en_US": "BATTLEBOX"
+        },
+        {
+            "id": "a002_101_0018",
+            "en_US": "BATTLETEST"
+        },
+        {
+            "id": "a002_101_0019",
+            "en_US": "BATTLEVIDEOS"
+        },
+        {
+            "id": "a002_101_0020",
+            "en_US": "BAYLEEF"
+        },
+        {
+            "id": "a002_101_0021",
+            "en_US": "BEARTIC"
+        },
+        {
+            "id": "a002_101_0022",
+            "en_US": "BEATUP"
+        },
+        {
+            "id": "a002_101_0023",
+            "en_US": "BEAUTIFLY"
+        },
+        {
+            "id": "a002_101_0024",
+            "en_US": "BEAUTY"
+        },
+        {
+            "id": "a002_101_0025",
+            "en_US": "BEEDRILL"
+        },
+        {
+            "id": "a002_101_0026",
+            "en_US": "BEHEEYEM"
+        },
+        {
+            "id": "a002_101_0027",
+            "en_US": "BELDUM"
+        },
+        {
+            "id": "a002_101_0028",
+            "en_US": "BELLOSSOM"
+        },
+        {
+            "id": "a002_101_0029",
+            "en_US": "BELLSPROUT"
+        },
+        {
+            "id": "a002_101_0030",
+            "en_US": "BELLYDRUM"
+        },
+        {
+            "id": "a002_101_0031",
+            "en_US": "BESTOW"
+        },
+        {
+            "id": "a002_101_0032",
+            "en_US": "BIBAREL"
+        },
+        {
+            "id": "a002_101_0033",
+            "en_US": "BICYCLE"
+        },
+        {
+            "id": "a002_101_0034",
+            "en_US": "BIDE"
+        },
+        {
+            "id": "a002_101_0035",
+            "en_US": "BIDOOF"
+        },
+        {
+            "id": "a002_101_0036",
+            "en_US": "BIGPECKS"
+        },
+        {
+            "id": "a002_101_0037",
+            "en_US": "BIND"
+        },
+        {
+            "id": "a002_101_0038",
+            "en_US": "BIRTHDAY"
+        },
+        {
+            "id": "a002_101_0039",
+            "en_US": "BISHARP"
+        },
+        {
+            "id": "a002_101_0040",
+            "en_US": "BITE"
+        },
+        {
+            "id": "a002_101_0041",
+            "en_US": "BLASTBURN"
+        },
+        {
+            "id": "a002_101_0042",
+            "en_US": "BLASTOISE"
+        },
+        {
+            "id": "a002_101_0043",
+            "en_US": "BLAZE"
+        },
+        {
+            "id": "a002_101_0044",
+            "en_US": "BLAZEKICK"
+        },
+        {
+            "id": "a002_101_0045",
+            "en_US": "BLAZIKEN"
+        },
+        {
+            "id": "a002_101_0046",
+            "en_US": "BLISSEY"
+        },
+        {
+            "id": "a002_101_0047",
+            "en_US": "BLITZLE"
+        },
+        {
+            "id": "a002_101_0048",
+            "en_US": "BLIZZARD"
+        },
+        {
+            "id": "a002_101_0049",
+            "en_US": "BLOCK"
+        },
+        {
+            "id": "a002_101_0050",
+            "en_US": "BLUEFLARE"
+        },
+        {
+            "id": "a002_101_0051",
+            "en_US": "BLUSH"
+        },
+        {
+            "id": "a002_101_0052",
+            "en_US": "BOARD"
+        },
+        {
+            "id": "a002_101_0053",
+            "en_US": "BODYSLAM"
+        },
+        {
+            "id": "a002_101_0054",
+            "en_US": "BOLDORE"
+        },
+        {
+            "id": "a002_101_0055",
+            "en_US": "BOLTSTRIKE"
+        },
+        {
+            "id": "a002_101_0056",
+            "en_US": "BONECLUB"
+        },
+        {
+            "id": "a002_101_0057",
+            "en_US": "BONEMERANG"
+        },
+        {
+            "id": "a002_101_0058",
+            "en_US": "BONERUSH"
+        },
+        {
+            "id": "a002_101_0059",
+            "en_US": "BONJOUR"
+        },
+        {
+            "id": "a002_101_0060",
+            "en_US": "BONSLY"
+        },
+        {
+            "id": "a002_101_0061",
+            "en_US": "BOO"
+        },
+        {
+            "id": "a002_101_0062",
+            "en_US": "BOOHOO"
+        },
+        {
+            "id": "a002_101_0063",
+            "en_US": "BOOK"
+        },
+        {
+            "id": "a002_101_0064",
+            "en_US": "BORED"
+        },
+        {
+            "id": "a002_101_0065",
+            "en_US": "BOUFFALANT"
+        },
+        {
+            "id": "a002_101_0066",
+            "en_US": "BOUNCE"
+        },
+        {
+            "id": "a002_101_0067",
+            "en_US": "BOY"
+        },
+        {
+            "id": "a002_101_0068",
+            "en_US": "BRAVEBIRD"
+        },
+        {
+            "id": "a002_101_0069",
+            "en_US": "BRAVIARY"
+        },
+        {
+            "id": "a002_101_0070",
+            "en_US": "BRELOOM"
+        },
+        {
+            "id": "a002_101_0071",
+            "en_US": "BRICKBREAK"
+        },
+        {
+            "id": "a002_101_0072",
+            "en_US": "BRINE"
+        },
+        {
+            "id": "a002_101_0073",
+            "en_US": "BRONZONG"
+        },
+        {
+            "id": "a002_101_0074",
+            "en_US": "BRONZOR"
+        },
+        {
+            "id": "a002_101_0075",
+            "en_US": "BROTHER"
+        },
+        {
+            "id": "a002_101_0076",
+            "en_US": "BUBBLE"
+        },
+        {
+            "id": "a002_101_0077",
+            "en_US": "BUBBLEBEAM"
+        },
+        {
+            "id": "a002_101_0078",
+            "en_US": "BUDEW"
+        },
+        {
+            "id": "a002_101_0079",
+            "en_US": "BUG"
+        },
+        {
+            "id": "a002_101_0080",
+            "en_US": "BUGBITE"
+        },
+        {
+            "id": "a002_101_0081",
+            "en_US": "BUGBUZZ"
+        },
+        {
+            "id": "a002_101_0082",
+            "en_US": "BUIZEL"
+        },
+        {
+            "id": "a002_101_0083",
+            "en_US": "BULBASAUR"
+        },
+        {
+            "id": "a002_101_0084",
+            "en_US": "BULKUP"
+        },
+        {
+            "id": "a002_101_0085",
+            "en_US": "BULLDOZE"
+        },
+        {
+            "id": "a002_101_0086",
+            "en_US": "BULLETPUNCH"
+        },
+        {
+            "id": "a002_101_0087",
+            "en_US": "BULLETSEED"
+        },
+        {
+            "id": "a002_101_0088",
+            "en_US": "BUNEARY"
+        },
+        {
+            "id": "a002_101_0089",
+            "en_US": "BURMY"
+        },
+        {
+            "id": "a002_101_0090",
+            "en_US": "BUTTERFREE"
+        },
+        {
+            "id": "a002_101_0091",
+            "en_US": "BYEBYE"
+        },
+        {
+            "id": "a002_101_0092",
+            "en_US": "BYEFORNOW"
+        }
+    ]
+}

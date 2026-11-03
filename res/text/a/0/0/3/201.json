@@ -1,0 +1,338 @@
+{
+    "flags": 224,
+    "pad": "3030",
+    "messages": [
+        {
+            "id": "a003_201_0000",
+            "en_US": [
+                "Zinzolin: All of you--huddle around me!\n",
+                "I can't take this cold...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0001",
+            "en_US": [
+                "Cheren: Whatever.\n",
+                "I can't believe you were really hiding.{VAR BE01}\n",
+                "It's a bother, but if you're cold,\n",
+                "shall I show you outside?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0002",
+            "en_US": [
+                "Zinzolin: Pokémon are our king's friends.{VAR BE01}\n",
+                "While we're taking care of them, we can't\n",
+                "let any harm come to them here.{VAR BE01}\n",
+                "Everyone, drive these intruders away!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0003",
+            "en_US": [
+                "Team Plasma: Understood,\n",
+                "Zinzolin of the Seven Sages!{VAR BE01}\n",
+                "Put 'em up, 'cause here we come!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0004",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}!\n",
+                "Let's each take care of one side!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0005",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, you take\n",
+                "care of those guys over there!"
+            ]
+        },
+        {
+            "id": "a003_201_0006",
+            "en_US": [
+                "Team Plasma: I'm one of the tougher\n",
+                "members of Team Plasma here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0007",
+            "en_US": [
+                "Team Plasma: How am I supposed to win\n",
+                "when I'm shaking 'cause of the cold?"
+            ]
+        },
+        {
+            "id": "a003_201_0008",
+            "en_US": [
+                "Team Plasma: S-s-so cold...\n",
+                "How can I win when I'm shivering so hard?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0009",
+            "en_US": [
+                "Team Plasma: For this group,\n",
+                "I'm pretty strong. I hope you know that!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0010",
+            "en_US": [
+                "Team Plasma: In the middle of the night,\n",
+                "we gathered all the Pokémon we stole{VAR BE00}\n",
+                "in front of the container, so we could{VAR BE00}\n",
+                "transport them all at the same time.{VAR BE01}\n",
+                "Then Clay, that old guy, found us.\n",
+                "We had been captured!"
+            ]
+        },
+        {
+            "id": "a003_201_0011",
+            "en_US": [
+                "Team Plasma: In the middle of the night,\n",
+                "we gathered all the Pokémon we stole{VAR BE00}\n",
+                "in front of the container, so we could{VAR BE00}\n",
+                "transport them all at the same time.{VAR BE01}\n",
+                "Then Clay, that old guy, found us.\n",
+                "We had been captured!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0012",
+            "en_US": [
+                "Team Plasma: In this group,\n",
+                "I'm fairly strong, and that's a fact!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0013",
+            "en_US": [
+                "Team Plasma: The Pokémon that work\n",
+                "with people may look like they're having{VAR BE00}\n",
+                "fun, but the truth is they're suffering.{VAR BE01}\n",
+                "There's no doubt about it!"
+            ]
+        },
+        {
+            "id": "a003_201_0014",
+            "en_US": [
+                "Team Plasma: The Pokémon that work\n",
+                "with people may look like they're having{VAR BE00}\n",
+                "fun, but the truth is they're suffering.{VAR BE01}\n",
+                "There's no doubt about it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0015",
+            "en_US": [
+                "Team Plasma: In my own way, I'm a strong\n",
+                "part of this Team Plasma group!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0016",
+            "en_US": [
+                "Team Plasma: Hmm-mmm... I wonder why...\n",
+                "I'm getting sleepy for some reason."
+            ]
+        },
+        {
+            "id": "a003_201_0017",
+            "en_US": [
+                "Team Plasma: I wonder why...\n",
+                "I'm getting sleepy for some reason.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_201_0019",
+            "en_US": [
+                "Team Plasma: Um.\n",
+                "Running into the Cold Storage,{VAR BE00}\n",
+                "thinking it was a regular container...{VAR BE00}\n",
+                "How cold life can be..."
+            ]
+        },
+        {
+            "id": "a003_201_0020",
+            "en_US": [
+                "Team Plasma: Me?\n",
+                "Losing to a Trainer like this?!"
+            ]
+        },
+        {
+            "id": "a003_201_0021",
+            "en_US": [
+                "Team Plasma: Achoo! Why did I end up\n",
+                "here when I'm allergic to the cold!"
+            ]
+        },
+        {
+            "id": "a003_201_0022",
+            "en_US": [
+                "Clay: Well, I'll be!{VAR BE01}\n",
+                "Hidin' in a chilly old place like this...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0023",
+            "en_US": [
+                "You guys take these\n",
+                "Pokémon robbers!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0024",
+            "en_US": "Worker: Roger!{VAR BE01}"
+        },
+        {
+            "id": "a003_201_0025",
+            "en_US": "Come on!",
+            "flags": 126
+        },
+        {
+            "id": "a003_201_0026",
+            "en_US": "Eek!",
+            "flags": 126
+        },
+        {
+            "id": "a003_201_0027",
+            "en_US": "Ugh!",
+            "flags": 126
+        },
+        {
+            "id": "a003_201_0028",
+            "en_US": [
+                "Clay: You guys ain't so bad!{VAR BE01}\n",
+                "Yup, a promise is a promise.\n",
+                "Come on an' challenge my Gym!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0029",
+            "en_US": [
+                "Cheren: Whatever...\n",
+                "Team Plasma's ideal...{VAR BE01}\n",
+                "Separating people and Pokémon...{VAR BE01}\n",
+                "It's exactly the same as not having\n",
+                "Pokémon in this world at all.{VAR BE00}\n",
+                "That bunch is a waste of oxygen.{VAR BE01}\n",
+                "{VAR 0100 0000}...\n",
+                "It's cold, so I'm getting out of here.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0030",
+            "en_US": [
+                "Zinzolin: So, you returned?\n",
+                "You're an odd Trainer.{VAR BE01}\n",
+                "All right. I've got time enough\n",
+                "to satisfy your curiosity.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0031",
+            "en_US": [
+                "...Breathing.\n",
+                "Having a heart that beats.{VAR BE01}\n",
+                "That is simple existence and\n",
+                "nothing more for a living being.{VAR BE01}\n",
+                "That may be the definition of living,\n",
+                "but I don't think that defines life.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0032",
+            "en_US": [
+                "The experiences of joy and suffering\n",
+                "are a vital part of being alive.{VAR BE01}\n",
+                "Ghetsis gave me the sensation\n",
+                "of being truly alive...{VAR BE01}\n",
+                "What did he mean to accomplish?\n",
+                "That isn't what's important.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0033",
+            "en_US": [
+                "Right now, I'm shivering.\n",
+                "I'm suffering, but I'm alive.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0034",
+            "en_US": [
+                "Pokémon and people live by being\n",
+                "together and relying on one another.{VAR BE00}\n",
+                "That might be how you feel.{VAR BE01}\n",
+                "If that's so, is it necessary to\n",
+                "separate people and Pokémon?{VAR BE01}\n",
+                "By talking to you, I've discovered that\n",
+                "there's much I need to think about...{VAR BE01}\n",
+                "I wish I had more to give you in thanks...\n",
+                "Here, take this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0035",
+            "en_US": [
+                "Zinzolin: My lord N said that he wanted\n",
+                "to make Pokémon perfect...{VAR BE01}\n",
+                "But, even if the relationship between\n",
+                "Pokémon and people stayed as it now is,{VAR BE00}\n",
+                "Pokémon can aspire to perfection...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0036",
+            "en_US": [
+                "Looker: Indeed! I am an officer of the\n",
+                "International Police, and I demand to{VAR BE00}\n",
+                "hear all you know about Team Plasma!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0037",
+            "en_US": [
+                "Zinzolin: It's too cold and I'm already\n",
+                "tired of shivering in here.{VAR BE01}\n",
+                "If you'll give me some time to think,\n",
+                "I'll tell you what I know.{VAR BE00}\n",
+                "So...take me with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0038",
+            "en_US": [
+                "Looker: Thanks many times over!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding, there\n",
+                "yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "The thoughts they are contemplating,\n",
+                "the hopes they are anticipating,{VAR BE00}\n",
+                "these--these are what I want to know!{VAR BE00}\n",
+                "Until our next meeting!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_201_0039",
+            "en_US": [
+                "Looker: Thank you!{VAR BE01}\n",
+                "{VAR 0100 0000}, of something we must speak.{VAR BE01}\n",
+                "A report has reached my ears of someone\n",
+                "far from here. Indeed, this someone{VAR BE00}\n",
+                "has spotted a person like N and a...{VAR BE00}\n",
+                "dragon Pokémon.{VAR BE01}\n",
+                "I plan to examine the exactitude\n",
+                "of this information. {VAR BE00}\n",
+                "I hope to see you again!{VAR BE01}"
+            ]
+        }
+    ]
+}

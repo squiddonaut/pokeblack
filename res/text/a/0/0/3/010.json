@@ -1,0 +1,478 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_010_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_010_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_010_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_010_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_010_0004",
+            "en_US": "You don't have eligible Pokémon!{VAR BE01}"
+        },
+        {
+            "id": "a003_010_0005",
+            "en_US": [
+                "You have not met the conditions\n",
+                "to enter the battle!{VAR BE01}\n",
+                "Please prepare three to six different\n",
+                "Pokémon and make sure no two{VAR BE00}\n",
+                "are holding the same item.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0006",
+            "en_US": [
+                "You have not met the conditions\n",
+                "to enter the battle!{VAR BE01}\n",
+                "Please prepare four to six different\n",
+                "Pokémon and make sure no two{VAR BE00}\n",
+                "are holding the same item.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0007",
+            "en_US": [
+                "You have not met the conditions\n",
+                "to enter the battle!{VAR BE01}\n",
+                "Please prepare six different\n",
+                "Pokémon and make sure no two{VAR BE00}\n",
+                "are holding the same item.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0008",
+            "en_US": [
+                "You have not met the conditions\n",
+                "to enter the battle!{VAR BE01}\n",
+                "Please prepare four to six different\n",
+                "Pokémon and make sure no two{VAR BE00}\n",
+                "are holding the same item.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0009",
+            "en_US": [
+                "You have not met the conditions\n",
+                "to enter the battle!{VAR BE01}\n",
+                "Please prepare six different\n",
+                "Pokémon and make sure no two{VAR BE00}\n",
+                "are holding the same item.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0010",
+            "en_US": [
+                "You don't have three\n",
+                "eligible Pokémon!{VAR BE01}\n",
+                "Please prepare three\n",
+                "different Pokémon{VAR BE00}\n",
+                "and have each of them hold{VAR BE00}\n",
+                "a different item to enter the battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0011",
+            "en_US": [
+                "You don't have four\n",
+                "eligible Pokémon!{VAR BE01}\n",
+                "Please prepare four\n",
+                "different Pokémon{VAR BE00}\n",
+                "and have each of them hold{VAR BE00}\n",
+                "a different item to enter the battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0012",
+            "en_US": [
+                "You don't have two\n",
+                "eligible Pokémon!{VAR BE01}\n",
+                "Please prepare two\n",
+                "different Pokémon{VAR BE00}\n",
+                "and have each of them hold{VAR BE00}\n",
+                "a different item to enter the battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0013",
+            "en_US": [
+                "Eggs are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0014",
+            "en_US": [
+                "Eggs and {VAR 0101 0000} are\n",
+                "not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0015",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, and {VAR 0101 0001}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0016",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001}, and\n",
+                "{VAR 0101 0002} are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0017",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, and {VAR 0101 0003}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0018",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, and {VAR 0101 0004}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0019",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "and {VAR 0101 0005} are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0020",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, and {VAR 0101 0006}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0021",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, and {VAR 0101 0007}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0022",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "and {VAR 0101 0008}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0023",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, and {VAR 0101 0009}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0024",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, and {VAR 0101 000A}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0025",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "and {VAR 0101 000B}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0026",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, and {VAR 0101 000C}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0027",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006},{VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, and {VAR 0101 000D}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0028",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C},{VAR BE00}\n",
+                "{VAR 0101 000D}, and {VAR 0101 000E}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0029",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, and {VAR 0101 000F}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0030",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, and {VAR 0101 0010}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0031",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "and {VAR 0101 0011}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0032",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, and {VAR 0101 0012}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0033",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, and {VAR 0101 0013}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0034",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "and {VAR 0101 0014}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0035",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, and {VAR 0101 0015}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0036",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, {VAR 0101 0015}, and {VAR 0101 0016}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0037",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, {VAR 0101 0015}, {VAR 0101 0016},{VAR BE00}\n",
+                "and {VAR 0101 0017}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0038",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, {VAR 0101 0015}, {VAR 0101 0016},{VAR BE00}\n",
+                "{VAR 0101 0017}, and {VAR 0101 0018}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0039",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, {VAR 0101 0015}, {VAR 0101 0016},{VAR BE00}\n",
+                "{VAR 0101 0017}, {VAR 0101 0018}, and {VAR 0101 0019}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_010_0040",
+            "en_US": [
+                "Eggs, {VAR 0101 0000}, {VAR 0101 0001},\n",
+                "{VAR 0101 0002}, {VAR 0101 0003}, {VAR 0101 0004},{VAR BE00}\n",
+                "{VAR 0101 0005}, {VAR 0101 0006}, {VAR 0101 0007},{VAR BE00}\n",
+                "{VAR 0101 0008}, {VAR 0101 0009}, {VAR 0101 000A},{VAR BE00}\n",
+                "{VAR 0101 000B}, {VAR 0101 000C}, {VAR 0101 000D},{VAR BE00}\n",
+                "{VAR 0101 000E}, {VAR 0101 000F}, {VAR 0101 0010},{VAR BE00}\n",
+                "{VAR 0101 0011}, {VAR 0101 0012}, {VAR 0101 0013},{VAR BE00}\n",
+                "{VAR 0101 0014}, {VAR 0101 0015}, {VAR 0101 0016},{VAR BE00}\n",
+                "{VAR 0101 0017}, {VAR 0101 0018}, {VAR 0101 0019},{VAR BE00}\n",
+                "and {VAR 0101 001A}{VAR BE00}\n",
+                "are not allowed to enter!{VAR BE01}\n",
+                "Pokémon holding Soul Dew\n",
+                "are also not allowed to enter.{VAR BE01}"
+            ]
+        }
+    ]
+}

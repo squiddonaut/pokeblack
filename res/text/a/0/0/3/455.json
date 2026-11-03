@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_455_0000",
+            "en_US": [
+                "We come here for vacation from\n",
+                "faraway Hoenn during the summer!"
+            ]
+        },
+        {
+            "id": "a003_455_0001",
+            "en_US": [
+                "Hoenn is a nice place.\n",
+                "For example...{VAR BE01}\n",
+                "Do you know a Trainer named Steven?{VAR BE01}\n",
+                "Although he is reeeally strong,\n",
+                "I hear he collects only stones!"
+            ]
+        }
+    ]
+}

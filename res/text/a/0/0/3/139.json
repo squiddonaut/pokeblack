@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_139_0000",
+            "en_US": [
+                "The Battle House, where you can have\n",
+                "a Triple Battle, is next door."
+            ]
+        },
+        {
+            "id": "a003_139_0001",
+            "en_US": [
+                "The Battle House, where you can have\n",
+                "a Rotation Battle, is next door."
+            ]
+        },
+        {
+            "id": "a003_139_0002",
+            "en_US": [
+                "Whether or not you are troubled by the\n",
+                "Pokémon move Attract, take this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_139_0003",
+            "en_US": [
+                "When a Pokémon holding the Destiny Knot\n",
+                "is affected by the move Attract, the{VAR BE00}\n",
+                "opponent will also fall in love.{VAR BE01}\n",
+                "It's a bit difficult to use, but I hope it\n",
+                "will be useful!"
+            ]
+        }
+    ]
+}

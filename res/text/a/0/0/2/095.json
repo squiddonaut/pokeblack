@@ -1,0 +1,150 @@
+{
+    "flags": 205,
+    "pad": "b8b8",
+    "messages": [
+        {
+            "id": "a002_095_0000",
+            "en_US": [
+                "Glad to meet you!\n",
+                "I am {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_095_0001",
+            "en_US": [
+                "I'm a {VAR 011C 0000}-loving\n",
+                "{VAR 011C 0001} Trainer."
+            ]
+        },
+        {
+            "id": "a002_095_0002",
+            "en_US": [
+                "Let's {VAR 011C 0000} sometime.\n",
+                "Keep in touch!"
+            ]
+        },
+        {
+            "id": "a002_095_0003",
+            "en_US": [
+                "{VAR 011C 0000} is the best!\n",
+                "I love it!"
+            ]
+        },
+        {
+            "id": "a002_095_0004",
+            "en_US": [
+                "It's great because it's\n",
+                "{VAR 011C 0000}. Don't you agree?"
+            ]
+        },
+        {
+            "id": "a002_095_0005",
+            "en_US": [
+                "Tell me your favorite\n",
+                "{VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_095_0006",
+            "en_US": [
+                "Hi!\n",
+                "Do you know {VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_095_0007",
+            "en_US": [
+                "It's very {VAR 011C 0000}\n",
+                "and {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_095_0008",
+            "en_US": "Let's {VAR 011C 0000} soon!"
+        },
+        {
+            "id": "a002_095_0009",
+            "en_US": [
+                "Thank you for taking your time\n",
+                "with {VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_095_0010",
+            "en_US": [
+                "It was so {VAR 011C 0000}.\n",
+                "I was moved!"
+            ]
+        },
+        {
+            "id": "a002_095_0011",
+            "en_US": [
+                "What do you think of\n",
+                "{VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_095_0012",
+            "en_US": [
+                "It's {VAR 011C 0000},\n",
+                "if you ask me."
+            ]
+        },
+        {
+            "id": "a002_095_0013",
+            "en_US": [
+                "It bothers us, doesn't it?\n",
+                "I'm talking about {VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_095_0014",
+            "en_US": [
+                "Do you know what\n",
+                "they call {VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_095_0015",
+            "en_US": [
+                "This {VAR 011C 0000} is\n",
+                "surprisingly {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_095_0016",
+            "en_US": [
+                "{VAR 011C 0000} sure is something.\n",
+                "You should try it!"
+            ]
+        },
+        {
+            "id": "a002_095_0017",
+            "en_US": [
+                "Thank you for taking your time\n",
+                "with {VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_095_0018",
+            "en_US": [
+                "{VAR 011C 0000} is\n",
+                "{VAR 011C 0001}, don't you think?"
+            ]
+        },
+        {
+            "id": "a002_095_0019",
+            "en_US": [
+                "That means {VAR 011C 0000}.\n",
+                "Thanks!"
+            ]
+        },
+        {
+            "id": "a002_095_0020",
+            "en_US": [
+                "We should {VAR 011C 0000} together\n",
+                "again. {VAR 011C 0001}!"
+            ]
+        }
+    ]
+}

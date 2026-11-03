@@ -1,0 +1,68 @@
+{
+    "flags": 224,
+    "pad": "7a7a",
+    "messages": [
+        {
+            "id": "a003_162_0000",
+            "en_US": [
+                "If you go straight, it doesn't take long.\n",
+                "But if you go the wrong way, it's a maze.{VAR BE01}\n",
+                "Is Pinwheel Forest a\n",
+                "path or a maze for you?"
+            ]
+        },
+        {
+            "id": "a003_162_0001",
+            "en_US": [
+                "Burgh: This leads to Pinwheel Forest.{VAR BE01}\n",
+                "If they manage to scuttle off into the\n",
+                "forest, we might have trouble.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_162_0002",
+            "en_US": [
+                "Yo! Traveling Trainer!\n",
+                "Are your Pokémon getting stronger?{VAR BE00}\n",
+                "Here! This might come in handy!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_162_0003",
+            "en_US": [
+                "Rock Smash is a move that sometimes\n",
+                "reduces your foe's Defense stat.{VAR BE01}\n",
+                "It is super effective against Normal-type\n",
+                "Pokémon, which Gym Leader Lenora likes!"
+            ]
+        },
+        {
+            "id": "a003_162_0004",
+            "en_US": [
+                "It's a challenge rock.{VAR BE01}\n",
+                "Would you like to have {VAR 0102 0000}\n",
+                "smash the rock?"
+            ]
+        },
+        {
+            "id": "a003_162_0005",
+            "en_US": [
+                "{VAR 0102 0000} tried to smash the\n",
+                "challenge rock.{VAR BE01}\n",
+                "A piece of the rock broke away!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_162_0006",
+            "en_US": "It's a challenge rock."
+        },
+        {
+            "id": "a003_162_0007",
+            "en_US": [
+                "Pinwheel Forest\n",
+                "Did you remember to pack an Antidote?"
+            ],
+            "flags": 207
+        }
+    ]
+}

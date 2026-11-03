@@ -1,0 +1,441 @@
+{
+    "flags": 120,
+    "messages": [
+        {
+            "id": "a002_090_0000",
+            "en_US": "Lovely place"
+        },
+        {
+            "id": "a002_090_0001",
+            "en_US": "Faraway place"
+        },
+        {
+            "id": "a002_090_0002",
+            "en_US": "Pokémon Movie"
+        },
+        {
+            "id": "a002_090_0003",
+            "en_US": "Pokémon Movie 10"
+        },
+        {
+            "id": "a002_090_0004",
+            "en_US": "Pokémon Movie 11"
+        },
+        {
+            "id": "a002_090_0005",
+            "en_US": "Pokémon Movie 12"
+        },
+        {
+            "id": "a002_090_0006",
+            "en_US": "Pokémon Movie 13"
+        },
+        {
+            "id": "a002_090_0007",
+            "en_US": "Pokémon Movie 14"
+        },
+        {
+            "id": "a002_090_0008",
+            "en_US": "Pokémon Movie 15"
+        },
+        {
+            "id": "a002_090_0009",
+            "en_US": "Pokémon Movie 16"
+        },
+        {
+            "id": "a002_090_0010",
+            "en_US": "Pokémon Movie 17"
+        },
+        {
+            "id": "a002_090_0011",
+            "en_US": "Pokémon Movie 18"
+        },
+        {
+            "id": "a002_090_0012",
+            "en_US": "Pokémon Movie 19"
+        },
+        {
+            "id": "a002_090_0013",
+            "en_US": "Pokémon Movie 20"
+        },
+        {
+            "id": "a002_090_0014",
+            "en_US": "Pokémon Center"
+        },
+        {
+            "id": "a002_090_0015",
+            "en_US": "Pokémon Cartoon"
+        },
+        {
+            "id": "a002_090_0016",
+            "en_US": "PC Tokyo"
+        },
+        {
+            "id": "a002_090_0017",
+            "en_US": "PC Osaka"
+        },
+        {
+            "id": "a002_090_0018",
+            "en_US": "PC Fukuoka"
+        },
+        {
+            "id": "a002_090_0019",
+            "en_US": "PC Nagoya"
+        },
+        {
+            "id": "a002_090_0020",
+            "en_US": "PC Sapporo"
+        },
+        {
+            "id": "a002_090_0021",
+            "en_US": "PC Yokohama"
+        },
+        {
+            "id": "a002_090_0022",
+            "en_US": "WCS"
+        },
+        {
+            "id": "a002_090_0023",
+            "en_US": "WCS 2010"
+        },
+        {
+            "id": "a002_090_0024",
+            "en_US": "WCS 2011"
+        },
+        {
+            "id": "a002_090_0025",
+            "en_US": "WCS 2012"
+        },
+        {
+            "id": "a002_090_0026",
+            "en_US": "WCS 2013"
+        },
+        {
+            "id": "a002_090_0027",
+            "en_US": "WCS 2014"
+        },
+        {
+            "id": "a002_090_0028",
+            "en_US": "WCS 2015"
+        },
+        {
+            "id": "a002_090_0029",
+            "en_US": "WCS 2016"
+        },
+        {
+            "id": "a002_090_0030",
+            "en_US": "WCS 2017"
+        },
+        {
+            "id": "a002_090_0031",
+            "en_US": "WCS 2018"
+        },
+        {
+            "id": "a002_090_0032",
+            "en_US": "WCS 2019"
+        },
+        {
+            "id": "a002_090_0033",
+            "en_US": "WCS 2020"
+        },
+        {
+            "id": "a002_090_0034",
+            "en_US": "Worlds"
+        },
+        {
+            "id": "a002_090_0035",
+            "en_US": "Worlds 2010"
+        },
+        {
+            "id": "a002_090_0036",
+            "en_US": "Worlds 2011"
+        },
+        {
+            "id": "a002_090_0037",
+            "en_US": "Worlds 2012"
+        },
+        {
+            "id": "a002_090_0038",
+            "en_US": "Worlds 2013"
+        },
+        {
+            "id": "a002_090_0039",
+            "en_US": "Worlds 2014"
+        },
+        {
+            "id": "a002_090_0040",
+            "en_US": "Worlds 2015"
+        },
+        {
+            "id": "a002_090_0041",
+            "en_US": "Worlds 2016"
+        },
+        {
+            "id": "a002_090_0042",
+            "en_US": "Worlds 2017"
+        },
+        {
+            "id": "a002_090_0043",
+            "en_US": "Worlds 2018"
+        },
+        {
+            "id": "a002_090_0044",
+            "en_US": "Worlds 2019"
+        },
+        {
+            "id": "a002_090_0045",
+            "en_US": "Worlds 2020"
+        },
+        {
+            "id": "a002_090_0046",
+            "en_US": "VGE"
+        },
+        {
+            "id": "a002_090_0047",
+            "en_US": "VGE 2010"
+        },
+        {
+            "id": "a002_090_0048",
+            "en_US": "VGE 2011"
+        },
+        {
+            "id": "a002_090_0049",
+            "en_US": "VGE 2012"
+        },
+        {
+            "id": "a002_090_0050",
+            "en_US": "VGE 2013"
+        },
+        {
+            "id": "a002_090_0051",
+            "en_US": "VGE 2014"
+        },
+        {
+            "id": "a002_090_0052",
+            "en_US": "VGE 2015"
+        },
+        {
+            "id": "a002_090_0053",
+            "en_US": "VGE 2016"
+        },
+        {
+            "id": "a002_090_0054",
+            "en_US": "VGE 2017"
+        },
+        {
+            "id": "a002_090_0055",
+            "en_US": "VGE 2018"
+        },
+        {
+            "id": "a002_090_0056",
+            "en_US": "VGE 2019"
+        },
+        {
+            "id": "a002_090_0057",
+            "en_US": "VGE 2020"
+        },
+        {
+            "id": "a002_090_0058",
+            "en_US": "Pokémon Event"
+        },
+        {
+            "id": "a002_090_0059",
+            "en_US": "Battle Competition"
+        },
+        {
+            "id": "a002_090_0060",
+            "en_US": "Game Event"
+        },
+        {
+            "id": "a002_090_0061",
+            "en_US": "Pokémon Fan Club"
+        },
+        {
+            "id": "a002_090_0062",
+            "en_US": "Pokémon Sunday"
+        },
+        {
+            "id": "a002_090_0063",
+            "en_US": "Challenge Plaza"
+        },
+        {
+            "id": "a002_090_0064",
+            "en_US": "Battle Challenge"
+        },
+        {
+            "id": "a002_090_0065",
+            "en_US": "Trainers' Court"
+        },
+        {
+            "id": "a002_090_0066",
+            "en_US": "Battle Tour"
+        },
+        {
+            "id": "a002_090_0067",
+            "en_US": "Concert"
+        },
+        {
+            "id": "a002_090_0068",
+            "en_US": "Wi-Fi Gift"
+        },
+        {
+            "id": "a002_090_0069",
+            "en_US": "Pokémon Ranger"
+        },
+        {
+            "id": "a002_090_0070",
+            "en_US": "Ranger Union"
+        },
+        {
+            "id": "a002_090_0071",
+            "en_US": "PBR"
+        },
+        {
+            "id": "a002_090_0072",
+            "en_US": "Pokémon DW"
+        },
+        {
+            "id": "a002_090_0073",
+            "en_US": "Pokémon Event 10"
+        },
+        {
+            "id": "a002_090_0074",
+            "en_US": "Pokémon Event 11"
+        },
+        {
+            "id": "a002_090_0075",
+            "en_US": "Pokémon Event 12"
+        },
+        {
+            "id": "a002_090_0076",
+            "en_US": "Pokémon Event 13"
+        },
+        {
+            "id": "a002_090_0077",
+            "en_US": "Pokémon Event 14"
+        },
+        {
+            "id": "a002_090_0078",
+            "en_US": "Pokémon Event 15"
+        },
+        {
+            "id": "a002_090_0079",
+            "en_US": "Pokémon Event 16"
+        },
+        {
+            "id": "a002_090_0080",
+            "en_US": "Pokémon Event 17"
+        },
+        {
+            "id": "a002_090_0081",
+            "en_US": "Pokémon Event 18"
+        },
+        {
+            "id": "a002_090_0082",
+            "en_US": "Pokémon Event 19"
+        },
+        {
+            "id": "a002_090_0083",
+            "en_US": "Pokémon Event 20"
+        },
+        {
+            "id": "a002_090_0084",
+            "en_US": "Pokémon Festa"
+        },
+        {
+            "id": "a002_090_0085",
+            "en_US": "Pokémon Festa 10"
+        },
+        {
+            "id": "a002_090_0086",
+            "en_US": "Pokémon Festa 11"
+        },
+        {
+            "id": "a002_090_0087",
+            "en_US": "Pokémon Festa 12"
+        },
+        {
+            "id": "a002_090_0088",
+            "en_US": "Pokémon Festa 13"
+        },
+        {
+            "id": "a002_090_0089",
+            "en_US": "Pokémon Festa 14"
+        },
+        {
+            "id": "a002_090_0090",
+            "en_US": "Pokémon Festa 15"
+        },
+        {
+            "id": "a002_090_0091",
+            "en_US": "Pokémon Festa 16"
+        },
+        {
+            "id": "a002_090_0092",
+            "en_US": "Pokémon Festa 17"
+        },
+        {
+            "id": "a002_090_0093",
+            "en_US": "Pokémon Festa 18"
+        },
+        {
+            "id": "a002_090_0094",
+            "en_US": "Pokémon Festa 19"
+        },
+        {
+            "id": "a002_090_0095",
+            "en_US": "Pokémon Festa 20"
+        },
+        {
+            "id": "a002_090_0096",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0097",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0098",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0099",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0100",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0101",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0102",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0103",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0104",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0105",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0106",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0107",
+            "en_US": "POKÉPARK"
+        },
+        {
+            "id": "a002_090_0108",
+            "en_US": "Event Site"
+        }
+    ]
+}

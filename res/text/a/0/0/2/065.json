@@ -1,0 +1,24 @@
+{
+    "flags": 69,
+    "messages": [
+        {
+            "id": "a002_065_0000",
+            "en_US": "{VAR BD02}Mic Test"
+        },
+        {
+            "id": "a002_065_0001",
+            "en_US": [
+                "Say something into\n",
+                "the microphone.\n",
+                "The Pokémon will start singing\n",
+                "if it's working."
+            ],
+            "flags": 176
+        },
+        {
+            "id": "a002_065_0002",
+            "en_US": "BACK",
+            "flags": 48
+        }
+    ]
+}

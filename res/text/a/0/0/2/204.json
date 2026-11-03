@@ -1,0 +1,263 @@
+{
+    "flags": 205,
+    "pad": "7070",
+    "messages": [
+        {
+            "id": "a002_204_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0003",
+            "en_US": [
+                "{VAR 0102 0000} learned\n",
+                "{VAR 0107 0001}!"
+            ]
+        },
+        {
+            "id": "a002_204_0004",
+            "en_US": [
+                "{VAR 0102 0000} wants to learn the\n",
+                "move {VAR 0107 0001}.{VAR BE01}\n",
+                "However, {VAR 0102 0000} already\n",
+                "knows four moves.{VAR BE01}\n",
+                "Should a move be deleted and\n",
+                "replaced with {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a002_204_0005",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0005}{VAR BE01}\n",
+                "{VAR 0102 0000} forgot how to\n",
+                "use {VAR 0107 0001}.{VAR BE01}\n",
+                "And...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0006",
+            "en_US": [
+                "{VAR 0102 0000} learned how to use\n",
+                "{VAR 0107 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0007",
+            "en_US": [
+                "Give up on learning the move\n",
+                "{VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a002_204_0008",
+            "en_US": [
+                "{VAR 0102 0000} did not learn\n",
+                "{VAR 0107 0001}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0011",
+            "en_US": [
+                "Which move should {VAR 0102 0000}\n",
+                "remember?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_204_0012",
+            "en_US": [
+                "Should the move {VAR 0107 0001}\n",
+                "be remembered?"
+            ]
+        },
+        {
+            "id": "a002_204_0013",
+            "en_US": [
+                "Give up trying to make\n",
+                "{VAR 0102 0000} remember a move?"
+            ]
+        },
+        {
+            "id": "a002_204_0014",
+            "en_US": [
+                "{VAR 0102 0000} remembered the move\n",
+                "{VAR 0107 0001}.{VAR BE05 0004}{VAR BE05 0005}{VAR BE07}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0015",
+            "en_US": [
+                "{VAR 0102 0000} wants to remember\n",
+                "the move {VAR 0107 0001}.{VAR BE01}\n",
+                "But {VAR 0102 0000} can't learn more\n",
+                "than four moves.{VAR BE01}\n",
+                "Delete an existing move to make\n",
+                "room for {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a002_204_0016",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE06 0002}{VAR BE07}{VAR BE04}\n",
+                "{VAR 0102 0000} forgot how to use{VAR BE01}\n",
+                "{VAR 0107 0001}. And...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0017",
+            "en_US": [
+                "{VAR 0102 0000} remembered the move\n",
+                "{VAR 0107 0001}.{VAR BE05 0004}{VAR BE05 0005}{VAR BE07}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0018",
+            "en_US": [
+                "Give up making the Pokémon\n",
+                "remember {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a002_204_0019",
+            "en_US": [
+                "{VAR 0102 0000} did not remember\n",
+                "the move {VAR 0107 0001}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_204_0020",
+            "en_US": [
+                "{VAR 0100 0000} handed over one\n",
+                "Heart Scale in exchange."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_204_0021",
+            "en_US": [
+                "Is it OK to forget the\n",
+                "move {VAR 0107 0000}?"
+            ]
+        },
+        {
+            "id": "a002_204_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0023",
+            "en_US": "POWER",
+            "flags": 44
+        },
+        {
+            "id": "a002_204_0024",
+            "en_US": "ACCURACY",
+            "flags": 60
+        },
+        {
+            "id": "a002_204_0025",
+            "en_US": "PP",
+            "flags": 21
+        },
+        {
+            "id": "a002_204_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0029",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_204_0030",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_204_0031",
+            "en_US": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "id": "a002_204_0032",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0033",
+            "en_US": "---",
+            "flags": 24
+        },
+        {
+            "id": "a002_204_0034",
+            "en_US": "QUIT",
+            "flags": 41
+        },
+        {
+            "id": "a002_204_0035",
+            "en_US": "TEACH",
+            "flags": 54
+        },
+        {
+            "id": "a002_204_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_204_0037",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 72
+        },
+        {
+            "id": "a002_204_0038",
+            "en_US": "Lv. {VAR 0202 0000}",
+            "flags": 45
+        },
+        {
+            "id": "a002_204_0039",
+            "en_US": "LEARNED MOVES",
+            "flags": 160
+        },
+        {
+            "id": "a002_204_0040",
+            "en_US": "YES",
+            "flags": 62
+        },
+        {
+            "id": "a002_204_0041",
+            "en_US": "NO",
+            "flags": 62
+        }
+    ]
+}

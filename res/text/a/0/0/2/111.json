@@ -1,0 +1,285 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_111_0000",
+            "en_US": "LAIRON"
+        },
+        {
+            "id": "a002_111_0001",
+            "en_US": "LALALA"
+        },
+        {
+            "id": "a002_111_0002",
+            "en_US": "LAMPENT"
+        },
+        {
+            "id": "a002_111_0003",
+            "en_US": "LANDORUS"
+        },
+        {
+            "id": "a002_111_0004",
+            "en_US": "LANTURN"
+        },
+        {
+            "id": "a002_111_0005",
+            "en_US": "LAPRAS"
+        },
+        {
+            "id": "a002_111_0006",
+            "en_US": "LARVESTA"
+        },
+        {
+            "id": "a002_111_0007",
+            "en_US": "LARVITAR"
+        },
+        {
+            "id": "a002_111_0008",
+            "en_US": "LASTRESORT"
+        },
+        {
+            "id": "a002_111_0009",
+            "en_US": "LATIAS"
+        },
+        {
+            "id": "a002_111_0010",
+            "en_US": "LATIOS"
+        },
+        {
+            "id": "a002_111_0011",
+            "en_US": "LAUNCHER"
+        },
+        {
+            "id": "a002_111_0012",
+            "en_US": "LAVAPLUME"
+        },
+        {
+            "id": "a002_111_0013",
+            "en_US": "LEAFBLADE"
+        },
+        {
+            "id": "a002_111_0014",
+            "en_US": "LEAFEON"
+        },
+        {
+            "id": "a002_111_0015",
+            "en_US": "LEAFGUARD"
+        },
+        {
+            "id": "a002_111_0016",
+            "en_US": "LEAFSTORM"
+        },
+        {
+            "id": "a002_111_0017",
+            "en_US": "LEAFTORNADO"
+        },
+        {
+            "id": "a002_111_0018",
+            "en_US": "LEAVANNY"
+        },
+        {
+            "id": "a002_111_0019",
+            "en_US": "LEDIAN"
+        },
+        {
+            "id": "a002_111_0020",
+            "en_US": "LEDYBA"
+        },
+        {
+            "id": "a002_111_0021",
+            "en_US": "LEECHLIFE"
+        },
+        {
+            "id": "a002_111_0022",
+            "en_US": "LEECHSEED"
+        },
+        {
+            "id": "a002_111_0023",
+            "en_US": "LEER"
+        },
+        {
+            "id": "a002_111_0024",
+            "en_US": "LEGEND"
+        },
+        {
+            "id": "a002_111_0025",
+            "en_US": "LESSONS"
+        },
+        {
+            "id": "a002_111_0026",
+            "en_US": "LETMETHINK"
+        },
+        {
+            "id": "a002_111_0027",
+            "en_US": "LETSGO"
+        },
+        {
+            "id": "a002_111_0028",
+            "en_US": "LETTER"
+        },
+        {
+            "id": "a002_111_0029",
+            "en_US": "LEVEL"
+        },
+        {
+            "id": "a002_111_0030",
+            "en_US": "LEVITATE"
+        },
+        {
+            "id": "a002_111_0031",
+            "en_US": "LICK"
+        },
+        {
+            "id": "a002_111_0032",
+            "en_US": "LICKILICKY"
+        },
+        {
+            "id": "a002_111_0033",
+            "en_US": "LICKITUNG"
+        },
+        {
+            "id": "a002_111_0034",
+            "en_US": "LIEPARD"
+        },
+        {
+            "id": "a002_111_0035",
+            "en_US": "LIFE"
+        },
+        {
+            "id": "a002_111_0036",
+            "en_US": "LIGHTMETAL"
+        },
+        {
+            "id": "a002_111_0037",
+            "en_US": "LIGHTNINGROD"
+        },
+        {
+            "id": "a002_111_0038",
+            "en_US": "LIGHTSCREEN"
+        },
+        {
+            "id": "a002_111_0039",
+            "en_US": "LIKES"
+        },
+        {
+            "id": "a002_111_0040",
+            "en_US": "LILEEP"
+        },
+        {
+            "id": "a002_111_0041",
+            "en_US": "LILLIGANT"
+        },
+        {
+            "id": "a002_111_0042",
+            "en_US": "LILLIPUP"
+        },
+        {
+            "id": "a002_111_0043",
+            "en_US": "LIMBER"
+        },
+        {
+            "id": "a002_111_0044",
+            "en_US": "LINOONE"
+        },
+        {
+            "id": "a002_111_0045",
+            "en_US": "LIQUIDOOZE"
+        },
+        {
+            "id": "a002_111_0046",
+            "en_US": "LITWICK"
+        },
+        {
+            "id": "a002_111_0047",
+            "en_US": "LOCKON"
+        },
+        {
+            "id": "a002_111_0048",
+            "en_US": "LOL"
+        },
+        {
+            "id": "a002_111_0049",
+            "en_US": "LOMBRE"
+        },
+        {
+            "id": "a002_111_0050",
+            "en_US": "LOOKS"
+        },
+        {
+            "id": "a002_111_0051",
+            "en_US": "LOPUNNY"
+        },
+        {
+            "id": "a002_111_0052",
+            "en_US": "LOSS"
+        },
+        {
+            "id": "a002_111_0053",
+            "en_US": "LOTAD"
+        },
+        {
+            "id": "a002_111_0054",
+            "en_US": "LOUDRED"
+        },
+        {
+            "id": "a002_111_0055",
+            "en_US": "LOVELYKISS"
+        },
+        {
+            "id": "a002_111_0056",
+            "en_US": "LOVEYDOVEY"
+        },
+        {
+            "id": "a002_111_0057",
+            "en_US": "LOWKICK"
+        },
+        {
+            "id": "a002_111_0058",
+            "en_US": "LOWSWEEP"
+        },
+        {
+            "id": "a002_111_0059",
+            "en_US": "LUCARIO"
+        },
+        {
+            "id": "a002_111_0060",
+            "en_US": "LUCKYCHANT"
+        },
+        {
+            "id": "a002_111_0061",
+            "en_US": "LUDICOLO"
+        },
+        {
+            "id": "a002_111_0062",
+            "en_US": "LUGIA"
+        },
+        {
+            "id": "a002_111_0063",
+            "en_US": "LUMINEON"
+        },
+        {
+            "id": "a002_111_0064",
+            "en_US": "LUNARDANCE"
+        },
+        {
+            "id": "a002_111_0065",
+            "en_US": "LUNATONE"
+        },
+        {
+            "id": "a002_111_0066",
+            "en_US": "LUSTERPURGE"
+        },
+        {
+            "id": "a002_111_0067",
+            "en_US": "LUVDISC"
+        },
+        {
+            "id": "a002_111_0068",
+            "en_US": "LUXIO"
+        },
+        {
+            "id": "a002_111_0069",
+            "en_US": "LUXRAY"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_189_0000",
+            "en_US": [
+                "Ryoku: I was planning to catch the\n",
+                "Pokémon called Volcarona that lives{VAR BE00}\n",
+                "in this Relic Castle and present it{VAR BE00}\n",
+                "to Ghetsis.{VAR BE01}\n",
+                "But the Shadow Triad said that Ghetsis\n",
+                "has gone somewhere, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0001",
+            "en_US": [
+                "The Seven Sages...{VAR BE01}\n",
+                "We always said we were complete when the\n",
+                "seven of us were together.{VAR BE01}\n",
+                "Now I don't know the meaning of those\n",
+                "words anymore.{VAR BE01}\n",
+                "I guess I don't mind, even if we were\n",
+                "being used, but the dream is over.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0002",
+            "en_US": [
+                "I no longer need this.{VAR BE01}\n",
+                "Ghetsis gave it to me, but I have no use\n",
+                "for it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0003",
+            "en_US": [
+                "Ryoku: This Relic Castle and our own\n",
+                "castle are both crumbling...{VAR BE01}\n",
+                "But what's different is that this Relic\n",
+                "Castle is the remains of a civilization.{VAR BE01}\n",
+                "And our castle left nothing behind...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0004",
+            "en_US": [
+                "Looker: Regarding Team Plasma...{VAR BE01}\n",
+                "I am an officer of the International\n",
+                "Police, and you must satisfy my request{VAR BE00}\n",
+                "for certain information!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0005",
+            "en_US": [
+                "Ryoku: Understood.{VAR BE01}\n",
+                "But we don't know much about Ghetsis or\n",
+                "our lord N!{VAR BE01}\n",
+                "We haven't even figured out if they are\n",
+                "father and son...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0006",
+            "en_US": [
+                "Looker: Accept my thanks!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding,\n",
+                "there yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "They are thinking--upon what topics?\n",
+                "They are hoping--upon what chances?{VAR BE01}\n",
+                "This is of the utmost urgency.\n",
+                "At once! On the way!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_189_0007",
+            "en_US": [
+                "Looker: I thank you profoundly!{VAR BE01}\n",
+                "Curiously, {VAR 0100 0000}...\n",
+                "There is a topic on which we must speak.{VAR BE01}\n",
+                "A report has reached my ears of someone\n",
+                "far from here. Indeed, this someone has{VAR BE00}\n",
+                "spotted a person like N and a...{VAR BE00}\n",
+                "dragon Pokémon.{VAR BE01}\n",
+                "I depart to validate the validity\n",
+                "of this information.{VAR BE00}\n",
+                "We shall meet again, so until then, adieu.{VAR BE01}"
+            ]
+        }
+    ]
+}

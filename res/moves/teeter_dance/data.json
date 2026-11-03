@@ -1,0 +1,29 @@
+{
+    "name": "Teeter Dance",
+    "description": [
+        "The user performs a wobbly dance that\n",
+        "confuses the Pokémon around it."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_STATUS",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_CONFUSION",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_TURN_COUNT",
+    "minTurns": 2,
+    "maxTurns": 5,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 199,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_ALL_ADJACENT",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

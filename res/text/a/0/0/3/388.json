@@ -1,0 +1,36 @@
+{
+    "flags": 224,
+    "pad": "8a8a",
+    "messages": [
+        {
+            "id": "a003_388_0000",
+            "en_US": [
+                "The key to open this closed gate is the\n",
+                "Trio Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_388_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_388_0002",
+            "en_US": [
+                "Oh, holder of the Trio Badge!\n",
+                "Challenge all that you face!"
+            ]
+        },
+        {
+            "id": "a003_388_0003",
+            "en_US": [
+                "First, obtain the Trio Badge from the\n",
+                "Striaton Pokémon Gym!"
+            ]
+        },
+        {
+            "id": "a003_388_0004",
+            "en_US": "Halt! Unqualified ones shall not pass!{VAR BE01}"
+        }
+    ]
+}

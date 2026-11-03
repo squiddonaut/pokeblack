@@ -1,0 +1,401 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_119_0000",
+            "en_US": "TACKLE"
+        },
+        {
+            "id": "a002_119_0001",
+            "en_US": "TAGLOG"
+        },
+        {
+            "id": "a002_119_0002",
+            "en_US": "TAILGLOW"
+        },
+        {
+            "id": "a002_119_0003",
+            "en_US": "TAILLOW"
+        },
+        {
+            "id": "a002_119_0004",
+            "en_US": "TAILSLAP"
+        },
+        {
+            "id": "a002_119_0005",
+            "en_US": "TAILWHIP"
+        },
+        {
+            "id": "a002_119_0006",
+            "en_US": "TAILWIND"
+        },
+        {
+            "id": "a002_119_0007",
+            "en_US": "TAKEDOWN"
+        },
+        {
+            "id": "a002_119_0008",
+            "en_US": "TAKEITEASY"
+        },
+        {
+            "id": "a002_119_0009",
+            "en_US": "TALENT"
+        },
+        {
+            "id": "a002_119_0010",
+            "en_US": "TALK"
+        },
+        {
+            "id": "a002_119_0011",
+            "en_US": "TANGELA"
+        },
+        {
+            "id": "a002_119_0012",
+            "en_US": "TANGLEDFEET"
+        },
+        {
+            "id": "a002_119_0013",
+            "en_US": "TANGROWTH"
+        },
+        {
+            "id": "a002_119_0014",
+            "en_US": "TAUNT"
+        },
+        {
+            "id": "a002_119_0015",
+            "en_US": "TAUROS"
+        },
+        {
+            "id": "a002_119_0016",
+            "en_US": "TEACHER"
+        },
+        {
+            "id": "a002_119_0017",
+            "en_US": "TEARS"
+        },
+        {
+            "id": "a002_119_0018",
+            "en_US": "TECHNICIAN"
+        },
+        {
+            "id": "a002_119_0019",
+            "en_US": "TEDDIURSA"
+        },
+        {
+            "id": "a002_119_0020",
+            "en_US": "TEETERDANCE"
+        },
+        {
+            "id": "a002_119_0021",
+            "en_US": "TELEKINESIS"
+        },
+        {
+            "id": "a002_119_0022",
+            "en_US": "TELEPATHY"
+        },
+        {
+            "id": "a002_119_0023",
+            "en_US": "TELEPORT"
+        },
+        {
+            "id": "a002_119_0024",
+            "en_US": "TELEVISION"
+        },
+        {
+            "id": "a002_119_0025",
+            "en_US": "TENTACOOL"
+        },
+        {
+            "id": "a002_119_0026",
+            "en_US": "TENTACRUEL"
+        },
+        {
+            "id": "a002_119_0027",
+            "en_US": "TEPIG"
+        },
+        {
+            "id": "a002_119_0028",
+            "en_US": "TERAVOLT"
+        },
+        {
+            "id": "a002_119_0029",
+            "en_US": "TERRAKION"
+        },
+        {
+            "id": "a002_119_0030",
+            "en_US": "TEST"
+        },
+        {
+            "id": "a002_119_0031",
+            "en_US": "THANKS"
+        },
+        {
+            "id": "a002_119_0032",
+            "en_US": "THANKYOU"
+        },
+        {
+            "id": "a002_119_0033",
+            "en_US": "THEREYOUGO"
+        },
+        {
+            "id": "a002_119_0034",
+            "en_US": "THICKFAT"
+        },
+        {
+            "id": "a002_119_0035",
+            "en_US": "THIEF"
+        },
+        {
+            "id": "a002_119_0036",
+            "en_US": "THRASH"
+        },
+        {
+            "id": "a002_119_0037",
+            "en_US": "THROH"
+        },
+        {
+            "id": "a002_119_0038",
+            "en_US": "THUNDER"
+        },
+        {
+            "id": "a002_119_0039",
+            "en_US": "THUNDERBOLT"
+        },
+        {
+            "id": "a002_119_0040",
+            "en_US": "THUNDERFANG"
+        },
+        {
+            "id": "a002_119_0041",
+            "en_US": "THUNDERPUNCH"
+        },
+        {
+            "id": "a002_119_0042",
+            "en_US": "THUNDERSHOCK"
+        },
+        {
+            "id": "a002_119_0043",
+            "en_US": "THUNDERWAVE"
+        },
+        {
+            "id": "a002_119_0044",
+            "en_US": "THUNDURUS"
+        },
+        {
+            "id": "a002_119_0045",
+            "en_US": "TICKLE"
+        },
+        {
+            "id": "a002_119_0046",
+            "en_US": "TIMBURR"
+        },
+        {
+            "id": "a002_119_0047",
+            "en_US": "TINTEDLENS"
+        },
+        {
+            "id": "a002_119_0048",
+            "en_US": "TIRTOUGA"
+        },
+        {
+            "id": "a002_119_0049",
+            "en_US": "TM"
+        },
+        {
+            "id": "a002_119_0050",
+            "en_US": "TODAY"
+        },
+        {
+            "id": "a002_119_0051",
+            "en_US": "TOGEKISS"
+        },
+        {
+            "id": "a002_119_0052",
+            "en_US": "TOGEPI"
+        },
+        {
+            "id": "a002_119_0053",
+            "en_US": "TOGETIC"
+        },
+        {
+            "id": "a002_119_0054",
+            "en_US": "TOMORROW"
+        },
+        {
+            "id": "a002_119_0055",
+            "en_US": "TORCHIC"
+        },
+        {
+            "id": "a002_119_0056",
+            "en_US": "TORKOAL"
+        },
+        {
+            "id": "a002_119_0057",
+            "en_US": "TORMENT"
+        },
+        {
+            "id": "a002_119_0058",
+            "en_US": "TORNADUS"
+        },
+        {
+            "id": "a002_119_0059",
+            "en_US": "TORRENT"
+        },
+        {
+            "id": "a002_119_0060",
+            "en_US": "TORTERRA"
+        },
+        {
+            "id": "a002_119_0061",
+            "en_US": "TOTODILE"
+        },
+        {
+            "id": "a002_119_0062",
+            "en_US": "TOUGHNESS"
+        },
+        {
+            "id": "a002_119_0063",
+            "en_US": "TOURNAMENT"
+        },
+        {
+            "id": "a002_119_0064",
+            "en_US": "TOWNMAP"
+        },
+        {
+            "id": "a002_119_0065",
+            "en_US": "TOXIC"
+        },
+        {
+            "id": "a002_119_0066",
+            "en_US": "TOXICBOOST"
+        },
+        {
+            "id": "a002_119_0067",
+            "en_US": "TOXICROAK"
+        },
+        {
+            "id": "a002_119_0068",
+            "en_US": "TOXICSPIKES"
+        },
+        {
+            "id": "a002_119_0069",
+            "en_US": "TOYS"
+        },
+        {
+            "id": "a002_119_0070",
+            "en_US": "TRACE"
+        },
+        {
+            "id": "a002_119_0071",
+            "en_US": "TRAIN"
+        },
+        {
+            "id": "a002_119_0072",
+            "en_US": "TRAINER"
+        },
+        {
+            "id": "a002_119_0073",
+            "en_US": "TRAINING"
+        },
+        {
+            "id": "a002_119_0074",
+            "en_US": "TRANQUILL"
+        },
+        {
+            "id": "a002_119_0075",
+            "en_US": "TRANSFORM"
+        },
+        {
+            "id": "a002_119_0076",
+            "en_US": "TRAPINCH"
+        },
+        {
+            "id": "a002_119_0077",
+            "en_US": "TRAVEL"
+        },
+        {
+            "id": "a002_119_0078",
+            "en_US": "TREASURE"
+        },
+        {
+            "id": "a002_119_0079",
+            "en_US": "TREECKO"
+        },
+        {
+            "id": "a002_119_0080",
+            "en_US": "TRIATTACK"
+        },
+        {
+            "id": "a002_119_0081",
+            "en_US": "TRICK"
+        },
+        {
+            "id": "a002_119_0082",
+            "en_US": "TRICKROOM"
+        },
+        {
+            "id": "a002_119_0083",
+            "en_US": "TRIPLE"
+        },
+        {
+            "id": "a002_119_0084",
+            "en_US": "TRIPLEKICK"
+        },
+        {
+            "id": "a002_119_0085",
+            "en_US": "TROPIUS"
+        },
+        {
+            "id": "a002_119_0086",
+            "en_US": "TRUANT"
+        },
+        {
+            "id": "a002_119_0087",
+            "en_US": "TRUBBISH"
+        },
+        {
+            "id": "a002_119_0088",
+            "en_US": "TRUMPCARD"
+        },
+        {
+            "id": "a002_119_0089",
+            "en_US": "TURBOBLAZE"
+        },
+        {
+            "id": "a002_119_0090",
+            "en_US": "TURTWIG"
+        },
+        {
+            "id": "a002_119_0091",
+            "en_US": "TUT"
+        },
+        {
+            "id": "a002_119_0092",
+            "en_US": "TWINEEDLE"
+        },
+        {
+            "id": "a002_119_0093",
+            "en_US": "TWISTER"
+        },
+        {
+            "id": "a002_119_0094",
+            "en_US": "TYMPOLE"
+        },
+        {
+            "id": "a002_119_0095",
+            "en_US": "TYNAMO"
+        },
+        {
+            "id": "a002_119_0096",
+            "en_US": "TYPHLOSION"
+        },
+        {
+            "id": "a002_119_0097",
+            "en_US": "TYRANITAR"
+        },
+        {
+            "id": "a002_119_0098",
+            "en_US": "TYROGUE"
+        }
+    ]
+}

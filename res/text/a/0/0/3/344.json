@@ -1,0 +1,32 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_344_0000",
+            "en_US": [
+                "It is believed that dreams and desires of\n",
+                "people and Pokémon in Unova swirled into{VAR BE00}\n",
+                "the center and were formed into{VAR BE00}\n",
+                "Pass Power."
+            ]
+        },
+        {
+            "id": "a003_344_0001",
+            "en_US": [
+                "Maybe people in the past created the\n",
+                "landscape of Unova that looks like a{VAR BE00}\n",
+                "swirl in order to use Pass Power..."
+            ]
+        },
+        {
+            "id": "a003_344_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_344_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

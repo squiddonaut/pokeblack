@@ -1,0 +1,101 @@
+{
+    "flags": 208,
+    "messages": [
+        {
+            "id": "a002_064_0000",
+            "en_US": [
+                "Loading...\n",
+                "Please wait a moment."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_064_0001",
+            "en_US": [
+                "The game inserted is not compatible.\n",
+                "Turn off the power, insert a\n",
+                "compatible Game Card, and try again.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_064_0002",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_064_0003",
+            "en_US": "The game has been saved. {VAR BE02 003C}"
+        },
+        {
+            "id": "a002_064_0004",
+            "en_US": [
+                "The Relocator will close.\n",
+                "Please turn off the power."
+            ]
+        },
+        {
+            "id": "a002_064_0005",
+            "en_US": [
+                "The saved data could not be accessed.\n",
+                "The Relocator will close.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_064_0006",
+            "en_US": [
+                "Unable to connect to the\n",
+                "other DS system.{VAR BE01}"
+            ],
+            "flags": 195
+        },
+        {
+            "id": "a002_064_0007",
+            "en_US": [
+                "Save failed...\n",
+                "The Relocator will close.{VAR BE01}"
+            ],
+            "flags": 195
+        },
+        {
+            "id": "a002_064_0008",
+            "en_US": [
+                "The Relocator is activated.\n",
+                "Searching for Pokémon...\n",
+                "\n",
+                "Please wait a moment."
+            ]
+        },
+        {
+            "id": "a002_064_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_064_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_064_0011",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_064_0012",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_064_0013",
+            "en_US": [
+                "デバッグROM\n",
+                "DP　Y\n",
+                "PT　X\n",
+                "GS　A"
+            ]
+        }
+    ]
+}

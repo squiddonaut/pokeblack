@@ -1,0 +1,260 @@
+{
+    "flags": 240,
+    "messages": [
+        {
+            "id": "a002_040_0000",
+            "en_US": "{VAR BD02}TRADE WITH ANYONE",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0001",
+            "en_US": "{VAR BD02}TRADE RENDEZVOUS",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0002",
+            "en_US": "TRADE WANTED",
+            "flags": 83
+        },
+        {
+            "id": "a002_040_0003",
+            "en_US": "LEVEL",
+            "flags": 59
+        },
+        {
+            "id": "a002_040_0004",
+            "en_US": "Lv. 1 through 49",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0005",
+            "en_US": "Lv. 50",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0006",
+            "en_US": "Lv. 51 through 100",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0007",
+            "en_US": "Any kind",
+            "flags": 126
+        },
+        {
+            "id": "a002_040_0008",
+            "en_US": "COOL",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0009",
+            "en_US": "CUTE",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0010",
+            "en_US": "SCARY",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0011",
+            "en_US": "STRANGE",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0012",
+            "en_US": "ANY KIND",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0013",
+            "en_US": "TRADE SEARCH",
+            "flags": 111
+        },
+        {
+            "id": "a002_040_0014",
+            "en_US": [
+                "Searching for the right person\n",
+                "to trade with..."
+            ]
+        },
+        {
+            "id": "a002_040_0015",
+            "en_US": "CANCEL",
+            "flags": 80
+        },
+        {
+            "id": "a002_040_0016",
+            "en_US": "Getting information from the other person..."
+        },
+        {
+            "id": "a002_040_0017",
+            "en_US": "A trade partner has been found!"
+        },
+        {
+            "id": "a002_040_0018",
+            "en_US": "SEARCH",
+            "flags": 48
+        },
+        {
+            "id": "a002_040_0019",
+            "en_US": [
+                "Please select who you wish\n",
+                "to trade with."
+            ]
+        },
+        {
+            "id": "a002_040_0020",
+            "en_US": [
+                "Please press “SEARCH\" when you've\n",
+                "chosen the desired trade conditions."
+            ]
+        },
+        {
+            "id": "a002_040_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_040_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_040_0023",
+            "en_US": "WANT",
+            "flags": 99
+        },
+        {
+            "id": "a002_040_0024",
+            "en_US": "HAVE",
+            "flags": 99
+        },
+        {
+            "id": "a002_040_0025",
+            "en_US": "YES",
+            "flags": 86
+        },
+        {
+            "id": "a002_040_0026",
+            "en_US": "NO",
+            "flags": 86
+        },
+        {
+            "id": "a002_040_0027",
+            "en_US": "YES",
+            "flags": 85
+        },
+        {
+            "id": "a002_040_0028",
+            "en_US": [
+                "{VAR 0100 0000} {VAR BD03 0001}ID: {VAR 0204 0001}\n",
+                "{VAR 0124 0002}"
+            ],
+            "flags": 192
+        },
+        {
+            "id": "a002_040_0029",
+            "en_US": "You have no one to Rendezvous with..."
+        },
+        {
+            "id": "a002_040_0030",
+            "en_US": "SELECT FOR RENDEZVOUS",
+            "flags": 159
+        },
+        {
+            "id": "a002_040_0031",
+            "en_US": "Will you Rendezvous with this person?"
+        },
+        {
+            "id": "a002_040_0032",
+            "en_US": [
+                "Please select how your trade\n",
+                "partner is chosen."
+            ]
+        },
+        {
+            "id": "a002_040_0033",
+            "en_US": "CANCEL",
+            "flags": 85
+        },
+        {
+            "id": "a002_040_0034",
+            "en_US": [
+                "{VAR 0124 0000}\n",
+                "{VAR 0125 0001}"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_040_0035",
+            "en_US": "GREETINGS",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0036",
+            "en_US": "{VAR BD03 0001}{VAR 0204 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_040_0037",
+            "en_US": "{VAR BD02}{VAR 0100 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_040_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_040_0039",
+            "en_US": "The trade will be started."
+        },
+        {
+            "id": "a002_040_0040",
+            "en_US": "{VAR BD03 0001}NO. OF TRADES",
+            "flags": 80
+        },
+        {
+            "id": "a002_040_0041",
+            "en_US": "LOCATION",
+            "flags": 102
+        },
+        {
+            "id": "a002_040_0042",
+            "en_US": [
+                "Is it OK to disconnect from\n",
+                "Nintendo Wi-Fi Connection?"
+            ]
+        },
+        {
+            "id": "a002_040_0043",
+            "en_US": [
+                "You need at least two Pokémon\n",
+                "if you want to trade!"
+            ]
+        },
+        {
+            "id": "a002_040_0044",
+            "en_US": "RENDEZVOUS WITH ANY",
+            "flags": 112
+        },
+        {
+            "id": "a002_040_0045",
+            "en_US": [
+                "Will you trade with someone\n",
+                "you have traded with before?"
+            ]
+        },
+        {
+            "id": "a002_040_0046",
+            "en_US": "さくじょします",
+            "flags": 0
+        },
+        {
+            "id": "a002_040_0047",
+            "en_US": "{FF19}{FF19}ついかします",
+            "flags": 0
+        }
+    ]
+}

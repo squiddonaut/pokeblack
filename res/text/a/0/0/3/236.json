@@ -1,0 +1,104 @@
+{
+    "flags": 224,
+    "pad": "8080",
+    "messages": [
+        {
+            "id": "a003_236_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, it's difficult,\n",
+                "isn't it?{VAR BE01}\n",
+                "When you confront yourself, you have\n",
+                "to notice things about yourself that{VAR BE00}\n",
+                "aren't too flattering...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0001",
+            "en_US": [
+                "???: Of course!\n",
+                "And no one can get away from themselves.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0002",
+            "en_US": "Cheren: ...Marshal?{VAR BE01}"
+        },
+        {
+            "id": "a003_236_0003",
+            "en_US": [
+                "Marshal: My mentor told me you were\n",
+                "here, so I came to see.{VAR BE01}\n",
+                "Listen. Even if you lose in battle, if you\n",
+                "surpass what you've done before, you{VAR BE00}\n",
+                "have bested yourself.{VAR BE01}\n",
+                "Take the opportunity of a battle to\n",
+                "look at your opponent,{VAR BE00}\n",
+                "look at the Pokémon involved,{VAR BE00}\n",
+                "and look at yourself!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0004",
+            "en_US": "Cheren: Are those Alder's words?{VAR BE01}"
+        },
+        {
+            "id": "a003_236_0005",
+            "en_US": [
+                "Marshal: Maybe. But I'm borrowing them.{VAR BE01}\n",
+                "What I want are battles with Trainers\n",
+                "who believe in themselves like that...{VAR BE01}\n",
+                "When I mix it up with a Trainer like\n",
+                "that, both my Pokémon and I{VAR BE00}\n",
+                "get even stronger.{VAR BE01}\n",
+                "Well then, I'll be waiting for your\n",
+                "challenge in the Pokémon League.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0006",
+            "en_US": [
+                "Cheren: I guess that's that.{VAR BE01}\n",
+                "OK, {VAR 0100 0000}!\n",
+                "Accept this Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0007",
+            "en_US": [
+                "Cheren: I'll keep battling many Trainers\n",
+                "and Pokémon like this, and if I can learn{VAR BE00}\n",
+                "what kind of person I am, it will open up{VAR BE00}\n",
+                "my path.{VAR BE01}\n",
+                "I'm sure this path will lead me to become\n",
+                "the person I'm meant to be.{VAR BE01}\n",
+                "Pokémon will always be with you and me as\n",
+                "we go down our own paths.{VAR BE01}\n",
+                "Our important friends, Pokémon..."
+            ]
+        },
+        {
+            "id": "a003_236_0008",
+            "en_US": [
+                "Cheren: Oh, you showed up, {VAR 0100 0000}.{VAR BE01}\n",
+                "In order to surpass myself up to this\n",
+                "point, and to beat a purely strong{VAR BE00}\n",
+                "Pokémon Trainer such as yourself, I'm{VAR BE00}\n",
+                "challenging you to a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_236_0009",
+            "en_US": [
+                "Cheren: I'll keep battling many Trainers\n",
+                "and Pokémon like this, and if I can learn{VAR BE00}\n",
+                "what kind of person I am, it will open up{VAR BE00}\n",
+                "my path.{VAR BE01}\n",
+                "I'm sure this path will lead me to become\n",
+                "the person I'm meant to be.{VAR BE01}\n",
+                "Pokémon will always be with you and me as\n",
+                "we go down our own paths.{VAR BE01}\n",
+                "Our important friends, Pokémon..."
+            ]
+        }
+    ]
+}

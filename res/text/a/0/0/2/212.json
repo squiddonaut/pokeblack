@@ -1,0 +1,106 @@
+{
+    "flags": 192,
+    "pad": "c2c2",
+    "messages": [
+        {
+            "id": "a002_212_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_212_0001",
+            "en_US": "Buenos Aires"
+        },
+        {
+            "id": "a002_212_0002",
+            "en_US": "Ciudad Autónoma de Buenos Aires"
+        },
+        {
+            "id": "a002_212_0003",
+            "en_US": "Catamarca"
+        },
+        {
+            "id": "a002_212_0004",
+            "en_US": "Chaco"
+        },
+        {
+            "id": "a002_212_0005",
+            "en_US": "Chubut"
+        },
+        {
+            "id": "a002_212_0006",
+            "en_US": "Córdoba"
+        },
+        {
+            "id": "a002_212_0007",
+            "en_US": "Corrientes"
+        },
+        {
+            "id": "a002_212_0008",
+            "en_US": "Entre Ríos"
+        },
+        {
+            "id": "a002_212_0009",
+            "en_US": "Formosa"
+        },
+        {
+            "id": "a002_212_0010",
+            "en_US": "Jujuy"
+        },
+        {
+            "id": "a002_212_0011",
+            "en_US": "La Pampa"
+        },
+        {
+            "id": "a002_212_0012",
+            "en_US": "La Rioja"
+        },
+        {
+            "id": "a002_212_0013",
+            "en_US": "Mendoza"
+        },
+        {
+            "id": "a002_212_0014",
+            "en_US": "Misiones"
+        },
+        {
+            "id": "a002_212_0015",
+            "en_US": "Neuquén"
+        },
+        {
+            "id": "a002_212_0016",
+            "en_US": "Río Negro"
+        },
+        {
+            "id": "a002_212_0017",
+            "en_US": "Salta"
+        },
+        {
+            "id": "a002_212_0018",
+            "en_US": "San Juan"
+        },
+        {
+            "id": "a002_212_0019",
+            "en_US": "San Luis"
+        },
+        {
+            "id": "a002_212_0020",
+            "en_US": "Santa Cruz"
+        },
+        {
+            "id": "a002_212_0021",
+            "en_US": "Santa Fe"
+        },
+        {
+            "id": "a002_212_0022",
+            "en_US": "Santiago del Estero"
+        },
+        {
+            "id": "a002_212_0023",
+            "en_US": "Tierra del Fuego"
+        },
+        {
+            "id": "a002_212_0024",
+            "en_US": "Tucumán"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_001_0000",
+            "en_US": "Delete all saved data?"
+        },
+        {
+            "id": "a002_001_0001",
+            "en_US": [
+                "Once the saved data has been deleted,\n",
+                "there is no way to recover it.{VAR BE01}\n",
+                "Is it really OK to delete\n",
+                "all saved data?"
+            ]
+        },
+        {
+            "id": "a002_001_0002",
+            "en_US": [
+                "Deleting all saved data...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        }
+    ]
+}

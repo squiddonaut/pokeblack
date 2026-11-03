@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_140_0000",
+            "en_US": [
+                "It doesn't matter if we win or lose,\n",
+                "as long as we have Pokémon with us!"
+            ]
+        },
+        {
+            "id": "a003_140_0001",
+            "en_US": [
+                "You need to have eight Gym Badges\n",
+                "to challenge the Pokémon League.{VAR BE01}\n",
+                "However, even with such skills, it's hard\n",
+                "to defeat the Elite Four who are waiting!"
+            ]
+        },
+        {
+            "id": "a003_140_0002",
+            "en_US": "Glubaaa!"
+        }
+    ]
+}

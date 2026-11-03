@@ -1,0 +1,89 @@
+{
+    "flags": 192,
+    "messages": [
+        {
+            "id": "a002_223_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_223_0001",
+            "en_US": "Abruzzo"
+        },
+        {
+            "id": "a002_223_0002",
+            "en_US": "Basilicata"
+        },
+        {
+            "id": "a002_223_0003",
+            "en_US": "Calabria"
+        },
+        {
+            "id": "a002_223_0004",
+            "en_US": "Campania"
+        },
+        {
+            "id": "a002_223_0005",
+            "en_US": "Emilia-Romagna"
+        },
+        {
+            "id": "a002_223_0006",
+            "en_US": "Friuli-Venezia Giulia"
+        },
+        {
+            "id": "a002_223_0007",
+            "en_US": "Lazio"
+        },
+        {
+            "id": "a002_223_0008",
+            "en_US": "Liguria"
+        },
+        {
+            "id": "a002_223_0009",
+            "en_US": "Lombardy"
+        },
+        {
+            "id": "a002_223_0010",
+            "en_US": "Marche"
+        },
+        {
+            "id": "a002_223_0011",
+            "en_US": "Molise"
+        },
+        {
+            "id": "a002_223_0012",
+            "en_US": "Piedmont"
+        },
+        {
+            "id": "a002_223_0013",
+            "en_US": "Apulia"
+        },
+        {
+            "id": "a002_223_0014",
+            "en_US": "Sardinia"
+        },
+        {
+            "id": "a002_223_0015",
+            "en_US": "Sicily"
+        },
+        {
+            "id": "a002_223_0016",
+            "en_US": "Tuscany"
+        },
+        {
+            "id": "a002_223_0017",
+            "en_US": "Trentino-Alto Adige"
+        },
+        {
+            "id": "a002_223_0018",
+            "en_US": "Umbria"
+        },
+        {
+            "id": "a002_223_0019",
+            "en_US": "Valle d'Aosta"
+        },
+        {
+            "id": "a002_223_0020",
+            "en_US": "Veneto"
+        }
+    ]
+}

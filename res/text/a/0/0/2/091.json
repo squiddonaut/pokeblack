@@ -1,0 +1,18 @@
+{
+    "flags": 120,
+    "pad": "4e4e",
+    "messages": [
+        {
+            "id": "a002_091_0000",
+            "en_US": "Stranger"
+        },
+        {
+            "id": "a002_091_0001",
+            "en_US": "Day-Care Couple"
+        },
+        {
+            "id": "a002_091_0002",
+            "en_US": "Treasure Hunter"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "pad": "0a0a",
+    "messages": [
+        {
+            "id": "a003_401_0000",
+            "en_US": "...I'm sorry. I forgot my uniform."
+        },
+        {
+            "id": "a003_401_0001",
+            "en_US": [
+                "It's difficult to decide which Pokémon is\n",
+                "the best for my grandchild to meet first."
+            ]
+        },
+        {
+            "id": "a003_401_0002",
+            "en_US": [
+                "My grandpa is going to catch a Pokémon\n",
+                "for me!{VAR BE01}\n",
+                "I will become a friend of my Pokémon, and\n",
+                "someday we will travel in Unova together!"
+            ]
+        }
+    ]
+}

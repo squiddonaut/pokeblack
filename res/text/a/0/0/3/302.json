@@ -1,0 +1,79 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_302_0000",
+            "en_US": [
+                "Hello, hello!\n",
+                "I am the official Name Rater!{VAR BE01}\n",
+                "Want me to rate the nicknames\n",
+                "of your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_302_0001",
+            "en_US": [
+                "Which Pokémon's nickname\n",
+                "should I critique?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_302_0002",
+            "en_US": [
+                "Hmmm. {VAR 0102 0000}, is it?{VAR BE01}\n",
+                "That sounds good! It's a very “you\"\n",
+                "sort of name.{VAR BE01}\n",
+                "But if you'd like to change it, I can help\n",
+                "you do that. How about it?"
+            ]
+        },
+        {
+            "id": "a003_302_0003",
+            "en_US": [
+                "Excellent! What would you like\n",
+                "the new nickname to be?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_302_0004",
+            "en_US": [
+                "Done! From now on, this Pokémon\n",
+                "shall be known as {VAR 0102 0000}!{VAR BE01}\n",
+                "You're right, that does seem to fit it\n",
+                "better. Nicely done!"
+            ]
+        },
+        {
+            "id": "a003_302_0005",
+            "en_US": [
+                "OK! Come see me again if you\n",
+                "change your mind."
+            ]
+        },
+        {
+            "id": "a003_302_0006",
+            "en_US": [
+                "Done! From now on, this Pokémon\n",
+                "shall be known as {VAR 0102 0000}!{VAR BE01}\n",
+                "It looks no different from before, but we\n",
+                "both know this name is vastly superior!{VAR BE00}\n",
+                "How fortunate for you!"
+            ]
+        },
+        {
+            "id": "a003_302_0007",
+            "en_US": [
+                "Hmmm. {VAR 0102 0000}!\n",
+                "That is a truly impeccable nickname!{VAR BE01}\n",
+                "Take good care of {VAR 0102 0000}!"
+            ]
+        },
+        {
+            "id": "a003_302_0008",
+            "en_US": [
+                "Now, now...\n",
+                "That is merely an Egg!"
+            ]
+        }
+    ]
+}

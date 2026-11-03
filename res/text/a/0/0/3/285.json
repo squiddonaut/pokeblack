@@ -1,0 +1,132 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_285_0000",
+            "en_US": "I am researching Pokémon Fossils here.{VAR BE01}"
+        },
+        {
+            "id": "a003_285_0001",
+            "en_US": [
+                "You have a Fossil, don't you?\n",
+                "Shall I turn it back into a Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_285_0002",
+            "en_US": [
+                "Which Fossil should I turn back\n",
+                "into a Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_285_0003",
+            "en_US": [
+                "All right!{VAR BE01}\n",
+                "I will turn the {VAR 0109 0000} back\n",
+                "into a Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_285_0004",
+            "en_US": "Oh, you'd like to keep it as a Fossil? OK!"
+        },
+        {
+            "id": "a003_285_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_285_0006",
+            "en_US": [
+                "The Fossil you gave me turned back into\n",
+                "a Pokémon!{VAR BE01}\n",
+                "This is {VAR 0101 0000}!\n",
+                "Please take good care of it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_285_0007",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "{VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a003_285_0008",
+            "en_US": [
+                "Would you like to give a nickname to the\n",
+                "newly received {VAR 0101 0000}?"
+            ]
+        },
+        {
+            "id": "a003_285_0009",
+            "en_US": [
+                "Oh, I'm sorry. Your party is full.{VAR BE01}\n",
+                "I will keep it with extra care, so please\n",
+                "come back to pick it up when you can!"
+            ]
+        },
+        {
+            "id": "a003_285_0010",
+            "en_US": "If you have a Fossil, bring it to me!"
+        },
+        {
+            "id": "a003_285_0011",
+            "en_US": "{VAR 0109 0000}",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0012",
+            "en_US": "{VAR 0109 0001}",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0013",
+            "en_US": "Root Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0014",
+            "en_US": "Claw Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0015",
+            "en_US": "Helix Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0016",
+            "en_US": "Dome Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0017",
+            "en_US": "Old Amber",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0018",
+            "en_US": "Armor Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0019",
+            "en_US": "Skull Fossil",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0020",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_285_0021",
+            "en_US": [
+                "I-I'm sorry. I'm afraid you'll have\n",
+                "to come back later."
+            ]
+        }
+    ]
+}

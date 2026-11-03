@@ -1,0 +1,29 @@
+{
+    "name": "Conversion",
+    "description": [
+        "The user changes its type to become the\n",
+        "same type as one of its moves."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 30,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 30,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_SNATCH"]
+}

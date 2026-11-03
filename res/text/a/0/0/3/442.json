@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "pad": "d4d4",
+    "messages": [
+        {
+            "id": "a003_442_0000",
+            "en_US": [
+                "Pokémon will be strong if you train them,\n",
+                "even if they're weak now.{VAR BE01}\n",
+                "Love is what's important!"
+            ]
+        },
+        {
+            "id": "a003_442_0001",
+            "en_US": [
+                "If you get strong, you can move forward.\n",
+                "If you move forward, you'll be stronger.{VAR BE01}\n",
+                "That's the cool thing about journeys!"
+            ]
+        },
+        {
+            "id": "a003_442_0002",
+            "en_US": [
+                "When a hero leads the world, a Pokémon\n",
+                "is going to come and help the hero...{VAR BE01}\n",
+                "Everybody in the Unova region\n",
+                "knows that legend!"
+            ]
+        }
+    ]
+}

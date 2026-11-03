@@ -1,0 +1,404 @@
+{
+    "flags": 232,
+    "messages": [
+        {
+            "id": "a002_039_0000",
+            "en_US": "GAME SYNC",
+            "flags": 89
+        },
+        {
+            "id": "a002_039_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_039_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_039_0003",
+            "en_US": "Would you like to save the game?",
+            "flags": 240
+        },
+        {
+            "id": "a002_039_0004",
+            "en_US": "YES",
+            "flags": 85
+        },
+        {
+            "id": "a002_039_0005",
+            "en_US": "NO",
+            "flags": 85
+        },
+        {
+            "id": "a002_039_0006",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_039_0007",
+            "en_US": [
+                "Do you want to choose the\n",
+                "Nintendo Wi-Fi Connection settings?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_039_0008",
+            "en_US": [
+                "The Pokémon has been tucked in.\n",
+                "Don't turn off the power..."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_039_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_039_0010",
+            "en_US": "Is it OK to wake up this Pokémon?"
+        },
+        {
+            "id": "a002_039_0011",
+            "en_US": [
+                "The Pokémon is being woken up...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 225
+        },
+        {
+            "id": "a002_039_0012",
+            "en_US": "{VAR 0102 0000} has woken up!"
+        },
+        {
+            "id": "a002_039_0013",
+            "en_US": "Please wait a moment...",
+            "flags": 225
+        },
+        {
+            "id": "a002_039_0014",
+            "en_US": [
+                "{VAR 0102 0000} fell\n",
+                "asleep. It's sleeping soundly!"
+            ]
+        },
+        {
+            "id": "a002_039_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_039_0016",
+            "en_US": [
+                "Game Sync has run out of energy.\n",
+                "It will take one day to recharge it."
+            ]
+        },
+        {
+            "id": "a002_039_0017",
+            "en_US": "This Pokémon is not dreaming yet."
+        },
+        {
+            "id": "a002_039_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_039_0019",
+            "en_US": [
+                "There are no Pokémon in your PC that can\n",
+                "be sent to the Pokémon Dream World."
+            ]
+        },
+        {
+            "id": "a002_039_0020",
+            "en_US": "This Pokémon is dreaming."
+        },
+        {
+            "id": "a002_039_0021",
+            "en_US": [
+                "You haven't yet received the\n",
+                "Dream Remnants from last time.{VAR BE01}\n",
+                "You'll lose it if you wake this Pokémon up\n",
+                "to receive new Dream Remnants.{VAR BE01}\n",
+                "Is it OK to wake up this Pokémon?"
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_039_0022",
+            "en_US": [
+                "{VAR 0102 0000} has gained\n",
+                "{VAR 0201 0001} level(s)."
+            ]
+        },
+        {
+            "id": "a002_039_0023",
+            "en_US": [
+                "C-Gear skin has changed.\n",
+                "Musical show has changed.\n",
+                "Pokédex skin has changed."
+            ]
+        },
+        {
+            "id": "a002_039_0024",
+            "en_US": "C-Gear skin has changed."
+        },
+        {
+            "id": "a002_039_0025",
+            "en_US": "Musical show has changed."
+        },
+        {
+            "id": "a002_039_0026",
+            "en_US": "Pokédex skin has changed."
+        },
+        {
+            "id": "a002_039_0027",
+            "en_US": [
+                "C-Gear skin has changed.\n",
+                "Musical show has changed."
+            ]
+        },
+        {
+            "id": "a002_039_0028",
+            "en_US": [
+                "Musical show has changed.\n",
+                "Pokédex skin has changed."
+            ]
+        },
+        {
+            "id": "a002_039_0029",
+            "en_US": [
+                "C-Gear skin has changed.\n",
+                "Pokédex skin has changed."
+            ]
+        },
+        {
+            "id": "a002_039_0030",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13201"
+            ]
+        },
+        {
+            "id": "a002_039_0031",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13202"
+            ]
+        },
+        {
+            "id": "a002_039_0032",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "please refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13203"
+            ]
+        },
+        {
+            "id": "a002_039_0033",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13204"
+            ]
+        },
+        {
+            "id": "a002_039_0034",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13205"
+            ]
+        },
+        {
+            "id": "a002_039_0035",
+            "en_US": [
+                "This service has been discontinued.\n",
+                "\n",
+                "Error Code: 13206"
+            ]
+        },
+        {
+            "id": "a002_039_0036",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13207"
+            ]
+        },
+        {
+            "id": "a002_039_0037",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13208"
+            ]
+        },
+        {
+            "id": "a002_039_0038",
+            "en_US": [
+                "A communication error occurred.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13209"
+            ]
+        },
+        {
+            "id": "a002_039_0039",
+            "en_US": [
+                "An error occurred on the server.\n",
+                "Please try again.\n",
+                "\n",
+                "If this does not solve the problem,\n",
+                "refer to the “Troubleshooting\"\n",
+                "section of your Instruction Booklet.\n",
+                "\n",
+                "Error Code: 13210"
+            ]
+        },
+        {
+            "id": "a002_039_0040",
+            "en_US": [
+                "The server is experiencing high\n",
+                "traffic volumes.\n",
+                "Unable to connect.\n",
+                "Please wait a little while and try again.\n",
+                "\n",
+                "Error Code: 13211"
+            ]
+        },
+        {
+            "id": "a002_039_0041",
+            "en_US": [
+                "The server is undergoing maintenance.\n",
+                "You can review the details at the\n",
+                "Pokémon Global Link website.\n",
+                "http://www.pokemon-gl.com\n",
+                "\n",
+                "Error Code: 13212"
+            ]
+        },
+        {
+            "id": "a002_039_0042",
+            "en_US": [
+                "You can let your Pokémon play\n",
+                "in the Pokémon Dream World on the Internet."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_039_0043",
+            "en_US": [
+                "You must set up\n",
+                "the Game Sync settings\n",
+                "to play Pokémon Dream World."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_039_0044",
+            "en_US": [
+                "Please read the Instruction Booklet\n",
+                "for details about Game Sync settings."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_039_0045",
+            "en_US": "{VAR 0102 0000} has woken up!"
+        },
+        {
+            "id": "a002_039_0046",
+            "en_US": [
+                "There is already a saved game file.\n",
+                "It is impossible to save.{VAR BE01}\n",
+                "Please refer to the Instruction\n",
+                "Booklet for details.{VAR BE01}\n",
+                "Press Up + SELECT + B Button\n",
+                "on the title screen to erase{VAR BE00}\n",
+                "the current saved game file."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_039_0047",
+            "en_US": [
+                "Your Game Sync ID has been issued.\n",
+                "\n",
+                "You can check your Game Sync ID\n",
+                "in Game Sync Settings on the main menu."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_039_0048",
+            "en_US": [
+                "Access the Pokémon Global Link website\n",
+                "at http://www.pokemon-gl.com/\n",
+                "and complete the setup\n",
+                "to use all features of Game Sync.\n",
+                "\n",
+                "Read the Instruction Booklet\n",
+                "for complete details."
+            ],
+            "flags": 229
+        },
+        {
+            "id": "a002_039_0049",
+            "en_US": [
+                "Your PC is full!{VAR BE01}\n",
+                "You must have one empty place\n",
+                "available to wake up the Pokémon."
+            ],
+            "flags": 229
+        }
+    ]
+}

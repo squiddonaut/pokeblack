@@ -1,0 +1,2514 @@
+{
+    "flags": 256,
+    "pad": "4444",
+    "messages": [
+        {
+            "id": "a002_279_0000",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0001",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Master Ball"
+        },
+        {
+            "id": "a002_279_0002",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ultra Ball"
+        },
+        {
+            "id": "a002_279_0003",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Great Ball"
+        },
+        {
+            "id": "a002_279_0004",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poké Ball"
+        },
+        {
+            "id": "a002_279_0005",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Safari Ball"
+        },
+        {
+            "id": "a002_279_0006",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Net Ball"
+        },
+        {
+            "id": "a002_279_0007",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dive Ball"
+        },
+        {
+            "id": "a002_279_0008",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nest Ball"
+        },
+        {
+            "id": "a002_279_0009",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Repeat Ball"
+        },
+        {
+            "id": "a002_279_0010",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Timer Ball"
+        },
+        {
+            "id": "a002_279_0011",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Luxury Ball"
+        },
+        {
+            "id": "a002_279_0012",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Premier Ball"
+        },
+        {
+            "id": "a002_279_0013",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dusk Ball"
+        },
+        {
+            "id": "a002_279_0014",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heal Ball"
+        },
+        {
+            "id": "a002_279_0015",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Quick Ball"
+        },
+        {
+            "id": "a002_279_0016",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cherish Ball"
+        },
+        {
+            "id": "a002_279_0017",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Potion"
+        },
+        {
+            "id": "a002_279_0018",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Antidote"
+        },
+        {
+            "id": "a002_279_0019",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Burn Heal"
+        },
+        {
+            "id": "a002_279_0020",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ice Heal"
+        },
+        {
+            "id": "a002_279_0021",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Awakening"
+        },
+        {
+            "id": "a002_279_0022",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Parlyz Heal"
+        },
+        {
+            "id": "a002_279_0023",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Full Restore"
+        },
+        {
+            "id": "a002_279_0024",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Max Potion"
+        },
+        {
+            "id": "a002_279_0025",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hyper Potion"
+        },
+        {
+            "id": "a002_279_0026",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Super Potion"
+        },
+        {
+            "id": "a002_279_0027",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Full Heal"
+        },
+        {
+            "id": "a002_279_0028",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Revive"
+        },
+        {
+            "id": "a002_279_0029",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Max Revive"
+        },
+        {
+            "id": "a002_279_0030",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fresh Water"
+        },
+        {
+            "id": "a002_279_0031",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Soda Pop"
+        },
+        {
+            "id": "a002_279_0032",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lemonade"
+        },
+        {
+            "id": "a002_279_0033",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Moomoo Milk"
+        },
+        {
+            "id": "a002_279_0034",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}EnergyPowder"
+        },
+        {
+            "id": "a002_279_0035",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Energy Root"
+        },
+        {
+            "id": "a002_279_0036",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heal Powder"
+        },
+        {
+            "id": "a002_279_0037",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Revival Herb"
+        },
+        {
+            "id": "a002_279_0038",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ether"
+        },
+        {
+            "id": "a002_279_0039",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Max Ether"
+        },
+        {
+            "id": "a002_279_0040",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Elixir"
+        },
+        {
+            "id": "a002_279_0041",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Max Elixir"
+        },
+        {
+            "id": "a002_279_0042",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lava Cookie"
+        },
+        {
+            "id": "a002_279_0043",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Berry Juice"
+        },
+        {
+            "id": "a002_279_0044",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sacred Ash"
+        },
+        {
+            "id": "a002_279_0045",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HP Up"
+        },
+        {
+            "id": "a002_279_0046",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Protein"
+        },
+        {
+            "id": "a002_279_0047",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Iron"
+        },
+        {
+            "id": "a002_279_0048",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Carbos"
+        },
+        {
+            "id": "a002_279_0049",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Calcium"
+        },
+        {
+            "id": "a002_279_0050",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rare Candy"
+        },
+        {
+            "id": "a002_279_0051",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}PP Up"
+        },
+        {
+            "id": "a002_279_0052",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zinc"
+        },
+        {
+            "id": "a002_279_0053",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}PP Max"
+        },
+        {
+            "id": "a002_279_0054",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Old Gateau"
+        },
+        {
+            "id": "a002_279_0055",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Guard Spec."
+        },
+        {
+            "id": "a002_279_0056",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dire Hit"
+        },
+        {
+            "id": "a002_279_0057",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Attack"
+        },
+        {
+            "id": "a002_279_0058",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Defend"
+        },
+        {
+            "id": "a002_279_0059",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Speed"
+        },
+        {
+            "id": "a002_279_0060",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Accuracy"
+        },
+        {
+            "id": "a002_279_0061",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Special"
+        },
+        {
+            "id": "a002_279_0062",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Sp. Def"
+        },
+        {
+            "id": "a002_279_0063",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poké Doll"
+        },
+        {
+            "id": "a002_279_0064",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fluffy Tail"
+        },
+        {
+            "id": "a002_279_0065",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blue Flute"
+        },
+        {
+            "id": "a002_279_0066",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yellow Flute"
+        },
+        {
+            "id": "a002_279_0067",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Flute"
+        },
+        {
+            "id": "a002_279_0068",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Black Flute"
+        },
+        {
+            "id": "a002_279_0069",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}White Flute"
+        },
+        {
+            "id": "a002_279_0070",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shoal Salt"
+        },
+        {
+            "id": "a002_279_0071",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shoal Shell"
+        },
+        {
+            "id": "a002_279_0072",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Shard"
+        },
+        {
+            "id": "a002_279_0073",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blue Shard"
+        },
+        {
+            "id": "a002_279_0074",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yellow Shard"
+        },
+        {
+            "id": "a002_279_0075",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Green Shard"
+        },
+        {
+            "id": "a002_279_0076",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Super Repel"
+        },
+        {
+            "id": "a002_279_0077",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Max Repel"
+        },
+        {
+            "id": "a002_279_0078",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Escape Rope"
+        },
+        {
+            "id": "a002_279_0079",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Repel"
+        },
+        {
+            "id": "a002_279_0080",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sun Stone"
+        },
+        {
+            "id": "a002_279_0081",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Moon Stone"
+        },
+        {
+            "id": "a002_279_0082",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fire Stone"
+        },
+        {
+            "id": "a002_279_0083",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Thunderstone"
+        },
+        {
+            "id": "a002_279_0084",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Water Stone"
+        },
+        {
+            "id": "a002_279_0085",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Leaf Stone"
+        },
+        {
+            "id": "a002_279_0086",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TinyMushroom"
+        },
+        {
+            "id": "a002_279_0087",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Big Mushroom"
+        },
+        {
+            "id": "a002_279_0088",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pearl"
+        },
+        {
+            "id": "a002_279_0089",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Big Pearl"
+        },
+        {
+            "id": "a002_279_0090",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stardust"
+        },
+        {
+            "id": "a002_279_0091",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Star Piece"
+        },
+        {
+            "id": "a002_279_0092",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nugget"
+        },
+        {
+            "id": "a002_279_0093",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heart Scale"
+        },
+        {
+            "id": "a002_279_0094",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Honey"
+        },
+        {
+            "id": "a002_279_0095",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Growth Mulch"
+        },
+        {
+            "id": "a002_279_0096",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Damp Mulch"
+        },
+        {
+            "id": "a002_279_0097",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stable Mulch"
+        },
+        {
+            "id": "a002_279_0098",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gooey Mulch"
+        },
+        {
+            "id": "a002_279_0099",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Root Fossil"
+        },
+        {
+            "id": "a002_279_0100",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Claw Fossil"
+        },
+        {
+            "id": "a002_279_0101",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Helix Fossil"
+        },
+        {
+            "id": "a002_279_0102",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dome Fossil"
+        },
+        {
+            "id": "a002_279_0103",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Old Amber"
+        },
+        {
+            "id": "a002_279_0104",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Armor Fossil"
+        },
+        {
+            "id": "a002_279_0105",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Skull Fossil"
+        },
+        {
+            "id": "a002_279_0106",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rare Bone"
+        },
+        {
+            "id": "a002_279_0107",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shiny Stone"
+        },
+        {
+            "id": "a002_279_0108",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dusk Stone"
+        },
+        {
+            "id": "a002_279_0109",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dawn Stone"
+        },
+        {
+            "id": "a002_279_0110",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Oval Stone"
+        },
+        {
+            "id": "a002_279_0111",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Odd Keystone"
+        },
+        {
+            "id": "a002_279_0112",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Griseous Orb"
+        },
+        {
+            "id": "a002_279_0113",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0114",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0115",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0116",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Douse Drive"
+        },
+        {
+            "id": "a002_279_0117",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shock Drive"
+        },
+        {
+            "id": "a002_279_0118",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Burn Drive"
+        },
+        {
+            "id": "a002_279_0119",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chill Drive"
+        },
+        {
+            "id": "a002_279_0120",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0121",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0122",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0123",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0124",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0125",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0126",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0127",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0128",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0129",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0130",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0131",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0132",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0133",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0134",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sweet Heart"
+        },
+        {
+            "id": "a002_279_0135",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Adamant Orb"
+        },
+        {
+            "id": "a002_279_0136",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lustrous Orb"
+        },
+        {
+            "id": "a002_279_0137",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Greet Mail"
+        },
+        {
+            "id": "a002_279_0138",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Favored Mail"
+        },
+        {
+            "id": "a002_279_0139",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}RSVP Mail"
+        },
+        {
+            "id": "a002_279_0140",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Thanks Mail"
+        },
+        {
+            "id": "a002_279_0141",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Inquiry Mail"
+        },
+        {
+            "id": "a002_279_0142",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Like Mail"
+        },
+        {
+            "id": "a002_279_0143",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Reply Mail"
+        },
+        {
+            "id": "a002_279_0144",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BridgeMail S"
+        },
+        {
+            "id": "a002_279_0145",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BridgeMail D"
+        },
+        {
+            "id": "a002_279_0146",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BridgeMail T"
+        },
+        {
+            "id": "a002_279_0147",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BridgeMail V"
+        },
+        {
+            "id": "a002_279_0148",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BridgeMail M"
+        },
+        {
+            "id": "a002_279_0149",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cheri Berry"
+        },
+        {
+            "id": "a002_279_0150",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chesto Berry"
+        },
+        {
+            "id": "a002_279_0151",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pecha Berry"
+        },
+        {
+            "id": "a002_279_0152",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rawst Berry"
+        },
+        {
+            "id": "a002_279_0153",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aspear Berry"
+        },
+        {
+            "id": "a002_279_0154",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Leppa Berry"
+        },
+        {
+            "id": "a002_279_0155",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Oran Berry"
+        },
+        {
+            "id": "a002_279_0156",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Persim Berry"
+        },
+        {
+            "id": "a002_279_0157",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lum Berry"
+        },
+        {
+            "id": "a002_279_0158",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sitrus Berry"
+        },
+        {
+            "id": "a002_279_0159",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Figy Berry"
+        },
+        {
+            "id": "a002_279_0160",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wiki Berry"
+        },
+        {
+            "id": "a002_279_0161",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mago Berry"
+        },
+        {
+            "id": "a002_279_0162",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Aguav Berry"
+        },
+        {
+            "id": "a002_279_0163",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Iapapa Berry"
+        },
+        {
+            "id": "a002_279_0164",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Razz Berry"
+        },
+        {
+            "id": "a002_279_0165",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bluk Berry"
+        },
+        {
+            "id": "a002_279_0166",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nanab Berry"
+        },
+        {
+            "id": "a002_279_0167",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wepear Berry"
+        },
+        {
+            "id": "a002_279_0168",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pinap Berry"
+        },
+        {
+            "id": "a002_279_0169",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pomeg Berry"
+        },
+        {
+            "id": "a002_279_0170",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kelpsy Berry"
+        },
+        {
+            "id": "a002_279_0171",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Qualot Berry"
+        },
+        {
+            "id": "a002_279_0172",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hondew Berry"
+        },
+        {
+            "id": "a002_279_0173",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grepa Berry"
+        },
+        {
+            "id": "a002_279_0174",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tamato Berry"
+        },
+        {
+            "id": "a002_279_0175",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cornn Berry"
+        },
+        {
+            "id": "a002_279_0176",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magost Berry"
+        },
+        {
+            "id": "a002_279_0177",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rabuta Berry"
+        },
+        {
+            "id": "a002_279_0178",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Nomel Berry"
+        },
+        {
+            "id": "a002_279_0179",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spelon Berry"
+        },
+        {
+            "id": "a002_279_0180",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pamtre Berry"
+        },
+        {
+            "id": "a002_279_0181",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Watmel Berry"
+        },
+        {
+            "id": "a002_279_0182",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Durin Berry"
+        },
+        {
+            "id": "a002_279_0183",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Belue Berry"
+        },
+        {
+            "id": "a002_279_0184",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Occa Berry"
+        },
+        {
+            "id": "a002_279_0185",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Passho Berry"
+        },
+        {
+            "id": "a002_279_0186",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wacan Berry"
+        },
+        {
+            "id": "a002_279_0187",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rindo Berry"
+        },
+        {
+            "id": "a002_279_0188",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yache Berry"
+        },
+        {
+            "id": "a002_279_0189",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chople Berry"
+        },
+        {
+            "id": "a002_279_0190",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kebia Berry"
+        },
+        {
+            "id": "a002_279_0191",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shuca Berry"
+        },
+        {
+            "id": "a002_279_0192",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Coba Berry"
+        },
+        {
+            "id": "a002_279_0193",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Payapa Berry"
+        },
+        {
+            "id": "a002_279_0194",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tanga Berry"
+        },
+        {
+            "id": "a002_279_0195",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Charti Berry"
+        },
+        {
+            "id": "a002_279_0196",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Kasib Berry"
+        },
+        {
+            "id": "a002_279_0197",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Haban Berry"
+        },
+        {
+            "id": "a002_279_0198",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Colbur Berry"
+        },
+        {
+            "id": "a002_279_0199",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Babiri Berry"
+        },
+        {
+            "id": "a002_279_0200",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Chilan Berry"
+        },
+        {
+            "id": "a002_279_0201",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Liechi Berry"
+        },
+        {
+            "id": "a002_279_0202",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ganlon Berry"
+        },
+        {
+            "id": "a002_279_0203",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Salac Berry"
+        },
+        {
+            "id": "a002_279_0204",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Petaya Berry"
+        },
+        {
+            "id": "a002_279_0205",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Apicot Berry"
+        },
+        {
+            "id": "a002_279_0206",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lansat Berry"
+        },
+        {
+            "id": "a002_279_0207",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Starf Berry"
+        },
+        {
+            "id": "a002_279_0208",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Enigma Berry"
+        },
+        {
+            "id": "a002_279_0209",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Micle Berry"
+        },
+        {
+            "id": "a002_279_0210",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Custap Berry"
+        },
+        {
+            "id": "a002_279_0211",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jaboca Berry"
+        },
+        {
+            "id": "a002_279_0212",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rowap Berry"
+        },
+        {
+            "id": "a002_279_0213",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BrightPowder"
+        },
+        {
+            "id": "a002_279_0214",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}White Herb"
+        },
+        {
+            "id": "a002_279_0215",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Macho Brace"
+        },
+        {
+            "id": "a002_279_0216",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Exp. Share"
+        },
+        {
+            "id": "a002_279_0217",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Quick Claw"
+        },
+        {
+            "id": "a002_279_0218",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Soothe Bell"
+        },
+        {
+            "id": "a002_279_0219",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mental Herb"
+        },
+        {
+            "id": "a002_279_0220",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Choice Band"
+        },
+        {
+            "id": "a002_279_0221",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}King's Rock"
+        },
+        {
+            "id": "a002_279_0222",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}SilverPowder"
+        },
+        {
+            "id": "a002_279_0223",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Amulet Coin"
+        },
+        {
+            "id": "a002_279_0224",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cleanse Tag"
+        },
+        {
+            "id": "a002_279_0225",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Soul Dew"
+        },
+        {
+            "id": "a002_279_0226",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}DeepSeaTooth"
+        },
+        {
+            "id": "a002_279_0227",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}DeepSeaScale"
+        },
+        {
+            "id": "a002_279_0228",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Smoke Ball"
+        },
+        {
+            "id": "a002_279_0229",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Everstone"
+        },
+        {
+            "id": "a002_279_0230",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Focus Band"
+        },
+        {
+            "id": "a002_279_0231",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lucky Egg"
+        },
+        {
+            "id": "a002_279_0232",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Scope Lens"
+        },
+        {
+            "id": "a002_279_0233",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metal Coat"
+        },
+        {
+            "id": "a002_279_0234",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}Leftovers"
+        },
+        {
+            "id": "a002_279_0235",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragon Scale"
+        },
+        {
+            "id": "a002_279_0236",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Light Ball"
+        },
+        {
+            "id": "a002_279_0237",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Soft Sand"
+        },
+        {
+            "id": "a002_279_0238",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Hard Stone"
+        },
+        {
+            "id": "a002_279_0239",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Miracle Seed"
+        },
+        {
+            "id": "a002_279_0240",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}BlackGlasses"
+        },
+        {
+            "id": "a002_279_0241",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Black Belt"
+        },
+        {
+            "id": "a002_279_0242",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magnet"
+        },
+        {
+            "id": "a002_279_0243",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mystic Water"
+        },
+        {
+            "id": "a002_279_0244",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sharp Beak"
+        },
+        {
+            "id": "a002_279_0245",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poison Barb"
+        },
+        {
+            "id": "a002_279_0246",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}NeverMeltIce"
+        },
+        {
+            "id": "a002_279_0247",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spell Tag"
+        },
+        {
+            "id": "a002_279_0248",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TwistedSpoon"
+        },
+        {
+            "id": "a002_279_0249",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Charcoal"
+        },
+        {
+            "id": "a002_279_0250",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragon Fang"
+        },
+        {
+            "id": "a002_279_0251",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Silk Scarf"
+        },
+        {
+            "id": "a002_279_0252",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Up-Grade"
+        },
+        {
+            "id": "a002_279_0253",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shell Bell"
+        },
+        {
+            "id": "a002_279_0254",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sea Incense"
+        },
+        {
+            "id": "a002_279_0255",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lax Incense"
+        },
+        {
+            "id": "a002_279_0256",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lucky Punch"
+        },
+        {
+            "id": "a002_279_0257",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metal Powder"
+        },
+        {
+            "id": "a002_279_0258",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Thick Club"
+        },
+        {
+            "id": "a002_279_0259",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stick"
+        },
+        {
+            "id": "a002_279_0260",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Scarf"
+        },
+        {
+            "id": "a002_279_0261",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blue Scarf"
+        },
+        {
+            "id": "a002_279_0262",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pink Scarf"
+        },
+        {
+            "id": "a002_279_0263",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Green Scarf"
+        },
+        {
+            "id": "a002_279_0264",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Yellow Scarf"
+        },
+        {
+            "id": "a002_279_0265",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wide Lens"
+        },
+        {
+            "id": "a002_279_0266",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Muscle Band"
+        },
+        {
+            "id": "a002_279_0267",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}Wise Glasses"
+        },
+        {
+            "id": "a002_279_0268",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Expert Belt"
+        },
+        {
+            "id": "a002_279_0269",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Light Clay"
+        },
+        {
+            "id": "a002_279_0270",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Life Orb"
+        },
+        {
+            "id": "a002_279_0271",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Herb"
+        },
+        {
+            "id": "a002_279_0272",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Toxic Orb"
+        },
+        {
+            "id": "a002_279_0273",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flame Orb"
+        },
+        {
+            "id": "a002_279_0274",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Quick Powder"
+        },
+        {
+            "id": "a002_279_0275",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Focus Sash"
+        },
+        {
+            "id": "a002_279_0276",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zoom Lens"
+        },
+        {
+            "id": "a002_279_0277",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Metronome"
+        },
+        {
+            "id": "a002_279_0278",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Iron Ball"
+        },
+        {
+            "id": "a002_279_0279",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lagging Tail"
+        },
+        {
+            "id": "a002_279_0280",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Destiny Knot"
+        },
+        {
+            "id": "a002_279_0281",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Black Sludge"
+        },
+        {
+            "id": "a002_279_0282",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Icy Rock"
+        },
+        {
+            "id": "a002_279_0283",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Smooth Rock"
+        },
+        {
+            "id": "a002_279_0284",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heat Rock"
+        },
+        {
+            "id": "a002_279_0285",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Damp Rock"
+        },
+        {
+            "id": "a002_279_0286",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grip Claw"
+        },
+        {
+            "id": "a002_279_0287",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Choice Scarf"
+        },
+        {
+            "id": "a002_279_0288",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sticky Barb"
+        },
+        {
+            "id": "a002_279_0289",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Bracer"
+        },
+        {
+            "id": "a002_279_0290",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Belt"
+        },
+        {
+            "id": "a002_279_0291",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Lens"
+        },
+        {
+            "id": "a002_279_0292",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Band"
+        },
+        {
+            "id": "a002_279_0293",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Anklet"
+        },
+        {
+            "id": "a002_279_0294",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Power Weight"
+        },
+        {
+            "id": "a002_279_0295",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Shed Shell"
+        },
+        {
+            "id": "a002_279_0296",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Big Root"
+        },
+        {
+            "id": "a002_279_0297",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}Choice Specs"
+        },
+        {
+            "id": "a002_279_0298",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flame Plate"
+        },
+        {
+            "id": "a002_279_0299",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Splash Plate"
+        },
+        {
+            "id": "a002_279_0300",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Zap Plate"
+        },
+        {
+            "id": "a002_279_0301",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Meadow Plate"
+        },
+        {
+            "id": "a002_279_0302",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Icicle Plate"
+        },
+        {
+            "id": "a002_279_0303",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fist Plate"
+        },
+        {
+            "id": "a002_279_0304",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Toxic Plate"
+        },
+        {
+            "id": "a002_279_0305",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Earth Plate"
+        },
+        {
+            "id": "a002_279_0306",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sky Plate"
+        },
+        {
+            "id": "a002_279_0307",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mind Plate"
+        },
+        {
+            "id": "a002_279_0308",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Insect Plate"
+        },
+        {
+            "id": "a002_279_0309",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Stone Plate"
+        },
+        {
+            "id": "a002_279_0310",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Spooky Plate"
+        },
+        {
+            "id": "a002_279_0311",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Draco Plate"
+        },
+        {
+            "id": "a002_279_0312",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dread Plate"
+        },
+        {
+            "id": "a002_279_0313",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Iron Plate"
+        },
+        {
+            "id": "a002_279_0314",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Odd Incense"
+        },
+        {
+            "id": "a002_279_0315",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rock Incense"
+        },
+        {
+            "id": "a002_279_0316",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Full Incense"
+        },
+        {
+            "id": "a002_279_0317",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wave Incense"
+        },
+        {
+            "id": "a002_279_0318",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rose Incense"
+        },
+        {
+            "id": "a002_279_0319",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Luck Incense"
+        },
+        {
+            "id": "a002_279_0320",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pure Incense"
+        },
+        {
+            "id": "a002_279_0321",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Protector"
+        },
+        {
+            "id": "a002_279_0322",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electirizer"
+        },
+        {
+            "id": "a002_279_0323",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magmarizer"
+        },
+        {
+            "id": "a002_279_0324",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dubious Disc"
+        },
+        {
+            "id": "a002_279_0325",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Reaper Cloth"
+        },
+        {
+            "id": "a002_279_0326",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Razor Claw"
+        },
+        {
+            "id": "a002_279_0327",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Razor Fang"
+        },
+        {
+            "id": "a002_279_0328",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM01"
+        },
+        {
+            "id": "a002_279_0329",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM02"
+        },
+        {
+            "id": "a002_279_0330",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM03"
+        },
+        {
+            "id": "a002_279_0331",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM04"
+        },
+        {
+            "id": "a002_279_0332",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM05"
+        },
+        {
+            "id": "a002_279_0333",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM06"
+        },
+        {
+            "id": "a002_279_0334",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM07"
+        },
+        {
+            "id": "a002_279_0335",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM08"
+        },
+        {
+            "id": "a002_279_0336",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM09"
+        },
+        {
+            "id": "a002_279_0337",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM10"
+        },
+        {
+            "id": "a002_279_0338",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM11"
+        },
+        {
+            "id": "a002_279_0339",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM12"
+        },
+        {
+            "id": "a002_279_0340",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM13"
+        },
+        {
+            "id": "a002_279_0341",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM14"
+        },
+        {
+            "id": "a002_279_0342",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM15"
+        },
+        {
+            "id": "a002_279_0343",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM16"
+        },
+        {
+            "id": "a002_279_0344",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM17"
+        },
+        {
+            "id": "a002_279_0345",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM18"
+        },
+        {
+            "id": "a002_279_0346",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM19"
+        },
+        {
+            "id": "a002_279_0347",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM20"
+        },
+        {
+            "id": "a002_279_0348",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM21"
+        },
+        {
+            "id": "a002_279_0349",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM22"
+        },
+        {
+            "id": "a002_279_0350",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM23"
+        },
+        {
+            "id": "a002_279_0351",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM24"
+        },
+        {
+            "id": "a002_279_0352",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM25"
+        },
+        {
+            "id": "a002_279_0353",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM26"
+        },
+        {
+            "id": "a002_279_0354",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM27"
+        },
+        {
+            "id": "a002_279_0355",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM28"
+        },
+        {
+            "id": "a002_279_0356",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM29"
+        },
+        {
+            "id": "a002_279_0357",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM30"
+        },
+        {
+            "id": "a002_279_0358",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM31"
+        },
+        {
+            "id": "a002_279_0359",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM32"
+        },
+        {
+            "id": "a002_279_0360",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM33"
+        },
+        {
+            "id": "a002_279_0361",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM34"
+        },
+        {
+            "id": "a002_279_0362",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM35"
+        },
+        {
+            "id": "a002_279_0363",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM36"
+        },
+        {
+            "id": "a002_279_0364",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM37"
+        },
+        {
+            "id": "a002_279_0365",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM38"
+        },
+        {
+            "id": "a002_279_0366",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM39"
+        },
+        {
+            "id": "a002_279_0367",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM40"
+        },
+        {
+            "id": "a002_279_0368",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM41"
+        },
+        {
+            "id": "a002_279_0369",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM42"
+        },
+        {
+            "id": "a002_279_0370",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM43"
+        },
+        {
+            "id": "a002_279_0371",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM44"
+        },
+        {
+            "id": "a002_279_0372",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM45"
+        },
+        {
+            "id": "a002_279_0373",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM46"
+        },
+        {
+            "id": "a002_279_0374",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM47"
+        },
+        {
+            "id": "a002_279_0375",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM48"
+        },
+        {
+            "id": "a002_279_0376",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM49"
+        },
+        {
+            "id": "a002_279_0377",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM50"
+        },
+        {
+            "id": "a002_279_0378",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM51"
+        },
+        {
+            "id": "a002_279_0379",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM52"
+        },
+        {
+            "id": "a002_279_0380",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM53"
+        },
+        {
+            "id": "a002_279_0381",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM54"
+        },
+        {
+            "id": "a002_279_0382",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM55"
+        },
+        {
+            "id": "a002_279_0383",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM56"
+        },
+        {
+            "id": "a002_279_0384",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM57"
+        },
+        {
+            "id": "a002_279_0385",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM58"
+        },
+        {
+            "id": "a002_279_0386",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM59"
+        },
+        {
+            "id": "a002_279_0387",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM60"
+        },
+        {
+            "id": "a002_279_0388",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM61"
+        },
+        {
+            "id": "a002_279_0389",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM62"
+        },
+        {
+            "id": "a002_279_0390",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM63"
+        },
+        {
+            "id": "a002_279_0391",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM64"
+        },
+        {
+            "id": "a002_279_0392",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM65"
+        },
+        {
+            "id": "a002_279_0393",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM66"
+        },
+        {
+            "id": "a002_279_0394",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM67"
+        },
+        {
+            "id": "a002_279_0395",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM68"
+        },
+        {
+            "id": "a002_279_0396",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM69"
+        },
+        {
+            "id": "a002_279_0397",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM70"
+        },
+        {
+            "id": "a002_279_0398",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM71"
+        },
+        {
+            "id": "a002_279_0399",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM72"
+        },
+        {
+            "id": "a002_279_0400",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM73"
+        },
+        {
+            "id": "a002_279_0401",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM74"
+        },
+        {
+            "id": "a002_279_0402",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM75"
+        },
+        {
+            "id": "a002_279_0403",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM76"
+        },
+        {
+            "id": "a002_279_0404",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM77"
+        },
+        {
+            "id": "a002_279_0405",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM78"
+        },
+        {
+            "id": "a002_279_0406",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM79"
+        },
+        {
+            "id": "a002_279_0407",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM80"
+        },
+        {
+            "id": "a002_279_0408",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM81"
+        },
+        {
+            "id": "a002_279_0409",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM82"
+        },
+        {
+            "id": "a002_279_0410",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM83"
+        },
+        {
+            "id": "a002_279_0411",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM84"
+        },
+        {
+            "id": "a002_279_0412",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM85"
+        },
+        {
+            "id": "a002_279_0413",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM86"
+        },
+        {
+            "id": "a002_279_0414",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM87"
+        },
+        {
+            "id": "a002_279_0415",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM88"
+        },
+        {
+            "id": "a002_279_0416",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM89"
+        },
+        {
+            "id": "a002_279_0417",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM90"
+        },
+        {
+            "id": "a002_279_0418",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM91"
+        },
+        {
+            "id": "a002_279_0419",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM92"
+        },
+        {
+            "id": "a002_279_0420",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM01"
+        },
+        {
+            "id": "a002_279_0421",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM02"
+        },
+        {
+            "id": "a002_279_0422",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM03"
+        },
+        {
+            "id": "a002_279_0423",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM04"
+        },
+        {
+            "id": "a002_279_0424",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM05"
+        },
+        {
+            "id": "a002_279_0425",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}HM06"
+        },
+        {
+            "id": "a002_279_0426",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0427",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_279_0428",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Explorer Kit"
+        },
+        {
+            "id": "a002_279_0429",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Loot Sack"
+        },
+        {
+            "id": "a002_279_0430",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rule Book"
+        },
+        {
+            "id": "a002_279_0431",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poké Radar"
+        },
+        {
+            "id": "a002_279_0432",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Point Card"
+        },
+        {
+            "id": "a002_279_0433",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Journal"
+        },
+        {
+            "id": "a002_279_0434",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seal Case"
+        },
+        {
+            "id": "a002_279_0435",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fashion Case"
+        },
+        {
+            "id": "a002_279_0436",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Seal Bag"
+        },
+        {
+            "id": "a002_279_0437",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pal Pad"
+        },
+        {
+            "id": "a002_279_0438",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Works Key"
+        },
+        {
+            "id": "a002_279_0439",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Old Charm"
+        },
+        {
+            "id": "a002_279_0440",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Galactic Key"
+        },
+        {
+            "id": "a002_279_0441",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Chain"
+        },
+        {
+            "id": "a002_279_0442",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Town Map"
+        },
+        {
+            "id": "a002_279_0443",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vs. Seeker"
+        },
+        {
+            "id": "a002_279_0444",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Coin Case"
+        },
+        {
+            "id": "a002_279_0445",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Old Rod"
+        },
+        {
+            "id": "a002_279_0446",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Good Rod"
+        },
+        {
+            "id": "a002_279_0447",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Super Rod"
+        },
+        {
+            "id": "a002_279_0448",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sprayduck"
+        },
+        {
+            "id": "a002_279_0449",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poffin Case"
+        },
+        {
+            "id": "a002_279_0450",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bicycle"
+        },
+        {
+            "id": "a002_279_0451",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Suite Key"
+        },
+        {
+            "id": "a002_279_0452",
+            "en_US": "Oak's Letter"
+        },
+        {
+            "id": "a002_279_0453",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lunar Wing"
+        },
+        {
+            "id": "a002_279_0454",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Member Card"
+        },
+        {
+            "id": "a002_279_0455",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Azure Flute"
+        },
+        {
+            "id": "a002_279_0456",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}S.S. Ticket"
+        },
+        {
+            "id": "a002_279_0457",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Contest Pass"
+        },
+        {
+            "id": "a002_279_0458",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Magma Stone"
+        },
+        {
+            "id": "a002_279_0459",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Parcel"
+        },
+        {
+            "id": "a002_279_0460",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Coupon 1"
+        },
+        {
+            "id": "a002_279_0461",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Coupon 2"
+        },
+        {
+            "id": "a002_279_0462",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Coupon 3"
+        },
+        {
+            "id": "a002_279_0463",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Storage Key"
+        },
+        {
+            "id": "a002_279_0464",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}SecretPotion"
+        },
+        {
+            "id": "a002_279_0465",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Vs. Recorder"
+        },
+        {
+            "id": "a002_279_0466",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gracidea"
+        },
+        {
+            "id": "a002_279_0467",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Secret Key"
+        },
+        {
+            "id": "a002_279_0468",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Apricorn Box"
+        },
+        {
+            "id": "a002_279_0469",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Unown Report"
+        },
+        {
+            "id": "a002_279_0470",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}Berry Pots"
+        },
+        {
+            "id": "a002_279_0471",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dowsing MCHN"
+        },
+        {
+            "id": "a002_279_0472",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blue Card"
+        },
+        {
+            "id": "a002_279_0473",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}SlowpokeTail"
+        },
+        {
+            "id": "a002_279_0474",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Clear Bell"
+        },
+        {
+            "id": "a002_279_0475",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Card Key"
+        },
+        {
+            "id": "a002_279_0476",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Basement Key"
+        },
+        {
+            "id": "a002_279_0477",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}SquirtBottle"
+        },
+        {
+            "id": "a002_279_0478",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Scale"
+        },
+        {
+            "id": "a002_279_0479",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lost Item"
+        },
+        {
+            "id": "a002_279_0480",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pass"
+        },
+        {
+            "id": "a002_279_0481",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Machine Part"
+        },
+        {
+            "id": "a002_279_0482",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Silver Wing"
+        },
+        {
+            "id": "a002_279_0483",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rainbow Wing"
+        },
+        {
+            "id": "a002_279_0484",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Mystery Egg"
+        },
+        {
+            "id": "a002_279_0485",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Apricorn"
+        },
+        {
+            "id": "a002_279_0486",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blu Apricorn"
+        },
+        {
+            "id": "a002_279_0487",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ylw Apricorn"
+        },
+        {
+            "id": "a002_279_0488",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grn Apricorn"
+        },
+        {
+            "id": "a002_279_0489",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pnk Apricorn"
+        },
+        {
+            "id": "a002_279_0490",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Wht Apricorn"
+        },
+        {
+            "id": "a002_279_0491",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blk Apricorn"
+        },
+        {
+            "id": "a002_279_0492",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fast Ball"
+        },
+        {
+            "id": "a002_279_0493",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Level Ball"
+        },
+        {
+            "id": "a002_279_0494",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lure Ball"
+        },
+        {
+            "id": "a002_279_0495",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Heavy Ball"
+        },
+        {
+            "id": "a002_279_0496",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Love Ball"
+        },
+        {
+            "id": "a002_279_0497",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Friend Ball"
+        },
+        {
+            "id": "a002_279_0498",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Moon Ball"
+        },
+        {
+            "id": "a002_279_0499",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Sport Ball"
+        },
+        {
+            "id": "a002_279_0500",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Park Ball"
+        },
+        {
+            "id": "a002_279_0501",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Photo Album"
+        },
+        {
+            "id": "a002_279_0502",
+            "en_US": "{VAR BD01}the {VAR FF00 00FF}GB Sounds"
+        },
+        {
+            "id": "a002_279_0503",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Tidal Bell"
+        },
+        {
+            "id": "a002_279_0504",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}RageCandyBar"
+        },
+        {
+            "id": "a002_279_0505",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 01"
+        },
+        {
+            "id": "a002_279_0506",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 02"
+        },
+        {
+            "id": "a002_279_0507",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 03"
+        },
+        {
+            "id": "a002_279_0508",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 04"
+        },
+        {
+            "id": "a002_279_0509",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 05"
+        },
+        {
+            "id": "a002_279_0510",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 06"
+        },
+        {
+            "id": "a002_279_0511",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 07"
+        },
+        {
+            "id": "a002_279_0512",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 08"
+        },
+        {
+            "id": "a002_279_0513",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 09"
+        },
+        {
+            "id": "a002_279_0514",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 10"
+        },
+        {
+            "id": "a002_279_0515",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 11"
+        },
+        {
+            "id": "a002_279_0516",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 12"
+        },
+        {
+            "id": "a002_279_0517",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 13"
+        },
+        {
+            "id": "a002_279_0518",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 14"
+        },
+        {
+            "id": "a002_279_0519",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 15"
+        },
+        {
+            "id": "a002_279_0520",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 16"
+        },
+        {
+            "id": "a002_279_0521",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 17"
+        },
+        {
+            "id": "a002_279_0522",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 18"
+        },
+        {
+            "id": "a002_279_0523",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 19"
+        },
+        {
+            "id": "a002_279_0524",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 20"
+        },
+        {
+            "id": "a002_279_0525",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 21"
+        },
+        {
+            "id": "a002_279_0526",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 22"
+        },
+        {
+            "id": "a002_279_0527",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 23"
+        },
+        {
+            "id": "a002_279_0528",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 24"
+        },
+        {
+            "id": "a002_279_0529",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 25"
+        },
+        {
+            "id": "a002_279_0530",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 26"
+        },
+        {
+            "id": "a002_279_0531",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Data Card 27"
+        },
+        {
+            "id": "a002_279_0532",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Jade Orb"
+        },
+        {
+            "id": "a002_279_0533",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Lock Capsule"
+        },
+        {
+            "id": "a002_279_0534",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Orb"
+        },
+        {
+            "id": "a002_279_0535",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Blue Orb"
+        },
+        {
+            "id": "a002_279_0536",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Enigma Stone"
+        },
+        {
+            "id": "a002_279_0537",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Prism Scale"
+        },
+        {
+            "id": "a002_279_0538",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Eviolite"
+        },
+        {
+            "id": "a002_279_0539",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Float Stone"
+        },
+        {
+            "id": "a002_279_0540",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rocky Helmet"
+        },
+        {
+            "id": "a002_279_0541",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Air Balloon"
+        },
+        {
+            "id": "a002_279_0542",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Red Card"
+        },
+        {
+            "id": "a002_279_0543",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ring Target"
+        },
+        {
+            "id": "a002_279_0544",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Binding Band"
+        },
+        {
+            "id": "a002_279_0545",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Absorb Bulb"
+        },
+        {
+            "id": "a002_279_0546",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cell Battery"
+        },
+        {
+            "id": "a002_279_0547",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Eject Button"
+        },
+        {
+            "id": "a002_279_0548",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fire Gem"
+        },
+        {
+            "id": "a002_279_0549",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Water Gem"
+        },
+        {
+            "id": "a002_279_0550",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Electric Gem"
+        },
+        {
+            "id": "a002_279_0551",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Grass Gem"
+        },
+        {
+            "id": "a002_279_0552",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ice Gem"
+        },
+        {
+            "id": "a002_279_0553",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Fighting Gem"
+        },
+        {
+            "id": "a002_279_0554",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poison Gem"
+        },
+        {
+            "id": "a002_279_0555",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ground Gem"
+        },
+        {
+            "id": "a002_279_0556",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Flying Gem"
+        },
+        {
+            "id": "a002_279_0557",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Psychic Gem"
+        },
+        {
+            "id": "a002_279_0558",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Bug Gem"
+        },
+        {
+            "id": "a002_279_0559",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Rock Gem"
+        },
+        {
+            "id": "a002_279_0560",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Ghost Gem"
+        },
+        {
+            "id": "a002_279_0561",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragon Gem"
+        },
+        {
+            "id": "a002_279_0562",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dark Gem"
+        },
+        {
+            "id": "a002_279_0563",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Steel Gem"
+        },
+        {
+            "id": "a002_279_0564",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Normal Gem"
+        },
+        {
+            "id": "a002_279_0565",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Health Wing"
+        },
+        {
+            "id": "a002_279_0566",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Muscle Wing"
+        },
+        {
+            "id": "a002_279_0567",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Resist Wing"
+        },
+        {
+            "id": "a002_279_0568",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Genius Wing"
+        },
+        {
+            "id": "a002_279_0569",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Clever Wing"
+        },
+        {
+            "id": "a002_279_0570",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Swift Wing"
+        },
+        {
+            "id": "a002_279_0571",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pretty Wing"
+        },
+        {
+            "id": "a002_279_0572",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Cover Fossil"
+        },
+        {
+            "id": "a002_279_0573",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Plume Fossil"
+        },
+        {
+            "id": "a002_279_0574",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Liberty Pass"
+        },
+        {
+            "id": "a002_279_0575",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pass Orb"
+        },
+        {
+            "id": "a002_279_0576",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dream Ball"
+        },
+        {
+            "id": "a002_279_0577",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Poké Toy"
+        },
+        {
+            "id": "a002_279_0578",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Prop Case"
+        },
+        {
+            "id": "a002_279_0579",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dragon Skull"
+        },
+        {
+            "id": "a002_279_0580",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}BalmMushroom"
+        },
+        {
+            "id": "a002_279_0581",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Big Nugget"
+        },
+        {
+            "id": "a002_279_0582",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Pearl String"
+        },
+        {
+            "id": "a002_279_0583",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Comet Shard"
+        },
+        {
+            "id": "a002_279_0584",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Copper"
+        },
+        {
+            "id": "a002_279_0585",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Silver"
+        },
+        {
+            "id": "a002_279_0586",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Gold"
+        },
+        {
+            "id": "a002_279_0587",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Vase"
+        },
+        {
+            "id": "a002_279_0588",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Band"
+        },
+        {
+            "id": "a002_279_0589",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Statue"
+        },
+        {
+            "id": "a002_279_0590",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Relic Crown"
+        },
+        {
+            "id": "a002_279_0591",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Casteliacone"
+        },
+        {
+            "id": "a002_279_0592",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dire Hit 2"
+        },
+        {
+            "id": "a002_279_0593",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Speed 2"
+        },
+        {
+            "id": "a002_279_0594",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Special 2"
+        },
+        {
+            "id": "a002_279_0595",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Sp. Def 2"
+        },
+        {
+            "id": "a002_279_0596",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Defend 2"
+        },
+        {
+            "id": "a002_279_0597",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Attack 2"
+        },
+        {
+            "id": "a002_279_0598",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Accuracy 2"
+        },
+        {
+            "id": "a002_279_0599",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Speed 3"
+        },
+        {
+            "id": "a002_279_0600",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Special 3"
+        },
+        {
+            "id": "a002_279_0601",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Sp. Def 3"
+        },
+        {
+            "id": "a002_279_0602",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Defend 3"
+        },
+        {
+            "id": "a002_279_0603",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Attack 3"
+        },
+        {
+            "id": "a002_279_0604",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Accuracy 3"
+        },
+        {
+            "id": "a002_279_0605",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Speed 6"
+        },
+        {
+            "id": "a002_279_0606",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Special 6"
+        },
+        {
+            "id": "a002_279_0607",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Sp. Def 6"
+        },
+        {
+            "id": "a002_279_0608",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Defend 6"
+        },
+        {
+            "id": "a002_279_0609",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Attack 6"
+        },
+        {
+            "id": "a002_279_0610",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}X Accuracy 6"
+        },
+        {
+            "id": "a002_279_0611",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Ability Urge"
+        },
+        {
+            "id": "a002_279_0612",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Item Drop"
+        },
+        {
+            "id": "a002_279_0613",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Item Urge"
+        },
+        {
+            "id": "a002_279_0614",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Reset Urge"
+        },
+        {
+            "id": "a002_279_0615",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dire Hit 3"
+        },
+        {
+            "id": "a002_279_0616",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Light Stone"
+        },
+        {
+            "id": "a002_279_0617",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Dark Stone"
+        },
+        {
+            "id": "a002_279_0618",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM93"
+        },
+        {
+            "id": "a002_279_0619",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM94"
+        },
+        {
+            "id": "a002_279_0620",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}TM95"
+        },
+        {
+            "id": "a002_279_0621",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Xtransceiver"
+        },
+        {
+            "id": "a002_279_0622",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}???"
+        },
+        {
+            "id": "a002_279_0623",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gram 1"
+        },
+        {
+            "id": "a002_279_0624",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gram 2"
+        },
+        {
+            "id": "a002_279_0625",
+            "en_US": "{VAR BD01}a {VAR FF00 00FF}Gram 3"
+        },
+        {
+            "id": "a002_279_0626",
+            "en_US": "{VAR BD01}an {VAR FF00 00FF}Xtransceiver"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "pad": "c2c2",
+    "messages": [
+        {
+            "id": "a002_057_0000",
+            "en_US": "SUCCESSIVE TRAINERS",
+            "flags": 192
+        },
+        {
+            "id": "a002_057_0001",
+            "en_US": "Rank {VAR 0201 0000}",
+            "flags": 80
+        },
+        {
+            "id": "a002_057_0002",
+            "en_US": "Train Number {VAR 0202 0001}",
+            "flags": 136
+        },
+        {
+            "id": "a002_057_0003",
+            "en_US": "LOCATION"
+        },
+        {
+            "id": "a002_057_0004",
+            "en_US": "{VAR 0124 0002}"
+        },
+        {
+            "id": "a002_057_0005",
+            "en_US": "{VAR 0125 0003}"
+        },
+        {
+            "id": "a002_057_0006",
+            "en_US": "TRAINER'S QUOTE",
+            "flags": 128
+        }
+    ]
+}

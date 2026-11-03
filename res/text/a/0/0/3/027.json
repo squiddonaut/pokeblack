@@ -1,0 +1,47 @@
+{
+    "flags": 224,
+    "pad": "f4f4",
+    "messages": [
+        {
+            "id": "a003_027_0000",
+            "en_US": [
+                "I play the guitar and have\n",
+                "Pokémon battles every day.{VAR BE01}\n",
+                "I keep doing that 'cause I enjoy it!"
+            ]
+        },
+        {
+            "id": "a003_027_0001",
+            "en_US": [
+                "Even the same kind of Pokémon can have\n",
+                "different natures!"
+            ]
+        },
+        {
+            "id": "a003_027_0002",
+            "en_US": [
+                "I am a poet...\n",
+                "I write poems.{VAR BE01}\n",
+                "Every day, I stretch my imagination and\n",
+                "devote myself to my creative activity.{VAR BE01}\n",
+                "People dream when sleeping, but if a\n",
+                "Pokémon dreams...{VAR BE01}\n",
+                "I cannot even imagine how it is..."
+            ]
+        },
+        {
+            "id": "a003_027_0003",
+            "en_US": [
+                "I am a poet...\n",
+                "I write poems.{VAR BE01}\n",
+                "Every day, I stretch my imagination and\n",
+                "devote myself to my creative activity.{VAR BE01}\n",
+                "People dream when sleeping, but\n",
+                "if a Pokémon dreams...{VAR BE01}\n",
+                "Just thinking about it fuels\n",
+                "my imagination.{VAR BE01}\n",
+                "Pokémon probably enjoy sleeping, too!"
+            ]
+        }
+    ]
+}

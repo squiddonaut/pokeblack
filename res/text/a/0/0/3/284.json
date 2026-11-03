@@ -1,0 +1,182 @@
+{
+    "flags": 224,
+    "pad": "7474",
+    "messages": [
+        {
+            "id": "a003_284_0000",
+            "en_US": [
+                "You can call me the Judge.{VAR BE01}\n",
+                "Heh heh, that's actually not my real\n",
+                "name, but it's what everyone calls me.{VAR BE01}\n",
+                "It's because of this weird power I have.\n",
+                "It's a gift, really.{VAR BE01}\n",
+                "I can discern--judge, you might say--the\n",
+                "overall potential of individual Pokémon.{VAR BE01}\n",
+                "If you'd like, I could judge the\n",
+                "intriguing potential of your Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0001",
+            "en_US": [
+                "If you'd like, I could judge the\n",
+                "intriguing potential of your Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0002",
+            "en_US": [
+                "...Oh?\n",
+                "You don't need me to judge. I get it."
+            ]
+        },
+        {
+            "id": "a003_284_0003",
+            "en_US": [
+                "Judge an Egg?!\n",
+                "That's a tall order even for me!"
+            ]
+        },
+        {
+            "id": "a003_284_0004",
+            "en_US": [
+                "I see, I see...{VAR BE01}\n",
+                "This Pokémon's potential is\n",
+                "decent all around.{VAR BE01}\n",
+                "That's my determination, and it's final.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0005",
+            "en_US": [
+                "I see, I see...{VAR BE01}\n",
+                "This Pokémon's potential is\n",
+                "above average overall.{VAR BE01}\n",
+                "That's my determination, and it's final.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0006",
+            "en_US": [
+                "I see, I see...{VAR BE01}\n",
+                "This Pokémon has\n",
+                "relatively superior potential overall.{VAR BE01}\n",
+                "That's my determination, and it's final.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0007",
+            "en_US": [
+                "I see, I see...{VAR BE01}\n",
+                "This Pokémon has\n",
+                "outstanding potential overall.{VAR BE01}\n",
+                "That's my determination, and it's final.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0008",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its HP.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0009",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its Attack stat.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0010",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its Defense stat.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0011",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its Sp. Atk stat.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0012",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its Sp. Def stat.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0013",
+            "en_US": [
+                "Incidentally, I would say the best\n",
+                "potential lies in its Speed stat.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0014",
+            "en_US": [
+                "And its Attack stat\n",
+                "is also good.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0015",
+            "en_US": [
+                "I see. Its Defense stat\n",
+                "is also good.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0016",
+            "en_US": [
+                "Its Sp. Atk stat\n",
+                "is equally good.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0017",
+            "en_US": [
+                "Its Sp. Def stat\n",
+                "is good as well.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0018",
+            "en_US": [
+                "Well, its Speed stat\n",
+                "is also good.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_284_0019",
+            "en_US": [
+                "It's rather decent in that regard.\n",
+                "That's how I judged it."
+            ]
+        },
+        {
+            "id": "a003_284_0020",
+            "en_US": [
+                "It's very good in that regard.\n",
+                "That's how I judged it."
+            ]
+        },
+        {
+            "id": "a003_284_0021",
+            "en_US": [
+                "It's fantastic in that regard.\n",
+                "That's how I judged it."
+            ]
+        },
+        {
+            "id": "a003_284_0022",
+            "en_US": [
+                "It can't be better in that regard.\n",
+                "That's how I judged it."
+            ]
+        }
+    ]
+}

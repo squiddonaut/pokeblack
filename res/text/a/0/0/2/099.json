@@ -1,0 +1,140 @@
+{
+    "flags": 205,
+    "pad": "4646",
+    "messages": [
+        {
+            "id": "a002_099_0000",
+            "en_US": [
+                "I win!\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_099_0001",
+            "en_US": [
+                "I owe my victory\n",
+                "to {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_099_0002",
+            "en_US": [
+                "{VAR 011C 0000} is strong,\n",
+                "isn't it?"
+            ]
+        },
+        {
+            "id": "a002_099_0003",
+            "en_US": [
+                "It's {VAR 011C 0000}\n",
+                "{VAR 011C 0001} after all!"
+            ]
+        },
+        {
+            "id": "a002_099_0004",
+            "en_US": [
+                "When it comes to {VAR 011C 0000},\n",
+                "my choice is always {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_099_0005",
+            "en_US": [
+                "Victory in a\n",
+                "{VAR 011C 0000} battle!"
+            ]
+        },
+        {
+            "id": "a002_099_0006",
+            "en_US": [
+                "Yay, {VAR 011C 0000}!\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_099_0007",
+            "en_US": [
+                "Sorry, it's {VAR 011C 0000}\n",
+                "{VAR 011C 0001}."
+            ]
+        },
+        {
+            "id": "a002_099_0008",
+            "en_US": [
+                "{VAR 011C 0000}!\n",
+                "Thank you!"
+            ]
+        },
+        {
+            "id": "a002_099_0009",
+            "en_US": [
+                "The way I feel now is\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_099_0010",
+            "en_US": [
+                "{VAR 011C 0000} sure is\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_099_0011",
+            "en_US": [
+                "It's all thanks to\n",
+                "{VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_099_0012",
+            "en_US": "{VAR 011C 0000} is the toughest!"
+        },
+        {
+            "id": "a002_099_0013",
+            "en_US": [
+                "{VAR 011C 0000}?\n",
+                "Wow, I'm so glad!"
+            ]
+        },
+        {
+            "id": "a002_099_0014",
+            "en_US": [
+                "{VAR 011C 0000}?\n",
+                "That sounds good!"
+            ]
+        },
+        {
+            "id": "a002_099_0015",
+            "en_US": [
+                "I have no trouble\n",
+                "dealing with {VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_099_0016",
+            "en_US": "{VAR 011C 0000} is so much fun."
+        },
+        {
+            "id": "a002_099_0017",
+            "en_US": [
+                "Huh?\n",
+                "{VAR 011C 0000}?!"
+            ]
+        },
+        {
+            "id": "a002_099_0018",
+            "en_US": [
+                "The power of {VAR 011C 0000}\n",
+                "is awesome!"
+            ]
+        },
+        {
+            "id": "a002_099_0019",
+            "en_US": [
+                "Everyone!\n",
+                "{VAR 011C 0000}!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Helping Hand",
+    "description": [
+        "The user assists an ally by boosting\n",
+        "the power of its attack."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 20,
+    "priority": 5,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 176,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_ALLY",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_BYPASSES_SUBSTITUTE"]
+}

@@ -1,0 +1,88 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_200_0000",
+            "en_US": [
+                "Cheren: Well... Still.{VAR BE01}\n",
+                "Is there anything more important\n",
+                "than strength for Trainers,{VAR BE00}\n",
+                "like the Champion said?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_200_0001",
+            "en_US": [
+                "Oh, I'll never understand just by\n",
+                "thinking about it.{VAR BE01}\n",
+                "What a bother.\n",
+                "Let's hurry up and check the inside."
+            ]
+        },
+        {
+            "id": "a003_200_0002",
+            "en_US": "Cheren: Oh... Is someone in there?"
+        },
+        {
+            "id": "a003_200_0003",
+            "en_US": "Shall we go, then?"
+        },
+        {
+            "id": "a003_200_0004",
+            "en_US": [
+                "But the only place in the Cold Storage\n",
+                "we haven't searched is here, right?"
+            ]
+        },
+        {
+            "id": "a003_200_0005",
+            "en_US": [
+                "What's wrong?\n",
+                "Aren't you going to check the inside?"
+            ]
+        },
+        {
+            "id": "a003_200_0006",
+            "en_US": [
+                "When you walk through the containers,\n",
+                "some places are frozen, so you go{VAR BE00}\n",
+                "sliding around!"
+            ]
+        },
+        {
+            "id": "a003_200_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_200_0013",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

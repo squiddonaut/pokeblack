@@ -1,0 +1,110 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a002_007_0000",
+            "en_US": "NAME:",
+            "flags": 44
+        },
+        {
+            "id": "a002_007_0001",
+            "en_US": "WORK:",
+            "flags": 44
+        },
+        {
+            "id": "a002_007_0002",
+            "en_US": "HOBBY:",
+            "flags": 44
+        },
+        {
+            "id": "a002_007_0003",
+            "en_US": "TIME:",
+            "flags": 104
+        },
+        {
+            "id": "a002_007_0004",
+            "en_US": "{VAR 0128 0000}",
+            "flags": 104
+        },
+        {
+            "id": "a002_007_0005",
+            "en_US": "{VAR 0128 0000}",
+            "flags": 104
+        },
+        {
+            "id": "a002_007_0006",
+            "en_US": "{VAR 0202 0002}:{VAR 0201 0003}",
+            "flags": 36
+        },
+        {
+            "id": "a002_007_0007",
+            "en_US": "FROM:",
+            "flags": 88
+        },
+        {
+            "id": "a002_007_0008",
+            "en_US": [
+                "{VAR 0124 0000}\n",
+                "{VAR 0125 0001}"
+            ]
+        },
+        {
+            "id": "a002_007_0009",
+            "en_US": [
+                "Number of times thanked:\n",
+                "Number of people passed by:"
+            ],
+            "flags": 168
+        },
+        {
+            "id": "a002_007_0010",
+            "en_US": [
+                "{VAR BD03 0000}{VAR 0204 0000}\n",
+                "{VAR BD03 0000}{VAR 0204 0001}"
+            ],
+            "flags": 48
+        },
+        {
+            "id": "a002_007_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_007_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_007_0013",
+            "en_US": "Passerby time: {VAR 0201 0000}:{VAR 0201 0001}"
+        },
+        {
+            "id": "a002_007_0014",
+            "en_US": "Passerby time: {VAR 0201 0000}:{VAR 0201 0001}"
+        },
+        {
+            "id": "a002_007_0015",
+            "en_US": "Battling a wild {VAR 0101 0000}"
+        },
+        {
+            "id": "a002_007_0016",
+            "en_US": "Battling a special Pokémon"
+        },
+        {
+            "id": "a002_007_0017",
+            "en_US": "Battling {VAR 010E 0000} {VAR 0100 0001}"
+        },
+        {
+            "id": "a002_007_0018",
+            "en_US": "Battling a Gym Leader"
+        },
+        {
+            "id": "a002_007_0019",
+            "en_US": "Battling a special Trainer"
+        },
+        {
+            "id": "a002_007_0020",
+            "en_US": "Moving through {VAR 0105 0000}"
+        }
+    ]
+}

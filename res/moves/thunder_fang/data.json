@@ -1,0 +1,30 @@
+{
+    "name": "Thunder Fang",
+    "description": [
+        "The user bites with electrified fangs.\n",
+        "It may also make the target flinch or\n",
+        "leave it with paralysis."
+    ],
+    "type": "TYPE_ELECTRIC",
+    "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
+    "class": "CLASS_PHYSICAL",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_PARALYSIS",
+    "statusChance": 10,
+    "effectDuration": "MOVE_DURATION_INDEFINITE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 10,
+    "aiScript": 275,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_MAKES_CONTACT", "MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

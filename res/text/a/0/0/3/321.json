@@ -1,0 +1,33 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_321_0000",
+            "en_US": [
+                "There must be a reason why the\n",
+                "landscape of Unova forms a circle!{VAR BE01}\n",
+                "I was researching each area thinking\n",
+                "about that, and I ended up here.{VAR BE01}\n",
+                "Where am I?"
+            ]
+        },
+        {
+            "id": "a003_321_0001",
+            "en_US": [
+                "People say the Entree Forest was much\n",
+                "bigger in the past, and people were able{VAR BE00}\n",
+                "to use various Pass Powers."
+            ]
+        },
+        {
+            "id": "a003_321_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_321_0003",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

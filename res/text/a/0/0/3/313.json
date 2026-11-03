@@ -1,0 +1,335 @@
+{
+    "flags": 224,
+    "pad": "b2b2",
+    "messages": [
+        {
+            "id": "a003_313_0000",
+            "en_US": [
+                "Hey, le Trainer fantastique! Want to be\n",
+                "part of the experiment of the century?{VAR BE01}\n",
+                "You need two DS systems to play with\n",
+                "Poké Transfer!{VAR BE01}\n",
+                "Do you have a second DS system that you\n",
+                "can use?"
+            ]
+        },
+        {
+            "id": "a003_313_0001",
+            "en_US": [
+                "If you decide that you want to play with\n",
+                "Poké Transfer sometime, you're welcome{VAR BE00}\n",
+                "to come back and ask me."
+            ]
+        },
+        {
+            "id": "a003_313_0002",
+            "en_US": [
+                "I'm sorry! Sumimasen! But you don't have\n",
+                "enough space in your PC Box.{VAR BE01}\n",
+                "Please make room for six Pokémon and\n",
+                "try again."
+            ]
+        },
+        {
+            "id": "a003_313_0003",
+            "en_US": [
+                "OK! But just remember! ¡Muy importante!{VAR BE01}\n",
+                "Once you bring a Pokémon here, you can't\n",
+                "send it back. Do you still want to do it?"
+            ]
+        },
+        {
+            "id": "a003_313_0004",
+            "en_US": [
+                "DS Wireless Communications will\n",
+                "be launched."
+            ]
+        },
+        {
+            "id": "a003_313_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_313_0006",
+            "en_US": "OK, OK. Come here. Stand right there!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0007",
+            "en_US": "Well, let's begin! Allons-y!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0008",
+            "en_US": "Great! Molto bene!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0009",
+            "en_US": [
+                "You're just as skillful as I expected!\n",
+                "Poké Transfer is working!{VAR BE01}\n",
+                "But hey, {VAR 0100 0000}, you can't fool me!\n",
+                "I bet you can do even better than this.{VAR BE01}\n",
+                "A Trainer of your caliber can make\n",
+                "really good use of Poké Transfer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0010",
+            "en_US": [
+                "Wunderbar! Magnifique! Brilliant!\n",
+                "Your skill is impressive!{VAR BE01}\n",
+                "This is the very reason why we scientists\n",
+                "are doing research!{VAR BE01}\n",
+                "But, {VAR 0100 0000}! I think a Trainer with\n",
+                "your experience can make use of it{VAR BE00}\n",
+                "even more elegantly.{VAR BE01}\n",
+                "Please master your genius handling of\n",
+                "Poké Transfer, and show us how{VAR BE00}\n",
+                "it's done!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0011",
+            "en_US": [
+                "Great! Greeeeeeat!{VAR BE01}\n",
+                "Poké Transfer is making\n",
+                "tremendous progress!{VAR BE01}\n",
+                "Well, it's unbelievable! ¡Es gigante!\n",
+                "I owe everything to you!{VAR BE01}\n",
+                "Please assist our research in the\n",
+                "future, too!{VAR BE01}\n",
+                "Please feel free to use Poké Transfer\n",
+                "anytime you want!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0012",
+            "en_US": [
+                "...\n",
+                "G...{VAR BE01}\n",
+                "Great!\n",
+                "Greeeat!{VAR BE01}\n",
+                "F--a--n--t--a--s--t--i--c!{VAR BE01}\n",
+                "Your handling of Poké Transfer\n",
+                "is reeeally exhilarating!{VAR BE01}\n",
+                "Ohhhh, our invention is\n",
+                "near completion!{VAR BE01}\n",
+                "Come again very soon!\n",
+                "Come again immediately!{VAR BE01}\n",
+                "And please show us even more wonderful\n",
+                "handling of Poké Transfer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0013",
+            "en_US": [
+                "Ohhhhhhhh.\n",
+                "Any moment! Any moment!{VAR BE01}\n",
+                "Poké Transfer is only one step away\n",
+                "from going down in history as a{VAR BE00}\n",
+                "fantastic invention!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0014",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "As I thought, my instinct was right...\n",
+                "You are a prodigy! A genius!{VAR BE01}\n",
+                "There won't be anyone else who can\n",
+                "handle Poké Transfer in such a{VAR BE00}\n",
+                "professional manner.{VAR BE01}\n",
+                "Please use Poké Transfer anytime you\n",
+                "want in the future!{VAR BE01}\n",
+                "We will be here any time to continue to do\n",
+                "further research!{VAR BE01}\n",
+                "If you want to use Poké Transfer, please\n",
+                "let us know!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0015",
+            "en_US": [
+                "I put the Pokémon you caught\n",
+                "in your PC Box.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0016",
+            "en_US": [
+                "But, it seems you could not\n",
+                "catch any Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0017",
+            "en_US": [
+                "Ugh...\n",
+                "There seems to be a communication error.{VAR BE01}\n",
+                "I'm afraid you have to try it again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0018",
+            "en_US": [
+                "Hi, hello!{VAR BE01}\n",
+                "You came here.\n",
+                "That means you are a visitor?{VAR BE01}\n",
+                "Huh? No?\n",
+                "You came all the way here?{VAR BE01}\n",
+                "Ah, you are a Trainer?\n",
+                "Are you in the middle of your journey?{VAR BE01}\n",
+                "Ah, this is your Trainer Card?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0019",
+            "en_US": [
+                "W-w-what? You!\n",
+                "You have all the Gym Badges?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0020",
+            "en_US": [
+                "Great!\n",
+                "You may be able to...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0021",
+            "en_US": "Professor Paaaaaark!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0022",
+            "en_US": "Quick, quick!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0023",
+            "en_US": "Oh, there you are!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0024",
+            "en_US": [
+                "Professor!{VAR BE01}\n",
+                "Do you have a minute?\n",
+                "I think you do. Listen!{VAR BE01}\n",
+                "This kid is a Trainer who has all the\n",
+                "Gym Badges. All of them!{VAR BE01}\n",
+                "I am sure this Trainer can operate it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0025",
+            "en_US": [
+                "I have told you many times.{VAR BE01}\n",
+                "This invention is great indeed, but\n",
+                "without a professional Trainer...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0026",
+            "en_US": [
+                "What? You have the Gym Badges?\n",
+                "ALL of them?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0027",
+            "en_US": [
+                "Fantastic!{VAR BE01}\n",
+                "Fantastico!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0028",
+            "en_US": "Yahoooooooooooooooo!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0029",
+            "en_US": [
+                "What a great day! Great! Unbelievable!\n",
+                "Hi, I am Professor Andrew Park!{VAR BE01}\n",
+                "You!\n",
+                "Er...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0030",
+            "en_US": "{VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0031",
+            "en_US": [
+                "{VAR 0100 0000}! Are you willing to\n",
+                "participate in an ambitious experiment{VAR BE00}\n",
+                "that will make history?{VAR BE01}\n",
+                "This device is called Poké Transfer.{VAR BE01}\n",
+                "It connects...blah blah blah...\n",
+                "...called DS system...meanwhile...{VAR BE01}\n",
+                "...blah blah...of molecules...and then...\n",
+                "...while evoking...blah blah...{VAR BE01}\n",
+                "...ergo, energy particles will...\n",
+                "...blah blah...and if the frequency...{VAR BE01}\n",
+                "...as you see...with faraway Pokémon...\n",
+                "...the Alpha waves...blah blah...{VAR BE01}\n",
+                "...following which...reach convergence...\n",
+                "...blah blah...spectacular results!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0032",
+            "en_US": [
+                "To put it more simply, if you use this\n",
+                "device, you may be able to bring Pokémon{VAR BE00}\n",
+                "here from other regions.{VAR BE01}\n",
+                "But just for safety's sake, the Pokémon\n",
+                "you're transferring shouldn't be holding{VAR BE00}\n",
+                "anything! So make sure to take their{VAR BE00}\n",
+                "items first.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_313_0033",
+            "en_US": "...So! You!{VAR BE01}"
+        },
+        {
+            "id": "a003_313_0034",
+            "en_US": [
+                "You are a fantastic Pokémon Trainer!{VAR BE01}\n",
+                "Will you participate in the great\n",
+                "experiment of the century?{VAR BE01}\n",
+                "You need two DS systems to use\n",
+                "Poké Transfer!{VAR BE01}\n",
+                "We will conduct the experiment with\n",
+                "another DS. Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_313_0035",
+            "en_US": [
+                "Your Pokémon can't be holding items when\n",
+                "you transfer them. It's safer that way.{VAR BE01}\n",
+                "In rare cases, there are Pokémon that\n",
+                "cannot be transferred, but{VAR BE00}\n",
+                "Professor Park will explain it to you."
+            ]
+        },
+        {
+            "id": "a003_313_0036",
+            "en_US": [
+                "With this research of mine, I also want to\n",
+                "have an impact on people in the future...{VAR BE00}\n",
+                "people living 100 or 200 years from now!"
+            ]
+        },
+        {
+            "id": "a003_313_0037",
+            "en_US": [
+                "Here, we are monitoring Poké Transfer.{VAR BE01}\n",
+                "We're keeping a careful eye to make sure\n",
+                "all the Pokémon have safe travels!"
+            ]
+        }
+    ]
+}

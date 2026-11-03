@@ -1,0 +1,77 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_031_0000",
+            "en_US": [
+                "Welcome to Café Warehouse,\n",
+                "a stylish café in a rural area!"
+            ]
+        },
+        {
+            "id": "a003_031_0001",
+            "en_US": [
+                "Welcome to Café Warehouse,\n",
+                "a stylish café in a rural area!{VAR BE01}\n",
+                "Our café has a special on Wednesdays!\n",
+                "Here, have a Soda Pop!{VAR BE01}\n",
+                "Enjoy the taste of our specialty!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_031_0002",
+            "en_US": "Enjoy the taste of our specialty!"
+        },
+        {
+            "id": "a003_031_0003",
+            "en_US": "This café has a special on Wednesdays!"
+        },
+        {
+            "id": "a003_031_0004",
+            "en_US": [
+                "As far as I'm concerned, it doesn't\n",
+                "matter that the café is in a rural area{VAR BE00}\n",
+                "that nobody knows."
+            ]
+        },
+        {
+            "id": "a003_031_0005",
+            "en_US": [
+                "Do you know about the Battle Box?{VAR BE01}\n",
+                "I heard it is a useful function you can\n",
+                "use at the Pokémon Center."
+            ]
+        },
+        {
+            "id": "a003_031_0006",
+            "en_US": [
+                "The Striaton City Gym Leaders are a\n",
+                "great triplet combo!{VAR BE01}\n",
+                "The Grass-type Pokémon user, Cilan,\n",
+                "chooses great tea leaves.{VAR BE01}\n",
+                "The Water-type Pokémon user, Cress,\n",
+                "prepares the best water.{VAR BE01}\n",
+                "And the Fire-type Pokémon user, Chili,\n",
+                "pours hot water at the right heat.{VAR BE01}\n",
+                "No wonder their tea is the best!"
+            ]
+        },
+        {
+            "id": "a003_031_0007",
+            "en_US": [
+                "When you battle with a friend using\n",
+                "wireless communications, you can use{VAR BE00}\n",
+                "items using a Wonder Launcher!"
+            ]
+        },
+        {
+            "id": "a003_031_0008",
+            "en_US": [
+                "Yes, I know!{VAR BE01}\n",
+                "If you have a Wonder Launcher, energy\n",
+                "will be charged, and you can use{VAR BE00}\n",
+                "various items."
+            ]
+        }
+    ]
+}

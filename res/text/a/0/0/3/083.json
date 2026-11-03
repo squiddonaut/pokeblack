@@ -1,0 +1,156 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_083_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_083_0001",
+            "en_US": [
+                "Welcome to the musical!\n",
+                "I'm very pleased with your participation!{VAR BE01}\n",
+                "Participants for this musical are:{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0002",
+            "en_US": [
+                "{VAR 0100 0003} will participate\n",
+                "with {VAR 0101 0002}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0003",
+            "en_US": [
+                "And the show you'll be performing\n",
+                "is {VAR 0122 0000}.{VAR BE01}\n",
+                "That is a popular show\n",
+                "among {VAR 0123 0001}.{VAR BE01}\n",
+                "Well, without further ado...\n",
+                "Let's play Dress Up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0004",
+            "en_US": [
+                "I guess everyone is ready.\n",
+                "Let's go up on stage!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0005",
+            "en_US": [
+                "Good job!\n",
+                "The Pokémon were in total sync!{VAR BE01}\n",
+                "It was the best musical ever! I am the\n",
+                "owner, but even I was greatly moved.{VAR BE01}\n",
+                "Since it's the best musical ever seen,\n",
+                "we have received many comments from{VAR BE00}\n",
+                "the audience!{VAR BE01}\n",
+                "There are comments for everyone,\n",
+                "so let me give them to you in order!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0006",
+            "en_US": [
+                "Hmmm... Good job!\n",
+                "It was a great musical!{VAR BE01}\n",
+                "In fact, I've received comments for you\n",
+                "from the audience!{VAR BE01}\n",
+                "I am really pleased.\n",
+                "I will give them to you in order!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0007",
+            "en_US": [
+                "Good job!\n",
+                "It was quite an interesting musical!{VAR BE01}\n",
+                "I've received comments for you\n",
+                "from the audience!{VAR BE01}\n",
+                "Well, I am so pleased.\n",
+                "I will give them to you in order!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0008",
+            "en_US": [
+                "Good job!{VAR BE01}\n",
+                "It was a musical with some very\n",
+                "exciting moments!{VAR BE01}\n",
+                "By the way, I received comments for you\n",
+                "from the audience.{VAR BE01}\n",
+                "I am quite pleased.\n",
+                "I will give them to you in order.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0009",
+            "en_US": [
+                "{VAR 0100 0000}'s Dress Up performance\n",
+                "was very {VAR 0123 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0010",
+            "en_US": [
+                "{VAR 0100 0000}'s Dress Up performance\n",
+                "was very distinctive!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0011",
+            "en_US": [
+                "In this musical, it's not an\n",
+                "overstatement to say that {VAR 0100 0000}'s{VAR BE00}\n",
+                "Pokémon was the lead role.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0012",
+            "en_US": [
+                "The Pokémon used Props to convey such\n",
+                "abundant expression, just as if they{VAR BE00}\n",
+                "were actors!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0013",
+            "en_US": [
+                "Watching your Pokémon's sharp moves,\n",
+                "I also felt {VAR 0123 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0014",
+            "en_US": "Your Pokémon played its role very well.{VAR BE01}"
+        },
+        {
+            "id": "a003_083_0015",
+            "en_US": [
+                "It looked like your Pokémon was making an\n",
+                "effort to live up to your expectations.{VAR BE01}\n",
+                "I will support your Pokémon on the side!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0016",
+            "en_US": [
+                "It was not highly noticeable...\n",
+                "But I liked it! Keep it up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_083_0017",
+            "en_US": [
+                "Thank you very much for participating in\n",
+                "the musical today!{VAR BE01}\n",
+                "Please join another musical again!\n",
+                "Have a great day!{VAR BE01}"
+            ]
+        }
+    ]
+}

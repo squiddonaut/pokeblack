@@ -1,0 +1,63 @@
+{
+    "flags": 224,
+    "pad": "0404",
+    "messages": [
+        {
+            "id": "a003_375_0000",
+            "en_US": [
+                "Kid! Have you caught any {VAR 0101 0000}?{VAR BE01}\n",
+                "If you have, would you trade your\n",
+                "{VAR 0101 0000} for my {VAR 0101 0001}?"
+            ]
+        },
+        {
+            "id": "a003_375_0001",
+            "en_US": "OK! Let's start our Pokémon trade!{VAR BE01}"
+        },
+        {
+            "id": "a003_375_0002",
+            "en_US": [
+                "Oh! Oh! What a cute Pokémon!\n",
+                "Please cherish {VAR 0101 0001}, too."
+            ]
+        },
+        {
+            "id": "a003_375_0003",
+            "en_US": [
+                "Hey! Come on, now!\n",
+                "I want to trade for a {VAR 0101 0000}..."
+            ]
+        },
+        {
+            "id": "a003_375_0004",
+            "en_US": [
+                "I see... Well, come talk to me again if you\n",
+                "change your mind!"
+            ]
+        },
+        {
+            "id": "a003_375_0005",
+            "en_US": [
+                "Trading Pokémon lets you get to know\n",
+                "other Trainers!"
+            ]
+        },
+        {
+            "id": "a003_375_0006",
+            "en_US": [
+                "I love the Pokémon moves Mega Drain\n",
+                "and Giga Drain!{VAR BE01}\n",
+                "Your opponent's HP is reduced, and the\n",
+                "user's HP increases!"
+            ]
+        },
+        {
+            "id": "a003_375_0007",
+            "en_US": "Fwoo-ooo-ooosh..."
+        },
+        {
+            "id": "a003_375_0008",
+            "en_US": "Tralalala! ♪"
+        }
+    ]
+}

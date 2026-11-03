@@ -1,0 +1,84 @@
+{
+    "flags": 224,
+    "pad": "5858",
+    "messages": [
+        {
+            "id": "a003_059_0000",
+            "en_US": [
+                "Hello!{VAR BE01}\n",
+                "If you'd like, I will massage\n",
+                "your Pokémon."
+            ]
+        },
+        {
+            "id": "a003_059_0001",
+            "en_US": [
+                "Oh, I see.\n",
+                "Please see me if you change your mind."
+            ]
+        },
+        {
+            "id": "a003_059_0002",
+            "en_US": "All right! Let me get started.{VAR BE01}"
+        },
+        {
+            "id": "a003_059_0003",
+            "en_US": [
+                "Massage the Egg?\n",
+                "It may be a bit too early for that."
+            ]
+        },
+        {
+            "id": "a003_059_0004",
+            "en_US": [
+                "There. All done!{VAR BE01}\n",
+                "The massage has made your Pokémon\n",
+                "much more friendly to you!"
+            ]
+        },
+        {
+            "id": "a003_059_0005",
+            "en_US": [
+                "There. All done!{VAR BE01}\n",
+                "The massage has made your Pokémon\n",
+                "more friendly to you!"
+            ]
+        },
+        {
+            "id": "a003_059_0006",
+            "en_US": [
+                "There. All done!{VAR BE01}\n",
+                "The massage has made your Pokémon\n",
+                "a little bit more friendly to you!"
+            ]
+        },
+        {
+            "id": "a003_059_0007",
+            "en_US": [
+                "Sorry!\n",
+                "I am exhausted from the massage earlier.{VAR BE01}\n",
+                "Please come back again tomorrow!"
+            ]
+        },
+        {
+            "id": "a003_059_0008",
+            "en_US": [
+                "When Pokémon are happy, I am happy,\n",
+                "and I laugh!{VAR BE01}\n",
+                "When Pokémon see me laughing,\n",
+                "they will be happy, too!"
+            ]
+        },
+        {
+            "id": "a003_059_0009",
+            "en_US": "Gahoohoo!"
+        },
+        {
+            "id": "a003_059_0010",
+            "en_US": [
+                "It's difficult to watch TV from here.\n",
+                "It's not your concern, though."
+            ]
+        }
+    ]
+}

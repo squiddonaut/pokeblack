@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "pad": "2e2e",
+    "messages": [
+        {
+            "id": "a003_099_0000",
+            "en_US": [
+                "Shiny Krokorok...\n",
+                "I wonder what colors they are!"
+            ]
+        },
+        {
+            "id": "a003_099_0001",
+            "en_US": [
+                "People say Shiny Pokémon\n",
+                "look like they're gleaming when{VAR BE00}\n",
+                "they come out of the grass!"
+            ]
+        },
+        {
+            "id": "a003_099_0002",
+            "en_US": "Nuha nuha nuhaha!"
+        }
+    ]
+}

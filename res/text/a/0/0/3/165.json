@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_165_0000",
+            "en_US": [
+                "I'm going to see the ruins, but I'm afraid\n",
+                "I might get lost in the desert.{VAR BE01}\n",
+                "It's really big, and sometimes you run\n",
+                "into Pokémon.{VAR BE01}\n",
+                "Will I be in trouble if I am not strong?"
+            ]
+        },
+        {
+            "id": "a003_165_0001",
+            "en_US": [
+                "I hear you can find the newly discovered\n",
+                "entrance of the ruins if you go through{VAR BE00}\n",
+                "the gate and just head straight."
+            ]
+        },
+        {
+            "id": "a003_165_0002",
+            "en_US": [
+                "Desert Resort Ahead\n",
+                "It's nicer than the average desert!"
+            ],
+            "flags": 207
+        }
+    ]
+}

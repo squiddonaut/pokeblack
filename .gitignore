@@ -43,6 +43,8 @@ ndstool
 tools/README.md
 !tools/scripts/
 tools/metroskrew/**
+tools/dataproc/*proc
+tools/enumproc/enumproc
 
 # Proprietary SDK (cannot distribute)
 lib/NitroSDK/

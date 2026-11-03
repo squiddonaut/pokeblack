@@ -1,0 +1,89 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_032_0000",
+            "en_US": [
+                "Hello, Trainer!\n",
+                "I think Potions are important for a trip!"
+            ]
+        },
+        {
+            "id": "a003_032_0001",
+            "en_US": [
+                "I should have bought more Poké Balls!{VAR BE01}\n",
+                "A Pokémon I wanted to catch\n",
+                "just came out, and I missed it!"
+            ]
+        },
+        {
+            "id": "a003_032_0002",
+            "en_US": [
+                "Hi! I have some questions for you!{VAR BE01}\n",
+                "If you want to play, which do you prefer:\n",
+                "outside or at home?"
+            ]
+        },
+        {
+            "id": "a003_032_0003",
+            "en_US": [
+                "I see, I see!{VAR BE01}\n",
+                "Then, which one are you interested in:\n",
+                "the thing everybody knows{VAR BE00}\n",
+                "or the thing nobody knows?"
+            ]
+        },
+        {
+            "id": "a003_032_0004",
+            "en_US": "Oh, really?{VAR BE01}"
+        },
+        {
+            "id": "a003_032_0005",
+            "en_US": [
+                "In my view, you are a person with\n",
+                "common sense!"
+            ]
+        },
+        {
+            "id": "a003_032_0006",
+            "en_US": "I'd say you are quite active!"
+        },
+        {
+            "id": "a003_032_0007",
+            "en_US": "I'd say you are very curious!"
+        },
+        {
+            "id": "a003_032_0008",
+            "en_US": "I'd say you are quite composed!"
+        },
+        {
+            "id": "a003_032_0009",
+            "en_US": "I'd say you are quite relaxed!"
+        },
+        {
+            "id": "a003_032_0010",
+            "en_US": "Outside",
+            "flags": 219
+        },
+        {
+            "id": "a003_032_0011",
+            "en_US": "At home",
+            "flags": 219
+        },
+        {
+            "id": "a003_032_0012",
+            "en_US": "Neither",
+            "flags": 219
+        },
+        {
+            "id": "a003_032_0013",
+            "en_US": "The thing everybody knows",
+            "flags": 219
+        },
+        {
+            "id": "a003_032_0014",
+            "en_US": "The thing nobody knows",
+            "flags": 219
+        }
+    ]
+}

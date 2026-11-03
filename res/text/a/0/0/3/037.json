@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_037_0000",
+            "en_US": [
+                "In Nimbasa City, where I work,\n",
+                "I went to see a musical.{VAR BE01}\n",
+                "Have you heard about it?\n",
+                "The Pokémon Musical?{VAR BE01}\n",
+                "Pokémon get all dressed up and\n",
+                "dance to the music!"
+            ]
+        },
+        {
+            "id": "a003_037_0001",
+            "en_US": [
+                "Pokémon Trainers on Route 4\n",
+                "show combinations with Pokémon{VAR BE00}\n",
+                "even during road construction!"
+            ]
+        },
+        {
+            "id": "a003_037_0002",
+            "en_US": "Route 4 Ahead",
+            "flags": 207
+        }
+    ]
+}

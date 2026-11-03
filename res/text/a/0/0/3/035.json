@@ -1,0 +1,162 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_035_0000",
+            "en_US": [
+                "Burgh: That way!{VAR BE01}\n",
+                "M'hm. Toward the Gym?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0001",
+            "en_US": [
+                "Hey, Trainer!{VAR BE01}\n",
+                "Show me your paces!\n",
+                "Give me a whirl!"
+            ]
+        },
+        {
+            "id": "a003_035_0002",
+            "en_US": [
+                "All riiight!\n",
+                "A fight is like a dance!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0003",
+            "en_US": [
+                "Come on, man!\n",
+                "You gotta go with the flow!"
+            ]
+        },
+        {
+            "id": "a003_035_0004",
+            "en_US": [
+                "Hey hey, Trainer!{VAR BE01}\n",
+                "Show me what you can do!\n",
+                "Take me on for a second!"
+            ]
+        },
+        {
+            "id": "a003_035_0005",
+            "en_US": [
+                "All riiight!\n",
+                "Let's get down!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0006",
+            "en_US": [
+                "How 'bout that!\n",
+                "Those were some smooth moves, no doubt!{VAR BE01}\n",
+                "But it'd be even tighter if I had a group.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0007",
+            "en_US": [
+                "Hey, you!\n",
+                "Would you talk to the other Dancers?{VAR BE01}\n",
+                "If you invite both of them,\n",
+                "the three of us can groove as a team!"
+            ]
+        },
+        {
+            "id": "a003_035_0008",
+            "en_US": [
+                "Same outfit as me!\n",
+                "That guy's a Dancer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0009",
+            "en_US": [
+                "The word on the street is...{VAR BE01}\n",
+                "Who's that dancin' in a lonely street?\n",
+                "Who's that dancin' in a port?{VAR BE01}\n",
+                "Who can you meet? Word on the street!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0010",
+            "en_US": [
+                "Thanks for talking to him!\n",
+                "We're checkin' out our moves!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0011",
+            "en_US": [
+                "Really? I'd sure show you some\n",
+                "sweet moves if I had a team, though."
+            ]
+        },
+        {
+            "id": "a003_035_0012",
+            "en_US": [
+                "I've got what I needed to find my dance!\n",
+                "A team! Fantastic!"
+            ]
+        },
+        {
+            "id": "a003_035_0013",
+            "en_US": [
+                "Dancers dance!\n",
+                "The audience smiles!{VAR BE00}\n",
+                "Hearts beat with joy!{VAR BE00}\n",
+                "Enough happiness to share!"
+            ]
+        },
+        {
+            "id": "a003_035_0014",
+            "en_US": [
+                "Thanks, man!\n",
+                "I've got the best team in the world here!{VAR BE00}\n",
+                "That's how I feel.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0015",
+            "en_US": [
+                "We communicate by dancing.{VAR BE01}\n",
+                "It's how we say happy things,\n",
+                "sad things...{VAR BE00}\n",
+                "How we say the world shines brightly!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0016",
+            "en_US": [
+                "All riiight!\n",
+                "Let's dance!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_035_0017",
+            "en_US": [
+                "Landscapes with people...\n",
+                "Landscapes with Pokémon...{VAR BE01}\n",
+                "Each has power and beauty,\n",
+                "compelling me to draw them both.{VAR BE01}\n",
+                "Oh, my studio is down Mode Street a bit."
+            ]
+        },
+        {
+            "id": "a003_035_0018",
+            "en_US": [
+                "Castelia City, Central Plaza\n",
+                "Ahead: Route 4"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_035_0019",
+            "en_US": [
+                "Ahead: Mode Street\n",
+                "Casteliacones and Studio Castelia"
+            ],
+            "flags": 207
+        }
+    ]
+}

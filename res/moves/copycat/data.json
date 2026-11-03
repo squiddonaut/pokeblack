@@ -1,0 +1,30 @@
+{
+    "name": "Copycat",
+    "description": [
+        "The user mimics the move used immediately\n",
+        "before it. The move fails if no other move\n",
+        "has been used yet."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 20,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 242,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [],
+    "flags": []
+}

@@ -1,0 +1,34 @@
+{
+    "flags": 224,
+    "pad": "d4d4",
+    "messages": [
+        {
+            "id": "a002_060_0000",
+            "en_US": "CONFIRM",
+            "flags": 60
+        },
+        {
+            "id": "a002_060_0001",
+            "en_US": "CANCEL",
+            "flags": 48
+        },
+        {
+            "id": "a002_060_0002",
+            "en_US": "Please enter a phrase or word."
+        },
+        {
+            "id": "a002_060_0003",
+            "en_US": "Stop giving the Pokémon Mail?"
+        },
+        {
+            "id": "a002_060_0004",
+            "en_US": "YES",
+            "flags": 44
+        },
+        {
+            "id": "a002_060_0005",
+            "en_US": "NO",
+            "flags": 44
+        }
+    ]
+}

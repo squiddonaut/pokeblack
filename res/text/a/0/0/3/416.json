@@ -1,0 +1,29 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_416_0000",
+            "en_US": [
+                "I am me.\n",
+                "You are you.{VAR BE01}\n",
+                "...You really don't know what to do when\n",
+                "someone suddenly says that, do you?"
+            ]
+        },
+        {
+            "id": "a003_416_0001",
+            "en_US": [
+                "A parasol inside the gate! Well, I\n",
+                "really don't want to get wet and dirty."
+            ]
+        },
+        {
+            "id": "a003_416_0002",
+            "en_US": [
+                "Oh, awesome! That just made my day!{VAR BE01}\n",
+                "This vending machine gave me\n",
+                "an extra drink! For free!!"
+            ]
+        }
+    ]
+}

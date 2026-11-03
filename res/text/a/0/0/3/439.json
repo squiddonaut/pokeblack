@@ -1,0 +1,25 @@
+{
+    "flags": 224,
+    "pad": "9696",
+    "messages": [
+        {
+            "id": "a003_439_0000",
+            "en_US": [
+                "Someone said that because there are\n",
+                "different ideas, disputes will arise...{VAR BE01}\n",
+                "Someone else said that because there are\n",
+                "different ideas, the world will expand...{VAR BE01}\n",
+                "I guess they're both right."
+            ]
+        },
+        {
+            "id": "a003_439_0001",
+            "en_US": [
+                "We've just gotten married. Men and women\n",
+                "are so different, aren't they?{VAR BE01}\n",
+                "But I don't see much difference between\n",
+                "male and female Pokémon..."
+            ]
+        }
+    ]
+}

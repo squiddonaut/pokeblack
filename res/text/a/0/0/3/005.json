@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_005_0000",
+            "en_US": [
+                "Ha ha ha!\n",
+                "You want more toys, huh?"
+            ]
+        },
+        {
+            "id": "a003_005_0001",
+            "en_US": [
+                "My, my. Oh, this child.\n",
+                "We'll buy you another."
+            ]
+        },
+        {
+            "id": "a003_005_0002",
+            "en_US": [
+                "I'm tired of this toy!\n",
+                "I want a more fun toy!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "flags": 224,
+    "pad": "2020",
+    "messages": [
+        {
+            "id": "a003_066_0000",
+            "en_US": [
+                "Welcome!\n",
+                "Welcome to my party!{VAR BE01}\n",
+                "Please enjoy conversations\n",
+                "with everyone!"
+            ]
+        },
+        {
+            "id": "a003_066_0001",
+            "en_US": [
+                "Ich habe mir nun ein Auto zugelegt!{VAR BE01}\n",
+                "Damit ist die nächste Stadt auch\n",
+                "ganz ohne Orden zum Greifen nah!{VAR BE01}\n",
+                "Es sei denn, ich rassele durch\n",
+                "meine Führerscheinprüfung..."
+            ]
+        },
+        {
+            "id": "a003_066_0002",
+            "en_US": [
+                "Hello. Have you tried a Casteliacone yet?{VAR BE01}\n",
+                "I managed to buy one on Tuesday, but\n",
+                "it's very difficult to get!"
+            ]
+        },
+        {
+            "id": "a003_066_0003",
+            "en_US": [
+                "Hey, Trainer!\n",
+                "Check out my moves!{VAR BE01}\n",
+                "Have you gone to the next city yet?\n",
+                "I learned this move at the{VAR BE00}\n",
+                "musical over there.{VAR BE00}\n",
+                "Pretty cool, isn't it?"
+            ]
+        },
+        {
+            "id": "a003_066_0004",
+            "en_US": [
+                "Ohhhh! Your Pokémon are so charming!{VAR BE01}\n",
+                "I want cute Pokémon, too, so I can\n",
+                "use this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_066_0005",
+            "en_US": [
+                "This move makes your Pokémon\n",
+                "unbearably charming!{VAR BE01}\n",
+                "All Pokémon of the opposite gender\n",
+                "will fall in love!"
+            ]
+        },
+        {
+            "id": "a003_066_0006",
+            "en_US": [
+                "Did you see the dress that the\n",
+                "supermodel, Elesa, was wearing?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_066_0007",
+            "en_US": [
+                "Whatever Elesa wears is beautiful.\n",
+                "A stunning ensemble!"
+            ]
+        },
+        {
+            "id": "a003_066_0008",
+            "en_US": [
+                "My boyfriend isn't good at getting out of\n",
+                "bed in the morning...{VAR BE01}\n",
+                "In fact, he's so slow getting out of bed\n",
+                "that I asked his Pokémon to use{VAR BE00}\n",
+                "Wake-Up Slap on him!"
+            ]
+        },
+        {
+            "id": "a003_066_0009",
+            "en_US": [
+                "Ciao!\n",
+                "Ti stai divertendo?{VAR BE01}\n",
+                "Non sentirti in imbarazzo.\n",
+                "Parla pure con chi vuoi."
+            ]
+        },
+        {
+            "id": "a003_066_0010",
+            "en_US": [
+                "It's hard to get up the morning after\n",
+                "a fun day like today."
+            ]
+        },
+        {
+            "id": "a003_066_0011",
+            "en_US": [
+                "I've asked my Pokémon to use Sing\n",
+                "instead of setting an alarm clock.{VAR BE01}\n",
+                "But I cannot get up at all.\n",
+                "I don't know why."
+            ]
+        },
+        {
+            "id": "a003_066_0012",
+            "en_US": [
+                "¡Es la primera vez que vengo aquí!{VAR BE01}\n",
+                "¡Pero este precioso paisaje hace\n",
+                "que me sienta como en casa!{VAR BE01}\n",
+                "¡La próxima vez traeré a mis amigos!"
+            ]
+        }
+    ]
+}

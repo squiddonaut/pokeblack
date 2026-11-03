@@ -1,0 +1,341 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_105_0000",
+            "en_US": "FACADE"
+        },
+        {
+            "id": "a002_105_0001",
+            "en_US": "FAINTATTACK"
+        },
+        {
+            "id": "a002_105_0002",
+            "en_US": "FAIRGROUND"
+        },
+        {
+            "id": "a002_105_0003",
+            "en_US": "FAKEOUT"
+        },
+        {
+            "id": "a002_105_0004",
+            "en_US": "FAKETEARS"
+        },
+        {
+            "id": "a002_105_0005",
+            "en_US": "FALSESWIPE"
+        },
+        {
+            "id": "a002_105_0006",
+            "en_US": "FAMILY"
+        },
+        {
+            "id": "a002_105_0007",
+            "en_US": "FARFETCHD"
+        },
+        {
+            "id": "a002_105_0008",
+            "en_US": "FASHION"
+        },
+        {
+            "id": "a002_105_0009",
+            "en_US": "FATHER"
+        },
+        {
+            "id": "a002_105_0010",
+            "en_US": "FEAROW"
+        },
+        {
+            "id": "a002_105_0011",
+            "en_US": "FEATHERDANCE"
+        },
+        {
+            "id": "a002_105_0012",
+            "en_US": "FEEBAS"
+        },
+        {
+            "id": "a002_105_0013",
+            "en_US": "FEINT"
+        },
+        {
+            "id": "a002_105_0014",
+            "en_US": "FERALIGATR"
+        },
+        {
+            "id": "a002_105_0015",
+            "en_US": "FERROSEED"
+        },
+        {
+            "id": "a002_105_0016",
+            "en_US": "FERROTHORN"
+        },
+        {
+            "id": "a002_105_0017",
+            "en_US": "FESTIVAL"
+        },
+        {
+            "id": "a002_105_0018",
+            "en_US": "FIERYDANCE"
+        },
+        {
+            "id": "a002_105_0019",
+            "en_US": "FIGHT"
+        },
+        {
+            "id": "a002_105_0020",
+            "en_US": "FIGHTING"
+        },
+        {
+            "id": "a002_105_0021",
+            "en_US": "FIGHTS"
+        },
+        {
+            "id": "a002_105_0022",
+            "en_US": "FILTER"
+        },
+        {
+            "id": "a002_105_0023",
+            "en_US": "FINALGAMBIT"
+        },
+        {
+            "id": "a002_105_0024",
+            "en_US": "FINNEON"
+        },
+        {
+            "id": "a002_105_0025",
+            "en_US": "FIRE"
+        },
+        {
+            "id": "a002_105_0026",
+            "en_US": "FIREBLAST"
+        },
+        {
+            "id": "a002_105_0027",
+            "en_US": "FIREFANG"
+        },
+        {
+            "id": "a002_105_0028",
+            "en_US": "FIREPLEDGE"
+        },
+        {
+            "id": "a002_105_0029",
+            "en_US": "FIREPUNCH"
+        },
+        {
+            "id": "a002_105_0030",
+            "en_US": "FIRESPIN"
+        },
+        {
+            "id": "a002_105_0031",
+            "en_US": "FISHING"
+        },
+        {
+            "id": "a002_105_0032",
+            "en_US": "FISSURE"
+        },
+        {
+            "id": "a002_105_0033",
+            "en_US": "FLAAFFY"
+        },
+        {
+            "id": "a002_105_0034",
+            "en_US": "FLAIL"
+        },
+        {
+            "id": "a002_105_0035",
+            "en_US": "FLAMEBODY"
+        },
+        {
+            "id": "a002_105_0036",
+            "en_US": "FLAMEBURST"
+        },
+        {
+            "id": "a002_105_0037",
+            "en_US": "FLAMECHARGE"
+        },
+        {
+            "id": "a002_105_0038",
+            "en_US": "FLAMETHROWER"
+        },
+        {
+            "id": "a002_105_0039",
+            "en_US": "FLAMEWHEEL"
+        },
+        {
+            "id": "a002_105_0040",
+            "en_US": "FLAREBLITZ"
+        },
+        {
+            "id": "a002_105_0041",
+            "en_US": "FLAREBOOST"
+        },
+        {
+            "id": "a002_105_0042",
+            "en_US": "FLAREON"
+        },
+        {
+            "id": "a002_105_0043",
+            "en_US": "FLASH"
+        },
+        {
+            "id": "a002_105_0044",
+            "en_US": "FLASHCANNON"
+        },
+        {
+            "id": "a002_105_0045",
+            "en_US": "FLASHFIRE"
+        },
+        {
+            "id": "a002_105_0046",
+            "en_US": "FLATTER"
+        },
+        {
+            "id": "a002_105_0047",
+            "en_US": "FLING"
+        },
+        {
+            "id": "a002_105_0048",
+            "en_US": "FLOATZEL"
+        },
+        {
+            "id": "a002_105_0049",
+            "en_US": "FLOWERGIFT"
+        },
+        {
+            "id": "a002_105_0050",
+            "en_US": "FLOWERS"
+        },
+        {
+            "id": "a002_105_0051",
+            "en_US": "FLY"
+        },
+        {
+            "id": "a002_105_0052",
+            "en_US": "FLYGON"
+        },
+        {
+            "id": "a002_105_0053",
+            "en_US": "FLYING"
+        },
+        {
+            "id": "a002_105_0054",
+            "en_US": "FOCUSBLAST"
+        },
+        {
+            "id": "a002_105_0055",
+            "en_US": "FOCUSENERGY"
+        },
+        {
+            "id": "a002_105_0056",
+            "en_US": "FOCUSPUNCH"
+        },
+        {
+            "id": "a002_105_0057",
+            "en_US": "FOE"
+        },
+        {
+            "id": "a002_105_0058",
+            "en_US": "FOLLOWME"
+        },
+        {
+            "id": "a002_105_0059",
+            "en_US": "FOONGUS"
+        },
+        {
+            "id": "a002_105_0060",
+            "en_US": "FORCEPALM"
+        },
+        {
+            "id": "a002_105_0061",
+            "en_US": "FORECAST"
+        },
+        {
+            "id": "a002_105_0062",
+            "en_US": "FORESIGHT"
+        },
+        {
+            "id": "a002_105_0063",
+            "en_US": "FOREWARN"
+        },
+        {
+            "id": "a002_105_0064",
+            "en_US": "FORGIVEME"
+        },
+        {
+            "id": "a002_105_0065",
+            "en_US": "FORRETRESS"
+        },
+        {
+            "id": "a002_105_0066",
+            "en_US": "FOULPLAY"
+        },
+        {
+            "id": "a002_105_0067",
+            "en_US": "FRAXURE"
+        },
+        {
+            "id": "a002_105_0068",
+            "en_US": "FRENZYPLANT"
+        },
+        {
+            "id": "a002_105_0069",
+            "en_US": "FRIEND"
+        },
+        {
+            "id": "a002_105_0070",
+            "en_US": "FRIENDCODE"
+        },
+        {
+            "id": "a002_105_0071",
+            "en_US": "FRIENDGUARD"
+        },
+        {
+            "id": "a002_105_0072",
+            "en_US": "FRILLISH"
+        },
+        {
+            "id": "a002_105_0073",
+            "en_US": "FRISK"
+        },
+        {
+            "id": "a002_105_0074",
+            "en_US": "FROSLASS"
+        },
+        {
+            "id": "a002_105_0075",
+            "en_US": "FROSTBREATH"
+        },
+        {
+            "id": "a002_105_0076",
+            "en_US": "FRUSTRATION"
+        },
+        {
+            "id": "a002_105_0077",
+            "en_US": "FURRET"
+        },
+        {
+            "id": "a002_105_0078",
+            "en_US": "FURYATTACK"
+        },
+        {
+            "id": "a002_105_0079",
+            "en_US": "FURYCUTTER"
+        },
+        {
+            "id": "a002_105_0080",
+            "en_US": "FURYSWIPES"
+        },
+        {
+            "id": "a002_105_0081",
+            "en_US": "FUSIONBOLT"
+        },
+        {
+            "id": "a002_105_0082",
+            "en_US": "FUSIONFLARE"
+        },
+        {
+            "id": "a002_105_0083",
+            "en_US": "FUTURESIGHT"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "flags": 240,
+    "pad": "1818",
+    "messages": [
+        {
+            "id": "a002_086_0000",
+            "en_US": [
+                "The {VAR 0102 0000} your Pokémon saw in the\n",
+                "dream appeared!"
+            ]
+        },
+        {
+            "id": "a002_086_0001",
+            "en_US": "Come here, {VAR 0102 0000}!"
+        },
+        {
+            "id": "a002_086_0002",
+            "en_US": [
+                "Yes!\n",
+                "{VAR 0102 0000} has joined your party!"
+            ]
+        },
+        {
+            "id": "a002_086_0003",
+            "en_US": "What will {VAR 0100 0000} do?"
+        },
+        {
+            "id": "a002_086_0004",
+            "en_US": "{VAR 0100 0000} left..."
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "flags": 224,
+    "pad": "bcbc",
+    "messages": [
+        {
+            "id": "a002_205_0000",
+            "en_US": [
+                "{VAR BE09 0001}First, I must tell you...\n",
+                "I am the king of Team Plasma.{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a002_205_0001",
+            "en_US": [
+                "{VAR BE09 0001}Ghetsis asked me to work with him to save\n",
+                "the Pokémon.{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a002_205_0002",
+            "en_US": [
+                "{VAR BE09 0001}I wonder how many Pokémon\n",
+                "exist in this world...{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a002_205_0003",
+            "en_US": [
+                "Wow... As I thought, it's high...\n",
+                "Ah... I may be getting scared..."
+            ]
+        },
+        {
+            "id": "a002_205_0004",
+            "en_US": [
+                "Ugh... It's swaying... Isn't it? It is!\n",
+                "I'm scared of how high up we are..."
+            ]
+        },
+        {
+            "id": "a002_205_0005",
+            "en_US": [
+                "Ahh... No, no... This is my limit.\n",
+                "Here... Sit a little closer, OK?"
+            ]
+        },
+        {
+            "id": "a002_205_0006",
+            "en_US": [
+                "It's getting higher and higher...\n",
+                "Ulp. This is going faster than I thought."
+            ]
+        },
+        {
+            "id": "a002_205_0007",
+            "en_US": [
+                "Oh! Come look here!\n",
+                "Look! Ulp, I'm not feeling so good..."
+            ]
+        },
+        {
+            "id": "a002_205_0008",
+            "en_US": [
+                "... ... ... ... ... ...\n",
+                "... ... ... ... ... ..."
+            ]
+        },
+        {
+            "id": "a002_205_0009",
+            "en_US": [
+                "I thought I'd enjoy this ride, but I feel\n",
+                "like I'm enclosed in a tiny little space..."
+            ]
+        },
+        {
+            "id": "a002_205_0010",
+            "en_US": [
+                "Luckily, I'm not scared of heights.\n",
+                "That would not be cool for a Hiker."
+            ]
+        },
+        {
+            "id": "a002_205_0011",
+            "en_US": [
+                "I'm gonna stay cool. Feel cool on the\n",
+                "inside, look cool on the outside."
+            ]
+        },
+        {
+            "id": "a002_205_0012",
+            "en_US": [
+                "Uh-oh. It's higher than I thought.\n",
+                "Ulp. It's swaying more than I expected."
+            ]
+        },
+        {
+            "id": "a002_205_0013",
+            "en_US": [
+                "Oh! Don't move! We'll fall!\n",
+                "Do...not...move..."
+            ]
+        },
+        {
+            "id": "a002_205_0014",
+            "en_US": [
+                "Eep... I can't take it. This is my limit.\n",
+                "W-w-will you hold my hand?"
+            ]
+        },
+        {
+            "id": "a002_205_0015",
+            "en_US": [
+                "It's a great view... G-great...\n",
+                "B-b-but..."
+            ]
+        },
+        {
+            "id": "a002_205_0016",
+            "en_US": [
+                "I'm not crying. I'm not...\n",
+                "Sorry... Can I sit next to you?"
+            ]
+        },
+        {
+            "id": "a002_205_0017",
+            "en_US": [
+                "Just...just until we start to descend...\n",
+                "Please...stay..."
+            ]
+        },
+        {
+            "id": "a002_205_0018",
+            "en_US": [
+                "Um-hmm...\n",
+                "Since we have time, shall we talk?"
+            ]
+        },
+        {
+            "id": "a002_205_0019",
+            "en_US": [
+                "Um-hm... That's right... No way!\n",
+                "Then... Um-hmm... Yes, yes... Um-hm..."
+            ]
+        },
+        {
+            "id": "a002_205_0020",
+            "en_US": [
+                "Said...I like you... Such a lie.\n",
+                "It turned out there was... Uh-huh..."
+            ]
+        },
+        {
+            "id": "a002_205_0021",
+            "en_US": [
+                "Yay! Yaaaay! It's going round and round!\n",
+                "Yaaay! Yaaaay! It's going up and up!"
+            ]
+        },
+        {
+            "id": "a002_205_0022",
+            "en_US": [
+                "Yaaaay! So high up! Up in the sky!\n",
+                "Hee hee. It's fun!"
+            ]
+        },
+        {
+            "id": "a002_205_0023",
+            "en_US": [
+                "Look how far we can see!\n",
+                "Look! Please, Trainer?"
+            ]
+        },
+        {
+            "id": "a002_205_0024",
+            "en_US": [
+                "The city is getting smaller and smaller...\n",
+                "Such a pretty sight..."
+            ]
+        },
+        {
+            "id": "a002_205_0025",
+            "en_US": [
+                "Krrf! Krrrf! Krrrf!\n",
+                "Sorry... It's a bit chilly for me..."
+            ]
+        },
+        {
+            "id": "a002_205_0026",
+            "en_US": [
+                "I think it's finally warming up. I'm\n",
+                "feeling better. Thanks for the company."
+            ]
+        }
+    ]
+}

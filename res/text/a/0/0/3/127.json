@@ -1,0 +1,38 @@
+{
+    "flags": 224,
+    "pad": "7676",
+    "messages": [
+        {
+            "id": "a003_127_0000",
+            "en_US": [
+                "The slow passage of time in\n",
+                "Opelucid City...{VAR BE00}\n",
+                "It fits an old woman like me perfectly."
+            ]
+        },
+        {
+            "id": "a003_127_0001",
+            "en_US": [
+                "In Opelucid City, you can spend your\n",
+                "days in leisure and opulence..."
+            ]
+        },
+        {
+            "id": "a003_127_0002",
+            "en_US": [
+                "Sometimes, I think this...{VAR BE01}\n",
+                "There could be another world, where\n",
+                "a person who looks just like me{VAR BE00}\n",
+                "lives in a completely different way..."
+            ]
+        },
+        {
+            "id": "a003_127_0003",
+            "en_US": [
+                "I imagine that even the exact same\n",
+                "person would change a lot by living in a{VAR BE00}\n",
+                "different world."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "flags": 224,
+    "pad": "dada",
+    "messages": [
+        {
+            "id": "a003_111_0000",
+            "en_US": [
+                "I am grateful that you came all this way!\n",
+                "Are you a Trainer?{VAR BE01}\n",
+                "Ooh, you have a Pokédex!\n",
+                "It's so marvelous!{VAR BE01}\n",
+                "I wonder if you'd please do me a favor."
+            ]
+        },
+        {
+            "id": "a003_111_0001",
+            "en_US": [
+                "Oh, Trainer. I'm so pleased that you\n",
+                "came all the way here!{VAR BE01}\n",
+                "I'm wondering if you would do me a favor\n",
+                "today, too."
+            ]
+        },
+        {
+            "id": "a003_111_0002",
+            "en_US": [
+                "I would like to see a Pokémon that has\n",
+                "learned a move called {VAR 0107 0000}.{VAR BE01}\n",
+                "To be clear, that's {VAR 0107 0000}.\n",
+                "Please show it to me today."
+            ]
+        },
+        {
+            "id": "a003_111_0003",
+            "en_US": [
+                "I would like to see a Pokémon that\n",
+                "learned a move called {VAR 0107 0000}.{VAR BE01}\n",
+                "To be clear, that's {VAR 0107 0000}.\n",
+                "Please show it to me today.{VAR BE01}\n",
+                "Oh, my, my, my!{VAR BE01}\n",
+                "Your {VAR 0101 0001} can\n",
+                "use {VAR 0107 0000}!{VAR BE01}\n",
+                "Did you go to the trouble of teaching it\n",
+                "to your Pokémon? Marvelous!{VAR BE01}\n",
+                "This is a small token of my appreciation.\n",
+                "Please don't hesitate to accept this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_111_0004",
+            "en_US": [
+                "I'm touched that you came all the way\n",
+                "here, yet you are being so unkind."
+            ]
+        },
+        {
+            "id": "a003_111_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_111_0006",
+            "en_US": [
+                "Oh, my goodness. Your {VAR 0101 0001} can\n",
+                "use {VAR 0107 0000}!{VAR BE01}\n",
+                "You went to all the trouble of teaching\n",
+                "it to your Pokémon? That's so touching!{VAR BE01}\n",
+                "This is a small token of my appreciation.\n",
+                "Please don't hesitate to accept this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_111_0007",
+            "en_US": [
+                "I wonder what {VAR 0107 0000} looks like\n",
+                "when it is actually used.{VAR BE01}\n",
+                "I am sure you can use it skillfully!"
+            ]
+        },
+        {
+            "id": "a003_111_0008",
+            "en_US": [
+                "You know there are many kinds\n",
+                "of Pokémon?{VAR BE01}\n",
+                "Different kinds of Pokémon can learn\n",
+                "different kinds of moves."
+            ]
+        }
+    ]
+}

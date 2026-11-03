@@ -1,0 +1,27 @@
+{
+    "flags": 224,
+    "pad": "3030",
+    "messages": [
+        {
+            "id": "a003_265_0000",
+            "en_US": [
+                "The way the bridge curves right here...\n",
+                "I've never seen anything like it!"
+            ]
+        },
+        {
+            "id": "a003_265_0001",
+            "en_US": [
+                "Hm! I'm searching for the exact\n",
+                "centerpoint of Skyarrow Bridge!"
+            ]
+        },
+        {
+            "id": "a003_265_0002",
+            "en_US": [
+                "Wooow... That's...\n",
+                "That's the Castelia City skyline!"
+            ]
+        }
+    ]
+}

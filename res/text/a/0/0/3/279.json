@@ -1,0 +1,265 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_279_0000",
+            "en_US": [
+                "...\n",
+                "...You, huh.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0001",
+            "en_US": [
+                "Ghetsis is gone.{VAR BE01}\n",
+                "He went off somewhere alone\n",
+                "after we rescued him from the castle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0002",
+            "en_US": [
+                "From the day Ghetsis saved our lives,\n",
+                "we have sworn to be loyal to him.{VAR BE01}\n",
+                "Even now, after he ordered\n",
+                "us not to search for him.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0003",
+            "en_US": "Also, Ghetsis said to give you this...{VAR BE01}"
+        },
+        {
+            "id": "a003_279_0004",
+            "en_US": "As well as this...{VAR BE01}"
+        },
+        {
+            "id": "a003_279_0005",
+            "en_US": "And this, also.{VAR BE01}"
+        },
+        {
+            "id": "a003_279_0006",
+            "en_US": [
+                "Ghetsis...\n",
+                "Where did he find these?{VAR BE00}\n",
+                "What was he planning to do with them?{VAR BE00}\n",
+                "Why did he give them to you?{VAR BE00}\n",
+                "There's no way to know now.{VAR BE01}\n",
+                "Is he testing you?\n",
+                "Or...using you?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0007",
+            "en_US": [
+                "We, the Shadow Triad, have always\n",
+                "been and will always be the{VAR BE00}\n",
+                "loyal servants of Ghetsis.{VAR BE01}\n",
+                "And Ghetsis's ambitions will never cease!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0008",
+            "en_US": [
+                "Never shall we meet again.{VAR BE01}\n",
+                "Farewell!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0009",
+            "en_US": [
+                "Will you come see the famous Patrat\n",
+                "show at Marvelous Bridge?"
+            ]
+        },
+        {
+            "id": "a003_279_0010",
+            "en_US": [
+                "OK!\n",
+                "I'm going to get all fired up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0011",
+            "en_US": [
+                "Oh... I'm confident you will be greatly\n",
+                "entertained, so come again sometime!"
+            ]
+        },
+        {
+            "id": "a003_279_0012",
+            "en_US": [
+                "Ready all Patrat!\n",
+                "Everyone gather up!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0013",
+            "en_US": [
+                "The Patrat that I will have you\n",
+                "follow today is...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0014",
+            "en_US": [
+                "This--the li'l Patrat with\n",
+                "the brightest smile!{VAR BE01}\n",
+                "It's holding a {VAR 0109 0000}!\n",
+                "Ready, set, go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0015",
+            "en_US": [
+                "This--the li'l Patrat with the\n",
+                "cutest dimples!{VAR BE01}\n",
+                "It's holding a {VAR 0109 0000}!\n",
+                "Ready, set, go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0016",
+            "en_US": [
+                "This--the li'l Patrat with the\n",
+                "trendiest eyebrows!{VAR BE01}\n",
+                "It's holding a {VAR 0109 0000}!\n",
+                "Ready, set, go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0017",
+            "en_US": [
+                "This--the li'l Patrat with the\n",
+                "biggest belly!{VAR BE01}\n",
+                "It's holding a {VAR 0109 0000}!\n",
+                "Ready, set, go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0018",
+            "en_US": [
+                "OK! Find the Patrat that\n",
+                "I asked you to follow!"
+            ]
+        },
+        {
+            "id": "a003_279_0019",
+            "en_US": [
+                "That Patrat is holding\n",
+                "a {VAR 0109 0000}, right?"
+            ]
+        },
+        {
+            "id": "a003_279_0020",
+            "en_US": [
+                "You are...\n",
+                "...{VAR BE00}\n",
+                "...{VAR BE00}\n",
+                "...{VAR BE00}\n",
+                "totally correct!{VAR BE01}\n",
+                "Receive your prize, a {VAR 0109 0000},\n",
+                "from that Patrat!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0021",
+            "en_US": [
+                "You are...\n",
+                "...{VAR BE00}\n",
+                "...{VAR BE00}\n",
+                "...{VAR BE00}\n",
+                "inconceivably incorrect! I'm sorry...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0022",
+            "en_US": [
+                "That marks the grand finale of\n",
+                "our Patrat show!{VAR BE00}\n",
+                "Thank you, one and all!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_279_0023",
+            "en_US": [
+                "You want to see the Patrat again?{VAR BE01}\n",
+                "There are a lot of preparations and\n",
+                "such to make, so come back tomorrow!"
+            ]
+        },
+        {
+            "id": "a003_279_0024",
+            "en_US": "Skreeet?"
+        },
+        {
+            "id": "a003_279_0025",
+            "en_US": [
+                "Man: Son!\n",
+                "I have a deal for YOU! And for you alone.{VAR BE01}\n",
+                "Here's your chance. I will sell you the\n",
+                "secret Pokémon Magikarp...{VAR BE00}\n",
+                "For an unbelievable $500!{VAR BE01}\n",
+                "How about it? Interested?"
+            ]
+        },
+        {
+            "id": "a003_279_0026",
+            "en_US": [
+                "Man: Miss!\n",
+                "I have a deal for YOU! And for you alone.{VAR BE01}\n",
+                "Here's your chance. I will sell you the\n",
+                "secret Pokémon Magikarp...{VAR BE00}\n",
+                "For an unbelievable $500!{VAR BE01}\n",
+                "How about it? Interested?"
+            ]
+        },
+        {
+            "id": "a003_279_0027",
+            "en_US": [
+                "{VAR 0100 0000} bought the Magikarp\n",
+                "for $500."
+            ]
+        },
+        {
+            "id": "a003_279_0028",
+            "en_US": [
+                "Would you like to give a\n",
+                "nickname to this Magikarp?"
+            ]
+        },
+        {
+            "id": "a003_279_0029",
+            "en_US": "Looks like you don't have enough money."
+        },
+        {
+            "id": "a003_279_0030",
+            "en_US": "You have no room in your party!"
+        },
+        {
+            "id": "a003_279_0031",
+            "en_US": "Oh, that's too bad..."
+        },
+        {
+            "id": "a003_279_0032",
+            "en_US": [
+                "Man: Oh, yeah...\n",
+                "Returns not accepted, got that?"
+            ]
+        },
+        {
+            "id": "a003_279_0033",
+            "en_US": [
+                "Ahh...\n",
+                "Such magnificent scenery..."
+            ]
+        },
+        {
+            "id": "a003_279_0034",
+            "en_US": [
+                "Huh... Wha...\n",
+                "D-did she just disappear?"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_113_0000",
+            "en_US": [
+                "Hee-hee!\n",
+                "I've been waiting for you.{VAR BE01}\n",
+                "Did you enjoy flying with the help of\n",
+                "the Mistralton Gym cannons?{VAR BE01}\n",
+                "They're my pride and joy!{VAR BE01}\n",
+                "This time, let's try something else!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_113_0001",
+            "en_US": [
+                "You're an amazing Pokémon Trainer.{VAR BE01}\n",
+                "My Pokémon and I are happy,\n",
+                "because for the first time in a while,{VAR BE00}\n",
+                "we could fight with our full strength.{VAR BE01}\n",
+                "This is an official League Gym Badge.\n",
+                "I think it will look good on you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_113_0002",
+            "en_US": [
+                "{VAR 0100 0000} received the\n",
+                "Jet Badge from Skyla.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_113_0003",
+            "en_US": [
+                "Wow, hot stuff!{VAR BE01}\n",
+                "With that many Gym Badges,\n",
+                "Pokémon up to Lv. 70 will obey you.{VAR BE01}\n",
+                "Also, as thanks for a Pokémon battle\n",
+                "that made me very happy,{VAR BE00}\n",
+                "I want you to have this TM.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_113_0004",
+            "en_US": [
+                "My present to you is Acrobatics.\n",
+                "If the user doesn't have a held item,{VAR BE00}\n",
+                "its power doubles.{VAR BE00}\n",
+                "It's a pretty technical move.{VAR BE01}\n",
+                "Be sure to compensate for the\n",
+                "lack of a held item!{VAR BE01}\n",
+                "By the way, when I flew over\n",
+                "Twist Mountain on the way{VAR BE00}\n",
+                "to Icirrus City...{VAR BE01}\n",
+                "Team Plasma--is that the name?\n",
+                "Anyway, they were heading for the city.{VAR BE01}\n",
+                "What kind of people are they?"
+            ]
+        },
+        {
+            "id": "a003_113_0005",
+            "en_US": [
+                "Icirrus City, where you'll find the next\n",
+                "Gym, is past Route 7, just after you{VAR BE00}\n",
+                "cross Twist Mountain.{VAR BE01}\n",
+                "It's a hop, skip, and a jump when flying,\n",
+                "but it's a really challenging walk.{VAR BE01}\n",
+                "Heads up! Make sure you're ready for it!"
+            ]
+        },
+        {
+            "id": "a003_113_0006",
+            "en_US": [
+                "Skyla: Are you and your Pokémon well?\n",
+                "Our battle together was so much fun.{VAR BE01}\n",
+                "Now, my Pokémon and I have started\n",
+                "training again.{VAR BE01}\n",
+                "I don't usually let people travel in my\n",
+                "cargo plane, but battling with you was{VAR BE00}\n",
+                "such a blast that I'd make an exception."
+            ]
+        },
+        {
+            "id": "a003_113_0007",
+            "en_US": "Please take this Fresh Water!{VAR BE01}"
+        },
+        {
+            "id": "a003_113_0008",
+            "en_US": [
+                "Just between you and me...{VAR BE01}\n",
+                "Rock, Electric, Ice... Flying types have\n",
+                "more weaknesses than people know about.{VAR BE01}\n",
+                "If you use Pokémon and moves of those\n",
+                "types, victory is practically yours!{VAR BE01}\n",
+                "By the way, to proceed in this Gym,\n",
+                "you climb in the cannons to move forward.{VAR BE01}\n",
+                "The cannons go up, down, left, and right.\n",
+                "You can get in them from anywhere!"
+            ]
+        },
+        {
+            "id": "a003_113_0009",
+            "en_US": [
+                "Woo! Not many people look that good\n",
+                "being shot out of a cannon...{VAR BE00}\n",
+                "You make it look easy!{VAR BE01}\n",
+                "And congratulations on your victory\n",
+                "against the Gym Leader."
+            ]
+        },
+        {
+            "id": "a003_113_0010",
+            "en_US": [
+                "Mistralton Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Skyla\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_113_0011",
+            "en_US": [
+                "Mistralton Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Skyla\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_113_0012",
+            "en_US": [
+                "Mistralton Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Skyla\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

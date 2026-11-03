@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_404_0000",
+            "en_US": [
+                "I'm one of the gate receptionists.\n",
+                "Our assigned places change daily.{VAR BE00}\n",
+                "Can you believe it?"
+            ]
+        },
+        {
+            "id": "a003_404_0001",
+            "en_US": [
+                "Do you check electric bulletin boards?{VAR BE01}\n",
+                "The news about Pokémon mass outbreaks\n",
+                "is hot now!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_012_0000",
+            "en_US": [
+                "Welcome to the Striaton City\n",
+                "Pokémon Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_012_0002",
+            "en_US": [
+                "I'm Chili! I light things up with\n",
+                "Fire-type Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0003",
+            "en_US": [
+                "I'm a Water-type specialist,\n",
+                "and my name is Cress.{VAR BE00}\n",
+                "Pleased to make your acquaintance.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0004",
+            "en_US": [
+                "And my name is Cilan.\n",
+                "I like Grass-type Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0005",
+            "en_US": [
+                "Cilan: Um, you see...{VAR BE01}\n",
+                "As for why the three of us, um,\n",
+                "are all here is, well, er...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0006",
+            "en_US": [
+                "Chili: Oh, enough! Listen up!{VAR BE01}\n",
+                "The three of us will\n",
+                "decide whom you'll battle!{VAR BE01}\n",
+                "It'll be based on the type of\n",
+                "the first Pokémon you chose!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0007",
+            "en_US": [
+                "Cress: That is indeed the case.{VAR BE01}\n",
+                "And the partner you first chose was\n",
+                "{VAR 0103 0000} type, it seems.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0008",
+            "en_US": [
+                "Ta-da! The Fire-type scorcher Chili--\n",
+                "that's me--will be your opponent!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0009",
+            "en_US": [
+                "That is correct!{VAR BE01}\n",
+                "It shall be I and my esteemed Water\n",
+                "types that you must face in battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0010",
+            "en_US": [
+                "Nothing personal... No hard feelings...\n",
+                "Me and my Grass-type Pokémon will...um...{VAR BE00}\n",
+                "We're gonna battle, come what may.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0011",
+            "en_US": [
+                "Yeeeeooow!{VAR BE01}\n",
+                "Time to play with FIRE!!\n",
+                "I'm the strongest of us brothers!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0012",
+            "en_US": [
+                "What incredible luck for you--you get to\n",
+                "battle the best among the three of us.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0013",
+            "en_US": [
+                "So, um, if you're OK with me, I'll, um,\n",
+                "put everything I've got into being, er,{VAR BE00}\n",
+                "you know, your opponent.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0014",
+            "en_US": [
+                "Aww, man!\n",
+                "I was all fired up, too!"
+            ]
+        },
+        {
+            "id": "a003_012_0015",
+            "en_US": [
+                "How exceedingly lucky for you\n",
+                "that you do not have to face me."
+            ]
+        },
+        {
+            "id": "a003_012_0016",
+            "en_US": [
+                "...Uh hm. I always seem to lose\n",
+                "the timing of...of the dance. Like that.{VAR BE01}\n",
+                "True enough, I did want to...\n",
+                "want to have a Pokémon battle with you."
+            ]
+        },
+        {
+            "id": "a003_012_0017",
+            "en_US": [
+                "Whoa ho! You're on fire!{VAR BE01}\n",
+                "Well, it's the Pokémon League's rule.\n",
+                "Take this Gym Badge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0018",
+            "en_US": [
+                "Why, you're quite remarkable.{VAR BE01}\n",
+                "It's the Pokémon League's rule, so--\n",
+                "please take this Badge.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0019",
+            "en_US": [
+                "...What a surprise.\n",
+                "You...are very strong.{VAR BE01}\n",
+                "Seems like not even\n",
+                "Chili or Cress could beat you...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0020",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the Trio Badge from Chili!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0021",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the Trio Badge from Cress!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0022",
+            "en_US": [
+                "{VAR 0100 0000} received\n",
+                "the Trio Badge from Cilan!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0023",
+            "en_US": [
+                "Gym Badges are proof\n",
+                "of a Trainer's abilities.{VAR BE01}\n",
+                "If you have one Badge, Pokémon, including\n",
+                "traded Pokémon up to Lv. 20,{VAR BE00}\n",
+                "will obey you without question.{VAR BE01}\n",
+                "We also want you to have this.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0024",
+            "en_US": [
+                "{VAR 0109 0000} contains Work Up.{VAR BE01}\n",
+                "If you use Work Up, the Pokémon's\n",
+                "Attack and Sp. Atk go up!{VAR BE01}\n",
+                "By the way, TMs can be used\n",
+                "as many times as you want."
+            ]
+        },
+        {
+            "id": "a003_012_0025",
+            "en_US": [
+                "In the Unova region, we are still\n",
+                "novice Gym Leaders.{VAR BE01}\n",
+                "Which means the other Gym Leaders\n",
+                "are much stronger than we are.{VAR BE00}\n",
+                "We'll need to work hard and improve."
+            ]
+        },
+        {
+            "id": "a003_012_0026",
+            "en_US": [
+                "I can't believe TMs can be used\n",
+                "over and over!{VAR BE01}\n",
+                "If you wanted, you could use one to\n",
+                "teach all your Pokémon the same move!"
+            ]
+        },
+        {
+            "id": "a003_012_0027",
+            "en_US": [
+                "If there were 17 siblings in\n",
+                "the Striaton City Gym...{VAR BE01}\n",
+                "There could be a specialist for\n",
+                "each type of Pokémon."
+            ]
+        },
+        {
+            "id": "a003_012_0028",
+            "en_US": [
+                "Cilan: In the Unova region, um,\n",
+                "we are still novice Gym Leaders.{VAR BE01}\n",
+                "Which means, well, that other Gym\n",
+                "Leaders are much stronger than we are.{VAR BE01}\n",
+                "Going...slow...and steady...is OK, so...\n",
+                "we compete with one another{VAR BE00}\n",
+                "and get, um, stronger and stronger."
+            ]
+        },
+        {
+            "id": "a003_012_0029",
+            "en_US": [
+                "Chili: Oh! It's you!{VAR BE01}\n",
+                "Your fire is more intense than\n",
+                "when you got the Trio Badge!"
+            ]
+        },
+        {
+            "id": "a003_012_0030",
+            "en_US": [
+                "Cress: ...We heard about\n",
+                "the incident with N's Castle.{VAR BE01}\n",
+                "If we had received the message in time,\n",
+                "the three of us could have helped."
+            ]
+        },
+        {
+            "id": "a003_012_0031",
+            "en_US": [
+                "Hello! I'm Clyde. I'm the guide for\n",
+                "Trainers challenging a Pokémon Gym.{VAR BE01}\n",
+                "We appreciate your challenging the Gym.\n",
+                "Take this to commemorate the occasion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_012_0032",
+            "en_US": [
+                "One basic element of Pokémon battles is\n",
+                "the relationship between types.{VAR BE01}\n",
+                "If you choose Pokémon with effective\n",
+                "types and effective moves,{VAR BE00}\n",
+                "victory is just a step away!{VAR BE01}\n",
+                "In this Gym, you proceed by\n",
+                "stepping on the switch with{VAR BE00}\n",
+                "the type that is effective against the{VAR BE00}\n",
+                "Pokémon type shown on the curtain."
+            ]
+        },
+        {
+            "id": "a003_012_0033",
+            "en_US": [
+                "I hope you'll always remember the\n",
+                "incredible moment when you received{VAR BE00}\n",
+                "this Gym Badge."
+            ]
+        },
+        {
+            "id": "a003_012_0034",
+            "en_US": [
+                "Welcome!{VAR BE01}\n",
+                "We are very proud of our menu,\n",
+                "which we adjust to suit each Trainer!"
+            ]
+        },
+        {
+            "id": "a003_012_0035",
+            "en_US": [
+                "Striaton Pokémon Gym{VAR BE01}\n",
+                "Gym Leaders: Cress, Chili, and Cilan\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_012_0036",
+            "en_US": [
+                "Striaton Pokémon Gym{VAR BE01}\n",
+                "Gym Leaders: Cress, Chili, and Cilan\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_012_0037",
+            "en_US": [
+                "Striaton Pokémon Gym{VAR BE01}\n",
+                "Gym Leaders: Cress, Chili, and Cilan\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

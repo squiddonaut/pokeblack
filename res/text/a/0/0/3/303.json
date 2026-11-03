@@ -1,0 +1,429 @@
+{
+    "flags": 224,
+    "pad": "c4c4",
+    "messages": [
+        {
+            "id": "a003_303_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_303_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_303_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_303_0003",
+            "en_US": [
+                "Is there anything you'd like to know\n",
+                "about the Entralink?"
+            ]
+        },
+        {
+            "id": "a003_303_0004",
+            "en_US": [
+                "If there is anything you don't\n",
+                "understand, you may ask the girls, too."
+            ]
+        },
+        {
+            "id": "a003_303_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_303_0006",
+            "en_US": [
+                "The Entralink is a mysterious place to\n",
+                "connect with someone's world.{VAR BE01}\n",
+                "If you cross a bridge in the Entralink,\n",
+                "you will be able to go to someone's world.{VAR BE01}\n",
+                "There, you should be able to help the\n",
+                "adventurer in that world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0007",
+            "en_US": [
+                "The power stored in this tree is called\n",
+                "Pass Power.{VAR BE01}\n",
+                "You can register only one Pass Power in\n",
+                "your C-Gear. You use it by aiming at{VAR BE00}\n",
+                "people you pass by with the{VAR BE00}\n",
+                "Tag Log.{VAR BE01}\n",
+                "But you need a Pass Orb to use\n",
+                "Pass Power.{VAR BE01}\n",
+                "Carry out a mission in someone else's\n",
+                "world and collect Pass Orbs.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0008",
+            "en_US": "Entralink",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0009",
+            "en_US": "Pass Power",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0010",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0011",
+            "en_US": [
+                "Oh, someone showed up...\n",
+                "Welcome to the Entralink.{VAR BE01}\n",
+                "Hm?{VAR BE01}\n",
+                "Judging by the look of you, you don't\n",
+                "seem to know where you are.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0012",
+            "en_US": [
+                "This is an island called the Entralink.\n",
+                "It's located in the center of the{VAR BE00}\n",
+                "Unova region.{VAR BE01}\n",
+                "The Entralink is a mysterious place where\n",
+                "you can connect with someone's world.{VAR BE01}\n",
+                "If you go to someone's world by passing\n",
+                "through this island, you will be able to{VAR BE00}\n",
+                "meet an adventurer in the world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0013",
+            "en_US": [
+                "And you can help that adventurer.{VAR BE01}\n",
+                "Yes! If you want to help, cross a bridge\n",
+                "in this island and go to someone's world.{VAR BE01}\n",
+                "There must be someone who is waiting\n",
+                "for you there!"
+            ]
+        },
+        {
+            "id": "a003_303_0014",
+            "en_US": [
+                "This bridge will connect to someone\n",
+                "else's world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0015",
+            "en_US": [
+                "Is there anything you'd like to know\n",
+                "about a connection at a bridge?"
+            ]
+        },
+        {
+            "id": "a003_303_0016",
+            "en_US": [
+                "When you are on a bridge, a search will\n",
+                "start to find a person to connect with.{VAR BE01}\n",
+                "If the bridge connects, you will be able\n",
+                "to cross into that person's world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0017",
+            "en_US": [
+                "This bridge will connect to the world of a\n",
+                "person who is having an adventurous{VAR BE00}\n",
+                "journey in a town or on a road{VAR BE00}\n",
+                "around the Entralink.{VAR BE01}\n",
+                "If you cross the bridge, you will be able\n",
+                "to help with that person's adventure.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0018",
+            "en_US": [
+                "Now, please go to the bridge.{VAR BE01}\n",
+                "If it connects to someone else's world,\n",
+                "you'll be able to cross."
+            ]
+        },
+        {
+            "id": "a003_303_0019",
+            "en_US": "How to connect",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0020",
+            "en_US": "Connecting with someone",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0021",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0022",
+            "en_US": [
+                "This bridge will connect to someone\n",
+                "else's world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0023",
+            "en_US": [
+                "Is there anything you'd like to know\n",
+                "about a connection at a bridge?"
+            ]
+        },
+        {
+            "id": "a003_303_0024",
+            "en_US": [
+                "When you are on a bridge, a search will\n",
+                "start to find a person to connect with.{VAR BE01}\n",
+                "If the bridge connects, you will be able\n",
+                "to cross into that person's world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0025",
+            "en_US": [
+                "This bridge will connect to the world of a\n",
+                "person who is having an adventurous{VAR BE00}\n",
+                "journey in a town or on a road{VAR BE00}\n",
+                "around the Entralink.{VAR BE01}\n",
+                "If you cross the bridge, you will be able\n",
+                "to help with that person's adventure.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0026",
+            "en_US": [
+                "Now, please go to the bridge.{VAR BE01}\n",
+                "If it connects to someone else's world,\n",
+                "you'll be able to cross."
+            ]
+        },
+        {
+            "id": "a003_303_0027",
+            "en_US": "How to connect",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0028",
+            "en_US": "Connecting with someone",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0029",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0030",
+            "en_US": [
+                "The Entree Forest connects dreams\n",
+                "and reality.{VAR BE01}\n",
+                "People say dreams come true here.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0031",
+            "en_US": [
+                "Is there anything you'd like to know\n",
+                "about the Entree Forest?"
+            ]
+        },
+        {
+            "id": "a003_303_0032",
+            "en_US": [
+                "The Entree Forest is a place where\n",
+                "dreams come true.{VAR BE01}\n",
+                "When a dreaming Pokémon wakes up in\n",
+                "Game Sync, its dream will come true in{VAR BE00}\n",
+                "this forest.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0033",
+            "en_US": [
+                "Pokémon that your Pokémon met in its\n",
+                "dream will show up in the Entralink{VAR BE00}\n",
+                "in a Forest Clearing.{VAR BE01}\n",
+                "Pokémon in a Forest Clearing will be\n",
+                "your friends for sure!{VAR BE01}\n",
+                "If you move the Pokémon to the Deepest\n",
+                "Clearing, they will wait for you there.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0034",
+            "en_US": [
+                "When your Pokémon wakes up from a\n",
+                "dream, please come to this forest."
+            ]
+        },
+        {
+            "id": "a003_303_0035",
+            "en_US": "Entree Forest",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0036",
+            "en_US": "Forest Clearing and Deepest Clearing",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0037",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0038",
+            "en_US": [
+                "You can go back to the original world\n",
+                "from this place.{VAR BE01}\n",
+                "If you want to go back to the original\n",
+                "world, please come back here."
+            ]
+        },
+        {
+            "id": "a003_303_0039",
+            "en_US": [
+                "Welcome to someone else's world.{VAR BE01}\n",
+                "Here, you can help the adventurer in\n",
+                "this world.{VAR BE01}\n",
+                "Now, touch this tree to receive\n",
+                "a mission.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0040",
+            "en_US": "Is there anything you'd like to know?"
+        },
+        {
+            "id": "a003_303_0041",
+            "en_US": [
+                "Now, receive a mission and\n",
+                "help the adventurer."
+            ]
+        },
+        {
+            "id": "a003_303_0042",
+            "en_US": [
+                "To help the adventurer traveling in this\n",
+                "world, touch this tree and receive{VAR BE00}\n",
+                "a mission.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0043",
+            "en_US": [
+                "A mission is a means to help the\n",
+                "adventurer in this world.{VAR BE01}\n",
+                "If you check this tree, you can receive\n",
+                "a mission.{VAR BE01}\n",
+                "Now, receive a mission and go find\n",
+                "the adventurer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0044",
+            "en_US": [
+                "In this world, you can travel by warping\n",
+                "around, because this world is made of{VAR BE00}\n",
+                "your dream.{VAR BE01}\n",
+                "If you imagine a place, you can\n",
+                "warp there.{VAR BE01}\n",
+                "Now, receive a mission and go find\n",
+                "the adventurer.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_303_0045",
+            "en_US": "Mission",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0046",
+            "en_US": "Warp",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0047",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_303_0048",
+            "en_US": [
+                "First, cross a bridge in the Entralink,\n",
+                "and go to someone's world.{VAR BE01}\n",
+                "There must be someone who is waiting\n",
+                "for you there."
+            ]
+        },
+        {
+            "id": "a003_303_0049",
+            "en_US": [
+                "You've chosen a mission!\n",
+                "In order to accomplish the mission,{VAR BE00}\n",
+                "go find the adventurer!{VAR BE01}\n",
+                "The adventurer's location is shown on\n",
+                "the map below.{VAR BE01}\n",
+                "Touch the place on the map and you can\n",
+                "warp there.{VAR BE01}\n",
+                "Rely on the map, meet the adventurer,\n",
+                "and accomplish the mission!"
+            ]
+        },
+        {
+            "id": "a003_303_0050",
+            "en_US": [
+                "Wonderful! You accomplished the mission!\n",
+                "I didn't expect you to make it this far...{VAR BE01}\n",
+                "Your success brought happiness to the\n",
+                "Entralink, and the tree grew a little bit.{VAR BE01}\n",
+                "Mysterious power will gather here as this\n",
+                "tree grows bigger.{VAR BE01}\n",
+                "You may be able to receive this power!{VAR BE01}\n",
+                "Touch this tree and try to receive the\n",
+                "mysterious power...{VAR BE00}\n",
+                "Pass Power."
+            ]
+        },
+        {
+            "id": "a003_303_0051",
+            "en_US": [
+                "Oh, it seems you've failed in the mission.\n",
+                "Well, nobody's perfect.{VAR BE01}\n",
+                "Please cross the bridge and try it again!{VAR BE01}\n",
+                "The tip is to look at the map closely and\n",
+                "find the adventurer."
+            ]
+        },
+        {
+            "id": "a003_303_0052",
+            "en_US": [
+                "Oooooh! You've received a Pass Power!\n",
+                "It's wonderful! Really wonderful!{VAR BE01}\n",
+                "Pass Power can help people who\n",
+                "passed by.{VAR BE01}\n",
+                "Check the Tag Log in your\n",
+                "C-Gear later.{VAR BE01}\n",
+                "...Well, that's really all I can\n",
+                "teach you.{VAR BE01}\n",
+                "The power of this Entralink is all yours.{VAR BE01}\n",
+                "Help a lot of adventurers via the\n",
+                "Entralink, and collect a lot of happiness.{VAR BE01}\n",
+                "Collect a lot of happiness, and get\n",
+                "all the powers!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "flags": 224,
+    "pad": "d6d6",
+    "messages": [
+        {
+            "id": "a003_427_0000",
+            "en_US": [
+                "{VAR 0101 0000} is\n",
+                "moving around energetically!"
+            ]
+        },
+        {
+            "id": "a003_427_0001",
+            "en_US": [
+                "{VAR 0101 0000} looks happy\n",
+                "to meet {VAR 0100 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_427_0002",
+            "en_US": [
+                "{VAR 0101 0000} seems to want\n",
+                "to join {VAR 0100 0001}'s party...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_427_0003",
+            "en_US": [
+                "Would you like to add\n",
+                "the Pokémon to your party?"
+            ]
+        },
+        {
+            "id": "a003_427_0004",
+            "en_US": [
+                "Would you like {VAR 0101 0000}\n",
+                "to move to the Deepest Clearing?"
+            ]
+        },
+        {
+            "id": "a003_427_0005",
+            "en_US": [
+                "There's no more room in the Deepest\n",
+                "Clearing, so {VAR 0101 0000} could not move!"
+            ]
+        },
+        {
+            "id": "a003_427_0006",
+            "en_US": [
+                "Would you like {VAR 0101 0000}\n",
+                "to move to the Forest Clearing?"
+            ]
+        },
+        {
+            "id": "a003_427_0007",
+            "en_US": [
+                "There's no more room in the Forest\n",
+                "Clearing, so {VAR 0101 0000} could not move!"
+            ]
+        },
+        {
+            "id": "a003_427_0008",
+            "en_US": [
+                "{VAR 0101 0000} moved to\n",
+                "the Deepest Clearing!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_427_0009",
+            "en_US": [
+                "{VAR 0101 0000} moved to\n",
+                "the Forest Clearing!{VAR BE01}"
+            ]
+        }
+    ]
+}

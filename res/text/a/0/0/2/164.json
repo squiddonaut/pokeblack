@@ -1,0 +1,408 @@
+{
+    "flags": 216,
+    "messages": [
+        {
+            "id": "a002_164_0000",
+            "en_US": "The “How Do You Play the Game\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0001",
+            "en_US": "The “Details about People\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0002",
+            "en_US": "The “Pokémon Favorites\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0003",
+            "en_US": "The “Ideals and Values\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0004",
+            "en_US": "The “Likable People\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0005",
+            "en_US": "The “Preferences\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0006",
+            "en_US": "The “Entertainment\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0007",
+            "en_US": "The “School Life\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0008",
+            "en_US": "The “Sports and Pastimes\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0009",
+            "en_US": "The “More about Pokémon\" Survey",
+            "flags": 213
+        },
+        {
+            "id": "a002_164_0010",
+            "en_US": [
+                "This is a survey about how people play Pokémon\n",
+                "Black Version and Pokémon White Version."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0011",
+            "en_US": [
+                "This is a survey to find out details\n",
+                "about people."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0012",
+            "en_US": [
+                "This is a survey to find out people's\n",
+                "preferences when it comes to Pokémon."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0013",
+            "en_US": [
+                "This is a survey to find out about the ideals\n",
+                "and values of people."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0014",
+            "en_US": [
+                "This is a survey to find out about what kinds\n",
+                "of people are most likable."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0015",
+            "en_US": [
+                "This is a survey to find out about people's\n",
+                "tastes in seasons, food, and art."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0016",
+            "en_US": [
+                "This is a survey to find out what kinds of\n",
+                "entertainment people enjoy."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0017",
+            "en_US": [
+                "This is a survey to find out about people's\n",
+                "school life."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0018",
+            "en_US": [
+                "This is a survey to find out what people like\n",
+                "to do in their spare time."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0019",
+            "en_US": [
+                "This is a detailed survey to find out\n",
+                "more about what people think of Pokémon."
+            ],
+            "flags": 256
+        },
+        {
+            "id": "a002_164_0020",
+            "en_US": "Which version do you play?"
+        },
+        {
+            "id": "a002_164_0021",
+            "en_US": "Are you male or female?"
+        },
+        {
+            "id": "a002_164_0022",
+            "en_US": "Which do you prefer, battle or trade?"
+        },
+        {
+            "id": "a002_164_0023",
+            "en_US": "Would you live in the city or country?"
+        },
+        {
+            "id": "a002_164_0024",
+            "en_US": "What kind of person do you prefer?"
+        },
+        {
+            "id": "a002_164_0025",
+            "en_US": "Which do you wish you had more of?"
+        },
+        {
+            "id": "a002_164_0026",
+            "en_US": "Which do you value more in a person?"
+        },
+        {
+            "id": "a002_164_0027",
+            "en_US": "What kind of Pokémon do you like best?"
+        },
+        {
+            "id": "a002_164_0028",
+            "en_US": "What's your starter Pokémon?"
+        },
+        {
+            "id": "a002_164_0029",
+            "en_US": "Where would you go for a vacation?"
+        },
+        {
+            "id": "a002_164_0030",
+            "en_US": "What's your favorite time at school?"
+        },
+        {
+            "id": "a002_164_0031",
+            "en_US": "What's most important to you?"
+        },
+        {
+            "id": "a002_164_0032",
+            "en_US": "What season do you like best?"
+        },
+        {
+            "id": "a002_164_0033",
+            "en_US": "What kind of food do you like best?"
+        },
+        {
+            "id": "a002_164_0034",
+            "en_US": "What kind of people do you like best?"
+        },
+        {
+            "id": "a002_164_0035",
+            "en_US": "What do you like about Pokémon?"
+        },
+        {
+            "id": "a002_164_0036",
+            "en_US": "What subject do you like best?"
+        },
+        {
+            "id": "a002_164_0037",
+            "en_US": "What subject do you like least?"
+        },
+        {
+            "id": "a002_164_0038",
+            "en_US": "What do you want to become?"
+        },
+        {
+            "id": "a002_164_0039",
+            "en_US": "What do you do in your spare time?"
+        },
+        {
+            "id": "a002_164_0040",
+            "en_US": "What kind of music do you like?"
+        },
+        {
+            "id": "a002_164_0041",
+            "en_US": "What kind of TV programs do you like?"
+        },
+        {
+            "id": "a002_164_0042",
+            "en_US": "What kind of movies do you like?"
+        },
+        {
+            "id": "a002_164_0043",
+            "en_US": "What's your favorite sport?"
+        },
+        {
+            "id": "a002_164_0044",
+            "en_US": "What's your favorite color?"
+        },
+        {
+            "id": "a002_164_0045",
+            "en_US": "What's your hobby?"
+        },
+        {
+            "id": "a002_164_0046",
+            "en_US": "What kind of job do you have?"
+        },
+        {
+            "id": "a002_164_0047",
+            "en_US": "Which Gym Leader do you like best?"
+        },
+        {
+            "id": "a002_164_0048",
+            "en_US": "What Pokémon type do you like best?"
+        },
+        {
+            "id": "a002_164_0049",
+            "en_US": "How long have you been playing?"
+        },
+        {
+            "id": "a002_164_0050",
+            "en_US": [
+                "The “Pokémon Black Version or\n",
+                "Pokémon White Version\" Survey"
+            ],
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0051",
+            "en_US": "The “Gender\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0052",
+            "en_US": "The “Battle vs. Trade\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0053",
+            "en_US": "The “Where to Live\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0054",
+            "en_US": "The “Smart vs. Athletic\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0055",
+            "en_US": "The “Time vs. Money\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0056",
+            "en_US": "The “Appearance vs. Substance\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0057",
+            "en_US": "The “Favorite Kind of Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0058",
+            "en_US": "The “Starter Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0059",
+            "en_US": "The “Vacation Spot\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0060",
+            "en_US": "The “School Days\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0061",
+            "en_US": "The “Important People\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0062",
+            "en_US": "The “Seasons\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0063",
+            "en_US": "The “Food\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0064",
+            "en_US": "The “Popular People\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0065",
+            "en_US": "The “Best Thing about Pokémon\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0066",
+            "en_US": "The “Favorite Subject\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0067",
+            "en_US": "The “Worst Subject\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0068",
+            "en_US": "The “Pokémon Jobs\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0069",
+            "en_US": "The “Leisure Time\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0070",
+            "en_US": "The “Music\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0071",
+            "en_US": "The “TV\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0072",
+            "en_US": "The “Movies\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0073",
+            "en_US": "The “Sports\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0074",
+            "en_US": "The “Colors\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0075",
+            "en_US": "The “Hobbies\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0076",
+            "en_US": "The “Jobs\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0077",
+            "en_US": "The “Gym Leaders\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0078",
+            "en_US": "The “Pokémon Types\" Survey",
+            "flags": 238
+        },
+        {
+            "id": "a002_164_0079",
+            "en_US": "The “Gameplay Time\" Survey",
+            "flags": 238
+        }
+    ]
+}

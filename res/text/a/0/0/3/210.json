@@ -1,0 +1,110 @@
+{
+    "flags": 224,
+    "pad": "f0f0",
+    "messages": [
+        {
+            "id": "a003_210_0000",
+            "en_US": [
+                "Team Plasma: Huh. Pretty strong...{VAR BE01}\n",
+                "But you're only strong because you\n",
+                "Trainers are controlling Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0001",
+            "en_US": [
+                "Cheren: So if you want to set\n",
+                "Pokémon free...{VAR BE01}\n",
+                "If that's what you want, you should\n",
+                "start with your own.{VAR BE01}\n",
+                "But taking people's Pokémon by force\n",
+                "is not right.{VAR BE01}\n",
+                "That is not real strength!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0002",
+            "en_US": [
+                "Team Plasma: Hey, there you are!{VAR BE01}\n",
+                "We found that thing we were looking for.\n",
+                "We should head for the tower now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0003",
+            "en_US": [
+                "Get this! Team Plasma has obtained\n",
+                "the power to change this world{VAR BE00}\n",
+                "and end people's control over Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0004",
+            "en_US": [
+                "Team Plasma: That's right!{VAR BE01}\n",
+                "We must use force in order to right\n",
+                "the wrongs of the world.{VAR BE01}\n",
+                "Now, let's gather around our king.\n",
+                "Our lord N!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0005",
+            "en_US": [
+                "Cheren: Those guys... I don't know what\n",
+                "they've found, but they go the extra{VAR BE00}\n",
+                "mile to gain power and cause trouble.{VAR BE00}\n",
+                "What a bothersome bunch...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0006",
+            "en_US": [
+                "{VAR 0100 0000}... I'm going to stay here\n",
+                "for a while.{VAR BE01}\n",
+                "I want to think a little bit about what\n",
+                "the Champion asked me...{VAR BE01}\n",
+                "What do I want to do with my power\n",
+                "after I get strong?{VAR BE01}\n",
+                "And why do I want to be strong in the\n",
+                "first place?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0007",
+            "en_US": [
+                "{VAR 0100 0000}... I'm going to stay here\n",
+                "for a while.{VAR BE01}\n",
+                "I want to think a little bit about what\n",
+                "the Champion asked me...{VAR BE01}\n",
+                "What do I want to do with my power\n",
+                "after I get strong?{VAR BE01}\n",
+                "And why do I want to be strong in the\n",
+                "first place?"
+            ]
+        },
+        {
+            "id": "a003_210_0008",
+            "en_US": [
+                "If you look for something in an empty\n",
+                "place like this, you can discover things!"
+            ]
+        },
+        {
+            "id": "a003_210_0009",
+            "en_US": [
+                "If you look for something in an empty\n",
+                "place like this, you can discover things!{VAR BE01}\n",
+                "Like this Fossil I just found! Take this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_210_0010",
+            "en_US": [
+                "If you come again tomorrow, you might be\n",
+                "able to find a Fossil of your own.{VAR BE00}\n",
+                "So come on out and play if ya want!"
+            ]
+        }
+    ]
+}

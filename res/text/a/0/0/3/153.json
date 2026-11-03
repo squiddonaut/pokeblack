@@ -1,0 +1,402 @@
+{
+    "flags": 224,
+    "pad": "9c9c",
+    "messages": [
+        {
+            "id": "a003_153_0000",
+            "en_US": [
+                "Hello, and welcome to Unity Tower!\n",
+                "Would you like to go upstairs?"
+            ]
+        },
+        {
+            "id": "a003_153_0001",
+            "en_US": [
+                "Indeed.\n",
+                "Please step inside the elevator.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0002",
+            "en_US": "Please come again."
+        },
+        {
+            "id": "a003_153_0003",
+            "en_US": [
+                "This is Unity Tower.{VAR BE01}\n",
+                "Trainers from all over the world cross\n",
+                "borders and oceans to gather here.{VAR BE01}\n",
+                "Visit whichever floor you like!{VAR BE01}\n",
+                "The more people you know worldwide,\n",
+                "the more floors you can visit.{VAR BE01}\n",
+                "Please enjoy all that we have to offer!"
+            ]
+        },
+        {
+            "id": "a003_153_0004",
+            "en_US": [
+                "Right now, the number of visitors in\n",
+                "Unity Tower is {VAR 0201 000B}."
+            ]
+        },
+        {
+            "id": "a003_153_0005",
+            "en_US": [
+                "Wow! So you like\n",
+                "{VAR 0128 0006}, then!"
+            ]
+        },
+        {
+            "id": "a003_153_0006",
+            "en_US": [
+                "Awesome! The ceiling is sooo high!{VAR BE01}\n",
+                "I wonder how many of me\n",
+                "you'd have to stack up to reach it?"
+            ]
+        },
+        {
+            "id": "a003_153_0007",
+            "en_US": [
+                "Coming to Unity Tower always\n",
+                "gets me excited!{VAR BE01}\n",
+                "Being here always reminds me of how big\n",
+                "the world really is!"
+            ]
+        },
+        {
+            "id": "a003_153_0008",
+            "en_US": [
+                "You're a new face.\n",
+                "Is this your first time here?{VAR BE01}\n",
+                "Unity Tower is the place where\n",
+                "Trainers come from all over the world.{VAR BE01}\n",
+                "That's why I work hard every day doing\n",
+                "security checks to protect those{VAR BE00}\n",
+                "young Trainers.{VAR BE01}\n",
+                "Don't loiter around here\n",
+                "and cause trouble.{VAR BE00}\n",
+                "...'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_153_0010",
+            "en_US": [
+                "Seems like I've met you somewhere...\n",
+                "Anyway, don't get too wound up and fall.{VAR BE01}\n",
+                "When guests get hurt, it causes me\n",
+                "no end of trouble.{VAR BE01}\n",
+                "...'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0011",
+            "en_US": [
+                "Oh! So you're a Trainer, then!{VAR BE01}\n",
+                "I see. You're far from family\n",
+                "and traveling the world, huh?{VAR BE01}\n",
+                "I suppose it's fine if you contact them\n",
+                "once in a while.{VAR BE01}\n",
+                "'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0012",
+            "en_US": [
+                "Oh, it's you.{VAR BE01}\n",
+                "Hmm... You like trading, do you now?{VAR BE01}\n",
+                "Well, that's all right, isn't it.\n",
+                "You're active--just like a young person{VAR BE00}\n",
+                "should be.{VAR BE01}\n",
+                "'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0013",
+            "en_US": [
+                "Oh, it's you.{VAR BE01}\n",
+                "Seems like you come here a lot.\n",
+                "Do you have friends all over the world?{VAR BE01}\n",
+                "I'd never have imagined a world like this\n",
+                "when I was young.{VAR BE01}\n",
+                "'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0014",
+            "en_US": [
+                "Oh, it's you, {VAR 0100 0003}!{VAR BE01}\n",
+                "Lately, lots of Trainers have been\n",
+                "looking for you.{VAR BE00}\n",
+                "You're just like a movie star, aren't ya?{VAR BE01}\n",
+                "When I was your age, the ladies\n",
+                "used to get worked up over me. Ha ha.{VAR BE01}\n",
+                "'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0015",
+            "en_US": [
+                "Hey, it's you, {VAR 0100 0003}!{VAR BE01}\n",
+                "Recently, it looks like there have been\n",
+                "lots of global Trainers like you.{VAR BE01}\n",
+                "That means--how do I put it--world peace\n",
+                "can't be far off!{VAR BE00}\n",
+                "Should I get my hopes up?{VAR BE01}\n",
+                "'Kay, pass on through!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0016",
+            "en_US": [
+                "Oh, it's you, {VAR 0100 0003}!{VAR BE01}\n",
+                "It feels like since you've started\n",
+                "coming, Unity Tower has gotten busier.{VAR BE01}\n",
+                "There's been a lot more work for this\n",
+                "old guy, but that's a problem I'm{VAR BE00}\n",
+                "happy to have.{VAR BE01}\n",
+                "Keep up the good work!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0017",
+            "en_US": [
+                "Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "You've managed to trade with folks in\n",
+                "even more places, huh?{VAR BE01}\n",
+                "That's really something!\n",
+                "I'd imagine your Pokédex is getting{VAR BE00}\n",
+                "pretty full, then?{VAR BE01}\n",
+                "Wow, you're amazing!\n",
+                "'Kay, pass on through.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0018",
+            "en_US": [
+                "Hey, {VAR 0100 0003}.{VAR BE01}\n",
+                "Unity Tower is as lively as ever\n",
+                "with people who come here to see you.{VAR BE01}\n",
+                "Well, enjoy yourself today!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0019",
+            "en_US": [
+                "Why, if it isn't {VAR 0100 0003}!\n",
+                "What? F-fifty countries?!{VAR BE01}\n",
+                "I've never seen a Trainer who has traded\n",
+                "with folks in over 50 countries!{VAR BE01}\n",
+                "How in the world did you manage that?{VAR BE01}\n",
+                "'Kay, please pass through--and feel free\n",
+                "to wander around!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0020",
+            "en_US": [
+                "Hey, it's you, {VAR 0100 0003}.{VAR BE01}\n",
+                "After trading with this many people, you\n",
+                "must have friends all over the world!{VAR BE01}\n",
+                "Ha ha. If you go on a trip, no worries\n",
+                "about not knowing anyone, huh?{VAR BE01}\n",
+                "'Kay, please pass through!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0021",
+            "en_US": [
+                "Why, if it isn't {VAR 0100 0003}!{VAR BE01}\n",
+                "I almost feel like I don't need to bother\n",
+                "with a security check for you anymore.{VAR BE00}\n",
+                "You can go ahead and pass.{VAR BE01}\n",
+                "...Gotcha!\n",
+                "I've been a security guard for 30 years!{VAR BE01}\n",
+                "I know trouble just waits for you\n",
+                "to let your guard down.{VAR BE00}\n",
+                "...'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0022",
+            "en_US": [
+                "Why, if it isn't {VAR 0100 0003}.{VAR BE01}\n",
+                "I'll just do a brief security check.{VAR BE01}\n",
+                "...W-what's this? Ooh, it's a kind of gum\n",
+                "I've never seen! Is it a new brand?{VAR BE00}\n",
+                "Maybe I'll buy some later.{VAR BE01}\n",
+                "'Kay, you can pass.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0023",
+            "en_US": [
+                "Why, if it isn't {VAR 0100 0003}.{VAR BE01}\n",
+                "Just a little more, and you'll have\n",
+                "traded with every place here, huh?{VAR BE01}\n",
+                "It's really reassuring to me that kids\n",
+                "like you are going to be the ones running{VAR BE00}\n",
+                "the world!{VAR BE00}\n",
+                "Just a little more to go. You can do it!{VAR BE01}\n",
+                "'Kay, you can pass!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0024",
+            "en_US": [
+                "It's you, {VAR 0100 0003}!\n",
+                "I already heard!{VAR BE01}\n",
+                "You've finally managed to trade with\n",
+                "people from every location, right?{VAR BE01}\n",
+                "It might just be me, but Unity Tower\n",
+                "feels more exciting when you visit.{VAR BE00}\n",
+                "I'm sure it's happy to see you.{VAR BE01}\n",
+                "Hey, {VAR 0100 0003}, I'd like to give my\n",
+                "thanks as the Unity Tower guard for{VAR BE00}\n",
+                "making this building out in the middle{VAR BE00}\n",
+                "of nowhere so lively.{VAR BE01}\n",
+                "'Kay, you can pass. Think of this place\n",
+                "as your own backyard and feel free to go{VAR BE00}\n",
+                "where you please.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0025",
+            "en_US": "Please select a floor.{VAR BE01}"
+        },
+        {
+            "id": "a003_153_0026",
+            "en_US": [
+                "Hey, you over there!\n",
+                "Come here for a second.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_153_0027",
+            "en_US": [
+                "Don't just loiter around\n",
+                "and cause trouble."
+            ]
+        },
+        {
+            "id": "a003_153_0028",
+            "en_US": [
+                "Don't get too wound up.{VAR BE01}\n",
+                "If you run around, fall, and get hurt,\n",
+                "it'll cause me no end of trouble."
+            ]
+        },
+        {
+            "id": "a003_153_0029",
+            "en_US": [
+                "I suppose it's fine if you contact them\n",
+                "once in a while.{VAR BE01}\n",
+                "I'm sure it'll make your folks happy."
+            ]
+        },
+        {
+            "id": "a003_153_0030",
+            "en_US": [
+                "That's all right. You're active--just like\n",
+                "a young person should be.{VAR BE01}\n",
+                "Do your best!"
+            ]
+        },
+        {
+            "id": "a003_153_0031",
+            "en_US": [
+                "Do you know people all over the world?{VAR BE01}\n",
+                "I never would've imagined a world\n",
+                "like this when I was young."
+            ]
+        },
+        {
+            "id": "a003_153_0032",
+            "en_US": [
+                "When I was your age, the ladies\n",
+                "used to get worked up over me. Ha ha!"
+            ]
+        },
+        {
+            "id": "a003_153_0033",
+            "en_US": [
+                "Recently, it looks like there have been\n",
+                "lots of global Trainers like you."
+            ]
+        },
+        {
+            "id": "a003_153_0034",
+            "en_US": [
+                "It feels like since you started coming,\n",
+                "Unity Tower has gotten busier.{VAR BE01}\n",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "id": "a003_153_0035",
+            "en_US": [
+                "I'd imagine your Pokédex is getting\n",
+                "pretty full, then?{VAR BE01}\n",
+                "Well, that's really something."
+            ]
+        },
+        {
+            "id": "a003_153_0036",
+            "en_US": [
+                "Unity Tower is as lively as ever\n",
+                "with people who come here to see you.{VAR BE01}\n",
+                "Well, hope you enjoy yourself today."
+            ]
+        },
+        {
+            "id": "a003_153_0037",
+            "en_US": [
+                "How in the world did you manage to trade\n",
+                "with so many different places?"
+            ]
+        },
+        {
+            "id": "a003_153_0038",
+            "en_US": [
+                "You must know a lot of people in\n",
+                "different places in the world.{VAR BE01}\n",
+                "Ha ha. Even if you go on a trip, no\n",
+                "worries about not knowing anyone, huh?"
+            ]
+        },
+        {
+            "id": "a003_153_0039",
+            "en_US": [
+                "I've been a guard for 30 years.\n",
+                "Today, all is well, too.{VAR BE00}\n",
+                "Mmm... That's great!"
+            ]
+        },
+        {
+            "id": "a003_153_0040",
+            "en_US": [
+                "I think I'll try buying that new gum\n",
+                "next time."
+            ]
+        },
+        {
+            "id": "a003_153_0041",
+            "en_US": [
+                "When I see you, I suddenly feel very\n",
+                "sure that the future will be full of hope."
+            ]
+        },
+        {
+            "id": "a003_153_0042",
+            "en_US": [
+                "When you visit, Unity Tower gets exciting!{VAR BE01}\n",
+                "Think of this place as your own backyard\n",
+                "and feel free to go where you please."
+            ]
+        }
+    ]
+}

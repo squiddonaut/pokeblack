@@ -1,0 +1,25 @@
+{
+    "flags": 229,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a002_197_0000",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "This is your mom.\n",
+                "How are you doing?{VAR BE01}\n",
+                "Wow, you're already on Route 7?\n",
+                "You've gone quite far!{VAR BE01}\n",
+                "Say, how are your Pokémon?\n",
+                "You can't get that far{VAR BE00}\n",
+                "all by yourself, you know?{VAR BE01}\n",
+                "It's all thanks to your Pokémon.\n",
+                "Don't forget to take care of them!{VAR BE01}\n",
+                "Am I being too serious?\n",
+                "Well, take care!{VAR BE01}\n",
+                "“Senior Trainer Mom,\"\n",
+                "signing off!{VAR BE01}"
+            ]
+        }
+    ]
+}

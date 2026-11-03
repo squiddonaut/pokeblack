@@ -1,0 +1,57 @@
+{
+    "flags": 224,
+    "pad": "7878",
+    "messages": [
+        {
+            "id": "a003_087_0000",
+            "en_US": [
+                "To be good at something, you have to do\n",
+                "it repeatedly, day after day after day.{VAR BE01}\n",
+                "That's how you get results.\n",
+                "Otherwise, you won't get better at it."
+            ]
+        },
+        {
+            "id": "a003_087_0001",
+            "en_US": [
+                "When I was a kid, I played catch with\n",
+                "my Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_087_0002",
+            "en_US": [
+                "It's not bad to grow up.{VAR BE01}\n",
+                "But it's bad to forget what it felt like\n",
+                "to be a child."
+            ]
+        },
+        {
+            "id": "a003_087_0003",
+            "en_US": [
+                "I have baseball, and I have Pokémon...\n",
+                "How happy I am!"
+            ]
+        },
+        {
+            "id": "a003_087_0004",
+            "en_US": [
+                "If you don't swing a bat, you can't hit\n",
+                "a ball.{VAR BE01}\n",
+                "If you don't do things, you won't fail...\n",
+                "but you won't succeed, either."
+            ]
+        },
+        {
+            "id": "a003_087_0005",
+            "en_US": [
+                "I give 100 percent of my energy all the\n",
+                "time! That is the only thing I can do."
+            ]
+        },
+        {
+            "id": "a003_087_0006",
+            "en_US": "What I brag about is my bat!"
+        }
+    ]
+}

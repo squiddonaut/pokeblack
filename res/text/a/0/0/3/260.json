@@ -1,0 +1,22 @@
+{
+    "flags": 240,
+    "pad": "6060",
+    "messages": [
+        {
+            "id": "a003_260_0000",
+            "en_US": "Oh?{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "id": "a003_260_0001",
+            "en_US": "{VAR 0101 0000} hatched from the Egg!"
+        },
+        {
+            "id": "a003_260_0002",
+            "en_US": [
+                "Would you like to give a nickname to the\n",
+                "newly hatched {VAR 0101 0000}?"
+            ]
+        }
+    ]
+}

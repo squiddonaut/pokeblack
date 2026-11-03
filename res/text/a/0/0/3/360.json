@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_360_0000",
+            "en_US": [
+                "Sandstorms are terrible!{VAR BE01}\n",
+                "But Rock-type, Ground-type, and\n",
+                "Steel-type Pokémon can weather{VAR BE00}\n",
+                "a Sandstorm without damage."
+            ]
+        },
+        {
+            "id": "a003_360_0001",
+            "en_US": [
+                "I don't mean to brag, but I'm a Dig pro!{VAR BE01}\n",
+                "I'll give you this TM so you can\n",
+                "use it, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_360_0002",
+            "en_US": [
+                "Using Dig in a cave takes you back to\n",
+                "the entrance instantly!{VAR BE01}\n",
+                "What do you think of that? Amazing, eh?\n",
+                "Be sure to Dig and Dig some more!"
+            ]
+        }
+    ]
+}

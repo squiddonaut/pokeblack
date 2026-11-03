@@ -1,0 +1,30 @@
+{
+    "name": "Mirror Coat",
+    "description": [
+        "A retaliation move that counters any\n",
+        "special attack, inflicting double the\n",
+        "damage taken."
+    ],
+    "type": "TYPE_PSYCHIC",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_SPECIAL",
+    "power": 1,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -5,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 144,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET_SPECIAL",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT"]
+}

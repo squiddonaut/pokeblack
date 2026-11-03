@@ -1,0 +1,24 @@
+{
+    "flags": 224,
+    "pad": "1010",
+    "messages": [
+        {
+            "id": "a003_299_0000",
+            "en_US": [
+                "A Trainer who loved Pokémon until\n",
+                "yesterday...will release Pokémon today.{VAR BE01}\n",
+                "Tomorrow, another Trainer will let\n",
+                "Pokémon go..."
+            ]
+        },
+        {
+            "id": "a003_299_0001",
+            "en_US": [
+                "If we use force to take Pokémon away\n",
+                "from people, the people will rebel.{VAR BE01}\n",
+                "But, if we manipulate their hearts...\n",
+                "people will release Pokémon voluntarily."
+            ]
+        }
+    ]
+}

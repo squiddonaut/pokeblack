@@ -1,0 +1,40 @@
+#ifndef CONSTANTS_POKEMON_H
+#define CONSTANTS_POKEMON_H
+
+enum Stat {
+    STAT_HP = 0,
+    STAT_ATTACK,
+    STAT_DEFENSE,
+    STAT_SP_ATTACK,
+    STAT_SP_DEFENSE,
+    STAT_SPEED,
+
+    STAT_ACCURACY,
+    STAT_EVASION,
+
+    STAT_OMNIBOOST, // Used by Ancient Power and the likes
+};
+
+enum Type {
+    TYPE_NORMAL = 0,
+    TYPE_FIGHTING,
+    TYPE_FLYING,
+    TYPE_POISON,
+    TYPE_GROUND,
+    TYPE_ROCK,
+    TYPE_BUG,
+    TYPE_GHOST,
+    TYPE_STEEL,
+    TYPE_FIRE,
+    TYPE_WATER,
+    TYPE_GRASS,
+    TYPE_ELECTRIC,
+    TYPE_PSYCHIC,
+    TYPE_ICE,
+    TYPE_DRAGON,
+    TYPE_DARK,
+    
+    TYPE_COUNT,
+};
+
+#endif // CONSTANTS_POKEMON_H

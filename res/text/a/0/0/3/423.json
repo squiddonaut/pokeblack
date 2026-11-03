@@ -1,0 +1,169 @@
+{
+    "flags": 232,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_423_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0003",
+            "en_US": "You don't have enough money.{VAR BE01}"
+        },
+        {
+            "id": "a003_423_0004",
+            "en_US": [
+                "{VAR 0109 0000}? Certainly.\n",
+                "How many would you like?"
+            ]
+        },
+        {
+            "id": "a003_423_0005",
+            "en_US": [
+                "{VAR 0109 0000}, and you want {VAR 0201 0001}. \n",
+                "That will be ${VAR 0206 0002}. OK?"
+            ]
+        },
+        {
+            "id": "a003_423_0006",
+            "en_US": [
+                "{VAR 0109 0000} will cost {VAR 0203 0002} BP.\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a003_423_0007",
+            "en_US": [
+                "No. {VAR 0201 0000}, {VAR 0107 0001}?\n",
+                "That will be ${VAR 0204 0002}. OK?"
+            ]
+        },
+        {
+            "id": "a003_423_0008",
+            "en_US": [
+                "No. {VAR 0201 0000}, {VAR 0107 0001}?\n",
+                "That will be {VAR 0203 0002} BP. OK?"
+            ]
+        },
+        {
+            "id": "a003_423_0009",
+            "en_US": [
+                "Here you are!\n",
+                "Thank you!{VAR BE05 0001}{VAR BE01}\n",
+                "You put away the {VAR 0109 0000}\n",
+                "in the {VAR 0112 0001} Case.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_423_0010",
+            "en_US": "You can't take any more of this item.{VAR BE01}"
+        },
+        {
+            "id": "a003_423_0011",
+            "en_US": "Cancel",
+            "flags": 152
+        },
+        {
+            "id": "a003_423_0012",
+            "en_US": "${VAR 0204 0001}",
+            "flags": 53
+        },
+        {
+            "id": "a003_423_0013",
+            "en_US": "{VAR 0201 0001} BP",
+            "flags": 53
+        },
+        {
+            "id": "a003_423_0014",
+            "en_US": "---",
+            "flags": 53
+        },
+        {
+            "id": "a003_423_0015",
+            "en_US": [
+                "You also get a Premier Ball as\n",
+                "an added bonus.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_423_0016",
+            "en_US": "You don't have enough BP.{VAR BE01}"
+        },
+        {
+            "id": "a003_423_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0020",
+            "en_US": "Money",
+            "flags": 72
+        },
+        {
+            "id": "a003_423_0021",
+            "en_US": "${VAR 0206 0000}",
+            "flags": 72
+        },
+        {
+            "id": "a003_423_0022",
+            "en_US": "{VAR 0203 0000} BP",
+            "flags": 72
+        },
+        {
+            "id": "a003_423_0023",
+            "en_US": "In Bag: {VAR 0202 0000}",
+            "flags": 120
+        },
+        {
+            "id": "a003_423_0024",
+            "en_US": "x {VAR 0201 0000}",
+            "flags": 32
+        },
+        {
+            "id": "a003_423_0025",
+            "en_US": "${VAR 0206 0000}",
+            "flags": 69
+        },
+        {
+            "id": "a003_423_0026",
+            "en_US": "{VAR 0205 0000} BP",
+            "flags": 69
+        },
+        {
+            "id": "a003_423_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_423_0029",
+            "en_US": "{VAR 0107 0001}",
+            "flags": 96
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "flags": 224,
+    "pad": "4a4a",
+    "messages": [
+        {
+            "id": "a003_109_0000",
+            "en_US": [
+                "Do you think all people in the world can\n",
+                "understand one another?"
+            ]
+        },
+        {
+            "id": "a003_109_0001",
+            "en_US": "I see. I think so, too!"
+        },
+        {
+            "id": "a003_109_0002",
+            "en_US": [
+                "Well...but you and your Pokémon\n",
+                "understand each other.{VAR BE01}\n",
+                "Isn't that right?"
+            ]
+        },
+        {
+            "id": "a003_109_0003",
+            "en_US": [
+                "This happened to me once after\n",
+                "I crossed a bridge.{VAR BE01}\n",
+                "When I was at a loss, the person who\n",
+                "helped me was a total stranger...{VAR BE01}\n",
+                "After all, helping each other is\n",
+                "important in life."
+            ]
+        },
+        {
+            "id": "a003_109_0004",
+            "en_US": [
+                "What is a strong mind?\n",
+                "What is kindness?{VAR BE01}\n",
+                "Are there any Trainers and Pokémon\n",
+                "who possess those qualities?"
+            ]
+        },
+        {
+            "id": "a003_109_0005",
+            "en_US": [
+                "When I go to the Entralink next time,\n",
+                "I'd like to register a Pass Power and{VAR BE00}\n",
+                "make everyone smile!"
+            ]
+        },
+        {
+            "id": "a003_109_0006",
+            "en_US": [
+                "{VAR BE09 0002}People who visited the Entralink\n",
+                "hid items somewhere...{VAR BE00}\n",
+                "The Entralink is unique, isn't it?{VAR BE09 0000}"
+            ]
+        },
+        {
+            "id": "a003_109_0007",
+            "en_US": [
+                "I want other people to like me...\n",
+                "There is a reward...{VAR BE01}\n",
+                "It's OK to help people with\n",
+                "such motivations.{VAR BE00}\n",
+                "Because helping is itself a great thing!"
+            ]
+        },
+        {
+            "id": "a003_109_0008",
+            "en_US": [
+                "Living is using time given to you.\n",
+                "You cannot recall lost time.{VAR BE01}\n",
+                "Don't forget that..."
+            ]
+        },
+        {
+            "id": "a003_109_0009",
+            "en_US": [
+                "Happiness is here today, gone tomorrow.{VAR BE01}\n",
+                "There is no everlasting happiness, so\n",
+                "don't be greedy."
+            ]
+        }
+    ]
+}

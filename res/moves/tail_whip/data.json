@@ -1,0 +1,30 @@
+{
+    "name": "Tail Whip",
+    "description": [
+        "The user wags its tail cutely, making\n",
+        "opposing Pokémon less wary and\n",
+        "lowering their Defense stat."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_STAT_CHANGE",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 19,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_ADJACENT_OPPONENTS",
+    "statChanges": [["STAT_DEFENSE", -1, 0]],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_AFFECTED_BY_MAGIC_COAT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

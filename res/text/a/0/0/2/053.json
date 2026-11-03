@@ -1,0 +1,4834 @@
+{
+    "flags": 216,
+    "messages": [
+        {
+            "id": "a002_053_0000",
+            "en_US": "???"
+        },
+        {
+            "id": "a002_053_0001",
+            "en_US": [
+                "The best Ball with the ultimate level of\n",
+                "performance. It will catch any wild\n",
+                "Pokémon without fail."
+            ]
+        },
+        {
+            "id": "a002_053_0002",
+            "en_US": [
+                "An ultra-performance Ball that\n",
+                "provides a higher Pokémon catch rate\n",
+                "than a Great Ball."
+            ]
+        },
+        {
+            "id": "a002_053_0003",
+            "en_US": [
+                "A good, high-performance Ball that\n",
+                "provides a higher Pokémon catch rate\n",
+                "than a standard Poké Ball."
+            ]
+        },
+        {
+            "id": "a002_053_0004",
+            "en_US": [
+                "A device for catching wild Pokémon.\n",
+                "It is thrown like a ball at the target.\n",
+                "It is designed as a capsule system."
+            ]
+        },
+        {
+            "id": "a002_053_0005",
+            "en_US": [
+                "A special Poké Ball that is used only in\n",
+                "the Great Marsh. It is decorated in a\n",
+                "camouflage pattern."
+            ]
+        },
+        {
+            "id": "a002_053_0006",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "works especially well on Water- and\n",
+                "Bug-type Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0007",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "works especially well on Pokémon that\n",
+                "live underwater."
+            ]
+        },
+        {
+            "id": "a002_053_0008",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "works especially well on weaker\n",
+                "Pokémon in the wild."
+            ]
+        },
+        {
+            "id": "a002_053_0009",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "works especially well on Pokémon\n",
+                "species that were previously caught."
+            ]
+        },
+        {
+            "id": "a002_053_0010",
+            "en_US": [
+                "A somewhat different Ball that\n",
+                "becomes progressively better the\n",
+                "more turns there are in a battle."
+            ]
+        },
+        {
+            "id": "a002_053_0011",
+            "en_US": [
+                "A comfortable Poké Ball that makes a\n",
+                "caught wild Pokémon quickly grow\n",
+                "friendly."
+            ]
+        },
+        {
+            "id": "a002_053_0012",
+            "en_US": [
+                "A somewhat rare Poké Ball that has\n",
+                "been specially made to commemorate\n",
+                "an event of some sort."
+            ]
+        },
+        {
+            "id": "a002_053_0013",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "makes it easier to catch wild Pokémon\n",
+                "at night or in dark places like caves."
+            ]
+        },
+        {
+            "id": "a002_053_0014",
+            "en_US": [
+                "A remedial Poké Ball that restores the\n",
+                "caught Pokémon's HP and eliminates\n",
+                "any status problem."
+            ]
+        },
+        {
+            "id": "a002_053_0015",
+            "en_US": [
+                "A somewhat different Poké Ball that\n",
+                "provides a better catch rate if it is\n",
+                "used at the start of a wild encounter."
+            ]
+        },
+        {
+            "id": "a002_053_0016",
+            "en_US": [
+                "A quite rare Poké Ball that has been\n",
+                "specially crafted to commemorate\n",
+                "an occasion of some sort."
+            ]
+        },
+        {
+            "id": "a002_053_0017",
+            "en_US": [
+                "A spray-type medicine for wounds.\n",
+                "It restores the HP of one Pokémon by\n",
+                "just 20 points."
+            ]
+        },
+        {
+            "id": "a002_053_0018",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It lifts the effect of poison from one\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0019",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It heals a single Pokémon that is\n",
+                "suffering from a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0020",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It defrosts a Pokémon that has been\n",
+                "frozen solid."
+            ]
+        },
+        {
+            "id": "a002_053_0021",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It awakens a Pokémon from the\n",
+                "clutches of sleep."
+            ]
+        },
+        {
+            "id": "a002_053_0022",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It eliminates paralysis from a single\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0023",
+            "en_US": [
+                "A medicine that fully restores the HP\n",
+                "and heals any status problems of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0024",
+            "en_US": [
+                "A spray-type medicine for wounds.\n",
+                "It completely restores the HP of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0025",
+            "en_US": [
+                "A spray-type medicine for wounds.\n",
+                "It restores the HP of one Pokémon by\n",
+                "200 points."
+            ]
+        },
+        {
+            "id": "a002_053_0026",
+            "en_US": [
+                "A spray-type medicine for wounds.\n",
+                "It restores the HP of one Pokémon by\n",
+                "50 points."
+            ]
+        },
+        {
+            "id": "a002_053_0027",
+            "en_US": [
+                "A spray-type medicine.\n",
+                "It heals all the status problems of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0028",
+            "en_US": [
+                "A medicine that revives a fainted\n",
+                "Pokémon. It restores half the\n",
+                "Pokémon's maximum HP."
+            ]
+        },
+        {
+            "id": "a002_053_0029",
+            "en_US": [
+                "A medicine that revives a fainted\n",
+                "Pokémon. It fully restores the\n",
+                "Pokémon's HP."
+            ]
+        },
+        {
+            "id": "a002_053_0030",
+            "en_US": [
+                "Water with a high mineral content.\n",
+                "It restores the HP of one Pokémon by\n",
+                "50 points."
+            ]
+        },
+        {
+            "id": "a002_053_0031",
+            "en_US": [
+                "A fizzy soda drink.\n",
+                "It restores the HP of one Pokémon by\n",
+                "60 points."
+            ]
+        },
+        {
+            "id": "a002_053_0032",
+            "en_US": [
+                "A very sweet drink.\n",
+                "It restores the HP of one Pokémon by\n",
+                "80 points."
+            ]
+        },
+        {
+            "id": "a002_053_0033",
+            "en_US": [
+                "Milk with a very high nutrition content.\n",
+                "It restores the HP of one Pokémon by\n",
+                "100 points."
+            ]
+        },
+        {
+            "id": "a002_053_0034",
+            "en_US": [
+                "A very bitter medicine powder.\n",
+                "It restores the HP of one Pokémon by\n",
+                "50 points."
+            ]
+        },
+        {
+            "id": "a002_053_0035",
+            "en_US": [
+                "A very bitter root.\n",
+                "It restores the HP of one Pokémon by\n",
+                "200 points."
+            ]
+        },
+        {
+            "id": "a002_053_0036",
+            "en_US": [
+                "A very bitter medicine powder.\n",
+                "It heals all the status problems of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0037",
+            "en_US": [
+                "A very bitter medicinal herb.\n",
+                "It revives a fainted Pokémon, fully\n",
+                "restoring its HP."
+            ]
+        },
+        {
+            "id": "a002_053_0038",
+            "en_US": [
+                "It restores the PP of a Pokémon's\n",
+                "selected move by a maximum of\n",
+                "10 points."
+            ]
+        },
+        {
+            "id": "a002_053_0039",
+            "en_US": [
+                "It fully restores the PP of a single\n",
+                "selected move that has been learned\n",
+                "by the target Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0040",
+            "en_US": [
+                "It restores the PP of all the\n",
+                "moves learned by the targeted Pokémon\n",
+                "by 10 points each."
+            ]
+        },
+        {
+            "id": "a002_053_0041",
+            "en_US": [
+                "It fully restores the PP of all the\n",
+                "moves learned by the targeted\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0042",
+            "en_US": [
+                "Lavaridge Town's local specialty.\n",
+                "It heals all the status problems of\n",
+                "one Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0043",
+            "en_US": [
+                "A 100% pure juice made of Berries.\n",
+                "It restores the HP of one Pokémon by\n",
+                "just 20 points."
+            ]
+        },
+        {
+            "id": "a002_053_0044",
+            "en_US": [
+                "It revives all fainted Pokémon.\n",
+                "In doing so, it also fully restores\n",
+                "their HP."
+            ]
+        },
+        {
+            "id": "a002_053_0045",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base HP of a single\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0046",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base Attack stat of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0047",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base Defense stat of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0048",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base Speed stat of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0049",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base Sp. Atk (Special\n",
+                "Attack) stat of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0050",
+            "en_US": [
+                "A candy that is packed with energy.\n",
+                "It raises the level of a single Pokémon\n",
+                "by one."
+            ]
+        },
+        {
+            "id": "a002_053_0051",
+            "en_US": [
+                "It slightly raises the maximum PP of\n",
+                "a selected move that has been learned\n",
+                "by the target Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0052",
+            "en_US": [
+                "A nutritious drink for Pokémon.\n",
+                "It raises the base Sp. Def (Special\n",
+                "Defense) stat of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0053",
+            "en_US": [
+                "It maximally raises the top PP of a\n",
+                "selected move that has been learned\n",
+                "by the target Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0054",
+            "en_US": [
+                "Old Chateau's hidden specialty.\n",
+                "It heals all the status problems of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0055",
+            "en_US": [
+                "An item that prevents stat reduction\n",
+                "among the Trainer's party Pokémon\n",
+                "for five turns after use."
+            ]
+        },
+        {
+            "id": "a002_053_0056",
+            "en_US": [
+                "It raises the critical-hit ratio greatly.\n",
+                "It can be used only once and wears off\n",
+                "if the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0057",
+            "en_US": [
+                "An item that raises the Attack stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0058",
+            "en_US": [
+                "An item that raises the Defense stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0059",
+            "en_US": [
+                "An item that raises the Speed stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0060",
+            "en_US": [
+                "An item that raises the accuracy\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0061",
+            "en_US": [
+                "An item that raises the Sp. Atk stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0062",
+            "en_US": [
+                "An item that raises the Sp. Def stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0063",
+            "en_US": [
+                "A doll that attracts Pokémon.\n",
+                "Use it to flee from any battle with a\n",
+                "wild Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0064",
+            "en_US": [
+                "An item that attracts Pokémon.\n",
+                "Use it to flee from any battle with a\n",
+                "wild Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0065",
+            "en_US": [
+                "A toy flute made from blue glass.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0066",
+            "en_US": [
+                "A toy flute made from yellow glass.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0067",
+            "en_US": [
+                "A toy flute made from red glass.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0068",
+            "en_US": [
+                "A toy flute made from black glass.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0069",
+            "en_US": [
+                "A toy flute made from white glass.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0070",
+            "en_US": [
+                "Pure salt that can be discovered deep\n",
+                "inside the Shoal Cave.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0071",
+            "en_US": [
+                "A pretty seashell that can be found \n",
+                "deep inside the Shoal Cave.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0072",
+            "en_US": [
+                "A small red shard.\n",
+                "It appears to be from some sort of\n",
+                "implement made long ago."
+            ]
+        },
+        {
+            "id": "a002_053_0073",
+            "en_US": [
+                "A small blue shard.\n",
+                "It appears to be from some sort of\n",
+                "implement made long ago."
+            ]
+        },
+        {
+            "id": "a002_053_0074",
+            "en_US": [
+                "A small yellow shard.\n",
+                "It appears to be from some sort of\n",
+                "implement made long ago."
+            ]
+        },
+        {
+            "id": "a002_053_0075",
+            "en_US": [
+                "A small green shard.\n",
+                "It appears to be from some sort of\n",
+                "implement made long ago."
+            ]
+        },
+        {
+            "id": "a002_053_0076",
+            "en_US": [
+                "An item that prevents weak wild\n",
+                "Pokémon from appearing for 200 steps\n",
+                "after its use."
+            ]
+        },
+        {
+            "id": "a002_053_0077",
+            "en_US": [
+                "An item that prevents weak wild\n",
+                "Pokémon from appearing for 250 steps\n",
+                "after its use."
+            ]
+        },
+        {
+            "id": "a002_053_0078",
+            "en_US": [
+                "A long, durable rope.\n",
+                "Use it to escape instantly from a cave\n",
+                "or a dungeon."
+            ]
+        },
+        {
+            "id": "a002_053_0079",
+            "en_US": [
+                "An item that prevents weak wild\n",
+                "Pokémon from appearing for 100 steps\n",
+                "after its use."
+            ]
+        },
+        {
+            "id": "a002_053_0080",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is as red as the sun."
+            ]
+        },
+        {
+            "id": "a002_053_0081",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is as black as the night sky."
+            ]
+        },
+        {
+            "id": "a002_053_0082",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is colored orange."
+            ]
+        },
+        {
+            "id": "a002_053_0083",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It has a thunderbolt pattern."
+            ]
+        },
+        {
+            "id": "a002_053_0084",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is a clear, light blue."
+            ]
+        },
+        {
+            "id": "a002_053_0085",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It has a leaf pattern."
+            ]
+        },
+        {
+            "id": "a002_053_0086",
+            "en_US": [
+                "A small and rare mushroom.\n",
+                "It is sought after by collectors."
+            ]
+        },
+        {
+            "id": "a002_053_0087",
+            "en_US": [
+                "A large and rare mushroom.\n",
+                "It is sought after by collectors."
+            ]
+        },
+        {
+            "id": "a002_053_0088",
+            "en_US": [
+                "A somewhat-small pearl that sparkles\n",
+                "in a pretty silver color.\n",
+                "It can be sold cheaply to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0089",
+            "en_US": [
+                "A quite-large pearl that sparkles in a\n",
+                "pretty silver color. It can be sold at\n",
+                "a high price to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0090",
+            "en_US": [
+                "Lovely, red-colored sand with a loose,\n",
+                "silky feel. It can be sold at a high\n",
+                "price to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0091",
+            "en_US": [
+                "A shard of a pretty gem that sparkles\n",
+                "in a red color. It can be sold at a\n",
+                "high price to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0092",
+            "en_US": [
+                "A nugget of pure gold that gives off a\n",
+                "lustrous gleam. It can be sold at a\n",
+                "high price to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0093",
+            "en_US": [
+                "A pretty, heart-shaped scale that is\n",
+                "extremely rare. It glows faintly in the\n",
+                "colors of the rainbow."
+            ]
+        },
+        {
+            "id": "a002_053_0094",
+            "en_US": [
+                "A sweet honey with a lush aroma that\n",
+                "attracts wild Pokémon when it is used\n",
+                "in grass, caves, or on special trees."
+            ]
+        },
+        {
+            "id": "a002_053_0095",
+            "en_US": [
+                "A fertilizer to be spread on soft soil\n",
+                "in regions where Berries are grown.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0096",
+            "en_US": [
+                "A fertilizer to be spread on soft soil\n",
+                "in regions where Berries are grown.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0097",
+            "en_US": [
+                "A fertilizer to be spread on soft soil\n",
+                "in regions where Berries are grown.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0098",
+            "en_US": [
+                "A fertilizer to be spread on soft soil\n",
+                "in regions where Berries are grown.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0099",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "lived in the sea. It appears to be\n",
+                "part of a plant root."
+            ]
+        },
+        {
+            "id": "a002_053_0100",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "lived in the sea. It appears to be\n",
+                "part of a claw."
+            ]
+        },
+        {
+            "id": "a002_053_0101",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "lived in the sea. It appears to be\n",
+                "part of a seashell."
+            ]
+        },
+        {
+            "id": "a002_053_0102",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "lived in the sea. It appears to be\n",
+                "part of a shell."
+            ]
+        },
+        {
+            "id": "a002_053_0103",
+            "en_US": [
+                "A piece of amber that contains the\n",
+                "genetic material of an ancient Pokémon.\n",
+                "It is clear with a reddish tint."
+            ]
+        },
+        {
+            "id": "a002_053_0104",
+            "en_US": [
+                "A fossil from a prehistoric Pokémon\n",
+                "that lived on the land. It appears to\n",
+                "be part of a collar."
+            ]
+        },
+        {
+            "id": "a002_053_0105",
+            "en_US": [
+                "A fossil from a prehistoric Pokémon\n",
+                "that lived on the land. It appears to\n",
+                "be part of a head."
+            ]
+        },
+        {
+            "id": "a002_053_0106",
+            "en_US": [
+                "A bone that is extremely valuable for\n",
+                "Pokémon archeology. It can be sold\n",
+                "for a high price to shops."
+            ]
+        },
+        {
+            "id": "a002_053_0107",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It shines with a dazzling light."
+            ]
+        },
+        {
+            "id": "a002_053_0108",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is as dark as dark can be."
+            ]
+        },
+        {
+            "id": "a002_053_0109",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It sparkles like eyes."
+            ]
+        },
+        {
+            "id": "a002_053_0110",
+            "en_US": [
+                "A peculiar stone that makes certain\n",
+                "species of Pokémon evolve.\n",
+                "It is shaped like an egg."
+            ]
+        },
+        {
+            "id": "a002_053_0111",
+            "en_US": [
+                "A vital item that is needed to keep a\n",
+                "stone tower from collapsing. Voices\n",
+                "can be heard from it occasionally."
+            ]
+        },
+        {
+            "id": "a002_053_0112",
+            "en_US": [
+                "A glowing orb to be held by Giratina.\n",
+                "It boosts the power of Dragon- and\n",
+                "Ghost-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0113",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0114",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0115",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0116",
+            "en_US": [
+                "A cassette to be held by Genesect.\n",
+                "It changes Techno Blast to a\n",
+                "Water-type move."
+            ]
+        },
+        {
+            "id": "a002_053_0117",
+            "en_US": [
+                "A cassette to be held by Genesect.\n",
+                "It changes Techno Blast to an\n",
+                "Electric-type move."
+            ]
+        },
+        {
+            "id": "a002_053_0118",
+            "en_US": [
+                "A cassette to be held by Genesect.\n",
+                "It changes Techno Blast to a\n",
+                "Fire-type move."
+            ]
+        },
+        {
+            "id": "a002_053_0119",
+            "en_US": [
+                "A cassette to be held by Genesect.\n",
+                "It changes Techno Blast to an\n",
+                "Ice-type move."
+            ]
+        },
+        {
+            "id": "a002_053_0120",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0121",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0122",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0123",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0124",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0125",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0126",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0127",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0128",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0129",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0130",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0131",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0132",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0133",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0134",
+            "en_US": [
+                "Very sweet chocolate.  \n",
+                "It restores the HP of one Pokémon\n",
+                "by only 20 points."
+            ]
+        },
+        {
+            "id": "a002_053_0135",
+            "en_US": [
+                "A brightly gleaming orb to be held by\n",
+                "Dialga. It boosts the power of Dragon-\n",
+                "and Steel-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0136",
+            "en_US": [
+                "A beautifully glowing orb to be held by\n",
+                "Palkia. It boosts the power of Dragon-\n",
+                "and Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0137",
+            "en_US": [
+                "Stationery designed for\n",
+                "introductory greetings.\n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0138",
+            "en_US": [
+                "Stationery designed for\n",
+                "writing about your favorite things.\n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0139",
+            "en_US": [
+                "Stationery designed for\n",
+                "invitations.\n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0140",
+            "en_US": [
+                "Stationery designed for\n",
+                "a thank-you note.\n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0141",
+            "en_US": [
+                "Stationery designed for\n",
+                "writing questions. \n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0142",
+            "en_US": [
+                "Stationery designed for\n",
+                "writing recommendations.\n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0143",
+            "en_US": [
+                "Stationery designed for\n",
+                "writing a reply. \n",
+                "Let a Pokémon hold it for delivery."
+            ]
+        },
+        {
+            "id": "a002_053_0144",
+            "en_US": [
+                "Stationery featuring a print of \n",
+                "a sky-piercing bridge.  \n",
+                "Let a Pokémon hold it for use."
+            ]
+        },
+        {
+            "id": "a002_053_0145",
+            "en_US": [
+                "Stationery featuring a print of\n",
+                "a red drawbridge. \n",
+                "Let a Pokémon hold it for use."
+            ]
+        },
+        {
+            "id": "a002_053_0146",
+            "en_US": [
+                "Stationery featuring a print of\n",
+                "a steel suspension bridge. \n",
+                "Let a Pokémon hold it for use."
+            ]
+        },
+        {
+            "id": "a002_053_0147",
+            "en_US": [
+                "Stationery featuring a print of\n",
+                "a brick bridge.\n",
+                "Let a Pokémon hold it for use."
+            ]
+        },
+        {
+            "id": "a002_053_0148",
+            "en_US": [
+                "Stationery featuring a print of\n",
+                "an arched bridge.\n",
+                "Let a Pokémon hold it for use."
+            ]
+        },
+        {
+            "id": "a002_053_0149",
+            "en_US": [
+                "If held by a Pokémon, \n",
+                "it recovers from paralysis."
+            ]
+        },
+        {
+            "id": "a002_053_0150",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it recovers from sleep."
+            ]
+        },
+        {
+            "id": "a002_053_0151",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it recovers from poison."
+            ]
+        },
+        {
+            "id": "a002_053_0152",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it recovers from a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0153",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it defrosts it."
+            ]
+        },
+        {
+            "id": "a002_053_0154",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it restores a move's PP by 10."
+            ]
+        },
+        {
+            "id": "a002_053_0155",
+            "en_US": [
+                "If held by a Pokémon, \n",
+                "it heals the user by just 10 HP."
+            ]
+        },
+        {
+            "id": "a002_053_0156",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it recovers from confusion."
+            ]
+        },
+        {
+            "id": "a002_053_0157",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it recovers from any status problem."
+            ]
+        },
+        {
+            "id": "a002_053_0158",
+            "en_US": [
+                "If held by a Pokémon,\n",
+                "it heals the user's HP a little."
+            ]
+        },
+        {
+            "id": "a002_053_0159",
+            "en_US": [
+                "If held by a Pokémon, it restores the\n",
+                "user's HP in a pinch, but will cause\n",
+                "confusion if it hates the taste."
+            ]
+        },
+        {
+            "id": "a002_053_0160",
+            "en_US": [
+                "If held by a Pokémon, it restores the\n",
+                "user's HP in a pinch, but will cause\n",
+                "confusion if it hates the taste."
+            ]
+        },
+        {
+            "id": "a002_053_0161",
+            "en_US": [
+                "If held by a Pokémon, it restores the\n",
+                "user's HP in a pinch, but will cause\n",
+                "confusion if it hates the taste."
+            ]
+        },
+        {
+            "id": "a002_053_0162",
+            "en_US": [
+                "If held by a Pokémon, it restores the\n",
+                "user's HP in a pinch, but will cause\n",
+                "confusion if it hates the taste."
+            ]
+        },
+        {
+            "id": "a002_053_0163",
+            "en_US": [
+                "If held by a Pokémon, it restores the\n",
+                "user's HP in a pinch, but will cause\n",
+                "confusion if it hates the taste."
+            ]
+        },
+        {
+            "id": "a002_053_0164",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0165",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0166",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0167",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0168",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0169",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base HP."
+            ]
+        },
+        {
+            "id": "a002_053_0170",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base\n",
+                "Attack stat."
+            ]
+        },
+        {
+            "id": "a002_053_0171",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base\n",
+                "Defense stat."
+            ]
+        },
+        {
+            "id": "a002_053_0172",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base\n",
+                "Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a002_053_0173",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base\n",
+                "Sp. Def stat."
+            ]
+        },
+        {
+            "id": "a002_053_0174",
+            "en_US": [
+                "Using it on a Pokémon makes it more\n",
+                "friendly, but it also lowers its base\n",
+                "Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0175",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0176",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0177",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0178",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0179",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0180",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0181",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0182",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0183",
+            "en_US": [
+                "A Berry which is very rare in the\n",
+                "Unova region.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0184",
+            "en_US": [
+                "Weakens a supereffective Fire-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0185",
+            "en_US": [
+                "Weakens a supereffective Water-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0186",
+            "en_US": [
+                "Weakens a supereffective Electric-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0187",
+            "en_US": [
+                "Weakens a supereffective Grass-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0188",
+            "en_US": [
+                "Weakens a supereffective Ice-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0189",
+            "en_US": [
+                "Weakens a supereffective Fighting-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0190",
+            "en_US": [
+                "Weakens a supereffective Poison-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0191",
+            "en_US": [
+                "Weakens a supereffective Ground-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0192",
+            "en_US": [
+                "Weakens a supereffective Flying-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0193",
+            "en_US": [
+                "Weakens a supereffective Psychic-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0194",
+            "en_US": [
+                "Weakens a supereffective Bug-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0195",
+            "en_US": [
+                "Weakens a supereffective Rock-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0196",
+            "en_US": [
+                "Weakens a supereffective Ghost-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0197",
+            "en_US": [
+                "Weakens a supereffective Dragon-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0198",
+            "en_US": [
+                "Weakens a supereffective Dark-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0199",
+            "en_US": [
+                "Weakens a supereffective Steel-type\n",
+                "attack against the holding Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0200",
+            "en_US": [
+                "Weakens a Normal-type attack against\n",
+                "the Pokémon holding this berry."
+            ]
+        },
+        {
+            "id": "a002_053_0201",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "Attack stat in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0202",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "Defense stat in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0203",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "Speed stat in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0204",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "Sp. Atk stat in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0205",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "Sp. Def stat in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0206",
+            "en_US": [
+                "If held by a Pokémon, it raises its\n",
+                "critical-hit ratio in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0207",
+            "en_US": [
+                "If held by a Pokémon, it sharply raises\n",
+                "one of its stats in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0208",
+            "en_US": [
+                "If held by a Pokémon, it restores\n",
+                "its HP if it is hit by any\n",
+                "supereffective attack."
+            ]
+        },
+        {
+            "id": "a002_053_0209",
+            "en_US": [
+                "If held by a Pokémon, it raises the\n",
+                "accuracy of a move just once in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0210",
+            "en_US": [
+                "If held by a Pokémon, it gets to move\n",
+                "first just once in a pinch."
+            ]
+        },
+        {
+            "id": "a002_053_0211",
+            "en_US": [
+                "If held by a Pokémon and a physical\n",
+                "attack lands, the attacker also\n",
+                "takes damage."
+            ]
+        },
+        {
+            "id": "a002_053_0212",
+            "en_US": [
+                "If held by a Pokémon and a special\n",
+                "attack lands, the attacker also\n",
+                "takes damage."
+            ]
+        },
+        {
+            "id": "a002_053_0213",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It casts a tricky glare that lowers\n",
+                "the opponent's accuracy."
+            ]
+        },
+        {
+            "id": "a002_053_0214",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It restores any lowered stat in\n",
+                "battle. It can be used only once."
+            ]
+        },
+        {
+            "id": "a002_053_0215",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "a stiff and heavy brace that promotes\n",
+                "strong growth but lowers Speed."
+            ]
+        },
+        {
+            "id": "a002_053_0216",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "The holder gets a share of a battle's\n",
+                "Exp. Points without battling."
+            ]
+        },
+        {
+            "id": "a002_053_0217",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "A light, sharp claw that lets the\n",
+                "bearer move first occasionally."
+            ]
+        },
+        {
+            "id": "a002_053_0218",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "a bell with a comforting chime that\n",
+                "calms the holder and makes it friendly."
+            ]
+        },
+        {
+            "id": "a002_053_0219",
+            "en_US": [
+                "An item to be held by a Pokémon. It\n",
+                "snaps the holder out of infatuation.\n",
+                "It can be used only once."
+            ]
+        },
+        {
+            "id": "a002_053_0220",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "This headband ups Attack, but allows\n",
+                "the use of only one of its moves."
+            ]
+        },
+        {
+            "id": "a002_053_0221",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "When the holder inflicts damage,\n",
+                "the target may flinch."
+            ]
+        },
+        {
+            "id": "a002_053_0222",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a shiny, silver powder that ups\n",
+                "the power of Bug-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0223",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It doubles a battle's prize money if\n",
+                "the holding Pokémon joins in."
+            ]
+        },
+        {
+            "id": "a002_053_0224",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It helps keep wild Pokémon away if the\n",
+                "holder is the first one in the party."
+            ]
+        },
+        {
+            "id": "a002_053_0225",
+            "en_US": [
+                "A wondrous orb to be held by Latios\n",
+                "or Latias. It raises both the\n",
+                "Sp. Atk and Sp. Def stats."
+            ]
+        },
+        {
+            "id": "a002_053_0226",
+            "en_US": [
+                "An item to be held by Clamperl.\n",
+                "A fang that gleams a sharp silver, it\n",
+                "raises the Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a002_053_0227",
+            "en_US": [
+                "An item to be held by Clamperl.\n",
+                "A scale that shines a faint pink, it\n",
+                "raises the Sp. Def stat."
+            ]
+        },
+        {
+            "id": "a002_053_0228",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It enables the holder to flee from any\n",
+                "wild Pokémon without fail."
+            ]
+        },
+        {
+            "id": "a002_053_0229",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "The Pokémon holding this peculiar stone\n",
+                "is prevented from evolving."
+            ]
+        },
+        {
+            "id": "a002_053_0230",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "The holder may endure a potential KO\n",
+                "attack, leaving it with just 1 HP."
+            ]
+        },
+        {
+            "id": "a002_053_0231",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is an egg filled with happiness that\n",
+                "earns extra Exp. Points in battle."
+            ]
+        },
+        {
+            "id": "a002_053_0232",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a lens that boosts the holder's\n",
+                "critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0233",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a special metallic film that ups\n",
+                "the power of Steel-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0234",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "The holder's HP is gradually restored\n",
+                "during battle."
+            ]
+        },
+        {
+            "id": "a002_053_0235",
+            "en_US": [
+                "A thick and tough scale.\n",
+                "Dragon-type Pokémon may be holding\n",
+                "this item when caught."
+            ]
+        },
+        {
+            "id": "a002_053_0236",
+            "en_US": [
+                "An item to be held by Pikachu.\n",
+                "It is a puzzling orb that raises\n",
+                "the Attack and Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a002_053_0237",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a loose, silky sand that boosts\n",
+                "the power of Ground-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0238",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is an unbreakable stone that ups\n",
+                "the power of Rock-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0239",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a seed imbued with life that ups\n",
+                "the power of Grass-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0240",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a shady-looking pair of glasses\n",
+                "that boosts Dark-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0241",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a belt that boosts determination\n",
+                "and Fighting-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0242",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a powerful magnet that boosts\n",
+                "the power of Electric-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0243",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a teardrop-shaped gem that ups\n",
+                "the power of Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0244",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a long, sharp beak that boosts\n",
+                "the power of Flying-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0245",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a small, poisonous barb that ups\n",
+                "the power of Poison-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0246",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a piece of ice that repels heat\n",
+                "and boosts Ice-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0247",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a sinister, eerie tag that boosts\n",
+                "the power of Ghost-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0248",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "a spoon imbued with telekinetic power\n",
+                "that boosts Psychic-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0249",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a combustible fuel that boosts\n",
+                "the power of Fire-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0250",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a hard and sharp fang that ups\n",
+                "the power of Dragon-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0251",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a sumptuous scarf that boosts\n",
+                "the power of Normal-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0252",
+            "en_US": [
+                "A transparent device filled with all\n",
+                "sorts of data.\n",
+                "It was produced by Silph Co."
+            ]
+        },
+        {
+            "id": "a002_053_0253",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "The holder's HP is restored a little\n",
+                "every time it inflicts damage."
+            ]
+        },
+        {
+            "id": "a002_053_0254",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "incense with a curious aroma that\n",
+                "boosts the power of Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0255",
+            "en_US": [
+                "An item to be held by a Pokémon. The\n",
+                "tricky aroma of this incense may make\n",
+                "attacks miss the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0256",
+            "en_US": [
+                "An item to be held by Chansey. It is a\n",
+                "pair of gloves that boosts Chansey's\n",
+                "critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0257",
+            "en_US": [
+                "An item to be held by Ditto.\n",
+                "Extremely fine yet hard, this odd\n",
+                "powder boosts the Defense stat."
+            ]
+        },
+        {
+            "id": "a002_053_0258",
+            "en_US": [
+                "An item to be held by Cubone or\n",
+                "Marowak. It is a hard bone of some\n",
+                "sort that boosts the Attack stat."
+            ]
+        },
+        {
+            "id": "a002_053_0259",
+            "en_US": [
+                "An item to be held by Farfetch'd. It is\n",
+                "a very long and stiff stalk of leek\n",
+                "that boosts the critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0260",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the Cool aspect of the\n",
+                "holder in a Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0261",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the Beauty aspect of the\n",
+                "holder in a Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0262",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the Cute aspect of the\n",
+                "holder in a Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0263",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the Smart aspect of the\n",
+                "holder in a Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0264",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the Tough aspect of the\n",
+                "holder in a Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0265",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a magnifying lens that slightly\n",
+                "boosts the accuracy of moves."
+            ]
+        },
+        {
+            "id": "a002_053_0266",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a headband that slightly boosts\n",
+                "the power of physical moves."
+            ]
+        },
+        {
+            "id": "a002_053_0267",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "a thick pair of glasses that slightly\n",
+                "boosts the power of special moves."
+            ]
+        },
+        {
+            "id": "a002_053_0268",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "a well-worn belt that slightly boosts\n",
+                "the power of supereffective moves."
+            ]
+        },
+        {
+            "id": "a002_053_0269",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of barrier moves like Light\n",
+                "Screen and Reflect used by the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0270",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It boosts the power of moves, but at\n",
+                "the cost of some HP on each hit."
+            ]
+        },
+        {
+            "id": "a002_053_0271",
+            "en_US": [
+                "A single-use item to be held by a\n",
+                "Pokémon. It allows the immediate use of\n",
+                "a move that charges on the first turn."
+            ]
+        },
+        {
+            "id": "a002_053_0272",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a bizarre orb that badly poisons\n",
+                "the holder in battle."
+            ]
+        },
+        {
+            "id": "a002_053_0273",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a bizarre orb that inflicts a\n",
+                "burn on the holder in battle."
+            ]
+        },
+        {
+            "id": "a002_053_0274",
+            "en_US": [
+                "An item to be held by Ditto.\n",
+                "Extremely fine yet hard, this odd\n",
+                "powder boosts the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0275",
+            "en_US": [
+                "An item to be held by a Pokémon. If it\n",
+                "has full HP, the holder will endure one\n",
+                "potential KO attack, leaving 1 HP."
+            ]
+        },
+        {
+            "id": "a002_053_0276",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "If the holder moves after its\n",
+                "target, its accuracy will be boosted."
+            ]
+        },
+        {
+            "id": "a002_053_0277",
+            "en_US": [
+                "A Pokémon held item that boosts a move\n",
+                "used consecutively. Its effect is\n",
+                "reset if another move is used."
+            ]
+        },
+        {
+            "id": "a002_053_0278",
+            "en_US": [
+                "A Pokémon held item that cuts Speed.\n",
+                "It makes Flying-type and levitating\n",
+                "holders susceptible to Ground moves."
+            ]
+        },
+        {
+            "id": "a002_053_0279",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is tremendously heavy and makes\n",
+                "the holder move slower than usual."
+            ]
+        },
+        {
+            "id": "a002_053_0280",
+            "en_US": [
+                "A long, thin, bright-red string to\n",
+                "be held by a Pokémon. If the holder\n",
+                "becomes infatuated, the foe does too."
+            ]
+        },
+        {
+            "id": "a002_053_0281",
+            "en_US": [
+                "A held item that gradually restores\n",
+                "the HP of Poison-type Pokémon.\n",
+                "It inflicts damage on all other types."
+            ]
+        },
+        {
+            "id": "a002_053_0282",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of the move Hail used by the\n",
+                "holder."
+            ]
+        },
+        {
+            "id": "a002_053_0283",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of the move Sandstorm used\n",
+                "by the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0284",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of the move Sunny Day used\n",
+                "by the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0285",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of the move Rain Dance used\n",
+                "by the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0286",
+            "en_US": [
+                "A Pokémon held item that extends the\n",
+                "duration of multiturn attacks like\n",
+                "Bind and Wrap."
+            ]
+        },
+        {
+            "id": "a002_053_0287",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "This scarf boosts Speed, but allows\n",
+                "the use of only one of its moves."
+            ]
+        },
+        {
+            "id": "a002_053_0288",
+            "en_US": [
+                "A held item that damages the holder on\n",
+                "every turn. It may latch on to foes and\n",
+                "allies that touch the holder."
+            ]
+        },
+        {
+            "id": "a002_053_0289",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "Attack gain on leveling, but reduces\n",
+                "the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0290",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "Defense gain on leveling, but reduces\n",
+                "the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0291",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "Sp. Atk gain on leveling, but reduces\n",
+                "the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0292",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "Sp. Def gain on leveling, but reduces\n",
+                "the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0293",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "Speed gain on leveling, but reduces\n",
+                "the Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0294",
+            "en_US": [
+                "A Pokémon held item that promotes\n",
+                "HP gain on leveling, but reduces the\n",
+                "Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0295",
+            "en_US": [
+                "A tough, discarded carapace to be held\n",
+                "by a Pokémon. It enables the holder to\n",
+                "switch with a waiting Pokémon in battle."
+            ]
+        },
+        {
+            "id": "a002_053_0296",
+            "en_US": [
+                "A Pokémon held item that boosts the\n",
+                "power of HP-stealing moves to let the\n",
+                "holder recover more HP."
+            ]
+        },
+        {
+            "id": "a002_053_0297",
+            "en_US": [
+                "An item to be held by a Pokémon. These\n",
+                "distinctive glasses boost Sp. Atk but\n",
+                "allow the use of only one of its moves."
+            ]
+        },
+        {
+            "id": "a002_053_0298",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Fire-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0299",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0300",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Electric-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0301",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Grass-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0302",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Ice-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0303",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Fighting-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0304",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Poison-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0305",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Ground-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0306",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Flying-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0307",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Psychic-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0308",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Bug-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0309",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Rock-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0310",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Ghost-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0311",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Dragon-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0312",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Dark-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0313",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a stone tablet that boosts the\n",
+                "power of Steel-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0314",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "an exotic-smelling incense that boosts\n",
+                "the power of Psychic-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0315",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "an exotic-smelling incense that boosts\n",
+                "the power of Rock-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0316",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "an exotic-smelling incense that makes\n",
+                "the holder bloated and slow moving."
+            ]
+        },
+        {
+            "id": "a002_053_0317",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "incense with a curious aroma that\n",
+                "boosts the power of Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0318",
+            "en_US": [
+                "An item to be held by a Pokémon. It is\n",
+                "an exotic-smelling incense that boosts\n",
+                "the power of Grass-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0319",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It doubles a battle's prize money if\n",
+                "the holding Pokémon joins in."
+            ]
+        },
+        {
+            "id": "a002_053_0320",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It helps keep wild Pokémon away if the\n",
+                "holder is the first one in the party."
+            ]
+        },
+        {
+            "id": "a002_053_0321",
+            "en_US": [
+                "A protective item of some sort.\n",
+                "It is extremely stiff and heavy.\n",
+                "It is loved by a certain Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0322",
+            "en_US": [
+                "A box packed with a tremendous\n",
+                "amount of electric energy.\n",
+                "It is loved by a certain Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0323",
+            "en_US": [
+                "A box packed with a tremendous\n",
+                "amount of magma energy.\n",
+                "It is loved by a certain Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0324",
+            "en_US": [
+                "A transparent device overflowing with\n",
+                "dubious data.\n",
+                "Its producer is unknown."
+            ]
+        },
+        {
+            "id": "a002_053_0325",
+            "en_US": [
+                "A cloth imbued with horrifyingly strong\n",
+                "spiritual energy.\n",
+                "It is loved by a certain Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0326",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It is a sharply hooked claw that ups\n",
+                "the holder's critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0327",
+            "en_US": [
+                "An item to be held by a Pokémon.\n",
+                "It may make foes and allies flinch\n",
+                "when the holder inflicts damage."
+            ]
+        },
+        {
+            "id": "a002_053_0328",
+            "en_US": [
+                "The user sharpens its claws to\n",
+                "boost its Attack stat and accuracy."
+            ]
+        },
+        {
+            "id": "a002_053_0329",
+            "en_US": [
+                "The user slashes the target with huge,\n",
+                "sharp claws."
+            ]
+        },
+        {
+            "id": "a002_053_0330",
+            "en_US": [
+                "The user materializes an odd\n",
+                "psychic wave to attack the target.\n",
+                "This attack does physical damage."
+            ]
+        },
+        {
+            "id": "a002_053_0331",
+            "en_US": [
+                "The user quietly focuses its mind and\n",
+                "calms its spirit to raise its Sp. Atk\n",
+                "and Sp. Def stats."
+            ]
+        },
+        {
+            "id": "a002_053_0332",
+            "en_US": [
+                "The target is scared off and replaced\n",
+                "by another Pokémon in its party.\n",
+                "In the wild, the battle ends."
+            ]
+        },
+        {
+            "id": "a002_053_0333",
+            "en_US": [
+                "A move that leaves the target badly\n",
+                "poisoned. Its poison damage\n",
+                "worsens every turn."
+            ]
+        },
+        {
+            "id": "a002_053_0334",
+            "en_US": [
+                "Summons a hailstorm that lasts for\n",
+                "five turns. The hailstorm damages\n",
+                "all types except Ice."
+            ]
+        },
+        {
+            "id": "a002_053_0335",
+            "en_US": [
+                "The user tenses its muscles to bulk up\n",
+                "its body, boosting both its Attack and\n",
+                "Defense stats."
+            ]
+        },
+        {
+            "id": "a002_053_0336",
+            "en_US": [
+                "The user drenches the target in a\n",
+                "special poisonous liquid. Its power\n",
+                "is doubled if the target is poisoned."
+            ]
+        },
+        {
+            "id": "a002_053_0337",
+            "en_US": [
+                "A unique attack that varies in type and\n",
+                "intensity depending on the Pokémon\n",
+                "using it."
+            ]
+        },
+        {
+            "id": "a002_053_0338",
+            "en_US": [
+                "The user intensifies the sun for\n",
+                "five turns, powering up Fire-type\n",
+                "moves."
+            ]
+        },
+        {
+            "id": "a002_053_0339",
+            "en_US": [
+                "The target is taunted into a rage that\n",
+                "allows it to use only attack moves\n",
+                "for three turns."
+            ]
+        },
+        {
+            "id": "a002_053_0340",
+            "en_US": [
+                "The target is struck with an icy-cold\n",
+                "beam of energy.\n",
+                "It may also freeze the target solid."
+            ]
+        },
+        {
+            "id": "a002_053_0341",
+            "en_US": [
+                "A howling blizzard is summoned to strike\n",
+                "the opposing team. It may also freeze\n",
+                "them solid."
+            ]
+        },
+        {
+            "id": "a002_053_0342",
+            "en_US": [
+                "The target is attacked with a powerful\n",
+                "beam. The user must rest on the next\n",
+                "turn to regain its energy."
+            ]
+        },
+        {
+            "id": "a002_053_0343",
+            "en_US": [
+                "A wondrous wall of light is put up to\n",
+                "suppress damage from special attacks\n",
+                "for five turns."
+            ]
+        },
+        {
+            "id": "a002_053_0344",
+            "en_US": [
+                "It enables the user to evade all\n",
+                "attacks. Its chance of failing rises\n",
+                "if it is used in succession."
+            ]
+        },
+        {
+            "id": "a002_053_0345",
+            "en_US": [
+                "The user summons a heavy rain that\n",
+                "falls for five turns, powering up\n",
+                "Water-type moves."
+            ]
+        },
+        {
+            "id": "a002_053_0346",
+            "en_US": [
+                "The user makes the target float with\n",
+                "its psychic power. The target is easier\n",
+                "to hit for three turns."
+            ]
+        },
+        {
+            "id": "a002_053_0347",
+            "en_US": [
+                "The user creates a protective field\n",
+                "that prevents status problems\n",
+                "for five turns."
+            ]
+        },
+        {
+            "id": "a002_053_0348",
+            "en_US": [
+                "A full-power attack that grows more\n",
+                "powerful the less the user likes its\n",
+                "Trainer."
+            ]
+        },
+        {
+            "id": "a002_053_0349",
+            "en_US": [
+                "A two-turn attack. The user gathers\n",
+                "light, then blasts a bundled beam on\n",
+                "the second turn."
+            ]
+        },
+        {
+            "id": "a002_053_0350",
+            "en_US": [
+                "The user throws a stone or projectile\n",
+                "to attack an opponent. A flying Pokémon\n",
+                "will fall to the ground when it's hit."
+            ]
+        },
+        {
+            "id": "a002_053_0351",
+            "en_US": [
+                "A strong electric blast is loosed at the\n",
+                "target. It may also leave the target\n",
+                "with paralysis."
+            ]
+        },
+        {
+            "id": "a002_053_0352",
+            "en_US": [
+                "A wicked thunderbolt is dropped\n",
+                "on the target to inflict damage. It may\n",
+                "also leave the target with paralysis."
+            ]
+        },
+        {
+            "id": "a002_053_0353",
+            "en_US": [
+                "The user sets off an earthquake that\n",
+                "strikes every Pokémon around it."
+            ]
+        },
+        {
+            "id": "a002_053_0354",
+            "en_US": [
+                "A full-power attack that grows more\n",
+                "powerful the more the user likes its\n",
+                "Trainer."
+            ]
+        },
+        {
+            "id": "a002_053_0355",
+            "en_US": [
+                "The user burrows, then attacks on the\n",
+                "second turn. It can also be used to\n",
+                "exit dungeons."
+            ]
+        },
+        {
+            "id": "a002_053_0356",
+            "en_US": [
+                "The target is hit by a strong\n",
+                "telekinetic force. It may also reduce\n",
+                "the target's Sp. Def stat."
+            ]
+        },
+        {
+            "id": "a002_053_0357",
+            "en_US": [
+                "The user hurls a shadowy blob at the\n",
+                "target. It may also lower the target's\n",
+                "Sp. Def stat."
+            ]
+        },
+        {
+            "id": "a002_053_0358",
+            "en_US": [
+                "The user attacks with tough fists,\n",
+                "etc. It can also break any barrier\n",
+                "such as Light Screen and Reflect."
+            ]
+        },
+        {
+            "id": "a002_053_0359",
+            "en_US": [
+                "By moving rapidly, the user makes\n",
+                "illusory copies of itself to raise\n",
+                "its evasiveness."
+            ]
+        },
+        {
+            "id": "a002_053_0360",
+            "en_US": [
+                "A wondrous wall of light is put up to\n",
+                "suppress damage from physical attacks\n",
+                "for five turns."
+            ]
+        },
+        {
+            "id": "a002_053_0361",
+            "en_US": [
+                "It swamps the area around the user\n",
+                "with a giant sludge wave.\n",
+                "It may also poison those hit."
+            ]
+        },
+        {
+            "id": "a002_053_0362",
+            "en_US": [
+                "The target is scorched with an intense\n",
+                "blast of fire. It may also leave the\n",
+                "target with a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0363",
+            "en_US": [
+                "Unsanitary sludge is hurled at the\n",
+                "target. It may also poison the target."
+            ]
+        },
+        {
+            "id": "a002_053_0364",
+            "en_US": [
+                "A five-turn sandstorm is summoned\n",
+                "to hurt all combatants except the\n",
+                "Rock, Ground, and Steel types."
+            ]
+        },
+        {
+            "id": "a002_053_0365",
+            "en_US": [
+                "The target is attacked with an intense\n",
+                "blast of all-consuming fire. It may\n",
+                "also leave the target with a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0366",
+            "en_US": [
+                "Boulders are hurled at the target. It\n",
+                "also lowers the target's Speed by\n",
+                "preventing its movement."
+            ]
+        },
+        {
+            "id": "a002_053_0367",
+            "en_US": [
+                "The user confounds the target\n",
+                "with speed, then slashes.\n",
+                "The attack lands without fail."
+            ]
+        },
+        {
+            "id": "a002_053_0368",
+            "en_US": [
+                "The user torments and enrages the\n",
+                "target, making it incapable of using the\n",
+                "same move twice in a row."
+            ]
+        },
+        {
+            "id": "a002_053_0369",
+            "en_US": [
+                "An attack move that doubles its power\n",
+                "if the user is poisoned, paralyzed, or\n",
+                "has a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0370",
+            "en_US": [
+                "The user cloaks itself with flame and\n",
+                "attacks. Building up more power,\n",
+                "it raises the user's Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0371",
+            "en_US": [
+                "The user goes to sleep for two\n",
+                "turns. It fully restores the user's HP\n",
+                "and heals any status problem."
+            ]
+        },
+        {
+            "id": "a002_053_0372",
+            "en_US": [
+                "If it is the opposite gender of the\n",
+                "user, the target becomes infatuated\n",
+                "and less likely to attack."
+            ]
+        },
+        {
+            "id": "a002_053_0373",
+            "en_US": [
+                "The user attacks and steals the\n",
+                "target's held item simultaneously. It\n",
+                "can't steal if the user holds an item."
+            ]
+        },
+        {
+            "id": "a002_053_0374",
+            "en_US": [
+                "The user attacks the target's legs\n",
+                "swiftly, reducing the target's\n",
+                "Speed stat."
+            ]
+        },
+        {
+            "id": "a002_053_0375",
+            "en_US": [
+                "The user attacks the target with a\n",
+                "song. Others can join in the Round and\n",
+                "make the attack do greater damage."
+            ]
+        },
+        {
+            "id": "a002_053_0376",
+            "en_US": [
+                "The user attacks the target with an\n",
+                "echoing voice. If this move is used\n",
+                "every turn, it does greater damage."
+            ]
+        },
+        {
+            "id": "a002_053_0377",
+            "en_US": [
+                "The user attacks the target at full\n",
+                "power. The attack's recoil harshly\n",
+                "reduces the user's Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a002_053_0378",
+            "en_US": [
+                "The user teleports using a strange\n",
+                "power and switches its place with one of\n",
+                "its allies."
+            ]
+        },
+        {
+            "id": "a002_053_0379",
+            "en_US": [
+                "The user heightens its mental focus and\n",
+                "unleashes its power.\n",
+                "It may also lower the target's Sp. Def."
+            ]
+        },
+        {
+            "id": "a002_053_0380",
+            "en_US": [
+                "The user draws power from nature and\n",
+                "fires it at the target. It may also\n",
+                "lower the target's Sp. Def."
+            ]
+        },
+        {
+            "id": "a002_053_0381",
+            "en_US": [
+                "A restrained attack that prevents the\n",
+                "target from fainting. The target is left\n",
+                "with at least 1 HP."
+            ]
+        },
+        {
+            "id": "a002_053_0382",
+            "en_US": [
+                "The user shoots boiling hot water at\n",
+                "its target. It may also leave the\n",
+                "target with a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0383",
+            "en_US": [
+                "The user flings its held item at the\n",
+                "target as an attack. Its power and\n",
+                "effects depend on the item."
+            ]
+        },
+        {
+            "id": "a002_053_0384",
+            "en_US": [
+                "The user attacks with an electric\n",
+                "charge. The user may use any remaining\n",
+                "electricity to raise its Sp. Atk stat."
+            ]
+        },
+        {
+            "id": "a002_053_0385",
+            "en_US": [
+                "The user hurls the target into the air,\n",
+                "then drops it on the second turn. The\n",
+                "target cannot attack while in the air."
+            ]
+        },
+        {
+            "id": "a002_053_0386",
+            "en_US": [
+                "The user attacks the target with fire.\n",
+                "If the target is holding a Berry, the\n",
+                "Berry becomes burnt up and unusable."
+            ]
+        },
+        {
+            "id": "a002_053_0387",
+            "en_US": [
+                "The user suppresses the target and\n",
+                "makes its move go last."
+            ]
+        },
+        {
+            "id": "a002_053_0388",
+            "en_US": [
+                "The user shoots a sinister, bluish-white\n",
+                "flame at the target to inflict a burn."
+            ]
+        },
+        {
+            "id": "a002_053_0389",
+            "en_US": [
+                "The user nimbly strikes the target.\n",
+                "If the user is not holding an item,\n",
+                "this attack inflicts massive damage."
+            ]
+        },
+        {
+            "id": "a002_053_0390",
+            "en_US": [
+                "It prevents the target from using its\n",
+                "held item. Its Trainer is also prevented\n",
+                "from using items on it."
+            ]
+        },
+        {
+            "id": "a002_053_0391",
+            "en_US": [
+                "The user explodes to inflict damage on\n",
+                "those around it.\n",
+                "The user faints upon using this move."
+            ]
+        },
+        {
+            "id": "a002_053_0392",
+            "en_US": [
+                "The user slashes with a sharp claw\n",
+                "made from shadows. It has a high\n",
+                "critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0393",
+            "en_US": [
+                "The user stores power, then attacks.\n",
+                "If the user can use this attack after\n",
+                "the target, its power is doubled."
+            ]
+        },
+        {
+            "id": "a002_053_0394",
+            "en_US": [
+                "The user gets revenge for a fainted\n",
+                "ally. If an ally fainted in the previous\n",
+                "turn, this attack's damage increases."
+            ]
+        },
+        {
+            "id": "a002_053_0395",
+            "en_US": [
+                "The user charges at the target using\n",
+                "every bit of its power.\n",
+                "The user must rest on the next turn."
+            ]
+        },
+        {
+            "id": "a002_053_0396",
+            "en_US": [
+                "The user polishes its body to reduce\n",
+                "drag. It sharply raises the Speed\n",
+                "stat."
+            ]
+        },
+        {
+            "id": "a002_053_0397",
+            "en_US": [
+                "The user flashes a bright light that\n",
+                "cuts the target's accuracy.\n",
+                "It can also be used to illuminate caves."
+            ]
+        },
+        {
+            "id": "a002_053_0398",
+            "en_US": [
+                "The user stabs the foe with\n",
+                "sharpened stones from below.\n",
+                "It has a high critical-hit ratio."
+            ]
+        },
+        {
+            "id": "a002_053_0399",
+            "en_US": [
+                "After making its attack, the user\n",
+                "rushes back to switch places with\n",
+                "a party Pokémon in waiting."
+            ]
+        },
+        {
+            "id": "a002_053_0400",
+            "en_US": [
+                "A weak electric charge is launched\n",
+                "at the target. It causes paralysis\n",
+                "if it hits."
+            ]
+        },
+        {
+            "id": "a002_053_0401",
+            "en_US": [
+                "The user tackles the target with a\n",
+                "high-speed spin. The slower the\n",
+                "user, the greater the damage."
+            ]
+        },
+        {
+            "id": "a002_053_0402",
+            "en_US": [
+                "A frenetic dance to uplift the fighting\n",
+                "spirit. It sharply raises the user's\n",
+                "Attack stat."
+            ]
+        },
+        {
+            "id": "a002_053_0403",
+            "en_US": [
+                "Resisting, the user attacks the\n",
+                "opposing Pokémon. The targets' Sp. Atk\n",
+                "stat is reduced."
+            ]
+        },
+        {
+            "id": "a002_053_0404",
+            "en_US": [
+                "The user hypnotizes itself into\n",
+                "copying any stat change made\n",
+                "by the target."
+            ]
+        },
+        {
+            "id": "a002_053_0405",
+            "en_US": [
+                "The user stomps down on the ground\n",
+                "and attacks everything in the area.\n",
+                "The targets' Speed stat is reduced."
+            ]
+        },
+        {
+            "id": "a002_053_0406",
+            "en_US": [
+                "The user blows a cold breath on the\n",
+                "target. This attack always results in\n",
+                "a critical hit."
+            ]
+        },
+        {
+            "id": "a002_053_0407",
+            "en_US": [
+                "Large boulders are hurled at the\n",
+                "opposing team to inflict damage. They \n",
+                "may also make the targets flinch."
+            ]
+        },
+        {
+            "id": "a002_053_0408",
+            "en_US": [
+                "The user slashes at the target by\n",
+                "crossing its scythes or claws as if\n",
+                "they were a pair of scissors."
+            ]
+        },
+        {
+            "id": "a002_053_0409",
+            "en_US": [
+                "The user knocks away the target and\n",
+                "drags out another Pokémon in its party.\n",
+                "In the wild, the battle ends."
+            ]
+        },
+        {
+            "id": "a002_053_0410",
+            "en_US": [
+                "The user is roused, and its Attack\n",
+                "and Sp. Atk stats increase."
+            ]
+        },
+        {
+            "id": "a002_053_0411",
+            "en_US": [
+                "The target is stabbed with a tentacle\n",
+                "or arm steeped in poison. It may also\n",
+                "poison the target."
+            ]
+        },
+        {
+            "id": "a002_053_0412",
+            "en_US": [
+                "The user eats the dreams of a sleeping\n",
+                "target. It absorbs half the damage\n",
+                "caused to heal the user's HP."
+            ]
+        },
+        {
+            "id": "a002_053_0413",
+            "en_US": [
+                "The user snares the target with grass\n",
+                "and trips it. The heavier the target,\n",
+                "the greater the damage."
+            ]
+        },
+        {
+            "id": "a002_053_0414",
+            "en_US": [
+                "The user enrages and confuses the\n",
+                "target. However, it also sharply raises\n",
+                "the target's Attack stat."
+            ]
+        },
+        {
+            "id": "a002_053_0415",
+            "en_US": [
+                "The user pecks the target. If the\n",
+                "target is holding a Berry, the user\n",
+                "plucks it and gains its effect."
+            ]
+        },
+        {
+            "id": "a002_053_0416",
+            "en_US": [
+                "After making its attack, the user\n",
+                "rushes back to switch places with a\n",
+                "party Pokémon in waiting."
+            ]
+        },
+        {
+            "id": "a002_053_0417",
+            "en_US": [
+                "The user makes a copy of itself using\n",
+                "some of its HP. The copy serves as\n",
+                "the user's decoy."
+            ]
+        },
+        {
+            "id": "a002_053_0418",
+            "en_US": [
+                "The user gathers all its light energy\n",
+                "and releases it at once. It may also\n",
+                "lower the target's Sp. Def stat."
+            ]
+        },
+        {
+            "id": "a002_053_0419",
+            "en_US": [
+                "The user creates a bizarre space in\n",
+                "which slower Pokémon get to move\n",
+                "first for five turns."
+            ]
+        },
+        {
+            "id": "a002_053_0420",
+            "en_US": [
+                "The target is cut with a scythe or claw.\n",
+                "It can also be used to cut down thin\n",
+                "trees."
+            ]
+        },
+        {
+            "id": "a002_053_0421",
+            "en_US": [
+                "The user soars, then strikes on the\n",
+                "second turn. It can also be used to\n",
+                "fly to any familiar town."
+            ]
+        },
+        {
+            "id": "a002_053_0422",
+            "en_US": [
+                "It swamps the area around the user\n",
+                "with a giant wave.\n",
+                "It can also be used for crossing water."
+            ]
+        },
+        {
+            "id": "a002_053_0423",
+            "en_US": [
+                "The target is slugged with a punch\n",
+                "thrown at maximum power. This move can\n",
+                "also be used to move boulders."
+            ]
+        },
+        {
+            "id": "a002_053_0424",
+            "en_US": [
+                "The user charges the target at an\n",
+                "awesome speed. It can also be used\n",
+                "to climb a waterfall."
+            ]
+        },
+        {
+            "id": "a002_053_0425",
+            "en_US": [
+                "Diving on the first turn, the user\n",
+                "floats up and attacks on the second.\n",
+                "It can be used for diving in the ocean."
+            ]
+        },
+        {
+            "id": "a002_053_0426",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0427",
+            "en_US": ""
+        },
+        {
+            "id": "a002_053_0428",
+            "en_US": [
+                "A bag filled with convenient tools\n",
+                "for exploring. It provides access to\n",
+                "the Underground."
+            ]
+        },
+        {
+            "id": "a002_053_0429",
+            "en_US": [
+                "A sturdy, spacious bag that is used\n",
+                "to carry loot obtained in the coal\n",
+                "mine."
+            ]
+        },
+        {
+            "id": "a002_053_0430",
+            "en_US": [
+                "It lists the rules for holding battles.\n",
+                "For linked battles, you may choose\n",
+                "which set of rules you wish to use."
+            ]
+        },
+        {
+            "id": "a002_053_0431",
+            "en_US": [
+                "A tool that can search out Pokémon\n",
+                "that are hiding in grass. Its battery is\n",
+                "recharged as you walk."
+            ]
+        },
+        {
+            "id": "a002_053_0432",
+            "en_US": [
+                "A card that lists the Battle Points\n",
+                "you have earned.\n"
+            ]
+        },
+        {
+            "id": "a002_053_0433",
+            "en_US": [
+                "A notebook that keeps a day-to-day\n",
+                "record of your adventure so far.\n"
+            ]
+        },
+        {
+            "id": "a002_053_0434",
+            "en_US": [
+                "A case for storing Seals that can be\n",
+                "applied to the Capsule cases of\n",
+                "Poké Balls."
+            ]
+        },
+        {
+            "id": "a002_053_0435",
+            "en_US": [
+                "A lovely case to store colorful Props\n",
+                "for your Pokémon to wear in a musical."
+            ]
+        },
+        {
+            "id": "a002_053_0436",
+            "en_US": [
+                "A tiny bag that can hold ten Seals for\n",
+                "decorating Poké Balls."
+            ]
+        },
+        {
+            "id": "a002_053_0437",
+            "en_US": [
+                "A convenient notepad that is used for\n",
+                "registering your friends, Friend Codes,\n",
+                "and keeping a record of game play."
+            ]
+        },
+        {
+            "id": "a002_053_0438",
+            "en_US": [
+                "A large key for operating the doors of\n",
+                "the Valley Windworks in the canyon.\n",
+                "It was held by a Team Galactic Grunt."
+            ]
+        },
+        {
+            "id": "a002_053_0439",
+            "en_US": [
+                "An ancient good-luck charm made of\n",
+                "Pokémon bones to be taken to the elder\n",
+                "of Celestic Town."
+            ]
+        },
+        {
+            "id": "a002_053_0440",
+            "en_US": [
+                "A card key for disengaging security\n",
+                "systems in the Galactic HQ. Losing it\n",
+                "can result in punishment, apparently."
+            ]
+        },
+        {
+            "id": "a002_053_0441",
+            "en_US": [
+                "A mythical chain that is said to link\n",
+                "the legendary Pokémon that created\n",
+                "the Sinnoh region."
+            ]
+        },
+        {
+            "id": "a002_053_0442",
+            "en_US": [
+                "A very convenient map that can be\n",
+                "viewed anytime. It even shows your\n",
+                "present location."
+            ]
+        },
+        {
+            "id": "a002_053_0443",
+            "en_US": [
+                "A device that indicates Trainers who\n",
+                "want to battle. Its battery charges\n",
+                "while you walk."
+            ]
+        },
+        {
+            "id": "a002_053_0444",
+            "en_US": [
+                "A case for holding coins obtained at\n",
+                "the Game Corner.\n",
+                "It holds up to 50,000 coins."
+            ]
+        },
+        {
+            "id": "a002_053_0445",
+            "en_US": [
+                "An old and beat-up fishing rod.\n",
+                "Use it by any body of water to fish for\n",
+                "wild aquatic Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0446",
+            "en_US": [
+                "A new, good-quality fishing rod.\n",
+                "Use it by any body of water to fish for\n",
+                "wild aquatic Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0447",
+            "en_US": [
+                "An awesome, high-tech fishing rod.\n",
+                "Use it by any body of water to fish for\n",
+                "wild aquatic Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0448",
+            "en_US": [
+                "A watering can shaped like a Psyduck.\n",
+                "It helps promote healthy growth of\n",
+                "Berries planted in soft soil."
+            ]
+        },
+        {
+            "id": "a002_053_0449",
+            "en_US": [
+                "A case for storing Poffin cooked from\n",
+                "Berries.\n"
+            ]
+        },
+        {
+            "id": "a002_053_0450",
+            "en_US": [
+                "A folding Bicycle that enables much\n",
+                "faster movement than the Running\n",
+                "Shoes."
+            ]
+        },
+        {
+            "id": "a002_053_0451",
+            "en_US": [
+                "A key to one of the suites at the\n",
+                "luxury hotel by a lake. For some odd\n",
+                "reason, it often disappears."
+            ]
+        },
+        {
+            "id": "a002_053_0452",
+            "en_US": [
+                "A letter from Prof. Oak.\n",
+                "Written in it is a request for you to\n",
+                "go to Rt. 224."
+            ]
+        },
+        {
+            "id": "a002_053_0453",
+            "en_US": [
+                "A feather that glows like the moon.\n",
+                "It is said to possess the power to\n",
+                "dispel nightmares."
+            ]
+        },
+        {
+            "id": "a002_053_0454",
+            "en_US": [
+                "A card needed for entering the inn in\n",
+                "Canalave City. Oddly, the last date\n",
+                "marked on it was 50 years ago."
+            ]
+        },
+        {
+            "id": "a002_053_0455",
+            "en_US": [
+                "A flute that puts out echoing sounds\n",
+                "that do not seem to be of this world.\n",
+                "It is unknown who made it."
+            ]
+        },
+        {
+            "id": "a002_053_0456",
+            "en_US": [
+                "The ticket required for sailing on the\n",
+                "ferry S.S. Aqua. It has a drawing of a\n",
+                "ship on it."
+            ]
+        },
+        {
+            "id": "a002_053_0457",
+            "en_US": [
+                "The pass required for entering Pokémon\n",
+                "Contests. It has a drawing of an award\n",
+                "ribbon on it."
+            ]
+        },
+        {
+            "id": "a002_053_0458",
+            "en_US": [
+                "A stone formed when boulders melted in\n",
+                "intensely hot magma, then hardened.\n",
+                "Magma remains sealed inside."
+            ]
+        },
+        {
+            "id": "a002_053_0459",
+            "en_US": [
+                "A parcel entrusted in your care.\n",
+                "You are supposed to deliver it to your\n",
+                "childhood friend who left Twinleaf Town."
+            ]
+        },
+        {
+            "id": "a002_053_0460",
+            "en_US": [
+                "A coupon to be exchanged for a\n",
+                "Pokémon Watch (Pokétch for short).\n",
+                "Three coupons are needed."
+            ]
+        },
+        {
+            "id": "a002_053_0461",
+            "en_US": [
+                "A coupon to be exchanged for a\n",
+                "Pokémon Watch (Pokétch for short).\n",
+                "Three coupons are needed."
+            ]
+        },
+        {
+            "id": "a002_053_0462",
+            "en_US": [
+                "A coupon to be exchanged for a\n",
+                "Pokémon Watch (Pokétch for short).\n",
+                "Three coupons are needed."
+            ]
+        },
+        {
+            "id": "a002_053_0463",
+            "en_US": [
+                "The key to Team Galactic's sinister\n",
+                "warehouse located at the edge of\n",
+                "Veilstone City."
+            ]
+        },
+        {
+            "id": "a002_053_0464",
+            "en_US": [
+                "A fantastic medicine dispensed by the\n",
+                "pharmacy in Cianwood City. It fully\n",
+                "heals a Pokémon of any ailment."
+            ]
+        },
+        {
+            "id": "a002_053_0465",
+            "en_US": [
+                "An amazing device that can record a\n",
+                "battle either between friends or at a\n",
+                "special battle facility."
+            ]
+        },
+        {
+            "id": "a002_053_0466",
+            "en_US": [
+                "A flower sometimes bundled in bouquets\n",
+                "to convey gratitude on special\n",
+                "occasions like birthdays."
+            ]
+        },
+        {
+            "id": "a002_053_0467",
+            "en_US": [
+                "A high-tech key that has to be used at\n",
+                "a specific location. It emits a special\n",
+                "electric signal to open a door."
+            ]
+        },
+        {
+            "id": "a002_053_0468",
+            "en_US": [
+                "A handy box where you can store up to\n",
+                "99 Apricorns of each kind."
+            ]
+        },
+        {
+            "id": "a002_053_0469",
+            "en_US": [
+                "A report of all the discovered kinds\n",
+                "of Unown."
+            ]
+        },
+        {
+            "id": "a002_053_0470",
+            "en_US": [
+                "Handy containers for cultivating\n",
+                "Berries wherever you go."
+            ]
+        },
+        {
+            "id": "a002_053_0471",
+            "en_US": [
+                "It checks for unseen items in the area\n",
+                "and makes noise and lights when it\n",
+                "finds something."
+            ]
+        },
+        {
+            "id": "a002_053_0472",
+            "en_US": [
+                "A card to save points for the\n",
+                "Buena's Password show."
+            ]
+        },
+        {
+            "id": "a002_053_0473",
+            "en_US": [
+                "A very tasty tail of something.\n",
+                "It sells for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0474",
+            "en_US": [
+                "A very old-fashioned bell that makes a\n",
+                "gentle ringing."
+            ]
+        },
+        {
+            "id": "a002_053_0475",
+            "en_US": [
+                "A card key that opens a shutter in the\n",
+                "Radio Tower."
+            ]
+        },
+        {
+            "id": "a002_053_0476",
+            "en_US": [
+                "A key that opens a door in the\n",
+                "Goldenrod Tunnel."
+            ]
+        },
+        {
+            "id": "a002_053_0477",
+            "en_US": [
+                "A bottle used for watering plants in the\n",
+                "Berry Pots."
+            ]
+        },
+        {
+            "id": "a002_053_0478",
+            "en_US": [
+                "A scale from the red Gyarados. It glows\n",
+                "red like a flame."
+            ]
+        },
+        {
+            "id": "a002_053_0479",
+            "en_US": [
+                "The Mime Jr. doll that was lost by\n",
+                "the Copycat."
+            ]
+        },
+        {
+            "id": "a002_053_0480",
+            "en_US": [
+                "A ticket required for riding the Magnet\n",
+                "Train. It allows you to ride whenever\n",
+                "and however much you'd like."
+            ]
+        },
+        {
+            "id": "a002_053_0481",
+            "en_US": [
+                "An important machine part for the\n",
+                "Power Plant that was stolen."
+            ]
+        },
+        {
+            "id": "a002_053_0482",
+            "en_US": [
+                "A strange, silvery feather\n",
+                "that sparkles."
+            ]
+        },
+        {
+            "id": "a002_053_0483",
+            "en_US": [
+                "A mystical rainbow feather\n",
+                "that sparkles."
+            ]
+        },
+        {
+            "id": "a002_053_0484",
+            "en_US": [
+                "A mysterious Egg obtained from Mr.\n",
+                "Pokémon. What's in the Egg is unknown."
+            ]
+        },
+        {
+            "id": "a002_053_0485",
+            "en_US": [
+                "A red Apricorn.\n",
+                "It assails your nostrils."
+            ]
+        },
+        {
+            "id": "a002_053_0486",
+            "en_US": [
+                "A blue Apricorn.\n",
+                "It smells a bit like grass."
+            ]
+        },
+        {
+            "id": "a002_053_0487",
+            "en_US": [
+                "A yellow Apricorn.\n",
+                "It has an invigorating scent."
+            ]
+        },
+        {
+            "id": "a002_053_0488",
+            "en_US": [
+                "A green Apricorn.\n",
+                "It has a mysterious, aromatic scent."
+            ]
+        },
+        {
+            "id": "a002_053_0489",
+            "en_US": [
+                "A pink Apricorn.\n",
+                "It has a nice, sweet scent."
+            ]
+        },
+        {
+            "id": "a002_053_0490",
+            "en_US": [
+                "A white Apricorn.\n",
+                "It doesn't smell like anything."
+            ]
+        },
+        {
+            "id": "a002_053_0491",
+            "en_US": [
+                "A black Apricorn\n",
+                "It has an indescribable scent."
+            ]
+        },
+        {
+            "id": "a002_053_0492",
+            "en_US": [
+                "A Poké Ball that makes it easier to\n",
+                "catch Pokémon which are quick to\n",
+                "run away."
+            ]
+        },
+        {
+            "id": "a002_053_0493",
+            "en_US": [
+                "A Poké Ball for catching Pokémon that\n",
+                "are a lower level than your own."
+            ]
+        },
+        {
+            "id": "a002_053_0494",
+            "en_US": [
+                "A Poké Ball for catching Pokémon hooked\n",
+                "by a Rod when fishing."
+            ]
+        },
+        {
+            "id": "a002_053_0495",
+            "en_US": [
+                "A Poké Ball for catching very heavy\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0496",
+            "en_US": [
+                "Poké Ball for catching Pokémon that are\n",
+                "the opposite gender of your Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0497",
+            "en_US": [
+                "A Poké Ball that makes caught Pokémon\n",
+                "more friendly."
+            ]
+        },
+        {
+            "id": "a002_053_0498",
+            "en_US": [
+                "A Poké Ball for catching Pokémon that\n",
+                "evolve using the Moon Stone."
+            ]
+        },
+        {
+            "id": "a002_053_0499",
+            "en_US": [
+                "A special Poké Ball for the\n",
+                "Bug-Catching Contest."
+            ]
+        },
+        {
+            "id": "a002_053_0500",
+            "en_US": "A special Poké Ball for the Pal Park."
+        },
+        {
+            "id": "a002_053_0501",
+            "en_US": [
+                "A nice photo album for storing all the\n",
+                "photos taken along your adventure."
+            ]
+        },
+        {
+            "id": "a002_053_0502",
+            "en_US": [
+                "A music player that allows you to listen\n",
+                "to nostalgic songs. It's operated with\n",
+                "a single switch."
+            ]
+        },
+        {
+            "id": "a002_053_0503",
+            "en_US": [
+                "A very old-fashioned bell that makes a\n",
+                "gentle ringing."
+            ]
+        },
+        {
+            "id": "a002_053_0504",
+            "en_US": [
+                "A famous Mahogany Town candy tourists\n",
+                "like to buy and take home. It restores\n",
+                "the HP of one Pokémon by 20 points."
+            ]
+        },
+        {
+            "id": "a002_053_0505",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many victories\n",
+                "you've had."
+            ]
+        },
+        {
+            "id": "a002_053_0506",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many\n",
+                "losses you've had."
+            ]
+        },
+        {
+            "id": "a002_053_0507",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon have dashed."
+            ]
+        },
+        {
+            "id": "a002_053_0508",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon have jumped."
+            ]
+        },
+        {
+            "id": "a002_053_0509",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won the Hurdle Dash."
+            ]
+        },
+        {
+            "id": "a002_053_0510",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won the Relay Run."
+            ]
+        },
+        {
+            "id": "a002_053_0511",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Pennant Capture."
+            ]
+        },
+        {
+            "id": "a002_053_0512",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Block Smash."
+            ]
+        },
+        {
+            "id": "a002_053_0513",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Disc Catch."
+            ]
+        },
+        {
+            "id": "a002_053_0514",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Snow Throw."
+            ]
+        },
+        {
+            "id": "a002_053_0515",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many points\n",
+                "your Pokémon scored."
+            ]
+        },
+        {
+            "id": "a002_053_0516",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon have failed."
+            ]
+        },
+        {
+            "id": "a002_053_0517",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon impeded themselves."
+            ]
+        },
+        {
+            "id": "a002_053_0518",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon have tackled."
+            ]
+        },
+        {
+            "id": "a002_053_0519",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon have fallen down."
+            ]
+        },
+        {
+            "id": "a002_053_0520",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Ring Drop."
+            ]
+        },
+        {
+            "id": "a002_053_0521",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Lamp Jump."
+            ]
+        },
+        {
+            "id": "a002_053_0522",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Circle Push."
+            ]
+        },
+        {
+            "id": "a002_053_0523",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many \n",
+                "Link Pokéathlon wins you've had."
+            ]
+        },
+        {
+            "id": "a002_053_0524",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many\n",
+                "Link Pokéathlon losses you've had."
+            ]
+        },
+        {
+            "id": "a002_053_0525",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times\n",
+                "you've won an event."
+            ]
+        },
+        {
+            "id": "a002_053_0526",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times \n",
+                "you've lost an event."
+            ]
+        },
+        {
+            "id": "a002_053_0527",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "switched Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0528",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "won Goal Roll."
+            ]
+        },
+        {
+            "id": "a002_053_0529",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times your\n",
+                "Pokémon won individual prizes."
+            ]
+        },
+        {
+            "id": "a002_053_0530",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how many times you've\n",
+                "instructed your Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0531",
+            "en_US": [
+                "It holds Pokéathlon records. It's a\n",
+                "card that shows how much time you've\n",
+                "spent in the Pokéathlon."
+            ]
+        },
+        {
+            "id": "a002_053_0532",
+            "en_US": [
+                "A shiny green orb that is said to have\n",
+                "a legend and has a deep connection with\n",
+                "the Hoenn region."
+            ]
+        },
+        {
+            "id": "a002_053_0533",
+            "en_US": [
+                "A sturdy Capsule that can only be\n",
+                "opened with a special key."
+            ]
+        },
+        {
+            "id": "a002_053_0534",
+            "en_US": [
+                "A shiny red orb that is said to have\n",
+                "a legend and has a deep connection with\n",
+                "the Hoenn region."
+            ]
+        },
+        {
+            "id": "a002_053_0535",
+            "en_US": [
+                "A shiny blue orb that is said to have\n",
+                "a legend and has a deep connection with\n",
+                "the Hoenn region."
+            ]
+        },
+        {
+            "id": "a002_053_0536",
+            "en_US": [
+                "A crystal ball that was excavated from\n",
+                "the ground. A very beautiful stone that\n",
+                "is covered with bits of rock and earth."
+            ]
+        },
+        {
+            "id": "a002_053_0537",
+            "en_US": [
+                "A mysterious scale that evolves\n",
+                "certain Pokémon.\n",
+                "It shines in rainbow colors."
+            ]
+        },
+        {
+            "id": "a002_053_0538",
+            "en_US": [
+                "A mysterious evolutionary lump. When\n",
+                "held, it raises the Defense and Sp. Def\n",
+                "of a Pokémon that can still evolve."
+            ]
+        },
+        {
+            "id": "a002_053_0539",
+            "en_US": [
+                "A very light stone. It reduces the\n",
+                "weight of a Pokémon when held."
+            ]
+        },
+        {
+            "id": "a002_053_0540",
+            "en_US": [
+                "If the holder of this item takes damage,\n",
+                "the attacker will also be damaged\n",
+                "upon contact."
+            ]
+        },
+        {
+            "id": "a002_053_0541",
+            "en_US": [
+                "When held by a Pokémon, the Pokémon\n",
+                "will float into the air. When the holder\n",
+                "is attacked, this item will burst."
+            ]
+        },
+        {
+            "id": "a002_053_0542",
+            "en_US": [
+                "A card with a mysterious power. When\n",
+                "the holder is struck by a foe, the\n",
+                "attacker is removed from battle."
+            ]
+        },
+        {
+            "id": "a002_053_0543",
+            "en_US": [
+                "Moves that would otherwise have no\n",
+                "effect will land on the Pokémon that\n",
+                "holds it."
+            ]
+        },
+        {
+            "id": "a002_053_0544",
+            "en_US": [
+                "A band that increases the power of\n",
+                "binding moves when held."
+            ]
+        },
+        {
+            "id": "a002_053_0545",
+            "en_US": [
+                "A consumable bulb. If the holder is hit\n",
+                "by a Water-type move, its Sp. Atk\n",
+                "will rise."
+            ]
+        },
+        {
+            "id": "a002_053_0546",
+            "en_US": [
+                "A consumable battery. If the\n",
+                "holder is hit by an Electric-type\n",
+                "move, its Attack will rise."
+            ]
+        },
+        {
+            "id": "a002_053_0547",
+            "en_US": [
+                "If the holder is hit by an attack, it will\n",
+                "switch with another Pokémon in\n",
+                "your party."
+            ]
+        },
+        {
+            "id": "a002_053_0548",
+            "en_US": [
+                "A gem with an essence of fire. When\n",
+                "held, it strengthens the power of a\n",
+                "Fire-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0549",
+            "en_US": [
+                "A gem with an essence of water. When\n",
+                "held, it strengthens the power of a\n",
+                "Water-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0550",
+            "en_US": [
+                "A gem with an essence of electricity.\n",
+                "When held, it strengthens the power of\n",
+                "an Electric-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0551",
+            "en_US": [
+                "A gem with an essence of nature. When\n",
+                "held, it strengthens the power of a\n",
+                "Grass-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0552",
+            "en_US": [
+                "A gem with an essence of ice. When held,\n",
+                "it strengthens the power of an\n",
+                "Ice-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0553",
+            "en_US": [
+                "A gem with an essence of combat. When\n",
+                "held, it strengthens the power of a\n",
+                "Fighting-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0554",
+            "en_US": [
+                "A gem with an essence of poison. When\n",
+                "held, it strengthens the power of a\n",
+                "Poison-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0555",
+            "en_US": [
+                "A gem with an essence of land. When\n",
+                "held, it strengthens the power of a\n",
+                "Ground-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0556",
+            "en_US": [
+                "A gem with an essence of air. When held,\n",
+                "it strengthens the power of a\n",
+                "Flying-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0557",
+            "en_US": [
+                "A gem with an essence of the mind. When\n",
+                "held, it strengthens the power of a\n",
+                "Psychic-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0558",
+            "en_US": [
+                "A gem with an insect-like essence.\n",
+                "When held, it strengthens the power of\n",
+                "a Bug-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0559",
+            "en_US": [
+                "A gem with an essence of rock. When\n",
+                "held, it strengthens the power of a\n",
+                "Rock-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0560",
+            "en_US": [
+                "A gem with a spectral essence. When\n",
+                "held, it strengthens the power of a\n",
+                "Ghost-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0561",
+            "en_US": [
+                "A gem with a draconic essence. \n",
+                "When held, it strengthens the power\n",
+                "of a Dragon-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0562",
+            "en_US": [
+                "A gem with an essence of darkness.\n",
+                "When held, it strengthens the power of\n",
+                "a Dark-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0563",
+            "en_US": [
+                "A gem with an essence of steel. When\n",
+                "held, it strengthens the power of a\n",
+                "Steel-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0564",
+            "en_US": [
+                "A gem with an ordinary essence. When\n",
+                "held, it strengthens the power of a\n",
+                "Normal-type move only once."
+            ]
+        },
+        {
+            "id": "a002_053_0565",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base HP of a\n",
+                "single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0566",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base Attack stat\n",
+                "of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0567",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base Defense\n",
+                "stat of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0568",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base Sp. Atk\n",
+                "stat of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0569",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base Sp. Def\n",
+                "stat of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0570",
+            "en_US": [
+                "An item for use on a Pokémon. It\n",
+                "slightly increases the base Speed stat\n",
+                "of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0571",
+            "en_US": [
+                "Though this feather is beautiful, it's\n",
+                "just a regular feather and has no\n",
+                "effect on Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0572",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "lived in the sea in ancient times.\n",
+                "It appears to be part of its back."
+            ]
+        },
+        {
+            "id": "a002_053_0573",
+            "en_US": [
+                "A fossil of an ancient Pokémon that\n",
+                "flew in the sky in ancient times.\n",
+                "It appears to be part of its wing."
+            ]
+        },
+        {
+            "id": "a002_053_0574",
+            "en_US": [
+                "A special pass to go to Liberty Garden.\n",
+                "Board the ship in Castelia City."
+            ]
+        },
+        {
+            "id": "a002_053_0575",
+            "en_US": [
+                "A mysterious orb containing the power\n",
+                "of the Unova region, to be used when\n",
+                "generating Pass Power."
+            ]
+        },
+        {
+            "id": "a002_053_0576",
+            "en_US": [
+                "A special Poké Ball that appears out of\n",
+                "nowhere in a bag at the Entree Forest.\n",
+                "It can catch any Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0577",
+            "en_US": [
+                "An item that attracts Pokémon.\n",
+                "Use it to flee from any battle with a\n",
+                "wild Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0578",
+            "en_US": [
+                "A lovely case to store colorful Props\n",
+                "for your Pokémon to wear in a musical."
+            ]
+        },
+        {
+            "id": "a002_053_0579",
+            "en_US": [
+                "A skull of a Pokémon which was said to\n",
+                "have braved the angry waters to fly\n",
+                "around the world."
+            ]
+        },
+        {
+            "id": "a002_053_0580",
+            "en_US": [
+                "A rare mushroom which gives off a nice\n",
+                "fragrance.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0581",
+            "en_US": [
+                "A big nugget of pure gold that gives off\n",
+                "a lustrous gleam.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0582",
+            "en_US": [
+                "Very large pearls that sparkle in a\n",
+                "pretty silver color. \n",
+                "A maniac will buy them for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0583",
+            "en_US": [
+                "A shard which fell to the ground when\n",
+                "a comet approached.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0584",
+            "en_US": [
+                "A copper coin used in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0585",
+            "en_US": [
+                "A silver coin used in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0586",
+            "en_US": [
+                "A gold coin used in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0587",
+            "en_US": [
+                "A vase made in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0588",
+            "en_US": [
+                "A bracelet made in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0589",
+            "en_US": [
+                "A stone figure made in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0590",
+            "en_US": [
+                "A crown made in a civilization\n",
+                "about 3,000 years ago.\n",
+                "A maniac will buy it for a high price."
+            ]
+        },
+        {
+            "id": "a002_053_0591",
+            "en_US": [
+                "Castelia City's specialty, soft-serve\n",
+                "ice cream. It heals all the status\n",
+                "problems of a single Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0592",
+            "en_US": [
+                "It can be used many times to raise the\n",
+                "critical-hit ratio of one Pokémon. It\n",
+                "wears off if the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0593",
+            "en_US": [
+                "It sharply raises the Speed stat of a\n",
+                "Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0594",
+            "en_US": [
+                "It sharply raises the Sp. Atk stat of a\n",
+                "Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0595",
+            "en_US": [
+                "It sharply raises the Sp. Def stat of a\n",
+                "Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0596",
+            "en_US": [
+                "It sharply raises the Defense stat\n",
+                "of a Pokémon in battle. It wears off\n",
+                "if the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0597",
+            "en_US": [
+                "It sharply raises the Attack stat of a\n",
+                "Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0598",
+            "en_US": [
+                "It sharply raises the accuracy of a\n",
+                "Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0599",
+            "en_US": [
+                "It drastically raises the Speed stat of\n",
+                "a Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0600",
+            "en_US": [
+                "It drastically raises the Sp. Atk stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0601",
+            "en_US": [
+                "It drastically raises the Sp. Def stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0602",
+            "en_US": [
+                "It drastically raises the Defense stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0603",
+            "en_US": [
+                "It drastically raises the Attack stat\n",
+                "of a Pokémon in battle. It wears off if\n",
+                "the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0604",
+            "en_US": [
+                "It drastically raises the accuracy of a\n",
+                "Pokémon in battle. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0605",
+            "en_US": [
+                "It raises the Speed stat of a Pokémon\n",
+                "in battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0606",
+            "en_US": [
+                "It raises the Sp. Atk stat of a Pokémon\n",
+                "in battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0607",
+            "en_US": [
+                "It raises the Sp. Def stat of a Pokémon\n",
+                "in battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0608",
+            "en_US": [
+                "It raises the Defense stat of a Pokémon\n",
+                "in battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0609",
+            "en_US": [
+                "It raises the Attack stat of a Pokémon\n",
+                "in battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0610",
+            "en_US": [
+                "It raises the accuracy of a Pokémon in\n",
+                "battle immensely. It wears off if the\n",
+                "Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0611",
+            "en_US": [
+                "When used, it activates the Ability of\n",
+                "an ally Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0612",
+            "en_US": [
+                "When used, it causes an ally Pokémon\n",
+                "to drop a held item."
+            ]
+        },
+        {
+            "id": "a002_053_0613",
+            "en_US": [
+                "When used, it causes an ally Pokémon\n",
+                "to use its held item."
+            ]
+        },
+        {
+            "id": "a002_053_0614",
+            "en_US": [
+                "When used, it restores any stat\n",
+                "changes of an ally Pokémon."
+            ]
+        },
+        {
+            "id": "a002_053_0615",
+            "en_US": [
+                "It can be used many times to greatly\n",
+                "raise a Pokémon's critical-hit ratio. It\n",
+                "wears off if the Pokémon is withdrawn."
+            ]
+        },
+        {
+            "id": "a002_053_0616",
+            "en_US": [
+                "Reshiram's body was destroyed and\n",
+                "changed into this stone. It is said to\n",
+                "be waiting for the emergence of a hero."
+            ]
+        },
+        {
+            "id": "a002_053_0617",
+            "en_US": [
+                "Zekrom's body was destroyed and\n",
+                "changed into this stone. It is said to\n",
+                "be waiting for the emergence of a hero."
+            ]
+        },
+        {
+            "id": "a002_053_0618",
+            "en_US": [
+                "The user shrouds itself in electricity\n",
+                "and smashes into its target.\n",
+                "It also damages the user a little."
+            ]
+        },
+        {
+            "id": "a002_053_0619",
+            "en_US": [
+                "The user attacks with a punch that can\n",
+                "shatter a rock. It may also lower the\n",
+                "target's Defense stat."
+            ]
+        },
+        {
+            "id": "a002_053_0620",
+            "en_US": [
+                "The user yells as if it is ranting about\n",
+                "something, making the target's Sp. Atk\n",
+                "stat decrease."
+            ]
+        },
+        {
+            "id": "a002_053_0621",
+            "en_US": [
+                "A high-tech transceiver with a \n",
+                "camera function. It allows up to\n",
+                "four-way calls."
+            ]
+        },
+        {
+            "id": "a002_053_0622",
+            "en_US": "A rare stone."
+        },
+        {
+            "id": "a002_053_0623",
+            "en_US": [
+                "An important letter which\n",
+                "Wingull delivers."
+            ]
+        },
+        {
+            "id": "a002_053_0624",
+            "en_US": [
+                "An important letter which\n",
+                "Wingull delivers."
+            ]
+        },
+        {
+            "id": "a002_053_0625",
+            "en_US": [
+                "An important letter which\n",
+                "Wingull delivers."
+            ]
+        },
+        {
+            "id": "a002_053_0626",
+            "en_US": [
+                "A high-tech transceiver with a\n",
+                "camera function. It allows up to\n",
+                "four-way calls."
+            ]
+        }
+    ]
+}

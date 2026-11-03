@@ -1,0 +1,106 @@
+{
+    "flags": 227,
+    "pad": "e2e2",
+    "messages": [
+        {
+            "id": "a002_173_0000",
+            "en_US": "{VAR FF00 0002}Bicycle{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0001",
+            "en_US": "{VAR FF00 0002}Town Map{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0002",
+            "en_US": "{VAR FF00 0002}Vs. Recorder{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0003",
+            "en_US": "{VAR FF00 0002}Pal Pad{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0004",
+            "en_US": "{VAR FF00 0002}Super Rod{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0005",
+            "en_US": "{VAR FF00 0002}Dowsing MCHN{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0006",
+            "en_US": "{VAR FF00 0002}Gracidea{VAR FF00 0000}"
+        },
+        {
+            "id": "a002_173_0007",
+            "en_US": "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Status"
+        },
+        {
+            "id": "a002_173_0008",
+            "en_US": "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Skills"
+        },
+        {
+            "id": "a002_173_0009",
+            "en_US": "Pokémon Info{VAR FF00 0001}>{VAR FF00 0000}Ribbons"
+        },
+        {
+            "id": "a002_173_0010",
+            "en_US": "Bag{VAR FF00 0001}>{VAR FF00 0000}Items"
+        },
+        {
+            "id": "a002_173_0011",
+            "en_US": "Bag{VAR FF00 0001}>{VAR FF00 0000}Medicine"
+        },
+        {
+            "id": "a002_173_0012",
+            "en_US": "Bag{VAR FF00 0001}>{VAR FF00 0000}TMs & HMs"
+        },
+        {
+            "id": "a002_173_0013",
+            "en_US": "Bag{VAR FF00 0001}>{VAR FF00 0000}Berries"
+        },
+        {
+            "id": "a002_173_0014",
+            "en_US": "Bag{VAR FF00 0001}>{VAR FF00 0000}Key Items"
+        },
+        {
+            "id": "a002_173_0015",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}List"
+        },
+        {
+            "id": "a002_173_0016",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Search"
+        },
+        {
+            "id": "a002_173_0017",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Info"
+        },
+        {
+            "id": "a002_173_0018",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Area"
+        },
+        {
+            "id": "a002_173_0019",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Cry"
+        },
+        {
+            "id": "a002_173_0020",
+            "en_US": "Pokédex{VAR FF00 0001}>{VAR FF00 0000}Forms"
+        },
+        {
+            "id": "a002_173_0021",
+            "en_US": "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Front"
+        },
+        {
+            "id": "a002_173_0022",
+            "en_US": "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Back"
+        },
+        {
+            "id": "a002_173_0023",
+            "en_US": "Trainer Card{VAR FF00 0001}>{VAR FF00 0000}Badges"
+        },
+        {
+            "id": "a002_173_0024",
+            "en_US": "Options"
+        }
+    ]
+}

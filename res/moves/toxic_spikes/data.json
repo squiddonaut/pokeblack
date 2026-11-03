@@ -1,0 +1,30 @@
+{
+    "name": "Toxic Spikes",
+    "description": [
+        "The user lays a trap of poison spikes at\n",
+        "the opponent's feet. They poison\n",
+        "opponents that switch into battle."
+    ],
+    "type": "TYPE_POISON",
+    "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 20,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 249,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_OPPONENT_SIDE",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_MAGIC_COAT"]
+}

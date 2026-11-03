@@ -1,0 +1,26 @@
+{
+    "flags": 96,
+    "pad": "6e6e",
+    "messages": [
+        {
+            "id": "a002_055_0000",
+            "en_US": "ITEMS"
+        },
+        {
+            "id": "a002_055_0001",
+            "en_US": "MEDICINE"
+        },
+        {
+            "id": "a002_055_0002",
+            "en_US": "TMs & HMs"
+        },
+        {
+            "id": "a002_055_0003",
+            "en_US": "BERRIES"
+        },
+        {
+            "id": "a002_055_0004",
+            "en_US": "KEY ITEMS"
+        }
+    ]
+}

@@ -1,0 +1,685 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_471_0000",
+            "en_US": "Welcome to the Global Terminal!{VAR BE01}"
+        },
+        {
+            "id": "a003_471_0001",
+            "en_US": [
+                "Would you like to use\n",
+                "Nintendo Wi-Fi Connection?"
+            ]
+        },
+        {
+            "id": "a003_471_0002",
+            "en_US": "Please do visit again."
+        },
+        {
+            "id": "a003_471_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0004",
+            "en_US": "Right this way, please.{VAR BE01}"
+        },
+        {
+            "id": "a003_471_0005",
+            "en_US": [
+                "In the Global Terminal, you can battle or\n",
+                "trade Pokémon with Pokémon fans from{VAR BE00}\n",
+                "around the world by connecting to{VAR BE00}\n",
+                "Nintendo Wi-Fi Connection.{VAR BE01}\n",
+                "For details, please listen to the\n",
+                "explanation at each facility.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0006",
+            "en_US": [
+                "Sorry, we're getting things ready.\n",
+                "Please come back later."
+            ]
+        },
+        {
+            "id": "a003_471_0007",
+            "en_US": [
+                "You have at least one Pokémon\n",
+                "that can't be taken in."
+            ]
+        },
+        {
+            "id": "a003_471_0008",
+            "en_US": "Communication error."
+        },
+        {
+            "id": "a003_471_0009",
+            "en_US": "Random Matchup",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0010",
+            "en_US": "Global Trade",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0011",
+            "en_US": "Musical Photos",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0012",
+            "en_US": "Battle Videos",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0013",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0014",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0015",
+            "en_US": "Would you like to make a Global Trade?"
+        },
+        {
+            "id": "a003_471_0016",
+            "en_US": [
+                "You may trade Pokémon with other\n",
+                "Pokémon fans from around the world with{VAR BE00}\n",
+                "Global Trade.{VAR BE01}\n",
+                "Global Trade has two forms: GTS and\n",
+                "GTS Negotiations.{VAR BE01}\n",
+                "Please be careful, because each has a\n",
+                "different way of trading.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0017",
+            "en_US": "GTS",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0018",
+            "en_US": "GTS Negotiations",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0019",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0020",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0021",
+            "en_US": "Would you like to make a GTS trade?"
+        },
+        {
+            "id": "a003_471_0022",
+            "en_US": "Trade",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0023",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0024",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0025",
+            "en_US": [
+                "You may trade Pokémon in two ways when\n",
+                "using GTS.{VAR BE01}\n",
+                "You may offer a Pokémon for trade\n",
+                "or search among offered Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0026",
+            "en_US": [
+                "Should I describe things in\n",
+                "greater detail?"
+            ]
+        },
+        {
+            "id": "a003_471_0027",
+            "en_US": [
+                "You will be asked to put up the\n",
+                "Pokémon you are offering to trade.{VAR BE01}\n",
+                "At that time, you will be asked what\n",
+                "Pokémon you would like in return.{VAR BE01}\n",
+                "If another player offers your desired\n",
+                "Pokémon in return for your offered{VAR BE00}\n",
+                "Pokémon, the trade will go through.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0028",
+            "en_US": [
+                "You may search among the Pokémon\n",
+                "that are offered by other Trainers.{VAR BE01}\n",
+                "They will all identify what Pokémon\n",
+                "their Trainers want back in return.{VAR BE01}\n",
+                "If you find one that you want, you\n",
+                "must provide us with the kind of{VAR BE00}\n",
+                "Pokémon wanted in return.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0029",
+            "en_US": "Offer Pokémon?",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0030",
+            "en_US": "Seek Pokémon?",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0031",
+            "en_US": "Understood",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0032",
+            "en_US": [
+                "Would you like to start\n",
+                "Pokémon GTS Negotiations?"
+            ]
+        },
+        {
+            "id": "a003_471_0033",
+            "en_US": "Start Negotiations",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0034",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0035",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0036",
+            "en_US": [
+                "In GTS Negotiations, you set the trading\n",
+                "conditions based on what kinds of{VAR BE00}\n",
+                "Pokémon you'd like to trade.{VAR BE01}\n",
+                "If you find a person with matching\n",
+                "conditions, you may proceed to a{VAR BE00}\n",
+                "Negotiation Trade with that person.{VAR BE01}\n",
+                "In order to trade, you need to have two\n",
+                "or more Pokémon in your party.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0037",
+            "en_US": [
+                "Should I describe things in\n",
+                "greater detail?"
+            ]
+        },
+        {
+            "id": "a003_471_0038",
+            "en_US": [
+                "In a Negotiation Trade, each person\n",
+                "offers three Pokémon to trade.{VAR BE01}\n",
+                "Then, each person will choose one of the\n",
+                "other person's three Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0039",
+            "en_US": [
+                "You can set three conditions in a\n",
+                "Negotiation Trade: the level of Pokémon{VAR BE00}\n",
+                "to trade, the Pokémon you want to{VAR BE00}\n",
+                "receive, and the Pokémon up for offer.{VAR BE01}\n",
+                "You may trade with a person whose\n",
+                "conditions match yours, or choose{VAR BE00}\n",
+                "Trade Rendezvous to try another trade{VAR BE00}\n",
+                "with a previous trading partner.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0040",
+            "en_US": "Negotiation Trade?",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0041",
+            "en_US": "Trading Conditions?",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0042",
+            "en_US": "Understood",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0043",
+            "en_US": [
+                "Would you like to view or upload\n",
+                "Battle Videos?"
+            ]
+        },
+        {
+            "id": "a003_471_0044",
+            "en_US": [
+                "With Battle Videos, you may post a\n",
+                "Battle Video you took with your{VAR BE00}\n",
+                "Vs. Recorder or view Battle Videos from{VAR BE00}\n",
+                "other Trainers.{VAR BE01}\n",
+                "You may search the Battle Videos by\n",
+                "Pokémon, battle facility, ranking, etc.{VAR BE01}\n",
+                "The Battle Video you post will be assigned\n",
+                "a 12-digit code.{VAR BE01}\n",
+                "Your friends may view your Battle Video\n",
+                "by entering this 12-digit code here.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0045",
+            "en_US": "View or upload",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0046",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0047",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0048",
+            "en_US": [
+                "Would you like to view or upload\n",
+                "Musical Photos?"
+            ]
+        },
+        {
+            "id": "a003_471_0049",
+            "en_US": [
+                "With Musical Photos, you may post a photo\n",
+                "you took at the Pokémon Musical in{VAR BE00}\n",
+                "Nimbasa City by using the Vs. Recorder.{VAR BE01}\n",
+                "You may also view photos taken by other\n",
+                "people, sorted by the Pokémon you like.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0050",
+            "en_US": "View or upload",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0051",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0052",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0053",
+            "en_US": [
+                "Would you like to take the\n",
+                "Random Matchup challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0054",
+            "en_US": "Challenge",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0055",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0056",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0057",
+            "en_US": [
+                "A Random Matchup is a battle with other\n",
+                "Pokémon fans from around the world.{VAR BE01}\n",
+                "There are five kinds of Random Matchups:\n",
+                "Single, Double, Triple, Rotation,{VAR BE00}\n",
+                "and Launcher.{VAR BE01}\n",
+                "Also, Random Matchups have two modes:\n",
+                "Free mode and Rating mode.{VAR BE01}\n",
+                "In Free mode, everyone can participate\n",
+                "in battles freely.{VAR BE01}\n",
+                "In Rating mode, you may participate in\n",
+                "battles after you set Game Sync, access{VAR BE00}\n",
+                "the Pokémon Global Link website with your{VAR BE00}\n",
+                "computer, and register your{VAR BE00}\n",
+                "Game Sync ID.{VAR BE01}\n",
+                "http://www.pokemon-gl.com/\n",
+                "(Pokémon Global Link){VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0058",
+            "en_US": "Would you like to know more details?"
+        },
+        {
+            "id": "a003_471_0059",
+            "en_US": "Free Mode",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0060",
+            "en_US": "Rating Mode",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0061",
+            "en_US": "Special Rules",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0062",
+            "en_US": "Understood",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0063",
+            "en_US": [
+                "Free mode is for casual battles against\n",
+                "other Pokémon fans around the world.{VAR BE01}\n",
+                "Feel free to challenge it!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0064",
+            "en_US": [
+                "Rating mode is recommended for those who\n",
+                "want to master battles.{VAR BE01}\n",
+                "When communication is established, you\n",
+                "are likely to battle against a person with{VAR BE00}\n",
+                "a similar Rating.{VAR BE01}\n",
+                "Your Rating starts at 1500. When you win,\n",
+                "it goes up. When you lose, it goes down.{VAR BE01}\n",
+                "So the higher your Rating is, the\n",
+                "stronger you are as a Trainer!{VAR BE01}\n",
+                "There's one thing you should be careful\n",
+                "about in Rating mode.{VAR BE01}\n",
+                "Your record and Rating will be erased if\n",
+                "you connect to Nintendo Wi-Fi Connection{VAR BE00}\n",
+                "with a different DS System.{VAR BE01}\n",
+                "So please be careful if you switch!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0065",
+            "en_US": [
+                "There are several special rules\n",
+                "for Random Matchups.{VAR BE01}\n",
+                "Any Pokémon higher than Lv. 50 will be\n",
+                "set to that level for the battle.{VAR BE01}\n",
+                "Pokémon nicknames won't be used.{VAR BE01}\n",
+                "You have a limited time to choose Pokémon\n",
+                "for a battle and to give orders to your{VAR BE00}\n",
+                "Pokémon during the battle.{VAR BE01}\n",
+                "Don't exceed the time limit,\n",
+                "or your Pokémon and its moves{VAR BE00}\n",
+                "will be chosen for you!{VAR BE01}\n",
+                "There's also a time limit on the battle.{VAR BE01}\n",
+                "The winner will be determined when time\n",
+                "runs out, even if both sides still have{VAR BE00}\n",
+                "Pokémon standing.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0066",
+            "en_US": [
+                "Which Battle would you like\n",
+                "to choose?"
+            ]
+        },
+        {
+            "id": "a003_471_0067",
+            "en_US": "Single Battle",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0068",
+            "en_US": "Double Battle",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0069",
+            "en_US": "Triple Battle",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0070",
+            "en_US": "Rotation Battle",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0071",
+            "en_US": "Launcher Battle",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0072",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0073",
+            "en_US": [
+                "Would you like to take the\n",
+                "Single Battle challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0074",
+            "en_US": [
+                "Would you like to take the \n",
+                "Double Battle Challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0075",
+            "en_US": [
+                "Would you like to take the \n",
+                "Triple Battle Challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0076",
+            "en_US": [
+                "Would you like to take the \n",
+                "Rotation Battle Challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0077",
+            "en_US": [
+                "Would you like to take the \n",
+                "Launcher Battle Challenge?"
+            ]
+        },
+        {
+            "id": "a003_471_0078",
+            "en_US": "Confirm",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0079",
+            "en_US": "Rules",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0080",
+            "en_US": "Back",
+            "flags": 219
+        },
+        {
+            "id": "a003_471_0081",
+            "en_US": [
+                "For a Single Battle, you need to have\n",
+                "three to six Pokémon.{VAR BE01}\n",
+                "Before a battle, you and your opponent\n",
+                "show your Pokémon to each other,{VAR BE00}\n",
+                "then choose three Pokémon and battle.{VAR BE01}\n",
+                "You may not have duplicate Pokémon\n",
+                "or held items.{VAR BE01}\n",
+                "Also, you can't take special Pokémon\n",
+                "or Eggs into battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0082",
+            "en_US": [
+                "For a Double Battle, you need to have\n",
+                "four to six Pokémon.{VAR BE01}\n",
+                "Before a battle, you and your opponent\n",
+                "show your Pokémon to each other,{VAR BE00}\n",
+                "then choose four Pokémon and battle.{VAR BE01}\n",
+                "You may not have duplicate Pokémon\n",
+                "or held items.{VAR BE01}\n",
+                "Also, you can't take special Pokémon\n",
+                "or Eggs into battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0083",
+            "en_US": [
+                "For a Triple Battle, you need to have\n",
+                "six Pokémon.{VAR BE01}\n",
+                "Before a battle, you and your opponent\n",
+                "show your Pokémon to each other,{VAR BE00}\n",
+                "then decide their order and battle.{VAR BE01}\n",
+                "You may not have duplicate Pokémon\n",
+                "or held items.{VAR BE01}\n",
+                "Also, you can't take special Pokémon\n",
+                "or Eggs into battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0084",
+            "en_US": [
+                "In a Rotation Battle, you need to have\n",
+                "four to six Pokémon.{VAR BE01}\n",
+                "Before a battle, you and your opponent\n",
+                "show your Pokémon to each other,{VAR BE00}\n",
+                "then choose four Pokémon and battle.{VAR BE01}\n",
+                "You may not have duplicate Pokémon\n",
+                "or held items.{VAR BE01}\n",
+                "Also, you can't take special Pokémon\n",
+                "or Eggs into battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0085",
+            "en_US": [
+                "In a Launcher Battle, you have a\n",
+                "Triple Battle with your Wonder Launcher.{VAR BE00}\n",
+                "You need to have six Pokémon.{VAR BE01}\n",
+                "Before a battle, you and your opponent\n",
+                "show your Pokémon to each other,{VAR BE00}\n",
+                "then decide their order and battle.{VAR BE01}\n",
+                "You may not have duplicate Pokémon\n",
+                "or held items.{VAR BE01}\n",
+                "Also, you can't take special Pokémon\n",
+                "or Eggs into battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0086",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0087",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0088",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0089",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0090",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0091",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0092",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0093",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_471_0094",
+            "en_US": [
+                "Uh-oh!{VAR BE01}\n",
+                "I'm sorry, but your party and all your\n",
+                "PC Boxes are full.{VAR BE01}\n",
+                "To use the GTS, you must have\n",
+                "room in your party or in a PC Box.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0095",
+            "en_US": [
+                "Uh-oh!{VAR BE01}\n",
+                "You need at least two Pokémon in your\n",
+                "party to use the GTS.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_471_0096",
+            "en_US": [
+                "Uh-oh!{VAR BE01}\n",
+                "You need at least two Pokémon in your\n",
+                "party to use GTS Negotiations.{VAR BE01}"
+            ]
+        }
+    ]
+}

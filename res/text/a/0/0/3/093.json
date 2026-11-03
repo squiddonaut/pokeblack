@@ -1,0 +1,42 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_093_0000",
+            "en_US": [
+                "You! Experience feeling like a\n",
+                "powerful man!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_093_0001",
+            "en_US": [
+                "A Pokémon that can use Strength can\n",
+                "push a big rock even when it is{VAR BE00}\n",
+                "not fighting!{VAR BE01}\n",
+                "If you want to push some rocks around,\n",
+                "go to Route 16!{VAR BE01}\n",
+                "Thump! Thump!"
+            ]
+        },
+        {
+            "id": "a003_093_0002",
+            "en_US": [
+                "Have you seen the musical?{VAR BE01}\n",
+                "My own Pokémon up on the stage...{VAR BE01}\n",
+                "That is an indescribably\n",
+                "moving experience."
+            ]
+        },
+        {
+            "id": "a003_093_0003",
+            "en_US": [
+                "Castelia City is the heart of business.\n",
+                "Nimbasa City is the heart of leisure.{VAR BE01}\n",
+                "Various people and Pokémon gather\n",
+                "all over Unova, and the region is{VAR BE00}\n",
+                "becoming more and more lively."
+            ]
+        }
+    ]
+}

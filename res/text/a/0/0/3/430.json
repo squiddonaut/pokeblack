@@ -1,0 +1,490 @@
+{
+    "flags": 224,
+    "pad": "caca",
+    "messages": [
+        {
+            "id": "a003_430_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}!{VAR BE01}\n",
+                "I heard from Professor Juniper.\n",
+                "We can have a Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0001",
+            "en_US": [
+                "...\n",
+                "...{VAR BE01}\n",
+                "What's keeping Bianca?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0002",
+            "en_US": [
+                "Bianca: Am I a little late again?\n",
+                "So-oooo-orry!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0003",
+            "en_US": [
+                "Cheren: Bianca...{VAR BE01}\n",
+                "I've known for ten years that you\n",
+                "have no sense of time, but...seriously...{VAR BE01}\n",
+                "Today's the day we can get a\n",
+                "Pokémon from Professor Juniper!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0004",
+            "en_US": [
+                "Bianca: I know. Sorry, {VAR 0100 0000}.\n",
+                "Sorry, Cheren.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0005",
+            "en_US": [
+                "Bianca: So, where are the Pokémon?{VAR BE01}\n",
+                "They were delivered to {VAR 0100 0000}'s\n",
+                "house, so {VAR 0100 0000} gets first pick.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0006",
+            "en_US": "Cheren: Naturally.{VAR BE01}"
+        },
+        {
+            "id": "a003_430_0007",
+            "en_US": [
+                "The Pokémon are waiting for us\n",
+                "inside that gift box.{VAR BE01}\n",
+                "OK, {VAR 0100 0000}, you go first and take\n",
+                "a peek at the gift box.{VAR BE01}\n",
+                "I want to meet the Pokémon right now!"
+            ]
+        },
+        {
+            "id": "a003_430_0008",
+            "en_US": [
+                "Cheren: Aren't you going to check\n",
+                "out the gift box? Where are you going?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0009",
+            "en_US": [
+                "Cheren: Would you get a move on\n",
+                "and open the gift box already?{VAR BE01}\n",
+                "I'm sure the Pokémon are just as\n",
+                "excited to meet us!"
+            ]
+        },
+        {
+            "id": "a003_430_0010",
+            "en_US": [
+                "Bianca: Ooh!\n",
+                "What kind of Pokémon could they be?"
+            ]
+        },
+        {
+            "id": "a003_430_0011",
+            "en_US": "{VAR 0100 0000} opened the gift box!{VAR BE01}"
+        },
+        {
+            "id": "a003_430_0012",
+            "en_US": [
+                "I've brought three Pokémon,\n",
+                "one for you and one for each\n",
+                "of your friends. Please settle\n",
+                "your choices politely.\n",
+                "Enjoy your Pokémon!\n",
+                "                --Professor Juniper"
+            ],
+            "flags": 178
+        },
+        {
+            "id": "a003_430_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0016",
+            "en_US": [
+                "{VAR BD02}The Water-type Pokémon\n",
+                "{VAR BD02}{VAR 0101 0001}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a003_430_0017",
+            "en_US": [
+                "{VAR BD02}The Fire-type Pokémon\n",
+                "{VAR BD02}{VAR 0101 0001}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a003_430_0018",
+            "en_US": [
+                "{VAR BD02}The Grass-type Pokémon\n",
+                "{VAR BD02}{VAR 0101 0001}"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a003_430_0019",
+            "en_US": "Choose a Pokémon.",
+            "flags": 240
+        },
+        {
+            "id": "a003_430_0020",
+            "en_US": "Is this the Pokémon you want?",
+            "flags": 240
+        },
+        {
+            "id": "a003_430_0021",
+            "en_US": "Pick this one!",
+            "flags": 96
+        },
+        {
+            "id": "a003_430_0022",
+            "en_US": "YES",
+            "flags": 40
+        },
+        {
+            "id": "a003_430_0023",
+            "en_US": "NO",
+            "flags": 40
+        },
+        {
+            "id": "a003_430_0024",
+            "en_US": [
+                "{VAR 0100 0000} chose\n",
+                "{VAR 0101 0001}!"
+            ]
+        },
+        {
+            "id": "a003_430_0025",
+            "en_US": [
+                "Bianca: OK, I'll take this Pokémon!\n",
+                "Cheren, that one's yours!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0026",
+            "en_US": [
+                "Cheren: Hey, how come you get to pick\n",
+                "out my Pokémon?{VAR BE01}\n",
+                "Oh, never mind. I wanted {VAR 0101 0001}\n",
+                "from the start, anyway.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0027",
+            "en_US": [
+                "Bianca: Everyone has chosen a Pokémon!\n",
+                "...So that's that!{VAR BE01}\n",
+                "Hey, I know!\n",
+                "Let's have a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0028",
+            "en_US": [
+                "Cheren: Honestly, Bianca...{VAR BE01}\n",
+                "Even though they're still weak Pokémon,\n",
+                "you shouldn't have Pokémon battles{VAR BE00}\n",
+                "inside a house.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0029",
+            "en_US": [
+                "Bianca: Don't be a worrywart!\n",
+                "These little ones are weak, like you said.{VAR BE01}\n",
+                "We have to let them battle so they'll get\n",
+                "stronger. It's settled, {VAR 0100 0000}!{VAR BE00}\n",
+                "Get ready for a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0030",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0031",
+            "en_US": "...The box is empty."
+        },
+        {
+            "id": "a003_430_0032",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0035",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0037",
+            "en_US": [
+                "Bianca: Wow...{VAR BE01}\n",
+                "{VAR 0100 0000}, you're gonna be\n",
+                "an awesome Trainer someday, I can tell!{VAR BE01}\n",
+                "No doubt!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0038",
+            "en_US": [
+                "Bianca: Wha...?{VAR BE01}\n",
+                "I got so absorbed in having my Pokémon\n",
+                "use moves, I won before even realizing...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0039",
+            "en_US": [
+                "Cheren: Uh...\n",
+                "...{VAR BE01}\n",
+                "Bianca, would you take a look around?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0040",
+            "en_US": [
+                "Bianca: Wh-whoa!\n",
+                "What happened?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0041",
+            "en_US": [
+                "Wow! Pokémon are amaaaaazing!!\n",
+                "So little, but so strong!{VAR BE01}\n",
+                "I'm so glad that I get to have a Pokémon!{VAR BE01}\n",
+                "...Oh.\n",
+                "Um, sorry about your room, {VAR 0100 0000}.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0042",
+            "en_US": [
+                "Cheren: You...are completely hopeless.{VAR BE01}\n",
+                "Here!\n",
+                "I'll restore your Pokémon for you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0043",
+            "en_US": "Cheren healed Bianca's Pokémon!"
+        },
+        {
+            "id": "a003_430_0044",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon needs\n",
+                "to be fixed up, too.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0045",
+            "en_US": "Cheren healed {VAR 0100 0000}'s Pokémon!"
+        },
+        {
+            "id": "a003_430_0046",
+            "en_US": [
+                "Cheren: It's amazing that you won\n",
+                "without your Pokémon's losing any{VAR BE00}\n",
+                "energy, which is called HP.{VAR BE01}\n",
+                "But you used some of the moves'\n",
+                "Power Points, or PP, though.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0047",
+            "en_US": [
+                "Bianca: Hey, Cheren!\n",
+                "How about you battle, too?{VAR BE01}\n",
+                "With all you know, I'm sure you can\n",
+                "battle without turning the room into{VAR BE00}\n",
+                "a disaster area like I did!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0048",
+            "en_US": [
+                "Cheren: I believe you're right!{VAR BE01}\n",
+                "It'll be no problem for me to keep\n",
+                "the room from getting any messier.{VAR BE01}\n",
+                "Besides, it's not fair if you two are the\n",
+                "only ones who get to have fun battling!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0049",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0050",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0051",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0052",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0053",
+            "en_US": [
+                "It's decided. You'll be my opponent...\n",
+                "in our first Pokémon battle!{VAR BE01}\n",
+                "Let's see what you can do, {VAR 0101 0001}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0054",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_430_0055",
+            "en_US": [
+                "Cheren: I made a strange blunder\n",
+                "in my first battle, but{VAR BE00}\n",
+                "this feeling I have...{VAR BE00}\n",
+                "...I'm finally a Trainer.{VAR BE01}\n",
+                "But first, we'd better go apologize to\n",
+                "your mother about this messed-up room.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0056",
+            "en_US": [
+                "Cheren: This feeling...\n",
+                "Finally, I'm a Trainer.{VAR BE01}\n",
+                "On top of that, we'd better go apologize\n",
+                "to your mother about this room.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0057",
+            "en_US": [
+                "Bianca: Oh!\n",
+                "I'd better come, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0058",
+            "en_US": [
+                "It's a Wii console!\n",
+                "It has a Wii Remote!"
+            ]
+        },
+        {
+            "id": "a003_430_0059",
+            "en_US": [
+                "It's a Wii console!{VAR BE01}\n",
+                "It's not even scratched!"
+            ]
+        },
+        {
+            "id": "a003_430_0060",
+            "en_US": [
+                "It's a flat-screen television\n",
+                "that Dad bought!"
+            ]
+        },
+        {
+            "id": "a003_430_0061",
+            "en_US": [
+                "It's a bed.{VAR BE01}\n",
+                "The sheets smell great because\n",
+                "Mom just washed them!"
+            ]
+        },
+        {
+            "id": "a003_430_0062",
+            "en_US": "The bed's a mess!"
+        },
+        {
+            "id": "a003_430_0063",
+            "en_US": [
+                "{VAR 0100 0000} checked the PC.{VAR BE01}\n",
+                "Pokémon Basics...{VAR BE01}\n",
+                "People live alongside Pokémon in\n",
+                "this world.{VAR BE01}\n",
+                "The people who battle with Pokémon\n",
+                "are called Pokémon Trainers."
+            ]
+        },
+        {
+            "id": "a003_430_0064",
+            "en_US": [
+                "It's an award for completing\n",
+                "the Unova Pokédex!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0065",
+            "en_US": [
+                "It's an award for completing\n",
+                "the National Mode Pokédex!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_430_0066",
+            "en_US": [
+                "It's a trophy proving you defeated\n",
+                "the Single Master in the Battle Subway!"
+            ]
+        },
+        {
+            "id": "a003_430_0067",
+            "en_US": [
+                "It's a trophy proving you defeated\n",
+                "the Double Master in the Battle Subway!"
+            ]
+        },
+        {
+            "id": "a003_430_0068",
+            "en_US": [
+                "It's a trophy proving you defeated\n",
+                "the Multi Master in the Battle Subway!"
+            ]
+        }
+    ]
+}

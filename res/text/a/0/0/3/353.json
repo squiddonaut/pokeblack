@@ -1,0 +1,334 @@
+{
+    "flags": 224,
+    "pad": "7878",
+    "messages": [
+        {
+            "id": "a003_353_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_353_0001",
+            "en_US": [
+                "You only have one Pokémon?\n",
+                "And you call yourself a Trainer?{VAR BE01}\n",
+                "Well, it's too dangerous for\n",
+                "you to go any further!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0002",
+            "en_US": [
+                "We're going to combine our strength\n",
+                "and do our best, so please watch!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0003",
+            "en_US": [
+                "Ummm...\n",
+                "One plus one is two, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0004",
+            "en_US": [
+                "Maybe I could have won if I had used\n",
+                "a Potion or something at some point?"
+            ]
+        },
+        {
+            "id": "a003_353_0005",
+            "en_US": [
+                "It's hard to win in a Double Battle if\n",
+                "one Pokémon faints."
+            ]
+        },
+        {
+            "id": "a003_353_0006",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, stop!{VAR BE01}\n",
+                "We both have a Trio Badge,\n",
+                "so let's see which of us is stronger!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0007",
+            "en_US": [
+                "Cheren: I see.\n",
+                "So that's how you battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0008",
+            "en_US": "???: Out of the way!{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0009",
+            "en_US": "Cheren: What was that about?{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0010",
+            "en_US": [
+                "Bianca?\n",
+                "Why are you running?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0011",
+            "en_US": [
+                "Bianca: Hey!\n",
+                "Where were those people headed?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0012",
+            "en_US": "Cheren: That way, but...{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0013",
+            "en_US": "Why are you running now?{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0014",
+            "en_US": [
+                "Bianca: Oh, seriously!\n",
+                "They run so fast!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0015",
+            "en_US": [
+                "Little Girl: Miss... Oh...\n",
+                "My Pokémon?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0016",
+            "en_US": [
+                "Bianca: It'll be OK.\n",
+                "It'll be OK. Don't cry.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0017",
+            "en_US": [
+                "Cheren: Bianca, really, why\n",
+                "were you running?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0018",
+            "en_US": [
+                "Bianca: You have to hear this!{VAR BE01}\n",
+                "Those people stole this girl's Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0019",
+            "en_US": [
+                "Cheren: You should have\n",
+                "spoken up sooner!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0020",
+            "en_US": [
+                "{VAR 0100 0000}, we're going to get\n",
+                "that Pokémon back.{VAR BE01}\n",
+                "Bianca! Please stay by the girl's side.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0021",
+            "en_US": [
+                "Bianca: Please, {VAR 0100 0000}.{VAR BE01}\n",
+                "Team Plasma took that Pokémon.\n",
+                "Get it back!"
+            ]
+        },
+        {
+            "id": "a003_353_0022",
+            "en_US": [
+                "Bianca: Please, {VAR 0100 0000}.{VAR BE01}\n",
+                "Team Plasma took that Pokémon.\n",
+                "Get it back!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0023",
+            "en_US": [
+                "Little Girl: Oh, why do they\n",
+                "take people's Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_353_0024",
+            "en_US": [
+                "Cheren: They ran inside here!{VAR BE01}\n",
+                "{VAR 0100 0000}, your Pokémon's HP is fine,\n",
+                "and you're ready to go, right?"
+            ]
+        },
+        {
+            "id": "a003_353_0025",
+            "en_US": "Then let's go.{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0026",
+            "en_US": [
+                "I could never forgive myself if we were\n",
+                "to lose to the kinds of thugs who would{VAR BE00}\n",
+                "take people's Pokémon!{VAR BE01}\n",
+                "I'll wait here. Hurry and get ready!"
+            ]
+        },
+        {
+            "id": "a003_353_0027",
+            "en_US": [
+                "I could never forgive myself if we were\n",
+                "to lose to the kinds of thugs who would{VAR BE00}\n",
+                "take people's Pokémon!{VAR BE01}\n",
+                "I'll wait here. Hurry and get ready!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0028",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}, your Pokémon's HP\n",
+                "is fine, and you're ready to go, right?"
+            ]
+        },
+        {
+            "id": "a003_353_0029",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, thank you so much!\n",
+                "The two of you got her Pokémon back!{VAR BE01}\n",
+                "I'm lucky to have friends like you two!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0030",
+            "en_US": [
+                "Little Girl: Thank you, mister! Please\n",
+                "take these as a thank-you present.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0031",
+            "en_US": [
+                "Little Girl: Thank you, miss! Please\n",
+                "take these as a thank-you present.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0032",
+            "en_US": [
+                "Bianca: Ooh! Those are Heal Balls!{VAR BE01}\n",
+                "They completely heal the captured\n",
+                "Pokémon on the spot! How sweet of you!{VAR BE01}\n",
+                "I'm going to see this girl on her way,\n",
+                "so see you later, {VAR 0100 0000}. Bye-bye!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0033",
+            "en_US": "Cheren: {VAR 0100 0000}, stop!{VAR BE01}"
+        },
+        {
+            "id": "a003_353_0034",
+            "en_US": [
+                "That dark tall grass over there...{VAR BE01}\n",
+                "Every now and again, two Pokémon\n",
+                "will pop out at the same time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0035",
+            "en_US": [
+                "In other words, you have to be\n",
+                "careful in the darker grass.{VAR BE01}\n",
+                "I'm heading on to Nacrene City.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0036",
+            "en_US": [
+                "Heeey, {VAR 0100 0000}!\n",
+                "Come here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0037",
+            "en_US": [
+                "Heeey, {VAR 0100 0000}!\n",
+                "Come here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_353_0038",
+            "en_US": [
+                "Pokémon battling is very popular\n",
+                "at this Day Care.{VAR BE01}\n",
+                "If you go in the playground, you'll\n",
+                "be pestered into battling."
+            ]
+        },
+        {
+            "id": "a003_353_0039",
+            "en_US": [
+                "You w-want to have a Double Battle?{VAR BE01}\n",
+                "Our P-Pokémon aren't strong enough yet.{VAR BE01}\n",
+                "Maybe we'll leave them at the Day Care."
+            ]
+        },
+        {
+            "id": "a003_353_0040",
+            "en_US": [
+                "Our perfectly matched combination\n",
+                "flusters all the other Trainers!"
+            ]
+        },
+        {
+            "id": "a003_353_0041",
+            "en_US": [
+                "Sometimes they let\n",
+                "us play with Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_353_0042",
+            "en_US": "Route 3",
+            "flags": 207
+        },
+        {
+            "id": "a003_353_0043",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_353_0044",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "The Pokémon placed in the upper\n",
+                "left of the Pokémon list is important!{VAR BE01}\n",
+                "The Pokémon set there is the first\n",
+                "out when a Pokémon battle starts!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_353_0045",
+            "en_US": [
+                "Pokémon Day Care\n",
+                "We Take Care of Your Precious Pokémon"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_353_0046",
+            "en_US": ""
+        }
+    ]
+}

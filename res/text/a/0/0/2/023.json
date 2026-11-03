@@ -1,0 +1,97 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a002_023_0000",
+            "en_US": "ENTRALINK",
+            "flags": 72
+        },
+        {
+            "id": "a002_023_0001",
+            "en_US": "XTRANSCEIVER",
+            "flags": 77
+        },
+        {
+            "id": "a002_023_0002",
+            "en_US": "Union Room",
+            "flags": 127
+        },
+        {
+            "id": "a002_023_0003",
+            "en_US": "{VAR 0201 0000} Ppl",
+            "flags": 32
+        },
+        {
+            "id": "a002_023_0004",
+            "en_US": "Wireless Distribution",
+            "flags": 127
+        },
+        {
+            "id": "a002_023_0005",
+            "en_US": "YES",
+            "flags": 32
+        },
+        {
+            "id": "a002_023_0006",
+            "en_US": "NO",
+            "flags": 32
+        },
+        {
+            "id": "a002_023_0007",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0008",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0009",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0010",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0011",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0012",
+            "en_US": "C-Gear Detected",
+            "flags": 127
+        },
+        {
+            "id": "a002_023_0013",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0014",
+            "en_US": ""
+        },
+        {
+            "id": "a002_023_0015",
+            "en_US": [
+                "CONNECTING\n",
+                "ENTRALINK..."
+            ],
+            "flags": 72
+        },
+        {
+            "id": "a002_023_0016",
+            "en_US": [
+                "ENTRALINK\n",
+                "GUESTS: {VAR 0200 0000}"
+            ],
+            "flags": 72
+        },
+        {
+            "id": "a002_023_0017",
+            "en_US": [
+                "ENTRALINK\n",
+                "MISSION"
+            ],
+            "flags": 72
+        }
+    ]
+}

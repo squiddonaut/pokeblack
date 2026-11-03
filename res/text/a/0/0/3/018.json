@@ -1,0 +1,31 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_018_0000",
+            "en_US": [
+                "You can tell how strong Trainers are\n",
+                "by the number of Gym Badges they have!{VAR BE01}\n",
+                "If you're a Trainer, you should challenge\n",
+                "Gym Leaders and collect a lot of Badges!"
+            ]
+        },
+        {
+            "id": "a003_018_0001",
+            "en_US": [
+                "Lately, I have a favorite model.{VAR BE01}\n",
+                "Her name is Elesa, and her Pokémon\n",
+                "are strong, too!"
+            ]
+        },
+        {
+            "id": "a003_018_0002",
+            "en_US": [
+                "The GTS! It links the world from the\n",
+                "second floor of a Pokémon Center!{VAR BE01}\n",
+                "The full name of the GTS is the\n",
+                "Global Trade Station!"
+            ]
+        }
+    ]
+}

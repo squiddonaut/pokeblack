@@ -1,0 +1,134 @@
+{
+    "flags": 205,
+    "pad": "7070",
+    "messages": [
+        {
+            "id": "a002_093_0000",
+            "en_US": [
+                "You win...\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_093_0001",
+            "en_US": [
+                "{VAR 011C 0000} is\n",
+                "really impressive."
+            ]
+        },
+        {
+            "id": "a002_093_0002",
+            "en_US": "Waaah! {VAR 011C 0000}!"
+        },
+        {
+            "id": "a002_093_0003",
+            "en_US": [
+                "I want to go home with\n",
+                "{VAR 011C 0000}..."
+            ]
+        },
+        {
+            "id": "a002_093_0004",
+            "en_US": [
+                "{VAR 011C 0000}!\n",
+                "{VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_093_0005",
+            "en_US": [
+                "I see {VAR 011C 0000}\n",
+                "right in front of me!"
+            ]
+        },
+        {
+            "id": "a002_093_0006",
+            "en_US": [
+                "{VAR 011C 0000}?\n",
+                "I didn't see that coming!"
+            ]
+        },
+        {
+            "id": "a002_093_0007",
+            "en_US": [
+                "I was confident about\n",
+                "{VAR 011C 0000}, too."
+            ]
+        },
+        {
+            "id": "a002_093_0008",
+            "en_US": [
+                "You're {VAR 011C 0000},\n",
+                "aren't you?"
+            ]
+        },
+        {
+            "id": "a002_093_0009",
+            "en_US": [
+                "{VAR 011C 0000}!\n",
+                "Can't be anything else but."
+            ]
+        },
+        {
+            "id": "a002_093_0010",
+            "en_US": "I want to be like {VAR 011C 0000}!"
+        },
+        {
+            "id": "a002_093_0011",
+            "en_US": [
+                "It might be\n",
+                "{VAR 011C 0000} already..."
+            ]
+        },
+        {
+            "id": "a002_093_0012",
+            "en_US": [
+                "I think {VAR 011C 0000}\n",
+                "should do."
+            ]
+        },
+        {
+            "id": "a002_093_0013",
+            "en_US": [
+                "The way I feel now is\n",
+                "{VAR 011C 0000}..."
+            ]
+        },
+        {
+            "id": "a002_093_0014",
+            "en_US": "{VAR 011C 0000} won't work!"
+        },
+        {
+            "id": "a002_093_0015",
+            "en_US": "Nothing beats {VAR 011C 0000}!"
+        },
+        {
+            "id": "a002_093_0016",
+            "en_US": [
+                "My head's filled with only\n",
+                "{VAR 011C 0000} now!"
+            ]
+        },
+        {
+            "id": "a002_093_0017",
+            "en_US": [
+                "Is it because {VAR 011C 0000}\n",
+                "was lacking?"
+            ]
+        },
+        {
+            "id": "a002_093_0018",
+            "en_US": [
+                "Isn't {VAR 011C 0000}\n",
+                "{VAR 011C 0001}?"
+            ]
+        },
+        {
+            "id": "a002_093_0019",
+            "en_US": [
+                "Aww... That's really\n",
+                "{VAR 011C 0000}..."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "flags": 224,
+    "pad": "4e4e",
+    "messages": [
+        {
+            "id": "a003_264_0000",
+            "en_US": [
+                "{VAR 0100 0000} used the Pass Power\n",
+                "“{VAR 011C 0002}!\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_264_0001",
+            "en_US": [
+                "The effect of “{VAR 011C 0002}\"\n",
+                "wore off!"
+            ]
+        },
+        {
+            "id": "a003_264_0002",
+            "en_US": [
+                "The effect of “{VAR 011C 0002}\"\n",
+                "wore off!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_264_0003",
+            "en_US": "Checking the status of Pass Power.{VAR BE01}"
+        },
+        {
+            "id": "a003_264_0004",
+            "en_US": "{VAR FF00 0002}Registered Pass Power{VAR FF00 0000}",
+            "flags": 184
+        },
+        {
+            "id": "a003_264_0005",
+            "en_US": "{VAR FF00 0002}Active Pass Power{VAR FF00 0000}",
+            "flags": 184
+        },
+        {
+            "id": "a003_264_0006",
+            "en_US": "{VAR 011C 0000}",
+            "flags": 176
+        },
+        {
+            "id": "a003_264_0007",
+            "en_US": "{VAR 011C 0000}{VAR BD03 0000}{VAR 0201 0001}: {VAR 0201 0002}",
+            "flags": 176
+        },
+        {
+            "id": "a003_264_0008",
+            "en_US": [
+                "{VAR 0100 0000}'s likelihood of\n",
+                "encountering Pokémon increased!"
+            ]
+        },
+        {
+            "id": "a003_264_0009",
+            "en_US": [
+                "{VAR 0100 0000}'s likelihood of\n",
+                "encountering Pokémon decreased."
+            ]
+        },
+        {
+            "id": "a003_264_0010",
+            "en_US": [
+                "The likelihood for Pokémon\n",
+                "to hatch from Eggs increased!"
+            ]
+        },
+        {
+            "id": "a003_264_0011",
+            "en_US": [
+                "{VAR 0100 0000}'s rate of\n",
+                "befriending Pokémon increased!"
+            ]
+        },
+        {
+            "id": "a003_264_0012",
+            "en_US": "Bargains at Poké Marts have started!"
+        },
+        {
+            "id": "a003_264_0013",
+            "en_US": [
+                "HP of {VAR 0100 0000}'s {VAR 0102 0001}\n",
+                "was restored!"
+            ]
+        },
+        {
+            "id": "a003_264_0014",
+            "en_US": [
+                "PP of {VAR 0100 0000}'s {VAR 0102 0001}\n",
+                "was restored!"
+            ]
+        },
+        {
+            "id": "a003_264_0015",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon now\n",
+                "receive more Exp. Points!"
+            ]
+        },
+        {
+            "id": "a003_264_0016",
+            "en_US": [
+                "{VAR 0100 0000}'s Pokémon now\n",
+                "receive fewer Exp. Points!"
+            ]
+        },
+        {
+            "id": "a003_264_0017",
+            "en_US": [
+                "{VAR 0100 0000}'s likelihood of\n",
+                "receiving Prize Money increased!"
+            ]
+        },
+        {
+            "id": "a003_264_0018",
+            "en_US": [
+                "{VAR 0100 0000}'s likelihood of \n",
+                "capturing Pokémon increased!"
+            ]
+        },
+        {
+            "id": "a003_264_0019",
+            "en_US": [
+                "All {VAR 0100 0000}'s Pokémon\n",
+                "are fully recovered!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_130_0000",
+            "en_US": [
+                "Welcome! Glad to see you here at the\n",
+                "Triple Battle House. As the name{VAR BE00}\n",
+                "suggests, if you want to enjoy Triple{VAR BE00}\n",
+                "Battles, you've come to the right spot.{VAR BE01}\n",
+                "May I explain how Triple Battles work?"
+            ]
+        },
+        {
+            "id": "a003_130_0001",
+            "en_US": "May I explain how Triple Battles work?"
+        },
+        {
+            "id": "a003_130_0002",
+            "en_US": [
+                "Triple Battle is a battle format in which\n",
+                "each side uses three Pokémon.{VAR BE01}\n",
+                "A Trainer who makes all of the opponent's\n",
+                "Pokémon faint will win."
+            ]
+        },
+        {
+            "id": "a003_130_0003",
+            "en_US": [
+                "This doesn't intrigue you? It's fun.\n",
+                "Please allow me to explain how it works."
+            ]
+        },
+        {
+            "id": "a003_130_0004",
+            "en_US": [
+                "Welcome! Glad to see you here at the\n",
+                "Rotation Battle House.{VAR BE01}\n",
+                "As the name suggests, this is the place\n",
+                "to enjoy Rotation Battles.{VAR BE01}\n",
+                "May I explain how Rotation Battles work?"
+            ]
+        },
+        {
+            "id": "a003_130_0005",
+            "en_US": "May I explain how Rotation Battles work?"
+        },
+        {
+            "id": "a003_130_0006",
+            "en_US": [
+                "Rotation Battle is a battle format in\n",
+                "which each side uses three Pokémon.{VAR BE01}\n",
+                "One Pokémon takes the lead position, and\n",
+                "the other two stand off to the sides.{VAR BE01}\n",
+                "But this position will change every turn!"
+            ]
+        },
+        {
+            "id": "a003_130_0007",
+            "en_US": [
+                "Don't you want to know more? It's fun.\n",
+                "Please allow me to explain how it works."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_022_0000",
+            "en_US": "Welcome to the Nacrene Museum!"
+        },
+        {
+            "id": "a003_022_0001",
+            "en_US": [
+                "Those robbers... What in the world is\n",
+                "Team Plasma?"
+            ]
+        },
+        {
+            "id": "a003_022_0002",
+            "en_US": [
+                "You can get to the Pokémon Gym by going\n",
+                "to the back of the museum!"
+            ]
+        },
+        {
+            "id": "a003_022_0003",
+            "en_US": [
+                "What do they plan to accomplish by\n",
+                "stealing the Dragon Skull?"
+            ]
+        },
+        {
+            "id": "a003_022_0004",
+            "en_US": [
+                "Wow! Whenever I look at this skeleton,\n",
+                "I'm...fascinated.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0005",
+            "en_US": [
+                "Welcome! I'm Hawes, the\n",
+                "assistant director.{VAR BE01}\n",
+                "Since you were kind enough to visit,\n",
+                "I'll give you a tour of the museum.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0006",
+            "en_US": [
+                "This skeleton is of a Dragon-type\n",
+                "Pokémon.{VAR BE01}\n",
+                "There's a theory that it had an accident\n",
+                "while it was flying around the world, and{VAR BE00}\n",
+                "so it became a Fossil.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0007",
+            "en_US": [
+                "This rock is amazing! It's a meteorite!{VAR BE01}\n",
+                "It contains some kind of energy\n",
+                "from space.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0008",
+            "en_US": [
+                "Oh, this? It's an ordinary old stone.{VAR BE01}\n",
+                "It was found near the desert, but other\n",
+                "than the fact that it's old, it doesn't{VAR BE00}\n",
+                "seem to have any value...{VAR BE01}\n",
+                "We only display it because it's rather\n",
+                "pretty to look at.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0009",
+            "en_US": "The Pokémon Gym is just beyond here.{VAR BE01}"
+        },
+        {
+            "id": "a003_022_0010",
+            "en_US": [
+                "At the end of the Gym, a very strong\n",
+                "and kind Gym Leader is waiting.{VAR BE01}\n",
+                "By the way, the Gym Leader Lenora\n",
+                "happens to be my wife!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0011",
+            "en_US": [
+                "At the end of the Gym, a very strong\n",
+                "and kind Gym Leader is waiting.{VAR BE01}\n",
+                "By the way, the Gym Leader Lenora\n",
+                "happens to be my wife!"
+            ]
+        },
+        {
+            "id": "a003_022_0012",
+            "en_US": [
+                "Lenora: Now, you wait!\n",
+                "Enough fooling around!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0013",
+            "en_US": [
+                "Team Plasma: So you've come, Gym Leader.{VAR BE01}\n",
+                "We, Team Plasma, claim this museum's\n",
+                "Dragon Skull in the name of{VAR BE00}\n",
+                "Pokémon liberation!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0014",
+            "en_US": [
+                "Team Plasma: To show you we're serious,\n",
+                "we'll steal it right before your eyes!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0015",
+            "en_US": [
+                "Team Plasma: Well, then, here's\n",
+                "our smoke screen!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_022_0016",
+            "en_US": "Plasmaaaa!",
+            "flags": 126
+        },
+        {
+            "id": "a003_022_0017",
+            "en_US": "Plasmaaaa!",
+            "flags": 126
+        },
+        {
+            "id": "a003_022_0018",
+            "en_US": "Lenora: What's going on?{VAR BE01}"
+        },
+        {
+            "id": "a003_022_0019",
+            "en_US": "Hawes: Oh! Oh! We have to go after them!{VAR BE01}"
+        },
+        {
+            "id": "a003_022_0020",
+            "en_US": "Hawes: Lenora loves that skull..."
+        },
+        {
+            "id": "a003_022_0021",
+            "en_US": "Bianca: I won't forgive those thieves!"
+        },
+        {
+            "id": "a003_022_0022",
+            "en_US": [
+                "Cheren: So I can't battle the Gym Leader\n",
+                "because of Team Plasma, huh...{VAR BE01}\n",
+                "What a bother."
+            ]
+        },
+        {
+            "id": "a003_022_0023",
+            "en_US": [
+                "Skeletal specimens are so mysterious...{VAR BE01}\n",
+                "From the outside, you can't see their\n",
+                "functional, efficient design.{VAR BE01}\n",
+                "It's almost as if it is an embodiment of\n",
+                "their former essence... So fascinating!"
+            ]
+        },
+        {
+            "id": "a003_022_0024",
+            "en_US": [
+                "Rare Pokémon from around the world...\n",
+                "Museums are packed with adventure!"
+            ]
+        },
+        {
+            "id": "a003_022_0025",
+            "en_US": "My oh my oh my!"
+        },
+        {
+            "id": "a003_022_0026",
+            "en_US": [
+                "The Gym Leader here studies Fossils and\n",
+                "ancient artifacts."
+            ]
+        },
+        {
+            "id": "a003_022_0027",
+            "en_US": [
+                "Those thugs sure were bold...{VAR BE01}\n",
+                "It's almost as if they believe they are\n",
+                "doing the right thing."
+            ]
+        },
+        {
+            "id": "a003_022_0028",
+            "en_US": [
+                "Perhaps there is a Pokémon that came\n",
+                "from space along with this meteorite."
+            ]
+        },
+        {
+            "id": "a003_022_0029",
+            "en_US": [
+                "What in the world could Team Plasma\n",
+                "be thinking?!"
+            ]
+        },
+        {
+            "id": "a003_022_0030",
+            "en_US": [
+                "This is a skeletal specimen from a\n",
+                "Pokémon that flew around the world."
+            ]
+        },
+        {
+            "id": "a003_022_0031",
+            "en_US": [
+                "Part of the skeleton was stolen by\n",
+                "Team Plasma and is missing!"
+            ]
+        },
+        {
+            "id": "a003_022_0032",
+            "en_US": [
+                "It's a Fossil of a Pokémon that was\n",
+                "protected by a very hard shell."
+            ]
+        },
+        {
+            "id": "a003_022_0033",
+            "en_US": [
+                "A meteor that has a space virus\n",
+                "attached to it."
+            ]
+        },
+        {
+            "id": "a003_022_0034",
+            "en_US": [
+                "An ancient round stone that was buried\n",
+                "in the desert."
+            ]
+        },
+        {
+            "id": "a003_022_0035",
+            "en_US": [
+                "A plate with an unknown script carved\n",
+                "into it."
+            ]
+        },
+        {
+            "id": "a003_022_0036",
+            "en_US": [
+                "A mask that ancient people used to wear\n",
+                "at festivals."
+            ]
+        },
+        {
+            "id": "a003_022_0037",
+            "en_US": [
+                "Bones that were once carried as weapons\n",
+                "by a certain kind of Pokémon."
+            ]
+        }
+    ]
+}

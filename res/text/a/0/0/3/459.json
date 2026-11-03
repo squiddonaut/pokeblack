@@ -1,0 +1,22 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_459_0000",
+            "en_US": [
+                "If you come out on the weekends to watch\n",
+                "the trains, there will be a lot of people."
+            ]
+        },
+        {
+            "id": "a003_459_0001",
+            "en_US": [
+                "On the weekends, many {VAR 0109 0000}\n",
+                "collectors gather here.{VAR BE01}\n",
+                "It must be easier for them to collect\n",
+                "their items because many people who are{VAR BE00}\n",
+                "trading different items come here."
+            ]
+        }
+    ]
+}

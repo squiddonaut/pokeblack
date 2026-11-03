@@ -1,0 +1,256 @@
+{
+    "flags": 0,
+    "messages": [
+        {
+            "id": "a003_038_0000",
+            "en_US": [
+                "I finally get to eat it!\n",
+                "It was worth lining up!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0001",
+            "en_US": [
+                "I came all the way from Accumula Town\n",
+                "just to have a taste!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0002",
+            "en_US": "These sweets are mega popular!!{VAR BE01}",
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0003",
+            "en_US": [
+                "That's a popular store for you!\n",
+                "It's amazingly crowded!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0004",
+            "en_US": [
+                "Huh? Oh, here you can buy the dessert\n",
+                "that everyone in Castelia City{VAR BE00}\n",
+                "is talking about!{VAR BE01}\n",
+                "Are you going to get in line?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0005",
+            "en_US": [
+                "I see!\n",
+                "The line gets really long!{VAR BE01}\n",
+                "But it's definitely delicious.\n",
+                "It's worth lining up!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0006",
+            "en_US": [
+                "I see. Well, it is crowded.{VAR BE01}\n",
+                "But just between you and me,\n",
+                "it's actually pretty empty today.{VAR BE01}\n",
+                "Usually, it's sold out by now.{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0007",
+            "en_US": [
+                "Huh? Oh, here you can buy the dessert\n",
+                "that everyone in Castelia City{VAR BE00}\n",
+                "is talking about!{VAR BE01}\n",
+                "But it looks like I got the last one.\n",
+                "They're sold out for today!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0008",
+            "en_US": [
+                "Huh? Oh, here you can buy the dessert\n",
+                "that everyone in Castelia City{VAR BE00}\n",
+                "is talking about!{VAR BE01}\n",
+                "But it looks like I got the last one.\n",
+                "They're sold out for today!{VAR BE01}\n",
+                "Try again on a different day!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0009",
+            "en_US": [
+                "How about Castelia City's famous\n",
+                "Casteliacone!{VAR BE01}\n",
+                "It's $100.\n",
+                "Would you like to buy one?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0010",
+            "en_US": [
+                "Oh, you really aren't going to buy one?\n",
+                "They'll sell out soon!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0011",
+            "en_US": [
+                "Thank you very much!{VAR BE01}\n",
+                "We hope you enjoy the cute appearance\n",
+                "and the naive flavor!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0012",
+            "en_US": [
+                "Thank you very much!{VAR BE01}\n",
+                "...Huh? Oh, dear!\n",
+                "It looks like you don't have enough{VAR BE00}\n",
+                "money. Please come again sometime.{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0013",
+            "en_US": [
+                "Thank you very much!{VAR BE01}\n",
+                "...Huh? Oh, dear!\n",
+                "It looks like your Bag is full.{VAR BE01}\n",
+                "Please come again sometime.{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0014",
+            "en_US": [
+                "Even though you waited in line...\n",
+                "Well, please come again, OK?{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0015",
+            "en_US": [
+                "We sell Castelia City's famous\n",
+                "Casteliacone here!{VAR BE01}\n",
+                "But the owner closes the\n",
+                "shop for the winter!{VAR BE01}\n",
+                "Please come again when it gets warm!"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a003_038_0016",
+            "en_US": "Buy",
+            "flags": 219
+        },
+        {
+            "id": "a003_038_0017",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_038_0018",
+            "en_US": "Studio Castelia",
+            "flags": 207
+        },
+        {
+            "id": "a003_038_0019",
+            "en_US": [
+                "Castelia's Famous Casteliacone\n",
+                "Closed during Winter"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_038_0020",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0021",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0022",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0023",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0024",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0025",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0026",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0027",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0028",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0029",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0030",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0031",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0032",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0033",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0034",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0035",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0036",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0037",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0038",
+            "en_US": ""
+        },
+        {
+            "id": "a003_038_0039",
+            "en_US": ""
+        }
+    ]
+}

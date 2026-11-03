@@ -1,0 +1,991 @@
+{
+    "flags": 213,
+    "messages": [
+        {
+            "id": "a002_157_0000",
+            "en_US": "CONFIRM",
+            "flags": 62
+        },
+        {
+            "id": "a002_157_0001",
+            "en_US": "CANCEL",
+            "flags": 48
+        },
+        {
+            "id": "a002_157_0002",
+            "en_US": "L{VAR 0202 0000}",
+            "flags": 44
+        },
+        {
+            "id": "a002_157_0003",
+            "en_US": "{VAR 0102 0000}",
+            "flags": 64
+        },
+        {
+            "id": "a002_157_0004",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 26
+        },
+        {
+            "id": "a002_157_0005",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 26
+        },
+        {
+            "id": "a002_157_0006",
+            "en_US": "/",
+            "flags": 8
+        },
+        {
+            "id": "a002_157_0007",
+            "en_US": "⑭",
+            "flags": 11
+        },
+        {
+            "id": "a002_157_0008",
+            "en_US": "⑮",
+            "flags": 11
+        },
+        {
+            "id": "a002_157_0009",
+            "en_US": "Choose a Pokémon.",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0011",
+            "en_US": "Move to where?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0012",
+            "en_US": "Give to which Pokémon?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0013",
+            "en_US": "Use on which Pokémon?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0014",
+            "en_US": "Teach which Pokémon?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0016",
+            "en_US": "Deposit which Pokémon?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0017",
+            "en_US": "Use on which Pokémon?",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0018",
+            "en_US": [
+                "Do what with\n",
+                "{VAR 0102 0000}?"
+            ],
+            "flags": 111
+        },
+        {
+            "id": "a002_157_0019",
+            "en_US": [
+                "Do what with\n",
+                "an item?"
+            ],
+            "flags": 111
+        },
+        {
+            "id": "a002_157_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0021",
+            "en_US": [
+                "Restore\n",
+                "which move?"
+            ],
+            "flags": 111
+        },
+        {
+            "id": "a002_157_0022",
+            "en_US": [
+                "Boost the PP\n",
+                "of which move?"
+            ],
+            "flags": 111
+        },
+        {
+            "id": "a002_157_0023",
+            "en_US": [
+                "Send the removed Mail to\n",
+                "your PC?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_157_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0025",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0026",
+            "en_US": "The Mail was sent to your PC."
+        },
+        {
+            "id": "a002_157_0027",
+            "en_US": [
+                "If the Mail is removed, its written\n",
+                "message will be lost. Is that OK?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_157_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0030",
+            "en_US": "Your PC's Mailbox is full."
+        },
+        {
+            "id": "a002_157_0031",
+            "en_US": [
+                "Mail was taken from the\n",
+                "Pokémon."
+            ]
+        },
+        {
+            "id": "a002_157_0032",
+            "en_US": [
+                "{VAR 0102 0000} wants to learn the\n",
+                "move {VAR 0107 0001}.{VAR BE01}\n",
+                "However, {VAR 0102 0000} already\n",
+                "knows four moves.{VAR BE01}\n",
+                "Should a move be deleted and\n",
+                "replaced with {VAR 0107 0001}?"
+            ]
+        },
+        {
+            "id": "a002_157_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0035",
+            "en_US": [
+                "Give up on learning the move\n",
+                "{VAR 0107 0001}?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_157_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0038",
+            "en_US": [
+                "{VAR 0102 0000} did not learn\n",
+                "{VAR 0107 0001}."
+            ]
+        },
+        {
+            "id": "a002_157_0039",
+            "en_US": [
+                "Which move should\n",
+                "be forgotten?"
+            ]
+        },
+        {
+            "id": "a002_157_0040",
+            "en_US": [
+                "1, {VAR BE02 0014}2, and{VAR BE02 0014}... {VAR BE02 0014}... {VAR BE02 0014}... Ta-da!{VAR BE05 0003}{VAR BE05 0006}{VAR BE01}\n",
+                "{VAR 0102 0000} forgot how to\n",
+                "use {VAR 0107 0001}.{VAR BE01}\n",
+                "And..."
+            ]
+        },
+        {
+            "id": "a002_157_0041",
+            "en_US": [
+                "{VAR 0102 0000} learned\n",
+                "{VAR 0107 0001}!{VAR BE05 0002}{VAR BE05 0005}"
+            ]
+        },
+        {
+            "id": "a002_157_0042",
+            "en_US": [
+                "{VAR 0102 0000} and {VAR 0107 0001}\n",
+                "are not compatible.{VAR BE01}\n",
+                "{VAR 0107 0001} can't be learned."
+            ]
+        },
+        {
+            "id": "a002_157_0043",
+            "en_US": [
+                "{VAR 0102 0000} already knows\n",
+                "{VAR 0107 0001}."
+            ]
+        },
+        {
+            "id": "a002_157_0044",
+            "en_US": [
+                "{VAR 0102 0000}'s HP was restored\n",
+                "by {VAR 0202 0001} point(s)."
+            ]
+        },
+        {
+            "id": "a002_157_0045",
+            "en_US": [
+                "{VAR 0102 0000} was cured of its\n",
+                "poisoning."
+            ]
+        },
+        {
+            "id": "a002_157_0046",
+            "en_US": [
+                "{VAR 0102 0000} was cured of\n",
+                "paralysis."
+            ]
+        },
+        {
+            "id": "a002_157_0047",
+            "en_US": "{VAR 0102 0000}'s burn was healed."
+        },
+        {
+            "id": "a002_157_0048",
+            "en_US": "{VAR 0102 0000} was thawed out."
+        },
+        {
+            "id": "a002_157_0049",
+            "en_US": "PP was restored."
+        },
+        {
+            "id": "a002_157_0050",
+            "en_US": [
+                "{VAR 0102 0000} recovered from\n",
+                "fainting!"
+            ]
+        },
+        {
+            "id": "a002_157_0051",
+            "en_US": "{VAR 0102 0000} became healthy."
+        },
+        {
+            "id": "a002_157_0052",
+            "en_US": [
+                "{VAR 0107 0000}'s PP\n",
+                "increased."
+            ]
+        },
+        {
+            "id": "a002_157_0053",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0054",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0055",
+            "en_US": [
+                "{VAR 0102 0000}'s base {VAR 010D 0001}\n",
+                "rose!"
+            ]
+        },
+        {
+            "id": "a002_157_0056",
+            "en_US": [
+                "This can't be used until a new\n",
+                "Badge is obtained."
+            ]
+        },
+        {
+            "id": "a002_157_0057",
+            "en_US": [
+                "Must remove Mail before the\n",
+                "Pokémon is allowed to hold an item."
+            ]
+        },
+        {
+            "id": "a002_157_0058",
+            "en_US": [
+                "{VAR 0102 0000} is already holding\n",
+                "{VAR 0109 0001}.{VAR BE01}\n",
+                "Would you like to switch the\n",
+                "two items?"
+            ]
+        },
+        {
+            "id": "a002_157_0059",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0060",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0061",
+            "en_US": [
+                "{VAR 0102 0000} isn't holding\n",
+                "anything."
+            ]
+        },
+        {
+            "id": "a002_157_0062",
+            "en_US": [
+                "Received the {VAR 0109 0001}\n",
+                "from {VAR 0102 0000}."
+            ]
+        },
+        {
+            "id": "a002_157_0063",
+            "en_US": "The Bag is full."
+        },
+        {
+            "id": "a002_157_0064",
+            "en_US": [
+                "The {VAR 0109 0001} was taken and\n",
+                "replaced with the {VAR 0109 0002}."
+            ]
+        },
+        {
+            "id": "a002_157_0065",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0066",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0067",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0068",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0069",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0070",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0071",
+            "en_US": "{VAR 0102 0000} woke up."
+        },
+        {
+            "id": "a002_157_0072",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0073",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0074",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0075",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0076",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0077",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0078",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0079",
+            "en_US": "You're already surfing."
+        },
+        {
+            "id": "a002_157_0080",
+            "en_US": "You can't use that here."
+        },
+        {
+            "id": "a002_157_0081",
+            "en_US": "It won't have any effect."
+        },
+        {
+            "id": "a002_157_0082",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0083",
+            "en_US": [
+                "{VAR 0102 0000} became more friendly.{VAR BE01}\n",
+                "However, its base {VAR 010D 0001} fell!"
+            ]
+        },
+        {
+            "id": "a002_157_0084",
+            "en_US": [
+                "{VAR 0102 0000} adores you!{VAR BE01}\n",
+                "Its base {VAR 010D 0001} fell!"
+            ]
+        },
+        {
+            "id": "a002_157_0085",
+            "en_US": [
+                "{VAR 0102 0000} became more friendly.{VAR BE01}\n",
+                "Its base {VAR 010D 0001} can't go lower."
+            ]
+        },
+        {
+            "id": "a002_157_0086",
+            "en_US": [
+                "{VAR 0102 0000} was given the\n",
+                "{VAR 0109 0001} to hold."
+            ]
+        },
+        {
+            "id": "a002_157_0087",
+            "en_US": "Choose a Pokémon."
+        },
+        {
+            "id": "a002_157_0088",
+            "en_US": "Two Pokémon are needed."
+        },
+        {
+            "id": "a002_157_0089",
+            "en_US": "Three Pokémon are needed."
+        },
+        {
+            "id": "a002_157_0090",
+            "en_US": "Four Pokémon are needed."
+        },
+        {
+            "id": "a002_157_0091",
+            "en_US": "Five Pokémon are needed."
+        },
+        {
+            "id": "a002_157_0092",
+            "en_US": "Six Pokémon are needed."
+        },
+        {
+            "id": "a002_157_0093",
+            "en_US": [
+                "No more than one Pokémon\n",
+                "may enter."
+            ]
+        },
+        {
+            "id": "a002_157_0094",
+            "en_US": [
+                "No more than two Pokémon\n",
+                "may enter."
+            ]
+        },
+        {
+            "id": "a002_157_0095",
+            "en_US": [
+                "No more than three Pokémon\n",
+                "may enter."
+            ]
+        },
+        {
+            "id": "a002_157_0096",
+            "en_US": [
+                "No more than four Pokémon\n",
+                "may enter."
+            ]
+        },
+        {
+            "id": "a002_157_0097",
+            "en_US": [
+                "No more than five Pokémon\n",
+                "may enter."
+            ]
+        },
+        {
+            "id": "a002_157_0098",
+            "en_US": [
+                "Mail was transferred from\n",
+                "the Mailbox."
+            ]
+        },
+        {
+            "id": "a002_157_0099",
+            "en_US": [
+                "This Pokémon is holding an item.\n",
+                "It cannot hold Mail."
+            ]
+        },
+        {
+            "id": "a002_157_0100",
+            "en_US": [
+                "This can't be used on\n",
+                "that Pokémon."
+            ]
+        },
+        {
+            "id": "a002_157_0101",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0102",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0103",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0104",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0105",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0106",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0107",
+            "en_US": "Not enough HP..."
+        },
+        {
+            "id": "a002_157_0108",
+            "en_US": "SWITCH",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0109",
+            "en_US": "SUMMARY",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0110",
+            "en_US": "ITEM",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0111",
+            "en_US": "MAIL",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0112",
+            "en_US": "READ",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0113",
+            "en_US": "TAKE",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0114",
+            "en_US": "STORE",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0115",
+            "en_US": "QUIT",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0116",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0117",
+            "en_US": "ENTER",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0118",
+            "en_US": "NO ENTRY",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0119",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0120",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0121",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0122",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0123",
+            "en_US": "GIVE",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0124",
+            "en_US": "TAKE",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0125",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0126",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0127",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0128",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0129",
+            "en_US": "NOT ENTERED",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0130",
+            "en_US": "BANNED",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0131",
+            "en_US": "FIRST",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0132",
+            "en_US": "SECOND",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0133",
+            "en_US": "THIRD",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0134",
+            "en_US": "FOURTH",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0135",
+            "en_US": "FIFTH",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0136",
+            "en_US": "SIXTH",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0137",
+            "en_US": "ABLE!",
+            "flags": 88
+        },
+        {
+            "id": "a002_157_0138",
+            "en_US": "UNABLE!",
+            "flags": 88
+        },
+        {
+            "id": "a002_157_0139",
+            "en_US": "LEARNED",
+            "flags": 88
+        },
+        {
+            "id": "a002_157_0140",
+            "en_US": "ABLE!",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0141",
+            "en_US": "UNABLE!",
+            "flags": 72
+        },
+        {
+            "id": "a002_157_0142",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0143",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0144",
+            "en_US": "Identical Pokémon are not permitted.\n"
+        },
+        {
+            "id": "a002_157_0145",
+            "en_US": [
+                "Some Pokémon are holding identical\n",
+                "items."
+            ]
+        },
+        {
+            "id": "a002_157_0146",
+            "en_US": [
+                "The total of all party members'\n",
+                "levels has gone over {VAR 0202 0000}."
+            ]
+        },
+        {
+            "id": "a002_157_0147",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0148",
+            "en_US": [
+                "The Pokémon which must participate\n",
+                "is not selected."
+            ]
+        },
+        {
+            "id": "a002_157_0149",
+            "en_US": "MAX HP",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0150",
+            "en_US": "ATTACK",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0151",
+            "en_US": "DEFENSE",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0152",
+            "en_US": "SP. ATK",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0153",
+            "en_US": "SP. DEF",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0154",
+            "en_US": "SPEED",
+            "flags": 63
+        },
+        {
+            "id": "a002_157_0155",
+            "en_US": "+",
+            "flags": 8
+        },
+        {
+            "id": "a002_157_0156",
+            "en_US": "{VAR 0202 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a002_157_0157",
+            "en_US": [
+                "{VAR 0102 0000} was elevated to\n",
+                "Lv. {VAR 0202 0001}!{VAR BE05 0002}{VAR BE05 0005}"
+            ]
+        },
+        {
+            "id": "a002_157_0158",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0159",
+            "en_US": [
+                "You can't use that when you have\n",
+                "someone with you."
+            ]
+        },
+        {
+            "id": "a002_157_0160",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0161",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0162",
+            "en_US": [
+                "What will you do\n",
+                "with the Egg?"
+            ],
+            "flags": 111
+        },
+        {
+            "id": "a002_157_0163",
+            "en_US": "Please select an Egg.",
+            "flags": 167
+        },
+        {
+            "id": "a002_157_0164",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0165",
+            "en_US": "CONFIRM",
+            "flags": 86
+        },
+        {
+            "id": "a002_157_0166",
+            "en_US": "{VAR 0101 0000} changed Forme!"
+        },
+        {
+            "id": "a002_157_0167",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0168",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_157_0169",
+            "en_US": "{VAR 0100 0000} is standing by...",
+            "flags": 159
+        },
+        {
+            "id": "a002_157_0170",
+            "en_US": "One person standing by...",
+            "flags": 159
+        },
+        {
+            "id": "a002_157_0171",
+            "en_US": "Two people standing by...",
+            "flags": 159
+        },
+        {
+            "id": "a002_157_0172",
+            "en_US": "Three people standing by...",
+            "flags": 159
+        },
+        {
+            "id": "a002_157_0173",
+            "en_US": "Time Limit",
+            "flags": 80
+        },
+        {
+            "id": "a002_157_0174",
+            "en_US": "{VAR 0201 0000}:{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "id": "a002_157_0175",
+            "en_US": "{VAR 0201 0001}",
+            "flags": 40
+        },
+        {
+            "id": "a002_157_0176",
+            "en_US": "Communicating. Please wait.",
+            "flags": 152
+        },
+        {
+            "id": "a002_157_0177",
+            "en_US": "YES",
+            "flags": 46
+        },
+        {
+            "id": "a002_157_0178",
+            "en_US": "NO",
+            "flags": 46
+        },
+        {
+            "id": "a002_157_0179",
+            "en_US": "You used your last {VAR 0109 0000}."
+        }
+    ]
+}

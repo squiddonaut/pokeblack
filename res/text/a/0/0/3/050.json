@@ -1,0 +1,47 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_050_0000",
+            "en_US": [
+                "I am in charge of development!{VAR BE01}\n",
+                "I'm going to give you this, because you\n",
+                "came here for a company tour!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_050_0001",
+            "en_US": [
+                "If a Pokémon holds a Scope Lens, it has\n",
+                "a better chance to make a critical hit!"
+            ]
+        },
+        {
+            "id": "a003_050_0002",
+            "en_US": [
+                "Oh! A company tour?\n",
+                "Or some Pokémon practice?{VAR BE01}\n",
+                "Either way, I'm glad you came.\n",
+                "I'm happy, so I'll give you these!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_050_0003",
+            "en_US": [
+                "I'm very happy, so I will give you\n",
+                "another present!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_050_0004",
+            "en_US": [
+                "A Quick Ball makes it easier to catch a\n",
+                "Pokémon if you use it at the very{VAR BE00}\n",
+                "beginning of a battle.{VAR BE01}\n",
+                "And a Timer Ball makes it easier to catch\n",
+                "a Pokémon you've been battling{VAR BE00}\n",
+                "for a long time!"
+            ]
+        }
+    ]
+}

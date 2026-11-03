@@ -1,0 +1,71 @@
+{
+    "flags": 240,
+    "pad": "6060",
+    "messages": [
+        {
+            "id": "a002_049_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_049_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_049_0002",
+            "en_US": "You've created an Infrared Connection!"
+        },
+        {
+            "id": "a002_049_0003",
+            "en_US": [
+                "Create an Infrared Connection to start\n",
+                "the Feeling Check with someone."
+            ]
+        },
+        {
+            "id": "a002_049_0004",
+            "en_US": [
+                "Checking...\n",
+                "Please maintain the Infrared Connection."
+            ]
+        },
+        {
+            "id": "a002_049_0005",
+            "en_US": [
+                "Tap the menu in the Touch Screen\n",
+                "to begin!"
+            ]
+        },
+        {
+            "id": "a002_049_0006",
+            "en_US": "BEGIN CHECK",
+            "flags": 144
+        },
+        {
+            "id": "a002_049_0007",
+            "en_US": "RANKING",
+            "flags": 144
+        },
+        {
+            "id": "a002_049_0008",
+            "en_US": "CANCEL",
+            "flags": 73
+        },
+        {
+            "id": "a002_049_0009",
+            "en_US": "BACK",
+            "flags": 73
+        },
+        {
+            "id": "a002_049_0010",
+            "en_US": "FEELING CHECK",
+            "flags": 160
+        },
+        {
+            "id": "a002_049_0011",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

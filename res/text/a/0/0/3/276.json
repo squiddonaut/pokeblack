@@ -1,0 +1,59 @@
+{
+    "flags": 224,
+    "pad": "4c4c",
+    "messages": [
+        {
+            "id": "a003_276_0000",
+            "en_US": [
+                "I will look for a new start!\n",
+                "Patrat and I can do it together!{VAR BE01}\n",
+                "Thank you, Village Bridge, for making us\n",
+                "who we are...and farewell!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_276_0001",
+            "en_US": "Swonweeya!"
+        },
+        {
+            "id": "a003_276_0002",
+            "en_US": [
+                "Doesn't this house have\n",
+                "great atmosphere?"
+            ]
+        },
+        {
+            "id": "a003_276_0003",
+            "en_US": [
+                "Doesn't this entire room kind of smell\n",
+                "like Patrat?"
+            ]
+        },
+        {
+            "id": "a003_276_0004",
+            "en_US": [
+                "Isn't it great that this house is on\n",
+                "the bridge?"
+            ]
+        },
+        {
+            "id": "a003_276_0005",
+            "en_US": [
+                "Hmmm...{VAR BE01}\n",
+                "I am a bit concerned about the guy\n",
+                "singing outside..."
+            ]
+        },
+        {
+            "id": "a003_276_0006",
+            "en_US": "We can move in here right away?!"
+        },
+        {
+            "id": "a003_276_0007",
+            "en_US": [
+                "This place isn't bad, but I'd prefer a\n",
+                "nice big villa in Undella Town!"
+            ]
+        }
+    ]
+}

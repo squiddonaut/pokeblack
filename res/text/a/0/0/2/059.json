@@ -1,0 +1,96 @@
+{
+    "flags": 216,
+    "messages": [
+        {
+            "id": "a002_059_0000",
+            "en_US": "MAILBOX",
+            "flags": 104
+        },
+        {
+            "id": "a002_059_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_059_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_059_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_059_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_059_0005",
+            "en_US": "READ",
+            "flags": 76
+        },
+        {
+            "id": "a002_059_0006",
+            "en_US": "ERASE",
+            "flags": 76
+        },
+        {
+            "id": "a002_059_0007",
+            "en_US": "GIVE",
+            "flags": 76
+        },
+        {
+            "id": "a002_059_0008",
+            "en_US": "CANCEL",
+            "flags": 64
+        },
+        {
+            "id": "a002_059_0009",
+            "en_US": [
+                "What would you like to do with\n",
+                "{VAR 0100 0000}'s Mail?"
+            ]
+        },
+        {
+            "id": "a002_059_0010",
+            "en_US": [
+                "The message will be lost.\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_059_0011",
+            "en_US": "The message was erased."
+        },
+        {
+            "id": "a002_059_0012",
+            "en_US": "Let a Pokémon hold this Mail?"
+        },
+        {
+            "id": "a002_059_0013",
+            "en_US": [
+                "The Mail's message was erased,\n",
+                "and it was put in the Bag."
+            ]
+        },
+        {
+            "id": "a002_059_0014",
+            "en_US": [
+                "Your Bag is full...\n",
+                "The Mail was discarded."
+            ]
+        },
+        {
+            "id": "a002_059_0015",
+            "en_US": "YES",
+            "flags": 60
+        },
+        {
+            "id": "a002_059_0016",
+            "en_US": "NO",
+            "flags": 60
+        }
+    ]
+}

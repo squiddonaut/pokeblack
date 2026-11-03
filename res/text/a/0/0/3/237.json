@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "2e2e",
+    "messages": [
+        {
+            "id": "a003_237_0000",
+            "en_US": "Gurooooohhh!"
+        },
+        {
+            "id": "a003_237_0001",
+            "en_US": [
+                "The Pokémon vanished into\n",
+                "the darkness of the cave..."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_023_0000",
+            "en_US": [
+                "A Pokémon Gym where a Leader waits for\n",
+                "a challenger at the back of a museum...{VAR BE00}\n",
+                "It has a great atmosphere, doesn't it?{VAR BE01}\n",
+                "So... I will give this to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0001",
+            "en_US": [
+                "All Trainers in this Gym use\n",
+                "Normal-type Pokémon.{VAR BE01}\n",
+                "This is just between you and me...{VAR BE01}\n",
+                "Normal-type Pokémon are weak against\n",
+                "Fighting-type Pokémon.{VAR BE01}\n",
+                "Around here, Fighting-type Pokémon\n",
+                "show up around Pinwheel Forest.{VAR BE01}\n",
+                "Now, I will explain about the Gym itself!{VAR BE01}\n",
+                "In this Pokémon Gym, if you answer\n",
+                "questions hidden in books,{VAR BE00}\n",
+                "you can move forward.{VAR BE01}\n",
+                "For your information, the first book is\n",
+                "“Nice to Meet You, Pokémon.\"{VAR BE01}\n",
+                "If you don't know where the book is,\n",
+                "please ask anyone!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0002",
+            "en_US": [
+                "All Trainers in this Gym use\n",
+                "Normal-type Pokémon.{VAR BE01}\n",
+                "This is just between you and me...{VAR BE01}\n",
+                "Normal-type Pokémon are weak against\n",
+                "Fighting-type Pokémon.{VAR BE01}\n",
+                "Around here, Fighting-type Pokémon\n",
+                "show up around Pinwheel Forest.{VAR BE01}\n",
+                "Now, I will explain about the Gym itself!{VAR BE01}\n",
+                "In this Pokémon Gym, if you answer\n",
+                "questions hidden in books,{VAR BE00}\n",
+                "you can move forward.{VAR BE01}\n",
+                "For your information, the first book is\n",
+                "“Nice to Meet You, Pokémon.\"{VAR BE01}\n",
+                "If you don't know where the book is,\n",
+                "please ask anyone!"
+            ]
+        },
+        {
+            "id": "a003_023_0003",
+            "en_US": [
+                "I love to compare the expressions when\n",
+                "a Trainer comes here for the first time{VAR BE00}\n",
+                "and when a Trainer wins the Gym Badge."
+            ]
+        },
+        {
+            "id": "a003_023_0004",
+            "en_US": [
+                "Did you hear it? Strange people came\n",
+                "charging through the museum...{VAR BE01}\n",
+                "Oh! The Gym Badge!! Congratulations!{VAR BE01}\n",
+                "So, the museum!\n",
+                "Oh, no. What shall we do?!"
+            ]
+        },
+        {
+            "id": "a003_023_0005",
+            "en_US": [
+                "Nacrene Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Lenora\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_023_0006",
+            "en_US": [
+                "Nacrene Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Lenora\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_023_0007",
+            "en_US": [
+                "Nacrene Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Lenora\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        },
+        {
+            "id": "a003_023_0008",
+            "en_US": [
+                "Oh?\n",
+                "Are you looking for a book?{VAR BE01}\n",
+                "...I think “Nice to Meet You, Pokémon\"\n",
+                "is on a shelf near the entrance.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0009",
+            "en_US": [
+                "Hello, Trainer!{VAR BE01}\n",
+                "You've found a memo already, and you're\n",
+                "looking for a book about Pokémon?{VAR BE01}\n",
+                "Tee hee! In fact, I am also reading a\n",
+                "book about Pokémon. It's about Tepig.{VAR BE01}\n",
+                "I wonder if the first Pokémon you met\n",
+                "in this Gym was Tepig?"
+            ]
+        },
+        {
+            "id": "a003_023_0010",
+            "en_US": [
+                "Tee hee! What a pity!{VAR BE01}\n",
+                "The first Pokémon you met in this Gym\n",
+                "was not Tepig!{VAR BE01}\n",
+                "Try to remember the Pokémon you battled\n",
+                "at the entrance of the Gym.{VAR BE01}\n",
+                "There's a hint on the bookshelf\n",
+                "to the left!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0011",
+            "en_US": [
+                "Tee hee! OK!{VAR BE01}\n",
+                "What was the Pokémon you battled\n",
+                "at the entrance of the Gym?{VAR BE01}\n",
+                "There's a hint on the bookshelf\n",
+                "to the left!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0012",
+            "en_US": [
+                "What was the first Pokémon you met\n",
+                "in this Gym?{VAR BE01}\n",
+                "There's a hint on the bookshelf\n",
+                "to the left!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0013",
+            "en_US": [
+                "You found the second memo, and you're\n",
+                "looking for a book?{VAR BE01}\n",
+                "...What does the memo say?{VAR BE01}\n",
+                "“Flame burns inside its body, and it\n",
+                "gives off smoke from its head{VAR BE00}\n",
+                "while it runs.\"{VAR BE01}\n",
+                "I'm reading a book about Tepig, but\n",
+                "is this book the correct answer?"
+            ]
+        },
+        {
+            "id": "a003_023_0014",
+            "en_US": [
+                "Tee hee! What a pity!\n",
+                "This book about Tepig says:{VAR BE01}\n",
+                "“It gives off flame from its nostrils.\n",
+                "When it's not well, it can give off{VAR BE00}\n",
+                "only smoke.\"{VAR BE01}\n",
+                "That's slightly different from “it gives\n",
+                "off smoke from its head while it runs.\"{VAR BE01}\n",
+                "...The answer to this memo may not be\n",
+                "a living thing. Tee hee!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0015",
+            "en_US": [
+                "Wow! Great! That's correct!{VAR BE01}\n",
+                "The book that I am reading says:{VAR BE01}\n",
+                "“It gives off flame from its nostrils.\n",
+                "When it's not well, it can give off{VAR BE00}\n",
+                "only smoke.\"{VAR BE01}\n",
+                "It's slightly different from “it gives off\n",
+                "smoke from its head while it runs.\"{VAR BE01}\n",
+                "...The answer to this memo may not be\n",
+                "a living thing. Tee hee!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0016",
+            "en_US": [
+                "“Flame burns inside its body, and it\n",
+                "gives off smoke from its head while{VAR BE00}\n",
+                "it runs.\"{VAR BE01}\n",
+                "Did you figure it out?{VAR BE01}\n",
+                "...The answer to this memo may not be\n",
+                "a living thing! Tee hee!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0017",
+            "en_US": [
+                "Have you already found the third memo?\n",
+                "Pretty good!{VAR BE01}\n",
+                "...So, what does the memo say?{VAR BE01}\n",
+                "“If you heat it up in a pot,\n",
+                "it'll be delicious. What is this?\"{VAR BE01}\n",
+                "The book I am reading is about Tepig...{VAR BE01}\n",
+                "But you don't think this book\n",
+                "about Tepig is the answer, do you?!"
+            ]
+        },
+        {
+            "id": "a003_023_0018",
+            "en_US": [
+                "Oh, I know you're just kidding!{VAR BE01}\n",
+                "...It reminds me. In the past, I've seen\n",
+                "sweets made by heating up Berries.{VAR BE01}\n",
+                "Now, what were they called?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0019",
+            "en_US": [
+                "Of course you don't!{VAR BE01}\n",
+                "...It reminds me. In the past, I've seen\n",
+                "sweets made by heating up Berries.{VAR BE01}\n",
+                "Now, what were they called?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0020",
+            "en_US": [
+                "In the past, I've seen sweets made by\n",
+                "heating up Berries.{VAR BE01}\n",
+                "Now, what were they called?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0021",
+            "en_US": [
+                "...I'm wondering, did you see the last\n",
+                "memo and come to me?{VAR BE01}\n",
+                "OK. I'll give you the last question!{VAR BE01}\n",
+                "“Can you challenge the Gym Leader\n",
+                "if you win against me?\""
+            ]
+        },
+        {
+            "id": "a003_023_0022",
+            "en_US": [
+                "Tee hee! That is correct!\n",
+                "Well, here we go, Trainer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0023",
+            "en_US": [
+                "Hmmmmm...\n",
+                "What a pity!{VAR BE01}\n",
+                "I will tell you the answer\n",
+                "if you win against me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0024",
+            "en_US": [
+                "You'll meet the Gym Leader soon.\n",
+                "This is the last book.{VAR BE01}\n",
+                "Now! Read the last book!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0025",
+            "en_US": [
+                "You'll meet the Gym Leader soon.\n",
+                "This is the last book!"
+            ]
+        },
+        {
+            "id": "a003_023_0026",
+            "en_US": [
+                "Going through a maze in the\n",
+                "library and defeating the Gym Leader!{VAR BE01}\n",
+                "You...must be a very studious Trainer."
+            ]
+        },
+        {
+            "id": "a003_023_0027",
+            "en_US": [
+                "...Hmhm. I see.{VAR BE01}\n",
+                "Oh! The book I am reading now is called\n",
+                "“The Structure of a Locomotive.\"{VAR BE01}\n",
+                "If you'd like to read this book,\n",
+                "please let me know.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0028",
+            "en_US": [
+                "...Hmhm. I see.{VAR BE01}\n",
+                "Oh! Did you find the memo and come here\n",
+                "to look for this book?{VAR BE01}\n",
+                "What does the memo say?{VAR BE01}\n",
+                "“Flame burns inside its body, and it gives\n",
+                "off smoke from its head while it runs.\"{VAR BE01}\n",
+                "I'm reading a book called\n",
+                "“The Structure of a Locomotive.\"{VAR BE01}\n",
+                "Is this book the correct answer?"
+            ]
+        },
+        {
+            "id": "a003_023_0029",
+            "en_US": [
+                "Oh!\n",
+                "That is correct!{VAR BE01}\n",
+                "“Flame burns inside its body, and it gives\n",
+                "off smoke from its head while it runs.\"{VAR BE01}\n",
+                "That's exactly how a locomotive looks!\n",
+                "Well, I'll let you read this book.{VAR BE01}\n",
+                "But, before that...{VAR BE01}\n",
+                "It would be great for my research\n",
+                "if we had a Pokémon battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0030",
+            "en_US": [
+                "Hmmm...\n",
+                "What a pity!{VAR BE01}\n",
+                "“Flame burns inside its body, and it gives\n",
+                "off smoke from its head while it runs.\"{VAR BE01}\n",
+                "That's exactly how a locomotive looks!{VAR BE01}\n",
+                "...Well, as a special treat, I'll let you\n",
+                "read this book.{VAR BE01}\n",
+                "But, before that...{VAR BE01}\n",
+                "It would be great for my research\n",
+                "if we had a Pokémon battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0031",
+            "en_US": [
+                "Return a book to a shelf after reading...\n",
+                "This is a rule when you read a book.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0032",
+            "en_US": [
+                "Return a book to a shelf after reading...\n",
+                "This is a rule when you read a book."
+            ]
+        },
+        {
+            "id": "a003_023_0033",
+            "en_US": [
+                "This is the bookshelf\n",
+                "for “General Studies.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0034",
+            "en_US": [
+                "This is the bookshelf\n",
+                "for “Pokémon.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0035",
+            "en_US": [
+                "This is the bookshelf\n",
+                "for “Children's Books.\"{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0036",
+            "en_US": [
+                "“Potions Are Great!\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0037",
+            "en_US": [
+                "“The Structure of a Locomotive\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0038",
+            "en_US": [
+                "“Techniques for Pokémon Battles\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0039",
+            "en_US": [
+                "“The System of a Pokémon Center\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0040",
+            "en_US": [
+                "“The Biology of Patrat\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0041",
+            "en_US": [
+                "“The Biology of Snivy\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0042",
+            "en_US": [
+                "“The Biology of Oshawott\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0043",
+            "en_US": [
+                "“The Biology of Tepig\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0044",
+            "en_US": [
+                "“Connect the Dots to Draw Pokémon\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0045",
+            "en_US": [
+                "“Nice to Meet You, Pokémon!\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0046",
+            "en_US": [
+                "“Adventure on Route 3\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0047",
+            "en_US": [
+                "“Sweets for Pokémon\"\n",
+                "Do you want to read this book?"
+            ]
+        },
+        {
+            "id": "a003_023_0048",
+            "en_US": [
+                "It describes the structure and\n",
+                "correct use of Potions.{VAR BE01}\n",
+                "It also offers tips for applying Potions\n",
+                "to mischievous Pokémon."
+            ]
+        },
+        {
+            "id": "a003_023_0049",
+            "en_US": [
+                "This is a book about a locomotive.{VAR BE01}\n",
+                "Flame burns inside its body, and it gives\n",
+                "off smoke from its head while it runs{VAR BE00}\n",
+                "by using steam power!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0050",
+            "en_US": [
+                "It describes the best timing\n",
+                "to switch Pokémon in battle.{VAR BE01}\n",
+                "You should switch out your Pokémon\n",
+                "before you think it's in danger!"
+            ]
+        },
+        {
+            "id": "a003_023_0051",
+            "en_US": [
+                "It describes how a\n",
+                "Pokémon Center works.{VAR BE01}\n",
+                "It also describes a typical day of a\n",
+                "woman who works there."
+            ]
+        },
+        {
+            "id": "a003_023_0052",
+            "en_US": [
+                "It describes the biology of Patrat.{VAR BE01}\n",
+                "They communicate with each other by\n",
+                "movement of their tails. A Patrat raises{VAR BE00}\n",
+                "its tail when it sees an enemy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0053",
+            "en_US": [
+                "It describes the biology of Snivy.{VAR BE01}\n",
+                "If they expose their tails to the sun by\n",
+                "basking in a sunny place, they are{VAR BE00}\n",
+                "in the middle of photosynthesis."
+            ]
+        },
+        {
+            "id": "a003_023_0054",
+            "en_US": [
+                "It describes the biology of Oshawott.{VAR BE01}\n",
+                "The scalchop on its belly is very hard\n",
+                "and grows from its bellybutton.{VAR BE01}\n",
+                "Oshawott use it as a tool."
+            ]
+        },
+        {
+            "id": "a003_023_0055",
+            "en_US": [
+                "It describes the biology of Tepig.{VAR BE01}\n",
+                "Flame burns inside its body, and\n",
+                "it gives off flame from its nostrils.{VAR BE01}\n",
+                "When it's not well, it can give off\n",
+                "only smoke."
+            ]
+        },
+        {
+            "id": "a003_023_0056",
+            "en_US": [
+                "It's a connect-the-dots book with\n",
+                "lots of Pokémon pictures."
+            ]
+        },
+        {
+            "id": "a003_023_0057",
+            "en_US": [
+                "It's a fairy tale about a little boy\n",
+                "who met a Pokémon for{VAR BE00}\n",
+                "the first time in his life.{VAR BE01}\n",
+                "He is with a small brown Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0058",
+            "en_US": [
+                "It's a story about a boy with Pokémon\n",
+                "embarking on a great adventure.{VAR BE01}\n",
+                "Two boys and a girl are having\n",
+                "adventures together."
+            ]
+        },
+        {
+            "id": "a003_023_0059",
+            "en_US": [
+                "It describes delicious sweets made by\n",
+                "heating Berries in a pot.{VAR BE01}\n",
+                "There are sweets called “Poffins\"\n",
+                "made from Berries in the faraway{VAR BE00}\n",
+                "Sinnoh region, and Pokémon love them!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0060",
+            "en_US": [
+                "There is a memo on the back cover...{VAR BE01}\n",
+                "“It's impressive you found this place!{VAR BE01}\n",
+                "That's what I'd expect from a\n",
+                "challenger like you!{VAR BE01}\n",
+                "Well, this is the third question!{VAR BE01}\n",
+                "{VAR FF00 0001}Q: If you heat it up in a pot, it'll be\n",
+                "delicious. What is this?{VAR BE01}\n",
+                "{VAR FF00 0000}The hint is on a bookshelf closer to\n",
+                "the entrance than here!\""
+            ]
+        },
+        {
+            "id": "a003_023_0061",
+            "en_US": [
+                "There is a memo on the back cover...{VAR BE01}\n",
+                "“As I thought, that question was easy.\n",
+                "Well, this is the second question!{VAR BE01}\n",
+                "{VAR FF00 0001}Q: Flame burns inside its body, and it\n",
+                "gives off smoke from its head while{VAR BE00}\n",
+                "it runs...{VAR BE00}\n",
+                "What is this book?{VAR FF00 0000}{VAR BE01}\n",
+                "The hint is...\n",
+                "Somebody may be reading it.\""
+            ]
+        },
+        {
+            "id": "a003_023_0062",
+            "en_US": [
+                "There is a memo between the pages!{VAR BE01}\n",
+                "“You've managed to get here. Well done!{VAR BE01}\n",
+                "You seem to have wisdom as well as\n",
+                "strength! I look forward to our battle!{VAR BE01}\n",
+                "Gym Leader Lenora\""
+            ]
+        },
+        {
+            "id": "a003_023_0063",
+            "en_US": [
+                "There is a memo between the pages...{VAR BE01}\n",
+                "“Pokémon Trainers!\n",
+                "I am the Gym Leader, Lenora!{VAR BE01}\n",
+                "I hid four memos in this library. \n",
+                "Each of them has a question.{VAR BE01}\n",
+                "Can you solve the questions and \n",
+                "come find me?{VAR BE01}\n",
+                "Now, this is the first question!{VAR BE01}\n",
+                "{VAR FF00 0001}Q: What is the first Pokémon you met\n",
+                "in this Gym?{VAR BE01}\n",
+                "{VAR FF00 0000}The hint is...\n",
+                "on a bookshelf in the middle row!{VAR BE01}\n",
+                "Now, try to find it!\""
+            ]
+        },
+        {
+            "id": "a003_023_0064",
+            "en_US": [
+                "There is a memo on the cover...{VAR BE01}\n",
+                "“Did you manage to get here\n",
+                "without being tricked by the questions?{VAR BE01}\n",
+                "Now, this is the last question!{VAR BE01}\n",
+                "{VAR FF00 0001}Q: From this bookshelf...\n",
+                "Move two backward, move one to the left,{VAR BE00}\n",
+                "move two forward, move one to the right,{VAR BE00}\n",
+                "and move one backward...{VAR BE00}\n",
+                "Now, where is it?{VAR BE01}\n",
+                "{VAR FF00 0000}The hint is...\n",
+                "Find it by yourself!\""
+            ]
+        },
+        {
+            "id": "a003_023_0065",
+            "en_US": [
+                "...{VAR BE01}\n",
+                "This is not the book you're looking for."
+            ]
+        },
+        {
+            "id": "a003_023_0066",
+            "en_US": [
+                "Click!{VAR BE01}\n",
+                "There is a switch\n",
+                "under the book!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_023_0067",
+            "en_US": [
+                "Wow!\n",
+                "A hidden staircase!"
+            ]
+        }
+    ]
+}

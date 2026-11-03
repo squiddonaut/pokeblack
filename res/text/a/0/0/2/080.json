@@ -1,0 +1,4994 @@
+{
+    "flags": 223,
+    "pad": "f8f8",
+    "messages": [
+        {
+            "id": "a002_080_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0013",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0016",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0020",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0023",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0025",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0026",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0030",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0031",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0032",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0033",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0034",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0035",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0036",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0037",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0038",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0039",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0040",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0041",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0042",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0043",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0044",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0045",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0046",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0047",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0048",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0049",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0050",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0051",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0052",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0053",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0054",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0055",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0056",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0057",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0058",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0059",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0060",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0061",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0062",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0063",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0064",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0065",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0066",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0067",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0068",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0069",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0070",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0071",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0072",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0073",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0074",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0075",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0076",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0077",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0078",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0079",
+            "en_US": "Welcome to Mystery Gift!",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0080",
+            "en_US": "RECEIVE GIFT",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0081",
+            "en_US": "CHECK THE CARD ALBUM",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0082",
+            "en_US": "QUIT",
+            "flags": 40
+        },
+        {
+            "id": "a002_080_0083",
+            "en_US": [
+                "The communication channel must be opened\n",
+                "to receive Mystery Gifts.{VAR BE00}\n",
+                "Is that OK?"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0084",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0085",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0086",
+            "en_US": [
+                "Please choose how you want to\n",
+                "receive your gift."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0087",
+            "en_US": "GET VIA WIRELESS",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0088",
+            "en_US": "GET VIA NINTENDO WFC",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0089",
+            "en_US": "GET VIA INFRARED",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0090",
+            "en_US": "BACK",
+            "flags": 40
+        },
+        {
+            "id": "a002_080_0091",
+            "en_US": [
+                "Please choose how you want to\n",
+                "receive your gift."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0092",
+            "en_US": [
+                "Please throw away one card you no longer\n",
+                "need to keep.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0093",
+            "en_US": [
+                "You must throw away one card\n",
+                "to receive a Mystery Gift.{VAR BE00}\n",
+                "Is that OK?"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0094",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0095",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0096",
+            "en_US": [
+                "DS Wireless Communications will\n",
+                "be launched."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0097",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0098",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0099",
+            "en_US": "Connect to Nintendo Wi-Fi Connection?",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0100",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0101",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0102",
+            "en_US": [
+                "Infrared Communications will\n",
+                "be launched.{VAR BE01}\n",
+                "Please point your Nintendo Game Card\n",
+                "at the other person's Game Card{VAR BE00}\n",
+                "and press the A Button.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0103",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0104",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0105",
+            "en_US": [
+                "Searching for a gift.\n",
+                "Please wait..."
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0106",
+            "en_US": "Choose the gift you want to receive.",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0107",
+            "en_US": "Cancel receiving this gift?",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0108",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0109",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0110",
+            "en_US": "Receive this gift?",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0111",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0112",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0113",
+            "en_US": [
+                "Receiving your gift.\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_080_0114",
+            "en_US": [
+                "The gift has been received!{VAR BE01}\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0115",
+            "en_US": [
+                "Saving your Card Album...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_080_0116",
+            "en_US": [
+                "What would you like to do with this\n",
+                "Wonder Card?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0117",
+            "en_US": "Swap",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0118",
+            "en_US": "Trash",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0119",
+            "en_US": "Back",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0120",
+            "en_US": [
+                "This card cannot be thrown away because\n",
+                "you have not received the gift yet.{VAR BE01}\n",
+                "Please pick up the gift from the\n",
+                "deliveryman in any Pokémon Center.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0121",
+            "en_US": "The card has been thrown away.{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0122",
+            "en_US": "Please select a card to swap with.",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0123",
+            "en_US": "Is it OK to throw away this card?",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0124",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0125",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0126",
+            "en_US": "What would you like to know about?",
+            "flags": 240
+        },
+        {
+            "id": "a002_080_0127",
+            "en_US": "ABOUT MYSTERY GIFT",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0128",
+            "en_US": "ABOUT THE CARD ALBUM",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0129",
+            "en_US": "WHEN THE ALBUM IS FULL",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0130",
+            "en_US": "BACK",
+            "flags": 40
+        },
+        {
+            "id": "a002_080_0131",
+            "en_US": "INFO",
+            "flags": 176
+        },
+        {
+            "id": "a002_080_0132",
+            "en_US": [
+                "Mystery Gift allows you\n",
+                "to receive great gifts{VAR BE00}\n",
+                "through various communication modes.{VAR BE01}\n",
+                "Once you have received a gift,\n",
+                "please go to any Pokémon Center and{VAR BE00}\n",
+                "pick it up from the deliveryman.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0133",
+            "en_US": [
+                "When you've received your Mystery Gift,\n",
+                "your Wonder Card will be displayed{VAR BE00}\n",
+                "in the Card Album.{VAR BE01}\n",
+                "You can check the card to see\n",
+                "if you've picked up the gift{VAR BE00}\n",
+                "from a deliveryman.{VAR BE01}\n",
+                "Make sure to pick up gifts\n",
+                "that are waiting for you.{VAR BE01}\n",
+                "There is a limit to how many\n",
+                "cards you can save in the Album.{VAR BE01}\n",
+                "You can store up to 12 cards if you\n",
+                "have previously saved your game.{VAR BE01}\n",
+                "If you don't have a saved game yet,\n",
+                "you can store up to three cards.{VAR BE01}\n",
+                "When the card slots are full, you will not\n",
+                "be able to receive any more. Please delete{VAR BE00}\n",
+                "some from the Album.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0134",
+            "en_US": [
+                "When the Card Album is full,\n",
+                "you cannot receive new cards.{VAR BE01}\n",
+                "To receive new cards,\n",
+                "choose a Wonder Card and{VAR BE00}\n",
+                "press the A Button to throw it away.{VAR BE01}\n",
+                "If you have gifts waiting,\n",
+                "go to any Pokémon Center{VAR BE01}\n",
+                "and pick up your gifts\n",
+                "from the deliveryman.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0135",
+            "en_US": [
+                "When you've received a Mystery Gift,\n",
+                "your Wonder Card will be displayed{VAR BE00}\n",
+                "in the Card Album.{VAR BE01}\n",
+                "You can check the card to see\n",
+                "if you've picked up the gift{VAR BE00}\n",
+                "from a deliveryman.{VAR BE01}\n",
+                "Make sure to pick up gifts\n",
+                "that are waiting for you.{VAR BE01}\n",
+                "There is a limit to how many \n",
+                "cards you can save in the Album.{VAR BE01}\n",
+                "You can store up to 12 cards if you have\n",
+                "previously saved your game.{VAR BE01}\n",
+                "If you don't have a saved game yet,\n",
+                "you can store up to three cards.{VAR BE01}\n",
+                "When the card slots are full, you will not\n",
+                "be able to receive any more. Please delete{VAR BE00}\n",
+                "some from the Album.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0136",
+            "en_US": "Communicating. Please stand by...",
+            "flags": 224
+        },
+        {
+            "id": "a002_080_0137",
+            "en_US": [
+                "Our deliveryman is currently overloaded\n",
+                "with gifts for you!{VAR BE01}\n",
+                "Please go see him at any Pokémon Center\n",
+                "and pick up your gifts.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0138",
+            "en_US": [
+                "You've already received this gift.\n",
+                "You may not get another one.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0139",
+            "en_US": "There were no gifts to be found...{VAR BE01}",
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0140",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0141",
+            "en_US": [
+                "You are out of room for Wonder Cards.{VAR BE01}\n",
+                "You may not accept another gift until you\n",
+                "throw away one or more Wonder Cards."
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0142",
+            "en_US": "Yes",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0143",
+            "en_US": "No",
+            "flags": 83
+        },
+        {
+            "id": "a002_080_0144",
+            "en_US": [
+                "There was a problem\n",
+                "with receiving the gift.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0145",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0146",
+            "en_US": [
+                "You cannot receive any more gifts until \n",
+                "you have a saved game.{VAR BE00}\n",
+                "Please start a new game and save it.{VAR BE01}"
+            ],
+            "flags": 230
+        },
+        {
+            "id": "a002_080_0147",
+            "en_US": "CARD ALBUM",
+            "flags": 208
+        },
+        {
+            "id": "a002_080_0148",
+            "en_US": "A Button: Sort",
+            "flags": 88
+        },
+        {
+            "id": "a002_080_0149",
+            "en_US": "BACK",
+            "flags": 56
+        },
+        {
+            "id": "a002_080_0150",
+            "en_US": "{VAR 0201 0000}/{VAR 0201 0001}",
+            "flags": 48
+        },
+        {
+            "id": "a002_080_0151",
+            "en_US": "{VAR BD03 0000}{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 76
+        },
+        {
+            "id": "a002_080_0152",
+            "en_US": "Wonder Card",
+            "flags": 104
+        },
+        {
+            "id": "a002_080_0153",
+            "en_US": "Date received",
+            "flags": 111
+        },
+        {
+            "id": "a002_080_0154",
+            "en_US": "{VAR 0201 0001}/{VAR 0201 0002}/{VAR 0203 0000}",
+            "flags": 88
+        },
+        {
+            "id": "a002_080_0155",
+            "en_US": "A: Done",
+            "flags": 64
+        },
+        {
+            "id": "a002_080_0156",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_080_0157",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0158",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2010 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0159",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2011 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0160",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2012 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0161",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2013 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0162",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2014 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0163",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2015 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0164",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2016 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0165",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2017 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0166",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2018 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0167",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2019 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0168",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2020 Pokémon Movie!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0169",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0170",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Tokyo!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0171",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Osaka!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0172",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Fukuoka!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0173",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Nagoya!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0174",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Sapporo!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0175",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Yokohama!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in the game."
+            ]
+        },
+        {
+            "id": "a002_080_0176",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0177",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2010 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0178",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2011 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0179",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2012 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0180",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2013 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0181",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2014 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0182",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2015 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0183",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2016 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0184",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2017 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0185",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2018 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0186",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2019 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0187",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2020 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0188",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0189",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2010 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0190",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2011 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0191",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2012 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0192",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2013 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0193",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2014 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0194",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2015 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0195",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2016 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0196",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2017 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0197",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2018 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0198",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2019 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0199",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2020 Pokémon World Championships!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0200",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0201",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2010 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0202",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2011 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0203",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2012 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0204",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2013 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0205",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2014 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0206",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2015 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0207",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2016 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0208",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2017 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0209",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2018 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0210",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2019 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0211",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2020 Pokémon Video Game event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0212",
+            "en_US": [
+                "Thank you for participating in a 2010\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0213",
+            "en_US": [
+                "Thank you for participating in a 2011\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0214",
+            "en_US": [
+                "Thank you for participating in a 2012\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0215",
+            "en_US": [
+                "Thank you for participating in a 2013\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0216",
+            "en_US": [
+                "Thank you for participating in a 2014\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0217",
+            "en_US": [
+                "Thank you for participating in a 2015\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0218",
+            "en_US": [
+                "Thank you for participating in a 2016\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0219",
+            "en_US": [
+                "Thank you for participating in a 2017\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0220",
+            "en_US": [
+                "Thank you for participating in a 2018\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0221",
+            "en_US": [
+                "Thank you for participating in a 2019\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0222",
+            "en_US": [
+                "Thank you for participating in a 2020\n",
+                "Pokémon Video Game Championships event!\n",
+                "Please pick up your gift from\n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0223",
+            "en_US": [
+                "Thank you for coming to the event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0224",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0225",
+            "en_US": [
+                "Thank you for playing Pokémon!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0226",
+            "en_US": [
+                "Thank you for coming to the store!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0227",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Competition!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0228",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the video-game event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0229",
+            "en_US": [
+                "This is a gift from the video game event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0230",
+            "en_US": [
+                "This is a present from\n",
+                "the Pokémon Fan Club!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0231",
+            "en_US": [
+                "Thank you for watching Pokémon Sunday!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0232",
+            "en_US": [
+                "This is a gift from Pokémon Sunday!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0233",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Challenge Plaza!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0234",
+            "en_US": [
+                "This is a gift from the\n",
+                "Challenge Plaza!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0235",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Challenge!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0236",
+            "en_US": [
+                "This is a gift from the\n",
+                "Battle Challenge!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0237",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Trainers' Court!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0238",
+            "en_US": [
+                "This is a gift from the\n",
+                "Trainers' Court!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0239",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Tour!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0240",
+            "en_US": [
+                "This is a gift from the Battle Tour!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0241",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Concert!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0242",
+            "en_US": [
+                "Thank you for watching\n",
+                "the Pokémon animation!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0243",
+            "en_US": [
+                "Thank you for playing over\n",
+                "Nintendo Wi-Fi Connection!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0244",
+            "en_US": [
+                "Thank you for receiving this distribution!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0245",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0246",
+            "en_US": [
+                "Thank you for playing the\n",
+                "Pokémon Ranger series game!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0247",
+            "en_US": [
+                "The Ranger Union requests that you\n",
+                "protect a Pokémon.\n",
+                "Please pick it up from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0248",
+            "en_US": [
+                "The Ranger Union requests that you\n",
+                "protect an Egg.\n",
+                "Please pick it up from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0249",
+            "en_US": [
+                "Thank you for playing in the\n",
+                "Pokémon Dream World!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0250",
+            "en_US": [
+                "This is a gift from the\n",
+                "Pokémon Dream World!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0251",
+            "en_US": [
+                "Thank you for playing in the Pokémon DW!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0252",
+            "en_US": [
+                "This is a gift from the Pokémon DW!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0253",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2010 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0254",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2011 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0255",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2012 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0256",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2013 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0257",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2014 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0258",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2015 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0259",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2016 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0260",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2017 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0261",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2018 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0262",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2019 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0263",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2020 Pokémon event!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0264",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0265",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2010!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0266",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2011!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0267",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2012!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0268",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2013!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0269",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2014!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0270",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2015!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0271",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2016!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0272",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2017!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0273",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2018!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0274",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2019!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0275",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2020!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0276",
+            "en_US": [
+                "Thank you for coming to the POKÉPARK!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0277",
+            "en_US": [
+                "This is a gift from the POKÉPARK!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0278",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2010!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0279",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2011!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0280",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2012!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0281",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2013!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0282",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2014!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0283",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2015!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0284",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2016!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0285",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2017!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0286",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2018!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0287",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2019!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0288",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2020!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0289",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0290",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0291",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0292",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0293",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0294",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0295",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0296",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0297",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0298",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0299",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0300",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0301",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0302",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0303",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0304",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0305",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0306",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0307",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0308",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0309",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0310",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0311",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0312",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0313",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0314",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0315",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0316",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0317",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0318",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0319",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0320",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0321",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0322",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0323",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0324",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0325",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0326",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0327",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0328",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0329",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0330",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0331",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0332",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0333",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0334",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0335",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0336",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0337",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0338",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0339",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0340",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0341",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0342",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0343",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0344",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0345",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0346",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0347",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0348",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0349",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0350",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0351",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0352",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0353",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0354",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0355",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0356",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0357",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0358",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0359",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0360",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0361",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0362",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0363",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0364",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0365",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0366",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0367",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0368",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0369",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0370",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0371",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0372",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0373",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0374",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0375",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0376",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0377",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0378",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0379",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0380",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0381",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0382",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0383",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0384",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0385",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0386",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0387",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0388",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0389",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0390",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0391",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0392",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0393",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0394",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0395",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0396",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0397",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0398",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0399",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0400",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0401",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0402",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0403",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0404",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0405",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0406",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0407",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0408",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0409",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0410",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0411",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0412",
+            "en_US": [
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0413",
+            "en_US": [
+                "Thank you for coming\n",
+                "to see the Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0414",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2010 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0415",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2011 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0416",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2012 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0417",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2013 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0418",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2014 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0419",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2015 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0420",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2016 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0421",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2017 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0422",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2018 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0423",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2019 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0424",
+            "en_US": [
+                "Thank you for coming to see\n",
+                "the 2020 Pokémon Movie!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0425",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0426",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Tokyo!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0427",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Osaka!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0428",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Fukuoka!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0429",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Nagoya!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0430",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Sapporo!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0431",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Center Yokohama!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0432",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0433",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2010 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0434",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2011 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0435",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2012 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0436",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2013 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0437",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2014 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0438",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2015 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0439",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2016 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0440",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2017 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0441",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2018 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0442",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2019 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0443",
+            "en_US": [
+                "Thank you for participating in the\n",
+                "2020 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0444",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0445",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2010 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0446",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2011 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0447",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2012 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0448",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2013 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0449",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2014 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0450",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2015 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0451",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2016 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0452",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2017 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0453",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2018 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0454",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2019 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0455",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "2020 Pokémon World Championships!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0456",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0457",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2010 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0458",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2011 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0459",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2012 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0460",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2013 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0461",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2014 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0462",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2015 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0463",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2016 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0464",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2017 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0465",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2018 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0466",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2019 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0467",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2020 Pokémon Video Game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0468",
+            "en_US": [
+                "Thank you for participating in a 2010\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0469",
+            "en_US": [
+                "Thank you for participating in a 2011\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0470",
+            "en_US": [
+                "Thank you for participating in a 2012\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0471",
+            "en_US": [
+                "Thank you for participating in a 2013\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0472",
+            "en_US": [
+                "Thank you for participating in a 2014\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0473",
+            "en_US": [
+                "Thank you for participating in a 2015\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0474",
+            "en_US": [
+                "Thank you for participating in a 2016\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0475",
+            "en_US": [
+                "Thank you for participating in a 2017\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0476",
+            "en_US": [
+                "Thank you for participating in a 2018\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0477",
+            "en_US": [
+                "Thank you for participating in a 2019\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0478",
+            "en_US": [
+                "Thank you for participating in a 2020\n",
+                "Pokémon Video Game Championships event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0479",
+            "en_US": [
+                "Thank you for coming to the event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0480",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0481",
+            "en_US": [
+                "Thank you for playing Pokémon!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0482",
+            "en_US": [
+                "Thank you for coming to the store!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0483",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Competition!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0484",
+            "en_US": [
+                "Thank you for participating\n",
+                "in the video-game event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0485",
+            "en_US": [
+                "This is a gift from the video-game event!\n",
+                "Please pick up your gift from \n",
+                "the deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0486",
+            "en_US": [
+                "This is a present from\n",
+                "the Pokémon Fan Club!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0487",
+            "en_US": [
+                "Thank you for watching Pokémon Sunday!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0488",
+            "en_US": [
+                "This is a gift from Pokémon Sunday!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0489",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Challenge Plaza!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0490",
+            "en_US": [
+                "This is a gift from the\n",
+                "Challenge Plaza!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0491",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Challenge!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0492",
+            "en_US": [
+                "This is a gift from the\n",
+                "Battle Challenge!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0493",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Trainers' Court!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0494",
+            "en_US": [
+                "This is a gift from the\n",
+                "Trainers' Court!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0495",
+            "en_US": [
+                "Thank you for participating in\n",
+                "the Battle Tour!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0496",
+            "en_US": [
+                "This is a gift from the Battle Tour!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0497",
+            "en_US": [
+                "Thank you for coming to\n",
+                "the Pokémon Concert!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0498",
+            "en_US": [
+                "Thank you for watching\n",
+                "the Pokémon animation!\n",
+                "Please pick up your gift from the\n",
+                "deliveryman in any Pokémon Center."
+            ]
+        },
+        {
+            "id": "a002_080_0499",
+            "en_US": [
+                "Thank you for playing over\n",
+                "Nintendo Wi-Fi Connection!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0500",
+            "en_US": [
+                "Thank you for receiving this distribution!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0501",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0502",
+            "en_US": [
+                "Thank you for playing the\n",
+                "Pokémon Ranger series game!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0503",
+            "en_US": [
+                "The Ranger Union requests that you\n",
+                "protect a Pokémon.\n",
+                "You have already picked it up\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0504",
+            "en_US": [
+                "The Ranger Union requested that you\n",
+                "protect an Egg.\n",
+                "You have already picked it up\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0505",
+            "en_US": [
+                "Thank you for playing in the\n",
+                "Pokémon Dream World!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0506",
+            "en_US": [
+                "This is a gift from the\n",
+                "Pokémon Dream World!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0507",
+            "en_US": [
+                "Thank you for playing in the Pokémon DW!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0508",
+            "en_US": [
+                "This is a gift from the Pokémon DW!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0509",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2010 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0510",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2011 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0511",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2012 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0512",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2013 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0513",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2014 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0514",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2015 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0515",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2016 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0516",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2017 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0517",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2018 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0518",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2019 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0519",
+            "en_US": [
+                "Thank you for coming to a\n",
+                "2020 Pokémon event!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0520",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0521",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2010!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0522",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2011!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0523",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2012!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0524",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2013!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0525",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2014!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0526",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2015!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0527",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2016!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0528",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2017!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0529",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2018!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0530",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2019!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0531",
+            "en_US": [
+                "Thank you for coming to\n",
+                "Pokémon Festa 2020!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0532",
+            "en_US": [
+                "Thank you for coming to the POKÉPARK!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0533",
+            "en_US": [
+                "This is a gift from the POKÉPARK!\n",
+                "Please pick up your gift from \n",
+                "the deliveryman in any Pokémon center."
+            ]
+        },
+        {
+            "id": "a002_080_0534",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2010!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0535",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2011!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0536",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2012!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0537",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2013!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0538",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2014!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0539",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2015!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0540",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2016!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0541",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2017!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0542",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2018!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0543",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2019!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0544",
+            "en_US": [
+                "Thank you for coming to the\n",
+                "POKÉPARK in 2020!\n",
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0545",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0546",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0547",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0548",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0549",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0550",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0551",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0552",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0553",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0554",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0555",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0556",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0557",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0558",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0559",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0560",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0561",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0562",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0563",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0564",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0565",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0566",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0567",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0568",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0569",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0570",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0571",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0572",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0573",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0574",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0575",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0576",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0577",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0578",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0579",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0580",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0581",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0582",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0583",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0584",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0585",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0586",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0587",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0588",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0589",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0590",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0591",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0592",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0593",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0594",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0595",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0596",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0597",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0598",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0599",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0600",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0601",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0602",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0603",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0604",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0605",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0606",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0607",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0608",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0609",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0610",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0611",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0612",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0613",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0614",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0615",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0616",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0617",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0618",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0619",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0620",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0621",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0622",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0623",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0624",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0625",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0626",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0627",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0628",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0629",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0630",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0631",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0632",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0633",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0634",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0635",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0636",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0637",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0638",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0639",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0640",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0641",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0642",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0643",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0644",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0645",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0646",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0647",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0648",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0649",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0650",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0651",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0652",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0653",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0654",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0655",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0656",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0657",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0658",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0659",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0660",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0661",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0662",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0663",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0664",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0665",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0666",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0667",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        },
+        {
+            "id": "a002_080_0668",
+            "en_US": [
+                "You have already picked up your gift\n",
+                "from the deliveryman."
+            ]
+        }
+    ]
+}

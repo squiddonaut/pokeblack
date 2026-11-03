@@ -1,0 +1,417 @@
+{
+    "flags": 199,
+    "pad": "3a3a",
+    "messages": [
+        {
+            "id": "a002_019_0000",
+            "en_US": [
+                "Would you like to save the last battle\n",
+                "as your Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0003",
+            "en_US": [
+                "The last battle will not be saved.\n",
+                "OK?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0006",
+            "en_US": [
+                "Is it OK to overwrite your existing\n",
+                "Battle Video?"
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0009",
+            "en_US": [
+                "Saving your Battle Video...\n",
+                "Don't turn off the power."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_019_0010",
+            "en_US": "The Battle Video has been saved.",
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0011",
+            "en_US": [
+                "There was an error.\n",
+                "The Battle Video couldn't be saved."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0012",
+            "en_US": [
+                "Awaiting your friend's decision...\n",
+                "Please wait."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_019_0013",
+            "en_US": [
+                "You cannot record videos\n",
+                "with this Trainer... Please wait."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_019_0014",
+            "en_US": [
+                "You cannot record videos\n",
+                "with this Trainer."
+            ],
+            "flags": 240
+        },
+        {
+            "id": "a002_019_0015",
+            "en_US": "The last battle cannot be recorded.",
+            "flags": 224
+        },
+        {
+            "id": "a002_019_0016",
+            "en_US": "Time Limit:",
+            "flags": 84
+        },
+        {
+            "id": "a002_019_0017",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_019_0018",
+            "en_US": "{VAR 0201 0001}",
+            "flags": 18
+        },
+        {
+            "id": "a002_019_0019",
+            "en_US": "PREVIOUS RECORD",
+            "flags": 99
+        },
+        {
+            "id": "a002_019_0020",
+            "en_US": [
+                "Colosseum Single,\n",
+                "No Restrictions"
+            ]
+        },
+        {
+            "id": "a002_019_0021",
+            "en_US": [
+                "Colosseum Single,\n",
+                "Flat"
+            ]
+        },
+        {
+            "id": "a002_019_0022",
+            "en_US": [
+                "Colosseum Single,\n",
+                "No Restrictions, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0023",
+            "en_US": [
+                "Colosseum Single,\n",
+                "Flat, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0024",
+            "en_US": [
+                "Colosseum Double,\n",
+                "No Restrictions"
+            ]
+        },
+        {
+            "id": "a002_019_0025",
+            "en_US": [
+                "Colosseum Double,\n",
+                "Flat"
+            ]
+        },
+        {
+            "id": "a002_019_0026",
+            "en_US": [
+                "Colosseum Double,\n",
+                "No Restrictions, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0027",
+            "en_US": [
+                "Colosseum Double,\n",
+                "Flat, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0028",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "No Restrictions"
+            ]
+        },
+        {
+            "id": "a002_019_0029",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "Flat"
+            ]
+        },
+        {
+            "id": "a002_019_0030",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "No Restrictions, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0031",
+            "en_US": [
+                "Colosseum Triple,\n",
+                "Flat, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0032",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "No Restrictions"
+            ]
+        },
+        {
+            "id": "a002_019_0033",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "Flat"
+            ]
+        },
+        {
+            "id": "a002_019_0034",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "No Restrictions, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0035",
+            "en_US": [
+                "Colosseum Rotation,\n",
+                "Flat, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0036",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "No Restrictions"
+            ]
+        },
+        {
+            "id": "a002_019_0037",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "Flat"
+            ]
+        },
+        {
+            "id": "a002_019_0038",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "No Restrictions, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0039",
+            "en_US": [
+                "Colosseum Multi,\n",
+                "Flat, Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0040",
+            "en_US": [
+                "Battle Subway,\n",
+                "Single"
+            ]
+        },
+        {
+            "id": "a002_019_0041",
+            "en_US": [
+                "Battle Subway,\n",
+                "Double"
+            ]
+        },
+        {
+            "id": "a002_019_0042",
+            "en_US": [
+                "Battle Subway,\n",
+                "Multi"
+            ]
+        },
+        {
+            "id": "a002_019_0043",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Single"
+            ]
+        },
+        {
+            "id": "a002_019_0044",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Double"
+            ]
+        },
+        {
+            "id": "a002_019_0045",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Triple"
+            ]
+        },
+        {
+            "id": "a002_019_0046",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Rotation"
+            ]
+        },
+        {
+            "id": "a002_019_0047",
+            "en_US": [
+                "Random Matchup, Free\n",
+                "Launcher Battle"
+            ]
+        },
+        {
+            "id": "a002_019_0048",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Single"
+            ]
+        },
+        {
+            "id": "a002_019_0049",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Double"
+            ]
+        },
+        {
+            "id": "a002_019_0050",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Triple"
+            ]
+        },
+        {
+            "id": "a002_019_0051",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Rotation"
+            ]
+        },
+        {
+            "id": "a002_019_0052",
+            "en_US": [
+                "Random Matchup, Rating\n",
+                "Launcher Battle"
+            ]
+        },
+        {
+            "id": "a002_019_0053",
+            "en_US": [
+                "Competition, Single\n",
+                "Launcher Off"
+            ]
+        },
+        {
+            "id": "a002_019_0054",
+            "en_US": [
+                "Competition, Single\n",
+                "Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0055",
+            "en_US": [
+                "Competition, Double\n",
+                "Launcher Off"
+            ]
+        },
+        {
+            "id": "a002_019_0056",
+            "en_US": [
+                "Competition, Double\n",
+                "Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0057",
+            "en_US": [
+                "Competition, Triple\n",
+                "Launcher Off"
+            ]
+        },
+        {
+            "id": "a002_019_0058",
+            "en_US": [
+                "Competition, Triple\n",
+                "Launcher On"
+            ]
+        },
+        {
+            "id": "a002_019_0059",
+            "en_US": [
+                "Competition, Rotation\n",
+                "Launcher Off"
+            ]
+        },
+        {
+            "id": "a002_019_0060",
+            "en_US": [
+                "Competition, Rotation\n",
+                "Launcher On"
+            ]
+        }
+    ]
+}

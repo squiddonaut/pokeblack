@@ -1,0 +1,80 @@
+{
+    "flags": 224,
+    "pad": "bcbc",
+    "messages": [
+        {
+            "id": "a003_417_0000",
+            "en_US": [
+                "You know, there are people in the world\n",
+                "with many different values.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0001",
+            "en_US": [
+                "Some people enjoy things you might not\n",
+                "think are fun...{VAR BE01}\n",
+                "Having a lot of different values in the\n",
+                "world makes it a richer place.{VAR BE00}\n",
+                "That's what I think, anyway.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0002",
+            "en_US": [
+                "I really enjoy traveling around the world\n",
+                "and talking with different people, but{VAR BE00}\n",
+                "the woman who lives here seems to think{VAR BE00}\n",
+                "living quietly by herself is important.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0003",
+            "en_US": "Growwwwf!"
+        },
+        {
+            "id": "a003_417_0004",
+            "en_US": "So this was Zoroark's home, then!{VAR BE01}"
+        },
+        {
+            "id": "a003_417_0005",
+            "en_US": [
+                "Zoroark was using its illusion to\n",
+                "trick people and Pokémon. It{VAR BE00}\n",
+                "wanted to keep people away from its lair.{VAR BE01}\n",
+                "I heard this place was suspicious, so I\n",
+                "came to have a look, but it looks like I{VAR BE00}\n",
+                "was tricked as well.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0006",
+            "en_US": [
+                "Zoroark really reacted strongly to the\n",
+                "Pokémon you have with you...{VAR BE01}\n",
+                "There must be some history there.\n",
+                "A quarrel, or something.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0007",
+            "en_US": [
+                "Such a beautiful field, in a place\n",
+                "like this...{VAR BE01}\n",
+                "It's almost as if this lovely scenery is\n",
+                "the illusion!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_417_0008",
+            "en_US": "The suspicious woman attacked!{VAR BE01}"
+        },
+        {
+            "id": "a003_417_0009",
+            "en_US": [
+                "The Pokémon vanished deep into\n",
+                "the forest..."
+            ]
+        }
+    ]
+}

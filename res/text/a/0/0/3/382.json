@@ -1,0 +1,163 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_382_0000",
+            "en_US": [
+                "I come shop at the Shopping Mall a lot\n",
+                "because I want all the TMs!"
+            ]
+        },
+        {
+            "id": "a003_382_0001",
+            "en_US": [
+                "On the first floor, they sell medicines.{VAR BE01}\n",
+                "On the second floor, they sell TMs\n",
+                "and different kinds of Mail.{VAR BE01}\n",
+                "On the third floor, they sell items for\n",
+                "raising stats and battle items.{VAR BE01}\n",
+                "I really admire Mr. Clyde, the\n",
+                "Pokémon Gym guide, so I'm practicing{VAR BE00}\n",
+                "being a guide, too!"
+            ]
+        },
+        {
+            "id": "a003_382_0002",
+            "en_US": [
+                "There are even some people in the mall\n",
+                "who will challenge you to battles."
+            ]
+        },
+        {
+            "id": "a003_382_0003",
+            "en_US": [
+                "The thing I buy most often is the item\n",
+                "that raises a Pokémon's HP, called HP Up.{VAR BE01}\n",
+                "There are also a lot of other items that\n",
+                "catch my eye."
+            ]
+        },
+        {
+            "id": "a003_382_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0005",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0009",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0010",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0011",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0012",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_382_0013",
+            "en_US": [
+                "Good Trainers never use only\n",
+                "brute force.{VAR BE01}\n",
+                "They think about many different\n",
+                "strategies, such as which Pokémon and{VAR BE00}\n",
+                "moves to use in battle, or the best time{VAR BE00}\n",
+                "to use an item."
+            ]
+        },
+        {
+            "id": "a003_382_0014",
+            "en_US": "Playing hide-and-seek would be fun!"
+        },
+        {
+            "id": "a003_382_0015",
+            "en_US": [
+                "Welcome to Shopping Mall Nine!\n",
+                "It's called Nine because it's on Route 9.{VAR BE01}\n",
+                "You can remember it by thinking of this:\n",
+                "“Done shopping? Nein!\""
+            ]
+        },
+        {
+            "id": "a003_382_0016",
+            "en_US": [
+                "Have you heard? There's a cave\n",
+                "along Route 9.{VAR BE01}\n",
+                "I don't know exactly where it is or\n",
+                "what's in it, though."
+            ]
+        },
+        {
+            "id": "a003_382_0017",
+            "en_US": [
+                "Hey! Pokémon Trainer!{VAR BE01}\n",
+                "Do you know about an item called\n",
+                "the Thunderstone?"
+            ]
+        },
+        {
+            "id": "a003_382_0018",
+            "en_US": [
+                "So you know Thunderstones make certain\n",
+                "Pokémon evolve, then? Niiice!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_382_0019",
+            "en_US": [
+                "Well then, I'll tell you!{VAR BE01}\n",
+                "If you use the Thunderstone, it makes\n",
+                "certain Pokémon evolve!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_382_0020",
+            "en_US": [
+                "Meeting here must be fate!\n",
+                "This is for you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_382_0021",
+            "en_US": [
+                "I've heard a Pokémon called Eelektrik\n",
+                "evolves with the Thunderstone."
+            ]
+        },
+        {
+            "id": "a003_382_0022",
+            "en_US": [
+                "Shopping Mall Nine\n",
+                "Colorful and wonderful!"
+            ]
+        }
+    ]
+}

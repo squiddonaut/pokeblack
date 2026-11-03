@@ -1,0 +1,223 @@
+{
+    "flags": 228,
+    "messages": [
+        {
+            "id": "a002_044_0000",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0002",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0003",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0005",
+            "en_US": [
+                "Creating save data.\n",
+                "Please wait..."
+            ],
+            "flags": 220
+        },
+        {
+            "id": "a002_044_0006",
+            "en_US": [
+                "Hi there!{VAR BE01}\n",
+                "Welcome to the world of Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0007",
+            "en_US": [
+                "My name is Professor Juniper.\n",
+                "Everyone calls me the Pokémon Professor!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0008",
+            "en_US": [
+                "That's right! This world is widely\n",
+                "inhabited by mysterious creatures{VAR BE00}\n",
+                "called Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0009",
+            "en_US": [
+                "Pokémon have mysterious powers.\n",
+                "They come in many shapes{VAR BE00}\n",
+                "and live in many different places.{VAR BE01}\n",
+                "We humans live happily with Pokémon!\n",
+                "Living and working together,{VAR BE00}\n",
+                "we complement each other.{VAR BE01}\n",
+                "We help each other out to\n",
+                "accomplish difficult tasks.{VAR BE01}\n",
+                "Having Pokémon battle one another\n",
+                "is particularly popular, and it deepens{VAR BE00}\n",
+                "the bonds between people and Pokémon.{VAR BE00}\n",
+                "And that is why I research Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0010",
+            "en_US": [
+                "Well, that's enough from me...\n",
+                "Could you tell me about yourself?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0011",
+            "en_US": [
+                "Are you a boy?\n",
+                "Or a girl?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0012",
+            "en_US": "You're a boy, right?{VAR BE01}"
+        },
+        {
+            "id": "a002_044_0013",
+            "en_US": "You're a girl, right?{VAR BE01}"
+        },
+        {
+            "id": "a002_044_0014",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0015",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0016",
+            "en_US": [
+                "I'd like to know your name.{VAR BE01}\n",
+                "Please tell me.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0017",
+            "en_US": "Your name is {VAR 0100 0000}?{VAR BE01}"
+        },
+        {
+            "id": "a002_044_0018",
+            "en_US": "Your name is {VAR 0100 0000}?{VAR BE01}"
+        },
+        {
+            "id": "a002_044_0019",
+            "en_US": "Yes",
+            "flags": 40
+        },
+        {
+            "id": "a002_044_0020",
+            "en_US": "No",
+            "flags": 40
+        },
+        {
+            "id": "a002_044_0021",
+            "en_US": [
+                "So your name's {VAR 0100 0000}.\n",
+                "What a wonderful name!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0022",
+            "en_US": [
+                "Well then. I'm going to introduce you\n",
+                "to your two best friends!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0023",
+            "en_US": [
+                "This young man is Cheren.{VAR BE01}\n",
+                "He can be a little difficult, but\n",
+                "he's a very honest person.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0024",
+            "en_US": [
+                "This young woman is Bianca.{VAR BE01}\n",
+                "She's a little flighty,\n",
+                "but she works very hard.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0025",
+            "en_US": [
+                "I think you three have potential,\n",
+                "so I'm going to give you{VAR BE00}\n",
+                "a very, very important Pokémon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0026",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "The moment you choose the\n",
+                "Pokémon that will accompany{VAR BE00}\n",
+                "you on your journey,{VAR BE00}\n",
+                "your story will truly begin.{VAR BE01}\n",
+                "During your journey, you will meet many\n",
+                "Pokémon and people with different{VAR BE00}\n",
+                "personalities and points of view!{VAR BE01}\n",
+                "I really hope you find what is important\n",
+                "to you in all of these travels...{VAR BE01}\n",
+                "That's right! Befriend\n",
+                "new people and Pokémon and{VAR BE00}\n",
+                "grow as a person!{VAR BE01}\n",
+                "That is the most important goal\n",
+                "for your journey!{VAR BE01}\n",
+                "Let's go visit the world of Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_044_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0028",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0029",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0030",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0031",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_044_0032",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

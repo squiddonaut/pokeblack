@@ -1,0 +1,196 @@
+{
+    "flags": 240,
+    "messages": [
+        {
+            "id": "a002_029_0000",
+            "en_US": "OPTIONS",
+            "flags": 120
+        },
+        {
+            "id": "a002_029_0001",
+            "en_US": "TEXT SPEED",
+            "flags": 96
+        },
+        {
+            "id": "a002_029_0002",
+            "en_US": "BATTLE SCENE",
+            "flags": 80
+        },
+        {
+            "id": "a002_029_0003",
+            "en_US": "BATTLE STYLE",
+            "flags": 96
+        },
+        {
+            "id": "a002_029_0004",
+            "en_US": "SOUND",
+            "flags": 48
+        },
+        {
+            "id": "a002_029_0005",
+            "en_US": "CHARACTERS",
+            "flags": 64
+        },
+        {
+            "id": "a002_029_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_029_0007",
+            "en_US": "SAVE BEFORE IR",
+            "flags": 80
+        },
+        {
+            "id": "a002_029_0008",
+            "en_US": "CONFIRM",
+            "flags": 56
+        },
+        {
+            "id": "a002_029_0009",
+            "en_US": "QUIT",
+            "flags": 40
+        },
+        {
+            "id": "a002_029_0010",
+            "en_US": "SLOW",
+            "flags": 38
+        },
+        {
+            "id": "a002_029_0011",
+            "en_US": "MID",
+            "flags": 40
+        },
+        {
+            "id": "a002_029_0012",
+            "en_US": "FAST",
+            "flags": 36
+        },
+        {
+            "id": "a002_029_0013",
+            "en_US": "ON",
+            "flags": 32
+        },
+        {
+            "id": "a002_029_0014",
+            "en_US": "OFF",
+            "flags": 48
+        },
+        {
+            "id": "a002_029_0015",
+            "en_US": "SHIFT",
+            "flags": 64
+        },
+        {
+            "id": "a002_029_0016",
+            "en_US": "SET",
+            "flags": 56
+        },
+        {
+            "id": "a002_029_0017",
+            "en_US": "STEREO",
+            "flags": 48
+        },
+        {
+            "id": "a002_029_0018",
+            "en_US": "MONO",
+            "flags": 48
+        },
+        {
+            "id": "a002_029_0019",
+            "en_US": "",
+            "flags": 64
+        },
+        {
+            "id": "a002_029_0020",
+            "en_US": "",
+            "flags": 56
+        },
+        {
+            "id": "a002_029_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_029_0022",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_029_0023",
+            "en_US": "SAVE",
+            "flags": 48
+        },
+        {
+            "id": "a002_029_0024",
+            "en_US": "NO SAVE",
+            "flags": 56
+        },
+        {
+            "id": "a002_029_0025",
+            "en_US": [
+                "You can choose from three different\n",
+                "text-scrolling speeds."
+            ]
+        },
+        {
+            "id": "a002_029_0026",
+            "en_US": [
+                "You can choose whether to view\n",
+                "move animations."
+            ]
+        },
+        {
+            "id": "a002_029_0027",
+            "en_US": [
+                "You can choose to switch Pokémon\n",
+                "when an opponent's Pokémon faints."
+            ]
+        },
+        {
+            "id": "a002_029_0028",
+            "en_US": "You can choose the way the game sounds."
+        },
+        {
+            "id": "a002_029_0029",
+            "en_US": ""
+        },
+        {
+            "id": "a002_029_0030",
+            "en_US": ""
+        },
+        {
+            "id": "a002_029_0031",
+            "en_US": [
+                "You can choose to save the game\n",
+                "before C-Gear launches infrared."
+            ]
+        },
+        {
+            "id": "a002_029_0032",
+            "en_US": [
+                "You have saved data already.\n",
+                "You cannot change this option.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_029_0033",
+            "en_US": "Would you like to make these changes?"
+        },
+        {
+            "id": "a002_029_0034",
+            "en_US": "YES",
+            "flags": 88
+        },
+        {
+            "id": "a002_029_0035",
+            "en_US": "NO",
+            "flags": 88
+        },
+        {
+            "id": "a002_029_0036",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

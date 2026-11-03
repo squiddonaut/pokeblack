@@ -1,0 +1,30 @@
+{
+    "name": "Wide Guard",
+    "description": [
+        "The user and its allies are protected from\n",
+        "wide-ranging attacks for one turn. If used\n",
+        "in succession, its chance of failing rises."
+    ],
+    "type": "TYPE_ROCK",
+    "category": "MOVE_CATEGORY_SIDE_FIELD_EFFECT",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 10,
+    "priority": 3,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 278,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER_SIDE",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_SNATCH"]
+}

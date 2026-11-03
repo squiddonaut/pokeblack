@@ -1,0 +1,30 @@
+{
+    "name": "Toxic",
+    "description": [
+        "A move that leaves the target\n",
+        "badly poisoned.\n",
+        "Its poison damage worsens every turn."
+    ],
+    "type": "TYPE_POISON",
+    "category": "MOVE_CATEGORY_STATUS",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_POISON",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_INDEFINITE",
+    "minTurns": 15,
+    "maxTurns": 15,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 33,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_AFFECTED_BY_MAGIC_COAT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

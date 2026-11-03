@@ -1,0 +1,17 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_434_0000",
+            "en_US": [
+                "{VAR 0100 0000} checked the PC screen.{VAR BE01}\n",
+                "Adventure Rule No. 1\n",
+                "The X Button opens the menu!{VAR BE01}\n",
+                "Adventure Rule No. 2\n",
+                "Record your progress with SAVE.{VAR BE01}\n",
+                "There is nothing else on here..."
+            ]
+        }
+    ]
+}

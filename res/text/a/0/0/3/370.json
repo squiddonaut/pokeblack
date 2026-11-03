@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "8a8a",
+    "messages": [
+        {
+            "id": "a003_370_0000",
+            "en_US": [
+                "This is Celestial Tower, where Pokémon\n",
+                "are laid to rest..."
+            ]
+        },
+        {
+            "id": "a003_370_0001",
+            "en_US": [
+                "They say that when you ring the bell\n",
+                "on top of this Tower, it pleases{VAR BE00}\n",
+                "the resting spirits."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "flags": 205,
+    "pad": "9a9a",
+    "messages": [
+        {
+            "id": "a002_098_0000",
+            "en_US": [
+                "Yo!\n",
+                "I'm {VAR 011C 0000}."
+            ]
+        },
+        {
+            "id": "a002_098_0001",
+            "en_US": [
+                "Glad to meet you!\n",
+                "I love {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_098_0002",
+            "en_US": "Do you like {VAR 011C 0000}?"
+        },
+        {
+            "id": "a002_098_0003",
+            "en_US": [
+                "Let's draw! I want to draw\n",
+                "{VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_098_0004",
+            "en_US": [
+                "Let's battle!\n",
+                "I say {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_098_0005",
+            "en_US": [
+                "I'm a {VAR 011C 0000} Trainer!\n",
+                "Please battle me!"
+            ]
+        },
+        {
+            "id": "a002_098_0006",
+            "en_US": [
+                "Let's have a chat!\n",
+                "How about {VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_098_0007",
+            "en_US": [
+                "Please trade!\n",
+                "I want a {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_098_0008",
+            "en_US": [
+                "Please trade!\n",
+                "I'm offering {VAR 011C 0000}!"
+            ]
+        },
+        {
+            "id": "a002_098_0009",
+            "en_US": [
+                "Want to trade {VAR 011C 0000}?\n",
+                "Here's a hint: {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_098_0010",
+            "en_US": [
+                "Will you join me\n",
+                "for {VAR 011C 0000}? "
+            ]
+        },
+        {
+            "id": "a002_098_0011",
+            "en_US": [
+                "Anyone want to\n",
+                "{VAR 011C 0000}?"
+            ]
+        },
+        {
+            "id": "a002_098_0012",
+            "en_US": [
+                "I want to {VAR 011C 0000}\n",
+                "with {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_098_0013",
+            "en_US": [
+                "Let's go to {VAR 011C 0000}\n",
+                "by {VAR 011C 0001}!"
+            ]
+        },
+        {
+            "id": "a002_098_0014",
+            "en_US": "OK!"
+        },
+        {
+            "id": "a002_098_0015",
+            "en_US": [
+                "{VAR 011C 0000}?\n",
+                "I got it!"
+            ]
+        },
+        {
+            "id": "a002_098_0016",
+            "en_US": [
+                "{VAR 011C 0000}?\n",
+                "Hold on!"
+            ]
+        },
+        {
+            "id": "a002_098_0017",
+            "en_US": [
+                "I don't want to\n",
+                "{VAR 011C 0000}..."
+            ]
+        },
+        {
+            "id": "a002_098_0018",
+            "en_US": [
+                "That was fun! I hope we can\n",
+                "{VAR 011C 0000} again sometime."
+            ]
+        },
+        {
+            "id": "a002_098_0019",
+            "en_US": [
+                "See ya!\n",
+                "{VAR 011C 0000}!"
+            ]
+        }
+    ]
+}

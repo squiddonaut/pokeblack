@@ -1,0 +1,226 @@
+{
+    "flags": 0,
+    "pad": "7676",
+    "messages": [
+        {
+            "id": "a002_027_0000",
+            "en_US": "X BUTTON",
+            "flags": 71
+        },
+        {
+            "id": "a002_027_0001",
+            "en_US": "SELECT",
+            "flags": 71
+        },
+        {
+            "id": "a002_027_0002",
+            "en_US": "B BUTTON",
+            "flags": 71
+        },
+        {
+            "id": "a002_027_0003",
+            "en_US": "Use the graffiti marker",
+            "flags": 144
+        },
+        {
+            "id": "a002_027_0004",
+            "en_US": "Freeze frame",
+            "flags": 144
+        },
+        {
+            "id": "a002_027_0005",
+            "en_US": "Quit graffiti mode",
+            "flags": 144
+        },
+        {
+            "id": "a002_027_0006",
+            "en_US": "Change pen size",
+            "flags": 160
+        },
+        {
+            "id": "a002_027_0007",
+            "en_US": "Select color with the dropper",
+            "flags": 160
+        },
+        {
+            "id": "a002_027_0008",
+            "en_US": "Use as an eraser",
+            "flags": 160
+        },
+        {
+            "id": "a002_027_0009",
+            "en_US": "Close the graffiti marker",
+            "flags": 160
+        },
+        {
+            "id": "a002_027_0010",
+            "en_US": "Stamps",
+            "flags": 160
+        },
+        {
+            "id": "a002_027_0011",
+            "en_US": "GRAFFITI MODE",
+            "flags": 216
+        },
+        {
+            "id": "a002_027_0012",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0013",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0014",
+            "en_US": "ID {VAR 0204 0000}",
+            "flags": 63
+        },
+        {
+            "id": "a002_027_0015",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0016",
+            "en_US": "{VAR 0200 0000}/4",
+            "flags": 24
+        },
+        {
+            "id": "a002_027_0017",
+            "en_US": "Please select your friend(s).",
+            "flags": 168
+        },
+        {
+            "id": "a002_027_0018",
+            "en_US": "CALL FRIEND(S)",
+            "flags": 150
+        },
+        {
+            "id": "a002_027_0019",
+            "en_US": "JOIN",
+            "flags": 150
+        },
+        {
+            "id": "a002_027_0020",
+            "en_US": "Calling...",
+            "flags": 208
+        },
+        {
+            "id": "a002_027_0021",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0022",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0023",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0024",
+            "en_US": "Connecting...",
+            "flags": 208
+        },
+        {
+            "id": "a002_027_0025",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0026",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0027",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0028",
+            "en_US": "Searching for your friends...",
+            "flags": 208
+        },
+        {
+            "id": "a002_027_0029",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0030",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0031",
+            "en_US": ""
+        },
+        {
+            "id": "a002_027_0032",
+            "en_US": "Would you like to stop the Xtransceiver?",
+            "flags": 232
+        },
+        {
+            "id": "a002_027_0033",
+            "en_US": [
+                "If the leader drops out, the group will\n",
+                "be disbanded. Is that OK?"
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_027_0034",
+            "en_US": "YES",
+            "flags": 45
+        },
+        {
+            "id": "a002_027_0035",
+            "en_US": "NO",
+            "flags": 45
+        },
+        {
+            "id": "a002_027_0036",
+            "en_US": [
+                "Since the leader dropped out,\n",
+                "the group will be disbanded."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_027_0037",
+            "en_US": [
+                "The other Trainer has left the group.\n",
+                "The communication will be ended."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_027_0038",
+            "en_US": [
+                "There are no members.\n",
+                "The communication will be ended."
+            ],
+            "flags": 232
+        },
+        {
+            "id": "a002_027_0039",
+            "en_US": "Call failed.",
+            "flags": 208
+        },
+        {
+            "id": "a002_027_0040",
+            "en_US": "Failed to connect.",
+            "flags": 208
+        },
+        {
+            "id": "a002_027_0041",
+            "en_US": [
+                "Parental Controls prohibits the transfer\n",
+                "of photos.\n",
+                "If you wish to send them, please change\n",
+                "the System Settings to allow this."
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_027_0042",
+            "en_US": "Waiting for the other player to finish...",
+            "flags": 224
+        }
+    ]
+}

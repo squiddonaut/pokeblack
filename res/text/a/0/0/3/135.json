@@ -1,0 +1,214 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_135_0000",
+            "en_US": [
+                "I want to know the future!\n",
+                "I am very worried...{VAR BE01}\n",
+                "I wonder how my child, Thyme, will spend\n",
+                "the future.{VAR BE01}\n",
+                "I'm making a machine that connects the\n",
+                "future and the present, but electricity{VAR BE00}\n",
+                "is desperately short.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0001",
+            "en_US": [
+                "I've heard that in another world,\n",
+                "there's another Opelucid City that looks{VAR BE00}\n",
+                "very futuristic.{VAR BE01}\n",
+                "If there is a Pokémon from that world\n",
+                "that knows the move Charge, the machine{VAR BE00}\n",
+                "may work.{VAR BE01}\n",
+                "If you're able, would you be willing to\n",
+                "lend me a Pokémon like that?"
+            ]
+        },
+        {
+            "id": "a003_135_0002",
+            "en_US": [
+                "I...I see. What a pity.\n",
+                "If you change your mind, please return."
+            ]
+        },
+        {
+            "id": "a003_135_0003",
+            "en_US": [
+                "Th-thank you!\n",
+                "Now my machine will work!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0004",
+            "en_US": [
+                "I appreciate the thought, but...you\n",
+                "don't have a Pokémon that meets the{VAR BE00}\n",
+                "conditions I need."
+            ]
+        },
+        {
+            "id": "a003_135_0005",
+            "en_US": [
+                "I appreciate the thought, but although\n",
+                "your Pokémon knows Charge, it's not from{VAR BE00}\n",
+                "that other world..."
+            ]
+        },
+        {
+            "id": "a003_135_0006",
+            "en_US": "Now, please show me the future!{VAR BE01}"
+        },
+        {
+            "id": "a003_135_0007",
+            "en_US": "Whirrr, whirrr, whirrr...{VAR BE01}"
+        },
+        {
+            "id": "a003_135_0008",
+            "en_US": [
+                "Oh! So that's what the future is like!{VAR BE01}\n",
+                "My precious Thyme is growing up as such\n",
+                "a good kid!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0009",
+            "en_US": [
+                "Oh, it returned to normal...{VAR BE01}\n",
+                "But what an experience!\n",
+                "I can't stop trembling!{VAR BE01}\n",
+                "And even though I know the future,\n",
+                "I guess my present time won't change.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0010",
+            "en_US": [
+                "I will return your Pokémon to you.\n",
+                "This is my thank-you gift.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0011",
+            "en_US": [
+                "Rather than worrying about the future,\n",
+                "it is important to live in the present,{VAR BE00}\n",
+                "which connects to the future, as best{VAR BE00}\n",
+                "you can.{VAR BE01}\n",
+                "OK, Thyme! Let's go out later!\n",
+                "Today, let's play as hard as we can!"
+            ]
+        },
+        {
+            "id": "a003_135_0012",
+            "en_US": [
+                "Thyme: I, I...\n",
+                "What will I be when I grow up?"
+            ]
+        },
+        {
+            "id": "a003_135_0013",
+            "en_US": [
+                "I want to return to the past!\n",
+                "I want to do many things over again!{VAR BE01}\n",
+                "My father, Bach, created a machine to\n",
+                "see the future.{VAR BE01}\n",
+                "I am making a machine to connect with\n",
+                "the past.{VAR BE01}\n",
+                "...But I don't have enough electricity.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0014",
+            "en_US": [
+                "I've heard that in another world,\n",
+                "there's another Opelucid City that looks{VAR BE00}\n",
+                "very old-timey.{VAR BE01}\n",
+                "If there is a Pokémon from that world\n",
+                "that knows the move Charge, the machine{VAR BE00}\n",
+                "may work.{VAR BE01}\n",
+                "If you're able, would you be willing to\n",
+                "lend me a Pokémon like that?"
+            ]
+        },
+        {
+            "id": "a003_135_0015",
+            "en_US": [
+                "Ah... What a pity.\n",
+                "There is no other way..."
+            ]
+        },
+        {
+            "id": "a003_135_0016",
+            "en_US": [
+                "Yes!\n",
+                "Now, the machine will work.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0017",
+            "en_US": [
+                "You're nice to offer, but I'm afraid you\n",
+                "don't have a Pokémon that meets the{VAR BE00}\n",
+                "conditions I need."
+            ]
+        },
+        {
+            "id": "a003_135_0018",
+            "en_US": [
+                "That's nice of you, but although your\n",
+                "Pokémon knows Charge, it's not from{VAR BE00}\n",
+                "that other world..."
+            ]
+        },
+        {
+            "id": "a003_135_0019",
+            "en_US": "Now, we can connect with the past!{VAR BE01}"
+        },
+        {
+            "id": "a003_135_0020",
+            "en_US": [
+                "We connected with the past!{VAR BE01}\n",
+                "Father! It's me, Thyme!\n",
+                "I owe you an apology...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0021",
+            "en_US": [
+                "It returned to normal...\n",
+                "It seems to have run out of electricity.{VAR BE01}\n",
+                "I connected with the past...but I guess\n",
+                "my present time won't change.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0022",
+            "en_US": [
+                "Oh!\n",
+                "I will return your Pokémon to you.{VAR BE01}\n",
+                "Thank you.\n",
+                "This is my thank-you gift.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_135_0023",
+            "en_US": [
+                "Rather than regretting the past...\n",
+                "it is important to live in the present,{VAR BE00}\n",
+                "which connects from the past,{VAR BE00}\n",
+                "as best as you can.{VAR BE01}\n",
+                "OK!\n",
+                "I'll live positively!"
+            ]
+        },
+        {
+            "id": "a003_135_0024",
+            "en_US": [
+                "I heard that my father had a fight with\n",
+                "my Grandpa Bach a long, long time ago!"
+            ]
+        }
+    ]
+}

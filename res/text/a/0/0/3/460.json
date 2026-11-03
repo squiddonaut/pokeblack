@@ -1,0 +1,70 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_460_0000",
+            "en_US": [
+                "Oh ho! With a face like that,\n",
+                "I'll bet you're a Pokémon Trainer!{VAR BE01}\n",
+                "I work as a Depot Agent on the\n",
+                "Battle Subway!{VAR BE01}\n",
+                "Have you tried challenging the\n",
+                "Battle Subway yet?{VAR BE01}\n",
+                "It's a hot spot for those who want\n",
+                "some serious battling action!{VAR BE01}\n",
+                "But some people get too wrapped up\n",
+                "in their battles, and there's no end{VAR BE00}\n",
+                "to the lost-and-found items.{VAR BE01}\n",
+                "That's right. Nobody ever came to\n",
+                "pick this up, so I'll give it to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_460_0001",
+            "en_US": [
+                "I have a lost-and-found item\n",
+                "that no one has claimed.{VAR BE01}\n",
+                "If you don't mind, could you take it\n",
+                "off my hands?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_460_0002",
+            "en_US": [
+                "Oh! I've been waiting for you!{VAR BE01}\n",
+                "Recently, we've gotten more passengers,\n",
+                "so there's more lost-and-found items!{VAR BE01}\n",
+                "No one has claimed this, so if you don't\n",
+                "mind, could you take it off my hands?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_460_0003",
+            "en_US": [
+                "No worries. No worries.\n",
+                "Just take it!{VAR BE01}\n",
+                "It's better for a Trainer to use it than\n",
+                "for me to hold on to it.{VAR BE01}\n",
+                "I'm sure the item is happier, too!"
+            ]
+        },
+        {
+            "id": "a003_460_0004",
+            "en_US": [
+                "If I have another lost-and-found\n",
+                "item, come get it, OK?{VAR BE01}\n",
+                "Also, if you're interested, take on the\n",
+                "Battle Subway in Nimbasa City!"
+            ]
+        },
+        {
+            "id": "a003_460_0005",
+            "en_US": [
+                "Oh, my. There's no more room for\n",
+                "the {VAR 0109 0000}.{VAR BE01}\n",
+                "You'll need to remove some from your Bag\n",
+                "before you can accept any more!"
+            ]
+        }
+    ]
+}

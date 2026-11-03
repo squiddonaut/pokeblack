@@ -1,0 +1,69 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_420_0000",
+            "en_US": [
+                "Pokémon Trainer.{VAR BE01}\n",
+                "The sparkle in your eyes...\n",
+                "I feel your kindness toward Pokémon!{VAR BE01}\n",
+                "I have decided! I will entrust the Egg\n",
+                "I found in the Relic Castle to you!{VAR BE01}\n",
+                "Would you like to receive this\n",
+                "Pokémon Egg and raise it?"
+            ]
+        },
+        {
+            "id": "a003_420_0001",
+            "en_US": [
+                "Would you like to receive this\n",
+                "Pokémon Egg and raise it?"
+            ]
+        },
+        {
+            "id": "a003_420_0002",
+            "en_US": [
+                "I appreciate your thought, but you\n",
+                "cannot take the Egg right now because{VAR BE00}\n",
+                "your party is full."
+            ]
+        },
+        {
+            "id": "a003_420_0003",
+            "en_US": "Well, that's certainly up to you."
+        },
+        {
+            "id": "a003_420_0004",
+            "en_US": "Yes! I'm counting on you.{VAR BE01}"
+        },
+        {
+            "id": "a003_420_0005",
+            "en_US": [
+                "Pokémon Eggs hatch when you carry them\n",
+                "with you. Being around healthy Pokémon{VAR BE00}\n",
+                "helps them grow!"
+            ]
+        },
+        {
+            "id": "a003_420_0006",
+            "en_US": "{VAR 0100 0000} obtained the Egg!"
+        },
+        {
+            "id": "a003_420_0007",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_420_0008",
+            "en_US": [
+                "Wait! Wait!{VAR BE01}\n",
+                "Aren't your Pokémon a bit tired?\n",
+                "Here, don't be shy! Let them rest!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_420_0009",
+            "en_US": "Your Pokémon are so energetic!"
+        }
+    ]
+}

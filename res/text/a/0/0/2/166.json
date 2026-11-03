@@ -1,0 +1,35 @@
+{
+    "flags": 208,
+    "pad": "eaea",
+    "messages": [
+        {
+            "id": "a002_166_0000",
+            "en_US": "SINGLE BATTLE"
+        },
+        {
+            "id": "a002_166_0001",
+            "en_US": "DOUBLE BATTLE"
+        },
+        {
+            "id": "a002_166_0002",
+            "en_US": "TRIPLE BATTLE"
+        },
+        {
+            "id": "a002_166_0003",
+            "en_US": "ROTATION BATTLE"
+        },
+        {
+            "id": "a002_166_0004",
+            "en_US": "MULTI BATTLE"
+        },
+        {
+            "id": "a002_166_0005",
+            "en_US": "LAUNCHER BATTLE"
+        },
+        {
+            "id": "a002_166_0006",
+            "en_US": "デバッグバトル",
+            "flags": 0
+        }
+    ]
+}

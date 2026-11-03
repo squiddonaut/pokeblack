@@ -1,0 +1,70 @@
+{
+    "flags": 224,
+    "pad": "8a8a",
+    "messages": [
+        {
+            "id": "a003_115_0000",
+            "en_US": [
+                "There are a lot of greenhouses\n",
+                "around the runway!{VAR BE01}\n",
+                "Freshly picked vegetables can be sent\n",
+                "to faraway regions very quickly!"
+            ]
+        },
+        {
+            "id": "a003_115_0001",
+            "en_US": [
+                "You see field after field located near\n",
+                "the runway!{VAR BE01}\n",
+                "Freshly picked vegetables can be sent\n",
+                "to faraway regions very quickly!"
+            ]
+        },
+        {
+            "id": "a003_115_0002",
+            "en_US": [
+                "Cannons! Cannons!\n",
+                "Skyla's Gym is full of cannons!"
+            ]
+        },
+        {
+            "id": "a003_115_0003",
+            "en_US": [
+                "Ruuunwaaaay! Ruuunwaaaay!\n",
+                "A Technical Machine on the ruuuunwaaaay!"
+            ]
+        },
+        {
+            "id": "a003_115_0004",
+            "en_US": [
+                "Ruuunwaaaay! Ruuunwaaaay!\n",
+                "Racing there is so much fun!{VAR BE01}\n",
+                "Hey, hey, which one is the fastest\n",
+                "Pokémon in a race?"
+            ]
+        },
+        {
+            "id": "a003_115_0005",
+            "en_US": [
+                "If you have a Gym Badge from Mistralton,\n",
+                "I'll tell you something cool!"
+            ]
+        },
+        {
+            "id": "a003_115_0006",
+            "en_US": [
+                "Wow! A Jet Badge! You won against Skyla!\n",
+                "OK, I'll tell you something cool!{VAR BE01}\n",
+                "We left our treasure at the edge of\n",
+                "the runway!"
+            ]
+        },
+        {
+            "id": "a003_115_0007",
+            "en_US": [
+                "Please use our Technical Machine\n",
+                "with extra care!"
+            ]
+        }
+    ]
+}

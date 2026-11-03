@@ -1,0 +1,26 @@
+{
+    "flags": 224,
+    "pad": "5454",
+    "messages": [
+        {
+            "id": "a003_244_0000",
+            "en_US": [
+                "It makes me feel better knowing\n",
+                "there's a strong Trainer like you!{VAR BE01}\n",
+                "Would you like me to help\n",
+                "by healing your Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_244_0001",
+            "en_US": "Please stop Team Plasma's tyranny!"
+        },
+        {
+            "id": "a003_244_0002",
+            "en_US": [
+                "When your Pokémon are hurt in\n",
+                "battle, let me know!"
+            ]
+        }
+    ]
+}

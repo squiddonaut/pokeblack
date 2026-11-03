@@ -1,0 +1,165 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_374_0000",
+            "en_US": [
+                "Skyla: Oh, you came. Thank you!{VAR BE01}\n",
+                "I was right.\n",
+                "What I saw was a hurt Pokémon.{VAR BE01}\n",
+                "Don't worry, though!\n",
+                "It's fine now!{VAR BE01}\n",
+                "I gave it a Max Revive,\n",
+                "then it felt better and flew away!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0001",
+            "en_US": [
+                "Hee hee!\n",
+                "Don't I have great eyesight?{VAR BE01}\n",
+                "No matter how far away things are,\n",
+                "a Pilot's eyes can see them!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0002",
+            "en_US": [
+                "Oh, that's right! Since you've come\n",
+                "this far, why don't you ring the bell?{VAR BE01}\n",
+                "Celestial Tower's bell is for soothing\n",
+                "the spirits of Pokémon.{VAR BE01}\n",
+                "Also, the character of the person ringing\n",
+                "the bell is reflected in its sound.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0003",
+            "en_US": "Skyla: Come on, don't be shy!"
+        },
+        {
+            "id": "a003_374_0004",
+            "en_US": [
+                "What a pretty sound.{VAR BE01}\n",
+                "{VAR 0100 0000}, you are\n",
+                "a kind and strong person.{VAR BE00}\n",
+                "It's that kind of sound.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0005",
+            "en_US": [
+                "What a pretty sound.{VAR BE01}\n",
+                "{VAR 0100 0000}, you are\n",
+                "a kind and strong person.{VAR BE00}\n",
+                "It's that kind of sound.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0006",
+            "en_US": [
+                "I'd like to introduce myself again!{VAR BE01}\n",
+                "I'm Skyla, the Leader of\n",
+                "Mistralton's Pokémon Gym.{VAR BE00}\n",
+                "I use Flying-type Pokémon.{VAR BE01}\n",
+                "When you are ready, please\n",
+                "come to the Gym.{VAR BE00}\n",
+                "I'll give you a big welcome!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0007",
+            "en_US": [
+                "It's the Celestial Tower bell...\n",
+                "Will you ring the bell?"
+            ]
+        },
+        {
+            "id": "a003_374_0008",
+            "en_US": "{VAR 0100 0000} rang the bell..."
+        },
+        {
+            "id": "a003_374_0009",
+            "en_US": [
+                "The sound of the bell\n",
+                "reverberates through the area..."
+            ]
+        },
+        {
+            "id": "a003_374_0010",
+            "en_US": [
+                "The sound of the bell\n",
+                "reverberates through the area...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0011",
+            "en_US": "The bell was left untouched..."
+        },
+        {
+            "id": "a003_374_0012",
+            "en_US": "Alder: ...{VAR BE01}"
+        },
+        {
+            "id": "a003_374_0013",
+            "en_US": [
+                "My old partner is resting\n",
+                "here in the Celestial Tower.{VAR BE01}\n",
+                "It was the first Pokémon\n",
+                "I received when I became a Trainer.{VAR BE01}\n",
+                "I come here to ring the bell\n",
+                "and comfort its spirit.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0014",
+            "en_US": [
+                "It was a strong Pokémon.\n",
+                "It was courageous, noble, and kind...{VAR BE01}\n",
+                "Together, we madly pursued strength...\n",
+                "Without even knowing the meaning{VAR BE00}\n",
+                "of strength.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0015",
+            "en_US": [
+                "But, in the same way that all stories\n",
+                "have a beginning and an end,{VAR BE00}\n",
+                "all lives have an end, as well...{VAR BE01}\n",
+                "It was then that I understood that\n",
+                "strength isn't something that{VAR BE00}\n",
+                "remains unchanged forever.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0016",
+            "en_US": [
+                "However, the joy one feels in being with\n",
+                "Pokémon--that is the real thing.{VAR BE01}\n",
+                "In order to spread the word, I left\n",
+                "the Pokémon League and kept traveling...{VAR BE01}\n",
+                "That's right! Traveling is wonderful.{VAR BE01}\n",
+                "I've met many different Pokémon,\n",
+                "many different Trainers,{VAR BE00}\n",
+                "and now I've met all of you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0017",
+            "en_US": [
+                "There are many more Trainers and\n",
+                "Pokémon to encounter in the world!{VAR BE01}\n",
+                "{VAR 0100 0000}! Go out and meet\n",
+                "as many of them as you can!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_374_0018",
+            "en_US": [
+                "Well, {VAR 0100 0000}, I'll be waiting\n",
+                "for you at the Pokémon League!{VAR BE01}"
+            ]
+        }
+    ]
+}

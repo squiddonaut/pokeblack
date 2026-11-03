@@ -1,0 +1,336 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_461_0000",
+            "en_US": [
+                "I will judge your battles in a\n",
+                "Battle Test!{VAR BE01}\n",
+                "What would you like to do?"
+            ]
+        },
+        {
+            "id": "a003_461_0001",
+            "en_US": [
+                "The master returns! Would you like to\n",
+                "challenge a Battle Test?"
+            ]
+        },
+        {
+            "id": "a003_461_0002",
+            "en_US": [
+                "I am sorry...{VAR BE01}\n",
+                "It may be too early for you to challenge\n",
+                "a Battle Test.{VAR BE01}\n",
+                "Please come back after you finish\n",
+                "your journey and build your strength."
+            ]
+        },
+        {
+            "id": "a003_461_0003",
+            "en_US": "See you again."
+        },
+        {
+            "id": "a003_461_0004",
+            "en_US": [
+                "Which challenge would you like,\n",
+                "Single or Double?"
+            ]
+        },
+        {
+            "id": "a003_461_0005",
+            "en_US": [
+                "Then, let's begin.{VAR BE01}\n",
+                "Please bear in mind that once you start\n",
+                "the challenge, you will face five battles{VAR BE00}\n",
+                "without a break.{VAR BE01}\n",
+                "Now, please choose the Pokémon you would\n",
+                "like to battle with.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0006",
+            "en_US": [
+                "Saving...\n",
+                "Don't turn off the power."
+            ]
+        },
+        {
+            "id": "a003_461_0007",
+            "en_US": [
+                "Now, the Battle Test begins!\n",
+                "Please go inside!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0008",
+            "en_US": [
+                "All right.{VAR BE01}\n",
+                "I will tell you the result of your\n",
+                "Battle Test.{VAR BE01}\n",
+                "The test result is...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0009",
+            "en_US": [
+                "Master Rank! Wonderful!\n",
+                "Please let me be your apprentice."
+            ]
+        },
+        {
+            "id": "a003_461_0010",
+            "en_US": [
+                "The result is Elite Rank!\n",
+                "That's something you can brag about!"
+            ]
+        },
+        {
+            "id": "a003_461_0011",
+            "en_US": [
+                "The result is Hyper Rank!\n",
+                "You must be doing a lot of practice."
+            ]
+        },
+        {
+            "id": "a003_461_0012",
+            "en_US": [
+                "The result is Super Rank.\n",
+                "You are quite strong."
+            ]
+        },
+        {
+            "id": "a003_461_0013",
+            "en_US": [
+                "The result is Normal Rank.\n",
+                "Your strength is average."
+            ]
+        },
+        {
+            "id": "a003_461_0014",
+            "en_US": [
+                "The result is Novice Rank.\n",
+                "You could try a little bit harder."
+            ]
+        },
+        {
+            "id": "a003_461_0015",
+            "en_US": [
+                "The result is Beginner Rank.\n",
+                "Maybe you should learn the basics first."
+            ]
+        },
+        {
+            "id": "a003_461_0016",
+            "en_US": [
+                "I've been waiting for you!{VAR BE01}\n",
+                "Would you like to challenge\n",
+                "the downloaded Single Battle Test?"
+            ]
+        },
+        {
+            "id": "a003_461_0017",
+            "en_US": [
+                "Would you like to download\n",
+                "a special Battle Test?"
+            ]
+        },
+        {
+            "id": "a003_461_0018",
+            "en_US": [
+                "Hmm... I don't see anything\n",
+                "to download...{VAR BE01}\n",
+                "What would you like to do?"
+            ]
+        },
+        {
+            "id": "a003_461_0019",
+            "en_US": [
+                "I downloaded a special\n",
+                "Single Battle Test!{VAR BE01}\n",
+                "You only have one chance to challenge,\n",
+                "so please battle until the end{VAR BE00}\n",
+                "without turning off the power.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0020",
+            "en_US": [
+                "I downloaded a special \n",
+                "Double Battle Test!{VAR BE01}\n",
+                "You only have one chance to challenge,\n",
+                "so please battle until the end{VAR BE00}\n",
+                "without turning off the power.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0021",
+            "en_US": "Would you like to challenge right away?"
+        },
+        {
+            "id": "a003_461_0022",
+            "en_US": [
+                "OK. See you later.\n",
+                "I've been waiting for you!"
+            ]
+        },
+        {
+            "id": "a003_461_0023",
+            "en_US": [
+                "You will take a Battle Test using\n",
+                "three Pokémon for Single Battles{VAR BE00}\n",
+                "and four Pokémon for Double Battles.{VAR BE01}\n",
+                "You may not use duplicate Pokémon or\n",
+                "held items.{VAR BE01}\n",
+                "For these battles, all Pokémon will be\n",
+                "set to Lv. 50.{VAR BE01}\n",
+                "You will battle against five Trainers in a\n",
+                "row, and I will be your judge.{VAR BE01}\n",
+                "What would you like to do?"
+            ]
+        },
+        {
+            "id": "a003_461_0024",
+            "en_US": [
+                "You will be facing opponent No. {VAR 0200 0000}.\n",
+                "Good luck!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_461_0025",
+            "en_US": [
+                "I've been waiting for you.{VAR BE01}\n",
+                "Would you like to challenge\n",
+                "the downloaded Double Battle Test?"
+            ]
+        },
+        {
+            "id": "a003_461_0026",
+            "en_US": [
+                "You seem to have taken all of the\n",
+                "current Battle Tests already.{VAR BE01}\n",
+                "What would you like to do?"
+            ]
+        },
+        {
+            "id": "a003_461_0027",
+            "en_US": "There is no test result to display now."
+        },
+        {
+            "id": "a003_461_0028",
+            "en_US": "Which test result would you like to see?"
+        },
+        {
+            "id": "a003_461_0029",
+            "en_US": [
+                "Communicating... Don't turn off the\n",
+                "power. Press the B Button to cancel."
+            ],
+            "flags": 216
+        },
+        {
+            "id": "a003_461_0030",
+            "en_US": "Challenge",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0031",
+            "en_US": "Info",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0032",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0033",
+            "en_US": "Single",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0034",
+            "en_US": "Double",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0035",
+            "en_US": "Download",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0036",
+            "en_US": "Normal",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0037",
+            "en_US": "Special",
+            "flags": 219
+        },
+        {
+            "id": "a003_461_0038",
+            "en_US": "SINGLE BATTLE",
+            "flags": 84
+        },
+        {
+            "id": "a003_461_0039",
+            "en_US": "DOUBLE BATTLE",
+            "flags": 84
+        },
+        {
+            "id": "a003_461_0040",
+            "en_US": "TEST RESULT",
+            "flags": 92
+        },
+        {
+            "id": "a003_461_0041",
+            "en_US": "POINTS",
+            "flags": 68
+        },
+        {
+            "id": "a003_461_0042",
+            "en_US": "{VAR 0203 0000}",
+            "flags": 24
+        },
+        {
+            "id": "a003_461_0043",
+            "en_US": "BEGINNER RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0044",
+            "en_US": "NOVICE RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0045",
+            "en_US": "NORMAL RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0046",
+            "en_US": "SUPER RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0047",
+            "en_US": "HYPER RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0048",
+            "en_US": "ELITE RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0049",
+            "en_US": "MASTER RANK",
+            "flags": 192
+        },
+        {
+            "id": "a003_461_0050",
+            "en_US": "The download was canceled."
+        }
+    ]
+}

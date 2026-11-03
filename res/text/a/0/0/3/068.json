@@ -1,0 +1,214 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_068_0000",
+            "en_US": [
+                "Did the fantastic speed leave you dizzy?{VAR BE01}\n",
+                "My beloved Pokémon will be the next one\n",
+                "to make your head spin!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0001",
+            "en_US": [
+                "My, oh my...\n",
+                "You have a sweet fighting style.{VAR BE01}\n",
+                "I mean, you're a great Trainer!\n",
+                "Excuse me, I...uh... Oh, here!{VAR BE00}\n",
+                "I want you to have this!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0002",
+            "en_US": [
+                "{VAR 0100 0000} received the\n",
+                "Bolt Badge from Elesa!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0003",
+            "en_US": [
+                "If you have four Badges, including this\n",
+                "Bolt Badge, Pokémon up to Lv. 50,{VAR BE00}\n",
+                "including traded Pokémon, will obey you.{VAR BE01}\n",
+                "Also, here's this move I like.\n",
+                "Feel free to use it, um, if you want to.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0004",
+            "en_US": [
+                "Volt Switch lets the Pokémon switch with\n",
+                "a different Pokémon after attacking.{VAR BE01}\n",
+                "Of course, if you don't have another\n",
+                "Pokémon in your party, you can't switch.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0005",
+            "en_US": [
+                "You're going to Driftveil City next?{VAR BE01}\n",
+                "Of course. There is a Pokémon Gym there,\n",
+                "after all. Oh...{VAR BE01}\n",
+                "I bet you won't be able to get there.\n",
+                "You know what?{VAR BE01}\n",
+                "I'll fix it so you can cross.\n",
+                "Wait for me on Route 5."
+            ]
+        },
+        {
+            "id": "a003_068_0006",
+            "en_US": [
+                "What you'd like to do...\n",
+                "What your Pokémon would like to do...{VAR BE01}\n",
+                "Don't you think it could be amazing\n",
+                "if those are aligned?"
+            ]
+        },
+        {
+            "id": "a003_068_0007",
+            "en_US": [
+                "Elesa: I think the real me is the one who\n",
+                "battles with Pokémon as a Gym Leader.{VAR BE01}\n",
+                "A model's job is to make someone else's\n",
+                "vision look like a reality.{VAR BE00}\n",
+                "It's interesting, but it's not easy..."
+            ]
+        },
+        {
+            "id": "a003_068_0008",
+            "en_US": "Are you cool riding a roller coaster?{VAR BE01}"
+        },
+        {
+            "id": "a003_068_0009",
+            "en_US": [
+                "When you ride a roller coaster, the\n",
+                "speed can make you dizzy.{VAR BE01}\n",
+                "I'm going to make your head spin with\n",
+                "a Pokémon battle that's just as intense!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0010",
+            "en_US": [
+                "Your way of battling...\n",
+                "It's elegant! You've got style!{VAR BE00}\n",
+                "Even compared to Ms. Elesa!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0011",
+            "en_US": [
+                "If you press the switches, the\n",
+                "roller coaster's path will change."
+            ]
+        },
+        {
+            "id": "a003_068_0012",
+            "en_US": [
+                "Your Nimbasa Gym challenge is finally\n",
+                "nearing its finale.{VAR BE01}\n",
+                "But if you don't beat me,\n",
+                "you won't get to meet Ms. Elesa.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0013",
+            "en_US": [
+                "I'm also a Pokémon Trainer who was\n",
+                "toughened up by Ms. Elesa.{VAR BE01}\n",
+                "I'll show you power and style befitting\n",
+                "this Gym.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0014",
+            "en_US": [
+                "It pleases me to be the opponent of a\n",
+                "strong and honorable Trainer like you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0015",
+            "en_US": [
+                "If you maintain your calm and don't get\n",
+                "flustered by this Gym's gimmicks,{VAR BE00}\n",
+                "you'll be able to defeat Ms. Elesa...{VAR BE00}\n",
+                "and any other Trainer, as well!"
+            ]
+        },
+        {
+            "id": "a003_068_0016",
+            "en_US": [
+                "{VAR 0100 0000} pressed the switch.{VAR BE01}\n",
+                "The roller coaster's path\n",
+                "has been changed!"
+            ]
+        },
+        {
+            "id": "a003_068_0017",
+            "en_US": [
+                "How about it? I can see you're surprised!{VAR BE01}\n",
+                "Would you ever have guessed that\n",
+                "this Gym is a roller coaster?{VAR BE01}\n",
+                "OK, let me fill you in...\n",
+                "And take this, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_068_0018",
+            "en_US": [
+                "In this roller coaster Gym, the first\n",
+                "step is to get in the car.{VAR BE01}\n",
+                "Next comes the platform!\n",
+                "There, you can change{VAR BE00}\n",
+                "where the coaster is going!{VAR BE01}\n",
+                "Sometimes you continue by riding\n",
+                "the cars of opponents you defeat.{VAR BE00}\n",
+                "That's how you aim for the Gym Leader!{VAR BE01}\n",
+                "By the way, Electric-type Pokémon don't\n",
+                "do well against Ground-type moves..."
+            ]
+        },
+        {
+            "id": "a003_068_0019",
+            "en_US": [
+                "Elesa uses sparkling bright\n",
+                "Electric-type attacks!{VAR BE01}\n",
+                "But the combination of you and your\n",
+                "Pokémon was even more impressive!{VAR BE01}\n",
+                "It was... It was...\n",
+                "an emotional roller coaster!"
+            ]
+        },
+        {
+            "id": "a003_068_0020",
+            "en_US": [
+                "Nimbasa Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Elesa\n",
+                "Certified Trainers:"
+            ]
+        },
+        {
+            "id": "a003_068_0021",
+            "en_US": [
+                "Nimbasa Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Elesa\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}"
+            ]
+        },
+        {
+            "id": "a003_068_0022",
+            "en_US": [
+                "Nimbasa Pokémon Gym{VAR BE01}\n",
+                "Gym Leader: Elesa\n",
+                "Certified Trainers:{VAR BE00}\n",
+                "{VAR 0100 0000}{VAR BE00}\n",
+                "Cheren{VAR BE00}\n",
+                "Bianca"
+            ]
+        }
+    ]
+}

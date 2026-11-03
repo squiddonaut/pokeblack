@@ -1,0 +1,30 @@
+{
+    "name": "Twineedle",
+    "description": [
+        "The user damages the target twice in\n",
+        "succession by jabbing it with two spikes.\n",
+        "It may also poison the target."
+    ],
+    "type": "TYPE_BUG",
+    "category": "MOVE_CATEGORY_DAMAGE_AND_STATUS",
+    "class": "CLASS_PHYSICAL",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "minHits": 2,
+    "maxHits": 2,
+    "status": "MOVE_STATUS_POISON",
+    "statusChance": 20,
+    "effectDuration": "MOVE_DURATION_INDEFINITE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 77,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

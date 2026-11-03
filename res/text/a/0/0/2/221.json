@@ -1,0 +1,58 @@
+{
+    "flags": 192,
+    "pad": "c4c4",
+    "messages": [
+        {
+            "id": "a002_221_0000",
+            "en_US": "None"
+        },
+        {
+            "id": "a002_221_0001",
+            "en_US": "East of England"
+        },
+        {
+            "id": "a002_221_0002",
+            "en_US": "East Midlands"
+        },
+        {
+            "id": "a002_221_0003",
+            "en_US": "Greater London"
+        },
+        {
+            "id": "a002_221_0004",
+            "en_US": "North East England"
+        },
+        {
+            "id": "a002_221_0005",
+            "en_US": "North West England"
+        },
+        {
+            "id": "a002_221_0006",
+            "en_US": "Northern Ireland"
+        },
+        {
+            "id": "a002_221_0007",
+            "en_US": "Scotland"
+        },
+        {
+            "id": "a002_221_0008",
+            "en_US": "South East England"
+        },
+        {
+            "id": "a002_221_0009",
+            "en_US": "South West England"
+        },
+        {
+            "id": "a002_221_0010",
+            "en_US": "Wales"
+        },
+        {
+            "id": "a002_221_0011",
+            "en_US": "West Midlands"
+        },
+        {
+            "id": "a002_221_0012",
+            "en_US": "Yorkshire and the Humber"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Overheat",
+    "description": [
+        "The user attacks the target at full power.\n",
+        "The attack's recoil harshly reduces the\n",
+        "user's Sp. Atk stat."
+    ],
+    "type": "TYPE_FIRE",
+    "category": "MOVE_CATEGORY_DAMAGE_AND_STAT_CHANGE_SELF",
+    "class": "CLASS_SPECIAL",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 204,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [["STAT_SP_ATTACK", -2, 100]],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

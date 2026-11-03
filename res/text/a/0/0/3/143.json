@@ -1,0 +1,13 @@
+{
+    "flags": 224,
+    "pad": "0c0c",
+    "messages": [
+        {
+            "id": "a003_143_0000",
+            "en_US": [
+                "Nothing happens!\n",
+                "It seems you can't go back until you win."
+            ]
+        }
+    ]
+}

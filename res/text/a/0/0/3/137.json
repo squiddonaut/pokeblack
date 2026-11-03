@@ -1,0 +1,54 @@
+{
+    "flags": 224,
+    "pad": "6464",
+    "messages": [
+        {
+            "id": "a003_137_0000",
+            "en_US": [
+                "This way leads to Victory Road.{VAR BE01}\n",
+                "But if you don't have eight Badges,\n",
+                "you cannot reach the end."
+            ]
+        },
+        {
+            "id": "a003_137_0001",
+            "en_US": [
+                "Hi, Trainer!\n",
+                "Do you have a minute?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_137_0002",
+            "en_US": [
+                "I just heard this on the Xtransceiver.\n",
+                "There's a big storm on Route 7!{VAR BE01}\n",
+                "And the storm seems to be different from\n",
+                "a natural phenomenon!{VAR BE01}\n",
+                "So strange!"
+            ]
+        },
+        {
+            "id": "a003_137_0003",
+            "en_US": [
+                "I heard the storm on Route 7 was caused\n",
+                "by a Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_137_0004",
+            "en_US": [
+                "The trembling before the Pokémon League\n",
+                "is a tremor of excitement!"
+            ]
+        },
+        {
+            "id": "a003_137_0005",
+            "en_US": [
+                "Victory Road stands in the way of a\n",
+                "challenge to the Pokémon League.{VAR BE01}\n",
+                "You need to have serious skills\n",
+                "to get through it."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_049_0000",
+            "en_US": [
+                "People who work in this building have\n",
+                "Pokémon battles, not opinion battles.{VAR BE01}\n",
+                "You appear to be strong, but if you go\n",
+                "upstairs, please be extra careful.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_049_0001",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_049_0002",
+            "en_US": [
+                "Welcome!{VAR BE01}\n",
+                "If you use the elevator, please use the\n",
+                "buttons on the door or next to the door."
+            ]
+        },
+        {
+            "id": "a003_049_0003",
+            "en_US": [
+                "Every morning, my Pokémon wakes me\n",
+                "with Wake-Up Slap, so I always look like{VAR BE00}\n",
+                "a wreck.{VAR BE01}\n",
+                "But I appreciate its good intentions, so\n",
+                "I'll work my hardest to provide for it{VAR BE00}\n",
+                "today, as always."
+            ]
+        },
+        {
+            "id": "a003_049_0004",
+            "en_US": [
+                "This is Battle Company.\n",
+                "Research and Development of Items!"
+            ]
+        },
+        {
+            "id": "a003_049_0005",
+            "en_US": [
+                "Burgh's signature is scrawled in the\n",
+                "corner of the painting."
+            ]
+        }
+    ]
+}

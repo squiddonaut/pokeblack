@@ -1,0 +1,30 @@
+{
+    "name": "Double Hit",
+    "description": [
+        "The user slams the target with a long tail,\n",
+        "vines, or tentacle.\n",
+        "The target is hit twice in a row."
+    ],
+    "type": "TYPE_NORMAL",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_PHYSICAL",
+    "power": 35,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "minHits": 2,
+    "maxHits": 2,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 44,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_MAKES_CONTACT", "MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Icicle Spear",
+    "description": [
+        "The user launches sharp icicles at the\n",
+        "target. It strikes two to five times in\n",
+        "a row."
+    ],
+    "type": "TYPE_ICE",
+    "category": "MOVE_CATEGORY_DAMAGE",
+    "class": "CLASS_PHYSICAL",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "minHits": 2,
+    "maxHits": 5,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 29,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_SINGLE_TARGET",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_AFFECTED_BY_PROTECT", "MOVE_FLAG_CALLABLE_BY_MIRROR_MOVE"]
+}

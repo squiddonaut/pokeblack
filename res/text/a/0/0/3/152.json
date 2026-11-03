@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "9898",
+    "messages": [
+        {
+            "id": "a003_152_0000",
+            "en_US": "Return to Castelia City?"
+        },
+        {
+            "id": "a003_152_0001",
+            "en_US": "Well then, please board the ship!{VAR BE01}"
+        },
+        {
+            "id": "a003_152_0002",
+            "en_US": [
+                "Please board the ship\n",
+                "at your convenience."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+{
+    "flags": 224,
+    "pad": "b8b8",
+    "messages": [
+        {
+            "id": "a003_436_0000",
+            "en_US": [
+                "Professor Juniper: Ah, {VAR 0100 0000}!\n",
+                "There you are!{VAR BE01}\n",
+                "Traveling with your Pokémon is truly one\n",
+                "of the joys of being a Trainer!{VAR BE01}\n",
+                "Please follow me.{VAR BE01}\n",
+                "I'd like to show you the most important\n",
+                "place for a Trainer to know!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0001",
+            "en_US": [
+                "Please listen, everyone.{VAR BE01}\n",
+                "We have something important to talk\n",
+                "to you about. Wait here for a moment."
+            ]
+        },
+        {
+            "id": "a003_436_0002",
+            "en_US": [
+                "Please excuse me...\n",
+                "We are still preparing.{VAR BE01}\n",
+                "If you could continue to be patient..."
+            ]
+        },
+        {
+            "id": "a003_436_0003",
+            "en_US": [
+                "Please excuse me...\n",
+                "We are still preparing.{VAR BE01}\n",
+                "If you could continue to be patient...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0004",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_436_0005",
+            "en_US": [
+                "Cheren: Wasn't that the professor\n",
+                "waiting in front of the Pokémon Center?{VAR BE01}\n",
+                "I know about the Pokémon Center\n",
+                "already. Anyway, I want to battle soon!{VAR BE01}\n",
+                "Real battles are the best way to become\n",
+                "stronger, you know!"
+            ]
+        },
+        {
+            "id": "a003_436_0006",
+            "en_US": [
+                "Sounds like something's going\n",
+                "on in the plaza!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0007",
+            "en_US": "Well, let's have a little look-see.{VAR BE01}"
+        },
+        {
+            "id": "a003_436_0008",
+            "en_US": "Cheren: {VAR 0100 0000}, come here a sec.{VAR BE01}"
+        },
+        {
+            "id": "a003_436_0009",
+            "en_US": [
+                "My name is Ghetsis.{VAR BE01}\n",
+                "I am here representing Team Plasma.{VAR BE01}\n",
+                "Today, ladies and gentlemen, I would like\n",
+                "to talk to you about Pokémon liberation."
+            ]
+        },
+        {
+            "id": "a003_436_0010",
+            "en_US": "Huh?",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0011",
+            "en_US": "What?",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0012",
+            "en_US": [
+                "Ghetsis: I'm sure most of you believe\n",
+                "that we humans and Pokémon are partners{VAR BE00}\n",
+                "that have come to live together because{VAR BE00}\n",
+                "we want and need each other.{VAR BE01}\n",
+                "However...\n",
+                "Is that really the truth?{VAR BE01}\n",
+                "Have you ever considered that perhaps\n",
+                "we humans...{VAR BE00}\n",
+                "only assume that this is the truth?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0013",
+            "en_US": [
+                "Pokémon are subject to the selfish\n",
+                "commands of Trainers...{VAR BE01}\n",
+                "They get pushed around when they are\n",
+                "our “partners\" at work...{VAR BE01}\n",
+                "Can anyone say with confidence that\n",
+                "there is no truth in what I'm saying?"
+            ]
+        },
+        {
+            "id": "a003_436_0014",
+            "en_US": "Yikes!",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0015",
+            "en_US": "No way.",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0016",
+            "en_US": "I don't know...",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0017",
+            "en_US": [
+                "Ghetsis: Now, ladies and gentlemen,\n",
+                "Pokémon are different from humans.{VAR BE01}\n",
+                "They are living beings that contain\n",
+                "unknown potential.{VAR BE01}\n",
+                "They are living beings from whom we\n",
+                "humans have much to learn.{VAR BE01}\n",
+                "Tell me, what is our responsibility toward\n",
+                "these wonderful beings called Pokémon?"
+            ]
+        },
+        {
+            "id": "a003_436_0018",
+            "en_US": "What could it be?",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0019",
+            "en_US": "Liberation?",
+            "flags": 126
+        },
+        {
+            "id": "a003_436_0020",
+            "en_US": [
+                "Ghetsis: That's right!\n",
+                "We must liberate the Pokémon!{VAR BE01}\n",
+                "Then, and only then, will humans\n",
+                "and Pokémon truly be equals.{VAR BE01}\n",
+                "Everyone, I end my words here today by\n",
+                "imploring you to consider the relationship{VAR BE00}\n",
+                "between people and Pokémon...{VAR BE00}\n",
+                "and the correct way to proceed.{VAR BE01}\n",
+                "We sincerely appreciate your attention.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0021",
+            "en_US": [
+                "Older Man: About that speech...\n",
+                "What do you think we should do?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0022",
+            "en_US": [
+                "Younger Man: Liberate Pokémon?\n",
+                "That's not even possible!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0023",
+            "en_US": [
+                "???: {VAR BE09 0001}Your Pokémon...{VAR BE01}\n",
+                "Just now, it was saying...{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0024",
+            "en_US": [
+                "Cheren: Slow down. You talk too fast.{VAR BE01}\n",
+                "And what's this about Pokémon...talking?\n",
+                "That's an odd thing to say.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0025",
+            "en_US": [
+                "???: {VAR BE09 0001}Yes, they're talking.{VAR BE01}\n",
+                "Oh.\n",
+                "Then, you two can't hear it, either...{VAR BE00}\n",
+                "How sad.{VAR BE01}\n",
+                "My name is N.{VAR BE09 0001}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0026",
+            "en_US": [
+                "Cheren: My name is Cheren,\n",
+                "and this is {VAR 0100 0000}.{VAR BE01}\n",
+                "We were asked to complete the Pokédex,\n",
+                "and we just left on our journey.{VAR BE01}\n",
+                "My main goal is to become the\n",
+                "Champion, though.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0027",
+            "en_US": [
+                "N: {VAR BE09 0001}The Pokédex, eh?{VAR BE01}\n",
+                "So... You're going to confine many, many\n",
+                "Pokémon in Poké Balls for that, then.{VAR BE01}\n",
+                "I'm a Trainer, too,\n",
+                "but I can't help wondering...{VAR BE01}\n",
+                "Are Pokémon really happy that way?{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0028",
+            "en_US": [
+                "{VAR BE09 0001}Well, {VAR 0100 0000}, is it?\n",
+                "Let me hear your Pokémon's voice again!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0029",
+            "en_US": [
+                "N: {VAR BE09 0001}As long as Pokémon are confined\n",
+                "in Poké Balls...{VAR BE01}\n",
+                "Pokémon will never become\n",
+                "perfect beings.{VAR BE01}\n",
+                "I have to change the world for\n",
+                "Pokémon, because they're my friends.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0030",
+            "en_US": [
+                "Cheren: Huh... Strange guy.{VAR BE01}\n",
+                "But I'm not going to worry about it.{VAR BE01}\n",
+                "Trainers and Pokémon help\n",
+                "each other out!{VAR BE01}\n",
+                "Listen, I'm going on ahead.{VAR BE01}\n",
+                "I want to battle the Gym Leader\n",
+                "in the next town--Striaton City.{VAR BE01}\n",
+                "Aim to battle Gym Leader after\n",
+                "Gym Leader. The best way for a Trainer{VAR BE00}\n",
+                "to become stronger is to challenge{VAR BE00}\n",
+                "the Gym Leaders in each area.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_436_0031",
+            "en_US": [
+                "What's this?{VAR BE01}\n",
+                "You and your Pokémon\n",
+                "somehow resemble each other!"
+            ]
+        },
+        {
+            "id": "a003_436_0032",
+            "en_US": [
+                "Let me give you the benefit of\n",
+                "my experience.{VAR BE01}\n",
+                "You listening? The number of Pokémon\n",
+                "you can take with you at one time is six!"
+            ]
+        },
+        {
+            "id": "a003_436_0033",
+            "en_US": [
+                "Pokémon do everything in\n",
+                "their power for people.{VAR BE01}\n",
+                "People treat these Pokémon\n",
+                "with love and affection.{VAR BE01}\n",
+                "That's what I think our\n",
+                "mutual relationship is."
+            ]
+        },
+        {
+            "id": "a003_436_0034",
+            "en_US": [
+                "Beautiful scenery and relaxing sounds...{VAR BE01}\n",
+                "Oh, man. I sure do loooove this place.\n",
+                "Sure makes me feel happy."
+            ]
+        },
+        {
+            "id": "a003_436_0035",
+            "en_US": [
+                "Some wild Pokémon jump out of the\n",
+                "tall grass and attack...{VAR BE01}\n",
+                "But you can make friends with those\n",
+                "Pokémon if you reach out to them!"
+            ]
+        },
+        {
+            "id": "a003_436_0036",
+            "en_US": [
+                "Accumula Town\n",
+                "The Fast-Growing Town!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_436_0037",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

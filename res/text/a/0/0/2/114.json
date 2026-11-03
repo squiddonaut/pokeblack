@@ -1,0 +1,106 @@
+{
+    "flags": 0,
+    "pad": "4444",
+    "messages": [
+        {
+            "id": "a002_114_0000",
+            "en_US": "OBLIVIOUS"
+        },
+        {
+            "id": "a002_114_0001",
+            "en_US": "OCTAZOOKA"
+        },
+        {
+            "id": "a002_114_0002",
+            "en_US": "OCTILLERY"
+        },
+        {
+            "id": "a002_114_0003",
+            "en_US": "ODDISH"
+        },
+        {
+            "id": "a002_114_0004",
+            "en_US": "ODORSLEUTH"
+        },
+        {
+            "id": "a002_114_0005",
+            "en_US": "OHDEAR"
+        },
+        {
+            "id": "a002_114_0006",
+            "en_US": "OHMY"
+        },
+        {
+            "id": "a002_114_0007",
+            "en_US": "OHWELL"
+        },
+        {
+            "id": "a002_114_0008",
+            "en_US": "OHWOW"
+        },
+        {
+            "id": "a002_114_0009",
+            "en_US": "OHYEAH"
+        },
+        {
+            "id": "a002_114_0010",
+            "en_US": "OK"
+        },
+        {
+            "id": "a002_114_0011",
+            "en_US": "OKTHEN"
+        },
+        {
+            "id": "a002_114_0012",
+            "en_US": "OLDMAN"
+        },
+        {
+            "id": "a002_114_0013",
+            "en_US": "OMANYTE"
+        },
+        {
+            "id": "a002_114_0014",
+            "en_US": "OMASTAR"
+        },
+        {
+            "id": "a002_114_0015",
+            "en_US": "OMINOUSWIND"
+        },
+        {
+            "id": "a002_114_0016",
+            "en_US": "ONIX"
+        },
+        {
+            "id": "a002_114_0017",
+            "en_US": "OOPS"
+        },
+        {
+            "id": "a002_114_0018",
+            "en_US": "OPPONENT"
+        },
+        {
+            "id": "a002_114_0019",
+            "en_US": "OSHAWOTT"
+        },
+        {
+            "id": "a002_114_0020",
+            "en_US": "OUTRAGE"
+        },
+        {
+            "id": "a002_114_0021",
+            "en_US": "OVERCOAT"
+        },
+        {
+            "id": "a002_114_0022",
+            "en_US": "OVERGROW"
+        },
+        {
+            "id": "a002_114_0023",
+            "en_US": "OVERHEAT"
+        },
+        {
+            "id": "a002_114_0024",
+            "en_US": "OWNTEMPO"
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "flags": 224,
+    "pad": "1818",
+    "messages": [
+        {
+            "id": "a003_122_0000",
+            "en_US": [
+                "Wye: Hi!\n",
+                "This way, pleeeeease!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0001",
+            "en_US": [
+                "Wye: Exciting! Thrilling! Zippy! Chilling!\n",
+                "It's “Pep Quiz\"!{VAR BE01}\n",
+                "Today's challenger is--this person!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0002",
+            "en_US": [
+                "Aha: Hiya, welcome!{VAR BE01}\n",
+                "“Pep Quiz\" starts NOW!{VAR BE01}\n",
+                "Answer lots of quizzy questions,\n",
+                "and watch your brain get brainier!{VAR BE01}\n",
+                "Let's start...with...a question!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0003",
+            "en_US": "Ditoh: Good luck!{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0004",
+            "en_US": "Aha: A question!{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0005",
+            "en_US": [
+                "Wye: Oh, my! It's tremendously difficult!\n",
+                "Can the challenger answer this?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0006",
+            "en_US": "Ditoh: H-i-n-t! H-i-n-t!{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0007",
+            "en_US": [
+                "Aha: Oh-oh. The audience\n",
+                "is asking for a hint!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0008",
+            "en_US": [
+                "Wye: OK.\n",
+                "I'll give you a hint!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0009",
+            "en_US": [
+                "Aha: Ha ha, this is a good hint!\n",
+                "Challenger, please answer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0010",
+            "en_US": [
+                "Aha: Woo-hoo!\n",
+                "That is c-o-r-r-e-c-t!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0011",
+            "en_US": "Wye: You go! Yeah, you do!{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0012",
+            "en_US": "Ditoh: Yeah! Yeah! Good hustle!{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0013",
+            "en_US": [
+                "Aha: Congratulations!{VAR BE01}\n",
+                "Now--THIS is a prize.\n",
+                "It's an Antidote!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0014",
+            "en_US": [
+                "Aha: Oh, no. Too bad!\n",
+                "That's not right, 'cause you are wrong!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0015",
+            "en_US": "Wye: Aww... Sadness...{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0016",
+            "en_US": [
+                "Ditoh: Good hustle!\n",
+                "Gustle! Gustle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0017",
+            "en_US": [
+                "Aha: Yeah, you gustle!{VAR BE01}\n",
+                "Here ya go... Take this memento.\n",
+                "It's a Parlyz Heal!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0018",
+            "en_US": [
+                "Wye: Exciting! Thrilling! Zippy! Chilling!\n",
+                "That's “Pep Quiz\"!{VAR BE01}\n",
+                "See ya tomorrow!"
+            ]
+        },
+        {
+            "id": "a003_122_0019",
+            "en_US": "Aha: Do you like quiz shows?"
+        },
+        {
+            "id": "a003_122_0020",
+            "en_US": "Wye: I want to be on TV soon!"
+        },
+        {
+            "id": "a003_122_0021",
+            "en_US": "Ditoh: Gussssssssstle!"
+        },
+        {
+            "id": "a003_122_0022",
+            "en_US": [
+                "What's the name of the mysterious\n",
+                "creatures that inhabit our world?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0023",
+            "en_US": [
+                "What do you say when someone does\n",
+                "a good job?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0024",
+            "en_US": "What is the opposite of analog?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0025",
+            "en_US": "What do you pay with when you shop?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0026",
+            "en_US": [
+                "How do you describe people who are\n",
+                "madly in love?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0027",
+            "en_US": "What do you call your father's brother?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0028",
+            "en_US": "Who helps you learn things at school?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0029",
+            "en_US": [
+                "Which one can a Pokémon hold,\n",
+                "Mail or Marill?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0030",
+            "en_US": "What is a vehicle you pedal?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0031",
+            "en_US": [
+                "What is a two-on-two\n",
+                "Pokémon battle called?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0032",
+            "en_US": [
+                "What is a tool you use\n",
+                "when you take pictures?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0033",
+            "en_US": "What do you take to get clean?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0034",
+            "en_US": "Where do you go to heal your Pokémon?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0035",
+            "en_US": [
+                "Which base stat goes up when Protein\n",
+                "is used?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0036",
+            "en_US": [
+                "What is the unevolved Pokémon that\n",
+                "changes its Form seasonally?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0037",
+            "en_US": [
+                "What is the Electrified Pokémon that\n",
+                "discharges electricity from its mane?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0038",
+            "en_US": "What is the Pokémon that has two gears?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0039",
+            "en_US": [
+                "What is the Sky Squirrel Pokémon\n",
+                "that has huge ears?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0040",
+            "en_US": "What is the Attaching Pokémon?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0041",
+            "en_US": "What is the Wild Pigeon Pokémon?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0042",
+            "en_US": [
+                "What is the Grass Monkey Pokémon\n",
+                "that grows a leaf from its head?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0043",
+            "en_US": [
+                "What is the Hearing Pokémon\n",
+                "that can hear very well?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0044",
+            "en_US": "What is the Coffin Pokémon?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0045",
+            "en_US": "What will Woobat be when it evolves?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0046",
+            "en_US": "What will Darumaka be when it evolves?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0047",
+            "en_US": [
+                "What is the Caring Pokémon that wraps\n",
+                "a weak Pokémon with its fins?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0048",
+            "en_US": "What is the Drowsing Pokémon?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0049",
+            "en_US": [
+                "What is the White Bird Pokémon\n",
+                "with beautiful wings?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0050",
+            "en_US": [
+                "What is the Trap Pokémon\n",
+                "that hides in the mud?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0051",
+            "en_US": [
+                "What is the move that lets you\n",
+                "cross water on a Pokémon's back?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0052",
+            "en_US": "What day is it today?{VAR BE01}"
+        },
+        {
+            "id": "a003_122_0053",
+            "en_US": [
+                "Hint!\n",
+                "It's not Kémons!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0054",
+            "en_US": [
+                "Hint! \n",
+                "Thoroughly cooked meat!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0055",
+            "en_US": [
+                "Hint! \n",
+                "It's not golana!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0056",
+            "en_US": [
+                "Hint!\n",
+                "It's inside your wallet!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0057",
+            "en_US": [
+                "Hint!\n",
+                "It starts with L!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0058",
+            "en_US": [
+                "Hint!\n",
+                "It's not big brother!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0059",
+            "en_US": [
+                "Hint!\n",
+                "It's a grown-up person!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0060",
+            "en_US": [
+                "Hint!\n",
+                "It's not Marill!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0061",
+            "en_US": [
+                "Hint!\n",
+                "It has two wheels!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0062",
+            "en_US": [
+                "Hint!\n",
+                "If it's a one-on-one battle, it's Single!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0063",
+            "en_US": [
+                "Hint!\n",
+                "Say cheese!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0064",
+            "en_US": [
+                "Hint!\n",
+                "It's not a shower!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0065",
+            "en_US": [
+                "Hint!\n",
+                "It's not a convenience store!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0066",
+            "en_US": [
+                "Hint!\n",
+                "It's not Beauty!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0067",
+            "en_US": [
+                "Hint!\n",
+                "It's not from space!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0068",
+            "en_US": [
+                "Hint!\n",
+                "It's not a Thunderbolt Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0069",
+            "en_US": [
+                "Hint!\n",
+                "It's in Chargestone Cave!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0070",
+            "en_US": [
+                "Hint!\n",
+                "It's part Flying type!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0071",
+            "en_US": [
+                "Hint!\n",
+                "It's a very small Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0072",
+            "en_US": [
+                "Hint!\n",
+                "It weighs about 33 pounds!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0073",
+            "en_US": [
+                "Hint!\n",
+                "It's not Bulbasaur or Turtwig!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0074",
+            "en_US": [
+                "Hint!\n",
+                "Think of “Audio\"...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0075",
+            "en_US": [
+                "Hint!\n",
+                "It's a Ghost-type Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0076",
+            "en_US": [
+                "Hint!\n",
+                "Hearts are charming features!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0077",
+            "en_US": [
+                "Hint!\n",
+                "It has a big toothy grin!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0078",
+            "en_US": [
+                "Hint!\n",
+                "It's not a Fire-type Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0079",
+            "en_US": [
+                "Hint!\n",
+                "It evolved from a Dream Eater Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0080",
+            "en_US": [
+                "Hint!\n",
+                "I wanna, I wanna...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0081",
+            "en_US": [
+                "Hint!\n",
+                "It's an Electric and Ground type!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0082",
+            "en_US": [
+                "Hint!\n",
+                "It sounds like catching a wave!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_122_0083",
+            "en_US": [
+                "Hint!\n",
+                "It's related to {VAR 0100 0000}!{VAR BE01}"
+            ]
+        }
+    ]
+}

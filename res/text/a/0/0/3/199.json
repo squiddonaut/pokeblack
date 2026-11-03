@@ -1,0 +1,72 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_199_0000",
+            "en_US": [
+                "You want to know about this place?\n",
+                "This is the Cold Storage.{VAR BE01}\n",
+                "Inside, there are Workers\n",
+                "with their Pokémon!"
+            ]
+        },
+        {
+            "id": "a003_199_0001",
+            "en_US": [
+                "The reason why Clay is having you look\n",
+                "for Team Plasma is 'cause he is testing{VAR BE00}\n",
+                "your abilities."
+            ]
+        },
+        {
+            "id": "a003_199_0002",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}...{VAR BE01}\n",
+                "Do you think Team Plasma could be\n",
+                "in there?{VAR BE01}\n",
+                "I don't like cold places, but we have\n",
+                "to check. What a bother."
+            ]
+        },
+        {
+            "id": "a003_199_0003",
+            "en_US": [
+                "Cheren: All right, {VAR 0100 0000}.\n",
+                "Let's get this over with."
+            ]
+        },
+        {
+            "id": "a003_199_0004",
+            "en_US": [
+                "You can get to the Cold Storage through\n",
+                "the gap between the fence and the{VAR BE00}\n",
+                "container over there."
+            ]
+        },
+        {
+            "id": "a003_199_0005",
+            "en_US": [
+                "For a few loads, send it by Pokémon.\n",
+                "For a lot of loads, send it by ship.{VAR BE01}\n",
+                "Use the best method for your needs!"
+            ]
+        },
+        {
+            "id": "a003_199_0006",
+            "en_US": [
+                "A helmet is an important tool for\n",
+                "shock protection!{VAR BE01}\n",
+                "It's good to let your Pokémon\n",
+                "have one, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_199_0007",
+            "en_US": [
+                "If you let a Pokémon hold a Rocky Helmet,\n",
+                "the foe will also be damaged if that foe's{VAR BE00}\n",
+                "move makes physical contact."
+            ]
+        }
+    ]
+}

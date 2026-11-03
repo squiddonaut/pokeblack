@@ -1,0 +1,67 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_008_0000",
+            "en_US": "It's lined with Pokémon picture books."
+        },
+        {
+            "id": "a003_008_0001",
+            "en_US": [
+                "Are these books for Pokémon\n",
+                "to read?"
+            ]
+        },
+        {
+            "id": "a003_008_0002",
+            "en_US": [
+                "It's chock full of Pokémon books and\n",
+                "photo collections."
+            ]
+        },
+        {
+            "id": "a003_008_0003",
+            "en_US": [
+                "There are lots of Pokémon magazines!{VAR BE01}\n",
+                "“Pokémon Pal\"\n",
+                "“Pokémon Handbook\"{VAR BE00}\n",
+                "“Adorable Pokémon\""
+            ]
+        },
+        {
+            "id": "a003_008_0004",
+            "en_US": "The trash can is empty."
+        },
+        {
+            "id": "a003_008_0005",
+            "en_US": [
+                "The shelves are jammed with vibrant\n",
+                "Pokémon goods."
+            ]
+        },
+        {
+            "id": "a003_008_0006",
+            "en_US": [
+                "It looks like a cabinet full of\n",
+                "Pokémon goods."
+            ]
+        },
+        {
+            "id": "a003_008_0007",
+            "en_US": [
+                "Goods are arranged on the shelves in a\n",
+                "very orderly fashion."
+            ]
+        },
+        {
+            "id": "a003_008_0008",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_008_0009",
+            "en_US": "",
+            "flags": 0
+        }
+    ]
+}

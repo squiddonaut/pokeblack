@@ -1,0 +1,2117 @@
+{
+    "flags": 230,
+    "pad": "baba",
+    "messages": [
+        {
+            "id": "a002_200_0000",
+            "en_US": "Greet",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0001",
+            "en_US": "Draw",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0002",
+            "en_US": "Battle",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0003",
+            "en_US": "Trade",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0004",
+            "en_US": "Cancel",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0005",
+            "en_US": "Spin",
+            "flags": 91
+        },
+        {
+            "id": "a002_200_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0007",
+            "en_US": [
+                "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\n",
+                "{VAR 0100 0000}\n",
+                "has contacted you.{VAR BE02 000F}"
+            ]
+        },
+        {
+            "id": "a002_200_0008",
+            "en_US": "The chat has been dropped."
+        },
+        {
+            "id": "a002_200_0009",
+            "en_US": [
+                "Awaiting a response from\n",
+                "{VAR 0100 0000}...{VAR BE02 000F}"
+            ]
+        },
+        {
+            "id": "a002_200_0010",
+            "en_US": "The chat was ended."
+        },
+        {
+            "id": "a002_200_0011",
+            "en_US": [
+                "You have an offer to see\n",
+                "{VAR 0100 0000}'s Trainer Card.{VAR BE01}\n",
+                "Would you like to show your\n",
+                "Trainer Card?"
+            ]
+        },
+        {
+            "id": "a002_200_0012",
+            "en_US": [
+                "This is the Trainer Card of\n",
+                "{VAR 0100 0000}, who lives in{VAR BE00}\n",
+                "{VAR 0125 0004},{VAR BE00}\n",
+                "{VAR 0124 0003}.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0013",
+            "en_US": [
+                "This is the Trainer Card of\n",
+                "{VAR 0100 0000}, who lives in{VAR BE00}\n",
+                "{VAR 0124 0003}.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0014",
+            "en_US": [
+                "This is the Trainer Card of\n",
+                "{VAR 0100 0000}, who lives in{VAR BE00}\n",
+                "{VAR 0125 0004}.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0015",
+            "en_US": [
+                "This is {VAR 0100 0000}'s\n",
+                "Trainer Card.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0016",
+            "en_US": "Waiting for the other player to finish."
+        },
+        {
+            "id": "a002_200_0017",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_200_0018",
+            "en_US": [
+                "{VAR 0100 0000} has invited you to draw\n",
+                "something.{VAR BE01}\n",
+                "Would you like to join the other\n",
+                "player and draw?"
+            ]
+        },
+        {
+            "id": "a002_200_0019",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0020",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_200_0021",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0022",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Single Battle\n",
+                "with no restrictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0023",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Single Battle\n",
+                "with Flat Battle rules?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0024",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0025",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Double Battle\n",
+                "with no restrictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0026",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Double Battle\n",
+                "with Flat Battle rules?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0027",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0028",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Triple Battle\n",
+                "with no restrictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0029",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Triple Battle\n",
+                "with Flat Battle rules?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0030",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0031",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Rotation Battle\n",
+                "with no restrictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0032",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Rotation Battle\n",
+                "with Flat Battle rules?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0033",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Multi Battle\n",
+                "with no restrictions?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0034",
+            "en_US": [
+                "{VAR 0100 0000} proposed\n",
+                "a battle.{VAR BE01}\n",
+                "Will you accept a Multi Battle\n",
+                "with Flat Battle rules?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0035",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0036",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_200_0037",
+            "en_US": [
+                "{VAR 0100 0000} has offered to\n",
+                "make a trade.{VAR BE01}\n",
+                "Will you accept this trade offer?"
+            ]
+        },
+        {
+            "id": "a002_200_0038",
+            "en_US": "The trade will be started!{VAR BE02 003C}"
+        },
+        {
+            "id": "a002_200_0039",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_200_0040",
+            "en_US": [
+                "You need at least two Pokémon\n",
+                "in your party if you want to trade!"
+            ]
+        },
+        {
+            "id": "a002_200_0041",
+            "en_US": [
+                "{VAR 0100 0000} has invited you to\n",
+                "mix records.{VAR BE01}\n",
+                "Would you like to mix records\n",
+                "with the other player?"
+            ]
+        },
+        {
+            "id": "a002_200_0042",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0043",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0044",
+            "en_US": [
+                "{VAR 0100 0000} has invited you to join\n",
+                "a Spin Trade session.{VAR BE01}\n",
+                "Would you like to take part\n",
+                "in the Spin Trade?"
+            ]
+        },
+        {
+            "id": "a002_200_0045",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0046",
+            "en_US": "You declined the offer."
+        },
+        {
+            "id": "a002_200_0047",
+            "en_US": [
+                "You don't have an Egg.\n",
+                "The invitation was turned down."
+            ]
+        },
+        {
+            "id": "a002_200_0048",
+            "en_US": [
+                "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\n",
+                "This is {VAR 0100 0000}! Is there\n",
+                "something you wanted to do?"
+            ]
+        },
+        {
+            "id": "a002_200_0049",
+            "en_US": [
+                "{VAR 011C 0002}{VAR BE02 000F}{VAR BE01}\n",
+                "Hello, it's {VAR 0100 0000}!\n",
+                "Would you like to do something?"
+            ]
+        },
+        {
+            "id": "a002_200_0050",
+            "en_US": [
+                "Whoops! Sorry, but I have to do\n",
+                "something else.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0051",
+            "en_US": [
+                "Whoops! Sorry, but I have to do\n",
+                "something else.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0052",
+            "en_US": "What would you like to do?"
+        },
+        {
+            "id": "a002_200_0053",
+            "en_US": "What would you like to do?"
+        },
+        {
+            "id": "a002_200_0054",
+            "en_US": [
+                "...\n",
+                "The Trainer appears to be busy..."
+            ]
+        },
+        {
+            "id": "a002_200_0055",
+            "en_US": [
+                "... ...\n",
+                "The Trainer appears to be busy..."
+            ]
+        },
+        {
+            "id": "a002_200_0056",
+            "en_US": "{VAR 0100 0000} did not reply..."
+        },
+        {
+            "id": "a002_200_0057",
+            "en_US": "{VAR 0100 0000} did not reply..."
+        },
+        {
+            "id": "a002_200_0058",
+            "en_US": [
+                "Sure thing! Let me show you\n",
+                "my Trainer Card."
+            ]
+        },
+        {
+            "id": "a002_200_0059",
+            "en_US": [
+                "Hi, let me introduce myself\n",
+                "by showing you my Trainer Card."
+            ]
+        },
+        {
+            "id": "a002_200_0060",
+            "en_US": [
+                "Huh? My Trainer Card...\n",
+                "Where'd it go now?{VAR BE01}\n",
+                "Sorry! I'll show you another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0061",
+            "en_US": [
+                "Huh? My Trainer Card...\n",
+                "Where'd it go now?{VAR BE01}\n",
+                "Sorry! I'll show you another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0062",
+            "en_US": [
+                "I'm just showing my Trainer Card\n",
+                "as my way of a greeting."
+            ]
+        },
+        {
+            "id": "a002_200_0063",
+            "en_US": [
+                "We're showing each other our\n",
+                "Trainer Cards to get acquainted."
+            ]
+        },
+        {
+            "id": "a002_200_0064",
+            "en_US": "I hope I get to know you better!"
+        },
+        {
+            "id": "a002_200_0065",
+            "en_US": [
+                "Glad to meet you.\n",
+                "Please don't be a stranger!"
+            ]
+        },
+        {
+            "id": "a002_200_0066",
+            "en_US": [
+                "Oh, did you want to draw with me?\n",
+                "Sure thing, but hang on just a second."
+            ]
+        },
+        {
+            "id": "a002_200_0067",
+            "en_US": [
+                "You want to draw with me?\n",
+                "Sure! Just give me a second..."
+            ]
+        },
+        {
+            "id": "a002_200_0068",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0069",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0070",
+            "en_US": [
+                "Oh, sorry! I can't now.\n",
+                "Let's draw another time."
+            ]
+        },
+        {
+            "id": "a002_200_0071",
+            "en_US": [
+                "Oh, I'm sorry!\n",
+                "Let's draw another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0072",
+            "en_US": [
+                "{VAR 0100 0000}: We're drawing right\n",
+                "now.{VAR BE01}\n",
+                "Oh, I know! {VAR 0100 0001}, would\n",
+                "you like to draw with us?"
+            ]
+        },
+        {
+            "id": "a002_200_0073",
+            "en_US": [
+                "{VAR 0100 0000}: We're drawing right\n",
+                "now.{VAR BE01}\n",
+                "Oh, I know! {VAR 0100 0001}, would\n",
+                "you like to draw with us?"
+            ]
+        },
+        {
+            "id": "a002_200_0074",
+            "en_US": [
+                "Oh, all right.\n",
+                "Come see me anytime, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0075",
+            "en_US": [
+                "Oh...\n",
+                "Please come by anytime."
+            ]
+        },
+        {
+            "id": "a002_200_0076",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0077",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0078",
+            "en_US": [
+                "OK! Let's do some drawing\n",
+                "together!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0079",
+            "en_US": [
+                "OK! Thanks for waiting!\n",
+                "Let's get drawing!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0080",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Let's draw some other time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0081",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Let's draw some other time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0082",
+            "en_US": [
+                "The last letter of what you draw has\n",
+                "to be the first letter of what I draw?"
+            ]
+        },
+        {
+            "id": "a002_200_0083",
+            "en_US": [
+                "Wow!\n",
+                "You're really good!"
+            ]
+        },
+        {
+            "id": "a002_200_0084",
+            "en_US": [
+                "Stop drawing funny faces!\n",
+                "It hurts to laugh so much!"
+            ]
+        },
+        {
+            "id": "a002_200_0085",
+            "en_US": [
+                "Ahaha!\n",
+                "What is that?!"
+            ]
+        },
+        {
+            "id": "a002_200_0086",
+            "en_US": [
+                "Wow, you're good!\n",
+                "I'll try to imitate you!"
+            ]
+        },
+        {
+            "id": "a002_200_0087",
+            "en_US": [
+                "I love drawing!\n",
+                "I can draw and draw!"
+            ]
+        },
+        {
+            "id": "a002_200_0088",
+            "en_US": [
+                "...Uh-huh... What is that?\n",
+                "Is that supposed to be me?"
+            ]
+        },
+        {
+            "id": "a002_200_0089",
+            "en_US": [
+                "Oops!\n",
+                "I can't stay inside the lines!"
+            ]
+        },
+        {
+            "id": "a002_200_0090",
+            "en_US": [
+                "A battle? Of course, but I need\n",
+                "time to get ready."
+            ]
+        },
+        {
+            "id": "a002_200_0091",
+            "en_US": [
+                "A battle? Of course, but I need\n",
+                "time to get ready."
+            ]
+        },
+        {
+            "id": "a002_200_0092",
+            "en_US": [
+                "Thanks for waiting!\n",
+                "Let's get our battle started!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0093",
+            "en_US": [
+                "Sorry I made you wait!\n",
+                "Let's get started!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0094",
+            "en_US": [
+                "Sorry! My Pokémon don't seem to\n",
+                "be feeling too well right now.{VAR BE00}\n",
+                "Let me battle you another time."
+            ]
+        },
+        {
+            "id": "a002_200_0095",
+            "en_US": [
+                "I'm terribly sorry, but my Pokémon\n",
+                "aren't feeling well...{VAR BE01}\n",
+                "Let's battle another time."
+            ]
+        },
+        {
+            "id": "a002_200_0096",
+            "en_US": [
+                "{VAR 0100 0000}: We're about to have a\n",
+                "Multi Battle.{VAR BE01}\n",
+                "Oh! {VAR 0100 0001}, would you\n",
+                "join us in the Multi Battle?"
+            ]
+        },
+        {
+            "id": "a002_200_0097",
+            "en_US": [
+                "{VAR 0100 0000}: We're about to have a\n",
+                "Multi Battle.{VAR BE01}\n",
+                "Oh! {VAR 0100 0001}, would you\n",
+                "join us in the Multi Battle?"
+            ]
+        },
+        {
+            "id": "a002_200_0098",
+            "en_US": [
+                "Oh, all right.\n",
+                "Come see me anytime, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0099",
+            "en_US": [
+                "Oh...\n",
+                "Please come by anytime."
+            ]
+        },
+        {
+            "id": "a002_200_0100",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0101",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0102",
+            "en_US": [
+                "Sorry to make you wait! OK then,\n",
+                "let's have a Multi Battle!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0103",
+            "en_US": [
+                "Sorry to keep you waiting! OK then,\n",
+                "let's have a Multi Battle!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0104",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0105",
+            "en_US": [
+                "Oh, sorry!\n",
+                "Let's do this another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0106",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0107",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0108",
+            "en_US": [
+                "Whoa!\n",
+                "I can tell you're pretty tough!"
+            ]
+        },
+        {
+            "id": "a002_200_0109",
+            "en_US": [
+                "That Pokémon...\n",
+                "It's been raised really well!"
+            ]
+        },
+        {
+            "id": "a002_200_0110",
+            "en_US": [
+                "You used that move?\n",
+                "That's good strategy!"
+            ]
+        },
+        {
+            "id": "a002_200_0111",
+            "en_US": [
+                "That's it!\n",
+                "This is the right move now!"
+            ]
+        },
+        {
+            "id": "a002_200_0112",
+            "en_US": [
+                "Way to go!\n",
+                "That was an eye-opener!"
+            ]
+        },
+        {
+            "id": "a002_200_0113",
+            "en_US": [
+                "That's awesome!\n",
+                "I've never seen that battle style!"
+            ]
+        },
+        {
+            "id": "a002_200_0114",
+            "en_US": [
+                "Oh! How could you use that\n",
+                "Pokémon in that situation?"
+            ]
+        },
+        {
+            "id": "a002_200_0115",
+            "en_US": [
+                "You have exquisite timing for\n",
+                "switching Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_200_0116",
+            "en_US": [
+                "You want to trade, huh?\n",
+                "Sure, hold on just a second."
+            ]
+        },
+        {
+            "id": "a002_200_0117",
+            "en_US": [
+                "A trade? Of course, but I need\n",
+                "time to get ready."
+            ]
+        },
+        {
+            "id": "a002_200_0118",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0119",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0120",
+            "en_US": [
+                "Sorry! I don't have a Pokémon\n",
+                "that I can trade right now.{VAR BE01}\n",
+                "Let's trade some other time."
+            ]
+        },
+        {
+            "id": "a002_200_0121",
+            "en_US": [
+                "I'm sorry, but I don't have any\n",
+                "Pokémon that I can trade now...{VAR BE01}\n",
+                "Let's trade some other time!"
+            ]
+        },
+        {
+            "id": "a002_200_0122",
+            "en_US": [
+                "Oh yeah!\n",
+                "I really wanted this Pokémon!"
+            ]
+        },
+        {
+            "id": "a002_200_0123",
+            "en_US": "I'm trading Pokémon right now."
+        },
+        {
+            "id": "a002_200_0124",
+            "en_US": [
+                "Finally, I got that Pokémon\n",
+                "I've wanted for so long."
+            ]
+        },
+        {
+            "id": "a002_200_0125",
+            "en_US": [
+                "I finally got that Pokémon\n",
+                "I wanted in a trade!"
+            ]
+        },
+        {
+            "id": "a002_200_0126",
+            "en_US": [
+                "You can't trade if you have only one\n",
+                "Pokémon with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0127",
+            "en_US": [
+                "You can't trade if you have only\n",
+                "one Pokémon with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0128",
+            "en_US": [
+                "If you want to do something\n",
+                "with me, just give me a shout!"
+            ]
+        },
+        {
+            "id": "a002_200_0129",
+            "en_US": [
+                "If you want to do something\n",
+                "with me, don't be shy. Just ask!"
+            ]
+        },
+        {
+            "id": "a002_200_0130",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0131",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0132",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0133",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0134",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0135",
+            "en_US": [
+                "Oh, sorry!\n",
+                "Let's do this another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0136",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0137",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0138",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0139",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0140",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0141",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0142",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0143",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0144",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0145",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0146",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0147",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0148",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0149",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0150",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0151",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0152",
+            "en_US": [
+                "Spin Trade? Sure!\n",
+                "OK, just hold on a second!"
+            ]
+        },
+        {
+            "id": "a002_200_0153",
+            "en_US": [
+                "Spin Trade? Of course!\n",
+                "OK, can you just wait a moment?"
+            ]
+        },
+        {
+            "id": "a002_200_0154",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0155",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0156",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0157",
+            "en_US": [
+                "Oh, sorry!\n",
+                "Let's do this another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0158",
+            "en_US": [
+                "You need an Egg if you want to take\n",
+                "part in a Spin Trade.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0159",
+            "en_US": [
+                "You need an Egg if you want to\n",
+                "take part in a Spin Trade.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0160",
+            "en_US": [
+                "{VAR 0100 0000}: We're going to do a Spin\n",
+                "Trade now.{VAR BE01}\n",
+                "Hey, {VAR 0100 0001}! Do you want to join\n",
+                "us for a Spin Trade, too?"
+            ]
+        },
+        {
+            "id": "a002_200_0161",
+            "en_US": [
+                "{VAR 0100 0000}: We were doing Spin Trades\n",
+                "just now.{VAR BE01}\n",
+                "{VAR 0100 0001}, do you want to join us\n",
+                "and do some Spin Trades, too?"
+            ]
+        },
+        {
+            "id": "a002_200_0162",
+            "en_US": [
+                "Oh, all right.\n",
+                "Come see me anytime, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0163",
+            "en_US": [
+                "Oh...\n",
+                "Please come by anytime."
+            ]
+        },
+        {
+            "id": "a002_200_0164",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0165",
+            "en_US": "OK! Just give me a second!"
+        },
+        {
+            "id": "a002_200_0166",
+            "en_US": [
+                "OK!\n",
+                "Let's do a Spin Trade together!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0167",
+            "en_US": [
+                "OK!\n",
+                "Let's do a Spin Trade together!{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0168",
+            "en_US": [
+                "What's this?\n",
+                "It looks like you don't have an Egg.{VAR BE01}\n",
+                "When you have an Egg, please come back!"
+            ]
+        },
+        {
+            "id": "a002_200_0169",
+            "en_US": [
+                "What's this?\n",
+                "It looks like you don't have an Egg.{VAR BE01}\n",
+                "When you bring an Egg,\n",
+                "let's do this again!"
+            ]
+        },
+        {
+            "id": "a002_200_0170",
+            "en_US": [
+                "Oh, I'm sorry.\n",
+                "I have too much to do right now.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0171",
+            "en_US": [
+                "Oh, sorry!\n",
+                "Let's do this another time!"
+            ]
+        },
+        {
+            "id": "a002_200_0172",
+            "en_US": [
+                "There is an Egg that cannot be traded\n",
+                "in your party."
+            ]
+        },
+        {
+            "id": "a002_200_0173",
+            "en_US": [
+                "There is an Egg that cannot be traded\n",
+                "in your party."
+            ]
+        },
+        {
+            "id": "a002_200_0174",
+            "en_US": [
+                "There is an Egg that cannot be traded\n",
+                "in your party.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0175",
+            "en_US": [
+                "There is an Egg that cannot be traded\n",
+                "in your party.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a002_200_0176",
+            "en_US": "Spin Trades are so much fun!"
+        },
+        {
+            "id": "a002_200_0177",
+            "en_US": "We're doing Spin Trades!"
+        },
+        {
+            "id": "a002_200_0178",
+            "en_US": [
+                "There!\n",
+                "Stop there!"
+            ]
+        },
+        {
+            "id": "a002_200_0179",
+            "en_US": [
+                "Wah!\n",
+                "It moved again!"
+            ]
+        },
+        {
+            "id": "a002_200_0180",
+            "en_US": "My Egg's awesome!"
+        },
+        {
+            "id": "a002_200_0181",
+            "en_US": "There goes the Egg I wanted..."
+        },
+        {
+            "id": "a002_200_0182",
+            "en_US": [
+                "Yes!\n",
+                "I got the Egg I wanted!"
+            ]
+        },
+        {
+            "id": "a002_200_0183",
+            "en_US": [
+                "If it stopped there,\n",
+                "I would've gotten a Berry."
+            ]
+        },
+        {
+            "id": "a002_200_0184",
+            "en_US": [
+                "Welcome to the Union Room.{VAR BE01}\n",
+                "If there is anything you need help with,\n",
+                "please let me know!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0185",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0186",
+            "en_US": [
+                "Which topic would you\n",
+                "like me to explain?"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0187",
+            "en_US": [
+                "There are five Battle Formats.{VAR BE01}\n",
+                "Single Battle is for two Trainers\n",
+                "with one or more Pokémon each.{VAR BE01}\n",
+                "Each Trainer can have one Pokémon\n",
+                "in battle at a time.{VAR BE01}\n",
+                "Double Battle is for two Trainers\n",
+                "with two or more Pokémon each.{VAR BE01}\n",
+                "Each Trainer will send out two\n",
+                "Pokémon to battle at a time.{VAR BE01}\n",
+                "Triple Battle is for two Trainers\n",
+                "with three or more Pokémon each.{VAR BE01}\n",
+                "Each Trainer puts three Pokémon\n",
+                "into battle at one time.{VAR BE01}\n",
+                "Rotation Battle is for two Trainers.\n",
+                "Each Trainer sends three Pokémon{VAR BE00}\n",
+                "into battle, with one Pokémon in front{VAR BE00}\n",
+                "and the other two in back.{VAR BE01}\n",
+                "Multi Battle is for four Trainers\n",
+                "with one or more Pokémon each.{VAR BE01}\n",
+                "Each Trainer can have one Pokémon\n",
+                "in battle at a time.{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0188",
+            "en_US": [
+                "You may trade your Pokémon with\n",
+                "other players.{VAR BE01}\n",
+                "Meeting new people could be a\n",
+                "shortcut to meeting rare Pokémon!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0189",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0190",
+            "en_US": [
+                "In a Spin Trade, each participant brings\n",
+                "an Egg to trade with others.{VAR BE01}\n",
+                "Which Egg will you end up with?\n",
+                "What kind of Pokémon is in that Egg?{VAR BE00}\n",
+                "It's quite exciting and fun!{VAR BE01}\n",
+                "Up to five players can take part,\n",
+                "so try it with your friends!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0191",
+            "en_US": [
+                "You may get together with others\n",
+                "and draw.{VAR BE01}\n",
+                "You all work on one sheet\n",
+                "of paper at the same time.{VAR BE01}\n",
+                "I'm sure a drawing made by friends\n",
+                "will be a memorable masterpiece!{VAR BE01}\n",
+                "Up to five players can take part,\n",
+                "so try it with your friends!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0192",
+            "en_US": [
+                "You can chat with other people\n",
+                "by selecting “CHAT\" in the menu.{VAR BE01}\n",
+                "Go out and meet other players in\n",
+                "the Union Room!{VAR BE01}\n",
+                "Let people know what you're like\n",
+                "and what you'd like to do.{VAR BE01}\n",
+                "Mingle, chat, and add to your\n",
+                "circle of friends!{VAR BE01}"
+            ],
+            "flags": 224
+        },
+        {
+            "id": "a002_200_0193",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0194",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0195",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0196",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0197",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0198",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0199",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0200",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0201",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0202",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0203",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0204",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0205",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0206",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0207",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0208",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0209",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0210",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0211",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0212",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0213",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0214",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0215",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0216",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0217",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0218",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0219",
+            "en_US": "Battle",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0220",
+            "en_US": "Trade",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0221",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0222",
+            "en_US": "Spin",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0223",
+            "en_US": "Draw",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0224",
+            "en_US": "Chat",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0225",
+            "en_US": "Cancel",
+            "flags": 219
+        },
+        {
+            "id": "a002_200_0226",
+            "en_US": "Talking to {VAR 0100 0000}..."
+        },
+        {
+            "id": "a002_200_0227",
+            "en_US": [
+                "Whoops! Sorry, but I have to do\n",
+                "something else.{VAR BE00}\n",
+                "Another time, OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0228",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0229",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0230",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0231",
+            "en_US": "こんにちは{FF01}"
+        },
+        {
+            "id": "a002_200_0232",
+            "en_US": "Hello!"
+        },
+        {
+            "id": "a002_200_0233",
+            "en_US": "Bonjour!"
+        },
+        {
+            "id": "a002_200_0234",
+            "en_US": "Ciao!"
+        },
+        {
+            "id": "a002_200_0235",
+            "en_US": "Hallo!"
+        },
+        {
+            "id": "a002_200_0236",
+            "en_US": "Hola!"
+        },
+        {
+            "id": "a002_200_0237",
+            "en_US": "H-e-l-l-o-!"
+        },
+        {
+            "id": "a002_200_0238",
+            "en_US": "안녕하세요"
+        },
+        {
+            "id": "a002_200_0239",
+            "en_US": "Battles for two",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0240",
+            "en_US": "Battles for four",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0241",
+            "en_US": "Cancel",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0242",
+            "en_US": "Single Battle",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0243",
+            "en_US": "Double Battle",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0244",
+            "en_US": "Triple Battle",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0245",
+            "en_US": "Rotation Battle",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0246",
+            "en_US": "Confirm",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0247",
+            "en_US": "Rules",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0248",
+            "en_US": "Cancel",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0249",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0250",
+            "en_US": "No Restrictions",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0251",
+            "en_US": "Flat Battle",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0252",
+            "en_US": "Wonder Launcher on",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0253",
+            "en_US": "Wonder Launcher off",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0254",
+            "en_US": "Cancel",
+            "flags": 139
+        },
+        {
+            "id": "a002_200_0255",
+            "en_US": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Single Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0256",
+            "en_US": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Double Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0257",
+            "en_US": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Triple Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0258",
+            "en_US": "Battle Format{VAR BD05 0073}: {VAR FF00 0002}Rotation Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0259",
+            "en_US": "Battle Format{VAR BD05 0073}: Multi Battle",
+            "flags": 240
+        },
+        {
+            "id": "a002_200_0260",
+            "en_US": "Battle Rules{VAR BD05 0073}: {VAR FF00 0002}No Restrictions{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0261",
+            "en_US": "Battle Rules{VAR BD05 0073}: {VAR FF00 0002}Flat Battle{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0262",
+            "en_US": "Wonder Launcher{VAR BD05 0073}: {VAR FF00 0002}On{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0263",
+            "en_US": "Wonder Launcher{VAR BD05 0073}: {VAR FF00 0002}Off{VAR FF00 0000}",
+            "flags": 227
+        },
+        {
+            "id": "a002_200_0264",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0265",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0266",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0267",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0268",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0269",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0270",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0271",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0272",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0273",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0274",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0275",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0276",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0277",
+            "en_US": [
+                "You don't meet the conditions,\n",
+                "so you cannot participate."
+            ]
+        },
+        {
+            "id": "a002_200_0278",
+            "en_US": [
+                "Please wait a moment...\n",
+                "Press the B Button to cancel."
+            ]
+        },
+        {
+            "id": "a002_200_0279",
+            "en_US": [
+                "Please choose the Pokémon\n",
+                "that will participate.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0280",
+            "en_US": [
+                "Please select the three Pokémon\n",
+                "that will participate.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0281",
+            "en_US": [
+                "Please select the four Pokémon\n",
+                "that will participate.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0282",
+            "en_US": [
+                "Please select the six Pokémon\n",
+                "that will participate.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0283",
+            "en_US": [
+                "Please select up to three Pokémon\n",
+                "that will participate.{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0284",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0285",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0286",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0287",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0288",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0289",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0290",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0291",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0292",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0293",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0294",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0295",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0296",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0297",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0298",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0299",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0300",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0301",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0302",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0303",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0304",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0305",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0306",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0307",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0308",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0309",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0310",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0311",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0312",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0313",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0314",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0315",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0316",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0317",
+            "en_US": "I don't know this game, so I won't play!"
+        },
+        {
+            "id": "a002_200_0318",
+            "en_US": [
+                "I don't meet the conditions, so I\n",
+                "can't battle!"
+            ]
+        },
+        {
+            "id": "a002_200_0319",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0320",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0321",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0322",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0323",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0324",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0325",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0326",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0327",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0328",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0329",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0330",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0331",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0332",
+            "en_US": [
+                "Ending communication.\n",
+                "Please wait...{VAR BE02 003C}"
+            ]
+        },
+        {
+            "id": "a002_200_0333",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0334",
+            "en_US": [
+                "Communication will end.\n",
+                "Is that OK?"
+            ]
+        },
+        {
+            "id": "a002_200_0335",
+            "en_US": "Party",
+            "flags": 208
+        },
+        {
+            "id": "a002_200_0336",
+            "en_US": "Battle Box",
+            "flags": 208
+        },
+        {
+            "id": "a002_200_0337",
+            "en_US": [
+                "... ...\n",
+                "The Trainer appears to be busy..."
+            ]
+        },
+        {
+            "id": "a002_200_0338",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0339",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0340",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0341",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a002_200_0342",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Normal Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0343",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Bronze Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0344",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Copper Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0345",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Silver Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0346",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Gold Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0347",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a White Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0348",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Black Card!"
+            ]
+        },
+        {
+            "id": "a002_200_0349",
+            "en_US": [
+                "This is {VAR 0100 0000}'s Trainer Card!{VAR BE01}\n",
+                "...It's a Card you haven't seen before!"
+            ]
+        }
+    ]
+}

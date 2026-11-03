@@ -1,0 +1,491 @@
+{
+    "flags": 224,
+    "pad": "2e2e",
+    "messages": [
+        {
+            "id": "a003_067_0000",
+            "en_US": [
+                "Team Plasma: Gramps! We know you run\n",
+                "the Day Care!{VAR BE01}\n",
+                "How do we know?\n",
+                "Because we're Team Plasma!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0001",
+            "en_US": [
+                "Team Plasma: We are taking Pokémon away\n",
+                "from people.{VAR BE01}\n",
+                "Since you work at the Day Care, we figure\n",
+                "you must have a lot of Pokémon!{VAR BE00}\n",
+                "Hand 'em over!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0002",
+            "en_US": [
+                "Day-Care Man: What kind of\n",
+                "nonsense is this?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0003",
+            "en_US": [
+                "Oh! A strong-looking Trainer!\n",
+                "Please help me!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0004",
+            "en_US": [
+                "Team Plasma: If you're going to get in\n",
+                "our way, we'll take your Pokémon, too!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0005",
+            "en_US": "Team Plasma: !!{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0006",
+            "en_US": [
+                "Team Plasma: This went downhill fast!\n",
+                "So I think... We'd better... Ruuuun!{VAR BE01}\n",
+                "Let's hide out at the amusement park!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0007",
+            "en_US": [
+                "Day-Care Man: Thank you so much!{VAR BE01}\n",
+                "Please take this as a token\n",
+                "of my gratitude.{VAR BE01}\n",
+                "It's a brand-new Bike.\n",
+                "I'd always planned on riding around{VAR BE00}\n",
+                "Nimbasa City...{VAR BE00}\n",
+                "But I never ended up riding it.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0008",
+            "en_US": [
+                "Day-Care Man: I have a Day Care\n",
+                "on Route 3!{VAR BE01}\n",
+                "If you have any Pokémon you want\n",
+                "me to raise, please drop them off!{VAR BE01}\n",
+                "I just came to sightsee, but\n",
+                "I got in a lot of trouble!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0009",
+            "en_US": "Bianca: Hey, {VAR 0100 0000}! Yoo-hoo!{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0010",
+            "en_US": "Bianca: {VAR 0100 0000}! Know what?{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0011",
+            "en_US": [
+                "The professor told me Nimbasa City\n",
+                "has a lot of things to see and do--{VAR BE01}\n",
+                "the amusement park, Big Stadium,\n",
+                "Small Court, and the Battle Subway!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0012",
+            "en_US": [
+                "I'm going to go see the Pokémon Musical!\n",
+                "See you later!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0013",
+            "en_US": "Bianca: Yoo-hoo, {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0014",
+            "en_US": "Bianca: {VAR 0100 0000}! Know what?{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0015",
+            "en_US": [
+                "I just had a look at the Musical Theater.\n",
+                "It's sooo cool!{VAR BE01}\n",
+                "Since you're here, come on, {VAR 0100 0000}!{VAR BE01}\n",
+                "Come with me!\n",
+                "Over here, over here!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0016",
+            "en_US": "OK, we're here! Let's go in!{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0017",
+            "en_US": [
+                "Bianca: Ooh, {VAR 0100 0000}!{VAR BE01}\n",
+                "Are you interested in musicals?\n",
+                "Then, let's go in together!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0018",
+            "en_US": [
+                "Bianca: Daddy?!\n",
+                "What are you doing here?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0019",
+            "en_US": [
+                "Bianca's Dad: I've come to take you\n",
+                "back home, of course!{VAR BE01}\n",
+                "Your mother told me that you'd\n",
+                "made it all the way out here.{VAR BE01}\n",
+                "Haven't you gone far enough?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0020",
+            "en_US": [
+                "Bianca: No way!{VAR BE01}\n",
+                "I'm going to keep traveling\n",
+                "with {VAR 0100 0000} and my Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0021",
+            "en_US": [
+                "Bianca's Dad: Absolutely not! Others do\n",
+                "things their way, and we do things ours!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0022",
+            "en_US": [
+                "Bianca: Is that so?{VAR BE01}\n",
+                "Then, how about you do things your way,\n",
+                "and I'll do things mine!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0023",
+            "en_US": "Sweetie, you keep going on your travels.{VAR BE01}"
+        },
+        {
+            "id": "a003_067_0024",
+            "en_US": [
+                "Bianca's Dad: Hey! Who do you think\n",
+                "you are? This is a family matter!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0025",
+            "en_US": [
+                "My name is Elesa.{VAR BE01}\n",
+                "I'm this town's Gym Leader.\n",
+                "I also happen to be a model.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0026",
+            "en_US": [
+                "You know, there are many people\n",
+                "in this world.{VAR BE01}\n",
+                "There are people whose way of thinking\n",
+                "may be completely different from yours.{VAR BE00}\n",
+                "Sometimes, this means you may get hurt.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0027",
+            "en_US": [
+                "Bianca's Dad: Of course!{VAR BE01}\n",
+                "That's exactly right!\n",
+                "It's because I'm worried about that...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0028",
+            "en_US": [
+                "Elesa: But it's important to keep trying,\n",
+                "to learn about the differences between{VAR BE00}\n",
+                "yourself and others...{VAR BE01}\n",
+                "To learn that being different is OK.{VAR BE01}\n",
+                "And you shouldn't worry.{VAR BE01}\n",
+                "Trainers always have Pokémon\n",
+                "at their side.{VAR BE01}\n",
+                "Pokémon are wonderful. It's not only how\n",
+                "cute they can be, but also how much you{VAR BE00}\n",
+                "can depend on them...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0029",
+            "en_US": [
+                "Bianca: Please!{VAR BE01}\n",
+                "I know there's gonna be painful stuff\n",
+                "like you're worrying about!{VAR BE00}\n",
+                "I know! Really, I get it!{VAR BE01}\n",
+                "But, like, listen...\n",
+                "There'll be tons of nice people, too.{VAR BE01}\n",
+                "Know what else? Since I've been\n",
+                "traveling with Pokémon, I've already{VAR BE00}\n",
+                "gotten tougher, I can totally tell.{VAR BE01}\n",
+                "So...please?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0030",
+            "en_US": [
+                "Bianca's Dad: Hmm...\n",
+                "I guess.{VAR BE01}\n",
+                "If wanting to continue your journey\n",
+                "is selfishness on your part,{VAR BE00}\n",
+                "wanting to stop you is{VAR BE00}\n",
+                "selfishness on mine.{VAR BE01}\n",
+                "I'm surprised to find I'm the one\n",
+                "being childish--at my age!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0031",
+            "en_US": [
+                "This Gym Leader's comments helped me\n",
+                "wake up.{VAR BE01}\n",
+                "Bianca, I'm sure it's better that you\n",
+                "take the path you want to take now.{VAR BE01}\n",
+                "I hope that your journey will be fun.\n",
+                "Bon voyage!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0032",
+            "en_US": [
+                "{VAR 0100 0000}, please...\n",
+                "Take care of my little girl, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0033",
+            "en_US": [
+                "Bianca: Papa, I'll come home after\n",
+                "I find out what I really want to do!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0034",
+            "en_US": [
+                "Elesa: I'm sure he traveled\n",
+                "as a Trainer himself, in the past...{VAR BE00}\n",
+                "Being a parent must be hard.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0035",
+            "en_US": [
+                "Did I meddle unnecessarily?{VAR BE01}\n",
+                "You looked troubled, so\n",
+                "I decided to chime in.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0036",
+            "en_US": [
+                "By the way, if you're Trainers, please\n",
+                "stop by the Pokémon Gym.{VAR BE01}\n",
+                "I'll teach you a little something about\n",
+                "how tough a journey can get.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0037",
+            "en_US": [
+                "I'm sorry, {VAR 0100 0000}.\n",
+                "I'll be waiting on Route 5.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0038",
+            "en_US": [
+                "Bianca: She's so cool! Hah!\n",
+                "I want to be a totally cool woman{VAR BE00}\n",
+                "like Elesa!{VAR BE01}\n",
+                "Mm. I wonder how I'll get there.{VAR BE01}\n",
+                "Well, before that, I guess I need to\n",
+                "discover what I really want to do!{VAR BE00}\n",
+                "See you later, {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0039",
+            "en_US": [
+                "We athletes and our Pokémon\n",
+                "show excellent teamwork!{VAR BE01}\n",
+                "You can see it at Big Stadium and\n",
+                "Small Court, so please stop by!"
+            ]
+        },
+        {
+            "id": "a003_067_0040",
+            "en_US": [
+                "As it happens, Nimbasa City is a major\n",
+                "destination for Pokémon battles.{VAR BE01}\n",
+                "There are Pokémon Trainers in\n",
+                "lots of these buildings."
+            ]
+        },
+        {
+            "id": "a003_067_0041",
+            "en_US": [
+                "Leisurely trips by train...{VAR BE01}\n",
+                "Riding from Gear Station to\n",
+                "Anville Town feels a bit like a dream."
+            ]
+        },
+        {
+            "id": "a003_067_0042",
+            "en_US": [
+                "Coming to flashy Nimbasa City makes\n",
+                "me feel light and happy, as if I were{VAR BE00}\n",
+                "holding an Air Balloon."
+            ]
+        },
+        {
+            "id": "a003_067_0043",
+            "en_US": [
+                "There are performers\n",
+                "crowding around Route 5.{VAR BE01}\n",
+                "Seeing all the fun the Pokémon and\n",
+                "Trainers are having fills me with energy!"
+            ]
+        },
+        {
+            "id": "a003_067_0044",
+            "en_US": [
+                "I was a good girl, so I got to\n",
+                "go to the amusement park!"
+            ]
+        },
+        {
+            "id": "a003_067_0045",
+            "en_US": [
+                "Ferris wheel! Ferris wheel!\n",
+                "I love Ferris wheels!"
+            ]
+        },
+        {
+            "id": "a003_067_0046",
+            "en_US": [
+                "Nimbasa's Pokémon Gym is\n",
+                "in the amusement park!{VAR BE01}\n",
+                "No doubt it has a surprising gimmick!"
+            ]
+        },
+        {
+            "id": "a003_067_0047",
+            "en_US": [
+                "I won!\n",
+                "Then I lost...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0048",
+            "en_US": [
+                "Gear Station has trains where\n",
+                "you can battle other Trainers.{VAR BE00}\n",
+                "The Battle Subway!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0049",
+            "en_US": [
+                "You're a Trainer, aren't you?\n",
+                "Please just accept this without a word!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0050",
+            "en_US": [
+                "If you have a Vs. Recorder, you can\n",
+                "record battles with friends or on the{VAR BE00}\n",
+                "Battle Subway!{VAR BE01}\n",
+                "Anyway, this woman of mystery will\n",
+                "go somewhere... That's right!{VAR BE00}\n",
+                "She'll go to the Battle Institute!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_067_0051",
+            "en_US": [
+                "Nimbasa City\n",
+                "Lit by the Flash of Lightning!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0052",
+            "en_US": [
+                "Big Stadium\n",
+                "Baseball, Football, and Soccer"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0053",
+            "en_US": [
+                "Small Court\n",
+                "Tennis and Basketball"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0054",
+            "en_US": [
+                "Battle Subway\n",
+                "Battle and Ride!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0055",
+            "en_US": "Musical Theater",
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0056",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Games occur at specific times in\n",
+                "Big Stadium and Small Court!{VAR BE01}\n",
+                "You might be able to have a Pokémon\n",
+                "battle with your favorite athlete!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0057",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "The Musical Theater is always\n",
+                "looking for participants!{VAR BE01}\n",
+                "You might get more wonderful Props\n",
+                "if you participate repeatedly!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_067_0058",
+            "en_US": [
+                "Battle Institute!\n",
+                "Test your Trainer Skills!"
+            ],
+            "flags": 207
+        }
+    ]
+}

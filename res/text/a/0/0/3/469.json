@@ -1,0 +1,942 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_469_0000",
+            "en_US": [
+                "Have you noticed it's been getting\n",
+                "warmer out lately? It's really nice.{VAR BE01}\n",
+                "Hey, want to hang out for a while?\n",
+                "If you have time, we could have a battle.{VAR BE01}\n",
+                "Sound good?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0001",
+            "en_US": [
+                "All right! Lucky me, meeting\n",
+                "a cool dude like you here.{VAR BE01}\n",
+                "Let's battle right now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0002",
+            "en_US": [
+                "Eep, my bad.\n",
+                "I shouldn't have sprung that on you.{VAR BE01}\n",
+                "Sorry! Forget I asked!"
+            ]
+        },
+        {
+            "id": "a003_469_0003",
+            "en_US": [
+                "Wow! {VAR 0100 0000},\n",
+                "you are so good at Pokémon battles!{VAR BE01}\n",
+                "I want to ask you something else...\n",
+                "Will you ride the Ferris wheel with me?{VAR BE01}\n",
+                "I bet I get just as nervous asking a guy\n",
+                "as a guy would asking a girl...{VAR BE01}\n",
+                "You're OK with that, right? Good! C'mon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0004",
+            "en_US": [
+                "Woo, that was fun! I've been wanting to\n",
+                "ride this Ferris wheel for a long time.{VAR BE01}\n",
+                "But you have to have two people,\n",
+                "and I worried that if I went with my{VAR BE00}\n",
+                "friend, she'd see how scared I was.{VAR BE00}\n",
+                "Embarrassing!{VAR BE01}\n",
+                "Then you came along!\n",
+                "How lucky is that?{VAR BE01}\n",
+                "OK, I'm still scared of heights, but...\n",
+                "With you, it was a little bit easier.{VAR BE01}\n",
+                "Um... Want to ride it again?"
+            ]
+        },
+        {
+            "id": "a003_469_0005",
+            "en_US": [
+                "Hi, {VAR 0100 0000}! How are you?\n",
+                "Want to hang out for a little while?{VAR BE01}\n",
+                "We could have a Pokémon battle\n",
+                "and ride the Ferris wheel together!{VAR BE01}\n",
+                "This time, I kinda think\n",
+                "I won't get scared!"
+            ]
+        },
+        {
+            "id": "a003_469_0006",
+            "en_US": [
+                "Hee hee hee. Awesome!{VAR BE01}\n",
+                "{VAR 0100 0000}, let's have a\n",
+                "Pokémon battle right now!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0007",
+            "en_US": [
+                "Oh. Oh well, that's how it goes.\n",
+                "You do look kinda busy, {VAR 0100 0000}."
+            ]
+        },
+        {
+            "id": "a003_469_0008",
+            "en_US": [
+                "Boy oh boy! {VAR 0100 0000},\n",
+                "you are so good at Pokémon battles.{VAR BE01}\n",
+                "No matter what I tried, it was all you!\n",
+                "I'm done with Pokémon battles.{VAR BE01}\n",
+                "So, shall we...ride the Ferris wheel?\n",
+                "Eep, don't give me that look! I'll be fine!{VAR BE00}\n",
+                "I'm calm, cool, and collected.{VAR BE00}\n",
+                "Going to be absolutely fine this time!{VAR BE01}\n",
+                "Uh-huh...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0009",
+            "en_US": [
+                "Aww... That was scary again.{VAR BE01}\n",
+                "But, you know, {VAR 0100 0000}, when I'm with\n",
+                "you, I can almost enjoy being scared.{VAR BE01}\n",
+                "It's like you make it safe anyway.\n",
+                "Ha ha, maybe I'm weird.{VAR BE01}\n",
+                "I like hanging out with you, {VAR 0100 0000}.\n",
+                "I'm looking forward to seeing you again!"
+            ]
+        },
+        {
+            "id": "a003_469_0010",
+            "en_US": [
+                "It sure is getting nice out.\n",
+                "The warmer it gets, the sleepier I feel!{VAR BE01}\n",
+                "Oh, hey, do you have a minute?{VAR BE01}\n",
+                "I want to ride the Ferris wheel, but it's\n",
+                "two at a time, so I can't go by myself.{VAR BE01}\n",
+                "You don't mind riding with me, do you?{VAR BE01}\n",
+                "I don't have anything to give you in\n",
+                "exchange, but I've got a great{VAR BE00}\n",
+                "Pokémon I've been raising, so we{VAR BE00}\n",
+                "could at least have an awesome battle."
+            ]
+        },
+        {
+            "id": "a003_469_0011",
+            "en_US": [
+                "You serious? Aww, thanks!\n",
+                "You're awesome!{VAR BE01}\n",
+                "Let me introduce my Pokémon. It rocks!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0012",
+            "en_US": [
+                "OK... Sorry to have bothered you.\n",
+                "I'll find somebody who's not in a rush.{VAR BE01}\n",
+                "Have a good one!"
+            ]
+        },
+        {
+            "id": "a003_469_0013",
+            "en_US": [
+                "Er, {VAR 0100 0000}? Did I get that right?{VAR BE01}\n",
+                "You rocked the house!{VAR BE01}\n",
+                "I know I might not look it, but among\n",
+                "my crowd, I've never lost a battle!{VAR BE01}\n",
+                "Here I was thinking you're just cute, and\n",
+                "then, seriously, you ruled the battle!{VAR BE01}\n",
+                "That's even cooler!\n",
+                "Right! Let's go and ride the Ferris wheel!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0014",
+            "en_US": [
+                "Wh-what?{VAR BE01}\n",
+                "Why are you asking if something's wrong?{VAR BE01}\n",
+                "I'm OK! I'm OK!\n",
+                "It's all...good.{VAR BE01}\n",
+                "Anyway, thanks, {VAR 0100 0000}.\n",
+                "I figured the Ferris wheel was kid stuff.{VAR BE01}\n",
+                "The view was great...\n",
+                "Gave me the shivers...{VAR BE01}\n",
+                "I guess this ride is not too bad\n",
+                "once in a while.{VAR BE01}\n",
+                "In fact, let's ride it again sometime!\n",
+                "See ya, {VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a003_469_0015",
+            "en_US": [
+                "Oh, hi, {VAR 0100 0000}!\n",
+                "W-wanna hang out...maybe...{VAR BE01}\n",
+                "Feel like...having a Pokémon battle...and\n",
+                "riding the Ferris wheel?"
+            ]
+        },
+        {
+            "id": "a003_469_0016",
+            "en_US": [
+                "Did you say y-yes? Seriously!\n",
+                "Cool!{VAR BE01}\n",
+                "I knew you were awesome\n",
+                "the minute I saw you!{VAR BE01}\n",
+                "Ready to battle? Let's go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0017",
+            "en_US": [
+                "Oh...\n",
+                "Sorry.{VAR BE01}\n",
+                "Well, when you're free,\n",
+                "give me a shout sometime.{VAR BE00}\n",
+                "See ya, {VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a003_469_0018",
+            "en_US": [
+                "Ugh, ugh, ugh. As usual,\n",
+                "you showed no mercy on me.{VAR BE01}\n",
+                "Have you thought about trying\n",
+                "to become the Champion?{VAR BE01}\n",
+                "{VAR 0100 0000}, I think that\n",
+                "could be more than a dream for you.{VAR BE01}\n",
+                "And I'll cheer you all the way!{VAR BE01}\n",
+                "Yeah. Anyway...\n",
+                "Let's go and ride the Ferris wheel!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0019",
+            "en_US": [
+                "Hmm-mmmm... Hm, hm, hmm...{VAR BE01}\n",
+                "Ah, sorry, sorry...\n",
+                "I was just thinking.{VAR BE01}\n",
+                "I feel like... \n",
+                "When I am hanging out with you,{VAR BE00}\n",
+                "time passes sooooo fast.{VAR BE00}\n",
+                "I mean, I was thinking...{VAR BE00}\n",
+                "How cruel time can be.{VAR BE01}\n",
+                "Ha ha, forget I said anything!\n",
+                "Thanks for the fun! Let's hang out again!{VAR BE01}\n",
+                "Bye, {VAR 0100 0000}!"
+            ]
+        },
+        {
+            "id": "a003_469_0020",
+            "en_US": [
+                "Hi, Trainer. Enjoying the summer?\n",
+                "It's sure hot today.{VAR BE01}\n",
+                "That's summer for ya.\n",
+                "What? You wanna ride the Ferris wheel?{VAR BE00}\n",
+                "It's for two at a time, so take a friend.{VAR BE01}\n",
+                "What? You want me to ride it with you?\n",
+                "Sure, I guess. I'll ride with ya...{VAR BE00}\n",
+                "But you gotta win a Pokémon battle!"
+            ]
+        },
+        {
+            "id": "a003_469_0021",
+            "en_US": [
+                "Sure enough.{VAR BE01}\n",
+                "A little battle practice is a good way\n",
+                "to spend a summer's day.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0022",
+            "en_US": [
+                "Oh well. Didn't feel like wasting my time\n",
+                "riding a Ferris wheel anyway."
+            ]
+        },
+        {
+            "id": "a003_469_0023",
+            "en_US": [
+                "Nice job. I'm impressed.\n",
+                "You and your Pokémon make a great team.{VAR BE00}\n",
+                "Thanks, that was fun. See ya!{VAR BE01}\n",
+                "What?\n",
+                "That's not what I promised?{VAR BE00}\n",
+                "You still want to ride the Ferris wheel?{VAR BE01}\n",
+                "OK, sure enough, I guess...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0024",
+            "en_US": [
+                "It...uh...it was fun...\n",
+                "Yeah, great view...{VAR BE01}\n",
+                "What? I wasn't looking at the view?\n",
+                "I was looking at my feet the whole time?{VAR BE00}\n",
+                "What are you talking about?{VAR BE01}\n",
+                "You think I'm scared of heights?\n",
+                "Nah. That would be lame.{VAR BE01}\n",
+                "I hike on mountains way higher than\n",
+                "a silly little Ferris wh-wheel.{VAR BE01}\n",
+                "C-catch ya later, Trainer!"
+            ]
+        },
+        {
+            "id": "a003_469_0025",
+            "en_US": [
+                "Oh. You again.\n",
+                "Summer's about over, you know.{VAR BE01}\n",
+                "Time to put the hiking boots away. Wait...\n",
+                "You want to ride the Ferris wheel again...{VAR BE01}\n",
+                "Er...{VAR BE01}\n",
+                "I guess..."
+            ]
+        },
+        {
+            "id": "a003_469_0026",
+            "en_US": [
+                "If you want me to ride the Ferris wheel,\n",
+                "you have to win a Pokémon battle first.{VAR BE01}\n",
+                "What? Don't be ridiculous!\n",
+                "It's not an excuse. Why would I need an{VAR BE00}\n",
+                "excuse? No Hiker is scared of heights!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0027",
+            "en_US": [
+                "Oh, you changed your mind? Ha ha ha.\n",
+                "Well, don't feel bad if you're scared.{VAR BE00}\n",
+                "Lots of people are scared of heights.{VAR BE01}\n",
+                "No need to be embarrassed about that.\n",
+                "Me? Scared? Ya think? Me, a Hiker?{VAR BE00}\n",
+                "I'm all that and a slice of pie. Got it?{VAR BE00}\n",
+                "Good. S-see ya!"
+            ]
+        },
+        {
+            "id": "a003_469_0028",
+            "en_US": [
+                "Y'know, kid, I figured you'd have\n",
+                "Pokémon that were strong and tough!{VAR BE00}\n",
+                "You're gonna be a big success!{VAR BE01}\n",
+                "Yep, that was a fun battle. See ya!{VAR BE01}\n",
+                "Wha...?\n",
+                "You still wanna ride the Ferris wheel?{VAR BE01}\n",
+                "Er...\n",
+                "OK, let's go.{VAR BE00}\n",
+                "Sigh...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0029",
+            "en_US": [
+                "I-it was... It was fun, eh?\n",
+                "What? I what? I fainted?!{VAR BE00}\n",
+                "Don't be ridiculous!{VAR BE01}\n",
+                "I'm a Hiker!\n",
+                "I'm not scared of heights.{VAR BE01}\n",
+                "The only reason I was on the floor\n",
+                "was because there was gum on my shoe.{VAR BE01}\n",
+                "That's it, kid. I'm out! See ya!"
+            ]
+        },
+        {
+            "id": "a003_469_0030",
+            "en_US": [
+                "I can't believe how hot it is! Can you?{VAR BE01}\n",
+                "Say, are you interested in the Ferris\n",
+                "wheel? I'm here for the same thing!{VAR BE01}\n",
+                "The Ferris wheel seats two people,\n",
+                "so, unfortunately, you can't ride alone.{VAR BE01}\n",
+                "Let me think. Say, why don't you have\n",
+                "a Pokémon battle with me?{VAR BE01}\n",
+                "If you win the battle,\n",
+                "I wouldn't mind riding with you.{VAR BE01}\n",
+                "What do you say? Battle on?"
+            ]
+        },
+        {
+            "id": "a003_469_0031",
+            "en_US": [
+                "Sure, sure...{VAR BE01}\n",
+                "I'm interested in you because you seem\n",
+                "to be so drawn to the Ferris wheel.{VAR BE01}\n",
+                "That being said, I am an Ace Trainer.\n",
+                "I won't compromise in battle.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0032",
+            "en_US": "All right. Just as well for you..."
+        },
+        {
+            "id": "a003_469_0033",
+            "en_US": [
+                "Gah. I hate to admit it...{VAR BE01}\n",
+                "Losing to you is a complete surprise.{VAR BE01}\n",
+                "Sigh...\n",
+                "Looks can be deceiving, so they say...{VAR BE01}\n",
+                "Fair enough. As I said earlier,\n",
+                "I'll ride the Ferris wheel with you.{VAR BE01}\n",
+                "Actually, it's my first Ferris wheel ride.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0034",
+            "en_US": [
+                "I had no idea.{VAR BE01}\n",
+                "Call me stupid, but I didn't know\n",
+                "how scary altitude could be.{VAR BE01}\n",
+                "And...now I know.\n",
+                "Thanks to you.{VAR BE00}\n",
+                "I mean, thank you.{VAR BE00}\n",
+                "Thank you for staying calm.{VAR BE01}\n",
+                "Let me ask you something...\n",
+                "Let's keep the whole altitude thing{VAR BE00}\n",
+                "between you and me.{VAR BE01}\n",
+                "And then, if you really want to ride the\n",
+                "Ferris wheel again, I'll ride with you.{VAR BE01}\n",
+                "Being an Ace Trainer means finding\n",
+                "a way to conquer my fear."
+            ]
+        },
+        {
+            "id": "a003_469_0035",
+            "en_US": [
+                "Ah. H-hi.{VAR BE01}\n",
+                "You're calling me out to ride\n",
+                "the Ferris wheel again?{VAR BE01}\n",
+                "You see how I'm acting like it's the\n",
+                "simplest thing for me to conquer my fear?{VAR BE01}\n",
+                "You can help me out. We'll battle.{VAR BE01}\n",
+                "You win, and I'll ride the Ferris wheel\n",
+                "with you again.{VAR BE01}\n",
+                "Do you believe in me?"
+            ]
+        },
+        {
+            "id": "a003_469_0036",
+            "en_US": [
+                "I knew it!\n",
+                "I knew you would bet on me!{VAR BE01}\n",
+                "If I didn't try to conquer this fear,\n",
+                "then I really would be stupid.{VAR BE00}\n",
+                "Let's get going!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0037",
+            "en_US": [
+                "I'm letting myself down here.{VAR BE01}\n",
+                "This was a chance for me\n",
+                "to conquer my weakness...{VAR BE00}\n",
+                "to change my attitude about altitude..."
+            ]
+        },
+        {
+            "id": "a003_469_0038",
+            "en_US": [
+                "My sincerest thanks for calling me out.\n",
+                "I'd be a fool to hang on to this fear.{VAR BE01}\n",
+                "When you believe in me,\n",
+                "I believe in myself and in my ability{VAR BE00}\n",
+                "to become a truly fearless Ace Trainer.{VAR BE01}\n",
+                "It's all up to me... Watch it happen!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0039",
+            "en_US": [
+                "What are you grinning for?{VAR BE01}\n",
+                "Am I imagining it, or are you\n",
+                "laughing at me?{VAR BE00}\n",
+                "Nice. Nice... Well, thanks for nothing.{VAR BE01}\n",
+                "I am absolutely sure I will probably\n",
+                "conquer my fear when the time comes.{VAR BE00}\n",
+                "Because I am an Ace Trainer!{VAR BE01}\n",
+                "But for now, I'm out.\n",
+                "But if you keep thinking about riding{VAR BE00}\n",
+                "the Ferris wheel with me again, and you{VAR BE00}\n",
+                "just can't help yourself, come find me."
+            ]
+        },
+        {
+            "id": "a003_469_0040",
+            "en_US": [
+                "It's autumn already.\n",
+                "Summer goes by so fast...{VAR BE01}\n",
+                "Do you know what I mean?\n",
+                "See the Ferris wheel?{VAR BE01}\n",
+                "I've ridden it so many times,\n",
+                "but now, summer's almost over{VAR BE00}\n",
+                "and everyone's gone away...{VAR BE01}\n",
+                "Gone to school, gone on journeys.\n",
+                "And I'm still here, all alone.{VAR BE01}\n",
+                "I'd like to ride one more time,\n",
+                "but I need a friend to ride with.{VAR BE01}\n",
+                "Do me a favor and ride with me?\n",
+                "In return,{VAR BE00}\n",
+                "I'll do my best in a Pokémon battle."
+            ]
+        },
+        {
+            "id": "a003_469_0041",
+            "en_US": [
+                "Aww. Ha ha. Thank you, young man.\n",
+                "You have a kind heart.{VAR BE01}\n",
+                "Well, let's have a Pokémon battle!\n",
+                "Look out! I'll show you how it's done!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0042",
+            "en_US": [
+                "I see. Pardon me for being so out there.\n",
+                "I'm sorry for intruding on you,{VAR BE00}\n",
+                "a stranger..."
+            ]
+        },
+        {
+            "id": "a003_469_0043",
+            "en_US": [
+                "Whoops... That seemed like an easy win!\n",
+                "I did my best, though.{VAR BE01}\n",
+                "Ha ha. Thanks for the lesson!\n",
+                "It was fun.{VAR BE01}\n",
+                "Well, now...\n",
+                "Ready to ride the Ferris wheel?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0044",
+            "en_US": [
+                "Boo-hoo...\n",
+                "This view reminds me of so many things...{VAR BE01}\n",
+                "Sniff... Oh... I'm fine, I'm fine...{VAR BE01}\n",
+                "Oh...\n",
+                "I don't even know your name.{VAR BE01}\n",
+                "Well, do you mind my asking...?\n",
+                "Your name is {VAR 0100 0000}... Nice name.{VAR BE01}\n",
+                "I'll be around here for a while.\n",
+                "If you don't mind, I'd be happy if you{VAR BE00}\n",
+                "rode the Ferris wheel with me again."
+            ]
+        },
+        {
+            "id": "a003_469_0045",
+            "en_US": [
+                "Oh, it's you. Hi.\n",
+                "How have you been?{VAR BE01}\n",
+                "Are you here to ride the Ferris wheel?\n",
+                "I'd love to go again...{VAR BE01}\n",
+                "We could have another Pokémon battle..."
+            ]
+        },
+        {
+            "id": "a003_469_0046",
+            "en_US": [
+                "I'm so glad... Thank you...\n",
+                "Your kindness really lifts my spirits.{VAR BE01}\n",
+                "I know you're probably on your way\n",
+                "somewhere. Everyone's always busy.{VAR BE01}\n",
+                "{VAR 0100 0000}, ready for my best battle?\n",
+                "Let's see how it goes this time!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0047",
+            "en_US": [
+                "Whoops, I thought you looked too busy.{VAR BE01}\n",
+                "Sorry to have stopped you.\n",
+                "See you..."
+            ]
+        },
+        {
+            "id": "a003_469_0048",
+            "en_US": [
+                "Oh, my. {VAR 0100 0000},\n",
+                "you are really good at Pokémon battles.{VAR BE01}\n",
+                "A battle with me is not\n",
+                "challenging enough, is it?{VAR BE01}\n",
+                "But you've been kind enough to battle\n",
+                "with me anyway.{VAR BE00}\n",
+                "I wish I had a...a little brother like you.{VAR BE01}\n",
+                "Sorry, I'm just thinking out loud.{VAR BE01}\n",
+                "Come on, let's ride the Ferris wheel\n",
+                "again! I can't wait!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0049",
+            "en_US": [
+                "Boo-hoo... {VAR 0100 0000},\n",
+                "your kindness has meant a lot to me.{VAR BE01}\n",
+                "I don't know why I'm telling you this,\n",
+                "but I wish I had a little brother like you.{VAR BE01}\n",
+                "{VAR 0100 0000}, I feel so alone these days.\n",
+                "Thanks for spending time with me.{VAR BE01}\n",
+                "I don't know if I'll see you again...\n",
+                "I hope so, {VAR 0100 0000}! See you!"
+            ]
+        },
+        {
+            "id": "a003_469_0050",
+            "en_US": [
+                "It's kinda getting cool...\n",
+                "I betcha it's gonna get cold soon.{VAR BE01}\n",
+                "Are you here to ride the Ferris wheel?{VAR BE01}\n",
+                "Me, too.\n",
+                "But you've gotta have two people.{VAR BE01}\n",
+                "What do you wanna do?\n",
+                "How about we have a Pokémon battle?{VAR BE01}\n",
+                "Win, and I'll ride the wheel with you."
+            ]
+        },
+        {
+            "id": "a003_469_0051",
+            "en_US": [
+                "Just like that, you say yes?\n",
+                "You're kinda confident, hey?{VAR BE01}\n",
+                "Whatever...\n",
+                "One battle will show what's what.{VAR BE01}\n",
+                "Let's see what you got on your plate!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0052",
+            "en_US": [
+                "Ack. Whatever.{VAR BE01}\n",
+                "I'll be around a while if you\n",
+                "change your mind."
+            ]
+        },
+        {
+            "id": "a003_469_0053",
+            "en_US": [
+                "Whew... I was no match for you.{VAR BE01}\n",
+                "Guess I was the one who was kinda\n",
+                "more confident than I should have been!{VAR BE01}\n",
+                "I figured I knew my Pokémon battles, but\n",
+                "you showed me what is really what!{VAR BE01}\n",
+                "OK, like I said, one ride on the\n",
+                "Ferris wheel--over easy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0054",
+            "en_US": [
+                "Haah! It was so relaxing to talk with you!{VAR BE01}\n",
+                "It felt great to really let my hair down\n",
+                "and have some girl talk for a change.{VAR BE01}\n",
+                "That's what I think--sometimes you need\n",
+                "another girl to talk to, and that's that.{VAR BE01}\n",
+                "Hey, I'm gonna hang out here for a bit!{VAR BE01}\n",
+                "If you feel like it, stop by and we'll talk\n",
+                "some more!"
+            ]
+        },
+        {
+            "id": "a003_469_0055",
+            "en_US": [
+                "Hey! We met the other day!\n",
+                "Glad to see you! How're you doing?{VAR BE01}\n",
+                "If you're not busy, let's hang out again.{VAR BE01}\n",
+                "Why don't we have a Pokémon battle\n",
+                "and chat while riding the Ferris wheel?"
+            ]
+        },
+        {
+            "id": "a003_469_0056",
+            "en_US": [
+                "Yeah? You good? Yeah!{VAR BE01}\n",
+                "For whatever reason, hanging out\n",
+                "with you energized me like whoa!{VAR BE01}\n",
+                "Ooh, let's have a Pokémon battle first!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0057",
+            "en_US": [
+                "Aww. Oh well, if you gotta motor...\n",
+                "We'll have another chance to catch up{VAR BE00}\n",
+                "sometime. Say hi next time, OK?"
+            ]
+        },
+        {
+            "id": "a003_469_0058",
+            "en_US": [
+                "Sigh... I lost...again!{VAR BE01}\n",
+                "You've got a knack for\n",
+                "handling Pokémon, too.{VAR BE00}\n",
+                "I'm just not in your league.{VAR BE01}\n",
+                "And you're smart and pretty and nice...\n",
+                "I gotta say, I'm totally jealous of you!{VAR BE01}\n",
+                "Come on, at least we can ride the\n",
+                "Ferris wheel together.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0059",
+            "en_US": [
+                "Aww... It's over already! I knew it.{VAR BE01}\n",
+                "When I hang out with you,\n",
+                "time just seems to zip by!{VAR BE01}\n",
+                "I probably shouldn't say this,\n",
+                "but I don't have a lot of friends...{VAR BE01}\n",
+                "So finding someone to do stuff with and,\n",
+                "you know, just talk and stuff...{VAR BE00}\n",
+                "Well, it's really important to me!{VAR BE01}\n",
+                "Um, thanks for being someone\n",
+                "I can talk to.{VAR BE01}\n",
+                "Anytime you wanna hang out, let me know!"
+            ]
+        },
+        {
+            "id": "a003_469_0060",
+            "en_US": [
+                "It's already cold out.\n",
+                "It would be so fun if it snowed.{VAR BE01}\n",
+                "What's the matter?\n",
+                "Do you wanna go for a ride?{VAR BE01}\n",
+                "Oh, I get it.{VAR BE01}\n",
+                "You can't ride 'cause\n",
+                "you're all by yourself!{VAR BE01}\n",
+                "They don't let you ride this\n",
+                "Ferris wheel by yourself.{VAR BE01}\n",
+                "Hey! I know what!\n",
+                "I thought of something!{VAR BE01}\n",
+                "I don't have anything to do\n",
+                "until my dad comes back...{VAR BE01}\n",
+                "We could play and have a\n",
+                "Pokémon battle, if you want?{VAR BE01}\n",
+                "If you play with me, then we\n",
+                "can both ride the Ferris wheel!"
+            ]
+        },
+        {
+            "id": "a003_469_0061",
+            "en_US": [
+                "You do? You want to play with me?\n",
+                "Hee hee! I'm happy!{VAR BE01}\n",
+                "Fun! Fun! Let's battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0062",
+            "en_US": [
+                "You don't want to play?\n",
+                "Aww. I'm bored!"
+            ]
+        },
+        {
+            "id": "a003_469_0063",
+            "en_US": [
+                "That was fun! Thank you!{VAR BE01}\n",
+                "I knew you'd be strong\n",
+                "'cause you're big!{VAR BE01}\n",
+                "My dad is very strong in\n",
+                "Pokémon battles, too!{VAR BE01}\n",
+                "But, he's been busy working,\n",
+                "so he doesn't play with me.{VAR BE01}\n",
+                "But you're gonna play with me!{VAR BE01}\n",
+                "Next, let's ride the Ferris wheel!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0064",
+            "en_US": [
+                "Yay! That was cool!\n",
+                "Did you have fun?{VAR BE01}\n",
+                "It's been a while since I had fun.{VAR BE01}\n",
+                "My dad doesn't take me anywhere lately.\n",
+                "He just comes home and sleeps.{VAR BE01}\n",
+                "So, I try to have fun here by myself\n",
+                "until my dad comes back.{VAR BE01}\n",
+                "Let's play some more!"
+            ]
+        },
+        {
+            "id": "a003_469_0065",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "I have a lot of time!\n",
+                "Do you have time to play, too?{VAR BE01}\n",
+                "Let's play!\n",
+                "And let's have a Pokémon battle!{VAR BE00}\n",
+                "And let's ride the Ferris wheel!"
+            ]
+        },
+        {
+            "id": "a003_469_0066",
+            "en_US": [
+                "Tee hee! Yay! Thank you!\n",
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "Um, OK...\n",
+                "First, let's have a Pokémon battle!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0067",
+            "en_US": [
+                "Booo!\n",
+                "Are you busy?{VAR BE01}\n",
+                "All grown-ups are busy.\n",
+                "I am soooooo bored..."
+            ]
+        },
+        {
+            "id": "a003_469_0068",
+            "en_US": [
+                "Tee hee! That was so fun!\n",
+                "{VAR 0100 0000}, you're really strong!{VAR BE01}\n",
+                "I bet you're stronger than my dad\n",
+                "in Pokémon battles!{VAR BE01}\n",
+                "Um, OK, next!\n",
+                "The Ferris wheel! The Ferris wheel!{VAR BE01}\n",
+                "Hurry up! Let's go!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0069",
+            "en_US": [
+                "Hee hee! That was fun!\n",
+                "You had fun, too. Right? Right?{VAR BE01}\n",
+                "{VAR 0100 0000}, you know what?\n",
+                "I like you 'cause you play with me!{VAR BE01}\n",
+                "And! You know what else?\n",
+                "Um, it's... I don't like my dad lately.{VAR BE01}\n",
+                "My dad and me, we're alone.\n",
+                "I know he's working hard, but...{VAR BE01}\n",
+                "I don't like my dad 'cause\n",
+                "he doesn't play with me or anything.{VAR BE01}\n",
+                "I want him to play with me more.\n",
+                "Wait!{VAR BE01}\n",
+                "You'll play with me again, right?{VAR BE01}\n",
+                "Right?\n",
+                "OK. See ya! Bye-bye!"
+            ]
+        },
+        {
+            "id": "a003_469_0070",
+            "en_US": [
+                "Hi...\n",
+                "Pretty chilly out, don't you think?{VAR BE01}\n",
+                "Er... Well...\n",
+                "I was wondering if you'd think about...{VAR BE01}\n",
+                "Actually, this is the first time I've been\n",
+                "out of the house in a long time.{VAR BE01}\n",
+                "Since I'm out anyway, I want to get\n",
+                "some exercise for my Pokémon.{VAR BE01}\n",
+                "And I want to ride the Ferris wheel, too.{VAR BE01}\n",
+                "So... Want to keep me company?"
+            ]
+        },
+        {
+            "id": "a003_469_0071",
+            "en_US": [
+                "Really? Yes? OK!{VAR BE01}\n",
+                "Thanks!\n",
+                "You seem like a nice person.{VAR BE01}\n",
+                "Let's start by giving our Pokémon\n",
+                "a little warm-up battle for exercise.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0072",
+            "en_US": [
+                "OK. Totally understand.\n",
+                "Didn't mean to intrude on your time."
+            ]
+        },
+        {
+            "id": "a003_469_0073",
+            "en_US": [
+                "Pant, pant... I'm crushed! It's been way\n",
+                "too long since I got enough exercise.{VAR BE01}\n",
+                "But...\n",
+                "It was fun!{VAR BE01}\n",
+                "My Pokémon also looks pretty happy,\n",
+                "thanks to the exercise.{VAR BE01}\n",
+                "Thank you for having a battle with us.\n",
+                "Now, shall we ride the Ferris wheel?{VAR BE01}\n",
+                "I've been looking forward to this\n",
+                "for a long time.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0074",
+            "en_US": [
+                "{VAR 0100 0000}, thank you.{VAR BE01}\n",
+                "I'm sorry if I caused you any trouble.{VAR BE01}\n",
+                "I don't get out much.\n",
+                "My health has never been strong.{VAR BE01}\n",
+                "It's been tremendous hanging out\n",
+                "with you today...{VAR BE01}\n",
+                "So, thanks again, {VAR 0100 0000}.\n",
+                "When I feel well enough, I'll be back.{VAR BE01}\n",
+                "I'd love to hang out with you again."
+            ]
+        },
+        {
+            "id": "a003_469_0075",
+            "en_US": [
+                "Hello, {VAR 0100 0000}. Good to see you!\n",
+                "It's cold, eh? How are you doing?{VAR BE01}\n",
+                "I feel good today, so I'm out for a walk.{VAR BE01}\n",
+                "If you don't mind, {VAR 0100 0000},\n",
+                "it would be nice to have a Pokémon battle{VAR BE00}\n",
+                "and ride the Ferris wheel together...{VAR BE01}\n",
+                "Let's hang out for a while,\n",
+                "if that sounds good?"
+            ]
+        },
+        {
+            "id": "a003_469_0076",
+            "en_US": [
+                "All right! I like that answer!{VAR BE01}\n",
+                "Shall we begin with a little\n",
+                "Pokémon exercise?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0077",
+            "en_US": [
+                "I see, alas. You are a busy person.{VAR BE01}\n",
+                "When you have time, it would be nice\n",
+                "to talk with you again."
+            ]
+        },
+        {
+            "id": "a003_469_0078",
+            "en_US": [
+                "Pant, pant...{VAR BE01}\n",
+                "Still...{VAR BE01}\n",
+                "Still...don't have the physical strength\n",
+                "to keep up with you...{VAR BE01}\n",
+                "But it's fun\n",
+                "to have a battle...{VAR BE01}\n",
+                "My Pokémon's also\n",
+                "glad to see you.{VAR BE01}\n",
+                "Thank you...{VAR BE01}\n",
+                "Shall we ride the Ferris wheel now?\n",
+                "Let's be on our way, {VAR 0100 0000}...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_469_0079",
+            "en_US": [
+                "Again, sorry if I've caused you trouble.{VAR BE01}\n",
+                "But, {VAR 0100 0000}, since I started\n",
+                "hanging out with you, I feel better...{VAR BE01}\n",
+                "And, to be honest, {VAR 0100 0000},\n",
+                "I am very happy to hang out with you.{VAR BE01}\n",
+                "As long as you don't mind, I'd enjoy\n",
+                "having you hang out with me another time.{VAR BE01}\n",
+                "Again, thank you very much for today.\n",
+                "See you, {VAR 0100 0000}..."
+            ]
+        }
+    ]
+}

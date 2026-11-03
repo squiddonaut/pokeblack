@@ -1,0 +1,190 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_377_0000",
+            "en_US": "Bianca: {VAR 0100 0000}!{VAR BE01}"
+        },
+        {
+            "id": "a003_377_0001",
+            "en_US": [
+                "As I've been traveling lately,\n",
+                "I've been thinking about things.{VAR BE01}\n",
+                "Things like what I can do with my life,\n",
+                "and what I want to do, but...{VAR BE01}\n",
+                "I'm thinking how cool it would be\n",
+                "to be a model like Elesa.{VAR BE01}\n",
+                "And then, how cool it would be to do\n",
+                "research on Pokémon like{VAR BE00}\n",
+                "Professor Juniper...{VAR BE01}\n",
+                "If that's what I want to do, I'm gonna\n",
+                "have to know a lot about Pokémon.{VAR BE00}\n",
+                "Sooooo...would you please battle me?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0002",
+            "en_US": [
+                "Bianca: Yep!\n",
+                "{VAR 0100 0000}, you're amazing!{VAR BE01}\n",
+                "I'm really, really, really impressed, and\n",
+                "that makes me want to give this to you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0003",
+            "en_US": [
+                "Bianca: In Castelia City, my precious\n",
+                "Pokémon was stolen by Team Plasma.{VAR BE01}\n",
+                "So I really, really understand!{VAR BE01}\n",
+                "If Team Plasma forces everyone to\n",
+                "liberate their Pokémon,{VAR BE00}\n",
+                "there will be nothing but sad people!{VAR BE01}\n",
+                "{VAR 0100 0000}!\n",
+                "Stop Team Plasma!{VAR BE01}\n",
+                "Don't allow Pokémon to be stolen\n",
+                "from Trainers who love them!{VAR BE01}\n",
+                "I think that's the truth--or ideal--that\n",
+                "you've been pursuing, {VAR 0100 0000}...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0004",
+            "en_US": [
+                "Bianca: Oh dear, here I've come all this\n",
+                "way, and I'm afraid I'm bothering you{VAR BE00}\n",
+                "when you're going through so much.{VAR BE01}\n",
+                "All I wanted was to help you relax,\n",
+                "{VAR 0100 0000}.{VAR BE01}\n",
+                "Knowing you, you'll be fine!\n",
+                "Definitely! You'll totally be fine!{VAR BE01}\n",
+                "I guarantee it!{VAR BE01}\n",
+                "Anyway, you know what I mean...\n",
+                "Yeah... So, bye-bye!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0005",
+            "en_US": [
+                "Team Plasma: Apparently, some of us\n",
+                "are working in Dragonspiral Tower,{VAR BE00}\n",
+                "which is close to Icirrus City."
+            ]
+        },
+        {
+            "id": "a003_377_0006",
+            "en_US": [
+                "Team Plasma: Apparently some of us\n",
+                "are working in the Relic Castle{VAR BE00}\n",
+                "in the Desert Resort."
+            ]
+        },
+        {
+            "id": "a003_377_0007",
+            "en_US": [
+                "Team Plasma: Apparently, some of us\n",
+                "are working in Dragonspiral Tower,{VAR BE00}\n",
+                "which is close to Icirrus City!"
+            ]
+        },
+        {
+            "id": "a003_377_0008",
+            "en_US": [
+                "Team Plasma: Apparently some of us\n",
+                "are working in the Relic Castle{VAR BE00}\n",
+                "in the Desert Resort!"
+            ]
+        },
+        {
+            "id": "a003_377_0009",
+            "en_US": [
+                "My parasol is full of TMs.\n",
+                "Would you like one?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0010",
+            "en_US": [
+                "Facade! Facade!\n",
+                "When the user's poisoned, paralyzed,{VAR BE00}\n",
+                "or burned, its attack power doubles!"
+            ]
+        },
+        {
+            "id": "a003_377_0011",
+            "en_US": [
+                "That's right.{VAR BE01}\n",
+                "I find rocks, and then\n",
+                "I give them to people...{VAR BE00}\n",
+                "That's my simple life.{VAR BE00}\n",
+                "You rock...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0012",
+            "en_US": [
+                "Here, I'll give you the Damp Rock\n",
+                "I found this morning.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0013",
+            "en_US": [
+                "Here, I'll give you the Heat Rock\n",
+                "I found this afternoon.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0014",
+            "en_US": [
+                "Here, I'll give you the Smooth Rock\n",
+                "I found this evening.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0015",
+            "en_US": [
+                "Here, I'll give you the Icy Rock\n",
+                "I found tonight.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_377_0016",
+            "en_US": [
+                "Yeah, yeah...{VAR BE01}\n",
+                "If you like rocks, come back tomorrow...\n",
+                "Roll in at a different time, if possible.{VAR BE00}\n",
+                "I'll be here, I pumice."
+            ]
+        },
+        {
+            "id": "a003_377_0017",
+            "en_US": "Route 8",
+            "flags": 207
+        },
+        {
+            "id": "a003_377_0018",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_377_0019",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "Press SELECT to change the location\n",
+                "of items in the Bag!{VAR BE01}\n",
+                "Poink!"
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_377_0020",
+            "en_US": [
+                "Tubeline Bridge\n",
+                "Unova's famous railway bridge"
+            ],
+            "flags": 207
+        }
+    ]
+}

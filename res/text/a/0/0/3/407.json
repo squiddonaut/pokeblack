@@ -1,0 +1,35 @@
+{
+    "flags": 224,
+    "pad": "8c8c",
+    "messages": [
+        {
+            "id": "a003_407_0000",
+            "en_US": [
+                "If you want to enjoy the slow life, visit\n",
+                "White Forest."
+            ]
+        },
+        {
+            "id": "a003_407_0001",
+            "en_US": [
+                "If you want to enjoy vibrant city life,\n",
+                "visit Black City."
+            ]
+        },
+        {
+            "id": "a003_407_0002",
+            "en_US": [
+                "White Forest is full of nature!\n",
+                "People and Pokémon live together."
+            ]
+        },
+        {
+            "id": "a003_407_0003",
+            "en_US": [
+                "People in this city are really something!{VAR BE01}\n",
+                "Be careful, 'cause they'll challenge you\n",
+                "if you talk to them!"
+            ]
+        }
+    ]
+}

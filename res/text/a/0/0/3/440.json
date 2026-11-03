@@ -1,0 +1,21 @@
+{
+    "flags": 224,
+    "pad": "9e9e",
+    "messages": [
+        {
+            "id": "a003_440_0000",
+            "en_US": [
+                "On Route 2, many Trainers train their\n",
+                "Pokémon by having them battle!"
+            ]
+        },
+        {
+            "id": "a003_440_0001",
+            "en_US": [
+                "Guess what I know!{VAR BE01}\n",
+                "I know! Pokémon can remember\n",
+                "up to four moves at a time! Hee hee!"
+            ]
+        }
+    ]
+}

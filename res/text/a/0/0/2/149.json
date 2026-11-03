@@ -1,0 +1,181 @@
+{
+    "flags": 84,
+    "messages": [
+        {
+            "id": "a002_149_0000",
+            "en_US": "MATCH UP"
+        },
+        {
+            "id": "a002_149_0001",
+            "en_US": "NO. 1"
+        },
+        {
+            "id": "a002_149_0002",
+            "en_US": "BAD MATCHUP"
+        },
+        {
+            "id": "a002_149_0003",
+            "en_US": "PREPARATION"
+        },
+        {
+            "id": "a002_149_0004",
+            "en_US": "WINS"
+        },
+        {
+            "id": "a002_149_0005",
+            "en_US": "NO MATCH"
+        },
+        {
+            "id": "a002_149_0006",
+            "en_US": "SPIRIT"
+        },
+        {
+            "id": "a002_149_0007",
+            "en_US": "CRITICAL HIT"
+        },
+        {
+            "id": "a002_149_0008",
+            "en_US": "ACE CARD"
+        },
+        {
+            "id": "a002_149_0009",
+            "en_US": "COME ON"
+        },
+        {
+            "id": "a002_149_0010",
+            "en_US": "NO EFFECT"
+        },
+        {
+            "id": "a002_149_0011",
+            "en_US": "ATTACK"
+        },
+        {
+            "id": "a002_149_0012",
+            "en_US": "SURRENDER"
+        },
+        {
+            "id": "a002_149_0013",
+            "en_US": "COURAGE"
+        },
+        {
+            "id": "a002_149_0014",
+            "en_US": "TALENT"
+        },
+        {
+            "id": "a002_149_0015",
+            "en_US": "STRATEGY"
+        },
+        {
+            "id": "a002_149_0016",
+            "en_US": "MATCH"
+        },
+        {
+            "id": "a002_149_0017",
+            "en_US": "VICTORY"
+        },
+        {
+            "id": "a002_149_0018",
+            "en_US": "SENSE"
+        },
+        {
+            "id": "a002_149_0019",
+            "en_US": "VERSUS"
+        },
+        {
+            "id": "a002_149_0020",
+            "en_US": "FIGHTS"
+        },
+        {
+            "id": "a002_149_0021",
+            "en_US": "POWER"
+        },
+        {
+            "id": "a002_149_0022",
+            "en_US": "CHALLENGE"
+        },
+        {
+            "id": "a002_149_0023",
+            "en_US": "CHAMPION"
+        },
+        {
+            "id": "a002_149_0024",
+            "en_US": "STRONG"
+        },
+        {
+            "id": "a002_149_0025",
+            "en_US": "TAKE IT EASY"
+        },
+        {
+            "id": "a002_149_0026",
+            "en_US": "FOE"
+        },
+        {
+            "id": "a002_149_0027",
+            "en_US": "GENIUS"
+        },
+        {
+            "id": "a002_149_0028",
+            "en_US": "LEGEND"
+        },
+        {
+            "id": "a002_149_0029",
+            "en_US": "TRAINER"
+        },
+        {
+            "id": "a002_149_0030",
+            "en_US": "GOOD MATCHUP"
+        },
+        {
+            "id": "a002_149_0031",
+            "en_US": "BATTLE"
+        },
+        {
+            "id": "a002_149_0032",
+            "en_US": "EMERGENCY"
+        },
+        {
+            "id": "a002_149_0033",
+            "en_US": "FIGHT"
+        },
+        {
+            "id": "a002_149_0034",
+            "en_US": "REVIVE"
+        },
+        {
+            "id": "a002_149_0035",
+            "en_US": "POINTS"
+        },
+        {
+            "id": "a002_149_0036",
+            "en_US": "SERIOUS"
+        },
+        {
+            "id": "a002_149_0037",
+            "en_US": "LOSS"
+        },
+        {
+            "id": "a002_149_0038",
+            "en_US": "PARTNER"
+        },
+        {
+            "id": "a002_149_0039",
+            "en_US": "INVINCIBLE"
+        },
+        {
+            "id": "a002_149_0040",
+            "en_US": "EASY"
+        },
+        {
+            "id": "a002_149_0041",
+            "en_US": "WEAK"
+        },
+        {
+            "id": "a002_149_0042",
+            "en_US": "EASY WIN"
+        },
+        {
+            "id": "a002_149_0043",
+            "en_US": "MOVE"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "flags": 224,
+    "pad": "3a3a",
+    "messages": [
+        {
+            "id": "a003_141_0000",
+            "en_US": [
+                "The Pokémon League is a place where you\n",
+                "both pursue strength and express it.{VAR BE01}\n",
+                "The way to express it is simple...{VAR BE01}\n",
+                "You just have to beat the Elite Four and\n",
+                "the Champion!{VAR BE01}\n",
+                "You can start your challenge by battling\n",
+                "any of the Elite Four, and if you defeat{VAR BE00}\n",
+                "them all, you can challenge the Champion!{VAR BE01}\n",
+                "However! I warn you, once you start\n",
+                "your challenge, there's no turning back.{VAR BE01}\n",
+                "You must keep battling until you defeat\n",
+                "them all...or are defeated yourself.{VAR BE01}\n",
+                "Do you want to go in?"
+            ]
+        },
+        {
+            "id": "a003_141_0001",
+            "en_US": [
+                "Once you start your challenge,\n",
+                "you cannot leave until you win against all{VAR BE00}\n",
+                "or lose! Do you want to go in?"
+            ]
+        },
+        {
+            "id": "a003_141_0002",
+            "en_US": "Then, proceed!{VAR BE01}"
+        },
+        {
+            "id": "a003_141_0003",
+            "en_US": [
+                "Don't neglect preparation!{VAR BE01}\n",
+                "Go through the entrance there, and\n",
+                "prepare as much as possible. Make sure{VAR BE00}\n",
+                "your Pokémon are fully recovered!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_141_0004",
+            "en_US": [
+                "The Pokémon League is a place where you\n",
+                "both pursue strength and express it.{VAR BE01}\n",
+                "The way to express it is simple...{VAR BE01}\n",
+                "You just have to beat the Elite Four and\n",
+                "the Champion!{VAR BE01}\n",
+                "You can start your challenge by battling\n",
+                "any of the Elite Four, and if you defeat{VAR BE00}\n",
+                "them all, you can challenge the Champion!{VAR BE01}\n",
+                "However! I warn you, once you start\n",
+                "your challenge, there's no turning back.{VAR BE01}\n",
+                "If you enter, you must keep battling\n",
+                "until you defeat them all...{VAR BE00}\n",
+                "or are defeated yourself."
+            ]
+        },
+        {
+            "id": "a003_141_0005",
+            "en_US": [
+                "The Pokémon League is every Trainer's\n",
+                "greatest challenge!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_141_0006",
+            "en_US": [
+                "You might want to prepare here.{VAR BE01}\n",
+                "Because if you lose even once,\n",
+                "you have to start all over again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_141_0007",
+            "en_US": [
+                "My apologies, young Trainer.{VAR BE01}\n",
+                "But you may not enter the\n",
+                "Pokémon League at this time.{VAR BE01}"
+            ]
+        }
+    ]
+}

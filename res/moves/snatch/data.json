@@ -1,0 +1,30 @@
+{
+    "name": "Snatch",
+    "description": [
+        "The user steals the effects of any\n",
+        "healing or stat-changing move the\n",
+        "opponent attempts to use."
+    ],
+    "type": "TYPE_DARK",
+    "category": "MOVE_CATEGORY_SPECIAL",
+    "class": "CLASS_STATUS",
+    "power": 0,
+    "accuracy": 101,
+    "pp": 10,
+    "priority": 4,
+    "minHits": 0,
+    "maxHits": 0,
+    "status": "MOVE_STATUS_NONE",
+    "statusChance": 0,
+    "effectDuration": "MOVE_DURATION_NONE",
+    "minTurns": 0,
+    "maxTurns": 0,
+    "critModifier": 0,
+    "flinchChance": 0,
+    "aiScript": 195,
+    "recoveryByDamage": 0,
+    "recoveryByMaxHP": 0,
+    "range": "RANGE_USER",
+    "statChanges": [],
+    "flags": ["MOVE_FLAG_BYPASSES_SUBSTITUTE"]
+}

@@ -1,0 +1,85 @@
+{
+    "flags": 224,
+    "pad": "0202",
+    "messages": [
+        {
+            "id": "a003_363_0000",
+            "en_US": [
+                "Here on Route 6, there's a place called\n",
+                "Mistralton Cave.{VAR BE01}\n",
+                "Supposedly, deep in that cave you can\n",
+                "find an amazing Pokémon called Cobalion,{VAR BE00}\n",
+                "who was said to have protected Pokémon{VAR BE00}\n",
+                "from a sea of fire in ancient Unova.{VAR BE01}\n",
+                "If you can use a move called Surf\n",
+                "that lets you move over the water's{VAR BE00}\n",
+                "surface, maybe you can see Cobalion."
+            ]
+        },
+        {
+            "id": "a003_363_0001",
+            "en_US": [
+                "I've heard that there are also Pokémon\n",
+                "that should be called Cobalion's allies."
+            ]
+        },
+        {
+            "id": "a003_363_0002",
+            "en_US": [
+                "Now what should I do?{VAR BE01}\n",
+                "The entrance to Chargestone Cave,\n",
+                "just ahead, is blocked off.{VAR BE01}\n",
+                "It's because of a Pokémon called\n",
+                "Galvantula, and if I don't ask Clay{VAR BE00}\n",
+                "to do something, there's no way to pass."
+            ]
+        },
+        {
+            "id": "a003_363_0003",
+            "en_US": [
+                "Chargestone Cave seems like\n",
+                "a complicated maze, but actually{VAR BE00}\n",
+                "it's a straight road."
+            ]
+        },
+        {
+            "id": "a003_363_0004",
+            "en_US": [
+                "Pokémon with Dry Skin love Water-type\n",
+                "moves and rainy weather. ♪{VAR BE01}\n",
+                "I'm talking about the Ability\n",
+                "of these Pokémon, of course."
+            ]
+        },
+        {
+            "id": "a003_363_0005",
+            "en_US": "Route 6",
+            "flags": 207
+        },
+        {
+            "id": "a003_363_0006",
+            "en_US": "",
+            "flags": 0
+        },
+        {
+            "id": "a003_363_0007",
+            "en_US": [
+                "Trainer Tips!{VAR BE01}\n",
+                "\n",
+                "You can register certain items with\n",
+                "the Y Button to use them easily!{VAR BE01}\n",
+                "Look for a square checkbox beside\n",
+                "the name of a Key Item."
+            ],
+            "flags": 207
+        },
+        {
+            "id": "a003_363_0008",
+            "en_US": [
+                "Researching the Year's Seasons:\n",
+                "The Season Research Lab"
+            ],
+            "flags": 207
+        }
+    ]
+}

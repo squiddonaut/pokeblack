@@ -1,0 +1,236 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_149_0000",
+            "en_US": [
+                "N: {VAR BE09 0001}It's over!{VAR BE01}\n",
+                "Never again will Pokémon be made to\n",
+                "suffer or be held captive by humans.{VAR BE01}\n",
+                "It's all thanks to my friend, Reshiram!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0001",
+            "en_US": [
+                "N: {VAR BE09 0001}It's over!{VAR BE01}\n",
+                "Never again will Pokémon be made to\n",
+                "suffer or be held captive by humans.{VAR BE01}\n",
+                "It's all thanks to my friend, Zekrom!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0002",
+            "en_US": [
+                "{VAR BE09 0001}You may have the title of Champion...\n",
+                "But you can't stop me with just a title.{VAR BE00}\n",
+                "Your soft heart has left you weak.{VAR BE01}\n",
+                "Years ago, you lost your Pokémon,\n",
+                "your partner, to sickness.{VAR BE01}\n",
+                "In order to forget the pain in your\n",
+                "heart, you wandered Unova...{VAR BE01}\n",
+                "Who knows how long it's been since you've\n",
+                "had to fight with your full strength?{VAR BE01}\n",
+                "I actually kind of like that\n",
+                "about you, though.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0003",
+            "en_US": [
+                "{VAR BE09 0001}As a Trainer who far outmatches\n",
+                "the Champion,{VAR BE00}\n",
+                "I shall issue an order across Unova:{VAR BE01}\n",
+                "Trainers of the world,\n",
+                "free your Pokémon!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0004",
+            "en_US": [
+                "Alder: I beg you!{VAR BE01}\n",
+                "Separating people from Pokémon...\n",
+                "Do anything but that!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0005",
+            "en_US": [
+                "N: {VAR BE09 0001}You and I both put our beliefs on the\n",
+                "line and fought with all our strength.{VAR BE01}\n",
+                "And I won.{VAR BE01}\n",
+                "Do not say another word.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0006",
+            "en_US": "{VAR BE09 0001}...I've been waiting.{VAR BE09 0000}{VAR BE01}"
+        },
+        {
+            "id": "a003_149_0007",
+            "en_US": [
+                "{VAR BE09 0001}In the future I envisioned, you obtained\n",
+                "a stone. And, indeed, you have.{VAR BE01}\n",
+                "That Dark Stone...\n",
+                "Reshiram is responding to it.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0008",
+            "en_US": [
+                "{VAR BE09 0001}In the future I envisioned, you obtained\n",
+                "a stone. And, indeed, you have.{VAR BE01}\n",
+                "That Light Stone...\n",
+                "Zekrom is responding to it.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0009",
+            "en_US": [
+                "{VAR BE09 0001}Stop.{VAR BE01}\n",
+                "This is not a suitable place\n",
+                "for the legendary dragons!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0010",
+            "en_US": [
+                "{VAR BE09 0001}From the ground, rise up!\n",
+                "The castle of Team Plasma!{VAR BE00}\n",
+                "Surround the Pokémon League!{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0011",
+            "en_US": [
+                "N: {VAR BE09 0001}What has just appeared is\n",
+                "Team Plasma's castle.{VAR BE01}\n",
+                "The king's words will resound\n",
+                "from the heights to all below.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0012",
+            "en_US": [
+                "{VAR BE09 0001}You must come to the castle, as well.\n",
+                "Everything will be decided there.{VAR BE01}\n",
+                "Whether Pokémon will be liberated\n",
+                "from people,{VAR BE00}\n",
+                "or whether Pokémon and people{VAR BE00}\n",
+                "will live together...{VAR BE01}\n",
+                "We will see whose belief is stronger...\n",
+                "And our result will change the world.{VAR BE09 0000}{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0013",
+            "en_US": [
+                "Cheren: Mr. Alder, you're a wreck.\n",
+                "It's not fitting for the Champion.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0014",
+            "en_US": "Alder: You did well to get this far.{VAR BE01}"
+        },
+        {
+            "id": "a003_149_0015",
+            "en_US": [
+                "Cheren: Somehow, I beat the\n",
+                "Pokémon League, but it wasn't easy.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0016",
+            "en_US": "Alder: Er... I have to congratulate you.{VAR BE01}"
+        },
+        {
+            "id": "a003_149_0017",
+            "en_US": [
+                "Cheren: I became stronger because\n",
+                "I understood what I want to do.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0018",
+            "en_US": [
+                "{VAR 0100 0000}!\n",
+                "Tell N this...{VAR BE01}\n",
+                "Some people grow stronger by being\n",
+                "with Pokémon.{VAR BE01}\n",
+                "My Pokémon and I are proof. Together,\n",
+                "we learned and became stronger.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0019",
+            "en_US": "Cheren: I'll look after Alder. You go on."
+        },
+        {
+            "id": "a003_149_0020",
+            "en_US": [
+                "Alder: I... I lost.{VAR BE01}\n",
+                "I should have been able to demonstrate\n",
+                "the bond between me and my Pokémon.{VAR BE01}\n",
+                "That would have shown that brat the\n",
+                "worthlessness of his outrageous dreams.{VAR BE01}\n",
+                "So, his convictions were the real thing...\n",
+                "Be careful.{VAR BE01}\n",
+                "The ones who change the world are always\n",
+                "the ones who pursued their dreams.{VAR BE01}\n",
+                "{VAR 0100 0000}, I ask this of you.{VAR BE01}\n",
+                "Even if Pokémon and people are\n",
+                "separated, nothing good will come of it.{VAR BE00}\n",
+                "Please let him know that!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0021",
+            "en_US": [
+                "Alder: I... I lost.{VAR BE01}\n",
+                "I should have been able to demonstrate\n",
+                "the bond between me and my Pokémon.{VAR BE01}\n",
+                "That would have shown that brat the\n",
+                "worthlessness of his outrageous dreams.{VAR BE01}\n",
+                "So, his convictions were the real thing...\n",
+                "Be careful.{VAR BE01}\n",
+                "The ones who change the world are always\n",
+                "the ones who pursued their dreams.{VAR BE01}\n",
+                "{VAR 0100 0000}, I ask this of you.{VAR BE01}\n",
+                "Even if Pokémon and people are\n",
+                "separated, nothing good will come of it.{VAR BE00}\n",
+                "Please let him know that!"
+            ]
+        },
+        {
+            "id": "a003_149_0022",
+            "en_US": [
+                "Alder: I am grateful for\n",
+                "what you did about N.{VAR BE01}\n",
+                "I don't know what he's thinking now,\n",
+                "but I'm sure he realizes{VAR BE00}\n",
+                "that different people and Pokémon{VAR BE00}\n",
+                "have their own paths to follow.{VAR BE01}\n",
+                "Say now, how about a match with the\n",
+                "strongest Trainer in the Unova region?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0023",
+            "en_US": [
+                "Alder: I've really been looking forward\n",
+                "to deciding who's the strongest{VAR BE00}\n",
+                "Pokémon Trainer in the Unova region!{VAR BE01}\n",
+                "Kiai!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_149_0024",
+            "en_US": [
+                "Alder: Well done!\n",
+                "You certainly are an unmatched talent!{VAR BE01}\n",
+                "Come with me!{VAR BE01}"
+            ]
+        }
+    ]
+}

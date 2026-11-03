@@ -1,0 +1,48 @@
+{
+    "flags": 221,
+    "pad": "c4c4",
+    "messages": [
+        {
+            "id": "a002_201_0000",
+            "en_US": [
+                "Touch the Battle icon\n",
+                "if you want to battle!"
+            ]
+        },
+        {
+            "id": "a002_201_0001",
+            "en_US": [
+                "Touch the Trade icon\n",
+                "if you want to trade!"
+            ]
+        },
+        {
+            "id": "a002_201_0002",
+            "en_US": [
+                "Touch the Draw icon\n",
+                "if you want to draw!"
+            ]
+        },
+        {
+            "id": "a002_201_0003",
+            "en_US": [
+                "Touch the Spin Trade icon\n",
+                "if you want to Spin Trade!"
+            ]
+        },
+        {
+            "id": "a002_201_0004",
+            "en_US": "FRIEND",
+            "flags": 102
+        },
+        {
+            "id": "a002_201_0005",
+            "en_US": "PLAYER",
+            "flags": 102
+        },
+        {
+            "id": "a002_201_0006",
+            "en_US": "I've entered the Union Room."
+        }
+    ]
+}

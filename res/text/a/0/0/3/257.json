@@ -1,0 +1,66 @@
+{
+    "flags": 224,
+    "messages": [
+        {
+            "id": "a003_257_0000",
+            "en_US": [
+                "Deoxys is reacting to the meteor...{VAR BE01}\n",
+                "Would you like to bring the Deoxys\n",
+                "in your party closer to the meteor?"
+            ]
+        },
+        {
+            "id": "a003_257_0001",
+            "en_US": [
+                "Which Deoxys would you like to\n",
+                "bring closer to the meteor?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_257_0002",
+            "en_US": [
+                "The Pokémon is not reacting\n",
+                "to the meteor."
+            ]
+        },
+        {
+            "id": "a003_257_0003",
+            "en_US": [
+                "The Egg is not reacting\n",
+                "to the meteor."
+            ]
+        },
+        {
+            "id": "a003_257_0004",
+            "en_US": [
+                "{VAR 0102 0000} has changed to\n",
+                "have balanced stats!"
+            ]
+        },
+        {
+            "id": "a003_257_0005",
+            "en_US": [
+                "{VAR 0102 0000} has changed to\n",
+                "have superior stats for attacking!"
+            ]
+        },
+        {
+            "id": "a003_257_0006",
+            "en_US": [
+                "{VAR 0102 0000} has changed to\n",
+                "have superior stats when defending!"
+            ]
+        },
+        {
+            "id": "a003_257_0007",
+            "en_US": [
+                "{VAR 0102 0000} has changed\n",
+                "to have increased Speed!"
+            ]
+        },
+        {
+            "id": "a003_257_0008",
+            "en_US": "There is a meteor that fell from space..."
+        }
+    ]
+}

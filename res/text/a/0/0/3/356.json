@@ -1,0 +1,144 @@
+{
+    "flags": 224,
+    "pad": "a2a2",
+    "messages": [
+        {
+            "id": "a003_356_0000",
+            "en_US": [
+                "Cheren: {VAR 0100 0000}!{VAR BE01}\n",
+                "This bothersome bunch doesn't\n",
+                "really listen to reason.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0001",
+            "en_US": [
+                "Team Plasma: That child cannot use\n",
+                "a Pokémon to its full potential.{VAR BE01}\n",
+                "Doesn't that make the Pokémon sad?{VAR BE01}\n",
+                "It's the same thing for all your Pokémon,\n",
+                "so hand them over to us now!{VAR BE01}\n",
+                "Better yet...\n",
+                "We'll just take them!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0002",
+            "en_US": [
+                "Team Plasma: Wha...? How could we lose\n",
+                "when we have right on our side?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0003",
+            "en_US": [
+                "Cheren: Not bad, {VAR 0100 0000}.\n",
+                "OK, go return the Pokémon to that girl.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0004",
+            "en_US": "You don't need to return it!{VAR BE01}"
+        },
+        {
+            "id": "a003_356_0005",
+            "en_US": [
+                "Team Plasma: How troublesome.{VAR BE01}\n",
+                "Not only do you fail to understand, but\n",
+                "you actually got in our way, to boot.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0006",
+            "en_US": [
+                "Team Plasma: There's two of you\n",
+                "and two of us.{VAR BE01}\n",
+                "We'll show you our combined power\n",
+                "and teach you that we are right!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0007",
+            "en_US": [
+                "Cheren: So, there were more of them...{VAR BE01}\n",
+                "Still, why are Pokémon robbers\n",
+                "acting so self-righteous?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0008",
+            "en_US": [
+                "{VAR 0100 0000}!{VAR BE01}\n",
+                "We've been friends our whole lives.\n",
+                "We've got each other's back when it{VAR BE00}\n",
+                "counts. Let's show them how it's done!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0009",
+            "en_US": [
+                "Team Plasma: In order to liberate\n",
+                "Pokémon from foolish people,{VAR BE00}\n",
+                "we will take their Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0010",
+            "en_US": [
+                "Cheren: Whatever...\n",
+                "What a waste of time.{VAR BE01}\n",
+                "Come on, what reason could possibly\n",
+                "justify stealing Pokémon from people?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0011",
+            "en_US": [
+                "Team Plasma: Pokémon Trainers\n",
+                "like you are making Pokémon suffer...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0012",
+            "en_US": [
+                "Cheren: What do you mean, Trainers are\n",
+                "making Pokémon suffer?{VAR BE00}\n",
+                "I don't get that at all!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0013",
+            "en_US": [
+                "Team Plasma: We'll give you back\n",
+                "the Pokémon...{VAR BE01}\n",
+                "But be aware of how this Pokémon suffers\n",
+                "from being used by people.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0014",
+            "en_US": [
+                "Team Plasma: Someday, open your eyes\n",
+                "to your own complicity.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0015",
+            "en_US": [
+                "Cheren: Trainers bring out\n",
+                "their Pokémon's strength.{VAR BE01}\n",
+                "Pokémon believe in their\n",
+                "Trainers and respond to that.{VAR BE01}\n",
+                "I don't understand what about\n",
+                "that makes Pokémon suffer!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_356_0016",
+            "en_US": [
+                "OK, {VAR 0100 0000},\n",
+                "I'll return the Pokémon.{VAR BE01}"
+            ]
+        }
+    ]
+}

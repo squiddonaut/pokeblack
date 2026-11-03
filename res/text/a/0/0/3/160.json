@@ -1,0 +1,475 @@
+{
+    "flags": 224,
+    "pad": "7676",
+    "messages": [
+        {
+            "id": "a003_160_0000",
+            "en_US": [
+                "Hey! Hey, you!\n",
+                "What was the first Pokémon you received?{VAR BE01}\n",
+                "...\n",
+                "...{VAR BE01}\n",
+                "{VAR 0101 0000}! Really?\n",
+                "Then {VAR 0101 0001} could be a big help!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0001",
+            "en_US": [
+                "Your {VAR 0101 0000} does not do well against\n",
+                "{VAR 0103 0002}-type Pokémon!{VAR BE01}\n",
+                "Say, do you want this {VAR 0101 0001} of mine?"
+            ]
+        },
+        {
+            "id": "a003_160_0002",
+            "en_US": [
+                "Oh? You can only have six Pokémon\n",
+                "at a time with you, that's all.{VAR BE01}\n",
+                "If you want this Pokémon, you'll have\n",
+                "to store one of your others in the PC{VAR BE00}\n",
+                "at the Pokémon Center."
+            ]
+        },
+        {
+            "id": "a003_160_0003",
+            "en_US": [
+                "My, my. If you want it, come back and\n",
+                "talk to me again, OK?"
+            ]
+        },
+        {
+            "id": "a003_160_0004",
+            "en_US": [
+                "OK. Here you go!{VAR BE01}\n",
+                "It can use Fire-type moves, so that\n",
+                "makes it hot against Grass types!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0005",
+            "en_US": [
+                "OK. Here you go!{VAR BE01}\n",
+                "It can use Water-type moves, so that\n",
+                "makes it cool against Fire types!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0006",
+            "en_US": [
+                "OK. Here you go!{VAR BE01}\n",
+                "It can use Grass-type moves, so that\n",
+                "makes it great against Water types!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0007",
+            "en_US": "{VAR 0100 0000} received {VAR 0101 0001}!"
+        },
+        {
+            "id": "a003_160_0008",
+            "en_US": [
+                "Give a nickname to the {VAR 0101 0001}\n",
+                "you received?"
+            ]
+        },
+        {
+            "id": "a003_160_0009",
+            "en_US": [
+                "If you have many types of Pokémon,\n",
+                "something will work out, no matter{VAR BE00}\n",
+                "what kind of Pokémon you have to face."
+            ]
+        },
+        {
+            "id": "a003_160_0010",
+            "en_US": [
+                "Bianca: Hi, {VAR 0100 0000}! Are you looking\n",
+                "for the mysterious Pokémon, too?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0011",
+            "en_US": [
+                "Bianca: I'm just really, really wondering\n",
+                "how showing dreams works..."
+            ]
+        },
+        {
+            "id": "a003_160_0012",
+            "en_US": [
+                "Bianca: Hey!{VAR BE01}\n",
+                "Did you hear a sound coming\n",
+                "from the other side of that wall?{VAR BE01}\n",
+                "Come on! Let's go see!"
+            ]
+        },
+        {
+            "id": "a003_160_0013",
+            "en_US": "Muuuun..."
+        },
+        {
+            "id": "a003_160_0014",
+            "en_US": "Bianca: Oh! Wait!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0015",
+            "en_US": "???: We found you, Munna!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0016",
+            "en_US": [
+                "???: Come on! Come on!\n",
+                "Make some Dream Mist!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0017",
+            "en_US": "Munna: ...Mu!"
+        },
+        {
+            "id": "a003_160_0018",
+            "en_US": [
+                "Bianca: Huh?{VAR BE01}\n",
+                "Who are you?!{VAR BE01}\n",
+                "What are you doing?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0019",
+            "en_US": [
+                "???: Are you talking about us?\n",
+                "We're Team Plasma.{VAR BE01}\n",
+                "We battle day and night to liberate\n",
+                "Pokémon from foolish humans!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0020",
+            "en_US": [
+                "Team Plasma: What are we doing?{VAR BE01}\n",
+                "The Pokémon Munna and Musharna\n",
+                "emit a mysterious vapor called{VAR BE00}\n",
+                "Dream Mist, which shows people's dreams.{VAR BE01}\n",
+                "We're going to use that to make people\n",
+                "want to release their Pokémon...{VAR BE01}\n",
+                "We'll show them dreams\n",
+                "to manipulate their hearts.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0021",
+            "en_US": "Munna: Mu... Naa..."
+        },
+        {
+            "id": "a003_160_0022",
+            "en_US": [
+                "Team Plasma: Come on!\n",
+                "Spit out that Dream Mist!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0023",
+            "en_US": [
+                "Bianca: You're kicking a Pokémon\n",
+                "to make it give off Dream Mist?{VAR BE01}\n",
+                "That's mean! Why?\n",
+                "You're Trainers too, right?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0024",
+            "en_US": [
+                "Team Plasma: That's right.{VAR BE01}\n",
+                "We're Pokémon Trainers too, but\n",
+                "we're fighting for a different reason.{VAR BE01}\n",
+                "Unlike you two, we're fighting for\n",
+                "the freedom of Pokémon!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0025",
+            "en_US": [
+                "Team Plasma: And setting Pokémon free\n",
+                "means that we win Pokémon battles and{VAR BE00}\n",
+                "take Pokémon by force!{VAR BE01}\n",
+                "So, on that note, we are going to rescue\n",
+                "your Pokémon from you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0026",
+            "en_US": [
+                "Bianca: Whaaat!\n",
+                "Don't hurt {VAR 0100 0000}!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0027",
+            "en_US": [
+                "Team Plasma: Were you not taking them\n",
+                "seriously because they're kids?{VAR BE01}\n",
+                "Well, whatever, I'm next!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0028",
+            "en_US": [
+                "Team Plasma: ...I can't\n",
+                "believe we lost!{VAR BE01}\n",
+                "But we have to \n",
+                "obtain the Dream Mist!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0029",
+            "en_US": [
+                "Come on!\n",
+                "Make with the Dream Mist!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0030",
+            "en_US": "Bianca: Knock it off!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0031",
+            "en_US": [
+                "Ghetsis: What are you two doing\n",
+                "goofing off?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0032",
+            "en_US": [
+                "Ghetsis: We, Team Plasma,\n",
+                "shall separate Pokémon{VAR BE00}\n",
+                "from foolish people!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0033",
+            "en_US": [
+                "Ghetsis: If you cannot\n",
+                "fulfill your duties...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0034",
+            "en_US": [
+                "Team Plasma: T-this isn't...{VAR BE01}\n",
+                "Ghetsis when he is gathering followers...\n",
+                "Or Ghetsis when he is trying{VAR BE00}\n",
+                "to control people by tricking them{VAR BE00}\n",
+                "with speeches!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0035",
+            "en_US": [
+                "Team Plasma: Yeah...{VAR BE01}\n",
+                "This is Ghetsis when a plan has failed,\n",
+                "and he is about to issue punishment...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0036",
+            "en_US": [
+                "Team Plasma: At any rate, let's hurry\n",
+                "and say we're sorry so he forgives us!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0037",
+            "en_US": "???: Shaaar!"
+        },
+        {
+            "id": "a003_160_0038",
+            "en_US": [
+                "Bianca: ...What was that just now?{VAR BE01}\n",
+                "That person called Ghetsis\n",
+                "appeared all over the place, and{VAR BE00}\n",
+                "it wasn't real, right?!{VAR BE01}\n",
+                "...Could it have been a dream?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0039",
+            "en_US": "And that Pokémon...{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0040",
+            "en_US": "Oh!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0041",
+            "en_US": [
+                "Fennel: I couldn't wait, so I came over!{VAR BE01}\n",
+                "...Is that Musharna?!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0042",
+            "en_US": "Musharna: Musha?"
+        },
+        {
+            "id": "a003_160_0043",
+            "en_US": "Munna: Munii!"
+        },
+        {
+            "id": "a003_160_0044",
+            "en_US": "Fennel: Did something happen?{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0045",
+            "en_US": [
+                "Bianca: Oh, Fennel.{VAR BE01}\n",
+                "Well, you see, Munna was here...\n",
+                "But Team Plasma and Munna...{VAR BE01}\n",
+                "And Musharna came...\n",
+                "And it showed us something like a dream?{VAR BE00}\n",
+                "And then, Team Plasma...{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0046",
+            "en_US": [
+                "Fennel: I think I followed that...{VAR BE01}\n",
+                "See, Musharna evolves from Munna.\n",
+                "So, seeing Munna in trouble, it{VAR BE00}\n",
+                "used its power--making dreams{VAR BE00}\n",
+                "into reality--to save Munna.{VAR BE01}\n",
+                "Which means...wait a second!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0047",
+            "en_US": "Is this Dream Mist?!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0048",
+            "en_US": [
+                "With this, I can complete my research!\n",
+                "You two come to my house later, OK?{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0049",
+            "en_US": [
+                "Bianca: Phew. How random was that?{VAR BE01}\n",
+                "{VAR 0100 0000}, why don't you go\n",
+                "to Fennel's house?{VAR BE01}\n",
+                "Me? Well, I'm going to go look\n",
+                "for the Pokémon we saw just now.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0050",
+            "en_US": [
+                "Bianca: {VAR 0100 0000}, why don't you go\n",
+                "to Fennel's house?{VAR BE01}\n",
+                "Me? Well, I'm going to go look\n",
+                "for the Pokémon we saw just now."
+            ]
+        },
+        {
+            "id": "a003_160_0051",
+            "en_US": "Gorm: Boo!{VAR BE01}"
+        },
+        {
+            "id": "a003_160_0052",
+            "en_US": [
+                "Were you surprised?{VAR BE01}\n",
+                "Oh, Trainer-who-destroyed-our-castle,\n",
+                "I was quite surprised by you!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0053",
+            "en_US": [
+                "If you surprise them, both Pokémon\n",
+                "and people leave themselves open.{VAR BE01}\n",
+                "While they're in a state of surprise,\n",
+                "they can't use their powers{VAR BE00}\n",
+                "like they normally would.{VAR BE01}\n",
+                "Our intention was to surprise people\n",
+                "by making our castle appear and{VAR BE00}\n",
+                "showing off the legendary Pokémon...{VAR BE01}\n",
+                "At that moment, we planned to deeply\n",
+                "impress people's hearts with the{VAR BE00}\n",
+                "awesome power of Team Plasma{VAR BE00}\n",
+                "and the brilliance of our new world.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0054",
+            "en_US": [
+                "Now that I've seen the strength of\n",
+                "spirit in you and the Gym Leaders,{VAR BE00}\n",
+                "I wonder how effective that strategy{VAR BE00}\n",
+                "would have been, after all.{VAR BE01}\n",
+                "Maybe that strength of spirit\n",
+                "is what's needed to take Pokémon{VAR BE00}\n",
+                "to the next level?{VAR BE01}\n",
+                "Hm... I'm sorry to have wasted your time\n",
+                "with this silly conversation.{VAR BE00}\n",
+                "Take this with you.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0055",
+            "en_US": [
+                "Gorm: My lord N's dream...\n",
+                "You were the one who put a stop to that.{VAR BE00}\n",
+                "Please don't ever forget that.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0056",
+            "en_US": [
+                "Looker: Ah... And now,\n",
+                "about Team Plasma...{VAR BE01}\n",
+                "I am an officer of the\n",
+                "International Police, and there are so{VAR BE00}\n",
+                "many things you must tell me at once!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0057",
+            "en_US": [
+                "Gorm: Musharna is said to appear here.{VAR BE01}\n",
+                "Its Dream Mist makes you see dreams,\n",
+                "but they are nothing but illusions.{VAR BE01}\n",
+                "The dreams you realize with your\n",
+                "own abilities are the real dreams.{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0058",
+            "en_US": [
+                "Looker: Accept my thanks!{VAR BE01}\n",
+                "Now, Ghetsis notwithstanding,\n",
+                "there yet remains but {VAR 0200 0000} of the{VAR BE00}\n",
+                "Seven Sages still at large.{VAR BE01}\n",
+                "What it is they are thinking,\n",
+                "what it may be they are hoping,{VAR BE00}\n",
+                "this is the information I pursue.{VAR BE00}\n",
+                "Until we meet again!{VAR BE01}"
+            ]
+        },
+        {
+            "id": "a003_160_0059",
+            "en_US": [
+                "Looker: A thousand thanks!{VAR BE01}\n",
+                "Eh, {VAR 0100 0000}...\n",
+                "On a topic I must speak to you.{VAR BE01}\n",
+                "Having received such a report, of\n",
+                "someone far from here, who has seen{VAR BE00}\n",
+                "a person like N and...a dragon Pokémon.{VAR BE01}\n",
+                "I am on my way to ascertain the\n",
+                "certainty of this information.{VAR BE00}\n",
+                "We will meet again one day!{VAR BE01}"
+            ]
+        }
+    ]
+}
